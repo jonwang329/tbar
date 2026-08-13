@@ -12,10 +12,14 @@ const tag = (block, name) => {
 };
 
 export function parseSitemap(xml) {
-  return [...String(xml).matchAll(/<url\b[\s\S]*?<\/url>/gi)].map(m => ({
+  const text = String(xml);
+  const urls = [...text.matchAll(/<url\b[\s\S]*?<\/url>/gi)].map(m => ({
     url: tag(m[0], 'loc'),
     lastmod: tag(m[0], 'lastmod') || null
   })).filter(x => x.url);
+  const sitemaps = [...text.matchAll(/<sitemap\b[\s\S]*?<\/sitemap>/gi)]
+    .map(m => tag(m[0], 'loc')).filter(Boolean);
+  return { urls, sitemaps };
 }
 
 export function filterSitemapEntries(entries, source) {

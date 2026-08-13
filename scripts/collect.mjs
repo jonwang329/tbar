@@ -66,6 +66,7 @@ function toCandidate(item, source, previous, now) {
   const scores = scoreCandidate({ ...item, publishedAt }, source, now);
   return {
     id: `cand_${hash(`${source.id}|${url}`)}`,
+    sourceLastModified: item.lastmod || null,
     sourceId: source.id,
     sourceName: source.name,
     sourceKind: source.kind,
@@ -89,7 +90,17 @@ async function collectRss(source, previous, now) {
 
 async function collectSitemap(source, previous, now) {
   const xml = await fetchText(source.feedUrl || source.url);
-  const entries = filterSitemapEntries(parseSitemap(xml), source)
+  const root = parseSitemap(xml);
+  let sitemapEntries = [...root.urls];
+  for (const childUrl of root.sitemaps.slice(0, 12)) {
+    try {
+      const child = parseSitemap(await fetchText(childUrl));
+      sitemapEntries.push(...child.urls);
+    } catch (error) {
+      console.warn(`  child sitemap failed ${childUrl}: ${error}`);
+    }
+  }
+  const entries = filterSitemapEntries(sitemapEntries, source)
     .sort((a, b) => String(b.lastmod || '').localeCompare(String(a.lastmod || '')))
     .slice(0, MAX_ITEMS_PER_SOURCE);
 
@@ -135,7 +146,14 @@ for (const source of SOURCE_REGISTRY.filter(s => ['rss','sitemap'].includes(s.ad
   }
 }
 
-const byUrl = new Map();
+const previousOutput = await loadJson(CANDIDATES_URL, null);
+const keepAfter = now.getTime() - 7 * 24 * 60 * 60 * 1000;
+const carriedForward = (previousOutput?.candidates || []).filter(item => {
+  const published = new Date(item.publishedAt).getTime();
+  return Number.isFinite(published) && published >= keepAfter;
+});
+
+const byUrl = new Map(carriedForward.map(item => [item.url, item]));
 for (const candidate of all) {
   const current = byUrl.get(candidate.url);
   if (!current || candidate.sourceQualityScore > current.sourceQualityScore) byUrl.set(candidate.url, candidate);
@@ -151,12 +169,12 @@ for (const item of candidates) itemState[item.url] = {
   description: item.description,
   publishedAt: item.publishedAt,
   discoveredAt: item.discoveredAt,
-  lastSeenAt: item.lastSeenAt
+  lastSeenAt: item.lastSeenAt,
+  lastmod: item.sourceLastModified
 };
 
 const stableCandidates = candidates.map(({ lastSeenAt, ...item }) => item);
 const newOutput = { version: 2, updatedAt: now.toISOString(), candidates: stableCandidates };
-const previousOutput = await loadJson(CANDIDATES_URL, null);
 const comparable = value => JSON.stringify(value?.candidates || []);
 const dataChanged = comparable(previousOutput) !== comparable(newOutput);
 

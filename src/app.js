@@ -17,7 +17,7 @@ function render(brief,{live=false,updatedAt=null}={}){
 
 async function loadLive(){
   try{
-    const response=await fetch('/data/candidates.json',{cache:'no-store'});
+    const response=await fetch('./public/data/candidates.json',{cache:'no-store'});
     if(!response.ok)throw new Error(`${response.status} ${response.statusText}`);
     const data=await response.json();
     const queue=buildReviewQueue(data.candidates||[],data.updatedAt||new Date().toISOString());
@@ -29,4 +29,4 @@ async function loadLive(){
 }
 
 loadLive();
-if('serviceWorker' in navigator) window.addEventListener('load',()=>navigator.serviceWorker.register('/sw.js').catch(console.error));
+if('serviceWorker' in navigator) window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(console.error));

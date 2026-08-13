@@ -1,0 +1,11 @@
+{
+  "name": "tbar",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "collect": "node scripts/collect.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

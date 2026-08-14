@@ -567,6 +567,7 @@
       "description": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
       "publishedAt": "2026-08-07T03:05:42.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-08-07T03:05:42.000Z"
     },
     "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list": {
@@ -575,7 +576,7 @@
       "description": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences […]",
       "publishedAt": "Thu, 06 Aug 2026 13:00:11 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/open-world-models-physical-ai": {
@@ -584,7 +585,7 @@
       "description": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
       "publishedAt": "Thu, 06 Aug 2026 13:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/tino-cuellar": {
@@ -593,7 +594,7 @@
       "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
       "publishedAt": "2026-08-04T17:40:15.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-08-04T17:40:15.000Z"
     },
     "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program": {
@@ -602,7 +603,7 @@
       "description": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education.",
       "publishedAt": "Tue, 04 Aug 2026 17:30:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available": {
@@ -611,7 +612,7 @@
       "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and […]",
       "publishedAt": "Tue, 04 Aug 2026 15:00:49 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/ai-storage-fms": {
@@ -620,7 +621,7 @@
       "description": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
       "publishedAt": "Tue, 04 Aug 2026 15:00:47 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions": {
@@ -629,7 +630,7 @@
       "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
       "publishedAt": "Tue, 04 Aug 2026 13:00:47 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/claude-for-nonprofits": {
@@ -638,7 +639,7 @@
       "description": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits.",
       "publishedAt": "2026-08-03T16:00:43.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-08-03T16:00:43.000Z"
     },
     "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
@@ -647,7 +648,7 @@
       "description": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.",
       "publishedAt": "2026-08-03T14:36:32.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-08-03T14:36:32.000Z"
     },
     "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots": {
@@ -664,7 +665,7 @@
       "description": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign Evolved, as GeForce NOW is bringing one […]",
       "publishedAt": "Thu, 30 Jul 2026 13:00:20 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://deepmind.google/blog": {
@@ -681,7 +682,7 @@
       "description": "NVIDIA will host a conference call on Wednesday, August 26, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2027, which ended July 26, 2026.",
       "publishedAt": "Wed, 29 Jul 2026 21:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/position-open-weights-models": {
@@ -690,7 +691,7 @@
       "description": "Anthropic CEO Dario Amodei on open-weights models",
       "publishedAt": "2026-07-28T15:25:50.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-28T15:25:50.000Z"
     },
     "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson": {
@@ -699,7 +700,7 @@
       "description": "Anyone can make a robot move; NVIDIA Jetson makes it think. As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI […]",
       "publishedAt": "Tue, 28 Jul 2026 15:00:19 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/cognizant-anthropic": {
@@ -708,7 +709,7 @@
       "description": "Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.",
       "publishedAt": "2026-07-27T15:34:00.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-27T15:34:00.000Z"
     },
     "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership": {
@@ -717,7 +718,7 @@
       "description": "Safe Superintelligence Inc. (SSI) and NVIDIA today announced a long-term partnership to rapidly accelerate SSI’s strategic growth...",
       "publishedAt": "Mon, 27 Jul 2026 13:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/open-secure-ai-alliance": {
@@ -726,7 +727,7 @@
       "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
       "publishedAt": "Mon, 27 Jul 2026 09:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/vera-cpu-eda": {
@@ -735,7 +736,7 @@
       "description": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]",
       "publishedAt": "Mon, 27 Jul 2026 00:45:42 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": null
     },
     "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds": {
@@ -753,7 +754,7 @@
       "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
       "publishedAt": "2026-07-25T02:03:36.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-25T02:03:36.000Z"
     },
     "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
@@ -762,7 +763,7 @@
       "description": "",
       "publishedAt": "2026-07-24T18:46:48.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-24T18:46:48.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-7": {
@@ -771,7 +772,7 @@
       "description": "",
       "publishedAt": "2026-07-23T04:19:56.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-23T04:19:56.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-5": {
@@ -780,7 +781,7 @@
       "description": "",
       "publishedAt": "2026-07-23T04:09:31.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-23T04:09:31.000Z"
     },
     "https://deepmind.google/blog/google-deepmind-at-iclr-2024": {
@@ -789,7 +790,7 @@
       "description": "",
       "publishedAt": "2026-07-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-23"
     },
     "https://deepmind.google/blog/our-approach-to-bioresilience": {
@@ -798,7 +799,7 @@
       "description": "",
       "publishedAt": "2026-07-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-23"
     },
     "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber": {
@@ -807,7 +808,7 @@
       "description": "",
       "publishedAt": "2026-07-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-23"
     },
     "https://www.anthropic.com/news/anthropic-economic-index-connector": {
@@ -816,7 +817,7 @@
       "description": "",
       "publishedAt": "2026-07-22T17:35:48.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T17:35:48.000Z"
     },
     "https://www.anthropic.com/news/donation-public-first-action": {
@@ -825,7 +826,7 @@
       "description": "",
       "publishedAt": "2026-07-22T10:14:58.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T10:14:58.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-8": {
@@ -834,7 +835,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:28:45.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T01:28:45.000Z"
     },
     "https://www.anthropic.com/news/skills": {
@@ -843,7 +844,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:16:15.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T01:16:15.000Z"
     },
     "https://www.anthropic.com/news/claude-sonnet-4-5": {
@@ -852,7 +853,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:13:43.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T01:13:43.000Z"
     },
     "https://www.anthropic.com/news/claude-haiku-4-5": {
@@ -861,7 +862,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:05:15.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T01:05:15.000Z"
     },
     "https://www.anthropic.com/news/claude-design-anthropic-labs": {
@@ -870,7 +871,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:02:08.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T01:02:08.000Z"
     },
     "https://www.anthropic.com/news/claude-for-small-business": {
@@ -879,7 +880,7 @@
       "description": "",
       "publishedAt": "2026-07-22T00:59:47.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T00:59:47.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-6": {
@@ -888,7 +889,7 @@
       "description": "",
       "publishedAt": "2026-07-22T00:06:14.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-22T00:06:14.000Z"
     },
     "https://www.anthropic.com/news/claude-sonnet-4-6": {
@@ -897,7 +898,7 @@
       "description": "",
       "publishedAt": "2026-07-21T23:52:43.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-21T23:52:43.000Z"
     },
     "https://www.anthropic.com/news/claude-for-teachers": {
@@ -906,7 +907,7 @@
       "description": "",
       "publishedAt": "2026-07-21T23:43:25.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-21T23:43:25.000Z"
     },
     "https://www.anthropic.com/news/rare-disease-research-grants": {
@@ -915,7 +916,7 @@
       "description": "",
       "publishedAt": "2026-07-20T17:36:28.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-20T17:36:28.000Z"
     },
     "https://www.anthropic.com/news/introducing-claude-tag": {
@@ -924,7 +925,7 @@
       "description": "",
       "publishedAt": "2026-07-15T22:12:10.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-15T22:12:10.000Z"
     },
     "https://www.anthropic.com/news/finance-agents": {
@@ -933,7 +934,7 @@
       "description": "",
       "publishedAt": "2026-07-15T21:16:19.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-15T21:16:19.000Z"
     },
     "https://www.anthropic.com/news/canadian-ai-research": {
@@ -942,7 +943,7 @@
       "description": "",
       "publishedAt": "2026-07-15T09:21:26.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-15T09:21:26.000Z"
     },
     "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi": {
@@ -951,7 +952,7 @@
       "description": "",
       "publishedAt": "2026-07-14",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-14"
     },
     "https://www.anthropic.com/news/claude-for-creative-work": {
@@ -960,7 +961,7 @@
       "description": "",
       "publishedAt": "2026-07-13T15:46:07.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-13T15:46:07.000Z"
     },
     "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand": {
@@ -969,7 +970,7 @@
       "description": "",
       "publishedAt": "2026-07-13T15:41:50.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-13T15:41:50.000Z"
     },
     "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security": {
@@ -978,7 +979,7 @@
       "description": "",
       "publishedAt": "2026-07-13",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-13"
     },
     "https://www.anthropic.com/news/ust-claude": {
@@ -987,7 +988,7 @@
       "description": "",
       "publishedAt": "2026-07-10T00:37:25.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-10T00:37:25.000Z"
     },
     "https://deepmind.google/blog/alphaevolve-impact": {
@@ -996,7 +997,7 @@
       "description": "",
       "publishedAt": "2026-07-10",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-10"
     },
     "https://www.anthropic.com/news/golden-gate-claude": {
@@ -1005,7 +1006,7 @@
       "description": "",
       "publishedAt": "2026-07-09T20:02:16.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-09T20:02:16.000Z"
     },
     "https://deepmind.google/blog/advancing-discovery-of-better-drugs-and-medicine": {
@@ -1014,7 +1015,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing": {
@@ -1023,7 +1024,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/advancing-geminis-security-safeguards": {
@@ -1032,7 +1033,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/accelerating-fusion-science-through-learned-plasma-control": {
@@ -1041,7 +1042,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/accelerating-the-race-against-antibiotic-resistance": {
@@ -1050,7 +1051,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases": {
@@ -1059,7 +1060,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/2017-deepminds-year-in-review": {
@@ -1068,7 +1069,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/advanced-machine-learning-helps-play-store-users-discover-personalised-apps": {
@@ -1077,7 +1078,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/active-offline-policy-selection": {
@@ -1086,7 +1087,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles": {
@@ -1095,7 +1096,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/advancing-sports-analytics-through-ai-research": {
@@ -1104,7 +1105,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/acme-a-new-framework-for-distributed-reinforcement-learning": {
@@ -1113,7 +1114,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past": {
@@ -1210,7 +1211,6 @@
       "description": "",
       "publishedAt": "2026-08-13T23:58:03.937Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:58:03.937Z"
     },
     "https://openai.com/index/endava-frontiers": {
@@ -1219,7 +1219,6 @@
       "description": "",
       "publishedAt": "2026-08-13T23:57:13.310Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:57:13.310Z"
     },
     "https://openai.com/index/creating-new-simulations-black-holes": {
@@ -1228,7 +1227,6 @@
       "description": "",
       "publishedAt": "2026-08-13T23:52:17.777Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:52:17.777Z"
     },
     "https://openai.com/index/steuerrecht": {
@@ -1237,7 +1235,6 @@
       "description": "",
       "publishedAt": "2026-08-13T23:42:39.742Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:42:39.742Z"
     },
     "https://openai.com/index/openai-grove": {
@@ -1246,7 +1243,6 @@
       "description": "",
       "publishedAt": "2026-08-13T23:39:34.449Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:39:34.449Z"
     },
     "https://openai.com/index/bbva-2025": {
@@ -1255,7 +1251,6 @@
       "description": "",
       "publishedAt": "2026-08-13T23:26:17.781Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:26:17.781Z"
     },
     "https://openai.com/index/virgin-atlantic-oliver-byers": {
@@ -1264,7 +1259,6 @@
       "description": "",
       "publishedAt": "2026-08-13T23:13:20.877Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:13:20.877Z"
     },
     "https://openai.com/index/cycling-across-antarctica": {
@@ -1273,39 +1267,119 @@
       "description": "",
       "publishedAt": "2026-08-13T23:09:21.635Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastSeenAt": "2026-08-14T00:02:00.209Z",
       "lastmod": "2026-08-13T23:09:21.635Z"
+    },
+    "https://openai.com/index/commonwealth-bank-of-australia": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/commonwealth-bank-of-australia",
+      "description": "",
+      "publishedAt": "2026-08-14T05:37:39.144Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T05:37:39.144Z"
+    },
+    "https://openai.com/index/lowes-chandhu-nair": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/lowes-chandhu-nair",
+      "description": "",
+      "publishedAt": "2026-08-14T04:24:11.699Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T04:24:11.699Z"
+    },
+    "https://openai.com/index/taisei": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/taisei",
+      "description": "",
+      "publishedAt": "2026-08-14T03:33:15.860Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T03:33:15.860Z"
+    },
+    "https://openai.com/index/plex-coffee": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/plex-coffee",
+      "description": "",
+      "publishedAt": "2026-08-14T03:25:21.555Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T03:25:21.555Z"
+    },
+    "https://openai.com/index/eneos-materials": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/eneos-materials",
+      "description": "",
+      "publishedAt": "2026-08-14T03:14:59.074Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T03:14:59.074Z"
+    },
+    "https://openai.com/index/mufg": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/mufg",
+      "description": "",
+      "publishedAt": "2026-08-14T01:41:16.995Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T01:41:16.995Z"
+    },
+    "https://openai.com/index/ntt-data": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/ntt-data",
+      "description": "",
+      "publishedAt": "2026-08-14T01:31:41.935Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T01:31:41.935Z"
+    },
+    "https://openai.com/index/indeed-maggie-hulce": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/indeed-maggie-hulce",
+      "description": "",
+      "publishedAt": "2026-08-14T00:19:39.580Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T00:19:39.580Z"
+    },
+    "https://openai.com/index/schoolai": {
+      "sourceId": "openai-news",
+      "title": "https://openai.com/index/schoolai",
+      "description": "",
+      "publishedAt": "2026-08-14T00:04:47.081Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-14T05:48:44.754Z",
+      "lastmod": "2026-08-14T00:04:47.081Z"
     }
   },
   "sourceStatus": {
     "openai-news": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-14T00:02:00.209Z",
+      "lastSuccessAt": "2026-08-14T05:48:44.754Z",
       "lastError": null
     },
     "anthropic-news": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-14T00:02:00.209Z",
+      "lastSuccessAt": "2026-08-14T05:48:44.754Z",
       "lastError": null
     },
     "deepmind-blog": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-14T00:02:00.209Z",
+      "lastSuccessAt": "2026-08-14T05:48:44.754Z",
       "lastError": null
     },
     "nvidia-news": {
       "status": "ok",
       "itemCount": 20,
-      "lastSuccessAt": "2026-08-14T00:02:00.209Z",
+      "lastSuccessAt": "2026-08-14T05:48:44.754Z",
       "lastError": null
     },
     "moda": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-14T00:02:00.209Z",
+      "lastSuccessAt": "2026-08-14T05:48:44.754Z",
       "lastError": null
     }
   }

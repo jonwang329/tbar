@@ -1,0 +1,5 @@
+/* Project Eddie V22 — clearer coach change acknowledgement */
+.changeAckBtn{min-width:118px;min-height:40px;padding:10px 16px!important;font-size:13px!important;font-weight:900!important;border-radius:10px!important;white-space:nowrap}
+.coachAlerts [data-ack],.coachAlerts #ackAll{min-height:40px;padding:9px 15px!important;font-size:12px!important;font-weight:900!important}
+.agg .status.timeChanged{background:#e9f6ed;color:#287543;border:1px solid #b9ddc4;font-weight:900;white-space:nowrap}
+@media(max-width:900px){.changeAckBtn{min-width:108px;min-height:42px;font-size:13px!important}.coachAlerts [data-ack],.coachAlerts #ackAll{min-height:42px}}

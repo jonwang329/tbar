@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Project Eddie V23 QA</title>
+<style>
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:#f5f7fb;color:#152238;margin:0;padding:24px}.wrap{max-width:880px;margin:auto}.card{background:#fff;border:1px solid #dfe5ee;border-radius:16px;padding:20px;box-shadow:0 8px 28px rgba(20,35,60,.06)}h1{margin:0 0 6px;font-size:26px}p{line-height:1.55;color:#5b687a}.btn{border:0;border-radius:10px;padding:13px 18px;font-weight:800;cursor:pointer;background:#1f5eff;color:#fff;font-size:15px}.status{margin-left:10px;font-weight:800}.list{margin-top:18px;display:grid;gap:8px}.row{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;border-radius:10px;background:#f7f9fc;border:1px solid #e7ebf2}.ok{background:#eef9f0;border-color:#c9e7cf}.bad{background:#fff1f1;border-color:#f0caca}.icon{font-weight:900;min-width:24px}.note{margin-top:14px;padding:12px;border-radius:10px;background:#fff8e8;color:#6f5721;font-size:13px}iframe{width:1px;height:1px;border:0;opacity:0;position:absolute;left:-9999px}
+</style>
+</head>
+<body><div class="wrap"><div class="card">
+<h1>Project Eddie V23 — Reserved Swap Pair QA</h1>
+<p>這個測試在隱藏的同源 iframe 內建立暫時測試資料，並把 <code>save()</code> 改成 no-op，所以<strong>不會寫入你的 localStorage</strong>，也不會改動 Coach / Student 現有資料。</p>
+<button class="btn" id="run">Run V23 QA</button><span class="status" id="summary">尚未執行</span>
+<div class="list" id="results"></div>
+<div class="note">核心情境：Jon Tue 17–18 ↔ Dinner Tue 18–19；Amy 即使是固定 19–20，也不能取得同一個 Dinner swap；其他學生永遠看不到 18–19 public availability。</div>
+<iframe id="sandbox" src="./?view=coach&v=23qa"></iframe>
+</div></div>
+<script>
+const frame=document.getElementById('sandbox'),run=document.getElementById('run'),results=document.getElementById('results'),summary=document.getElementById('summary');
+function row(ok,label,detail=''){const d=document.createElement('div');d.className='row '+(ok?'ok':'bad');d.innerHTML='<span class="icon">'+(ok?'✓':'✕')+'</span><div><b>'+label+'</b>'+(detail?'<div style="font-size:12px;margin-top:3px;color:#68758a">'+detail+'</div>':'')+'</div>';results.appendChild(d)}
+function ready(){try{return frame.contentWindow.eval('typeof FlexSwapV23!=="undefined" && typeof StudentModule!=="undefined"')}catch(e){return false}}
+async function ensureReady(){for(let i=0;i<50;i++){if(ready())return true;await new Promise(r=>setTimeout(r,100))}return false}
+run.onclick=async()=>{
+  run.disabled=true;results.innerHTML='';summary.textContent='執行中…';
+  if(!await ensureReady()){row(false,'測試環境載入失敗');summary.textContent='0 / 1';run.disabled=false;return}
+  const w=frame.contentWindow,tests=[];
+  try{
+    w.eval(`
+      save=function(){};
+      S={
+        students:[
+          {id:'jon',name:'Jon',mode:'fixed',sessions:1},
+          {id:'amy',name:'Amy',mode:'fixed',sessions:1},
+          {id:'kevin',name:'Kevin',mode:'free',sessions:1}
+        ],
+        holds:{},fixed:{jon:['1_17'],amy:['1_19']},bookings:{'1_17':{studentId:'jon'},'1_19':{studentId:'amy'}},
+        confirm:{jon:'confirmed',amy:'confirmed',kevin:'waiting'},line:{jon:{sent:true},amy:{sent:true},kevin:{sent:false}},
+        changes:{},drafts:{jon:[],amy:[],kevin:[]},notifications:[],weeklyOverrides:{},lastChange:{},flexPairs:[]
+      };
+      sel='jon';changeMode=false;changeFrom=null;
+      StudentModule.ensureAll();FlexSwapV23.prune();
+    `);
+    function t(label,expr,detail=''){let ok=false,err='';try{ok=!!w.eval(expr)}catch(e){err=e.message}tests.push({label,ok,detail:err||detail})}
+
+    t('Jon 可以建立 Tue 17–18 ↔ Dinner 18–19 的 recurring pair',`FlexSwapV23.enable('jon','1_17').ok===true`);
+    t('Pair 正確指向 Tue 18–19 Dinner',`(()=>{const p=FlexSwapV23.pairs('jon')[0];return p&&p.base==='1_17'&&p.dinner==='1_18'})()`);
+    t('Jon 的 private choices 同時包含 17–18 與 18–19',`(()=>{const a=choicesFor(byId('jon'));return a.includes('1_17')&&a.includes('1_18')})()`);
+    t('Amy 看不到 Jon 的 18–19 private swap',`!choicesFor(byId('amy')).includes('1_18')`);
+    t('同一天 Dinner 不能再授權給 Amy',`(()=>{const r=FlexSwapV23.enable('amy','1_19');return r.ok===false&&r.reason==='reserved'})()`);
+    t('Free-mode Kevin 也看不到 18–19 public availability',`!choicesFor(byId('kevin')).includes('1_18')`);
+    t('Jon 可從 17–18 即時交換到 18–19',`StudentModule.instantChange('jon','1_17','1_18').ok===true`);
+    t('交換後 Jon 確實 booking 在 18–19',`book('1_18')&&book('1_18').studentId==='jon'`);
+    t('交換後原 17–18 仍被 block，等同 Dinner 移到原時段',`FlexSwapV23.swappedThisWeek(FlexSwapV23.pairs('jon')[0])&&owner('1_17')==='jon'`);
+    t('Amy 的 live availability 不會吃到 Jon 原本 17–18 或 Dinner 18–19',`(()=>{const a=StudentModule.liveAvailability('amy','1_19');return !a.includes('1_17')&&!a.includes('1_18')})()`);
+    t('Jon 改課後 Coach notification 被建立',`S.notifications.some(n=>n.studentId==='jon'&&n.from==='1_17'&&n.to==='1_18'&&!n.seen)`);
+    t('Jon 可以再換回原本 17–18',`StudentModule.instantChange('jon','1_18','1_17').ok===true&&book('1_17')&&book('1_17').studentId==='jon'&&!book('1_18')`);
+
+    tests.forEach(x=>row(x.ok,x.label,x.detail));
+    const passed=tests.filter(x=>x.ok).length;summary.textContent=passed+' / '+tests.length+(passed===tests.length?' PASS':' CHECK');
+  }catch(e){row(false,'QA runner 發生錯誤',e.message);summary.textContent='ERROR'}
+  finally{
+    frame.src='./?view=coach&v=23qa-reset-'+Date.now();
+    run.disabled=false;
+  }
+};
+</script>
+</body></html>

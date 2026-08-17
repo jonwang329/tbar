@@ -1,7 +1,517 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T05:23:07.470Z",
+  "updatedAt": "2026-08-17T08:03:33.377Z",
   "candidates": [
+    {
+      "id": "cand_8a3d8625ca6443a21596",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9696495",
+      "title": "中東沒那麼重要了？美洲爭當石油霸主 增產潮至少延續到2027年 | 國際焦點 | 國際 | 經濟日報",
+      "description": "彭博資訊能源專欄作家布拉斯（Javier Blas）撰文指出，美洲石油產量快速攀升，正改變全球能源版圖。新增供應將抑制戰事帶來的油價上漲壓力，也可能吸引更多資金投入美洲油田開發。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_98f20b4efa3f15f1e04f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9696412",
+      "title": "私募信貸問題貸款攀升 2兆美元市場面臨近十年最大考驗 | 國際焦點 | 國際 | 經濟日報",
+      "description": "私募信貸投資組合壓力不斷升高，大型基金接連調降貸款估值，並警告問題放款增加，規模2兆美元的私募信貸市場正面臨近十年來最大考驗。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_17eaa744f335cc4d0343",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9696615",
+      "title": "投信先獲利入袋？7月來賣超最多 三大法人共買超291億元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股17日未能守住4萬6千點，收在45,857.27點，上漲46.26點，漲幅0.1%，成交量跌破1兆，為9,420.25億元，三大法人買超291.06億元。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_63ab8476e13cab9261ac",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9696570",
+      "title": "投資型助攻！壽險業前七月新契約保費衝9,296億元 年增近6成 | 金融脈動 | 金融 | 經濟日報",
+      "description": "壽險公會17日公布壽險業2026年前七月保費收入（含非保險合約），新契約、續年度與總保費收入持續維持正成長，其中新契約保費收入為9,296.29億元，年增59.3%；續年度保費10,030.19億元，年增6.6%；總保費收入19,326.48億元，年增26.7%。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ee981385fb378b5a7356",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9696615?from=edn_maintab_index",
+      "title": "投信先獲利入袋？7月來賣超最多 三大法人共買超291億元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股17日未能守住4萬6千點，收在45,857.27點，上漲46.26點，漲幅0.1%，成交量跌破1兆，為9,420.25億元，三大法人買超291.06億元。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a23ac13594632a35d045",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9696570?from=edn_maintab_index",
+      "title": "投資型助攻！壽險業前七月新契約保費衝9,296億元 年增近6成 | 金融脈動 | 金融 | 經濟日報",
+      "description": "壽險公會17日公布壽險業2026年前七月保費收入（含非保險合約），新契約、續年度與總保費收入持續維持正成長，其中新契約保費收入為9,296.29億元，年增59.3%；續年度保費10,030.19億元，年增6.6%；總保費收入19,326.48億元，年增26.7%。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_81d5d0e574f87cc933cb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696445?from=edn_maintab_index",
+      "title": "賴總統宣布：明年普發現金1萬元 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "賴清德總統17日上午第二次在總統府聽取行政院「116年度中央政府總預算案」簡報後表示，台灣憑藉長期累積的半導體、資通訊及製造供應鏈優勢，經濟成長率表現持續上修，可望創下39年以來新高紀錄。因此，116年度中央政府總預算將在歲入歲出平衡、實質零舉債的前提下，歲出增列2,357億元普發現金每人1萬元，讓「AI紅利，全民共享」。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_98fa3e6edb2455886f50",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9696378?from=edn_maintab_index",
+      "title": "台股收盤上漲46點 股后川湖漲停再創新天價 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股今（17）日收盤上漲46.26點，終場以45,857.27點作收，成交量9,420億元；台積電（2330）收盤價2,400元，上漲5元，漲幅0.21%。股后川湖（2059）今日更是再以漲停作收。",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8d0a3c6b05c5f6f70ae9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6710/9696004?from=edn_maintab_index",
+      "title": "親人過世留房產別急著辦繼承！很多人漏掉這細節登記先卡關 家人過世留下房屋、土地等財產，繼承人辦理繼承登記前，除了處理遺產稅，別漏掉最後的地方稅「查欠」程序。台中稅務局提醒，只要被繼承人生前還有房屋稅、地價稅，甚至使用牌照稅、娛樂稅等地方稅欠稅，都必須先繳清...",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_044c7077049bea9faae9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9696171?from=edn_maintab_index",
+      "title": "陳幸妤認賠殺出的台中豪宅又轉手、屋主狂賺2千萬 專家嘆「賤賣了」 實價揭露，前總統陳水扁女兒陳幸妤去年以8500萬元轉手，賠售250萬的台中豪宅，今年6月再度轉手，屋主以1.05億出脫，持有僅一年多，獲利2000萬元。 房仲表示，新買家持有短短一年，就有2000萬...",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e831d545e74474f11362",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5636/9695669?from=edn_newest_index",
+      "title": "遠東商銀獲臺北市《友善育兒績優事業獎》 2026-08-17 16:03",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d4aad394b5f5cc742c1f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5723/9695616?from=edn_newest_index",
+      "title": "智慧科技領航! 萬能科大航服系獲青發署補助 打造創新AI情境 2026-08-17 16:03",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_82aa1a7c34beeb2c826e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5723/9696484?from=edn_newest_index",
+      "title": "育達科大迎115學年度新生 推跨域學習打造新世代競爭力 2026-08-17 16:03",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_99c9a5b19648411a3f5d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5723/9696064?from=edn_newest_index",
+      "title": "崑大互樂系攜手產業推動AI教師培訓 42位學員再考取國際證照 2026-08-17 16:03",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d099eb7fc499f26b2c31",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5723/9695614?from=edn_newest_index",
+      "title": "大里高中科普闖關競賽營登場 2026-08-17 16:03",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7e1f58d311cea33be87",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696445?from=edn_hottest_index",
+      "title": "賴總統宣布：明年普發現金1萬元 11950",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_73fd6067e4c49785c471",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9695309?from=edn_hottest_index",
+      "title": "台塑四寶全年獲利拚攀峰 法人預估純益合計叩關2,400億元 6416",
+      "description": "",
+      "publishedAt": "2026-08-17T08:03:33.377Z",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_eb185b92c048d8f15f02",
       "sourceLastModified": null,
@@ -280,7 +790,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9695543?from=edn_hottest_index",
-      "title": "川普出手了 不滿南韓拒參與伊朗無核化 下令五角大廈縮減聯合軍演規模 6217",
+      "title": "川普出手了 不滿南韓拒參與伊朗無核化 下令五角大廈縮減聯合軍演規模 7382",
       "description": "",
       "publishedAt": "2026-08-17T05:23:07.470Z",
       "discoveredAt": "2026-08-17T05:23:07.470Z",
@@ -294,7 +804,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -444,7 +954,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -474,7 +984,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -504,7 +1014,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -564,7 +1074,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -894,7 +1404,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -970,7 +1480,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9695284?from=edn_hottest_index",
-      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 6388",
+      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 7584",
       "description": "",
       "publishedAt": "2026-08-17T03:29:13.427Z",
       "discoveredAt": "2026-08-17T03:29:13.427Z",
@@ -984,7 +1494,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1044,7 +1554,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1074,7 +1584,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1104,7 +1614,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1134,7 +1644,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1164,7 +1674,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1194,7 +1704,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1223,7 +1733,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1252,7 +1762,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1281,7 +1791,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1310,7 +1820,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1339,7 +1849,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1368,7 +1878,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1397,7 +1907,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1426,7 +1936,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1454,7 +1964,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1482,7 +1992,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1510,7 +2020,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1706,7 +2216,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1863,6 +2373,35 @@
       "description": "香蕉該吃綠的還是黃的？不同成熟度的香蕉，糖分、抗性澱粉、纖維與抗氧化物都不同。營養師解析5種香蕉熟度差異，想控血糖、運動補能量或做果昔，各有更適合的選擇。",
       "publishedAt": "2026-08-14T16:51:28+08:00",
       "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b2e9e5db88601bf04902",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022032",
+      "title": "2026大稻埕煙火8/15壓軸場！幾點放？最佳觀賞點、無人機、交管一次看－活動旅遊全攻略｜商周",
+      "description": "2026大稻埕煙火只剩8月15日壓軸場，晚間8時登場，蜘蛛人無人機結合8分鐘主題煙火、全長20分鐘。觀傳局建議從3號或5號水門進場，往4號水門舞台前草地觀賞，現場另有七夕限定彩蛋。本文整理8月15日煙",
+      "publishedAt": "2026-08-14T15:27:13+08:00",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
       "topics": [
         "Taiwan business",
         "AI",
@@ -2636,6 +3175,35 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0a1223476ac1e96bc534",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022232",
+      "title": "2026新北河海音樂季8/15淡水開唱！卡司、節目表、煙火、交通全攻略－活動旅遊全攻略｜商周",
+      "description": "2026新北市河海音樂季淡水場將於8月15日、16日在淡水漁人舞台登場，集結Crispy脆樂團、怕胖團等10組樂團接力開唱，8月16日還有七夕煙火加碼施放，活動全程免費入場！本文整理音樂季時間、地點、",
+      "publishedAt": "2026-08-13T17:18:03+08:00",
+      "discoveredAt": "2026-08-17T08:03:33.377Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -4515,519 +5083,6 @@
         "research",
         "models",
         "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_01d1deb24a50d20c611f",
-      "sourceLastModified": "2026-07-23",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
-      "title": "Introducing Gemini 3.5 Flash Cyber — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-07-23",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_51f761d22cf6d13c00dc",
-      "sourceLastModified": "2026-07-22T17:35:48.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "title": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "description": "",
-      "publishedAt": "2026-07-22T17:35:48.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f2a7e84fdecb6f0ee9f7",
-      "sourceLastModified": "2026-07-22T10:14:58.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/donation-public-first-action",
-      "title": "https://www.anthropic.com/news/donation-public-first-action",
-      "description": "",
-      "publishedAt": "2026-07-22T10:14:58.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2508dc129711a492fc5b",
-      "sourceLastModified": "2026-07-22T01:28:45.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "title": "https://www.anthropic.com/news/claude-opus-4-8",
-      "description": "",
-      "publishedAt": "2026-07-22T01:28:45.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_51f5e9e1f3ce4f4f85da",
-      "sourceLastModified": "2026-07-22T01:16:15.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/skills",
-      "title": "https://www.anthropic.com/news/skills",
-      "description": "",
-      "publishedAt": "2026-07-22T01:16:15.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d7c79d4b6039cbe5f0cf",
-      "sourceLastModified": "2026-07-22T01:13:43.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
-      "title": "https://www.anthropic.com/news/claude-sonnet-4-5",
-      "description": "",
-      "publishedAt": "2026-07-22T01:13:43.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_889dd6aed02f88edbee1",
-      "sourceLastModified": "2026-07-22T01:05:15.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
-      "title": "https://www.anthropic.com/news/claude-haiku-4-5",
-      "description": "",
-      "publishedAt": "2026-07-22T01:05:15.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e77c08652c132d8211f8",
-      "sourceLastModified": "2026-07-22T01:02:08.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "title": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "description": "",
-      "publishedAt": "2026-07-22T01:02:08.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d2eda379ebc97cf5eb7",
-      "sourceLastModified": "2026-07-22T00:59:47.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "title": "https://www.anthropic.com/news/claude-for-small-business",
-      "description": "",
-      "publishedAt": "2026-07-22T00:59:47.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_db938f35a1ad7877c768",
-      "sourceLastModified": "2026-07-22T00:06:14.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-opus-4-6",
-      "title": "https://www.anthropic.com/news/claude-opus-4-6",
-      "description": "",
-      "publishedAt": "2026-07-22T00:06:14.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_72e8c94141a33ac64c23",
-      "sourceLastModified": "2026-07-21T23:52:43.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "title": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "description": "",
-      "publishedAt": "2026-07-21T23:52:43.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8410b16d35670eb8ca8c",
-      "sourceLastModified": "2026-07-21T23:43:25.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "title": "https://www.anthropic.com/news/claude-for-teachers",
-      "description": "",
-      "publishedAt": "2026-07-21T23:43:25.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_596765e02735eaabe397",
-      "sourceLastModified": "2026-07-20T17:36:28.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "title": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "description": "",
-      "publishedAt": "2026-07-20T17:36:28.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a3bcc98009d698a9f092",
-      "sourceLastModified": "2026-07-15T22:12:10.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "title": "https://www.anthropic.com/news/introducing-claude-tag",
-      "description": "",
-      "publishedAt": "2026-07-15T22:12:10.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d253596d347192fe6861",
-      "sourceLastModified": "2026-07-15T21:16:19.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "title": "https://www.anthropic.com/news/finance-agents",
-      "description": "",
-      "publishedAt": "2026-07-15T21:16:19.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_748fd56820cff2a76f29",
-      "sourceLastModified": "2026-07-15T09:21:26.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "title": "https://www.anthropic.com/news/canadian-ai-research",
-      "description": "",
-      "publishedAt": "2026-07-15T09:21:26.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6ebc9ba1070c6b1f861d",
-      "sourceLastModified": "2026-07-14",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-      "title": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-07-14",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_55c115a8e551b82fb9d8",
-      "sourceLastModified": "2026-07-13T15:46:07.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-for-creative-work",
-      "title": "https://www.anthropic.com/news/claude-for-creative-work",
-      "description": "",
-      "publishedAt": "2026-07-13T15:46:07.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3235842a66da467acfdd",
-      "sourceLastModified": "2026-07-13T15:41:50.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-      "title": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-      "description": "",
-      "publishedAt": "2026-07-13T15:41:50.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
       ],
       "countries": [],
       "freshnessScore": 10,

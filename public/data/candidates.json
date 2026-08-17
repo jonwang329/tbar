@@ -1,7 +1,1419 @@
 {
-  "version": 2,
-  "updatedAt": "2026-08-15T05:44:21.776Z",
+  "version": 3,
+  "updatedAt": "2026-08-17T03:29:13.427Z",
   "candidates": [
+    {
+      "id": "cand_fa7e077745bdb44e3683",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9695961",
+      "title": "貨櫃三雄第2季「雙率雙升」又進入旺季 萬海一度漲停亮燈 | 集中市場 | 證券 | 經濟日報",
+      "description": "台股高檔震盪，但貨櫃三雄持續走強，萬海（2615）盤中大漲逾9%，長榮（2603）、陽明海運（2609）上漲逾5%，其中長榮已成功填息。貨櫃三雄第2季財報毛利率、營益率都較第1季大幅增加，萬海第2季毛利率更來到30%，營益率將近26%，帶動每股純益（EPS）達4.11元。隨第3季進入傳統旺季，貨櫃三雄第3季營運有望持續成長。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_af12bb0567abe71679c1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9695954",
+      "title": "為何說住宅政策徹底崩了？學者點三件事：這群人恐慘到吃土 | 房市話題 | 房市 | 經濟日報",
+      "description": "賴政府住宅政策近來備受民間團體質疑，房產學者章定煊表示，從最近發生的三件事可看出，2016年以來的住宅政策，已經徹底崩了。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_501a516f375577bf0625",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9695930",
+      "title": "旺矽怎麼了？財報公布後天天跌 早盤跳空跌停摜破3條均線 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "旺矽（6223）第2季每股純益15.55元，改寫單季歷史新高，累計上半年歸屬母公司稅後純益27.51億元，年增103.5%，每股純益28.08元；但在財報公布後，股價卻是天天下跌，17日跳空以跌停5,800元開出，一口氣失守5日線及月線、季線，同時拖累穎崴及精測（6510）同步下挫。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_30248c4128e5f14e88eb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9695735",
+      "title": "桃園以南預售市場倒一片、高雄交易腰斬 看房價心涼了 | 房市話題 | 房市 | 經濟日報",
+      "description": "中信房屋研展室彙整六都實價登錄資料，今年上半年和去年同期比較，交易量部分，除了台北市量增4%，新北小減5%，其餘四都均減少二成以上，高雄交易量大減50%最多。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c3b2b9af35a3950845dc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9695961?from=edn_maintab_index",
+      "title": "貨櫃三雄第2季「雙率雙升」又進入旺季 萬海一度漲停亮燈 | 集中市場 | 證券 | 經濟日報",
+      "description": "台股高檔震盪，但貨櫃三雄持續走強，萬海（2615）盤中大漲逾9%，長榮（2603）、陽明海運（2609）上漲逾5%，其中長榮已成功填息。貨櫃三雄第2季財報毛利率、營益率都較第1季大幅增加，萬海第2季毛利率更來到30%，營益率將近26%，帶動每股純益（EPS）達4.11元。隨第3季進入傳統旺季，貨櫃三雄第3季營運有望持續成長。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6b5f9d09ee8ad18100fb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9695930?from=edn_maintab_index",
+      "title": "旺矽怎麼了？財報公布後天天跌 早盤跳空跌停摜破3條均線 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "旺矽（6223）第2季每股純益15.55元，改寫單季歷史新高，累計上半年歸屬母公司稅後純益27.51億元，年增103.5%，每股純益28.08元；但在財報公布後，股價卻是天天下跌，17日跳空以跌停5,800元開出，一口氣失守5日線及月線、季線，同時拖累穎崴及精測（6510）同步下挫。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c43ee414569b95e7e093",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9695824?from=edn_maintab_index",
+      "title": "7月獲利創新高 川湖盤中漲停、再現新天價 | 集中市場 | 證券 | 經濟日報",
+      "description": "伺服器滑軌廠川湖（2059）17日開盤便衝上漲停價13,750元，盤中漲停鎖死，再創新高價，該公司公告自結7月歸屬母公司淨利47.87億元，年增321%，7月每股稅後純益（EPS）達50.24元，大賺五個股本。加上今年上半年EPS達110.96元，川湖前七個月EPS高達161.2元。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3c27947feeac884bbebf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9695660?from=edn_maintab_index",
+      "title": "美股收黑無礙！台股再攻46K 大關 川湖又現跳空漲停 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美國7月零售銷售意外下滑，加上8月密西根大學消費者信心初值降至51，消費動能出現降溫訊號；另一方面，標普500指數連日創高後調節壓力升溫，美股主要指數上周五全面收黑，台股ADR同步偏弱，台積電（2330）ADR下跌0.96%。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_061ffe03a0a0e4a4c59c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9695686?from=edn_maintab_index",
+      "title": "美伊60天停火大限到！紐時曝白宮早知談不成協議 川普重回老路 紐約時報報導，美伊60天停火即將屆滿，白宮內部清楚無法在大限前敲定最終協議、限制伊朗核計畫。如今川普政府重走第一任期對付伊朗的老路，重新祭出石油制裁與海上封鎖施壓德黑蘭，戰事逐漸轉為經濟耐力戰，美...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d1971d973ab7d4951062",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9695542?from=edn_maintab_index",
+      "title": "本周開盤前 五件國際大事不可不知 國際油價周一開盤小漲，以色列再度攻擊黎巴嫩，停火協議預定周一正式到期前，美國可能對伊朗祭出新一輪制裁。 1. 國際油價續漲 全球基準布蘭特原油在亞洲早盤上漲0.5%；美元兌主要貨幣變動不大。標...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_06cc5db7b4bbf5d5d934",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9695284?from=edn_maintab_index",
+      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 最低工資月薪有望衝破30K。勞動部最快9月召開最低工資審議會，拍板明年最低工資，綜合考量K型經濟發展、改善低薪現象政策目標等，明年最低工資有望採高調幅，估將超過5%，將是連11漲。 今年最低工資月...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1f99a39f53dc739e9dd3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9695285?from=edn_maintab_index",
+      "title": "台股企業獲利法人上修 今年有望飆7.8兆元新高 助力大盤攻48K 上市櫃公司第2季獲利繳出2.03兆元、遠優於市場預期的數字後，掀起一波法人上修獲利潮，目前內、外資機構最新預估，今年上市櫃企業獲利有望來到7.2兆元，部分分析師喊出最高可達7.8兆元，再創新高，將成...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_58b72213108ad2cd5adf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9695290?from=edn_maintab_index",
+      "title": "輝達拍板新電力架構 電源雙雄台達電、光寶有望進補 輝達罕見在官網更新800VDC（800伏特直流）新世代AI資料中心電力架構技術發展路徑，並預告下半年起啟動，將透過混合式架構，把新一代機架級運算效能導入已建置並投入營運的設施。 輝達力推800VD...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_56357e5a4e217cf81bbd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9695292?from=edn_maintab_index",
+      "title": "磷化銦好缺 最大漲價潮來了 全新、聯亞、IET 等添動能 AI催動光通訊需求爆發，光通訊必備原料磷化銦（InP）基板與磊晶嚴重供不應求，第4季醞釀再漲價，漲幅將達一成以上，創史上最大漲幅，供應商直言「有錢也未必買得到」。磷化銦市場掀歷來最大漲價潮，全新、聯...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0b6ef346b1f33bab733e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696048?from=edn_newest_index",
+      "title": "多以政院版本為主 立院遺贈稅修法「大老婆條款」過初審 2026-08-17 11:26",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a9369bbce13c47eb1fff",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696044?from=edn_newest_index",
+      "title": "共有農地別人違規蓋房、鋪水泥 地主看這篇學三招自保 2026-08-17 11:26",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e7db44e1c09295b725f6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9696042?from=edn_newest_index",
+      "title": "開源模型崛起 AI 從技術競賽走向商業競賽 以三原則建構攻守兼備組合 2026-08-17 11:25",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6cfbbdcada51a56fbf63",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9696041?from=edn_newest_index",
+      "title": "欣興漲停衝1,120元、景碩逼近歷史新高！ABF 四雄齊揚 法人押寶誰？ 2026-08-17 11:25",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f3402af774937c110bdb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9696040?from=edn_newest_index",
+      "title": "Alphabet擬首發澳幣債 最長20年 科技巨擘AI籌資熱升溫 2026-08-17 11:25",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5d4e97754d231ccf4fc4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9695292?from=edn_hottest_index",
+      "title": "磷化銦好缺 最大漲價潮來了 全新、聯亞、IET 等添動能 2026-08-17 02:01",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5acbec523a5f13c85f8e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9694624?from=edn_hottest_index",
+      "title": "上周三大法人爆買 ETF 第一名是這檔、高達96萬張 主動式前十占一半 8840",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_057c50aae956027e5563",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9694970?from=edn_hottest_index",
+      "title": "美期中選舉逼近 過半選民：川普上台後日子更難過 5126",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_714f5e9c527ebc0d304f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9695284?from=edn_hottest_index",
+      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 5078",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fd4dbdd3c2b4cb423bb7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9694699?from=edn_hottest_index",
+      "title": "主動式 ETF 最近都在買誰？寶雅爆量奪冠、南亞富喬跟上 4713",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5e776bcc0cfc3c5d6f7a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9695205?from=edn_course_index",
+      "title": "陳錦稷 / 中信金融管理學院教授兼金融管理研究所所長 從國票金看金融機構盡職治理",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b25a4470c553d0b6ca32",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9690355?from=edn_course_index",
+      "title": "葉銀華 / 陽明交通大學資管與財金系教授 地緣政治風險下 全球資金流向",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_735a5959294130292bcb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9687918?from=edn_course_index",
+      "title": "劉佩真 / 台經院產經資料庫總監、APIAA院士 美韓AI世紀合作 敲響警鐘",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_db51bd571c19f5342a25",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9685666?from=edn_course_index",
+      "title": "盧希鵬 / 台灣科技大學資訊管理系專任特聘教授 人資新課題...不只管人，還要管 AI",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ebd57c5ec62b6730faeb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9683183?from=edn_course_index",
+      "title": "吳大任 / 台灣經濟發展研究中心研究員 中東戰爭推升美停滯性通膨風險",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5b8c08e9422a0d9e14f1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9680729?from=edn_course_index",
+      "title": "郝充仁 / 淡江大學保險系副教授 外溢保單經驗對全民健保的啟示",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e416369a3658f04abf37",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/bookshop/magazine/SubscribeMain?utm_source=bwcom_menubar",
+      "title": "商周Store-商業周刊雜誌、數位閱讀、暢銷書訂閱優惠，商周學院課程講座資訊",
+      "description": "商周出版暢銷書籍排行、商業周刊雜誌、講座課程活動資訊。搶先獲得商周store各項出刊書籍及促銷優惠訊息！商品聯購．立即訂閱周刊好優惠，掌握每一期商周話題。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_59ad29a1dff442f36f15",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://bwlearning.businessweekly.com.tw/ceo50",
+      "title": "商周CEO學院｜實戰更勝EMBA課程，培養頂尖領導人才",
+      "description": "傾聚商周資源，引領趨勢前端，以實戰為核心，搭建最有效率的共學平台。現有CEO領導學程、圓桌趨勢論壇、職場學、駐足思考青少年等課程",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1d4ac4d7c9bb5cddf01c",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/bwplus/landingpage",
+      "title": "下載商周Plus App－聽新聞、隨時跟上商業新動態Level Up！｜商業周刊",
+      "description": "產業報導、商業新聞App首選－商周Plus App全新上線！Level Up推出新功能：podcast主題音頻、人聲朗讀聽新聞、看文集商周點數，等超多會員專屬優惠等著你來探索。快下載「商周Plus App」為你連結知識、人脈－Always Level Up，持續進化，永不止息。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4169b36fce7fdfe45648",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022096",
+      "title": "BIGBANG台北大巨蛋演唱會8/17開賣！遠大售票時間、票價、座位圖、實名制規定一次看",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f279608f37e8851b42ca",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/business/indep/1006952",
+      "title": "迎接「財富效應」時代 滙豐私人銀行：陪伴台灣高資產客戶打造跨資產、跨世代長期價值",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ad0a7df22f7cbd26c41d",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/careers/blog/3022244",
+      "title": "30歲後，為什麼朋友越來越少？她的友誼15年不散，靠實踐3件事維持",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a78342c787d8cae16bb6",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/indep/1006949",
+      "title": "在奢華溫泉背後，泉月樓看不見的安全堅持",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_235d9c02fb254c6c2ead",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022239",
+      "title": "2026濱海搖滾音樂祭8/15登場！索票攻略、卡司陣容、時間表一次看",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-08-17",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-08-17",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-08-17",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-08-17",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-08-17",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-08-17",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2207336b709db2abd270",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/indep/1006960",
+      "title": "Cova 中秋獻禮「翡翠流光 玉兔映月」共譜團圓雅意 全新推出海鹽焦糖夏威夷豆口味月餅｜商周",
+      "description": "新東陽今年推出「千江月」禮盒，以「山水藏月 續留美味」為主題，兩款主打酥點都選用屏東萬丹紅豆與動物福利飼養的鴨蛋，把台灣在地的好滋味包進節慶心意，成為中秋商務送禮的體面之選。",
+      "publishedAt": "2026-08-17T00:00:00+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 82,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_468b0af521c0625a7029",
+      "sourceLastModified": "2026-08-16",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/1003",
+      "title": "Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Background Information",
+      "publishedAt": "2026-08-16",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ac7901ee2fee9fdb8fcf",
+      "sourceLastModified": "2026-08-16",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10035",
+      "title": "Interview with Kerry Brown｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Kerry Brown",
+      "publishedAt": "2026-08-16",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4f197f60dc6867029463",
+      "sourceLastModified": "2026-08-16",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10171",
+      "title": "Conversation with AmCham Taiwan｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Conversation with AmCham Taiwan",
+      "publishedAt": "2026-08-16",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7d43a0a03431d36035c",
+      "sourceLastModified": "2026-08-16",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10201",
+      "title": "Interview with Salzburger Nachrichten｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Salzburger Nachrichten",
+      "publishedAt": "2026-08-16",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6ae2203954c7936ebd19",
+      "sourceLastModified": "2026-08-16",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/11310",
+      "title": "Interview with Your Undivided Attention podcast｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Your Undivided Attention podcast",
+      "publishedAt": "2026-08-16",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_76c5a6f2044d862eb252",
+      "sourceLastModified": "2026-08-15T05:53:01.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "title": "How Claude&#x27;s text watermarking works",
+      "description": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+      "publishedAt": "2026-08-15T05:53:01.000Z",
+      "discoveredAt": "2026-08-14T20:05:11.073Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e580d2bc8269e3a84c4f",
       "sourceLastModified": "2026-08-14T22:16:20.333Z",
@@ -21,7 +1433,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -48,7 +1460,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -75,34 +1487,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_76c5a6f2044d862eb252",
-      "sourceLastModified": "2026-08-14T19:16:56.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "title": "How Claude&#x27;s text watermarking works",
-      "description": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
-      "publishedAt": "2026-08-14T19:16:56.000Z",
-      "discoveredAt": "2026-08-14T20:05:11.073Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -129,12 +1514,70 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0e1f4bd2e3c9e1352962",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/international/blog/3022242",
+      "title": "跟服務人員爭論、打電話而不是傳訊息…Z世代最受不了嬰兒潮的10個尷尬行為－商周頭條｜商周",
+      "description": "有些行為，在嬰兒潮世代看來是溫暖的關心，在Z世代眼中卻讓人坐立難安。",
+      "publishedAt": "2026-08-14T17:42:04+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_38d15967760d8e107286",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022240",
+      "title": "香蕉要吃綠的還是黃的？營養師解析5種熟度，想控血糖可選這種－良醫健康網｜商周",
+      "description": "香蕉該吃綠的還是黃的？不同成熟度的香蕉，糖分、抗性澱粉、纖維與抗氧化物都不同。營養師解析5種香蕉熟度差異，想控血糖、運動補能量或做果昔，各有更適合的選擇。",
+      "publishedAt": "2026-08-14T16:51:28+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -156,7 +1599,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -183,7 +1626,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -210,7 +1653,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -237,7 +1680,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -264,7 +1707,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -291,7 +1734,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -318,7 +1761,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -345,7 +1788,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -372,7 +1815,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -399,7 +1842,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -426,7 +1869,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -453,7 +1896,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -480,7 +1923,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -507,7 +1950,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -534,7 +1977,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -544,7 +1987,7 @@
     },
     {
       "id": "cand_26a95fae13f4c7142e61",
-      "sourceLastModified": "2026-08-13T23:58:03.937Z",
+      "sourceLastModified": "2026-08-14T09:03:32.424Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -561,7 +2004,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -588,7 +2031,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -615,7 +2058,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -642,7 +2085,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -652,7 +2095,7 @@
     },
     {
       "id": "cand_2bd7ccefe0890bcf307c",
-      "sourceLastModified": "2026-08-13T23:39:34.449Z",
+      "sourceLastModified": "2026-08-14T09:48:50.905Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -669,7 +2112,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -760,7 +2203,7 @@
     },
     {
       "id": "cand_671b4d287ffab7489af7",
-      "sourceLastModified": "2026-08-13T18:15:29.475Z",
+      "sourceLastModified": "2026-08-16T18:52:02.007Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -777,12 +2220,41 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4ef1964ae1f7c0b3a153",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022235",
+      "title": "2026淡水漁人碼頭煙火8/16登場！施放時間、5大觀賞點、交通管制一次看－活動旅遊全攻略｜商周",
+      "description": "2026「淡水漁人碼頭仲夏繽紛樂」煙火於8月16日、8月23日、8月30日晚上8時登場，原訂8月9日場次因白海豚颱風已延至8月30日。煙火秀每場10分鐘、施放逾1萬發12吋高空煙火，並首度結合河上燈光",
+      "publishedAt": "2026-08-13T22:05:51+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -804,7 +2276,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -814,7 +2286,7 @@
     },
     {
       "id": "cand_8077ed17159ee88c6393",
-      "sourceLastModified": "2026-08-13T12:04:39.032Z",
+      "sourceLastModified": "2026-08-15T11:51:50.638Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -831,7 +2303,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -841,7 +2313,7 @@
     },
     {
       "id": "cand_abc811515fd343dff3fc",
-      "sourceLastModified": "2026-08-13T12:02:08.048Z",
+      "sourceLastModified": "2026-08-14T16:12:04.445Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -858,7 +2330,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -868,7 +2340,7 @@
     },
     {
       "id": "cand_02916c8e0a35d5f78266",
-      "sourceLastModified": "2026-08-13T04:30:21.876Z",
+      "sourceLastModified": "2026-08-16T15:04:15.590Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -885,93 +2357,9 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e27de523feee15b7d83a",
-      "sourceLastModified": "2026-08-13",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/370",
-      "title": "News and Releases｜Ministry of Digital Affairs",
-      "description": "News and Releases",
-      "publishedAt": "2026-08-13",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0f5362a66eb2493d02c4",
-      "sourceLastModified": "2026-08-13",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/370",
-      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "公告訊息",
-      "publishedAt": "2026-08-13",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5ddaccf7d92a0019f0e",
-      "sourceLastModified": "2026-08-13",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/multimedia/1197",
-      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "多媒體專區",
-      "publishedAt": "2026-08-13",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
@@ -996,7 +2384,7 @@
         "science"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1023,7 +2411,7 @@
         "science"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1050,7 +2438,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1086,6 +2474,35 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_f61826bc0114429de90e",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022217",
+      "title": "想不起對方名字、忘記會議細節，心理學研究：你可能擁有「高效大腦」－科技新報 TechNews｜商周",
+      "description": "忘記人名或細節，不一定代表記憶力衰退，也可能是大腦主動篩選資訊，把資源留給重要內容。高效記憶往往是「抓大放小」，保留事情的核心概念，而非逐字記住所有細節，有助於推理與靈活運用知識。善用行事曆、提醒等工",
+      "publishedAt": "2026-08-12T16:48:29+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 10,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_8a3d5e0e20b824764a7c",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1104,7 +2521,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1131,7 +2548,7 @@
         "science"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1140,148 +2557,8 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_468b0af521c0625a7029",
-      "sourceLastModified": "2026-08-12",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/1003",
-      "title": "Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Background Information",
-      "publishedAt": "2026-08-12",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ac7901ee2fee9fdb8fcf",
-      "sourceLastModified": "2026-08-12",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/10035",
-      "title": "Interview with Kerry Brown｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Kerry Brown",
-      "publishedAt": "2026-08-12",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f197f60dc6867029463",
-      "sourceLastModified": "2026-08-12",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/10171",
-      "title": "Conversation with AmCham Taiwan｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Conversation with AmCham Taiwan",
-      "publishedAt": "2026-08-12",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c7d43a0a03431d36035c",
-      "sourceLastModified": "2026-08-12",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/10201",
-      "title": "Interview with Salzburger Nachrichten｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Salzburger Nachrichten",
-      "publishedAt": "2026-08-12",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6ae2203954c7936ebd19",
-      "sourceLastModified": "2026-08-12",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/11310",
-      "title": "Interview with Your Undivided Attention podcast｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Your Undivided Attention podcast",
-      "publishedAt": "2026-08-12",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_4a3bd974fe9f261ae0ff",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1299,7 +2576,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1309,7 +2586,7 @@
     },
     {
       "id": "cand_295ec1fa23ac30794d56",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1327,7 +2604,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1337,7 +2614,7 @@
     },
     {
       "id": "cand_16ed5f163b43980084a3",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1355,7 +2632,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1365,7 +2642,7 @@
     },
     {
       "id": "cand_dcfa3c42a82b3c179209",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1383,7 +2660,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1393,7 +2670,7 @@
     },
     {
       "id": "cand_eb4b0484a5a957de4201",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1411,7 +2688,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1421,7 +2698,7 @@
     },
     {
       "id": "cand_b46da8e2989d5b4a1f9d",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1439,7 +2716,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1449,7 +2726,7 @@
     },
     {
       "id": "cand_4f06ed031d310c23a37f",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1467,7 +2744,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1477,7 +2754,7 @@
     },
     {
       "id": "cand_d485926ae9c8c4e1c379",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1495,7 +2772,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1505,7 +2782,7 @@
     },
     {
       "id": "cand_46e8da3f03394244c718",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1523,7 +2800,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1533,7 +2810,7 @@
     },
     {
       "id": "cand_3c6f633bf9ed091008ab",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1551,7 +2828,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1561,7 +2838,7 @@
     },
     {
       "id": "cand_318834fad10b2adaa408",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1579,7 +2856,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1589,7 +2866,7 @@
     },
     {
       "id": "cand_ca1e71ebbf03e8cdefa8",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1607,7 +2884,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1617,7 +2894,7 @@
     },
     {
       "id": "cand_854946cdcb8a50ab5e04",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1635,7 +2912,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1645,7 +2922,7 @@
     },
     {
       "id": "cand_5ea429a9e920c2e909ae",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1663,7 +2940,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1673,7 +2950,7 @@
     },
     {
       "id": "cand_3a22e93906ce7fd5e504",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1691,7 +2968,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1701,7 +2978,7 @@
     },
     {
       "id": "cand_042dcd3a95eaa215f141",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1719,7 +2996,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1729,7 +3006,7 @@
     },
     {
       "id": "cand_636a1ba8e1a0145ff1d9",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1747,7 +3024,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1757,7 +3034,7 @@
     },
     {
       "id": "cand_20fc017820e80adceb45",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1775,7 +3052,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1785,7 +3062,7 @@
     },
     {
       "id": "cand_0f53ed3f5280d2ce24d3",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1803,7 +3080,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1813,7 +3090,7 @@
     },
     {
       "id": "cand_4994c4e49df5c58bf111",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1831,7 +3108,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1841,7 +3118,7 @@
     },
     {
       "id": "cand_6aec3eae26efaaa017cc",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1859,7 +3136,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1869,7 +3146,7 @@
     },
     {
       "id": "cand_2bf3b6e6eb041a707a4f",
-      "sourceLastModified": "2026-08-12",
+      "sourceLastModified": "2026-08-16",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1887,7 +3164,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1924,7 +3201,7 @@
     },
     {
       "id": "cand_d5bf33b459768dd34790",
-      "sourceLastModified": "2026-08-11T18:01:30.084Z",
+      "sourceLastModified": "2026-08-14T22:03:10.819Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1941,7 +3218,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1968,7 +3245,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -2022,7 +3299,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -2049,7 +3326,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2130,7 +3407,7 @@
         "science"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -2157,7 +3434,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -2184,7 +3461,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -3715,357 +4992,6 @@
       "title": "https://deepmind.google/blog/2017-deepminds-year-in-review",
       "description": "",
       "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c185b116898bdfa21289",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/advanced-machine-learning-helps-play-store-users-discover-personalised-apps",
-      "title": "https://deepmind.google/blog/advanced-machine-learning-helps-play-store-users-discover-personalised-apps",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_78070050973d1d1c5945",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/active-offline-policy-selection",
-      "title": "https://deepmind.google/blog/active-offline-policy-selection",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_51595cce71ee872745d4",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "title": "https://deepmind.google/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c349dd29e712a4215ad6",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/advancing-sports-analytics-through-ai-research",
-      "title": "https://deepmind.google/blog/advancing-sports-analytics-through-ai-research",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9cac757ff3fa907e7eba",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/acme-a-new-framework-for-distributed-reinforcement-learning",
-      "title": "https://deepmind.google/blog/acme-a-new-framework-for-distributed-reinforcement-learning",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_86ea54054970e7ea5726",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past",
-      "title": "https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_44bd6418cb6cb7693fc2",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad",
-      "title": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_263794c16b9dddb7dba1",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think",
-      "title": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dbb129e5e4e32f27b7a3",
-      "sourceLastModified": "2026-07-08",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms",
-      "title": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms",
-      "description": "",
-      "publishedAt": "2026-07-08",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6f4839a926af1b099eb4",
-      "sourceLastModified": "2026-07-07",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/creating-plastic-eating-enzymes-that-could-save-us-from-pollution",
-      "title": "https://deepmind.google/blog/creating-plastic-eating-enzymes-that-could-save-us-from-pollution",
-      "description": "",
-      "publishedAt": "2026-07-07",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_71f7eb3a3cf1888d7072",
-      "sourceLastModified": "2026-07-07",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models",
-      "title": "https://deepmind.google/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models",
-      "description": "",
-      "publishedAt": "2026-07-07",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2895e919af4f50b44c85",
-      "sourceLastModified": "2026-07-07",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/alphageometry-an-olympiad-level-ai-system-for-geometry",
-      "title": "https://deepmind.google/blog/alphageometry-an-olympiad-level-ai-system-for-geometry",
-      "description": "",
-      "publishedAt": "2026-07-07",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_985ece14701013a54fe4",
-      "sourceLastModified": "2026-07-07",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/computational-predictions-of-protein-structures-associated-with-covid-19",
-      "title": "https://deepmind.google/blog/computational-predictions-of-protein-structures-associated-with-covid-19",
-      "description": "",
-      "publishedAt": "2026-07-07",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
         "AI",

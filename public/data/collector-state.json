@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "items": {
     "https://openai.com/index/virgin-atlantic/chatgpt-work": {
       "sourceId": "openai-news",
@@ -7,7 +7,8 @@
       "description": "",
       "publishedAt": "2026-08-13T12:04:39.032Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-13T12:04:39.032Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-15T11:51:50.638Z"
     },
     "https://openai.com/index/ringcentral": {
       "sourceId": "openai-news",
@@ -15,7 +16,8 @@
       "description": "",
       "publishedAt": "2026-08-13T12:02:08.048Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-13T12:02:08.048Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-14T16:12:04.445Z"
     },
     "https://openai.com/index/zapier": {
       "sourceId": "openai-news",
@@ -23,31 +25,35 @@
       "description": "",
       "publishedAt": "2026-08-13T04:30:21.876Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-13T04:30:21.876Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16T15:04:15.590Z"
     },
     "https://moda.gov.tw/en/press/370": {
       "sourceId": "moda",
       "title": "News and Releases｜Ministry of Digital Affairs",
       "description": "News and Releases",
-      "publishedAt": "2026-08-13",
+      "publishedAt": "2026-08-17",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-13"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-17"
     },
     "https://moda.gov.tw/press/370": {
       "sourceId": "moda",
       "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
       "description": "公告訊息",
-      "publishedAt": "2026-08-13",
+      "publishedAt": "2026-08-17",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-13"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-17"
     },
     "https://moda.gov.tw/press/multimedia/1197": {
       "sourceId": "moda",
       "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
       "description": "多媒體專區",
-      "publishedAt": "2026-08-13",
+      "publishedAt": "2026-08-17",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-13"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-17"
     },
     "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026": {
       "sourceId": "nvidia-news",
@@ -55,6 +61,7 @@
       "description": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations […]",
       "publishedAt": "Wed, 12 Aug 2026 14:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://openai.com/index/hsp-gruppe": {
@@ -71,6 +78,7 @@
       "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
       "publishedAt": "Wed, 12 Aug 2026 00:38:21 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands": {
@@ -79,47 +87,53 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-12"
     },
     "https://moda.gov.tw/en/press/background-information/1003": {
       "sourceId": "moda",
       "title": "Background Information - News and Releases｜Ministry of Digital Affairs",
       "description": "Background Information",
-      "publishedAt": "2026-08-12",
+      "publishedAt": "2026-08-16",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/10035": {
       "sourceId": "moda",
       "title": "Interview with Kerry Brown｜Background Information - News and Releases｜Ministry of Digital Affairs",
       "description": "Interview with Kerry Brown",
-      "publishedAt": "2026-08-12",
+      "publishedAt": "2026-08-16",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/10171": {
       "sourceId": "moda",
       "title": "Conversation with AmCham Taiwan｜Background Information - News and Releases｜Ministry of Digital Affairs",
       "description": "Conversation with AmCham Taiwan",
-      "publishedAt": "2026-08-12",
+      "publishedAt": "2026-08-16",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/10201": {
       "sourceId": "moda",
       "title": "Interview with Salzburger Nachrichten｜Background Information - News and Releases｜Ministry of Digital Affairs",
       "description": "Interview with Salzburger Nachrichten",
-      "publishedAt": "2026-08-12",
+      "publishedAt": "2026-08-16",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/11310": {
       "sourceId": "moda",
       "title": "Interview with Your Undivided Attention podcast｜Background Information - News and Releases｜Ministry of Digital Affairs",
       "description": "Interview with Your Undivided Attention podcast",
-      "publishedAt": "2026-08-12",
+      "publishedAt": "2026-08-16",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/11918": {
       "sourceId": "moda",
@@ -127,7 +141,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/11944": {
       "sourceId": "moda",
@@ -135,7 +150,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/11970": {
       "sourceId": "moda",
@@ -143,7 +159,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/11972": {
       "sourceId": "moda",
@@ -151,7 +168,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/12394": {
       "sourceId": "moda",
@@ -159,7 +177,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/12396": {
       "sourceId": "moda",
@@ -167,7 +186,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/12552": {
       "sourceId": "moda",
@@ -175,7 +195,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/12616": {
       "sourceId": "moda",
@@ -183,7 +204,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/2768": {
       "sourceId": "moda",
@@ -191,7 +213,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3024": {
       "sourceId": "moda",
@@ -199,7 +222,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3028": {
       "sourceId": "moda",
@@ -207,7 +231,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3048": {
       "sourceId": "moda",
@@ -215,7 +240,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3054": {
       "sourceId": "moda",
@@ -223,7 +249,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3086": {
       "sourceId": "moda",
@@ -231,7 +258,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3110": {
       "sourceId": "moda",
@@ -239,7 +267,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3194": {
       "sourceId": "moda",
@@ -247,7 +276,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3263": {
       "sourceId": "moda",
@@ -255,7 +285,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3319": {
       "sourceId": "moda",
@@ -263,7 +294,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3499": {
       "sourceId": "moda",
@@ -271,7 +303,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3637": {
       "sourceId": "moda",
@@ -279,7 +312,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3639": {
       "sourceId": "moda",
@@ -287,7 +321,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://moda.gov.tw/en/press/background-information/3641": {
       "sourceId": "moda",
@@ -295,7 +330,8 @@
       "description": "",
       "publishedAt": "2026-08-12",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-12"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16"
     },
     "https://openai.com/index/circles": {
       "sourceId": "openai-news",
@@ -311,7 +347,8 @@
       "description": "",
       "publishedAt": "2026-08-11T18:01:30.084Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastmod": "2026-08-11T18:01:30.084Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-14T22:03:10.819Z"
     },
     "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory": {
       "sourceId": "nvidia-news",
@@ -319,6 +356,7 @@
       "description": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
       "publishedAt": "Tue, 11 Aug 2026 15:00:06 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://openai.com/index/gpt-5-immunology-mystery": {
@@ -335,6 +373,7 @@
       "description": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
       "publishedAt": "Tue, 11 Aug 2026 13:00:25 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx": {
@@ -343,6 +382,7 @@
       "description": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]",
       "publishedAt": "Tue, 11 Aug 2026 13:00:05 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://openai.com/index/avatarin": {
@@ -367,6 +407,7 @@
       "description": "",
       "publishedAt": "2026-08-11",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-11"
     },
     "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital": {
@@ -375,6 +416,7 @@
       "description": "NVIDIA today announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 ...",
       "publishedAt": "Mon, 10 Aug 2026 20:01:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/claude-sonnet-5": {
@@ -383,6 +425,7 @@
       "description": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
       "publishedAt": "2026-08-10T19:00:15.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-10T19:00:15.000Z"
     },
     "https://openai.com/index/diagnose-rare-childhood-diseases": {
@@ -407,6 +450,7 @@
       "description": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
       "publishedAt": "Sat, 08 Aug 2026 10:24:54 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://openai.com/index/cisco": {
@@ -415,7 +459,7 @@
       "description": "",
       "publishedAt": "2026-08-08T04:27:02.124Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T04:13:05.123Z"
     },
     "https://openai.com/index/10bedicu": {
@@ -464,7 +508,7 @@
       "description": "",
       "publishedAt": "2026-08-08T04:26:09.178Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-13T23:51:01.059Z"
     },
     "https://openai.com/index/boston-childrens-hospital": {
@@ -569,7 +613,7 @@
       "description": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
       "publishedAt": "2026-08-07T03:05:42.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-07T03:05:42.000Z"
     },
     "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list": {
@@ -578,7 +622,7 @@
       "description": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences […]",
       "publishedAt": "Thu, 06 Aug 2026 13:00:11 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/open-world-models-physical-ai": {
@@ -587,7 +631,7 @@
       "description": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
       "publishedAt": "Thu, 06 Aug 2026 13:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/tino-cuellar": {
@@ -596,7 +640,7 @@
       "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
       "publishedAt": "2026-08-04T17:40:15.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-04T17:40:15.000Z"
     },
     "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program": {
@@ -605,7 +649,7 @@
       "description": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education.",
       "publishedAt": "Tue, 04 Aug 2026 17:30:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available": {
@@ -614,7 +658,7 @@
       "description": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and […]",
       "publishedAt": "Tue, 04 Aug 2026 15:00:49 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/ai-storage-fms": {
@@ -623,7 +667,7 @@
       "description": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
       "publishedAt": "Tue, 04 Aug 2026 15:00:47 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions": {
@@ -632,7 +676,7 @@
       "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
       "publishedAt": "Tue, 04 Aug 2026 13:00:47 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/claude-for-nonprofits": {
@@ -641,7 +685,7 @@
       "description": "Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits.",
       "publishedAt": "2026-08-03T16:00:43.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-03T16:00:43.000Z"
     },
     "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
@@ -650,7 +694,7 @@
       "description": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.",
       "publishedAt": "2026-08-03T14:36:32.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-03T14:36:32.000Z"
     },
     "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots": {
@@ -659,6 +703,7 @@
       "description": "",
       "publishedAt": "2026-08-13",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-13"
     },
     "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026": {
@@ -667,7 +712,7 @@
       "description": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign Evolved, as GeForce NOW is bringing one […]",
       "publishedAt": "Thu, 30 Jul 2026 13:00:20 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://deepmind.google/blog": {
@@ -676,6 +721,7 @@
       "description": "",
       "publishedAt": "2026-08-13",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-13"
     },
     "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195": {
@@ -684,7 +730,7 @@
       "description": "NVIDIA will host a conference call on Wednesday, August 26, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2027, which ended July 26, 2026.",
       "publishedAt": "Wed, 29 Jul 2026 21:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/position-open-weights-models": {
@@ -693,7 +739,7 @@
       "description": "Anthropic CEO Dario Amodei on open-weights models",
       "publishedAt": "2026-07-28T15:25:50.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-28T15:25:50.000Z"
     },
     "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson": {
@@ -702,7 +748,7 @@
       "description": "Anyone can make a robot move; NVIDIA Jetson makes it think. As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI […]",
       "publishedAt": "Tue, 28 Jul 2026 15:00:19 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/cognizant-anthropic": {
@@ -711,7 +757,7 @@
       "description": "Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.",
       "publishedAt": "2026-07-27T15:34:00.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-27T15:34:00.000Z"
     },
     "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership": {
@@ -720,7 +766,7 @@
       "description": "Safe Superintelligence Inc. (SSI) and NVIDIA today announced a long-term partnership to rapidly accelerate SSI’s strategic growth...",
       "publishedAt": "Mon, 27 Jul 2026 13:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/open-secure-ai-alliance": {
@@ -729,7 +775,7 @@
       "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
       "publishedAt": "Mon, 27 Jul 2026 09:00:00 GMT",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://blogs.nvidia.com/blog/vera-cpu-eda": {
@@ -756,7 +802,7 @@
       "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
       "publishedAt": "2026-07-25T02:03:36.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-25T02:03:36.000Z"
     },
     "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
@@ -765,7 +811,7 @@
       "description": "",
       "publishedAt": "2026-07-24T18:46:48.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-24T18:46:48.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-7": {
@@ -774,7 +820,7 @@
       "description": "",
       "publishedAt": "2026-07-23T04:19:56.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-23T04:19:56.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-5": {
@@ -783,7 +829,7 @@
       "description": "",
       "publishedAt": "2026-07-23T04:09:31.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-23T04:09:31.000Z"
     },
     "https://deepmind.google/blog/google-deepmind-at-iclr-2024": {
@@ -792,7 +838,7 @@
       "description": "",
       "publishedAt": "2026-07-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-23"
     },
     "https://deepmind.google/blog/our-approach-to-bioresilience": {
@@ -801,7 +847,7 @@
       "description": "",
       "publishedAt": "2026-07-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-23"
     },
     "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber": {
@@ -810,7 +856,7 @@
       "description": "",
       "publishedAt": "2026-07-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-23"
     },
     "https://www.anthropic.com/news/anthropic-economic-index-connector": {
@@ -819,7 +865,7 @@
       "description": "",
       "publishedAt": "2026-07-22T17:35:48.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T17:35:48.000Z"
     },
     "https://www.anthropic.com/news/donation-public-first-action": {
@@ -828,7 +874,7 @@
       "description": "",
       "publishedAt": "2026-07-22T10:14:58.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T10:14:58.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-8": {
@@ -837,7 +883,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:28:45.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T01:28:45.000Z"
     },
     "https://www.anthropic.com/news/skills": {
@@ -846,7 +892,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:16:15.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T01:16:15.000Z"
     },
     "https://www.anthropic.com/news/claude-sonnet-4-5": {
@@ -855,7 +901,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:13:43.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T01:13:43.000Z"
     },
     "https://www.anthropic.com/news/claude-haiku-4-5": {
@@ -864,7 +910,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:05:15.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T01:05:15.000Z"
     },
     "https://www.anthropic.com/news/claude-design-anthropic-labs": {
@@ -873,7 +919,7 @@
       "description": "",
       "publishedAt": "2026-07-22T01:02:08.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T01:02:08.000Z"
     },
     "https://www.anthropic.com/news/claude-for-small-business": {
@@ -882,7 +928,7 @@
       "description": "",
       "publishedAt": "2026-07-22T00:59:47.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T00:59:47.000Z"
     },
     "https://www.anthropic.com/news/claude-opus-4-6": {
@@ -891,7 +937,7 @@
       "description": "",
       "publishedAt": "2026-07-22T00:06:14.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-22T00:06:14.000Z"
     },
     "https://www.anthropic.com/news/claude-sonnet-4-6": {
@@ -900,7 +946,7 @@
       "description": "",
       "publishedAt": "2026-07-21T23:52:43.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-21T23:52:43.000Z"
     },
     "https://www.anthropic.com/news/claude-for-teachers": {
@@ -909,7 +955,7 @@
       "description": "",
       "publishedAt": "2026-07-21T23:43:25.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-21T23:43:25.000Z"
     },
     "https://www.anthropic.com/news/rare-disease-research-grants": {
@@ -918,7 +964,7 @@
       "description": "",
       "publishedAt": "2026-07-20T17:36:28.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-20T17:36:28.000Z"
     },
     "https://www.anthropic.com/news/introducing-claude-tag": {
@@ -927,7 +973,7 @@
       "description": "",
       "publishedAt": "2026-07-15T22:12:10.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-15T22:12:10.000Z"
     },
     "https://www.anthropic.com/news/finance-agents": {
@@ -936,7 +982,7 @@
       "description": "",
       "publishedAt": "2026-07-15T21:16:19.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-15T21:16:19.000Z"
     },
     "https://www.anthropic.com/news/canadian-ai-research": {
@@ -945,7 +991,7 @@
       "description": "",
       "publishedAt": "2026-07-15T09:21:26.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-15T09:21:26.000Z"
     },
     "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi": {
@@ -954,7 +1000,7 @@
       "description": "",
       "publishedAt": "2026-07-14",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-14"
     },
     "https://www.anthropic.com/news/claude-for-creative-work": {
@@ -963,7 +1009,7 @@
       "description": "",
       "publishedAt": "2026-07-13T15:46:07.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-13T15:46:07.000Z"
     },
     "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand": {
@@ -972,7 +1018,7 @@
       "description": "",
       "publishedAt": "2026-07-13T15:41:50.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-13T15:41:50.000Z"
     },
     "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security": {
@@ -981,7 +1027,7 @@
       "description": "",
       "publishedAt": "2026-07-13",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-13"
     },
     "https://www.anthropic.com/news/ust-claude": {
@@ -990,7 +1036,7 @@
       "description": "",
       "publishedAt": "2026-07-10T00:37:25.000Z",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-10T00:37:25.000Z"
     },
     "https://deepmind.google/blog/alphaevolve-impact": {
@@ -999,7 +1045,7 @@
       "description": "",
       "publishedAt": "2026-07-10",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-10"
     },
     "https://www.anthropic.com/news/golden-gate-claude": {
@@ -1017,7 +1063,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing": {
@@ -1026,7 +1072,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/advancing-geminis-security-safeguards": {
@@ -1035,7 +1081,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/accelerating-fusion-science-through-learned-plasma-control": {
@@ -1044,7 +1090,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/accelerating-the-race-against-antibiotic-resistance": {
@@ -1053,7 +1099,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases": {
@@ -1062,7 +1108,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/2017-deepminds-year-in-review": {
@@ -1071,7 +1117,7 @@
       "description": "",
       "publishedAt": "2026-07-08",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "lastSeenAt": "2026-08-15T05:44:21.776Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-07-08"
     },
     "https://deepmind.google/blog/advanced-machine-learning-helps-play-store-users-discover-personalised-apps": {
@@ -1197,6 +1243,7 @@
       "description": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame […]",
       "publishedAt": "Thu, 13 Aug 2026 13:00:33 GMT",
       "discoveredAt": "2026-08-13T15:44:32.513Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://openai.com/index/builders-guide-to-gpt-5-6": {
@@ -1205,7 +1252,8 @@
       "description": "",
       "publishedAt": "2026-08-13T18:15:29.475Z",
       "discoveredAt": "2026-08-13T18:42:02.450Z",
-      "lastmod": "2026-08-13T18:15:29.475Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-16T18:52:02.007Z"
     },
     "https://openai.com/index/bbva": {
       "sourceId": "openai-news",
@@ -1213,7 +1261,8 @@
       "description": "",
       "publishedAt": "2026-08-13T23:58:03.937Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastmod": "2026-08-13T23:58:03.937Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-14T09:03:32.424Z"
     },
     "https://openai.com/index/endava-frontiers": {
       "sourceId": "openai-news",
@@ -1221,6 +1270,7 @@
       "description": "",
       "publishedAt": "2026-08-13T23:57:13.310Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-13T23:57:13.310Z"
     },
     "https://openai.com/index/creating-new-simulations-black-holes": {
@@ -1229,6 +1279,7 @@
       "description": "",
       "publishedAt": "2026-08-13T23:52:17.777Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-13T23:52:17.777Z"
     },
     "https://openai.com/index/steuerrecht": {
@@ -1237,6 +1288,7 @@
       "description": "",
       "publishedAt": "2026-08-13T23:42:39.742Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-13T23:42:39.742Z"
     },
     "https://openai.com/index/openai-grove": {
@@ -1245,7 +1297,8 @@
       "description": "",
       "publishedAt": "2026-08-13T23:39:34.449Z",
       "discoveredAt": "2026-08-14T00:02:00.209Z",
-      "lastmod": "2026-08-13T23:39:34.449Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-14T09:48:50.905Z"
     },
     "https://openai.com/index/bbva-2025": {
       "sourceId": "openai-news",
@@ -1277,6 +1330,7 @@
       "description": "",
       "publishedAt": "2026-08-14T05:37:39.144Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T05:37:39.144Z"
     },
     "https://openai.com/index/lowes-chandhu-nair": {
@@ -1285,6 +1339,7 @@
       "description": "",
       "publishedAt": "2026-08-14T04:24:11.699Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T04:24:11.699Z"
     },
     "https://openai.com/index/taisei": {
@@ -1293,6 +1348,7 @@
       "description": "",
       "publishedAt": "2026-08-14T03:33:15.860Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T03:33:15.860Z"
     },
     "https://openai.com/index/plex-coffee": {
@@ -1301,6 +1357,7 @@
       "description": "",
       "publishedAt": "2026-08-14T03:25:21.555Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T03:25:21.555Z"
     },
     "https://openai.com/index/eneos-materials": {
@@ -1309,6 +1366,7 @@
       "description": "",
       "publishedAt": "2026-08-14T03:14:59.074Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T03:14:59.074Z"
     },
     "https://openai.com/index/mufg": {
@@ -1317,6 +1375,7 @@
       "description": "",
       "publishedAt": "2026-08-14T01:41:16.995Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T01:41:16.995Z"
     },
     "https://openai.com/index/ntt-data": {
@@ -1325,6 +1384,7 @@
       "description": "",
       "publishedAt": "2026-08-14T01:31:41.935Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T01:31:41.935Z"
     },
     "https://openai.com/index/indeed-maggie-hulce": {
@@ -1333,6 +1393,7 @@
       "description": "",
       "publishedAt": "2026-08-14T00:19:39.580Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T00:19:39.580Z"
     },
     "https://openai.com/index/schoolai": {
@@ -1341,6 +1402,7 @@
       "description": "",
       "publishedAt": "2026-08-14T00:04:47.081Z",
       "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T00:04:47.081Z"
     },
     "https://openai.com/index/omio": {
@@ -1349,6 +1411,7 @@
       "description": "",
       "publishedAt": "2026-08-14T06:06:08.223Z",
       "discoveredAt": "2026-08-14T09:39:49.042Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T06:06:08.223Z"
     },
     "https://openai.com/index/higgsfield": {
@@ -1357,6 +1420,7 @@
       "description": "",
       "publishedAt": "2026-08-14T05:57:57.839Z",
       "discoveredAt": "2026-08-14T09:39:49.042Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T05:57:57.839Z"
     },
     "https://openai.com/index/vfl-wolfsburg": {
@@ -1365,6 +1429,7 @@
       "description": "",
       "publishedAt": "2026-08-14T05:57:56.364Z",
       "discoveredAt": "2026-08-14T09:39:49.042Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T05:57:56.364Z"
     },
     "https://openai.com/index/san-antonio-spurs": {
@@ -1373,6 +1438,7 @@
       "description": "",
       "publishedAt": "2026-08-14T05:57:55.296Z",
       "discoveredAt": "2026-08-14T09:39:49.042Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T05:57:55.296Z"
     },
     "https://openai.com/index/paf": {
@@ -1381,6 +1447,7 @@
       "description": "",
       "publishedAt": "2026-08-14T05:57:55.125Z",
       "discoveredAt": "2026-08-14T09:39:49.042Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T05:57:55.125Z"
     },
     "https://openai.com/index/cyberagent": {
@@ -1389,6 +1456,7 @@
       "description": "",
       "publishedAt": "2026-08-14T05:57:55.106Z",
       "discoveredAt": "2026-08-14T09:39:49.042Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T05:57:55.106Z"
     },
     "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center": {
@@ -1397,15 +1465,17 @@
       "description": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
       "publishedAt": "Fri, 14 Aug 2026 17:13:05 GMT",
       "discoveredAt": "2026-08-14T18:10:05.037Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": null
     },
     "https://www.anthropic.com/news/claude-text-watermark": {
       "sourceId": "anthropic-news",
       "title": "How Claude&#x27;s text watermarking works",
       "description": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
-      "publishedAt": "2026-08-14T19:16:56.000Z",
+      "publishedAt": "2026-08-15T05:53:01.000Z",
       "discoveredAt": "2026-08-14T20:05:11.073Z",
-      "lastmod": "2026-08-14T19:16:56.000Z"
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": "2026-08-15T05:53:01.000Z"
     },
     "https://openai.com/index/introducing-chatgpt-small-business-program": {
       "sourceId": "openai-news",
@@ -1413,6 +1483,7 @@
       "description": "",
       "publishedAt": "2026-08-14T20:47:26.214Z",
       "discoveredAt": "2026-08-14T21:02:18.973Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T20:47:26.214Z"
     },
     "https://openai.com/index/holiday-extras": {
@@ -1421,6 +1492,7 @@
       "description": "",
       "publishedAt": "2026-08-14T22:16:20.333Z",
       "discoveredAt": "2026-08-14T22:53:52.286Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T22:16:20.333Z"
     },
     "https://openai.com/index/superhuman": {
@@ -1429,39 +1501,444 @@
       "description": "",
       "publishedAt": "2026-08-14T22:16:16.076Z",
       "discoveredAt": "2026-08-14T22:53:52.286Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
       "lastmod": "2026-08-14T22:16:16.076Z"
+    },
+    "https://money.udn.com/money/story/5710/9695961": {
+      "sourceId": "udn-economic",
+      "title": "貨櫃三雄第2季「雙率雙升」又進入旺季 萬海一度漲停亮燈 | 集中市場 | 證券 | 經濟日報",
+      "description": "台股高檔震盪，但貨櫃三雄持續走強，萬海（2615）盤中大漲逾9%，長榮（2603）、陽明海運（2609）上漲逾5%，其中長榮已成功填息。貨櫃三雄第2季財報毛利率、營益率都較第1季大幅增加，萬海第2季毛利率更來到30%，營益率將近26%，帶動每股純益（EPS）達4.11元。隨第3季進入傳統旺季，貨櫃三雄第3季營運有望持續成長。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5621/9695954": {
+      "sourceId": "udn-economic",
+      "title": "為何說住宅政策徹底崩了？學者點三件事：這群人恐慘到吃土 | 房市話題 | 房市 | 經濟日報",
+      "description": "賴政府住宅政策近來備受民間團體質疑，房產學者章定煊表示，從最近發生的三件事可看出，2016年以來的住宅政策，已經徹底崩了。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/11074/9695930": {
+      "sourceId": "udn-economic",
+      "title": "旺矽怎麼了？財報公布後天天跌 早盤跳空跌停摜破3條均線 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "旺矽（6223）第2季每股純益15.55元，改寫單季歷史新高，累計上半年歸屬母公司稅後純益27.51億元，年增103.5%，每股純益28.08元；但在財報公布後，股價卻是天天下跌，17日跳空以跌停5,800元開出，一口氣失守5日線及月線、季線，同時拖累穎崴及精測（6510）同步下挫。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5621/9695735": {
+      "sourceId": "udn-economic",
+      "title": "桃園以南預售市場倒一片、高雄交易腰斬 看房價心涼了 | 房市話題 | 房市 | 經濟日報",
+      "description": "中信房屋研展室彙整六都實價登錄資料，今年上半年和去年同期比較，交易量部分，除了台北市量增4%，新北小減5%，其餘四都均減少二成以上，高雄交易量大減50%最多。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5710/9695961?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "貨櫃三雄第2季「雙率雙升」又進入旺季 萬海一度漲停亮燈 | 集中市場 | 證券 | 經濟日報",
+      "description": "台股高檔震盪，但貨櫃三雄持續走強，萬海（2615）盤中大漲逾9%，長榮（2603）、陽明海運（2609）上漲逾5%，其中長榮已成功填息。貨櫃三雄第2季財報毛利率、營益率都較第1季大幅增加，萬海第2季毛利率更來到30%，營益率將近26%，帶動每股純益（EPS）達4.11元。隨第3季進入傳統旺季，貨櫃三雄第3季營運有望持續成長。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/11074/9695930?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "旺矽怎麼了？財報公布後天天跌 早盤跳空跌停摜破3條均線 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "旺矽（6223）第2季每股純益15.55元，改寫單季歷史新高，累計上半年歸屬母公司稅後純益27.51億元，年增103.5%，每股純益28.08元；但在財報公布後，股價卻是天天下跌，17日跳空以跌停5,800元開出，一口氣失守5日線及月線、季線，同時拖累穎崴及精測（6510）同步下挫。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5710/9695824?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "7月獲利創新高 川湖盤中漲停、再現新天價 | 集中市場 | 證券 | 經濟日報",
+      "description": "伺服器滑軌廠川湖（2059）17日開盤便衝上漲停價13,750元，盤中漲停鎖死，再創新高價，該公司公告自結7月歸屬母公司淨利47.87億元，年增321%，7月每股稅後純益（EPS）達50.24元，大賺五個股本。加上今年上半年EPS達110.96元，川湖前七個月EPS高達161.2元。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5607/9695660?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "美股收黑無礙！台股再攻46K 大關 川湖又現跳空漲停 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美國7月零售銷售意外下滑，加上8月密西根大學消費者信心初值降至51，消費動能出現降溫訊號；另一方面，標普500指數連日創高後調節壓力升溫，美股主要指數上周五全面收黑，台股ADR同步偏弱，台積電（2330）ADR下跌0.96%。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5599/9695686?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "美伊60天停火大限到！紐時曝白宮早知談不成協議 川普重回老路 紐約時報報導，美伊60天停火即將屆滿，白宮內部清楚無法在大限前敲定最終協議、限制伊朗核計畫。如今川普政府重走第一任期對付伊朗的老路，重新祭出石油制裁與海上封鎖施壓德黑蘭，戰事逐漸轉為經濟耐力戰，美...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5599/9695542?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "本周開盤前 五件國際大事不可不知 國際油價周一開盤小漲，以色列再度攻擊黎巴嫩，停火協議預定周一正式到期前，美國可能對伊朗祭出新一輪制裁。 1. 國際油價續漲 全球基準布蘭特原油在亞洲早盤上漲0.5%；美元兌主要貨幣變動不大。標...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/7307/9695284?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 最低工資月薪有望衝破30K。勞動部最快9月召開最低工資審議會，拍板明年最低工資，綜合考量K型經濟發展、改善低薪現象政策目標等，明年最低工資有望採高調幅，估將超過5%，將是連11漲。 今年最低工資月...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5607/9695285?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "台股企業獲利法人上修 今年有望飆7.8兆元新高 助力大盤攻48K 上市櫃公司第2季獲利繳出2.03兆元、遠優於市場預期的數字後，掀起一波法人上修獲利潮，目前內、外資機構最新預估，今年上市櫃企業獲利有望來到7.2兆元，部分分析師喊出最高可達7.8兆元，再創新高，將成...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5612/9695290?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "輝達拍板新電力架構 電源雙雄台達電、光寶有望進補 輝達罕見在官網更新800VDC（800伏特直流）新世代AI資料中心電力架構技術發展路徑，並預告下半年起啟動，將透過混合式架構，把新一代機架級運算效能導入已建置並投入營運的設施。 輝達力推800VD...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5612/9695292?from=edn_maintab_index": {
+      "sourceId": "udn-economic",
+      "title": "磷化銦好缺 最大漲價潮來了 全新、聯亞、IET 等添動能 AI催動光通訊需求爆發，光通訊必備原料磷化銦（InP）基板與磊晶嚴重供不應求，第4季醞釀再漲價，漲幅將達一成以上，創史上最大漲幅，供應商直言「有錢也未必買得到」。磷化銦市場掀歷來最大漲價潮，全新、聯...",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/7307/9696048?from=edn_newest_index": {
+      "sourceId": "udn-economic",
+      "title": "多以政院版本為主 立院遺贈稅修法「大老婆條款」過初審 2026-08-17 11:26",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/7307/9696044?from=edn_newest_index": {
+      "sourceId": "udn-economic",
+      "title": "共有農地別人違規蓋房、鋪水泥 地主看這篇學三招自保 2026-08-17 11:26",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5612/9696042?from=edn_newest_index": {
+      "sourceId": "udn-economic",
+      "title": "開源模型崛起 AI 從技術競賽走向商業競賽 以三原則建構攻守兼備組合 2026-08-17 11:25",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5710/9696041?from=edn_newest_index": {
+      "sourceId": "udn-economic",
+      "title": "欣興漲停衝1,120元、景碩逼近歷史新高！ABF 四雄齊揚 法人押寶誰？ 2026-08-17 11:25",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/123398/9696040?from=edn_newest_index": {
+      "sourceId": "udn-economic",
+      "title": "Alphabet擬首發澳幣債 最長20年 科技巨擘AI籌資熱升溫 2026-08-17 11:25",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5612/9695292?from=edn_hottest_index": {
+      "sourceId": "udn-economic",
+      "title": "磷化銦好缺 最大漲價潮來了 全新、聯亞、IET 等添動能 2026-08-17 02:01",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5618/9694624?from=edn_hottest_index": {
+      "sourceId": "udn-economic",
+      "title": "上周三大法人爆買 ETF 第一名是這檔、高達96萬張 主動式前十占一半 8840",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5599/9694970?from=edn_hottest_index": {
+      "sourceId": "udn-economic",
+      "title": "美期中選舉逼近 過半選民：川普上台後日子更難過 5126",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/7307/9695284?from=edn_hottest_index": {
+      "sourceId": "udn-economic",
+      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 5078",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5607/9694699?from=edn_hottest_index": {
+      "sourceId": "udn-economic",
+      "title": "主動式 ETF 最近都在買誰？寶雅爆量奪冠、南亞富喬跟上 4713",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5629/9695205?from=edn_course_index": {
+      "sourceId": "udn-economic",
+      "title": "陳錦稷 / 中信金融管理學院教授兼金融管理研究所所長 從國票金看金融機構盡職治理",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5629/9690355?from=edn_course_index": {
+      "sourceId": "udn-economic",
+      "title": "葉銀華 / 陽明交通大學資管與財金系教授 地緣政治風險下 全球資金流向",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5629/9687918?from=edn_course_index": {
+      "sourceId": "udn-economic",
+      "title": "劉佩真 / 台經院產經資料庫總監、APIAA院士 美韓AI世紀合作 敲響警鐘",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5629/9685666?from=edn_course_index": {
+      "sourceId": "udn-economic",
+      "title": "盧希鵬 / 台灣科技大學資訊管理系專任特聘教授 人資新課題...不只管人，還要管 AI",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5629/9683183?from=edn_course_index": {
+      "sourceId": "udn-economic",
+      "title": "吳大任 / 台灣經濟發展研究中心研究員 中東戰爭推升美停滯性通膨風險",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://money.udn.com/money/story/5629/9680729?from=edn_course_index": {
+      "sourceId": "udn-economic",
+      "title": "郝充仁 / 淡江大學保險系副教授 外溢保單經驗對全民健保的啟示",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/bookshop/magazine/SubscribeMain?utm_source=bwcom_menubar": {
+      "sourceId": "businessweekly",
+      "title": "商周Store-商業周刊雜誌、數位閱讀、暢銷書訂閱優惠，商周學院課程講座資訊",
+      "description": "商周出版暢銷書籍排行、商業周刊雜誌、講座課程活動資訊。搶先獲得商周store各項出刊書籍及促銷優惠訊息！商品聯購．立即訂閱周刊好優惠，掌握每一期商周話題。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://bwlearning.businessweekly.com.tw/ceo50": {
+      "sourceId": "businessweekly",
+      "title": "商周CEO學院｜實戰更勝EMBA課程，培養頂尖領導人才",
+      "description": "傾聚商周資源，引領趨勢前端，以實戰為核心，搭建最有效率的共學平台。現有CEO領導學程、圓桌趨勢論壇、職場學、駐足思考青少年等課程",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/bwplus/landingpage": {
+      "sourceId": "businessweekly",
+      "title": "下載商周Plus App－聽新聞、隨時跟上商業新動態Level Up！｜商業周刊",
+      "description": "產業報導、商業新聞App首選－商周Plus App全新上線！Level Up推出新功能：podcast主題音頻、人聲朗讀聽新聞、看文集商周點數，等超多會員專屬優惠等著你來探索。快下載「商周Plus App」為你連結知識、人脈－Always Level Up，持續進化，永不止息。",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/style/blog/3022096": {
+      "sourceId": "businessweekly",
+      "title": "BIGBANG台北大巨蛋演唱會8/17開賣！遠大售票時間、票價、座位圖、實名制規定一次看",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/business/indep/1006952": {
+      "sourceId": "businessweekly",
+      "title": "迎接「財富效應」時代 滙豐私人銀行：陪伴台灣高資產客戶打造跨資產、跨世代長期價值",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/careers/blog/3022244": {
+      "sourceId": "businessweekly",
+      "title": "30歲後，為什麼朋友越來越少？她的友誼15年不散，靠實踐3件事維持",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/style/indep/1006949": {
+      "sourceId": "businessweekly",
+      "title": "在奢華溫泉背後，泉月樓看不見的安全堅持",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/style/blog/3022239": {
+      "sourceId": "businessweekly",
+      "title": "2026濱海搖滾音樂祭8/15登場！索票攻略、卡司陣容、時間表一次看",
+      "description": "",
+      "publishedAt": "2026-08-17T03:29:13.427Z",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/style/indep/1006960": {
+      "sourceId": "businessweekly",
+      "title": "Cova 中秋獻禮「翡翠流光 玉兔映月」共譜團圓雅意 全新推出海鹽焦糖夏威夷豆口味月餅｜商周",
+      "description": "新東陽今年推出「千江月」禮盒，以「山水藏月 續留美味」為主題，兩款主打酥點都選用屏東萬丹紅豆與動物福利飼養的鴨蛋，把台灣在地的好滋味包進節慶心意，成為中秋商務送禮的體面之選。",
+      "publishedAt": "2026-08-17T00:00:00+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/international/blog/3022242": {
+      "sourceId": "businessweekly",
+      "title": "跟服務人員爭論、打電話而不是傳訊息…Z世代最受不了嬰兒潮的10個尷尬行為－商周頭條｜商周",
+      "description": "有些行為，在嬰兒潮世代看來是溫暖的關心，在Z世代眼中卻讓人坐立難安。",
+      "publishedAt": "2026-08-14T17:42:04+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/style/blog/3022240": {
+      "sourceId": "businessweekly",
+      "title": "香蕉要吃綠的還是黃的？營養師解析5種熟度，想控血糖可選這種－良醫健康網｜商周",
+      "description": "香蕉該吃綠的還是黃的？不同成熟度的香蕉，糖分、抗性澱粉、纖維與抗氧化物都不同。營養師解析5種香蕉熟度差異，想控血糖、運動補能量或做果昔，各有更適合的選擇。",
+      "publishedAt": "2026-08-14T16:51:28+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/style/blog/3022235": {
+      "sourceId": "businessweekly",
+      "title": "2026淡水漁人碼頭煙火8/16登場！施放時間、5大觀賞點、交通管制一次看－活動旅遊全攻略｜商周",
+      "description": "2026「淡水漁人碼頭仲夏繽紛樂」煙火於8月16日、8月23日、8月30日晚上8時登場，原訂8月9日場次因白海豚颱風已延至8月30日。煙火秀每場10分鐘、施放逾1萬發12吋高空煙火，並首度結合河上燈光",
+      "publishedAt": "2026-08-13T22:05:51+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
+    },
+    "https://www.businessweekly.com.tw/style/blog/3022217": {
+      "sourceId": "businessweekly",
+      "title": "想不起對方名字、忘記會議細節，心理學研究：你可能擁有「高效大腦」－科技新報 TechNews｜商周",
+      "description": "忘記人名或細節，不一定代表記憶力衰退，也可能是大腦主動篩選資訊，把資源留給重要內容。高效記憶往往是「抓大放小」，保留事情的核心概念，而非逐字記住所有細節，有助於推理與靈活運用知識。善用行事曆、提醒等工",
+      "publishedAt": "2026-08-12T16:48:29+08:00",
+      "discoveredAt": "2026-08-17T03:29:13.427Z",
+      "lastSeenAt": "2026-08-17T03:29:13.427Z",
+      "lastmod": null
     }
   },
   "sourceStatus": {
     "openai-news": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-15T05:44:21.776Z",
+      "lastSuccessAt": "2026-08-17T03:29:13.427Z",
       "lastError": null
     },
     "anthropic-news": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-15T05:44:21.776Z",
+      "lastSuccessAt": "2026-08-17T03:29:13.427Z",
       "lastError": null
     },
     "deepmind-blog": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-15T05:44:21.776Z",
+      "lastSuccessAt": "2026-08-17T03:29:13.427Z",
       "lastError": null
     },
     "nvidia-news": {
       "status": "ok",
       "itemCount": 20,
-      "lastSuccessAt": "2026-08-15T05:44:21.776Z",
+      "lastSuccessAt": "2026-08-17T03:29:13.427Z",
       "lastError": null
     },
     "moda": {
       "status": "ok",
       "itemCount": 30,
-      "lastSuccessAt": "2026-08-15T05:44:21.776Z",
+      "lastSuccessAt": "2026-08-17T03:29:13.427Z",
       "lastError": null
+    },
+    "udn-economic": {
+      "status": "ok",
+      "itemCount": 30,
+      "lastSuccessAt": "2026-08-17T03:29:13.427Z",
+      "lastError": null
+    },
+    "businessweekly": {
+      "status": "ok",
+      "itemCount": 13,
+      "lastSuccessAt": "2026-08-17T03:29:13.427Z",
+      "lastError": null
+    },
+    "commonwealth": {
+      "status": "error",
+      "lastError": "Error: 403 Forbidden",
+      "lastAttemptAt": "2026-08-17T03:29:13.427Z"
     }
   }
 }

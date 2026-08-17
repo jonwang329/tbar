@@ -1,7 +1,124 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T19:37:45.605Z",
+  "updatedAt": "2026-08-17T20:57:18.215Z",
   "candidates": [
+    {
+      "id": "cand_f4bd915366302256e8e9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9697719?from=edn_newest_index",
+      "title": "60天談判期屆滿美伊分歧未解 川普稱不尋求延長 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國與伊朗6月簽署旨在終結戰事的諒解備忘錄（MOU），並設定60天的談判期。如今期限屆滿，雙方立場仍相距甚遠。川普今天在...",
+      "publishedAt": "2026-08-17T20:57:18.215Z",
+      "discoveredAt": "2026-08-17T20:57:18.215Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fc7e37f8dbf9722e1885",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9697718?from=edn_newest_index",
+      "title": "中東地區情勢再趨緊張 國際油價走揚 | 國際焦點 | 國際 | 經濟日報",
+      "description": "當前跡象顯示中東地區戰火在短期內難以平息，削弱了市場對於荷莫茲海峽（Strait of Hormuz）石油運輸量會很快恢...",
+      "publishedAt": "2026-08-17T20:57:18.215Z",
+      "discoveredAt": "2026-08-17T20:57:18.215Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_919020bb78dc029c82c3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9697716?from=edn_newest_index",
+      "title": "美戰爭部查大學對外合作 轉型孔子學院列關注名單 | 國際焦點 | 國際 | 經濟日報",
+      "description": "五角大廈今天要求全美30間學術機構強制稽查與中國、俄羅斯、伊朗等國的學術合作計畫，已經轉型或更名的孔子學院也列入「受關注...",
+      "publishedAt": "2026-08-17T20:57:18.215Z",
+      "discoveredAt": "2026-08-17T20:57:18.215Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d2b1b9b170c83fc55700",
+      "sourceLastModified": "2026-08-17T20:07:54.310Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/safetykit",
+      "title": "https://openai.com/index/safetykit",
+      "description": "",
+      "publishedAt": "2026-08-17T20:07:54.310Z",
+      "discoveredAt": "2026-08-17T20:57:18.215Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ee641c004468d291a049",
       "sourceLastModified": null,
@@ -10,7 +127,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9697570?from=edn_maintab_index",
-      "title": "賴總統喊全民共享 AI 紅利 明年普發1萬現金 最快春節前發放 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "賴總統喊全民共享 AI 紅利 明年普發1萬現金 最快春節前發放 賴清德總統昨（17）日宣布，明年將普發現金1萬元，政院將於明年總預算案編列2,357億元，使AI紅利全民共享。至於何時領得到？知情人士表示，端看立法院審議進程，若年底前完成審議，推估最快明年農曆春節...",
       "description": "賴清德總統昨（17）日宣布，明年將普發現金1萬元，政院將於明年總預算案編列2,357億元，使AI紅利全民共享。至於何時領得到？知情人士表示，端看立法院審議進程，若年底前完成審議，推估最快明年農曆春節前能領到。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -24,7 +141,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -40,7 +157,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9697573?from=edn_maintab_index",
-      "title": "金管會主委彭金隆：科技島走向資本島 揭示五大政策方向 | 金融脈動 | 金融 | 經濟日報",
+      "title": "金管會主委彭金隆：科技島走向資本島 揭示五大政策方向 金管會主委彭金隆昨（17）日表示，台灣要從「科技島」走向「資本島」，他揭示第二屆臺灣週三大目的、五大政策方向，並指出近兩年金融業整體資產管理規模已增加逾14兆元，正加速把產業優勢轉化為資本市場競爭力...",
       "description": "金管會主委彭金隆昨（17）日表示，台灣要從「科技島」走向「資本島」，他揭示第二屆臺灣週三大目的、五大政策方向，並指出近兩年金融業整體資產管理規模已增加逾14兆元，正加速把產業優勢轉化為資本市場競爭力。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -54,7 +171,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -70,7 +187,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9697597?from=edn_maintab_index",
-      "title": "輝達點火開啟 AI 矽光時代 台積、日月光、波若威等入列夥伴名單 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達點火開啟 AI 矽光時代 台積、日月光、波若威等入列夥伴名單 輝達透過官方社群帳號宣布，以共同封裝光學（CPO）技術打造的Spectrum-X乙太網路矽光子交換器進入全面量產出貨階段，宣告AI資料中心邁入「矽光時代」，台灣共有台積電（2330）、鴻海、日月光投...",
       "description": "輝達透過官方社群帳號宣布，以共同封裝光學（CPO）技術打造的Spectrum-X乙太網路矽光子交換器進入全面量產出貨階段，宣告AI資料中心邁入「矽光時代」，台灣共有台積電、鴻海、日月光投控、波若威等四家廠商入列夥伴。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -84,7 +201,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -100,7 +217,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9697607?from=edn_maintab_index",
-      "title": "卓揆向總統報告總預算案 撥補勞健保 明年編1,900億 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "卓揆向總統報告總預算案 撥補勞健保 明年編1,900億 行政院長卓榮泰昨（17）日表示，明年普發現金1萬元，不排擠既有施政及預算規劃。明年將編列撥補勞保基金1,300億元、健保基金600億元，即明年合計將有1,900億元支持勞、健保財務。 行政院昨日再...",
       "description": "行政院長卓榮泰昨（17）日表示，明年普發現金1萬元，不排擠既有施政及預算規劃。明年將編列撥補勞保基金1,300億元、健保基金600億元，即明年合計將有1,900億元支持勞、健保財務。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -114,7 +231,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -130,7 +247,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9697453?from=edn_maintab_index",
-      "title": "北美貨櫃運價 直逼疫情時期 美東線有望突破1萬美元 | 產業熱點 | 產業 | 經濟日報",
+      "title": "北美貨櫃運價 直逼疫情時期 美東線有望突破1萬美元 巴拿馬運河水位下降、全球港口壅塞，加上航商實施空班，美東航線有效運力吃緊，推升運價連番走高。上海航運交易所最新資料顯示，美東航線每FEU（40呎櫃）運價升至9,568美元，周漲2.99%，市場預期，...",
       "description": "巴拿馬運河水位下降、全球港口壅塞，加上航商實施空班，美東航線有效運力吃緊，推升運價連番走高。上海航運交易所最新資料顯示，美東航線每FEU（40呎櫃）運價升至9,568美元，周漲2.99%，市場預期，短線有望突破1萬美元大關，逼近新冠疫情期間的高檔水準。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -144,7 +261,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -160,7 +277,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9697578?from=edn_maintab_index",
-      "title": "台股將上演股王爭霸戰 川湖與信驊股價拉近成話題 | 市場焦點 | 證券 | 經濟日報",
+      "title": "台股將上演股王爭霸戰 川湖與信驊股價拉近成話題 台股再度點燃股王爭霸戰，外資年初將信驊（5274）目標價喊到萬元之上，下半年開始則一波波大幅調高川湖（2059）目標價，推升川湖登上「股后」大位，昨（17）日再跳空漲停一價到底，登新天價13,750...",
       "description": "台股再度點燃股王爭霸戰，外資年初將信驊目標價喊到萬元之上，下半年開始則一波波大幅調高川湖目標價，推升川湖登上「股后」大位，昨（17）日再跳空漲停一價到底，登新天價13,750元，波段漲幅逾倍；「股王」信驊則跌3.7%收17,020元，隨兩者股價差距拉近，川湖會否問鼎股王寶座成為盤面新話題。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -174,7 +291,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -190,7 +307,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9697598?from=edn_maintab_index",
-      "title": "功率半導體漲價又一波 台半、強茂等非合約產品價格擬上調10%~15% | 產業熱點 | 產業 | 經濟日報",
+      "title": "功率半導體漲價又一波 台半、強茂等非合約產品價格擬上調10%~15% 輝達AI平台持續推進，用電量也愈來愈大，掀起「電力革命」，扮演輝達「電力革命」要角的功率半導體大缺貨，繼產業巨頭英飛凌（Infineon）日前漲價之後，台廠也醞釀第三波價格調整，最快10月起針對非合...",
       "description": "輝達AI平台持續推進，用電量也愈來愈大，掀起「電力革命」，扮演輝達「電力革命」要角的功率半導體大缺貨，繼產業巨頭英飛凌（Infineon）日前漲價之後，台廠也醞釀第三波價格調整，最快10月起針對非合約產品，漲價10%至15%。業界看好台半、強茂、德微等下半年營運價量齊揚。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -204,7 +321,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -220,7 +337,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9697599?from=edn_maintab_index",
-      "title": "AI 巨擘「隱藏帳單」飆3兆美元 未反映在資產負債表 恐成新風險 | 美股動態 | 國際 | 經濟日報",
+      "title": "AI 巨擘「隱藏帳單」飆3兆美元 未反映在資產負債表 恐成新風險 美國科技巨擘每季均會公布AI相關資本支出，惟最新分析顯示，Google母公司字母（Alphabet）、Meta、甲骨文等的九大科技廠的支出總額遠高於其揭露的資本支出數據，還有約3兆美元的「隱藏帳單」...",
       "description": "美國科技巨擘每季均會公布AI相關資本支出，惟最新分析顯示，Google母公司字母（Alphabet）、Meta、甲骨文等的九大科技廠的支出總額遠高於其揭露的資本支出數據，還有約3兆美元的「隱藏帳單」未反映於資產負債表。",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -234,7 +351,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -264,7 +381,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -294,7 +411,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -324,7 +441,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -354,7 +471,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -460,7 +577,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9696943?from=edn_hottest_index",
-      "title": "載板四雄都擠進成交值前十名 但外資只獨愛「他」 9463",
+      "title": "載板四雄都擠進成交值前十名 但外資只獨愛「他」 9676",
       "description": "",
       "publishedAt": "2026-08-17T19:37:45.605Z",
       "discoveredAt": "2026-08-17T19:37:45.605Z",
@@ -474,7 +591,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -640,7 +757,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9697293?from=edn_hottest_index",
-      "title": "伊朗宣告轉守為攻 設期限要美國照辦 否則準備升級戰事 11872",
+      "title": "伊朗宣告轉守為攻 設期限要美國照辦 否則準備升級戰事 12631",
       "description": "伊朗資深官員17日表示，該國已決定改變策略，從防禦性轉為全面進攻，不會等著讓美國持續對其進行無限期海上封鎖。",
       "publishedAt": "2026-08-17T18:02:52.724Z",
       "discoveredAt": "2026-08-17T18:02:52.724Z",
@@ -711,7 +828,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1896,7 +2013,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9696994?from=edn_hottest_index",
-      "title": "經濟成長超狂又怎樣？韓媒：台灣掉入陷阱 平均所得最具誤導性 13764",
+      "title": "經濟成長超狂又怎樣？韓媒：台灣掉入陷阱 平均所得最具誤導性 13987",
       "description": "",
       "publishedAt": "2026-08-17T13:57:15.423Z",
       "discoveredAt": "2026-08-17T13:57:15.423Z",
@@ -1910,7 +2027,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3540,7 +3657,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9696445?from=edn_hottest_index",
-      "title": "賴總統宣布：明年普發現金1萬元 17674",
+      "title": "賴總統宣布：明年普發現金1萬元 17702",
       "description": "",
       "publishedAt": "2026-08-17T08:03:33.377Z",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -3554,7 +3671,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5248,117 +5365,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f197f60dc6867029463",
-      "sourceLastModified": "2026-08-16",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/10171",
-      "title": "Conversation with AmCham Taiwan｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Conversation with AmCham Taiwan",
-      "publishedAt": "2026-08-16",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c7d43a0a03431d36035c",
-      "sourceLastModified": "2026-08-16",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/10201",
-      "title": "Interview with Salzburger Nachrichten｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Salzburger Nachrichten",
-      "publishedAt": "2026-08-16",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6ae2203954c7936ebd19",
-      "sourceLastModified": "2026-08-16",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/11310",
-      "title": "Interview with Your Undivided Attention podcast｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Your Undivided Attention podcast",
-      "publishedAt": "2026-08-16",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_76c5a6f2044d862eb252",
-      "sourceLastModified": "2026-08-15T05:53:01.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "title": "How Claude&#x27;s text watermarking works",
-      "description": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
-      "publishedAt": "2026-08-15T05:53:01.000Z",
-      "discoveredAt": "2026-08-14T20:05:11.073Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

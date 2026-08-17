@@ -1,7 +1,427 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T08:03:33.377Z",
+  "updatedAt": "2026-08-17T10:06:21.798Z",
   "candidates": [
+    {
+      "id": "cand_e15b0d935b821f5fd70f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9696857",
+      "title": "科技巨擘 AI 燒錢兇 「隱藏帳單」高達3兆美元 | 美股動態 | 國際 | 經濟日報",
+      "description": "雖然美國科技巨擘每季均會公布AI相關的資本開支，但分析顯示，字母、Meta、甲骨文等的前九大科技公司的支出總額遠高於此，還有3兆美元的隱藏帳單，未反映於資產負債表。",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_42204074b5f726e2b839",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9696943",
+      "title": "載板四雄都擠進成交值前十名 但外資只獨愛「他」 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股17日未能守住4萬6千點，收在45,857.27點，上漲46.26點，漲幅0.1%，成交量跌破1兆，為9,420.25億元。以成交值來看，IC載板四雄都擠上前十名，而欣興（3037）位居第一，股價攻上漲停。值得注意的是，外資僅買超欣興，但賣超南電（8046）、景碩（3189）、臻鼎-KY（4958）。",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e40418519b20411d8d7e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696875",
+      "title": "卓榮泰：明年撥補勞保1,300億元、健保600億元 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "針對明年度預算編列狀況，行政院長卓榮泰17日表示，行政院已再次向總統報告116年度中央政府總預算案籌編情形，在賴總統要求擴大照顧人民、促進經濟發展及穩固國家安全下，行政團隊依最新經濟情勢及立法院預算審議結果重新整編預算，確保「歲入歲出平衡及實質無舉債」，並讓經濟成長果實全民共享。",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a70e46c6b6258c8cdf40",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9696943?from=edn_maintab_index",
+      "title": "載板四雄都擠進成交值前十名 但外資只獨愛「他」 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股17日未能守住4萬6千點，收在45,857.27點，上漲46.26點，漲幅0.1%，成交量跌破1兆，為9,420.25億元。以成交值來看，IC載板四雄都擠上前十名，而欣興（3037）位居第一，股價攻上漲停。值得注意的是，外資僅買超欣興，但賣超南電（8046）、景碩（3189）、臻鼎-KY（4958）。",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7d8f396810010b7cd24a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696875?from=edn_maintab_index",
+      "title": "卓榮泰：明年撥補勞保1,300億元、健保600億元 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "針對明年度預算編列狀況，行政院長卓榮泰17日表示，行政院已再次向總統報告116年度中央政府總預算案籌編情形，在賴總統要求擴大照顧人民、促進經濟發展及穩固國家安全下，行政團隊依最新經濟情勢及立法院預算審議結果重新整編預算，確保「歲入歲出平衡及實質無舉債」，並讓經濟成長果實全民共享。",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0c56267ffb8402912063",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696829?from=edn_maintab_index",
+      "title": "租補戶數未來擬砍半？內政部揭三大政策如何撐百萬租屋家庭 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "內政部17日再次強調，政府照顧百萬戶租屋家庭的政策目標不變，將持續透過多元興辦社宅、包租代管及租金補貼三大政策支撐租屋族。隨著實體社宅及包租代管供給增加，部分居住需求將逐步由社宅承接，租金補貼戶數則會依各項政策進度滾動調整，但整體居住支持不會縮減。",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1daff4279a45f95084d8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9696776?from=edn_maintab_index",
+      "title": "整理包／普發現金再加一！歷年五次發錢紀錄一次看 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "賴清德總統宣布，2027年度中央政府總預算，歲出增列2,357億元普發現金每人1萬元。回顧近年來，政府一共有五次普發現金或消費券紀錄。例如金融海嘯帶來經濟全面衰退，2009年發放消費券；2020、2021年因應新冠疫情擴大內需；2023年疫後復甦；2025年面對美國關稅，立法院推動普發。",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2aa9a0880247807ba7e7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5616/9696745?from=edn_maintab_index",
+      "title": "新台幣飆升1.94角 收31.852元 | 外匯市場 | 金融 | 經濟日報",
+      "description": "台北外匯市場新台幣兌美元今天收盤收31.852元，飆升1.94角，成交金額17.84億美元",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_91709c3f69482df4b996",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9697023?from=edn_newest_index",
+      "title": "政院：立院三讀兒少未來帳戶違憲 決議不副署 2026-08-17 18:05",
+      "description": "",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_938112dccf3e9b612b5b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9697018?from=edn_newest_index",
+      "title": "友邦人壽第8度獲亞洲最佳企業雇主獎 再奪人才躍升獎 2026-08-17 18:01",
+      "description": "",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cdf543dbc5522550e92d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9697017?from=edn_newest_index",
+      "title": "外資買超454億元 搶進ETF和貨櫃股 2026-08-17 18:01",
+      "description": "",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ee58763d9ba2ff5c8d39",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9697016?from=edn_newest_index",
+      "title": "AI 科技股撐腰外 資回補台韓最旺 2026-08-17 18:01",
+      "description": "",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_518f472a619e78777fd0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9697014?from=edn_newest_index",
+      "title": "卓榮泰：116年總預算納6領域 普發1萬不排擠施政 2026-08-17 18:01",
+      "description": "",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7f2a48b8657a4869d185",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9696427?from=edn_VIP_index_side",
+      "title": "六分鐘就逼智利讓步！川普在拉美的精準制裁手段曝光",
+      "description": "",
+      "publishedAt": "2026-08-17T10:06:21.798Z",
+      "discoveredAt": "2026-08-17T10:06:21.798Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_8a3d8625ca6443a21596",
       "sourceLastModified": null,
@@ -130,7 +550,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9696615?from=edn_maintab_index",
-      "title": "投信先獲利入袋？7月來賣超最多 三大法人共買超291億元 | 市場焦點 | 證券 | 經濟日報",
+      "title": "投信先獲利入袋？7月來賣超最多 三大法人共買超291億元 台股17日未能守住4萬6千點，收在45,857.27點，上漲46.26點，漲幅0.1%，成交量跌破1兆，為9,420.25億元，三大法人買超291.06億元。 統計三大法人買賣超情況，外資及陸資（...",
       "description": "台股17日未能守住4萬6千點，收在45,857.27點，上漲46.26點，漲幅0.1%，成交量跌破1兆，為9,420.25億元，三大法人買超291.06億元。",
       "publishedAt": "2026-08-17T08:03:33.377Z",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -144,7 +564,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -160,7 +580,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9696570?from=edn_maintab_index",
-      "title": "投資型助攻！壽險業前七月新契約保費衝9,296億元 年增近6成 | 金融脈動 | 金融 | 經濟日報",
+      "title": "投資型助攻！壽險業前七月新契約保費衝9,296億元 年增近6成 壽險公會17日公布壽險業2026年前七月保費收入（含非保險合約），新契約、續年度與總保費收入持續維持正成長，其中新契約保費收入為9,296.29億元，年增59.3%；續年度保費10,030.19...",
       "description": "壽險公會17日公布壽險業2026年前七月保費收入（含非保險合約），新契約、續年度與總保費收入持續維持正成長，其中新契約保費收入為9,296.29億元，年增59.3%；續年度保費10,030.19億元，年增6.6%；總保費收入19,326.48億元，年增26.7%。",
       "publishedAt": "2026-08-17T08:03:33.377Z",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -174,7 +594,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -190,7 +610,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9696445?from=edn_maintab_index",
-      "title": "賴總統宣布：明年普發現金1萬元 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "賴總統宣布：明年普發現金1萬元 賴清德總統17日上午第二次在總統府聽取行政院「116年度中央政府總預算案」簡報後表示，台灣憑藉長期累積的半導體、資通訊及製造供應鏈優勢，經濟成長率表現持續上修，可望創下39年以來新高紀錄。因此，...",
       "description": "賴清德總統17日上午第二次在總統府聽取行政院「116年度中央政府總預算案」簡報後表示，台灣憑藉長期累積的半導體、資通訊及製造供應鏈優勢，經濟成長率表現持續上修，可望創下39年以來新高紀錄。因此，116年度中央政府總預算將在歲入歲出平衡、實質零舉債的前提下，歲出增列2,357億元普發現金每人1萬元，讓「AI紅利，全民共享」。",
       "publishedAt": "2026-08-17T08:03:33.377Z",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -204,7 +624,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -220,7 +640,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9696378?from=edn_maintab_index",
-      "title": "台股收盤上漲46點 股后川湖漲停再創新天價 | 市場焦點 | 證券 | 經濟日報",
+      "title": "台股收盤上漲46點 股后川湖漲停再創新天價 台股今（17）日收盤上漲46.26點，終場以45,857.27點作收，成交量9,420億元；台積電（2330）收盤價2,400元，上漲5元，漲幅0.21%。股后川湖（2059）今日更是再以漲停作收。...",
       "description": "台股今（17）日收盤上漲46.26點，終場以45,857.27點作收，成交量9,420億元；台積電（2330）收盤價2,400元，上漲5元，漲幅0.21%。股后川湖（2059）今日更是再以漲停作收。",
       "publishedAt": "2026-08-17T08:03:33.377Z",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -234,7 +654,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -264,7 +684,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -460,7 +880,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9696445?from=edn_hottest_index",
-      "title": "賴總統宣布：明年普發現金1萬元 11950",
+      "title": "賴總統宣布：明年普發現金1萬元 15272",
       "description": "",
       "publishedAt": "2026-08-17T08:03:33.377Z",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -474,7 +894,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -490,7 +910,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9695309?from=edn_hottest_index",
-      "title": "台塑四寶全年獲利拚攀峰 法人預估純益合計叩關2,400億元 6416",
+      "title": "台塑四寶全年獲利拚攀峰 法人預估純益合計叩關2,400億元 7517",
       "description": "",
       "publishedAt": "2026-08-17T08:03:33.377Z",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -504,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -790,7 +1210,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9695543?from=edn_hottest_index",
-      "title": "川普出手了 不滿南韓拒參與伊朗無核化 下令五角大廈縮減聯合軍演規模 7382",
+      "title": "川普出手了 不滿南韓拒參與伊朗無核化 下令五角大廈縮減聯合軍演規模 7812",
       "description": "",
       "publishedAt": "2026-08-17T05:23:07.470Z",
       "discoveredAt": "2026-08-17T05:23:07.470Z",
@@ -804,7 +1224,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1404,7 +1824,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1480,7 +1900,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9695284?from=edn_hottest_index",
-      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 7584",
+      "title": "最低工資月薪將衝破30K 預期明年調幅逾5% 連11漲 8238",
       "description": "",
       "publishedAt": "2026-08-17T03:29:13.427Z",
       "discoveredAt": "2026-08-17T03:29:13.427Z",
@@ -1494,7 +1914,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1554,7 +1974,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1584,7 +2004,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1614,7 +2034,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1644,7 +2064,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1674,7 +2094,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1704,7 +2124,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1733,7 +2153,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1762,7 +2182,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1791,7 +2211,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1820,7 +2240,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1849,7 +2269,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1878,7 +2298,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1907,7 +2327,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1936,7 +2356,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2398,7 +2818,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://www.businessweekly.com.tw/style/blog/3022032",
-      "title": "2026大稻埕煙火8/15壓軸場！幾點放？最佳觀賞點、無人機、交管一次看－活動旅遊全攻略｜商周",
+      "title": "2026大稻埕煙火8/15壓軸場！幾點放？最佳觀賞點、無人機、交管一次看",
       "description": "2026大稻埕煙火只剩8月15日壓軸場，晚間8時登場，蜘蛛人無人機結合8分鐘主題煙火、全長20分鐘。觀傳局建議從3號或5號水門進場，往4號水門舞台前草地觀賞，現場另有七夕限定彩蛋。本文整理8月15日煙",
       "publishedAt": "2026-08-14T15:27:13+08:00",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -3185,7 +3605,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://www.businessweekly.com.tw/style/blog/3022232",
-      "title": "2026新北河海音樂季8/15淡水開唱！卡司、節目表、煙火、交通全攻略－活動旅遊全攻略｜商周",
+      "title": "2026新北河海音樂季8/15淡水開唱！卡司、節目表、煙火、交通全攻略",
       "description": "2026新北市河海音樂季淡水場將於8月15日、16日在淡水漁人舞台登場，集結Crispy脆樂團、怕胖團等10組樂團接力開唱，8月16日還有七夕煙火加碼施放，活動全程免費入場！本文整理音樂季時間、地點、",
       "publishedAt": "2026-08-13T17:18:03+08:00",
       "discoveredAt": "2026-08-17T08:03:33.377Z",
@@ -3198,7 +3618,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4712,384 +5132,6 @@
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a9788525fbee12f3cb99",
-      "sourceLastModified": "2026-08-03T14:36:32.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "description": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.",
-      "publishedAt": "2026-08-03T14:36:32.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9a2659c7c79702a0fa52",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026",
-      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "description": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign Evolved, as GeForce NOW is bringing one […]",
-      "publishedAt": "Thu, 30 Jul 2026 13:00:20 GMT",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f1000f19001ee40c636c",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
-      "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
-      "description": "NVIDIA will host a conference call on Wednesday, August 26, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2027, which ended July 26, 2026.",
-      "publishedAt": "Wed, 29 Jul 2026 21:00:00 GMT",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_89251db64f21c08ff627",
-      "sourceLastModified": "2026-07-28T15:25:50.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "title": "Our position on open-weights models",
-      "description": "Anthropic CEO Dario Amodei on open-weights models",
-      "publishedAt": "2026-07-28T15:25:50.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_0b91518ab5fb68121830",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson",
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
-      "description": "Anyone can make a robot move; NVIDIA Jetson makes it think. As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI […]",
-      "publishedAt": "Tue, 28 Jul 2026 15:00:19 GMT",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6aee4af074519b5968c2",
-      "sourceLastModified": "2026-07-27T15:34:00.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "title": "Expanding our partnership with Cognizant | Anthropic",
-      "description": "Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.",
-      "publishedAt": "2026-07-27T15:34:00.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_758bb40eef8a34beaf24",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
-      "title": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
-      "description": "Safe Superintelligence Inc. (SSI) and NVIDIA today announced a long-term partnership to rapidly accelerate SSI’s strategic growth...",
-      "publishedAt": "Mon, 27 Jul 2026 13:00:00 GMT",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_107bf061986805af374d",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
-      "publishedAt": "Mon, 27 Jul 2026 09:00:00 GMT",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2e717dd45f8018377164",
-      "sourceLastModified": "2026-07-25T02:03:36.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "title": "Introducing Claude Opus 5",
-      "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-      "publishedAt": "2026-07-25T02:03:36.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6806d66ad38bc22c0e0d",
-      "sourceLastModified": "2026-07-24T18:46:48.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "title": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "description": "",
-      "publishedAt": "2026-07-24T18:46:48.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d2e4d75836d0dd8b6050",
-      "sourceLastModified": "2026-07-23T04:19:56.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "title": "https://www.anthropic.com/news/claude-opus-4-7",
-      "description": "",
-      "publishedAt": "2026-07-23T04:19:56.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_df2283022d76f78c0e18",
-      "sourceLastModified": "2026-07-23T04:09:31.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "title": "https://www.anthropic.com/news/claude-opus-4-5",
-      "description": "",
-      "publishedAt": "2026-07-23T04:09:31.000Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8547ffdcd9033b32f11e",
-      "sourceLastModified": "2026-07-23",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/google-deepmind-at-iclr-2024",
-      "title": "Google DeepMind at ICLR 2024 — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-07-23",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9cf3a24c896b6108fe05",
-      "sourceLastModified": "2026-07-23",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-      "title": "Google DeepMind and Isomorphic Labs approach to bioresilience — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-07-23",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     }

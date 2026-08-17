@@ -9,15 +9,19 @@ import { createHash } from 'node:crypto';
 const DATA_DIR = new URL('../public/data/', import.meta.url);
 const STATE_URL = new URL('../public/data/collector-state.json', import.meta.url);
 const CANDIDATES_URL = new URL('../public/data/candidates.json', import.meta.url);
-const USER_AGENT = 'TBAR/0.2 (+https://github.com/jonwang329/tbar)';
+const USER_AGENT = 'TBAR/0.8 (+https://github.com/jonwang329/tbar)';
 const MAX_ITEMS_PER_SOURCE = 30;
 const MAX_DETAIL_FETCHES_PER_SOURCE = 8;
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const hash = value => createHash('sha256').update(String(value)).digest('hex').slice(0, 20);
 const clean = value => String(value || '').replace(/\s+/g, ' ').trim();
+const decodeHtml = value => String(value || '')
+  .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;|&#x27;/g, "'")
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ');
+const stripTags = value => clean(decodeHtml(String(value || '').replace(/<[^>]+>/g, ' ')));
 const normalizeUrl = value => {
-  try { const u = new URL(value); u.hash = ''; u.search = ''; return u.toString().replace(/\/$/, ''); }
+  try { const u = new URL(value); u.hash = ''; return u.toString().replace(/\/$/, ''); }
   catch { return clean(value); }
 };
 
@@ -42,10 +46,10 @@ function sourceQuality(source) {
 
 function scoreCandidate(item, source, now) {
   const text = `${item.title} ${item.description || ''}`.toLowerCase();
-  const taiwanTerms = ['taiwan', 'tsmc', ...TAIWAN_COMPANIES.map(x => x.toLowerCase())];
+  const taiwanTerms = ['taiwan','台灣','台积电','台積電','聯發科','鴻海','廣達','緯創','緯穎','英業達','台達','智邦', ...TAIWAN_COMPANIES.map(x => x.toLowerCase())];
   const leaderTerms = AI_LEADERS.map(x => x.toLowerCase());
-  const businessTerms = ['investment','enterprise','data center','datacenter','gpu','cloud','network','semiconductor','partnership','acquisition','revenue','factory','infrastructure','capacity','government'];
-  const importanceTerms = ['launch','introduc','announce','partnership','investment','acquisition','national','infrastructure','model','gpu','data center','sovereign'];
+  const businessTerms = ['investment','投資','擴產','enterprise','data center','datacenter','資料中心','gpu','cloud','雲端','network','網路','semiconductor','半導體','partnership','合作','acquisition','併購','revenue','營收','factory','廠','infrastructure','基礎設施','capacity','產能','government','政府'];
+  const importanceTerms = ['launch','introduc','announce','宣布','partnership','investment','投資','acquisition','併購','national','國家','infrastructure','model','gpu','data center','資料中心','sovereign','擴產','資本支出'];
   const contains = terms => terms.some(term => text.includes(term));
   const publishedAt = item.publishedAt || item.lastmod || now.toISOString();
   return {
@@ -125,17 +129,66 @@ async function collectSitemap(source, previous, now) {
   return candidates;
 }
 
+function extractListingLinks(html, source) {
+  const include = source.includePath ? new RegExp(source.includePath, 'i') : null;
+  const exclude = source.excludePath ? new RegExp(source.excludePath, 'i') : null;
+  const found = new Map();
+  const re = /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+  let match;
+  while ((match = re.exec(html))) {
+    try {
+      const absolute = normalizeUrl(new URL(decodeHtml(match[1]), source.url).toString());
+      if (!/^https?:/i.test(absolute)) continue;
+      if (include && !include.test(absolute)) continue;
+      if (exclude && exclude.test(absolute)) continue;
+      const label = stripTags(match[2]);
+      if (label.length < 8) continue;
+      if (!found.has(absolute) || label.length > found.get(absolute).title.length) found.set(absolute, { url: absolute, title: label });
+    } catch {}
+  }
+  return [...found.values()].slice(0, MAX_ITEMS_PER_SOURCE);
+}
+
+async function collectHtmlList(source, previous, now) {
+  const html = await fetchText(source.url);
+  const links = extractListingLinks(html, source);
+  const candidates = [];
+  let detailFetches = 0;
+  for (const item of links) {
+    const prev = previous.items?.[item.url];
+    let metadata = {
+      title: item.title || prev?.title || '',
+      description: prev?.description || '',
+      publishedAt: prev?.publishedAt || null
+    };
+    if (!prev && detailFetches < MAX_DETAIL_FETCHES_PER_SOURCE) {
+      try {
+        const detail = parsePageMetadata(await fetchText(item.url), item.url);
+        metadata = { ...metadata, ...detail, title: detail.title || metadata.title };
+        detailFetches += 1;
+        await sleep(150);
+      } catch (error) {
+        console.warn(`  detail fetch failed ${item.url}: ${error}`);
+      }
+    }
+    candidates.push(toCandidate({ url:item.url, ...metadata }, source, previous, now));
+  }
+  return candidates;
+}
+
 const now = new Date();
 await mkdir(DATA_DIR, { recursive: true });
 const previousState = await loadJson(STATE_URL, { version: 1, items: {}, sourceStatus: {} });
 const all = [];
 const sourceStatus = { ...previousState.sourceStatus };
 
-for (const source of SOURCE_REGISTRY.filter(s => ['rss','sitemap'].includes(s.adapter))) {
+for (const source of SOURCE_REGISTRY.filter(s => ['rss','sitemap','html-list'].includes(s.adapter))) {
   try {
     const items = source.adapter === 'rss'
       ? await collectRss(source, previousState, now)
-      : await collectSitemap(source, previousState, now);
+      : source.adapter === 'sitemap'
+        ? await collectSitemap(source, previousState, now)
+        : await collectHtmlList(source, previousState, now);
     all.push(...items);
     sourceStatus[source.id] = { status: 'ok', itemCount: items.length, lastSuccessAt: now.toISOString(), lastError: null };
     console.log(`✓ ${source.name}: ${items.length} candidates`);
@@ -156,11 +209,11 @@ const carriedForward = (previousOutput?.candidates || []).filter(item => {
 const byUrl = new Map(carriedForward.map(item => [item.url, item]));
 for (const candidate of all) {
   const current = byUrl.get(candidate.url);
-  if (!current || candidate.sourceQualityScore > current.sourceQualityScore) byUrl.set(candidate.url, candidate);
+  if (!current || candidate.sourceQualityScore > current.sourceQualityScore || candidate.sourceId === current.sourceId) byUrl.set(candidate.url, candidate);
 }
 const candidates = [...byUrl.values()]
   .sort((a,b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-  .slice(0, 150);
+  .slice(0, 180);
 
 const itemState = { ...previousState.items };
 for (const item of candidates) itemState[item.url] = {
@@ -174,14 +227,15 @@ for (const item of candidates) itemState[item.url] = {
 };
 
 const stableCandidates = candidates.map(({ lastSeenAt, ...item }) => item);
-const newOutput = { version: 2, updatedAt: now.toISOString(), candidates: stableCandidates };
+const newOutput = { version: 3, updatedAt: now.toISOString(), candidates: stableCandidates };
 const comparable = value => JSON.stringify(value?.candidates || []);
 const dataChanged = comparable(previousOutput) !== comparable(newOutput);
 
 if (dataChanged || !previousOutput) {
   await writeFile(CANDIDATES_URL, JSON.stringify(newOutput, null, 2));
-  await writeFile(STATE_URL, JSON.stringify({ version: 2, items: itemState, sourceStatus }, null, 2));
+  await writeFile(STATE_URL, JSON.stringify({ version: 3, items: itemState, sourceStatus }, null, 2));
   console.log(`✓ wrote ${stableCandidates.length} candidates (data changed)`);
 } else {
-  console.log(`= no candidate changes; preserving committed data timestamps`);
+  await writeFile(STATE_URL, JSON.stringify({ version: 3, items: itemState, sourceStatus }, null, 2));
+  console.log(`= no candidate changes; preserving committed candidate timestamp`);
 }

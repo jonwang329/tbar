@@ -7,15 +7,37 @@ export const SOURCE_REGISTRY = [
   { id:'moda', name:'Taiwan MODA', url:'https://moda.gov.tw/en/', feedUrl:'https://moda.gov.tw/sitemap.xml', kind:'government', priority:'P1', adapter:'sitemap', includePath:'moda\\.gov\\.tw/(?:en/)?press/', checkMinutes:30, countries:['Taiwan'], topics:['AI policy','GPU','digital infrastructure'] },
   { id:'moea', name:'Taiwan MOEA', url:'https://www.moea.gov.tw/Mns/english/home/English.aspx', kind:'government', priority:'P1', adapter:'html', checkMinutes:30, countries:['Taiwan'], topics:['industry','energy','investment'] },
   { id:'ndc', name:'Taiwan NDC', url:'https://www.ndc.gov.tw/en/', kind:'government', priority:'P1', adapter:'html', checkMinutes:1440, countries:['Taiwan'], topics:['economy','PMI','business indicators','policy'] },
+
+  // Taiwan media discovery layer. These are used to discover significant local signals;
+  // important claims should still be checked against company, government or filing sources.
+  { id:'udn-economic', name:'經濟日報', url:'https://money.udn.com/money/index?pid=61', kind:'media', priority:'P1', adapter:'html-list', includePath:'money\\.udn\\.com/money/story/', checkMinutes:15, countries:['Taiwan'], topics:['Taiwan business','investment','semiconductor','AI','data center'] },
+  { id:'businessweekly', name:'商業周刊', url:'https://www.businessweekly.com.tw/latest', kind:'media', priority:'P1', adapter:'html-list', includePath:'businessweekly\\.com\\.tw/', excludePath:'/RSS|/rss|/Search|/Archive|/Event|/SiteMap', checkMinutes:30, countries:['Taiwan'], topics:['Taiwan business','AI','management','industry'] },
+  { id:'commonwealth', name:'天下雜誌', url:'https://www.cw.com.tw/index.php/today', kind:'media', priority:'P1', adapter:'html-list', includePath:'cw\\.com\\.tw/article/', checkMinutes:30, countries:['Taiwan'], topics:['Taiwan business','AI','technology','industry','policy'] },
+  { id:'ctee', name:'工商時報', url:'https://www.ctee.com.tw/', kind:'media', priority:'P2', adapter:'manual', checkMinutes:30, countries:['Taiwan'], topics:['Taiwan business','markets','industry'] },
+
   { id:'reuters', name:'Reuters', url:'https://www.reuters.com/', kind:'media', priority:'P1', adapter:'manual', checkMinutes:15, topics:['business','AI','markets'] },
   { id:'bloomberg', name:'Bloomberg', url:'https://www.bloomberg.com/', kind:'media', priority:'P1', adapter:'manual', checkMinutes:15, topics:['business','AI','markets'] },
   { id:'ft', name:'Financial Times', url:'https://www.ft.com/', kind:'media', priority:'P1', adapter:'manual', checkMinutes:20, topics:['business','AI','markets'] },
   { id:'nikkei', name:'Nikkei Asia', url:'https://asia.nikkei.com/', kind:'media', priority:'P1', adapter:'manual', checkMinutes:20, topics:['Asia','business','technology'] },
   { id:'wsj', name:'Wall Street Journal', url:'https://www.wsj.com/', kind:'media', priority:'P2', adapter:'manual', checkMinutes:30, topics:['business','markets'] },
   { id:'cnbc', name:'CNBC', url:'https://www.cnbc.com/', kind:'media', priority:'P2', adapter:'manual', checkMinutes:30, topics:['business','markets','technology'] },
-  { id:'wechat-curated', name:'WeChat Curated Intelligence', url:'wechat://curated', kind:'curated', priority:'P1', adapter:'manual', checkMinutes:15, topics:['AI leader clips','Chinese summaries'], notes:'Discovery/curation only; verify important claims against original/primary sources.' }
+
+  // Chinese curated intelligence: discovery only, never the single source of truth.
+  { id:'wechat-curated', name:'WeChat Curated Intelligence', url:'wechat://curated', kind:'curated', priority:'P1', adapter:'manual', checkMinutes:15, topics:['AI leader clips','Chinese summaries'], notes:'Discovery/curation only; verify important claims against original/primary sources.' },
+  { id:'reportify', name:'深研閱讀 Reportify', url:'wechat://reportify', kind:'curated', priority:'P1', adapter:'manual', checkMinutes:30, topics:['AI research','earnings calls','industry research','investment'] },
+  { id:'harvard-xu-ai', name:'哈佛老徐抓 AI 趨勢', url:'wechat://harvard-xu-ai', kind:'curated', priority:'P1', adapter:'manual', checkMinutes:30, topics:['AI trends','AI leaders','models','agents'] },
+  { id:'hongling-tavern', name:'弘凌的小酒館', url:'wechat://hongling-tavern', kind:'curated', priority:'P1', adapter:'manual', checkMinutes:30, topics:['optical networking','AI infrastructure','data center','supply chain'] },
+  { id:'alex-bao', name:'Alex 包老師', url:'wechat://alex-bao', kind:'curated', priority:'P1', adapter:'manual', checkMinutes:30, topics:['Elon Musk','AI infrastructure','semiconductor','energy'] }
 ];
+
 export const AI_LEADERS = ['Jensen Huang','Sam Altman','Dario Amodei','Demis Hassabis','Elon Musk','Sundar Pichai','Satya Nadella','Lisa Su','Mark Zuckerberg','Andy Jassy'];
 export const TAIWAN_COMPANIES = ['TSMC','MediaTek','ASE','UMC','Foxconn','Quanta','Wistron','Wiwynn','Inventec','Delta','Accton'];
 export const COUNTRY_DEEP_DIVE = ['Taiwan','Korea','Japan','Singapore'];
 export const DEEP_DIVE_DIMENSIONS = ['GPU compute','AI data-center capacity','Sovereign AI','Cloud infrastructure','Near / middle-tier cloud','GPU utilization / sharing','Networking','Power & cooling','Enterprise AI adoption','Government investment / policy','Taiwan opportunity gap'];
+
+export const TREND_BUCKETS = [
+  { id:'agent-orchestration', name:'Agent orchestration', terms:['agent','agents','orchestration','multi-agent','codex','claude','model routing'], lens:'Work is shifting from one-model prompting to orchestrated teams of specialized models, with stronger models increasingly used for planning, verification and final review.' },
+  { id:'ai-infrastructure', name:'AI infrastructure scaling', terms:['gpu','data center','datacenter','network','optical','power','cooling','infrastructure','ai factory'], lens:'AI advantage is becoming a systems problem: compute, networking, power, cooling, utilization and financing have to scale together.' },
+  { id:'taiwan-capex', name:'Taiwan investment & capacity', terms:['taiwan','tsmc','mediatek','foxconn','quanta','wistron','wiwynn','inventec','delta','accton','investment','factory','capacity'], lens:'For Taiwan, the opportunity is moving beyond component supply toward higher-value infrastructure integration, cloud operations, GPU utilization and enterprise AI services.' },
+  { id:'ai-leaders', name:'AI leader signals', terms:['jensen','altman','amodei','hassabis','musk','pichai','nadella','lisa su','zuckerberg','jassy'], lens:'Repeated signals from key decision-makers can reveal where capital, product roadmaps and ecosystem power are moving before the impact is fully visible in financial results.' }
+];

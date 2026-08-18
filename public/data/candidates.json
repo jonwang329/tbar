@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T21:50:30.391Z",
+  "updatedAt": "2026-08-18T22:55:01.893Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -81,6 +81,183 @@
       "freshnessScore": 100,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2b0b7635d7cd03b8c290",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9700183?from=edn_maintab_index",
+      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股周二重挫，費城半導體指數大跌5%，美光、SanDisk和Marvell等跌幅均達7%以上。美債殖利率升至多年高點，中東局勢緊張推高油價，加深市場對通膨及舉債成本的疑慮；Anthropic年化營收雖超過650億美元，仍略低部分市場估算，促使投資人對近期大漲的AI硬體股獲利了結，拖累美股收低。",
+      "publishedAt": "2026-08-18T22:55:01.893Z",
+      "discoveredAt": "2026-08-18T22:55:01.893Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e015a2739b4c8772aa43",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9700183?from=edn_newest_index",
+      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股周二重挫，費城半導體指數大跌5%，美光、SanDisk和Marvell等跌幅均達7%以上。美債殖利率升至多年高點，中東局勢緊張推高油價，加深市場對通膨及舉債成本的疑慮；Anthropic年化營收雖超過650億美元，仍略低部分市場估算，促使投資人對近期大漲的AI硬體股獲利了結，拖累美股收低。",
+      "publishedAt": "2026-08-18T22:55:01.893Z",
+      "discoveredAt": "2026-08-18T22:55:01.893Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0b1b2eaadace92b0f36d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9700182?from=edn_newest_index",
+      "title": "8月19日重要財經行事曆 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣 經濟部發布第2季製造業產值 NCC委員被提名人公聽會 三三會例會 台灣機器人與智慧自動化展暨台北國際自動化工業大展開幕 除權息：復華台灣科技優息、廣隆、光寶科、矽統、佳能、卓越、奇鋐、彩富、霈方、蜜望實 法人說明會：興農、達欣工、台驊控股、晶技、安勤 國際 歐元區7月CPI Fed上次會議紀錄 中國大陸 2026 世界機器人大會開幕",
+      "publishedAt": "2026-08-18T22:55:01.893Z",
+      "discoveredAt": "2026-08-18T22:55:01.893Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a0e1f2a8038eea77976a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9700175?from=edn_newest_index",
+      "title": "雨神準備long stay 專家：明起4天降雨最集中顯著 至少維持到下周二 | 生活 | 要聞 | 經濟日報",
+      "description": "雨神，準備long stay。氣象專家林得恩今天在「林老師氣象站」臉書粉專表示，台灣目前正位於一個大低壓帶內，而大低壓帶內又有2個小低壓系統，分別是位於琉球附近的94W及南海海域的95W。隨著大低壓帶逐漸向西北移動，低壓帶南側的西南風也慢慢靠近，於是，環境不穩定度增大，豐沛水氣也就開始輸送至台灣，降雨機會明顯增加。",
+      "publishedAt": "2026-08-18T22:55:01.893Z",
+      "discoveredAt": "2026-08-18T22:55:01.893Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0e5ece2d3e0b325bea1f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9700173?from=edn_newest_index",
+      "title": "【專家之眼】習近平訪美峰會 豈容華盛頓怠慢 | 國際焦點 | 國際 | 經濟日報",
+      "description": "最近曾有媒體報導，中國大陸主管對美事務官員在習近平九月出訪美國前，對於川普政府內部各部會與機構間缺乏協調，致使諸多準備作業無法順利完成極為頭痛。特別是對於高峰對話以及相關協議，整個草擬準備與幕僚作業進程極不理想，更讓北京認為華盛頓高層無法統合內部歧見，在多頭馬車各行其是狀況下，就連最基本禮賓接待規格程序，再加上峰會議題與協議文件都難以敲定確認。",
+      "publishedAt": "2026-08-18T22:55:01.893Z",
+      "discoveredAt": "2026-08-18T22:55:01.893Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8bc2f02524e183d81c9c",
+      "sourceLastModified": "2026-08-18T22:54:44.727Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "title": "https://openai.com/index/nvidia/chatgpt-work",
+      "description": "",
+      "publishedAt": "2026-08-18T22:54:44.727Z",
+      "discoveredAt": "2026-08-18T22:55:01.893Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
@@ -288,7 +465,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -318,7 +495,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -348,7 +525,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -378,7 +555,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -408,7 +585,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -438,7 +615,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -468,7 +645,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -498,7 +675,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -838,7 +1015,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9699768?from=edn_hottest_index",
-      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% 7016",
+      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% 7340",
       "description": "全球長天期公債殖利率衝上十多年高點，布蘭特油價也漲至每桶91美元，削弱風險情緒，科技股領跌下，美股18日早盤四大指數盡墨。",
       "publishedAt": "2026-08-18T18:01:03.047Z",
       "discoveredAt": "2026-08-18T18:01:03.047Z",
@@ -1029,7 +1206,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1058,7 +1235,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1194,7 +1371,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9699710?from=edn_hottest_index",
-      "title": "美長債殖利率走升 台指期夜盤失守 45K 大關 9340",
+      "title": "美長債殖利率走升 台指期夜盤失守 45K 大關 10011",
       "description": "台指期夜盤18日開盤時，受美股那斯達克電子盤走跌影響，以45,137點、上漲49點開出，一度上衝至45,208點、上漲120點後，因美國長天期公債殖利率全面走升，市場買盤縮手下，指數又快速翻黑，最低來到44,752點、下跌336點，截至晚間約21點，指數跌勢略為收斂、來到約44,900點、下跌188點，失守45K大關。",
       "publishedAt": "2026-08-18T15:52:26.626Z",
       "discoveredAt": "2026-08-18T15:52:26.626Z",
@@ -1208,7 +1385,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1238,7 +1415,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1268,7 +1445,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1298,7 +1475,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1328,7 +1505,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2034,7 +2211,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9699054?from=edn_hottest_index",
-      "title": "台積電寶山 F20 廠工安意外 公司完整回應來了 7148",
+      "title": "台積電寶山 F20 廠工安意外 公司完整回應來了 7227",
       "description": "",
       "publishedAt": "2026-08-18T11:59:04.412Z",
       "discoveredAt": "2026-08-18T11:59:04.412Z",
@@ -2364,7 +2541,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9697993?from=edn_hottest_index",
-      "title": "跌停一堆人搶買！凌巨財報難產 19日起停牌 重挫跌停卻爆量打開 7617",
+      "title": "跌停一堆人搶買！凌巨財報難產 19日起停牌 重挫跌停卻爆量打開 7696",
       "description": "",
       "publishedAt": "2026-08-18T10:59:41.004Z",
       "discoveredAt": "2026-08-18T10:59:41.004Z",
@@ -2528,7 +2705,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5195,186 +5372,6 @@
         "Taiwan"
       ],
       "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d58d0c3896db2ea60550",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9697708?from=edn_newest_index",
-      "title": "Thunes 將支援 Fiserv 為平台提供即時全球付款服務 2026-08-18 03:00",
-      "description": "",
-      "publishedAt": "2026-08-17T19:37:45.605Z",
-      "discoveredAt": "2026-08-17T19:37:45.605Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_62d99b0005da29f67a1d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9697707?from=edn_newest_index",
-      "title": "私人直升機墜毀希臘錫夫諾斯島 致3死並引發火災 2026-08-18 02:54",
-      "description": "",
-      "publishedAt": "2026-08-17T19:37:45.605Z",
-      "discoveredAt": "2026-08-17T19:37:45.605Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_903fac28ba7a625051dc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9697700?from=edn_newest_index",
-      "title": "8月18日 五件財經大事搶先看 2026-08-18 02:13",
-      "description": "",
-      "publishedAt": "2026-08-17T19:37:45.605Z",
-      "discoveredAt": "2026-08-17T19:37:45.605Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f081ee01d5d88fcda6fb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9697572?from=edn_newest_index",
-      "title": "熱錢匯入 台幣勁升1.94角 匯銀人士：不排除靠攏31.5元 2026-08-18 02:04",
-      "description": "",
-      "publishedAt": "2026-08-17T19:37:45.605Z",
-      "discoveredAt": "2026-08-17T19:37:45.605Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_637ec5e5bce101453c5e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9696943?from=edn_hottest_index",
-      "title": "載板四雄都擠進成交值前十名 但外資只獨愛「他」 12872",
-      "description": "",
-      "publishedAt": "2026-08-17T19:37:45.605Z",
-      "discoveredAt": "2026-08-17T19:37:45.605Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9c03ef867a114ed24f5d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9697575?from=edn_newest_index",
-      "title": "央行不死守32 市場關注 | 外匯市場 | 金融 | 經濟日報",
-      "description": "新台幣近期升勢凌厲，從32元附近一路突破整數關卡，昨（17）日更升至31.852元，創下近一個半月新高。外界關注，過去市場一度將32元視為央行重要的「心理關卡」，但這次新台幣升破32元後，央行並未大力阻升，甚至讓匯價進一步挑戰31.8元。",
-      "publishedAt": "2026-08-17T18:02:52.724Z",
-      "discoveredAt": "2026-08-17T18:02:52.724Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T20:56:35.867Z",
+  "updatedAt": "2026-08-18T21:50:30.391Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,126 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_013adde23dfb733aa640",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9700133?from=edn_newest_index",
+      "title": "午後強對流明起雨勢更猛 吳德榮：沙德爾颱風最快今晚生成 朝沖繩前進 | 生活 | 要聞 | 經濟日報",
+      "description": "低壓帶影響，今天東半部水氣多有局部短暫降雨，中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，大氣不穩定，北部及中南部午後有強對流發展，今天北部23至35度、中部25至36度、南部23至36度、東部22至35度。",
+      "publishedAt": "2026-08-18T21:50:30.391Z",
+      "discoveredAt": "2026-08-18T21:50:30.391Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d63a4b1cf229a9c4472b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10511/9700126?from=edn_newest_index",
+      "title": "密謀刺殺美財長貝森特未遂 涉案跨性別者判6年1個月 | 美國新聞 | 國際 | 經濟日報",
+      "description": "美國聯邦參議院去年初進行財政部長貝森特人事案表決時，1名跨性別者企圖闖國會大廈刺殺貝森特，遭警方當場逮捕，法院今天以密謀...",
+      "publishedAt": "2026-08-18T21:50:30.391Z",
+      "discoveredAt": "2026-08-18T21:50:30.391Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e092b05e76ec8c137165",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9700121?from=edn_newest_index",
+      "title": "8月18日 期交所夜盤行情 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "盤後時段臺指期收在44,527點，（較開盤參考價）下跌561點。 小臺指期收在44,550點，（較開盤參考價）下跌538點。 微臺指期收在44,541點，（較開盤參考價）下跌547點。 電子期收在2,845.55點，（較開盤參考價）下跌18點。 半導體30指數期收在15,063點，（較開盤參考價）下跌227點。 臺灣中型100期貨收在34,886點，（較開盤參考價）下跌341點。 元大台灣50ETF期貨收在103.4點，（較開盤參考價）下跌1.35點。 元大美債20年ETF期貨收在25.88點，（較開盤參考價）上漲0.01點。 聯電期貨收在116.5點，（較開盤參考價）下跌1.5點。 台積電期貨收在2,342點，（較開盤參考價）下跌34點。 東證期貨收在4,096.25點，（較開盤參考價）下跌43.75點。 美國道瓊期貨收在53,420點，（較開盤參考價）下跌79點。 美國那斯達克100期貨收在29,699點，（較開盤參考價）下跌172點。 美國費城半導體期貨收在11,842點，（較開盤參考價）下跌535點。 英國富時100指數期",
+      "publishedAt": "2026-08-18T21:50:30.391Z",
+      "discoveredAt": "2026-08-18T21:50:30.391Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9d57b1cd52f66e41a2e8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9700123?from=edn_newest_index",
+      "title": "中東局勢緩和希望渺茫 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國與伊朗停火協議到期，且在重新開放荷莫茲海峽（Strait ofHormuz）方面未見進展，加劇了外界對能源價格上漲可...",
+      "publishedAt": "2026-08-18T21:50:30.391Z",
+      "discoveredAt": "2026-08-18T21:50:30.391Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -555,7 +675,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -582,7 +702,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -718,7 +838,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9699768?from=edn_hottest_index",
-      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% 6763",
+      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% 7016",
       "description": "全球長天期公債殖利率衝上十多年高點，布蘭特油價也漲至每桶91美元，削弱風險情緒，科技股領跌下，美股18日早盤四大指數盡墨。",
       "publishedAt": "2026-08-18T18:01:03.047Z",
       "discoveredAt": "2026-08-18T18:01:03.047Z",
@@ -732,7 +852,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -762,7 +882,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1074,7 +1194,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9699710?from=edn_hottest_index",
-      "title": "美長債殖利率走升 台指期夜盤失守 45K 大關 8927",
+      "title": "美長債殖利率走升 台指期夜盤失守 45K 大關 9340",
       "description": "台指期夜盤18日開盤時，受美股那斯達克電子盤走跌影響，以45,137點、上漲49點開出，一度上衝至45,208點、上漲120點後，因美國長天期公債殖利率全面走升，市場買盤縮手下，指數又快速翻黑，最低來到44,752點、下跌336點，截至晚間約21點，指數跌勢略為收斂、來到約44,900點、下跌188點，失守45K大關。",
       "publishedAt": "2026-08-18T15:52:26.626Z",
       "discoveredAt": "2026-08-18T15:52:26.626Z",
@@ -1914,7 +2034,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9699054?from=edn_hottest_index",
-      "title": "台積電寶山 F20 廠工安意外 公司完整回應來了 7111",
+      "title": "台積電寶山 F20 廠工安意外 公司完整回應來了 7148",
       "description": "",
       "publishedAt": "2026-08-18T11:59:04.412Z",
       "discoveredAt": "2026-08-18T11:59:04.412Z",
@@ -2244,7 +2364,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9697993?from=edn_hottest_index",
-      "title": "跌停一堆人搶買！凌巨財報難產 19日起停牌 重挫跌停卻爆量打開 7583",
+      "title": "跌停一堆人搶買！凌巨財報難產 19日起停牌 重挫跌停卻爆量打開 7617",
       "description": "",
       "publishedAt": "2026-08-18T10:59:41.004Z",
       "discoveredAt": "2026-08-18T10:59:41.004Z",
@@ -4727,7 +4847,7 @@
     },
     {
       "id": "cand_d2b1b9b170c83fc55700",
-      "sourceLastModified": "2026-08-18T20:43:25.364Z",
+      "sourceLastModified": "2026-08-18T21:01:39.125Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -5259,126 +5379,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b9ad1300970729a04f18",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9697577?from=edn_newest_index",
-      "title": "美國、伊朗打經濟耐力戰 川普表態不急於結束衝突 德黑蘭改守為攻 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美伊60天停火17日屆滿。美國總統川普表態不急於結束這場衝突，紐時指出，戰事轉為經濟耐力戰；伊朗資深官員告訴路透，該國已決定轉守為攻，設定要求美方履行合作備忘錄（MOU）的期限，若沒達成，所有伊朗實體都將準備面對緊張升級。與此同時，黎巴嫩的戰火再度爆發。",
-      "publishedAt": "2026-08-17T18:02:52.724Z",
-      "discoveredAt": "2026-08-17T18:02:52.724Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_36ff891c3f4afc1cbc19",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9697579?from=edn_newest_index",
-      "title": "中東油國接駁運輸 有助抑制油價 | 國際焦點 | 國際 | 經濟日報",
-      "description": "中東產油國持續透過接駁方式，把大量原油運出波斯灣，有助抑制油價，交易者和分析師表示，這是布蘭特原油8月大多維持在每桶80至90美元的原因之一，遠低於戰事爆發初期部分市場人士預估的150美元。",
-      "publishedAt": "2026-08-17T18:02:52.724Z",
-      "discoveredAt": "2026-08-17T18:02:52.724Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_85b7129697d434faa4c4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9697537?from=edn_newest_index",
-      "title": "日第2季 GDP 成長意外放緩 季增1.1% 央行9月升息添變數 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本第2季經濟成長意外放緩，企業投資連續兩季下滑，民間消費也陷入停滯，可見中東戰爭推升能源及原物料成本開始壓抑內需。這份數據可能使日本銀行（央行）9月是否升息更難抉擇。",
-      "publishedAt": "2026-08-17T18:02:52.724Z",
-      "discoveredAt": "2026-08-17T18:02:52.724Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f65cd1d59a7e1e4be311",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5628/9697588?from=edn_newest_index",
-      "title": "普發萬元 別只算眼前政治帳 | 社論 | 專欄 | 經濟日報",
-      "description": "賴清德總統昨天下午突然在臉書宣布，將在116年度中央政府總預算之內，在歲入歲出平衡、實質零舉債的前提下，歲出增列2,357億元，普發現金每人1萬元，讓「AI紅利，全民共享」。從時間倉促及戲碼鋪陳的突兀來看，顯然是為年底選舉增加有利籌碼。",
-      "publishedAt": "2026-08-17T18:02:52.724Z",
-      "discoveredAt": "2026-08-17T18:02:52.724Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

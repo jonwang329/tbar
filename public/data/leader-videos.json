@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-18T08:00:00Z",
+  "selectionRule": "Curated, not exhaustive: prioritize popular or authoritative long-form videos with durable strategic value for AI, agents, infrastructure and leadership.",
+  "leaders": [
+    {
+      "name": "Jensen Huang",
+      "videos": [
+        {
+          "title": "GTC 2024 Keynote",
+          "source": "NVIDIA",
+          "url": "https://www.nvidia.com/en-us/on-demand/session/gtc24-s62542/",
+          "whySelected": "Landmark Blackwell-era keynote covering accelerated computing, generative AI, cloud and AI infrastructure.",
+          "editorPick": true
+        }
+      ]
+    },
+    {
+      "name": "Sam Altman",
+      "videos": [
+        {
+          "title": "OpenAI's Sam Altman talks ChatGPT, AI agents and superintelligence — live at TED2025",
+          "source": "TED",
+          "url": "https://www.ted.com/talks/sam_altman_openai_s_sam_altman_talks_chatgpt_ai_agents_and_superintelligence_live_at_ted2025",
+          "whySelected": "High-signal overview of OpenAI's direction, agents, safety and superintelligence; widely watched.",
+          "editorPick": true
+        }
+      ]
+    },
+    {
+      "name": "Dario Amodei",
+      "videos": [
+        {
+          "title": "$10 Billion Models, OpenAI, Scaling, & AGI in 2 years",
+          "source": "Dwarkesh Podcast",
+          "url": "https://www.dwarkesh.com/p/dario-amodei",
+          "whySelected": "Deep long-form discussion of scaling, economic usefulness, alignment, security and powerful AI.",
+          "editorPick": true
+        }
+      ]
+    },
+    {
+      "name": "Demis Hassabis",
+      "videos": [
+        {
+          "title": "Future of AI, Simulating Reality, Physics and Video Games — Lex Fridman #475",
+          "source": "Lex Fridman Podcast",
+          "url": "https://lexfridman.com/demis-hassabis-2/",
+          "whySelected": "Exceptional long-form discussion spanning AGI, world models, science, compute, energy and the AI race.",
+          "editorPick": true
+        }
+      ]
+    },
+    {
+      "name": "Elon Musk",
+      "videos": [
+        {
+          "title": "War, AI, Aliens, Politics, Physics, Video Games, and Humanity — Lex Fridman #400",
+          "source": "Lex Fridman Podcast",
+          "url": "https://lexfridman.com/elon-musk-4-transcript",
+          "whySelected": "Includes substantive sections on xAI, Grok, compute-per-watt, AI regulation and open source.",
+          "editorPick": true
+        }
+      ]
+    },
+    {
+      "name": "Satya Nadella",
+      "videos": [
+        {
+          "title": "Build 2026 podcast with Satya Nadella, No Priors and Latent Space",
+          "source": "Microsoft Build",
+          "url": "https://build.microsoft.com/en-US/sessions/LIVE100",
+          "whySelected": "Strong discussion of agentic AI, coding, platform strategy and Microsoft's developer direction.",
+          "editorPick": true
+        }
+      ]
+    },
+    {
+      "name": "Sundar Pichai",
+      "videos": [
+        {
+          "title": "Google AI: Release Notes — Sundar Pichai on Gemini and the future of AI",
+          "source": "Google",
+          "url": "https://blog.google/innovation-and-ai/products/sundar-pichai-ai-release-notes-podcast/",
+          "whySelected": "Direct CEO discussion of Google's AI-first strategy, Gemini and long-term technology bets.",
+          "editorPick": true
+        }
+      ]
+    }
+  ]
+}

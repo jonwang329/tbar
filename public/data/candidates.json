@@ -1,7 +1,457 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-19T17:55:55.343Z",
+  "updatedAt": "2026-08-19T19:12:37.528Z",
   "candidates": [
+    {
+      "id": "cand_2350ebd527e5679de2eb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9702296?from=edn_maintab_index",
+      "title": "明年財經五大政策 定錨 政院今拍板施政計畫 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "行政院今（20）日將通過明年度施政計畫，強調將加足馬力，全力啟動「更開放、更富強、更安全的國家總路線」。財經部會五大重點政策也將定錨，財政部聚焦減稅、兆元投資公共建設；經濟部鎖定扶植中小微企業，並發展多元綠能；金管會將卯足全力衝刺亞洲資產管理中心。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6c8424af10ff6d4239fe",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9702320?from=edn_maintab_index",
+      "title": "財部九大優先法案 拚三讀 立院新會期下月開議 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "立法院新會期9月開議，財政部盤點九大優先法案，要力拚新會期三讀，包括婚育三稅（所得稅、房屋稅、地價稅）優惠、延長債券ETF免證交稅優惠、遺贈稅「大老婆條款」等，不少都與民眾權益息息相關。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c22834bec30c9fd315c0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9702307?from=edn_maintab_index",
+      "title": "超微奪單Google 聯發科警戒 博通也面臨訂單遭分食危機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "外媒報導，超微將跨足客製化AI晶片市場，首發客戶是Google，將為其開發第十代張量處理器（TPU），搶單聯發科、博通等大廠。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_13646687f06fd582a754",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9702258?from=edn_maintab_index",
+      "title": "智慧自動化系列展登場 台灣機器人國家隊 成形 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台灣機器人與智慧自動化系列展昨（19）日登場，上緯、羅昇、新漢、所羅門及和椿等大廠，不再單打獨鬥展示單一機器人，而是集結零組件、控制系統、AI軟體及場域應用夥伴，以團隊結盟方式搶攻國際市場，台灣機器人國家隊儼然成形。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c571e0942a8833bdbd71",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9702230?from=edn_maintab_index",
+      "title": "貨櫃海運業 再現疫情榮景 美東線運價衝上1萬美元 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美東貨櫃航線現貨運價正式突破1萬美元大關，指標貨攬業者指出，貨櫃海運業正處於「暴利」收割階段，隨全球有效運力快速收縮、供應鏈危機短期難解，美東線運價續戰新高，也將牽動本周即將出爐的貨櫃運價指數。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1d8b3a21fc05dcce1cec",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9702297?from=edn_maintab_index",
+      "title": "台積埃米世代 完勝三星 先進製程藍圖明確 量產時間大幅超前 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積電先進製程藍圖明確，在埃米世代可望再度完勝三星。依據三星官方資訊，原訂2027年量產1.4奈米的時間點，將延後至2029年，比台積電A14晚一年量產。業界看好，台積電將持續享有領先者紅利，助攻營收與獲利。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c403f6f4d3181e77ca7c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9702301?from=edn_maintab_index",
+      "title": "意外！美國擴大回購長債 操作規模至少增一倍 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財政部19日意外宣布，將把10年至30年期的長期國債的回購操作規模至少提高一倍到40億美元，執行時間為9月9日至11月4日。債市壓力頓時獲得紓解，美債殖利率應聲從高點下跌。DXY美元指數一度跌破99，現貨金價大漲3%。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_03d1fc9c3aab91e51d61",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9702329?from=edn_maintab_index",
+      "title": "台星搶才 各自出招 獎酬股票緩課上限提高 有譜 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "為協助產業留才，立委提案修正《產業創新條例》，放寬員工獎酬股票租稅優惠，經濟部先前亦鬆口表示支持，朝野都有共識，放寬租稅優惠留才有譜。不過因產創條例提案高達11版本，修法牽涉甚廣，部分內容仍待協商取得共識後，才能順利三讀。",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_da2b12209cf9ade8e954",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9702313?from=edn_maintab_index",
+      "title": "650億！創意發動最大籌資 簽訂銀行團聯貸案、發行海外公司債 台積電（2330）轉投資ASIC設計服務大廠創意昨（19）日公告，董事會決議通過與銀行團簽訂400億元聯貸案，並發行上限8億美元海外無擔保轉換公司債，可望合計籌措約650億元銀彈，是創意成立以來最大...",
+      "description": "",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a6fcf03e9b426637a6d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9702268?from=edn_maintab_index",
+      "title": "AI效應 國銀外幣放款衝高 全年拚新增5,000億 據央行統計，6月底國銀外幣放款餘額8,657.7億元，6月單月大增245.2億元，累計上半年新增2,403.3億元，雙寫史上同期新高；外幣授信量能擴大，可望挹注銀行淨利息收入，成為下半年獲利支撐。 ...",
+      "description": "",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c8c1d4aea6a6170fdd02",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9702507?from=edn_newest_index",
+      "title": "加薩5歲女童遭槍殺 以色列首度坦承開火展開調查 2026-08-20 03:12",
+      "description": "",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_74a19f107f388bf1798e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9702229?from=edn_newest_index",
+      "title": "交通部核准營運了 北捷信義東延段最快通車時間曝光 2026-08-20 03:04",
+      "description": "",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a9203e3d75b79cbcc3fc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9702249?from=edn_newest_index",
+      "title": "走進微縮的台灣近代史 空總「晴空季」啟航 空軍基地變身文化機場 2026-08-20 03:03",
+      "description": "",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f94cacb649cc3eaf2139",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9702225?from=edn_newest_index",
+      "title": "宜蘭情人節閃耀登場！268米光影鵲橋點亮夜空 演唱會煙火連嗨5天 2026-08-20 03:03",
+      "description": "",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_37c42895f397bfe470ac",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9702202?from=edn_newest_index",
+      "title": "給次世代飛行員的前衛時計 IWC台北101推Next Space Age特展 2026-08-20 03:03",
+      "description": "",
+      "publishedAt": "2026-08-19T19:12:37.528Z",
+      "discoveredAt": "2026-08-19T19:12:37.528Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1fe35298d4a5e4bf4757",
       "sourceLastModified": null,
@@ -324,7 +774,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -382,7 +832,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -411,7 +861,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -440,7 +890,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -606,7 +1056,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9702103?from=edn_hottest_index",
-      "title": "美科技巨頭帶頭反彈 台指期夜盤大漲、收復 45k 大關 9914",
+      "title": "美科技巨頭帶頭反彈 台指期夜盤大漲、收復 45k 大關 10552",
       "description": "台指期夜盤19日開盤時，受美股電子盤走穩帶動，以44,631點、上漲131點開出，隨賣壓已在日盤宣洩，加上美國長天期公債殖利率開始回檔等助益，指數一路上攻，並在那斯達克電子盤由黑翻紅助推下，截至晚間約21點，來到約45,156點、上漲656點，一舉拿下45K大關。",
       "publishedAt": "2026-08-19T15:52:00.434Z",
       "discoveredAt": "2026-08-19T15:52:00.434Z",
@@ -620,7 +1070,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -650,7 +1100,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -680,7 +1130,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -710,7 +1160,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1176,7 +1626,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9700996?from=edn_hottest_index",
-      "title": "台股連2天大跌的凶手找到了 分析師強調反攻號角看 AI 六大族群優先買 9370",
+      "title": "台股連2天大跌的凶手找到了 分析師強調反攻號角看 AI 六大族群優先買 9534",
       "description": "",
       "publishedAt": "2026-08-19T14:08:50.855Z",
       "discoveredAt": "2026-08-19T14:08:50.855Z",
@@ -1206,7 +1656,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9701090?from=edn_hottest_index",
-      "title": "瘦瘦針副作用有解？新藥最高減重28% 藥廠加緊布局下一戰 6465",
+      "title": "瘦瘦針副作用有解？新藥最高減重28% 藥廠加緊布局下一戰 6525",
       "description": "",
       "publishedAt": "2026-08-19T14:08:50.855Z",
       "discoveredAt": "2026-08-19T14:08:50.855Z",
@@ -1550,7 +2000,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2346,7 +2796,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9700221?from=edn_hottest_index",
-      "title": "旅店變金磚！台中威尼斯汽車旅館24億售出 資本轉向「看得見的資產」 10562",
+      "title": "旅店變金磚！台中威尼斯汽車旅館24億售出 資本轉向「看得見的資產」 10641",
       "description": "",
       "publishedAt": "2026-08-19T09:53:37.343Z",
       "discoveredAt": "2026-08-19T09:53:37.343Z",
@@ -4010,7 +4460,7 @@
     },
     {
       "id": "cand_8bc2f02524e183d81c9c",
-      "sourceLastModified": "2026-08-19T17:50:06.916Z",
+      "sourceLastModified": "2026-08-19T18:36:01.262Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -4624,7 +5074,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4651,7 +5101,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4831,7 +5281,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4911,451 +5361,6 @@
       "description": "從零下62度到56度、自己撕下的腳趾甲200多片、打了80頁企業總機爭取贊助成功率千分之二、25歲得到咽喉癌。這些數字伴隨今年40歲的超級馬拉松運動員陳彥博成為亞洲首位完成七大洲、八大站極地超級馬拉松的選手，並在2016年奪下四大極地賽總冠軍。創了很多紀錄，拿了世界冠軍，但陳彥博認為自己最重要的成就是鼓勵更多人挑戰自己，完成心中的不可能。",
       "publishedAt": "2026-08-18T17:02:24.752Z",
       "discoveredAt": "2026-08-18T17:02:24.752Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_498482a448035e581d7f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9700049?from=edn_newest_index",
-      "title": "卓榮泰不副署法案 韓國瑜再轟：行政權可以大吃憲政自助餐嗎？ | 政經焦點 | 要聞 | 經濟日報",
-      "description": "行政院長卓榮泰不副署立院三讀通過的未來帳戶法案，立法院長韓國瑜不忍了重話批評「執政權再大，都大不過憲法」，半夜又再度於臉書下方留言批，試問行政權可以這樣恣意妄為，大吃「憲政自助餐」嗎？",
-      "publishedAt": "2026-08-18T17:02:24.752Z",
-      "discoveredAt": "2026-08-18T17:02:24.752Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2d23392fe28471f52e93",
-      "sourceLastModified": "2026-08-18T17:19:26.106Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/asana",
-      "title": "https://openai.com/index/asana",
-      "description": "",
-      "publishedAt": "2026-08-18T16:01:15.058Z",
-      "discoveredAt": "2026-08-18T17:02:24.752Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5349cb5faab14c914b1a",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/business/indep/1006976",
-      "title": "當豪宅不再只追求坪數，信義區開始出現另一種價值選擇",
-      "description": "「國美馥遇」位於松信路大道，緊鄰信義計畫區，距離約300米，並串聯永春、市政府雙捷運站與成熟的街區生活。這裡的特殊之處，在於它並非只是貼近信義計畫區的繁華，更把城市核心的效率與台北日常的生活感，",
-      "publishedAt": "2026-08-19T00:00:00+08:00",
-      "discoveredAt": "2026-08-18T17:02:24.752Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_abde4d453e9d7cea0b9b",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/business/indep/1006983",
-      "title": "大同「電力、算力、土地」三箭齊發 成長動能延伸至2030年",
-      "description": "大同公司（2371）18日召開法說會，揭示集團下一階段成長藍圖，以「電力、算力、土地」三大引擎全面驅動新一波成長。除了重電本業持續擴產、搶攻北美市場，大同更正式跨足人工智慧資料中心（AIDC）基礎設施",
-      "publishedAt": "2026-08-19T00:00:00+08:00",
-      "discoveredAt": "2026-08-19T09:53:37.343Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2d88fbfa14ce22f149b0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9699775?from=edn_newest_index",
-      "title": "三檔 ETF 今調整成分股 合計規模為1,995.28億元 | 基金天地 | 理財 | 經濟日報",
-      "description": "三檔台股ETF今（19）日成分股調整生效，包含排行台股ETF規模第八大的凱基台灣TOP 50（009816）三進三出、近一年台股原型ETF績效王台新臺灣IC設計（00947）一進一出、代表中小型股的主題ETF富邦臺灣中小（00733）刪除一檔，三檔ETF合計規模為1,995.28億元。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bb3e7242ced30dc3f144",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9699776?from=edn_newest_index",
-      "title": "0053擬分割 改不配息 | 基金天地 | 理財 | 經濟日報",
-      "description": "國內成立最久、純電子科技市值型ETF元大電子（0053）分割及不配息兩個議案投票正式啟動。若決議通過，將接續進行分割作業，所持有的元大電子每股淨值將下降、持有股數上升，總市值不變，以及自今年起調整為不配息，屆時這也將會是首檔從配息改為不配息的ETF，也是第六檔執行分割的ETF，以昨（18）日淨值粗估分割倍率為七倍。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1537c238459cfc1feaa1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9699734?from=edn_newest_index",
-      "title": "AI 算力競賽帶動 電力概念 ETF 火力旺 四檔商品最高年漲近七成 | 基金天地 | 理財 | 經濟日報",
-      "description": "隨AI算力持續升級，市場關注焦點由「算力競賽」延伸至「電力競賽」，反映在相關ETF績效上，四檔電力概念ETF近一年漲幅均超過四成，最高漲近七成，顯示隨AI資料中心擴建及全球電氣化趨勢延續，電力基建相關投資題材持續受到市場關注。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e9ccd6a222ebf33b814f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9699539?from=edn_newest_index",
-      "title": "儒鴻訂單 看到六個月 | 集中市場 | 證券 | 經濟日報",
-      "description": "儒鴻（1476）新客戶開發傳捷報。總經理洪瑞廷昨（18）日表示，先前開發的數個新客戶中，已有一家正式下大單，目前正在生產，預計第3季出貨；目前品牌新品開發動能維持，對2027年上半年營運審慎樂觀。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1095a146f1811b1732e4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9699710?from=edn_hottest_index",
-      "title": "美長債殖利率走升 台指期夜盤失守 45K 大關 11172",
-      "description": "台指期夜盤18日開盤時，受美股那斯達克電子盤走跌影響，以45,137點、上漲49點開出，一度上衝至45,208點、上漲120點後，因美國長天期公債殖利率全面走升，市場買盤縮手下，指數又快速翻黑，最低來到44,752點、下跌336點，截至晚間約21點，指數跌勢略為收斂、來到約44,900點、下跌188點，失守45K大關。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4efe51d94e68ff680cc7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9699725?from=edn_VIP_index_side",
-      "title": "公債市場的30年之癢",
-      "description": "全球長期公債殖利率全面大幅上升。美國30年期公債殖利率繼17日升破5.3%後，18日繼續上攻，一度達到5.336%，是2007年金融海嘯以來最高。但這並非美國獨有的現象，日本30年期公債殖利率上周已超過4%，是27年來首見，本周同樣繼續上揚；歐洲方面從英國到德國、法國，長債殖利率也紛紛逼近多年高點。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8f9f190827a6b49daab6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9699906?from=edn_VIP_index_side",
-      "title": "四大壽險金控押股愈來愈像 2.3兆銀彈藏一個新風險",
-      "description": "四大壽險的台股重倉名單，正在愈來愈像。據各金控揭露大額投資交易名單，國泰、富邦、中信與凱基等四家壽險金控，6月底股票部位合計約2.27兆元，各自前五大重倉股就吃掉約1.11兆元、占近49%。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5b05174ca9bdc4bcb196",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9699556?from=edn_VIP_index_side",
-      "title": "面對 AI 浪潮 為何中國民眾遠比美國人樂觀？",
-      "description": "今年5月在亞利桑那大學畢業典禮上，Google前執行長施密特因稱頌人工智慧（AI）的「巨大益處」而遭到台下學生的噓聲。在此同時，中國官媒則大肆報導大陸學生如何在教室裡熱情擁抱AI。這種鮮明對比反映的是一種更廣泛的分歧，需要更細緻觀察。",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0a9d7cc08af491e03dbe",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9698909?from=edn_bloomberg_index_side",
-      "title": "日本將在澳洲試射高超音速武器 雙方加強防務合作",
-      "description": "",
-      "publishedAt": "2026-08-18T15:52:26.626Z",
-      "discoveredAt": "2026-08-18T15:52:26.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_715bd76c0c2bf000d833",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9699453",
-      "title": "今日最夯股／崇越電成交量創掛牌來新高 連三日漲停有何題材？ | 市場焦點 | 證券 | 經濟日報",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-08-18T14:08:36.858Z",
-      "discoveredAt": "2026-08-18T14:08:36.858Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_af59492a8965883918e3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9699768",
-      "title": "美股早盤／AI 發債搶錢 美長債殖利率衝19年高 費半瀉3% | 美股動態 | 國際 | 經濟日報",
-      "description": "全球長天期公債殖利率衝上十多年高點，布蘭特油價也漲至每桶91美元，削弱風險情緒，科技股領跌下，美股18日早盤四大指數盡墨。",
-      "publishedAt": "2026-08-18T14:08:36.858Z",
-      "discoveredAt": "2026-08-18T14:08:36.858Z",
       "topics": [
         "Taiwan business",
         "investment",

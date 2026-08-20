@@ -1,7 +1,181 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-20T20:55:53.452Z",
+  "updatedAt": "2026-08-20T21:58:34.525Z",
   "candidates": [
+    {
+      "id": "cand_a162353d0dd9dc91181b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9704934?from=edn_newest_index",
+      "title": "美光宣布加碼100億美元 在美新設AI記憶體研發中心 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美光科技今天表示，計劃10年內在愛達荷州波伊西（Boise）新設的研究中心投入100億美元（約新台幣3218億元），推動...",
+      "publishedAt": "2026-08-20T21:58:34.525Z",
+      "discoveredAt": "2026-08-20T21:58:34.525Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bd84e4ac93bd04ec6b4b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9704927?from=edn_newest_index",
+      "title": "華盛頓號抵中東接替林肯號 太平洋地區暫無美航艦部署 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國林肯號（USS Abraham Lincoln）航艦長期部署引發外界關切後，美媒今天報導，華盛頓號航艦已抵達中東，預...",
+      "publishedAt": "2026-08-20T21:58:34.525Z",
+      "discoveredAt": "2026-08-20T21:58:34.525Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bf994337dc4343c68398",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9704920?from=edn_newest_index",
+      "title": "8月20日 期交所夜盤行情 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "盤後時段臺指期收在44,804點，（較開盤參考價）下跌99點。 小臺指期收在44,788點，（較開盤參考價）下跌115點。 微臺指期收在44,776點，（較開盤參考價）下跌127點。 電子期收在2,844.35點，（較開盤參考價）下跌8點。 半導體30指數期收在15,135點，（較開盤參考價）下跌22點。 臺灣中型100期貨收在35,115點，（較開盤參考價）上漲144點。 元大台灣50ETF期貨收在103.8點，（較開盤參考價）下跌0.15點。 元大美債20年ETF期貨收在25.91點，（較開盤參考價）下跌0.15點。 聯電期貨收在115點，（較開盤參考價）下跌1.5點。 台積電期貨收在2,373點，（較開盤參考價）下跌3點。 東證期貨收在4,042.75點，（較開盤參考價）下跌7.75點。 美國道瓊期貨收在53,293點，（較開盤參考價）下跌277點。 美國那斯達克100期貨收在29,311點，（較開盤參考價）下跌328點。 美國費城半導體期貨收在11,670點，（較開盤參考價）下跌195點。 英國富時100指數期貨收在10,787點，（較開盤參考價）上",
+      "publishedAt": "2026-08-20T21:58:34.525Z",
+      "discoveredAt": "2026-08-20T21:58:34.525Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7007d8376744674d6b1e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9704918?from=edn_newest_index",
+      "title": "美債殖利率上升、沃爾瑪財報拖累 美股多收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股主要指數今天多收低，主因美債殖利率攀升削弱投資人風險偏好，加上零售業指標沃爾瑪（Walmart）財報令人失望拖累消費...",
+      "publishedAt": "2026-08-20T21:58:34.525Z",
+      "discoveredAt": "2026-08-20T21:58:34.525Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a9922fe442fe0e97eb90",
+      "sourceLastModified": "2026-08-20T21:58:33.642Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/zalando",
+      "title": "https://openai.com/index/zalando",
+      "description": "",
+      "publishedAt": "2026-08-20T21:58:33.642Z",
+      "discoveredAt": "2026-08-20T21:58:34.525Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0468032f0d62b934bcf6",
+      "sourceLastModified": "2026-08-20T21:58:09.369Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/morgan-stanley",
+      "title": "https://openai.com/index/morgan-stanley",
+      "description": "",
+      "publishedAt": "2026-08-20T21:58:09.369Z",
+      "discoveredAt": "2026-08-20T21:58:34.525Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_de1eaf858e9cce5c8485",
       "sourceLastModified": null,
@@ -10,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9704916?from=edn_newest_index",
-      "title": "川普威脅重懲援助伊朗國家 油價大漲逾2% | 國際焦點 | 國際 | 經濟日報",
+      "title": "川普威脅重懲援助伊朗國家 油價大漲逾2% 2026-08-21 04:45",
       "description": "美國總統川普警告，將對援助伊朗的國家採取報復行動，原油價格今天大漲超過2%，創下7月24日以來新高",
       "publishedAt": "2026-08-20T20:55:53.452Z",
       "discoveredAt": "2026-08-20T20:55:53.452Z",
@@ -24,7 +198,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -154,7 +328,7 @@
     },
     {
       "id": "cand_a4e641607df6d8034af6",
-      "sourceLastModified": "2026-08-20T20:52:44.134Z",
+      "sourceLastModified": "2026-08-20T21:38:46.354Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -171,11 +345,11 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
-      "importanceScore": 65,
+      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     },
@@ -997,7 +1171,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9703269?from=edn_hottest_index",
-      "title": "好會漲！世紀拉出第5根漲停 排隊買單超過3.9萬張 8669",
+      "title": "好會漲！世紀拉出第5根漲停 排隊買單超過3.9萬張 8756",
       "description": "世紀*（5314）在8月14日除權，每仟股無償配發3,157.02936096股，除權以來天天漲停鎖死到終場，填權走勢強勁，20日早盤仍是跳空以漲停23.65元開出後鎖死，拉出第5根漲停，漲停及市價排隊買單超過3.9萬張。",
       "publishedAt": "2026-08-20T16:01:26.651Z",
       "discoveredAt": "2026-08-20T16:01:26.651Z",
@@ -1141,7 +1315,7 @@
     },
     {
       "id": "cand_e5086d2128376ecc58b0",
-      "sourceLastModified": "2026-08-20T19:49:01.487Z",
+      "sourceLastModified": "2026-08-20T21:21:37.696Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1158,7 +1332,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1624,7 +1798,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9704234?from=edn_hottest_index",
-      "title": "台股投資人注意！盤中零股交易新制這天上路 上午9時與整股交易同步開盤 11102",
+      "title": "台股投資人注意！盤中零股交易新制這天上路 上午9時與整股交易同步開盤 11271",
       "description": "",
       "publishedAt": "2026-08-20T14:18:59.038Z",
       "discoveredAt": "2026-08-20T14:18:59.038Z",
@@ -2801,7 +2975,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3174,7 +3348,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9703575?from=edn_hottest_index",
-      "title": "普發現金1萬元何時可以拿到？財長給出答案 20349",
+      "title": "普發現金1萬元何時可以拿到？財長給出答案 20734",
       "description": "",
       "publishedAt": "2026-08-20T08:06:33.732Z",
       "discoveredAt": "2026-08-20T08:06:33.732Z",
@@ -3414,7 +3588,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5621/9703148?from=edn_hottest_index",
-      "title": "Joeman 豪宅遭爆是事務所 實價揭省了700萬元 專家：得不償失 27189",
+      "title": "Joeman 豪宅遭爆是事務所 實價揭省了700萬元 專家：得不償失 27477",
       "description": "網紅Joeman近期遭前女友蕭伊爆料，感情與財務爭議持續延燒，近日又有民眾向媒體爆料，指Joeman位於新莊副都心的知名豪宅「遠雄九五」，權狀標示為「一般事務所」，疑涉及將辦公空間作為住宅使用。",
       "publishedAt": "2026-08-20T06:03:31.570Z",
       "discoveredAt": "2026-08-20T06:03:31.570Z",
@@ -5187,186 +5361,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_13646687f06fd582a754",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9702258?from=edn_maintab_index",
-      "title": "智慧自動化系列展登場 台灣機器人國家隊 成形 台灣機器人與智慧自動化系列展昨（19）日登場，上緯（3708）、羅昇、新漢、所羅門及和椿等大廠，不再單打獨鬥展示單一機器人，而是集結零組件、控制系統、AI軟體及場域應用夥伴，以團隊結盟方式搶攻國際市...",
-      "description": "台灣機器人與智慧自動化系列展昨（19）日登場，上緯、羅昇、新漢、所羅門及和椿等大廠，不再單打獨鬥展示單一機器人，而是集結零組件、控制系統、AI軟體及場域應用夥伴，以團隊結盟方式搶攻國際市場，台灣機器人國家隊儼然成形。",
-      "publishedAt": "2026-08-19T19:12:37.528Z",
-      "discoveredAt": "2026-08-19T19:12:37.528Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c571e0942a8833bdbd71",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9702230?from=edn_maintab_index",
-      "title": "貨櫃海運業 再現疫情榮景 美東線運價衝上1萬美元 美東貨櫃航線現貨運價正式突破1萬美元大關，指標貨攬業者指出，貨櫃海運業正處於「暴利」收割階段，隨全球有效運力快速收縮、供應鏈危機短期難解，美東線運價續戰新高，也將牽動本周即將出爐的貨櫃運價指數。 ...",
-      "description": "美東貨櫃航線現貨運價正式突破1萬美元大關，指標貨攬業者指出，貨櫃海運業正處於「暴利」收割階段，隨全球有效運力快速收縮、供應鏈危機短期難解，美東線運價續戰新高，也將牽動本周即將出爐的貨櫃運價指數。",
-      "publishedAt": "2026-08-19T19:12:37.528Z",
-      "discoveredAt": "2026-08-19T19:12:37.528Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1d8b3a21fc05dcce1cec",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9702297?from=edn_maintab_index",
-      "title": "台積埃米世代 完勝三星 先進製程藍圖明確 量產時間大幅超前 台積電（2330）先進製程藍圖明確，在埃米世代可望再度完勝三星。依據三星官方資訊，原訂2027年量產1.4奈米的時間點，將延後至2029年，比台積電A14晚一年量產。業界看好，台積電將持續享有領先者...",
-      "description": "台積電先進製程藍圖明確，在埃米世代可望再度完勝三星。依據三星官方資訊，原訂2027年量產1.4奈米的時間點，將延後至2029年，比台積電A14晚一年量產。業界看好，台積電將持續享有領先者紅利，助攻營收與獲利。",
-      "publishedAt": "2026-08-19T19:12:37.528Z",
-      "discoveredAt": "2026-08-19T19:12:37.528Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c403f6f4d3181e77ca7c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9702301?from=edn_maintab_index",
-      "title": "意外！美國擴大回購長債 操作規模至少增一倍 美國財政部19日意外宣布，將把10年至30年期的長期國債的回購操作規模至少提高一倍到40億美元，執行時間為9月9日至11月4日。債市壓力頓時獲得紓解，美債殖利率應聲從高點下跌。DXY美元指數一度跌破...",
-      "description": "美國財政部19日意外宣布，將把10年至30年期的長期國債的回購操作規模至少提高一倍到40億美元，執行時間為9月9日至11月4日。債市壓力頓時獲得紓解，美債殖利率應聲從高點下跌。DXY美元指數一度跌破99，現貨金價大漲3%。",
-      "publishedAt": "2026-08-19T19:12:37.528Z",
-      "discoveredAt": "2026-08-19T19:12:37.528Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_03d1fc9c3aab91e51d61",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9702329?from=edn_maintab_index",
-      "title": "台星搶才 各自出招 獎酬股票緩課上限提高 有譜 為協助產業留才，立委提案修正《產業創新條例》，放寬員工獎酬股票租稅優惠，經濟部先前亦鬆口表示支持，朝野都有共識，放寬租稅優惠留才有譜。不過因產創條例提案高達11版本，修法牽涉甚廣，部分內容仍待協商取...",
-      "description": "為協助產業留才，立委提案修正《產業創新條例》，放寬員工獎酬股票租稅優惠，經濟部先前亦鬆口表示支持，朝野都有共識，放寬租稅優惠留才有譜。不過因產創條例提案高達11版本，修法牽涉甚廣，部分內容仍待協商取得共識後，才能順利三讀。",
-      "publishedAt": "2026-08-19T19:12:37.528Z",
-      "discoveredAt": "2026-08-19T19:12:37.528Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_da2b12209cf9ade8e954",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9702313?from=edn_maintab_index",
-      "title": "650億！創意發動最大籌資 簽訂銀行團聯貸案、發行海外公司債 台積電（2330）轉投資ASIC設計服務大廠創意昨（19）日公告，董事會決議通過與銀行團簽訂400億元聯貸案，並發行上限8億美元海外無擔保轉換公司債，可望合計籌措約650億元銀彈，是創意成立以來最大...",
-      "description": "",
-      "publishedAt": "2026-08-19T19:12:37.528Z",
-      "discoveredAt": "2026-08-19T19:12:37.528Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-21T22:55:19.898Z",
+  "updatedAt": "2026-08-21T23:52:20.302Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_3cf1cb335c051d6ff109",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9707084?from=edn_newest_index",
+      "title": "西南風偏強與低壓帶影響 台南高雄屏東防豪雨 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "中央氣象署發布豪雨特報，西南風偏強及低壓帶影響，易有短延時強降雨，今天台南市、高雄市及屏東縣地區有局部大雨或豪雨，嘉義地...",
+      "publishedAt": "2026-08-21T23:52:20.302Z",
+      "discoveredAt": "2026-08-21T23:52:20.302Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_8f2436f86e2ae5a30575",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9706996",
-      "title": "投資人聚焦美國壓低長期借貸成本 美股多數漲 | 美股動態 | 國際 | 經濟日報",
+      "title": "06:00 投資人聚焦美國壓低長期借貸成本 美股多數漲",
       "description": "在美伊就重新開放荷莫茲海峽（Strait of Hormuz）協議仍陷僵局之際，投資人評估美國財政部壓低長期借貸成本的做...",
       "publishedAt": "2026-08-21T22:55:19.898Z",
       "discoveredAt": "2026-08-21T22:55:19.898Z",
@@ -124,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707059?from=edn_newest_index",
-      "title": "美國最高法院暫准白宮宴會廳繼續施工 川普暫獲勝利 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美國最高法院暫准白宮宴會廳繼續施工 川普暫獲勝利 2026-08-22 06:45",
       "description": "美國最高法院今天裁定，暫時允許總統川普繼續興建白宮大型宴會廳。川普對最高法院的裁定表示感謝，稱白宮宴會廳與軍事設施「至關...",
       "publishedAt": "2026-08-21T22:55:19.898Z",
       "discoveredAt": "2026-08-21T22:55:19.898Z",
@@ -154,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9707054?from=edn_newest_index",
-      "title": "氣象署發布豪雨特報 臺南高屏地區防局部大雨或豪雨 | 熱門話題 | 要聞 | 經濟日報",
+      "title": "氣象署發布豪雨特報 臺南高屏地區防局部大雨或豪雨 2026-08-22 06:30",
       "description": "中央氣象署發布豪雨特報，西南風偏強及低壓帶影響，易有短延時強降雨，今(22)日臺南市、高雄市及屏東縣地區有局部大雨或豪雨...",
       "publishedAt": "2026-08-21T22:55:19.898Z",
       "discoveredAt": "2026-08-21T22:55:19.898Z",
@@ -184,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707047?from=edn_newest_index",
-      "title": "中東局勢及亞洲需求推動 油價上漲 | 國際焦點 | 國際 | 經濟日報",
+      "title": "中東局勢及亞洲需求推動 油價上漲 2026-08-22 06:10",
       "description": "市場正在等待美國公布孤立伊朗經濟的相關行動細節，到目前為止，這場導致中東石油出口大幅下降的衝突仍看不到結束的跡象，另外在...",
       "publishedAt": "2026-08-21T22:55:19.898Z",
       "discoveredAt": "2026-08-21T22:55:19.898Z",
@@ -214,7 +244,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9707033?from=edn_newest_index",
-      "title": "台南市大雷雨開轟至少1小時 慎防雷擊、9級以上強陣風 | 生活 | 要聞 | 經濟日報",
+      "title": "台南市大雷雨開轟至少1小時 慎防雷擊、9級以上強陣風 2026-08-22 06:08",
       "description": "西南風偏強及低壓帶影響，易有短延時強降雨，中央氣象署發布台南市大雷雨即時訊息，持續時間至上午7時1分；有短延時強降雨、9級以上強陣風發生，慎防溪河水暴漲、低窪地區積水、低能見度、雷擊。",
       "publishedAt": "2026-08-21T22:55:19.898Z",
       "discoveredAt": "2026-08-21T22:55:19.898Z",
@@ -1276,7 +1306,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9706641?from=edn_hottest_index",
-      "title": "花錢活受罪？台灣人不愛國旅連外媒有關注 專家給解方 8525",
+      "title": "花錢活受罪？台灣人不愛國旅連外媒有關注 專家給解方 9259",
       "description": "新加坡海峽時報報導，許多調查顯示，許多台灣民眾認為在台灣國旅的成本高不可攀，景點缺乏新意，各地老街與夜市千篇一律，假期交通壅塞，熱門景點人滿為患，都是國旅缺乏吸引力的原因。種種因素，導致許多台灣人若有選擇，寧願赴日韓或泰國旅行。",
       "publishedAt": "2026-08-21T17:15:00.078Z",
       "discoveredAt": "2026-08-21T17:15:00.078Z",
@@ -1290,7 +1320,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2086,7 +2116,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9705879?from=edn_hottest_index",
-      "title": "美伊爭荷莫茲控制權 半島電視台用航運數據揭船公司更怕誰 6548",
+      "title": "美伊爭荷莫茲控制權 半島電視台用航運數據揭船公司更怕誰 6753",
       "description": "",
       "publishedAt": "2026-08-21T14:08:22.430Z",
       "discoveredAt": "2026-08-21T14:08:22.430Z",
@@ -2776,7 +2806,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9705377?from=edn_hottest_index",
-      "title": "「三大原因」讓貨櫃三雄持續噴出 萬海創一年新高 陽明衝上成交量第一 6667",
+      "title": "「三大原因」讓貨櫃三雄持續噴出 萬海創一年新高 陽明衝上成交量第一 6923",
       "description": "",
       "publishedAt": "2026-08-21T11:02:39.645Z",
       "discoveredAt": "2026-08-21T11:02:39.645Z",
@@ -2790,7 +2820,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3645,7 +3675,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9705227?from=edn_hottest_index",
-      "title": "填權行情+攻2,100億元國防自主商機題材 世紀連6根漲停 逾4萬張排隊搶 7347",
+      "title": "填權行情+攻2,100億元國防自主商機題材 世紀連6根漲停 逾4萬張排隊搶 7388",
       "description": "",
       "publishedAt": "2026-08-21T07:57:33.261Z",
       "discoveredAt": "2026-08-21T07:57:33.261Z",
@@ -5325,36 +5355,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d071d5116835e848de1f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9704684?from=edn_maintab_index",
-      "title": "台股明年成交量拚天天上兆元 政院通過總預算案 證交稅規模露端倪 行政院會昨（20）日通過明年度中央政府總預算案，歲入、歲出均編列3兆9,266億元，雙創歷史新高。歲入方面，明年證交稅預算數6,415億元，創新高，財政部以上市櫃日均成交量將達1.1兆元為估算基礎，...",
-      "description": "行政院會昨（20）日通過明年度中央政府總預算案，歲入、歲出均編列3兆9,266億元，雙創歷史新高。歲入方面，明年證交稅預算數6,415億元，創新高，財政部以上市櫃日均成交量將達1.1兆元為估算基礎，等於看好明年台股成交量拚天天上兆元。",
-      "publishedAt": "2026-08-20T19:18:38.530Z",
-      "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

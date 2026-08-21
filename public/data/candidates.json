@@ -1,7 +1,151 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-21T19:53:45.286Z",
+  "updatedAt": "2026-08-21T20:54:15.006Z",
   "candidates": [
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-08-22",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-08-22",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-08-22",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-08-22",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-08-22",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-08-22",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0dc58ea045fa1ef63f0a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9706975?from=edn_newest_index",
+      "title": "外資不愛AI了？本周棄電子轉身搶買「航海王」 單周狂掃這檔16萬張 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股21日收45,224點，上漲290點，本周大盤指數下跌586點， 周線終止連2紅翻黑，統計本周外資買超274.45億元，買盤轉向非電族群，周買超前十名個股中，航海王最受青睞，貨櫃三雄全數進榜，其中，買超陽明16萬1,189張，高居周買超個股冠軍。",
+      "publishedAt": "2026-08-21T20:54:15.006Z",
+      "discoveredAt": "2026-08-21T20:54:15.006Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ee2f3fb548e43a80c1e6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9706973?from=edn_newest_index",
+      "title": "美伊戰爭陷僵局 伊朗喊停戰、美國加碼制裁施壓 | 國際焦點 | 國際 | 經濟日報",
+      "description": "伊朗總統裴澤斯基安今天表示，是時候結束與美國長達數月的中東戰爭，因為德黑蘭看來比華盛頓處於更有利的位置。然而在伊朗宣稱處...",
+      "publishedAt": "2026-08-21T20:54:15.006Z",
+      "discoveredAt": "2026-08-21T20:54:15.006Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_f0ec30c0ec8d655911aa",
       "sourceLastModified": null,
@@ -10,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9706969?from=edn_newest_index",
-      "title": "投信由買轉賣 台股資金風向變了！砍電子、抱金融 誰成了避風港？ | 市場焦點 | 證券 | 經濟日報",
+      "title": "投信由買轉賣 台股資金風向變了！砍電子、抱金融 誰成了避風港？ 2026-08-22 03:27",
       "description": "台股8月17日至21日周線下跌586點，收45,224點，跌幅1.28%。投信本周賣超307億元，統計賣超前十名中，第一名為聯電，賣超57,791張，第二、三名都是記憶體，分別為旺宏、華邦電，值得注意的是，投信買超前十名幾乎都是金融股，保守態勢明顯。",
       "publishedAt": "2026-08-21T19:53:45.286Z",
       "discoveredAt": "2026-08-21T19:53:45.286Z",
@@ -24,7 +168,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -40,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9706967?from=edn_newest_index",
-      "title": "台股周線翻黑 誰在逆勢吸金？3飆股狂噴60% 「三大水手」接棒成新主流 | 市場焦點 | 證券 | 經濟日報",
+      "title": "台股周線翻黑 誰在逆勢吸金？3飆股狂噴60% 「三大水手」接棒成新主流 2026-08-22 03:25",
       "description": "台股21日震盪劇烈，盤中一度拉開逾600點，終場在台積電、聯發科等權值股回穩下翻紅，上漲290點、收45,224點，不過成交值進一步縮減至7,192億元。回顧本周，大盤仍下跌586點、跌幅1.28%，周線止步連2紅翻黑，但盤面資金並未全面退潮，反而有一批中小型黑馬狂飆，其中世紀*（5314）、天瀚（6225）、勝昱（4304）本周漲幅全數突破60%，但真正的吸金主角，卻是航運「三大水手」萬海（2615）、四維航（5608）及陽明（2609）。",
       "publishedAt": "2026-08-21T19:53:45.286Z",
       "discoveredAt": "2026-08-21T19:53:45.286Z",
@@ -54,7 +198,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -70,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9706965?from=edn_newest_index",
-      "title": "停機斷電仍可能起火 消防專家揭離岸風機火災防護關鍵 | 生活 | 要聞 | 經濟日報",
+      "title": "停機斷電仍可能起火 消防專家揭離岸風機火災防護關鍵 2026-08-22 03:13",
       "description": "大彰化西北離岸風場日前發生首起火災事故，中央警察大學消防學系教授吳佳隆說，事故原因及設備運轉紀錄尚未釐清，不宜過早判定起火原因或消防設備效能，但離岸風機無人駐守、距岸遠且機艙位置高，確實凸顯火災預防、偵測及初期控制的重要性。",
       "publishedAt": "2026-08-21T19:53:45.286Z",
       "discoveredAt": "2026-08-21T19:53:45.286Z",
@@ -84,7 +228,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -111,7 +255,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -138,7 +282,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -165,11 +309,11 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
-      "importanceScore": 65,
+      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     },
@@ -192,7 +336,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -219,7 +363,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -246,7 +390,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -276,7 +420,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -306,7 +450,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -336,7 +480,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -366,7 +510,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -396,7 +540,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -426,7 +570,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -456,7 +600,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -486,7 +630,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -516,7 +660,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -546,7 +690,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -862,7 +1006,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9706641?from=edn_hottest_index",
-      "title": "花錢活受罪？台灣人不愛國旅連外媒有關注 專家給解方 7014",
+      "title": "花錢活受罪？台灣人不愛國旅連外媒有關注 專家給解方 7452",
       "description": "新加坡海峽時報報導，許多調查顯示，許多台灣民眾認為在台灣國旅的成本高不可攀，景點缺乏新意，各地老街與夜市千篇一律，假期交通壅塞，熱門景點人滿為患，都是國旅缺乏吸引力的原因。種種因素，導致許多台灣人若有選擇，寧願赴日韓或泰國旅行。",
       "publishedAt": "2026-08-21T17:15:00.078Z",
       "discoveredAt": "2026-08-21T17:15:00.078Z",
@@ -876,7 +1020,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -906,7 +1050,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1672,7 +1816,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9705879?from=edn_hottest_index",
-      "title": "美伊爭荷莫茲控制權 半島電視台用航運數據揭船公司更怕誰 6217",
+      "title": "美伊爭荷莫茲控制權 半島電視台用航運數據揭船公司更怕誰 6290",
       "description": "",
       "publishedAt": "2026-08-21T14:08:22.430Z",
       "discoveredAt": "2026-08-21T14:08:22.430Z",
@@ -1686,7 +1830,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2362,7 +2506,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9705377?from=edn_hottest_index",
-      "title": "「三大原因」讓貨櫃三雄持續噴出 萬海創一年新高 陽明衝上成交量第一 6347",
+      "title": "「三大原因」讓貨櫃三雄持續噴出 萬海創一年新高 陽明衝上成交量第一 6407",
       "description": "",
       "publishedAt": "2026-08-21T11:02:39.645Z",
       "discoveredAt": "2026-08-21T11:02:39.645Z",
@@ -3231,7 +3375,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9705227?from=edn_hottest_index",
-      "title": "填權行情+攻2,100億元國防自主商機題材 世紀連6根漲停 逾4萬張排隊搶 7269",
+      "title": "填權行情+攻2,100億元國防自主商機題材 世紀連6根漲停 逾4萬張排隊搶 7292",
       "description": "",
       "publishedAt": "2026-08-21T07:57:33.261Z",
       "discoveredAt": "2026-08-21T07:57:33.261Z",
@@ -3245,7 +3389,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4117,6 +4261,34 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_8129ead9ea5f540d59f7",
+      "sourceLastModified": "2026-08-21",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/bulletin/20452",
+      "title": "預告修正「頻率使用費收費標準」第三條及第二條附件一至附件四、附件六、附件七、附錄一｜行政公告 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "",
+      "publishedAt": "2026-08-21",
+      "discoveredAt": "2026-08-21T20:54:15.006Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_90c4a1596cbb4bbd87f2",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -4819,7 +4991,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -5169,186 +5341,6 @@
       "description": "",
       "publishedAt": "2026-08-20T19:18:38.530Z",
       "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_af92499a3d9cdb69bc01",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9704699?from=edn_newest_index",
-      "title": "比特幣回神 升破7萬美元 2026-08-21 02:26",
-      "description": "",
-      "publishedAt": "2026-08-20T19:18:38.530Z",
-      "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c7aa765fc4cee24c827c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9704703?from=edn_newest_index",
-      "title": "韓貨櫃輪將試航北極航線 2026-08-21 02:24",
-      "description": "",
-      "publishedAt": "2026-08-20T19:18:38.530Z",
-      "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5893f9bf357dd0d7f0d3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9704702?from=edn_newest_index",
-      "title": "澳洲將對科技巨頭課稅 不談新聞合作就課廣告收入2.5% 2026-08-21 02:23",
-      "description": "",
-      "publishedAt": "2026-08-20T19:18:38.530Z",
-      "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d1f7c1356f831a6d46f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9704663?from=edn_newest_index",
-      "title": "監視器、筆電產品面板報價持平 | 科技產業 | 產業 | 經濟日報",
-      "description": "集邦科技（TrendForce）昨（20）日公布最新IT用面板報價，在零組件成本上漲及缺料問題等因素角力下，預估監視器及筆電用面板8月下旬報價持平。",
-      "publishedAt": "2026-08-20T17:15:51.210Z",
-      "discoveredAt": "2026-08-20T17:15:51.210Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b9d79d98518780092db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9704645?from=edn_newest_index",
-      "title": "森崴前總座之子收購股票 斥資1,000萬元買2億股 | 產業熱點 | 產業 | 經濟日報",
-      "description": "再生能源系統廠森崴能源先前股票下市之後，近期突然公告接獲公開收購人胡正杰通知，將以每股0.05元、總金額1,000萬元，收購森崴股票2億股，取得72.82%股權，引發市場熱議。",
-      "publishedAt": "2026-08-20T17:15:51.210Z",
-      "discoveredAt": "2026-08-20T17:15:51.210Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_badeaa858effc07a9bd3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10871/9704657?from=edn_newest_index",
-      "title": "八方、美食拓版圖 加速展店搶攻美國市場 | 綜合產業 | 產業 | 經濟日報",
-      "description": "台灣餐飲新品牌今年接力進軍美國，在當地市場卡位的業者也加速擴張。八方雲集今年美國門市將突破20家，美食-KY旗下85度C朝百店規模邁進，隨兩大品牌持續加密據點並拓展當地新市場，美國營運規模進一步擴大。",
-      "publishedAt": "2026-08-20T17:15:51.210Z",
-      "discoveredAt": "2026-08-20T17:15:51.210Z",
       "topics": [
         "Taiwan business",
         "investment",

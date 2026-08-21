@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-21T20:54:15.006Z",
+  "updatedAt": "2026-08-21T21:54:27.848Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_cad8a2afc80025f167a2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9706996?from=edn_maintab_index",
+      "title": "投資人聚焦美國壓低長期借貸成本 美股多數漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "在美伊就重新開放荷莫茲海峽（Strait of Hormuz）協議仍陷僵局之際，投資人評估美國財政部壓低長期借貸成本的做...",
+      "publishedAt": "2026-08-21T21:54:27.848Z",
+      "discoveredAt": "2026-08-21T21:54:27.848Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6841025ce029def1acd8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9706996?from=edn_newest_index",
+      "title": "投資人聚焦美國壓低長期借貸成本 美股多數漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "在美伊就重新開放荷莫茲海峽（Strait of Hormuz）協議仍陷僵局之際，投資人評估美國財政部壓低長期借貸成本的做...",
+      "publishedAt": "2026-08-21T21:54:27.848Z",
+      "discoveredAt": "2026-08-21T21:54:27.848Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f7cdf77e1aad6d2523c9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9706992?from=edn_newest_index",
+      "title": "8月21日 期交所夜盤行情 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "盤後時段臺指期收在45,074點，（較開盤參考價）下跌64點。 小臺指期收在45,063點，（較開盤參考價）下跌75點。 微臺指期收在45,069點，（較開盤參考價）下跌69點。 電子期收在2,850.05點，（較開盤參考價）下跌8.65點。 半導體30指數期收在15,303點，（較開盤參考價）上漲32點。 臺灣中型100期貨收在34,979點，（較開盤參考價）下跌178點。 元大台灣50ETF期貨收在104.8點，（較開盤參考價）上漲0.05點。 元大美債20年ETF期貨收在25.74點，（較開盤參考價）下跌0.18點。 聯電期貨收在117.5點，今日收平盤。 台積電期貨收在2,413點，（較開盤參考價）上漲4點。 東證期貨收在4,076.75點，（較開盤參考價）下跌0.5點。 美國道瓊期貨收在53,152點，（較開盤參考價）上漲232點。 美國那斯達克100期貨收在29,421點，（較開盤參考價）上漲63點。 美國費城半導體期貨收在11,660點，（較開盤參考價）下跌190點。 英國富時100指數期貨收在10,841點，（較開",
+      "publishedAt": "2026-08-21T21:54:27.848Z",
+      "discoveredAt": "2026-08-21T21:54:27.848Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0dc58ea045fa1ef63f0a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9706975?from=edn_newest_index",
-      "title": "外資不愛AI了？本周棄電子轉身搶買「航海王」 單周狂掃這檔16萬張 | 市場焦點 | 證券 | 經濟日報",
+      "title": "外資不愛AI了？本周棄電子轉身搶買「航海王」 單周狂掃這檔16萬張 2026-08-22 04:12",
       "description": "台股21日收45,224點，上漲290點，本周大盤指數下跌586點， 周線終止連2紅翻黑，統計本周外資買超274.45億元，買盤轉向非電族群，周買超前十名個股中，航海王最受青睞，貨櫃三雄全數進榜，其中，買超陽明16萬1,189張，高居周買超個股冠軍。",
       "publishedAt": "2026-08-21T20:54:15.006Z",
       "discoveredAt": "2026-08-21T20:54:15.006Z",
@@ -108,7 +198,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -124,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9706973?from=edn_newest_index",
-      "title": "美伊戰爭陷僵局 伊朗喊停戰、美國加碼制裁施壓 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美伊戰爭陷僵局 伊朗喊停戰、美國加碼制裁施壓 2026-08-22 04:00",
       "description": "伊朗總統裴澤斯基安今天表示，是時候結束與美國長達數月的中東戰爭，因為德黑蘭看來比華盛頓處於更有利的位置。然而在伊朗宣稱處...",
       "publishedAt": "2026-08-21T20:54:15.006Z",
       "discoveredAt": "2026-08-21T20:54:15.006Z",
@@ -138,7 +228,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1006,7 +1096,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9706641?from=edn_hottest_index",
-      "title": "花錢活受罪？台灣人不愛國旅連外媒有關注 專家給解方 7452",
+      "title": "花錢活受罪？台灣人不愛國旅連外媒有關注 專家給解方 7928",
       "description": "新加坡海峽時報報導，許多調查顯示，許多台灣民眾認為在台灣國旅的成本高不可攀，景點缺乏新意，各地老街與夜市千篇一律，假期交通壅塞，熱門景點人滿為患，都是國旅缺乏吸引力的原因。種種因素，導致許多台灣人若有選擇，寧願赴日韓或泰國旅行。",
       "publishedAt": "2026-08-21T17:15:00.078Z",
       "discoveredAt": "2026-08-21T17:15:00.078Z",
@@ -1816,7 +1906,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9705879?from=edn_hottest_index",
-      "title": "美伊爭荷莫茲控制權 半島電視台用航運數據揭船公司更怕誰 6290",
+      "title": "美伊爭荷莫茲控制權 半島電視台用航運數據揭船公司更怕誰 6396",
       "description": "",
       "publishedAt": "2026-08-21T14:08:22.430Z",
       "discoveredAt": "2026-08-21T14:08:22.430Z",
@@ -2506,7 +2596,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9705377?from=edn_hottest_index",
-      "title": "「三大原因」讓貨櫃三雄持續噴出 萬海創一年新高 陽明衝上成交量第一 6407",
+      "title": "「三大原因」讓貨櫃三雄持續噴出 萬海創一年新高 陽明衝上成交量第一 6500",
       "description": "",
       "publishedAt": "2026-08-21T11:02:39.645Z",
       "discoveredAt": "2026-08-21T11:02:39.645Z",
@@ -2969,7 +3059,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3375,7 +3465,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9705227?from=edn_hottest_index",
-      "title": "填權行情+攻2,100億元國防自主商機題材 世紀連6根漲停 逾4萬張排隊搶 7292",
+      "title": "填權行情+攻2,100億元國防自主商機題材 世紀連6根漲停 逾4萬張排隊搶 7315",
       "description": "",
       "publishedAt": "2026-08-21T07:57:33.261Z",
       "discoveredAt": "2026-08-21T07:57:33.261Z",
@@ -5262,96 +5352,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_66b2bd7df27c53c99d6c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9704635?from=edn_maintab_index",
-      "title": "Google擴大合作邁威爾 以最高122億美元認股權綁定雙方利益 Google客製化AI晶片供應版圖再洗牌，繼博通、聯發科（2454）之後，Google宣布擴大與邁威爾（Marvell）合作，並以最高122億美元認股權綁定雙方利益。 受此消息影響，邁威爾股價周三...",
-      "description": "",
-      "publishedAt": "2026-08-20T19:18:38.530Z",
-      "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0cdb3f49539972014f28",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9704892?from=edn_newest_index",
-      "title": "8月21日 五件財經大事搶先看 2026-08-21 03:01",
-      "description": "",
-      "publishedAt": "2026-08-20T19:18:38.530Z",
-      "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bf9ed25ee420bf320dd3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9704885?from=edn_newest_index",
-      "title": "外媒：輝達年底前出貨中國專屬AI晶片 搶攻推論市場 2026-08-21 02:30",
-      "description": "",
-      "publishedAt": "2026-08-20T19:18:38.530Z",
-      "discoveredAt": "2026-08-20T19:18:38.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

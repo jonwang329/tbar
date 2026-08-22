@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-22T16:54:21.932Z",
+  "updatedAt": "2026-08-22T17:46:08.889Z",
   "candidates": [
+    {
+      "id": "cand_e0e5066593f041ff31a8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/8543/9708180?from=edn_newest_index",
+      "title": "股海自由行／盤勢震盪 靜待輝達財報開獎 | 證券達人 | 證券 | 經濟日報",
+      "description": "最近偏空消息出現的頻率比上半年多了不少，除美伊對峙歹戲拖棚，荷莫茲海峽與中東局勢升溫再度成市場的風險來源外，近期全球主要國家長債遭遇龐大賣壓，其中美國30年期公債殖利率一度飆升逾5.3%，逼得美國財政部出手拉高長債回購規模，也透露市場擔心的已不僅是通膨而已。",
+      "publishedAt": "2026-08-22T17:46:08.889Z",
+      "discoveredAt": "2026-08-22T17:46:08.889Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cc241651c5f068f529ad",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9708182?from=edn_newest_index",
+      "title": "輝達、SK 海力士、美光傳簽長約 取得所需高頻寬記憶體和 DRAM | 美股動態 | 國際 | 經濟日報",
+      "description": "隨著持續的記憶體短缺不斷帶來人工智慧（AI）基建建設上的問題，輝達據傳可能已與SK海力士和美光簽署新的協議，以取得自家產品所需的記憶體晶片。",
+      "publishedAt": "2026-08-22T17:46:08.889Z",
+      "discoveredAt": "2026-08-22T17:46:08.889Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e079be6aa89d46ccac97",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9708183?from=edn_newest_index",
+      "title": "輝達斥資60億美元 取得 Poolside 模型授權 壯大 AI 生態系 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達已取得未上市的資料中心開發商Cloverleaf少數股權，並參與Starcloud新一輪籌資，且據傳已同意支付60億美元，取得Poolside人工智慧模型授權，並延攬Poolside逾100位員工，顯示輝達不斷壯大其AI生態系。",
+      "publishedAt": "2026-08-22T17:46:08.889Z",
+      "discoveredAt": "2026-08-22T17:46:08.889Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5d7c2968add582918eb7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9708186?from=edn_newest_index",
+      "title": "Anthropic 加速自研晶片 | 美股動態 | 國際 | 經濟日報",
+      "description": "Claude開發商Anthropic延攬原Google客製化晶片計畫創始者薩雷克（Amir Salek），為自研AI晶片布局。另據紐時引述知情人士報導，Anthropic為籌備IPO委請的銀行團隊，近期與潛在投資人討論時透露，該公司可能尋求在首次公開發行股票（IPO）募資逾1,000億美元。",
+      "publishedAt": "2026-08-22T17:46:08.889Z",
+      "discoveredAt": "2026-08-22T17:46:08.889Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c42fa21460d06cc6abee",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9708191?from=edn_newest_index",
+      "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI需求引爆半導體後段產能大戰，封測業迎來大擴產潮，包括日月光投控、力成、京元電、矽格、南茂等五大封測廠，今年同步大舉調升資本支出，依各家公司最新規畫與法人預估，投資規模衝破4,600億元，封測業全面進入AI軍備競賽。",
+      "publishedAt": "2026-08-22T17:46:08.889Z",
+      "discoveredAt": "2026-08-22T17:46:08.889Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3d5ac1c81e06d3be6b33",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5944/9708242?from=edn_bloomberg_index_side",
+      "title": "美窒息式施壓 能讓伊朗低頭？ | 國際專欄 | 專欄 | 經濟日報",
+      "description": "多年來美國先後曾對伊拉克、委內瑞拉及古巴施加經濟壓力，使這些國家的貨幣變得毫無價值，通膨一飛沖天，失業率急劇攀升，但美國單靠經濟制裁並未能使政局發生改變。現在川普打算靠摧毀伊朗經濟，迫使德黑蘭在政治上讓步，但歷史先例證明他的作法大錯特錯。",
+      "publishedAt": "2026-08-22T17:46:08.889Z",
+      "discoveredAt": "2026-08-22T17:46:08.889Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0ab81464b9c0b4e4453f",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9708289?from=edn_maintab_index",
-      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 安聯集團首席經濟顧問伊爾艾朗警告，近來美國長期公債殖利率竄升非比尋常，並非反映對通膨或央行公信力的疑慮，而是受四股異於往常的力量驅動。倘若債市賣壓持續，可能開始導致美國經濟結構性的轉變，並對全球造...",
       "description": "安聯集團首席經濟顧問伊爾艾朗警告，近來美國長期公債殖利率竄升非比尋常，並非反映對通膨或央行公信力的疑慮，而是受四股異於往常的力量驅動。倘若債市賣壓持續，可能開始導致美國經濟結構性的轉變，並對全球造成遠比市場波動持久的影響。",
       "publishedAt": "2026-08-22T16:54:21.932Z",
       "discoveredAt": "2026-08-22T16:54:21.932Z",
@@ -744,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -910,7 +1090,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707878?from=edn_hottest_index",
-      "title": "中國大陸原油進口近腰斬仍未缺油 最大關鍵在充沛庫存 4276",
+      "title": "中國大陸原油進口近腰斬仍未缺油 最大關鍵在充沛庫存 4380",
       "description": "",
       "publishedAt": "2026-08-22T14:00:02.356Z",
       "discoveredAt": "2026-08-22T14:00:02.356Z",
@@ -924,7 +1104,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1150,7 +1330,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707903?from=edn_hottest_index",
-      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 4971",
+      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 5091",
       "description": "美國總統川普周五（21日）暗示，如果必要，他可能動用軍隊「干預」債券市場。他是在回答一位記者提問有關財政部長貝森特努力壓低公債殖利率時，做出這個令人摸不著頭緒的回應。",
       "publishedAt": "2026-08-22T13:21:35.934Z",
       "discoveredAt": "2026-08-22T13:21:35.934Z",
@@ -1254,7 +1434,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1450,7 +1630,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707792?from=edn_hottest_index",
-      "title": "下周開盤前 五件值得回顧的國際大事 4417",
+      "title": "下周開盤前 五件值得回顧的國際大事 4505",
       "description": "",
       "publishedAt": "2026-08-22T11:42:35.953Z",
       "discoveredAt": "2026-08-22T11:42:35.953Z",
@@ -1464,7 +1644,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2290,7 +2470,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9707590?from=edn_hottest_index",
-      "title": "Garden City 今開幕卻遇大巨蛋「大考」 SOGO 董座黃晴雯出招了 3919",
+      "title": "Garden City 今開幕卻遇大巨蛋「大考」 SOGO 董座黃晴雯出招了 4023",
       "description": "",
       "publishedAt": "2026-08-22T09:02:49.570Z",
       "discoveredAt": "2026-08-22T09:02:49.570Z",
@@ -5191,186 +5371,6 @@
         "Taiwan"
       ],
       "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_32e188ddbab4080a44fd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9706595?from=edn_VIP_index_side",
-      "title": "所羅門AI戰線愈拉愈廣！從視覺軟體做到機器人 今年業績估增7成",
-      "description": "",
-      "publishedAt": "2026-08-21T15:56:27.241Z",
-      "discoveredAt": "2026-08-21T15:56:27.241Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f374f1bd28f08585a18f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9706530?from=edn_VIP_index_side",
-      "title": "郵輪經濟升溫，為何基隆港大勝高雄港？",
-      "description": "",
-      "publishedAt": "2026-08-21T15:56:27.241Z",
-      "discoveredAt": "2026-08-21T15:56:27.241Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ffa5b7b81b29eb29c5ba",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9706455",
-      "title": "今日最夯股／威剛第3季迎接 AI 長期需求 量能大增、外資大買 | 市場焦點 | 證券 | 經濟日報",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-08-21T14:08:22.430Z",
-      "discoveredAt": "2026-08-21T14:08:22.430Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fb3d76f96af75d6364e0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9706677",
-      "title": "美股早盤／市場擺脫殖利率攀升陰霾 四大指數齊揚 台積電 ADR 漲1% | 美股動態 | 國際 | 經濟日報",
-      "description": "美股四大指數21日早盤全面上攻，試圖重振旗鼓，從美債殖利率上升引發的跌勢中展開反撲。",
-      "publishedAt": "2026-08-21T14:08:22.430Z",
-      "discoveredAt": "2026-08-21T14:08:22.430Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a4297a590fd9fdeaa71c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9705869",
-      "title": "華許28日將發表傑克森洞年會演說 可能維持「沉默是金」原則 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國聯準會（Fed）主席華許28日將在傑克森洞全球央行年會發表演說，在外界關注升息前景之際，華許可能維持「沉默是金」的原則，不太可能釋出決策訊號，從而加重市場迷霧。",
-      "publishedAt": "2026-08-21T14:08:22.430Z",
-      "discoveredAt": "2026-08-21T14:08:22.430Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4fa9f9d62283d6a9cd65",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9706641",
-      "title": "花錢活受罪？台灣人不愛國旅連外媒有關注 專家給解方 | 國際焦點 | 國際 | 經濟日報",
-      "description": "新加坡海峽時報報導，許多調查顯示，許多台灣民眾認為在台灣國旅的成本高不可攀，景點缺乏新意，各地老街與夜市千篇一律，假期交通壅塞，熱門景點人滿為患，都是國旅缺乏吸引力的原因。種種因素，導致許多台灣人若有選擇，寧願赴日韓或泰國旅行。",
-      "publishedAt": "2026-08-21T14:08:22.430Z",
-      "discoveredAt": "2026-08-21T14:08:22.430Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,7 +1,151 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-22T19:49:33.029Z",
+  "updatedAt": "2026-08-22T20:51:53.960Z",
   "candidates": [
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-08-23",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-08-23",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-08-23",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-08-23",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-08-23",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-08-23",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7ddc29ec31cec54222b6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9708362?from=edn_newest_index",
+      "title": "烏克蘭攻擊俄國經濟設施 普丁：已打開潘朵拉的盒子 | 國際焦點 | 國際 | 經濟日報",
+      "description": "俄羅斯總統普丁今天在一段公開評論中表示，基輔當局對俄羅斯經濟目標發動攻擊，等同於打開了「潘朵拉的盒子」，並警告俄國將針對...",
+      "publishedAt": "2026-08-22T20:51:53.960Z",
+      "discoveredAt": "2026-08-22T20:51:53.960Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cfcc5aaf5d4daa07db87",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9708355?from=edn_newest_index",
+      "title": "日本關東地區規模5.9地震 無海嘯危險 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本氣象廳表示，今天清晨包括東京都一帶的關東地區，發生一起規模5.9地震，但沒有海嘯危險",
+      "publishedAt": "2026-08-22T20:51:53.960Z",
+      "discoveredAt": "2026-08-22T20:51:53.960Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_630a1928427346e193eb",
       "sourceLastModified": null,
@@ -10,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9708351?from=edn_newest_index",
-      "title": "美加談判破局恐陷全面貿易戰 卡尼：兩國關係回不去了 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美加談判破局恐陷全面貿易戰 卡尼：兩國關係回不去了 2026-08-23 03:30",
       "description": "數十年來，加拿大仰賴對美國的特殊市場准入，創造了大部分的繁榮。然而，隨著貿易談判破裂，全球最密切且持久的盟友關係已經出現...",
       "publishedAt": "2026-08-22T19:49:33.029Z",
       "discoveredAt": "2026-08-22T19:49:33.029Z",
@@ -24,7 +168,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -54,7 +198,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -84,7 +228,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -114,7 +258,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -144,7 +288,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -174,7 +318,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -204,7 +348,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -234,7 +378,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -264,7 +408,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -294,7 +438,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -324,7 +468,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -430,7 +574,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9707893?from=edn_hottest_index",
-      "title": "九檔高股息 ETF 逆勢紅 00919下周朝新高發動攻勢 4622",
+      "title": "九檔高股息 ETF 逆勢紅 00919下周朝新高發動攻勢 4972",
       "description": "",
       "publishedAt": "2026-08-22T19:01:54.794Z",
       "discoveredAt": "2026-08-22T19:01:54.794Z",
@@ -444,7 +588,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -624,7 +768,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -654,7 +798,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1540,7 +1684,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707878?from=edn_hottest_index",
-      "title": "中國大陸原油進口近腰斬仍未缺油 最大關鍵在充沛庫存 4489",
+      "title": "中國大陸原油進口近腰斬仍未缺油 最大關鍵在充沛庫存 4550",
       "description": "",
       "publishedAt": "2026-08-22T14:00:02.356Z",
       "discoveredAt": "2026-08-22T14:00:02.356Z",
@@ -1554,7 +1698,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1780,7 +1924,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707903?from=edn_hottest_index",
-      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 5258",
+      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 5323",
       "description": "美國總統川普周五（21日）暗示，如果必要，他可能動用軍隊「干預」債券市場。他是在回答一位記者提問有關財政部長貝森特努力壓低公債殖利率時，做出這個令人摸不著頭緒的回應。",
       "publishedAt": "2026-08-22T13:21:35.934Z",
       "discoveredAt": "2026-08-22T13:21:35.934Z",
@@ -2080,7 +2224,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707792?from=edn_hottest_index",
-      "title": "下周開盤前 五件值得回顧的國際大事 4614",
+      "title": "下周開盤前 五件值得回顧的國際大事 4666",
       "description": "",
       "publishedAt": "2026-08-22T11:42:35.953Z",
       "discoveredAt": "2026-08-22T11:42:35.953Z",
@@ -4203,15 +4347,15 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_e27de523feee15b7d83a",
+      "id": "cand_468b0af521c0625a7029",
       "sourceLastModified": "2026-08-22",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/370",
-      "title": "News and Releases｜Ministry of Digital Affairs",
-      "description": "News and Releases",
+      "url": "https://moda.gov.tw/en/press/background-information/1003",
+      "title": "Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Background Information",
       "publishedAt": "2026-08-22",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
@@ -4231,15 +4375,15 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_0f5362a66eb2493d02c4",
+      "id": "cand_ac7901ee2fee9fdb8fcf",
       "sourceLastModified": "2026-08-22",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/370",
-      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "公告訊息",
+      "url": "https://moda.gov.tw/en/press/background-information/10035",
+      "title": "Interview with Kerry Brown｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Kerry Brown",
       "publishedAt": "2026-08-22",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
@@ -4259,15 +4403,71 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d5ddaccf7d92a0019f0e",
+      "id": "cand_4f197f60dc6867029463",
       "sourceLastModified": "2026-08-22",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/multimedia/1197",
-      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "多媒體專區",
+      "url": "https://moda.gov.tw/en/press/background-information/10171",
+      "title": "Conversation with AmCham Taiwan｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Conversation with AmCham Taiwan",
+      "publishedAt": "2026-08-22",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7d43a0a03431d36035c",
+      "sourceLastModified": "2026-08-22",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10201",
+      "title": "Interview with Salzburger Nachrichten｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Salzburger Nachrichten",
+      "publishedAt": "2026-08-22",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6ae2203954c7936ebd19",
+      "sourceLastModified": "2026-08-22",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/11310",
+      "title": "Interview with Your Undivided Attention podcast｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Your Undivided Attention podcast",
       "publishedAt": "2026-08-22",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
@@ -5165,216 +5365,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fa76365407bccd8d0a09",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9706811?from=edn_maintab_index",
-      "title": "台股熱絡 帶動券商籌資潮 全力充實營運資金 台股交投熱絡，券商今年掀起籌資潮，凱基證券、統一證券等指標券商昨（21）日不約而同宣布最新籌資案，前者董事會授權辦理不超過213億元聯貸案、後者則與銀行團簽約拍板171億元聯貸，用途均為充實中期營運...",
-      "description": "",
-      "publishedAt": "2026-08-21T19:08:01.472Z",
-      "discoveredAt": "2026-08-21T19:08:01.472Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d13cab8b724332b80431",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9706959?from=edn_newest_index",
-      "title": "AI 熱潮從晶片產線外溢 韓科技造富重塑社會經濟樣貌 2026-08-22 02:52",
-      "description": "",
-      "publishedAt": "2026-08-21T19:08:01.472Z",
-      "discoveredAt": "2026-08-21T19:08:01.472Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2e01bdd58a7abafe3939",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9706943?from=edn_newest_index",
-      "title": "20萬尋狗！新竹剪耳黃狗「黃黃」走失 重金懸賞盼奇蹟 2026-08-22 02:41",
-      "description": "",
-      "publishedAt": "2026-08-21T19:08:01.472Z",
-      "discoveredAt": "2026-08-21T19:08:01.472Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b04fc22cfdcc423feaf8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9706956?from=edn_newest_index",
-      "title": "俄無人機「雙重襲擊」烏克蘭購物中心 14死逾120傷 2026-08-22 02:21",
-      "description": "",
-      "publishedAt": "2026-08-21T19:08:01.472Z",
-      "discoveredAt": "2026-08-21T19:08:01.472Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7e448bacea5421fcf08a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9706953?from=edn_newest_index",
-      "title": "8月22日 五件財經大事搶先看 2026-08-22 02:06",
-      "description": "",
-      "publishedAt": "2026-08-21T19:08:01.472Z",
-      "discoveredAt": "2026-08-21T19:08:01.472Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0ae5fa0c4fb50da61d6a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9706951?from=edn_newest_index",
-      "title": "Colgate-Palmolive 擢升 Prabha Narasimhan 為亞太區市場推廣執行副總裁 2026-08-22 02:00",
-      "description": "",
-      "publishedAt": "2026-08-21T19:08:01.472Z",
-      "discoveredAt": "2026-08-21T19:08:01.472Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e664bf5df0e42a52d7c1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9706750?from=edn_newest_index",
-      "title": "大陸光通訊龍頭 中際旭創淨利飆升 上半年大賺639億元 年增2.4倍 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "大陸光通訊龍頭中際旭創昨（21）日披露上半年財報營收人民幣417億元，年增182%，淨利潤人民幣136億元（新台幣639億元），年增高達241%。",
-      "publishedAt": "2026-08-21T17:15:00.078Z",
-      "discoveredAt": "2026-08-21T17:15:00.078Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

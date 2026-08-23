@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-23T11:45:21.092Z",
+  "updatedAt": "2026-08-23T13:41:58.887Z",
   "candidates": [
+    {
+      "id": "cand_6a9cee4c99fd7ce910eb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9709236",
+      "title": "川普擬加大對伊朗經濟壓力 專家分析可行選項一次看 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普矢言對伊朗施加強大經濟壓力。財長貝森特已表示，華府最快下週將對伊朗採取「前所未見」的措施，預定美東時間24日...",
+      "publishedAt": "2026-08-23T13:41:58.887Z",
+      "discoveredAt": "2026-08-23T13:41:58.887Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d2936dffb7558c9705a9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9709426?from=edn_newest_index",
+      "title": "降雨進入最顯著期間 嘉義以南、東半部防豪雨 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "交通部中央氣象署表示，今晚至明天上半天是這波降雨最顯著的期間，嘉義以南、東半部地區易有局部大雨或豪雨；預估明天下半天開始...",
+      "publishedAt": "2026-08-23T13:41:58.887Z",
+      "discoveredAt": "2026-08-23T13:41:58.887Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_986e698e3349f35fa9fa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9709406?from=edn_newest_index",
+      "title": "熱浪侵襲高溫難耐 法國夏季溺水死亡數突破300人 | 國際焦點 | 國際 | 經濟日報",
+      "description": "歐洲各地持續籠罩在頻繁且致命的熱浪之際，法國政府一位官員今天表示，國內今年夏季已經記錄到超過300人溺水身亡",
+      "publishedAt": "2026-08-23T13:41:58.887Z",
+      "discoveredAt": "2026-08-23T13:41:58.887Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a08f2dbbb90722de370a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9709384?from=edn_newest_index",
+      "title": "美國擬祭新制裁 伊朗總統坦言人民面臨諸多問題 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國宣布將對伊朗祭出新制裁，試圖進一步孤立德黑蘭的經濟後，伊朗總統裴澤斯基安（Masoud Pezeshkian）今天坦...",
+      "publishedAt": "2026-08-23T13:41:58.887Z",
+      "discoveredAt": "2026-08-23T13:41:58.887Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3d346269183f0d4f12d5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9709372?from=edn_newest_index",
+      "title": "上海布局第四代半導體 推政策、搭平台、促對接 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "上海近期推出大陸全國首個「第四代半導體未來產業集聚區建設方案（2026-2028年）」，目標到2028年集聚企業不少於50家、產業規模突破人民幣50億元。截至今年7月，上海第四代半導體企業數量已佔全國一半以上，臨港集聚了上海過半的相關企業，覆蓋氧化鎵、金剛石、氮化鋁、銻化物四大方向。不過目前從技術驗證到大規模產業化仍需跨越較長周期。",
+      "publishedAt": "2026-08-23T13:41:58.887Z",
+      "discoveredAt": "2026-08-23T13:41:58.887Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3d5918c3401a5cf90a66",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9709369?from=edn_newest_index",
+      "title": "受颱風紫檀影響 陸探月工程嫦娥七號發射任務今年落空 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "央視報導，中國載人航天工程辦公室23日發布訊息稱，「本著穩妥可靠、萬無一失的原則，經綜合研判，嫦娥七號任務不滿足發射條件，不能在今年預定窗口實施。」外界認為受到紫檀颱風影響，意味嫦娥七號可能得到2027年進行發射任務。",
+      "publishedAt": "2026-08-23T13:41:58.887Z",
+      "discoveredAt": "2026-08-23T13:41:58.887Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6c33c4663b52cde7aee7",
       "sourceLastModified": null,
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9709228?from=edn_maintab_index",
-      "title": "晶片業高薪誘人 南韓「求職補習班」正夯 | 國際焦點 | 國際 | 經濟日報",
+      "title": "晶片業高薪誘人 南韓「求職補習班」正夯 南韓出現「晶片補習班」，助民眾擠進三星電子和SK海力士，反映人工智慧（AI）熱潮使晶片業者獲利創新高，員工獎金也高得驚人，帶動求職人數激增。 英國金融時報（FT）報導，首爾一所補習班，提供由政府...",
       "description": "南韓出現「晶片補習班」，助民眾擠進三星電子和SK海力士，反映人工智慧（AI）熱潮使晶片業者獲利創新高，員工獎金也高得驚人，帶動求職人數激增。",
       "publishedAt": "2026-08-23T11:45:21.092Z",
       "discoveredAt": "2026-08-23T11:45:21.092Z",
@@ -54,10 +234,10 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
-      "businessScore": 60,
+      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
@@ -220,7 +400,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9708223?from=edn_hottest_index",
-      "title": "主動式 ETF 加碼股快上車 聯亞最受歡迎獲六檔新增 | 市場焦點 | 證券 | 經濟日報",
+      "title": "主動式 ETF 加碼股快上車 聯亞最受歡迎獲六檔新增 5336",
       "description": "台股現階段處於利多不多、雜音偏多的環境，行情偏向「不溫不火」區間震盪格局，相較之下，主動式台股ETF績效打敗大盤，展現較強彈升力道；統計發現，台積電、聯發科、川湖、聯亞等股正是這波被主動式台股ETF經理人選中加碼的績優股。",
       "publishedAt": "2026-08-23T11:45:21.092Z",
       "discoveredAt": "2026-08-23T11:45:21.092Z",
@@ -234,7 +414,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -670,7 +850,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9708191?from=edn_hottest_index",
-      "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求 5480",
+      "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求 5903",
       "description": "AI需求引爆半導體後段產能大戰，封測業迎來大擴產潮，包括日月光投控、力成、京元電、矽格、南茂等五大封測廠，今年同步大舉調升資本支出，依各家公司最新規畫與法人預估，投資規模衝破4,600億元，封測業全面進入AI軍備競賽。",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -684,7 +864,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -700,7 +880,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9708124?from=edn_hottest_index",
-      "title": "貝森特抑升殖利率引爆「貶值交易」…美元恐步上日圓後塵？ 5047",
+      "title": "貝森特抑升殖利率引爆「貶值交易」…美元恐步上日圓後塵？ 5210",
       "description": "美國財政部19日宣布擴大回購美國長期公債，在金融市場掀起巨浪，不僅長債殖利率勁揚，美元指數（DXY）跌破99、猛摔至5月來最低，金價一周來更暴漲逾6%。為何市場反應如此激烈？",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -714,7 +894,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -730,7 +910,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9708289?from=edn_hottest_index",
-      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 4809",
+      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 5030",
       "description": "",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -744,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -834,7 +1014,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1014,7 +1194,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1374,7 +1554,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1942,7 +2122,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1970,7 +2150,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1998,7 +2178,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5212,186 +5392,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_acea83727a217b8ce81c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12040/9430087",
-      "title": "竹科工程師年薪200萬，卻不讓家人住飯店吃大餐！為何會有「我不配」、「要節省」的匱乏思維？ | 個人理財 | 理財 | 經濟日報",
-      "description": "作者： 精算媽咪 珊迪兔 我們經常以為，只要賺得夠多，生活自然就會好起來。但實際上真是如此嗎？ 很多人收入明明不低，卻總覺得不夠用；帳戶的數字明明愈來愈多，但內心的焦慮卻絲毫沒有減少，甚至愈來愈焦慮。他們一邊努力工作、一邊嚴格節省，卻始終沒有「變有錢」的踏實感；一旦花錢，就會開始擔心：「這樣花對嗎？會不會下個月就出問題？」 「我不配」、「要節省」的匱乏思維 我曾在一次企業內訓演講中，遇到一位聽眾跟我分享了她的煩惱。「老師，我的金錢煩惱可能跟別人不太一樣。我老公是竹科的資深工程師，年薪兩百多萬，家裡財務狀況很好，以致我的煩惱都不敢說給別人聽。」她眼神裡沒有一絲炫耀，反而是一種長期壓抑下來的無奈。她提到， 先生的原生家庭非常節儉，以致他從小就被灌輸一種強烈的金錢信念─錢不能亂花，有錢就要拿去買房置產，現金留在手上「遲早會花掉」，身上不能有錢。 「我們明明有四間房子，但我每天卻只能在家煮飯， 不能外食。想說沒時間圖個方便到超市買菜，也會被先生嫌棄：『幹嘛花這種",
-      "publishedAt": "2026-08-22T07:48:07.020Z",
-      "discoveredAt": "2026-08-22T07:48:07.020Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e30365285a13012c1a94",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707450?from=edn_maintab_index",
-      "title": "美加談判最後一刻破局！50%關稅將生效 卡尼：美國課多少就反制多少 美國對加拿大加徵50%關稅原定美東時間19日生效，但美國總統川普18日深夜在真實社群發文表示，由於雙方「已達成協議，但仍須完成相關文件」，因此同意將關稅延後3天實施。不過，加拿大總理卡尼21日宣布暫...",
-      "description": "美國對加拿大加徵50%關稅原定美東時間19日生效，但美國總統川普18日深夜在真實社群發文表示，由於雙方「已達成協議，但仍須完成相關文件」，因此同意將關稅延後3天實施。不過，加拿大總理卡尼21日宣布暫停談判，並稱美方最後一刻修改條件，顯示雙方最終未能敲定協議。",
-      "publishedAt": "2026-08-22T07:48:07.020Z",
-      "discoveredAt": "2026-08-22T07:48:07.020Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_afd92e972b36a21d59a9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9707344?from=edn_maintab_index",
-      "title": "家庭收入大解密 新竹縣市獎金進補、台北市財產所得冠全台 主計總處最新家庭收支調查出爐，114年全體家庭平均每戶所得總額為新台幣152.9萬元，續創新高。所得結構顯示，薪資確實是家庭的主要收入來源，但不同縣市存在區域差異，如台北市家庭股利、租金收入進帳不...",
-      "description": "主計總處最新家庭收支調查出爐，114年全體家庭平均每戶所得總額為新台幣152.9萬元，續創新高。所得結構顯示，薪資確實是...",
-      "publishedAt": "2026-08-22T07:48:07.020Z",
-      "discoveredAt": "2026-08-22T07:48:07.020Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aa39cbfa1ee3c16a9afb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5639/9707708?from=edn_newest_index",
-      "title": "2026機器人及智慧自動化展展現技術、應用與海外合作成果 深化國際鏈結 | 自動化產業 | 商情 | 經濟日報",
-      "description": "「2026台灣機器人及智慧自動化展」(20)日持續於南港展覽館一、二館登場，今年展會除展現臺灣在機器人、智慧自動化及智慧製造領域的技術量能，更透過國際論壇、技術研討、商務媒合、智慧工廠參訪及產業鏈交流，從技術展示延伸至實際應用與國際市場，持續擴大臺灣產業與海外市場的合作鏈結。 8月19日舉辦的「國際無人機論壇 International UAV Forum」，聚焦無人機商業化的全球戰略與供應鏈整合。匯聚臺美產業專家，重磅邀請來自AUVSI、國科會「科技、民主與社會研究中心」（DSET）與漢翔航空工業（AIDC）的講者，探討臺灣如何憑藉深厚的航太與機械、資通訊優勢切入無人機供應鏈核心，攜手推動無人機供應鏈接軌國際，建立臺美深度策略夥伴關係，會中並安排臺灣航太與無人機產業業者與美國媒合交流。 智動協會表示，臺灣業者過往習慣從單一產品生產製造切入國際供應鏈，但現在在人工智慧（AI）與邊緣運算驅動下，國際客戶需要可跨域整合、符合其獨特需求的智慧無人載具策略夥伴。智動協會未來將持續協助臺灣廠商產品出口至國際，並為國際廠商提供在臺技術與策略合作夥伴，讓臺灣成為全球無人機供應鏈的策略夥伴。",
-      "publishedAt": "2026-08-22T07:48:07.020Z",
-      "discoveredAt": "2026-08-22T07:48:07.020Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6fa9c5b95c606265049c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5639/9707714?from=edn_newest_index",
-      "title": "三鋒科技CELKEES六軸力感測器展後接單洽談升溫 「力覺神經」搶攻AI機器人六大應用 | 自動化產業 | 商情 | 經濟日報",
-      "description": "隨著生成式AI與機器人技術快速發展，智慧機器人正從「軟體智慧」邁向能感知並與實體世界互動的「物理AI（Physical AI）」時代，對高精度感知元件的需求持續升溫。由台灣大型車床製造商三鋒機器轉投資成立的三鋒科技（CELKEES），日前展出自主研發的高階六軸力／力矩感測器，展會期間吸引多家系統整合商、機器人及自動化設備業者關注，會後接單與技術洽談持續升溫，部分客戶已進一步進入產品測試、技術評估及合作討論階段，顯示機器人產業對「力覺感知」技術的市場需求快速增加。 承襲精密製造底蘊，打造機器人「力覺神經」，三鋒科技董事長郭璦玫表示，CELKEES承襲母公司三鋒機器超過一甲子的精密機械加工與CNC製造經驗，從感測結構、電路設計皆自主掌握，堅持台灣研發、台灣製造（MIT），不僅能確保產品品質與性能，也能依不同機器人及自動化設備需求進行快速客製，將精密製造技術延伸至新世代機器人感知領域。 三鋒科技執行長林育騰指出，隨著AI機器人逐步從單純「看得見」進化到「感受得到」，傳統僅依賴視覺與位置控制的機器人，在精密接觸、柔性加工及人機協作等應用上，仍需要更精準的力覺資訊。CELKEES六軸力感",
-      "publishedAt": "2026-08-22T07:48:07.020Z",
-      "discoveredAt": "2026-08-22T07:48:07.020Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cee153f8b2bf2cb46b5a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9707759?from=edn_newest_index",
-      "title": "SK海力士擬赴日設廠 專家：台記憶體業短期衝擊有限 | 產業熱點 | 產業 | 經濟日報",
-      "description": "韓國記憶體晶片大廠SK海力士傳出評估赴日本興建記憶體晶片廠。台灣專家受訪表示，此舉可分散產能集中風險，並可運用日本半導體...",
-      "publishedAt": "2026-08-22T07:48:07.020Z",
-      "discoveredAt": "2026-08-22T07:48:07.020Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

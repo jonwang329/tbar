@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-23T09:57:00.611Z",
+  "updatedAt": "2026-08-23T10:55:11.631Z",
   "candidates": [
+    {
+      "id": "cand_8b44393b9cccaf474cab",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9709190",
+      "title": "持續受低壓帶與西南風影響 屏東縣明天24日停班停課 | 生活 | 要聞 | 經濟日報",
+      "description": "受西南風及低壓帶影響，南台灣連日豪雨不斷，屏東縣政府表示，根據中央氣象署「0822低壓帶及西南風豪雨事件各地區24小時雨量預測」資訊，8月24日星期一持續受低壓帶及西南風影響，屏東縣降雨量已達「天然災害停止上班及上課作業辦法」，屏東縣24日星期一停班停課。",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a1edcebf62e16116882e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9709183",
+      "title": "低壓帶強降雨影響 台南市政府宣布24日停班課一天 | 生活 | 要聞 | 經濟日報",
+      "description": "受低壓帶強降雨影響，台南市政府稍早宣布，24日全市停止上班上課。台南市政府表示，根據中央氣象署豪雨監測預報，受到低壓帶及西南風持續影響，台南入夜仍有大雨至局部豪雨或短延時強降雨的發生，恐有致災之虞，且連日豪雨本市已多處積淹水需善後清理。",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d1f0ebcb55176dbbaccc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9708962",
+      "title": "美國對進口學名藥課稅 法人看好藥華藥、保瑞等受惠 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美國針對進口至美國的學名藥自8月1日起享有兩年零關稅緩衝期，寬限期於2028年8月屆滿，將直接開徵100%關稅，2029年8月將激增至200%。高額關稅影響主要在傳統學名藥大國，但對於台廠而言，藥華藥（6446）、保瑞（6472）、美時（1795）、東洋（4105）等反將受惠。",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f5cbf3d871f054f6b112",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9709220?from=edn_newest_index",
+      "title": "西南風低壓帶影響 高雄須防超大豪雨、屏東留意大豪雨 | 生活 | 要聞 | 經濟日報",
+      "description": "中央氣象署發布豪雨特報，西南風偏強及低壓帶影響，易有短延時強降雨，今晚至明天，高雄市地區有局部大豪雨或超大豪雨，屏東縣地...",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f06c21a684bbf33c85e0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9709215?from=edn_newest_index",
+      "title": "產業新尖兵來了！青年參訓「這些重點技能」 勞部最高補助10萬元 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "近年來，隨著人工智慧、數位科技等新興技術快速發展，為協助青年掌握產業趨勢及職場所需技能，勞動部推動「產業新尖兵計畫」，課程緊扣國家重點產業發展政策，並提供青年最高10萬元訓練費用補助，即日起新推出109班課程，並且已開放報名，歡迎15歲至29歲青年朋友踴躍參加。",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9fe181257223b8ed2e07",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9709210?from=edn_newest_index",
+      "title": "金融業分眾出擊 從國軍、新住民到高齡族群深化防詐 | 產業熱點 | 產業 | 經濟日報",
+      "description": "詐騙手法不斷翻新，金融業者透過分眾化防詐措施守護多元族群，有銀行業者鎖定新住民族群推動防詐教育，壽險業者攜手國防部提升整...",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_143d4f1d097a2ce2cb2d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5601/9546395?from=edn_newest_index",
+      "title": "老闆問 What’s our exposure? 你真的聽懂了嗎？ | 英語大進化 | 國際 | 經濟日報",
+      "description": "會議上，投資部主管看著報表，問了一句：“What’s our exposure here?” Kevin愣了一下。 exposure？曝光？ 是品牌曝光不夠嗎？ Kevin一時不知怎麼接話—— — Exposure 在金融裡，通常不是「曝光」。 這類字，最容易出錯的地方是—— 你每個字都懂，但整句話卻不知道是什麼意思。 下面幾個例子，金融會議裡很常出現： 1｜exposure We need to reduce our exposure in this market. （Ｘ）我們需要減低市場曝光。 （Ｏ）我們需要降低在這個市場的風險。 exposure 原本是「被看到多少」，但在金融裡，講的是「如果出事，會承擔多少影響」。 2｜position What’s our position now? （Ｘ）我們的位置如何？ （Ｏ）我們現在投入了多少資源／資金？ position 在這裡不是地點，而是你在這件事上「壓了多少」。 3｜run The stock had a strong run. （Ｘ）股票跑走了。 （Ｏ）這檔股票漲了一段。 run 從「跑」變成「一段連續的走勢」，用來形容",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_684d3bf1dde8b12281f1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9709202?from=edn_newest_index",
+      "title": "美加貿易談判破局 陸官媒：加拿大與其被「鈍刀子割肉」不如雄起抗爭 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "美加貿易談判破局，川普政府宣布22日起對價值約200億美元的加拿大輸美商品加徵50%關稅，加拿大總理卡尼則宣布9月8日起對多種美國商品實施報復關稅。對此，具大陸官媒新華社背景的公眾號「牛彈琴」23日指，加拿大此次「掀桌」是因不滿美方「得寸進尺」，並稱「退讓從來換不來尊重，只會餵大對方的胃口」，加拿大與其被「鈍刀子割肉」，不如「索性雄起抗爭一把」。",
+      "publishedAt": "2026-08-23T10:55:11.631Z",
+      "discoveredAt": "2026-08-23T10:55:11.631Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ea694ce01810a8d47ce4",
       "sourceLastModified": null,
@@ -190,7 +430,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9708191?from=edn_hottest_index",
-      "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求 | 產業熱點 | 產業 | 經濟日報",
+      "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求 5328",
       "description": "AI需求引爆半導體後段產能大戰，封測業迎來大擴產潮，包括日月光投控、力成、京元電、矽格、南茂等五大封測廠，今年同步大舉調升資本支出，依各家公司最新規畫與法人預估，投資規模衝破4,600億元，封測業全面進入AI軍備競賽。",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -220,7 +460,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9708124?from=edn_hottest_index",
-      "title": "貝森特抑升殖利率引爆「貶值交易」…美元恐步上日圓後塵？ | 國際焦點 | 國際 | 經濟日報",
+      "title": "貝森特抑升殖利率引爆「貶值交易」…美元恐步上日圓後塵？ 4989",
       "description": "美國財政部19日宣布擴大回購美國長期公債，在金融市場掀起巨浪，不僅長債殖利率勁揚，美元指數（DXY）跌破99、猛摔至5月來最低，金價一周來更暴漲逾6%。為何市場反應如此激烈？",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -250,7 +490,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9708289?from=edn_hottest_index",
-      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 4595",
+      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 4709",
       "description": "",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -354,7 +594,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -534,7 +774,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -624,7 +864,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -654,7 +894,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1548,7 +1788,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3004,7 +3244,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/10869/9708014?from=edn_hottest_index",
-      "title": "台北追不上！新竹縣市家庭所得破200萬元傲視全台 8303",
+      "title": "台北追不上！新竹縣市家庭所得破200萬元傲視全台 8400",
       "description": "",
       "publishedAt": "2026-08-22T14:54:35.351Z",
       "discoveredAt": "2026-08-22T14:54:35.351Z",
@@ -5149,246 +5389,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b98e1d6a8b625aa72806",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707671?from=edn_newest_index",
-      "title": "積欠聯合國50億美元 美國計劃支付8.5億美元 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國政府已通知國會，計劃向聯合國繳納8.5億美元（約新台幣261億元），以償還數十億美元欠款的一部分。這將是川普政府自要...",
-      "publishedAt": "2026-08-22T05:59:38.073Z",
-      "discoveredAt": "2026-08-22T05:59:38.073Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f04cfdc06ca492c9fa1f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707669?from=edn_newest_index",
-      "title": "李維特離開白宮不離川普！卸任後換跑道 繼續跟著跑期中選舉 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國白宮發言人李維特即將卸任，21日最後一次以發言人身分隨總統川普前往南卡羅萊納州參加造勢活動。她向記者證實，離職後將轉往川普的超級政治行動委員會「MAGA Inc.」工作。",
-      "publishedAt": "2026-08-22T05:59:38.073Z",
-      "discoveredAt": "2026-08-22T05:59:38.073Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f3268a7994cf2ec958f8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9707665?from=edn_newest_index",
-      "title": "兆豐保險捐32萬元挺壽山實小後山復育 環境教育從小苗認養開始 | 金融脈動 | 金融 | 經濟日報",
-      "description": "兆豐保險22日攜手臺灣山林復育協會，前往高雄壽山實小參與新生始業輔導活動，並由兆豐保險副總經理張弘欣代表捐贈新臺幣32萬元，支持由壽山實小校長李信興、台灣山林復育協會執行長蔡智豪共同推動的「壽山國小後山生態及原生林復育計畫」。",
-      "publishedAt": "2026-08-22T05:59:38.073Z",
-      "discoveredAt": "2026-08-22T05:59:38.073Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d9383a9ee7f5d34da475",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9707664?from=edn_newest_index",
-      "title": "美促配合制裁伊朗 環時：中國不會陪美國「胡鬧」 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "美國財政部長貝森特20日表示，美國將對伊朗實施「史上最嚴厲制裁」，敦促北京與華府當局合作，並稱24日將召開記者會說明細節...",
-      "publishedAt": "2026-08-22T05:59:38.073Z",
-      "discoveredAt": "2026-08-22T05:59:38.073Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_46180832172b480fcb72",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9707662?from=edn_newest_index",
-      "title": "ISW：中國可能在2030年前大幅自動化南海偵測與執法 2026-08-22 13:42",
-      "description": "",
-      "publishedAt": "2026-08-22T05:59:38.073Z",
-      "discoveredAt": "2026-08-22T05:59:38.073Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eac6d9e9a0b9c6fc5641",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9703382",
-      "title": "整理包／2026平日國旅補助申請方式、使用規則一次看 16大QA一次解惑 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "觀光署推出平日國旅補助方案，要怎麼申請，聯合新聞網整理出個別旅客可能會有的相關疑問，一次解答。",
-      "publishedAt": "2026-08-22T04:59:19.730Z",
-      "discoveredAt": "2026-08-22T04:59:19.730Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9adc116852a7f0e66605",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707271",
-      "title": "Anthropic 延攬 Google TPU 創始者 加速自研 AI 晶片布局 | 國際焦點 | 國際 | 經濟日報",
-      "description": "Anthropic延攬原Google客製化晶片計畫創始者薩雷克（Amir Salek），為自行開發半導體布局。",
-      "publishedAt": "2026-08-22T04:59:19.730Z",
-      "discoveredAt": "2026-08-22T04:59:19.730Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f761e7e201028b9060d0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9706969",
-      "title": "投信由買轉賣 台股資金風向變了！砍電子、抱金融 誰成了避風港？ | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股8月17日至21日周線下跌586點，收45,224點，跌幅1.28%。投信本周賣超307億元，統計賣超前十名中，第一名為聯電，賣超57,791張，第二、三名都是記憶體，分別為旺宏、華邦電，值得注意的是，投信買超前十名幾乎都是金融股，保守態勢明顯。",
-      "publishedAt": "2026-08-22T04:59:19.730Z",
-      "discoveredAt": "2026-08-22T04:59:19.730Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

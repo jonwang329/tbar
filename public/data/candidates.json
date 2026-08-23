@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-23T14:46:59.744Z",
+  "updatedAt": "2026-08-23T15:43:12.428Z",
   "candidates": [
+    {
+      "id": "cand_f46d50bb07c76cd43c5a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9709462",
+      "title": "川習會前釋出善意？ 傳川普擬放行蘋果購買大陸製記憶體 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "科技媒體WCCFTech引述微博帳號「Mobile chip expert」報導，川普政府似乎正準備批准蘋果公司使用大陸記憶體廠長鑫存儲和長江存儲的記憶體晶片，預計在川普和習近平9月會晤後會達成正式協議。該帳號過去曾多次準確預測相關事件。",
+      "publishedAt": "2026-08-23T15:43:12.428Z",
+      "discoveredAt": "2026-08-23T15:43:12.428Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_24814aa5b36475f5b748",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9709649?from=edn_newest_index",
+      "title": "防持續性豪雨威脅 經濟部應變小組提升為一級開設 | 產業熱點 | 產業 | 經濟日報",
+      "description": "受到低壓帶與西南風增強影響，嘉義以南持續有強對流移入，經濟部今天表示，為嚴防持續性豪雨威脅，應變小組今晚6時提升為一級開...",
+      "publishedAt": "2026-08-23T15:43:12.428Z",
+      "discoveredAt": "2026-08-23T15:43:12.428Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4f29bf7aeb0a07b53b56",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11162/9709635?from=edn_newest_index",
+      "title": "大陸限制對台鍺、石英等出口 半導體業3大觀點估影響有限 | 科技產業 | 產業 | 經濟日報",
+      "description": "媒體報導，中國大陸近期透過海關加強查驗、延遲清關等「灰色地帶」手段，限制鍺（Germanium）、高純度石英（Quartz）等材料出口，引發市場關注對半導體大廠如台積電（2330）等影響。但業界分析三大因素，認為對台積電等晶圓廠影響有限，台積電也聲明「不預期對公司營運產生重大影響」，崇越（5434）也表示，旗下崇越石英的原材料主要引自德國為主、日本次之。本報記者整理最新業者說法供讀者一次看。",
+      "publishedAt": "2026-08-23T15:43:12.428Z",
+      "discoveredAt": "2026-08-23T15:43:12.428Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c9c12745081224fd7088",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9709539?from=edn_newest_index",
+      "title": "台股追價力道不足恐高檔震盪 法人建議逢低布局這3大族群 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股受惠外銷訂單創新高的基本面利多支撐，然市場追價意願不足導致量能持續萎縮，預期台股將高檔區間震盪、類股輪動，操作建議「逢低布局、反彈汰弱留強」，選股可留意有缺貨漲價題材的航運、玻纖布、磷化銦，相關如陽明（2609）、富喬（1815）、聯亞（3081）等個股，可伺機切入賺波段。",
+      "publishedAt": "2026-08-23T15:43:12.428Z",
+      "discoveredAt": "2026-08-23T15:43:12.428Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1e695bcef4d260e2d014",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9709253?from=edn_newest_index",
+      "title": "500甜2026／全台最強甜點派對！3日吸客1.8萬人 明星甜點提早完售 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "指標性質感刊物《500輯》主辦、台灣首場以甜點為核心的飲食文化活動「500甜2026甜點派對」，在今日迎來活動最後一日。知名甜點餐廳「SEASON Artisan Pâtissier」特別在現場打造經典甜品，吸引許多甜點控排隊搶購，多個人氣品牌的甜點品項也陸續提早完售，活動三日共計吸引約18,000名民眾前來共襄盛舉，一同享受台灣甜點職人與優異品牌共同打造的甜蜜時光。",
+      "publishedAt": "2026-08-23T15:43:12.428Z",
+      "discoveredAt": "2026-08-23T15:43:12.428Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ddd06e522a043dcd4a65",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9709542?from=edn_newest_index",
+      "title": "熱帶性低氣壓TD24生成 南部及花蓮山區慎防豪雨狂炸 | 生活 | 要聞 | 經濟日報",
+      "description": "受到低壓帶及強西南風影響，南部持續有強降雨，中央氣象署資深預報員葉致均表示，今晚至明天雨勢最為顯著，另台灣西南部近海的低壓帶，今晚已升級成熱帶性低氣壓TD24，嘉義以南、東半部慎防局部大雨或豪雨。",
+      "publishedAt": "2026-08-23T15:43:12.428Z",
+      "discoveredAt": "2026-08-23T15:43:12.428Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fbca4991d0e603087003",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9709441?from=edn_hottest_index",
+      "title": "明年勞保費率調升至13% 逾千萬勞工、62萬雇主保費負擔全面上調 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "自2027年起，勞保普通事故費率調升0.5個百分點，將由今年12.5%調升至13%，其中1%為就業保險費率，12%為勞工保險費率，明年將達到「勞保條例」勞保法定費率上限。因勞保費率調升，預估近62.6萬家企業或雇主明年全年新增逾131.47億元法定成本；此外，逾1,051萬名勞工保費負擔也會增加。",
+      "publishedAt": "2026-08-23T15:43:12.428Z",
+      "discoveredAt": "2026-08-23T15:43:12.428Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2b4697563248027d0627",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9709447",
-      "title": "AI 算力爆發！台電董座喊：電力是主權產業 「三招」超前部署 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "22:45 AI 算力爆發！台電董座喊：電力是主權產業 「三招」超前部署",
       "description": "從晶片製造到資料中心建置，AI浪潮驅動用電成長，穩定電力已是國家與企業的核心戰略資源。台電董事長曾文生23日接受《數字台灣》節目訪問表示，「供電劇本已和過去完全不同」，面對AI產業用電的快速升降及區域電網負載壓力，台電已經超前部署，透過提升電網韌性、直供園區用電，並且持續增建燃氣機組，為台灣「護國群山」築起供電基石。",
       "publishedAt": "2026-08-23T14:46:59.744Z",
       "discoveredAt": "2026-08-23T14:46:59.744Z",
@@ -130,7 +340,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9709462?from=edn_maintab_index",
-      "title": "川習會前釋出善意？ 傳川普擬放行蘋果購買大陸製記憶體 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "川習會前釋出善意？ 傳川普擬放行蘋果購買大陸製記憶體 科技媒體WCCFTech引述微博帳號「Mobile chip expert」報導，川普政府似乎正準備批准蘋果公司使用大陸記憶體廠長鑫存儲和長江存儲的記憶體晶片，預計在川普和習近平9月會晤後會達成正式...",
       "description": "科技媒體WCCFTech引述微博帳號「Mobile chip expert」報導，川普政府似乎正準備批准蘋果公司使用大陸記憶體廠長鑫存儲和長江存儲的記憶體晶片，預計在川普和習近平9月會晤後會達成正式協議。該帳號過去曾多次準確預測相關事件。",
       "publishedAt": "2026-08-23T14:46:59.744Z",
       "discoveredAt": "2026-08-23T14:46:59.744Z",
@@ -160,7 +370,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9709447?from=edn_maintab_index",
-      "title": "AI 算力爆發！台電董座喊：電力是主權產業 「三招」超前部署 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "AI 算力爆發！台電董座喊：電力是主權產業 「三招」超前部署 從晶片製造到資料中心建置，AI浪潮驅動用電成長，穩定電力已是國家與企業的核心戰略資源。台電董事長曾文生23日接受《數字台灣》節目訪問表示，「供電劇本已和過去完全不同」，面對AI產業用電的快速升降及...",
       "description": "從晶片製造到資料中心建置，AI浪潮驅動用電成長，穩定電力已是國家與企業的核心戰略資源。台電董事長曾文生23日接受《數字台灣》節目訪問表示，「供電劇本已和過去完全不同」，面對AI產業用電的快速升降及區域電網負載壓力，台電已經超前部署，透過提升電網韌性、直供園區用電，並且持續增建燃氣機組，為台灣「護國群山」築起供電基石。",
       "publishedAt": "2026-08-23T14:46:59.744Z",
       "discoveredAt": "2026-08-23T14:46:59.744Z",
@@ -190,7 +400,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9709441?from=edn_maintab_index",
-      "title": "明年勞保費率調升至13% 逾千萬勞工、62萬雇主保費負擔全面上調 | 熱門話題 | 要聞 | 經濟日報",
+      "title": "明年勞保費率調升至13% 逾千萬勞工、62萬雇主保費負擔全面上調 自2027年起，勞保普通事故費率調升0.5個百分點，將由今年12.5%調升至13%，其中1%為就業保險費率，12%為勞工保險費率，明年將達到「勞保條例」勞保法定費率上限。因勞保費率調升，預估近62...",
       "description": "自2027年起，勞保普通事故費率調升0.5個百分點，將由今年12.5%調升至13%，其中1%為就業保險費率，12%為勞工保險費率，明年將達到「勞保條例」勞保法定費率上限。因勞保費率調升，預估近62.6萬家企業或雇主明年全年新增逾131.47億元法定成本；此外，逾1,051萬名勞工保費負擔也會增加。",
       "publishedAt": "2026-08-23T14:46:59.744Z",
       "discoveredAt": "2026-08-23T14:46:59.744Z",
@@ -370,7 +580,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9709339?from=edn_hottest_index",
-      "title": "川普投資帳戶6月進行逾1,000筆證券交易 3003",
+      "title": "川普投資帳戶6月進行逾1,000筆證券交易 4123",
       "description": "",
       "publishedAt": "2026-08-23T14:46:59.744Z",
       "discoveredAt": "2026-08-23T14:46:59.744Z",
@@ -790,7 +1000,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9708223?from=edn_hottest_index",
-      "title": "主動式 ETF 加碼股快上車 聯亞最受歡迎獲六檔新增 5621",
+      "title": "主動式 ETF 加碼股快上車 聯亞最受歡迎獲六檔新增 5827",
       "description": "台股現階段處於利多不多、雜音偏多的環境，行情偏向「不溫不火」區間震盪格局，相較之下，主動式台股ETF績效打敗大盤，展現較強彈升力道；統計發現，台積電、聯發科、川湖、聯亞等股正是這波被主動式台股ETF經理人選中加碼的績優股。",
       "publishedAt": "2026-08-23T11:45:21.092Z",
       "discoveredAt": "2026-08-23T11:45:21.092Z",
@@ -1240,7 +1450,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9708191?from=edn_hottest_index",
-      "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求 6130",
+      "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求 6350",
       "description": "AI需求引爆半導體後段產能大戰，封測業迎來大擴產潮，包括日月光投控、力成、京元電、矽格、南茂等五大封測廠，今年同步大舉調升資本支出，依各家公司最新規畫與法人預估，投資規模衝破4,600億元，封測業全面進入AI軍備競賽。",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -1404,7 +1614,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1584,7 +1794,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2334,7 +2544,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5168,216 +5378,6 @@
       "description": "國旅補助9月上路，飯店業看好政策接棒暑假旺季、為秋季國旅挹注新動能。晶華、雲品、寒舍、六福均認為，這波補助鎖定平日並提高第二晚補助金額，平日住房率及住宿天數可望最直接受惠。",
       "publishedAt": "2026-08-22T09:55:34.616Z",
       "discoveredAt": "2026-08-22T09:55:34.616Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_af3a19a31b6b0ce9e356",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707903?from=edn_maintab_index",
-      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 美國總統川普21日暗示，如果必要，他可能動用軍隊「干預」債券市場。他是在回答一位記者提問有關財政部長貝森特努力壓低公債殖利率時，做出這個令人摸不著頭緒的回應。 周五下午，川普登上空軍一號前，在停機...",
-      "description": "美國總統川普周五（21日）暗示，如果必要，他可能動用軍隊「干預」債券市場。他是在回答一位記者提問有關財政部長貝森特努力壓低公債殖利率時，做出這個令人摸不著頭緒的回應。",
-      "publishedAt": "2026-08-22T09:55:34.616Z",
-      "discoveredAt": "2026-08-22T09:55:34.616Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_04f89d0b454a59ae483f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707921?from=edn_newest_index",
-      "title": "共同社：日本宮城縣政府將關閉大連事務所 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本共同社報導，日本宮城縣政府日前基本決定，今年底關閉設於中國遼寧省大連市的大連事務所，並於2027年3月正式撤銷。此決...",
-      "publishedAt": "2026-08-22T09:55:34.616Z",
-      "discoveredAt": "2026-08-22T09:55:34.616Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_47f891590a8f3c8b5cc7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9707886?from=edn_newest_index",
-      "title": "有線電視系統業者尋求黨政軍條款解禁 最後一哩路仍有挑戰 | 產業熱點 | 產業 | 經濟日報",
-      "description": "跨國與本土OTT串流影音平台近年積極爭取市占率，加上每年平均1萬戶收視戶剪線，讓有線電視多系統業者（MSO）面臨營運壓力與轉型瓶頸，多年來爭取「黨政軍條款」修法，成為活化資本結構、推動併購與進行數位匯流整併的策略。",
-      "publishedAt": "2026-08-22T09:55:34.616Z",
-      "discoveredAt": "2026-08-22T09:55:34.616Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7169f655ea25b81967b1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9707778?from=edn_newest_index",
-      "title": "雄獅擴大北美旅遊布局 攜手On The Go 推出「旅行沙龍」探索日全食、北極郵輪新玩法 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "被旅遊業界咸認最懂得蹲低跳起哲學的雄獅旅遊，疫情期間不僅扎根國旅，疫後開花結果，在海外市場同樣沈潛運作、深耕在地，北美在2026上半年的營收，就較去年同期增長逾兩成，展現豐厚的成長動能。 2026年，北美雄獅在加拿大市場的表現相當亮眼，上半年營收相較去年同期增長25%，展現強勁的市場動能與在地客源的穩定累積。雄獅旅遊全球事業發展總經理劉文義表示，雄獅在溫哥華、洛杉磯與鳳凰城布局的目標非常清楚：「我們在溫哥華不只是開辦公室，更要成為北美華人能完全信賴的旅遊首選品牌。」 整合全球資源 力拚北美華人旅遊第一品牌 劉文義表示，要達成目標，必須理解北美華人旅客與台灣市場的不同需求。他們在意的不只是價格，更重視景點知名度、飯店質感、導遊專業與被體貼照顧的安心感。 因此，雄獅將持續以品質管理與在地服務為主軸，透過「互為Inbound、互為代銷」架構，建構全球數位平台與產品串聯機制，整合北美、日本、澳洲等資源，提升跨市場銷售效能。劉文義指出，「旅遊競爭到最後，拚的是高品質管理與服務到位，以此建立信賴感。」雄獅將持續提供極地探險、日全食追太陽等「人生清單」型深度體驗，讓旅行不只是單純行程的堆",
-      "publishedAt": "2026-08-22T09:55:34.616Z",
-      "discoveredAt": "2026-08-22T09:55:34.616Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_274cae4abb085f0805c7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9707895?from=edn_newest_index",
-      "title": "美國封殺大陸無人機 光達為何受重視？ | 產業熱點 | 產業 | 經濟日報",
-      "description": "美國封中國大陸無人機再升級，外電報導，美國聯邦通信委員會（FCC）擬將大陸無人機管制範圍從「阻擋新機上市」擴大至「追溯封鎖舊機」，並將五大類機種全面納管，當中點名到要禁包含搭配「光達（LiDAR）」這個零組件的無人機，引發市場討論光達為何受到重視、在無人機扮演怎樣的關鍵角色。",
-      "publishedAt": "2026-08-22T09:55:34.616Z",
-      "discoveredAt": "2026-08-22T09:55:34.616Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e981505c0ef30b3b8a3e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9707906?from=edn_newest_index",
-      "title": "簡拉維日本升格颱風 氣象署暫未跟進持續觀察 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "氣象署下午發布，熱帶性低氣壓TD23生成，初判對台灣無影響；至於第20號颱風簡拉維，日本氣象廳認定生成，氣象署依觀測資料...",
-      "publishedAt": "2026-08-22T09:55:34.616Z",
-      "discoveredAt": "2026-08-22T09:55:34.616Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_093745ed6a5b8559d2de",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9707856",
-      "title": "17:00 人口愈來愈少 兩人以下家庭比例首度過半",
-      "description": "台灣家庭結構持續小型化，兩人以下已成為主流。主計總處統計顯示，一人戶占比升至17.33%、兩人戶達34.27%，兩者合計51.6%，首度突破五成；相較之下，三人戶以上家庭占比則全面下滑，反映少子化、高齡化等人口結構變化下，傳統多人家庭比重持續萎縮。",
-      "publishedAt": "2026-08-22T09:02:49.570Z",
-      "discoveredAt": "2026-08-22T09:02:49.570Z",
       "topics": [
         "Taiwan business",
         "investment",

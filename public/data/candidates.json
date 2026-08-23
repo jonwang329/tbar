@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-23T05:04:59.237Z",
+  "updatedAt": "2026-08-23T06:01:29.199Z",
   "candidates": [
+    {
+      "id": "cand_89ddbad2bd60ff216422",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9708892",
+      "title": "美加關稅談判破局後首發聲！川普：加拿大占便宜到此為止 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美加關稅談判破局，加拿大總理卡尼宣布9月8日起對多種美國商品實施報復關稅，美國總統川普23日首度回應，痛批加拿大既想享有作為美國一州的好處，卻又不願真正成為其中一州，並指責加拿大長年對美國農民課徵高額關稅，強調「到此為止」。",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7d56b2748ad19c73b92f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9708757",
+      "title": "北約最大噩夢！中俄同步開戰美軍先保台灣或歐洲？兵推結果曝光 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國「大西洋月刊」17日以「北約噩夢」為題發表專文指出，中俄聯動是西方軍事規畫人員最害怕的情境，中國大陸與俄羅斯若同時分別對台灣及東歐北約成員國發動攻擊，將迫使美國與盟友應付歐亞兩條戰線。儘管如此，跨大西洋盟友至今仍缺乏明確的聯合應對計畫，尤其美國深陷伊朗戰爭，對中俄而言，現在對西方出手的機會窗口，比以往任何時候更具吸引力。",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1f65b85167012d52cd61",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9708892?from=edn_maintab_index",
+      "title": "美加關稅談判破局後首發聲！川普：加拿大占便宜到此為止 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美加關稅談判破局，加拿大總理卡尼宣布9月8日起對多種美國商品實施報復關稅，美國總統川普23日首度回應，痛批加拿大既想享有作為美國一州的好處，卻又不願真正成為其中一州，並指責加拿大長年對美國農民課徵高額關稅，強調「到此為止」。",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d79423d5566e6a53221b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9708927?from=edn_newest_index",
+      "title": "台塑石化：汽柴油價格不調整 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台塑石化今天宣布，不調整油價。這是台塑石化連續4週油價不調整",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_41516ee617a40f312066",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9708920?from=edn_newest_index",
+      "title": "總統盼朝野秉持823反共保台精神 共同支持國防預算 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "總統賴清德今天表示，823炮戰是軍民團結不分族群共同攜手守護國家的結果，期盼朝野政黨、全國民眾都能夠秉持823軍民團結、...",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_520dd484d1be192d0961",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9708916?from=edn_newest_index",
+      "title": "台股上周下跌1.2%周線紅翻黑 法人：資金轉向、航運族群強勢揚帆 | 市場焦點 | 證券 | 經濟日報",
+      "description": "加權指數上周五上漲290點，收在45,224點，成交量縮至7,549億元。籌碼面部分，三大法人買超333.2億元，其中外資現貨買超283.0億元，期貨淨空單增加171口至82,594口；投信買超21.0億元，自營商買超29.2億元。上周台股下跌586點，跌幅1.2%，周線紅翻黑。",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7c165fb8f23ca699e40a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9708903?from=edn_newest_index",
+      "title": "陸海關總署：APEC各經濟體應消除貿易壁壘 促進供應鏈穩定 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "亞太經合組織（APEC）海關手續分委會2026年第二次全體會議22日在大連召開。大陸海關總署副署長張寶峰表示，APEC各經濟體應加大力度消除貿易壁壘，採取更多措施破解跨境貿易瓶頸，並深化規則標準對接、加強監管協調，以提高通關效率，讓亞太供應鏈更安全、穩定、高效。",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_db740279af55b1f40add",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9708892?from=edn_newest_index",
+      "title": "美加關稅談判破局後首發聲！川普：加拿大占便宜到此為止 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美加關稅談判破局，加拿大總理卡尼宣布9月8日起對多種美國商品實施報復關稅，美國總統川普23日首度回應，痛批加拿大既想享有作為美國一州的好處，卻又不願真正成為其中一州，並指責加拿大長年對美國農民課徵高額關稅，強調「到此為止」。",
+      "publishedAt": "2026-08-23T06:01:29.199Z",
+      "discoveredAt": "2026-08-23T06:01:29.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_11970bda940eb77be718",
       "sourceLastModified": null,
@@ -412,7 +652,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -440,7 +680,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -468,7 +708,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1954,7 +2194,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/10869/9708014?from=edn_hottest_index",
-      "title": "台北追不上！新竹縣市家庭所得破200萬元傲視全台 7625",
+      "title": "台北追不上！新竹縣市家庭所得破200萬元傲視全台 7777",
       "description": "",
       "publishedAt": "2026-08-22T14:54:35.351Z",
       "discoveredAt": "2026-08-22T14:54:35.351Z",
@@ -2224,7 +2464,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707878?from=edn_hottest_index",
-      "title": "中國大陸原油進口近腰斬仍未缺油 最大關鍵在充沛庫存 5227",
+      "title": "中國大陸原油進口近腰斬仍未缺油 最大關鍵在充沛庫存 5277",
       "description": "",
       "publishedAt": "2026-08-22T14:00:02.356Z",
       "discoveredAt": "2026-08-22T14:00:02.356Z",
@@ -2464,7 +2704,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707903?from=edn_hottest_index",
-      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 6408",
+      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 6503",
       "description": "美國總統川普周五（21日）暗示，如果必要，他可能動用軍隊「干預」債券市場。他是在回答一位記者提問有關財政部長貝森特努力壓低公債殖利率時，做出這個令人摸不著頭緒的回應。",
       "publishedAt": "2026-08-22T13:21:35.934Z",
       "discoveredAt": "2026-08-22T13:21:35.934Z",
@@ -2764,7 +3004,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9707792?from=edn_hottest_index",
-      "title": "下周開盤前 五件值得回顧的國際大事 5755",
+      "title": "下周開盤前 五件值得回顧的國際大事 5836",
       "description": "",
       "publishedAt": "2026-08-22T11:42:35.953Z",
       "discoveredAt": "2026-08-22T11:42:35.953Z",
@@ -5120,230 +5360,6 @@
       "url": "https://moda.gov.tw/en/press/background-information/11972",
       "title": "Conversation with Yale University delegation｜Background Information - News and Releases｜Ministry of Digital Affairs",
       "description": "Conversation with Yale University delegation",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eb4b0484a5a957de4201",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/12394",
-      "title": "Conversation with Stanford Graduate Students｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Conversation with Stanford Graduate Students",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b46da8e2989d5b4a1f9d",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/12396",
-      "title": "Conversation with Global Taiwan Institute｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Conversation with Global Taiwan Institute",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f06ed031d310c23a37f",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/12552",
-      "title": "Conversation with Hal Seki and Japanese delegates｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Conversation with Hal Seki and Japanese delegates",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d485926ae9c8c4e1c379",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/12616",
-      "title": "Meeting with international AI companies on information integrity alignment assembly｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Meeting with international AI companies on information integrity alignment assembly",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_46e8da3f03394244c718",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/2768",
-      "title": "Interview with BBC HARDtalk｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with BBC HARDtalk",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3c6f633bf9ed091008ab",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/3024",
-      "title": "Meeting with Microsoft｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Meeting with Microsoft",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_318834fad10b2adaa408",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/3028",
-      "title": "Interview with Anne Applebaum｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Anne Applebaum",
-      "publishedAt": "2026-08-22",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ca1e71ebbf03e8cdefa8",
-      "sourceLastModified": "2026-08-22",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/3048",
-      "title": "Interview with Josh Rogin｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Josh Rogin",
       "publishedAt": "2026-08-22",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [

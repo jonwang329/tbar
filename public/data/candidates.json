@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-23T16:54:32.701Z",
+  "updatedAt": "2026-08-23T17:43:29.882Z",
   "candidates": [
+    {
+      "id": "cand_efd44350ae5ae902ab73",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9709563?from=edn_newest_index",
+      "title": "蘋果買陸記憶體 川普擬放行 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "科技媒體WCCFTech引述微博帳號「Mobile chip expert」報導，川普政府似乎正準備批准蘋果公司使用大陸記憶體廠長鑫存儲和長江存儲的記憶體晶片，預計在川普和習近平9月會晤後會達成正式協議。該帳號過去曾多次準確預測相關事件。",
+      "publishedAt": "2026-08-23T17:43:29.882Z",
+      "discoveredAt": "2026-08-23T17:43:29.882Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_68c2732a0adef7c78e39",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9709568?from=edn_newest_index",
+      "title": "磷化銦大缺貨 陸廠搶商機 惟高純度銦材產能不足 整體基板供貨占比僅約一成 | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "隨著人工智慧算力需求呈指數級攀升，磷化銦基板材料正迅速躍升為全球光通信基建的市場關注焦點。大陸雖在上游銦資源儲量充足，且企業開始搶進，但在高純度銦材產能不足下，所有廠商磷化銦基板出貨量加在一起只占全球供應量約一成。",
+      "publishedAt": "2026-08-23T17:43:29.882Z",
+      "discoveredAt": "2026-08-23T17:43:29.882Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4a54525eeda1c736c8ff",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9709572?from=edn_newest_index",
+      "title": "大陸互聯網新規 納管境外對象 我國安會示警恐構成三大風險 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸正在修訂「互聯網信息服務管理辦法」，修訂內容涉及網路平台、帳號、內容及人工智慧管理，並將境外組織、個人納入規範，引發各界對網路言論及跨境資訊管理的關注。",
+      "publishedAt": "2026-08-23T17:43:29.882Z",
+      "discoveredAt": "2026-08-23T17:43:29.882Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_faebeda32f0c4bc4989c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9709577?from=edn_newest_index",
+      "title": "阿里拚 AI 擬籌3,248億 | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "阿里巴巴昨（23）日宣布，擬在香港配售新股，配售總金額達港幣800億元（約新台幣3,248億元），所得款項淨額將100%用於投資全棧AI能力及加強AI基礎設施建設，進一步鞏固阿里在AI領域的全球領先地位。",
+      "publishedAt": "2026-08-23T17:43:29.882Z",
+      "discoveredAt": "2026-08-23T17:43:29.882Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_51dbe3c4d0b5dbd2d1eb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9709589?from=edn_newest_index",
+      "title": "蔚來：大陸車市進殘酷淘汰賽 | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "蔚來創辦人李斌近日表示，今年對於大陸新能源汽車是非常重要的一年，整體競爭激烈。他說，大陸汽車產業正進入「最殘酷」的淘汰賽階段，最近兩年將成為車企能否跟上競爭的關鍵時期，未來三至五年市場主要玩家將逐步確定。",
+      "publishedAt": "2026-08-23T17:43:29.882Z",
+      "discoveredAt": "2026-08-23T17:43:29.882Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b469b3395ea4ae788588",
       "sourceLastModified": null,
@@ -160,7 +310,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122381/9709379?from=edn_bloomberg_index_side",
-      "title": "北京搶 AI 霸權 護航科技業籌資 | 外媒解析 | 國際 | 經濟日報",
+      "title": "北京搶 AI 霸權 護航科技業籌資",
       "description": "即使以AI時代的浮誇標準來看，長鑫科技上月在上海掛牌首日的表現仍格外驚人。",
       "publishedAt": "2026-08-23T16:54:32.701Z",
       "discoveredAt": "2026-08-23T16:54:32.701Z",
@@ -370,7 +520,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9709441?from=edn_hottest_index",
-      "title": "明年勞保費率調升至13% 逾千萬勞工、62萬雇主保費負擔全面上調 | 熱門話題 | 要聞 | 經濟日報",
+      "title": "明年勞保費率調升至13% 逾千萬勞工、62萬雇主保費負擔全面上調 7953",
       "description": "自2027年起，勞保普通事故費率調升0.5個百分點，將由今年12.5%調升至13%，其中1%為就業保險費率，12%為勞工保險費率，明年將達到「勞保條例」勞保法定費率上限。因勞保費率調升，預估近62.6萬家企業或雇主明年全年新增逾131.47億元法定成本；此外，逾1,051萬名勞工保費負擔也會增加。",
       "publishedAt": "2026-08-23T15:43:12.428Z",
       "discoveredAt": "2026-08-23T15:43:12.428Z",
@@ -384,7 +534,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -760,7 +910,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9709339?from=edn_hottest_index",
-      "title": "川普投資帳戶6月進行逾1,000筆證券交易 5078",
+      "title": "川普投資帳戶6月進行逾1,000筆證券交易 5459",
       "description": "",
       "publishedAt": "2026-08-23T14:46:59.744Z",
       "discoveredAt": "2026-08-23T14:46:59.744Z",
@@ -1180,7 +1330,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9708223?from=edn_hottest_index",
-      "title": "主動式 ETF 加碼股快上車 聯亞最受歡迎獲六檔新增 6011",
+      "title": "主動式 ETF 加碼股快上車 聯亞最受歡迎獲六檔新增 6103",
       "description": "台股現階段處於利多不多、雜音偏多的環境，行情偏向「不溫不火」區間震盪格局，相較之下，主動式台股ETF績效打敗大盤，展現較強彈升力道；統計發現，台積電、聯發科、川湖、聯亞等股正是這波被主動式台股ETF經理人選中加碼的績優股。",
       "publishedAt": "2026-08-23T11:45:21.092Z",
       "discoveredAt": "2026-08-23T11:45:21.092Z",
@@ -5243,156 +5393,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d29fe030ac8e1c63154e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707792?from=edn_hottest_index",
-      "title": "下周開盤前 五件值得回顧的國際大事 5995",
-      "description": "",
-      "publishedAt": "2026-08-22T11:42:35.953Z",
-      "discoveredAt": "2026-08-22T11:42:35.953Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_68d702ba5805325d57e7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707903",
-      "title": "川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普周五（21日）暗示，如果必要，他可能動用軍隊「干預」債券市場。他是在回答一位記者提問有關財政部長貝森特努力壓低公債殖利率時，做出這個令人摸不著頭緒的回應。",
-      "publishedAt": "2026-08-22T10:53:09.303Z",
-      "discoveredAt": "2026-08-22T10:53:09.303Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f5a4e8f16f861a0bafe",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9705452",
-      "title": "2026重陽敬老金全攻略！全台各縣市發放金額、領取條件與時間一次看 | 生活 | 要聞 | 經濟日報",
-      "description": "每年農曆九月初九是傳統習俗的「重陽節」，古人會在這天登高遠眺，象徵避開邪氣，現在則逐漸演變為「敬老」節日，而今年的重陽節在國曆10月18日星期日，全台各縣市也將發放重陽敬老金；想知道全台各縣市敬老金額多少？幾歲可以領取？要如何能領取？快點收藏本文吧，有新消息也會更新在這篇喔！",
-      "publishedAt": "2026-08-22T10:53:09.303Z",
-      "discoveredAt": "2026-08-22T10:53:09.303Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aa25d122fe123008d48d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707792",
-      "title": "下周開盤前 五件值得回顧的國際大事 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國財政部長貝森特買回長債只奏效不到兩天，美國40兆美元債務高牆仍難撼動，以下是下周開盤前，最值得回顧的五件國際要聞：",
-      "publishedAt": "2026-08-22T10:53:09.303Z",
-      "discoveredAt": "2026-08-22T10:53:09.303Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_33c2f6148617870b6fc4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707964?from=edn_newest_index",
-      "title": "羅馬尼亞設法提高多瑙河水位 確保核電廠冷卻作業 | 國際焦點 | 國際 | 經濟日報",
-      "description": "羅馬尼亞政府新聞辦公室今天表示，羅馬尼亞國家緊急委員會（NationalCommittee for Emergency ...",
-      "publishedAt": "2026-08-22T10:53:09.303Z",
-      "discoveredAt": "2026-08-22T10:53:09.303Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

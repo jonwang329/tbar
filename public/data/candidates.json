@@ -1,7 +1,181 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-23T19:48:26.334Z",
+  "updatedAt": "2026-08-23T20:51:56.909Z",
   "candidates": [
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-08-24",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-08-24",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-08-24",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-08-24",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-08-24",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-08-24",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_636927ae963126254d09",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9709736?from=edn_newest_index",
+      "title": "挪威王室：國王哈拉德五世健康惡化 | 國際焦點 | 國際 | 經濟日報",
+      "description": "挪威王室今天在聲明中指出，因血液疾病引起的併發症住院的89歲國王哈拉德五世健康狀況於週末期間「惡化」",
+      "publishedAt": "2026-08-23T20:51:56.909Z",
+      "discoveredAt": "2026-08-23T20:51:56.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5e1fe00b3c5657b5f2e2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9709726?from=edn_newest_index",
+      "title": "西南風偏強低壓帶影響 台南高雄及屏東山區防超大豪雨 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "中央氣象署發布豪雨特報，第24號熱帶性低氣壓及低壓帶影響且西南風偏強，易有短延時強降雨，今天台南市地區、高雄市地區及屏東...",
+      "publishedAt": "2026-08-23T20:51:56.909Z",
+      "discoveredAt": "2026-08-23T20:51:56.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_71617665a7a79bc8afb2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9709725?from=edn_newest_index",
+      "title": "川普體重增約10公斤 醫師示警健康風險 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普因包括手部瘀青、腳踝腫脹和顯露嗜睡等健康疑慮而受到外界放大檢視。不過部分醫師擔心的另一風險則是他自從上次競選...",
+      "publishedAt": "2026-08-23T20:51:56.909Z",
+      "discoveredAt": "2026-08-23T20:51:56.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e56d9a5e63bd242436c0",
       "sourceLastModified": null,
@@ -10,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11162/9709528?from=edn_maintab_index",
-      "title": "大立光 CPO 一條龍布局達陣 市場臆測可能供貨 Rubin Ultra 平台 | 科技產業 | 產業 | 經濟日報",
+      "title": "大立光 CPO 一條龍布局達陣 市場臆測可能供貨 Rubin Ultra 平台 大立光切入共同封裝光學（CPO）新業務大突破，供應鏈透露，大立光成功延伸至下游光纖陣列模組（FAU），完成零組件到模組一條龍布局，在輝達光通訊角色從間接供應商，晉升直接供應商。 據悉，大立光（30...",
       "description": "大立光切入共同封裝光學（CPO）新業務大突破，供應鏈透露，大立光成功延伸至下游光纖陣列模組（FAU），完成零組件到模組一條龍布局，在輝達光通訊角色從間接供應商，晉升直接供應商。",
       "publishedAt": "2026-08-23T19:48:26.334Z",
       "discoveredAt": "2026-08-23T19:48:26.334Z",
@@ -24,7 +198,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -40,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9709531?from=edn_maintab_index",
-      "title": "三年多首見 矽晶圓要漲價10% 環球晶、台勝科、合晶喜迎紅利 | 產業熱點 | 產業 | 經濟日報",
+      "title": "三年多首見 矽晶圓要漲價10% 環球晶、台勝科、合晶喜迎紅利 半導體矽晶圓出現新冠疫情過後首度大漲價，涵蓋6吋、8吋、12吋等全系列規格，漲幅一成起跳。法人看好，半導體矽晶圓報價三年多來首度調升，環球晶（6488）、台勝科（3532）、合晶（6182）等三大台...",
       "description": "半導體矽晶圓出現新冠疫情過後首度大漲價，涵蓋6吋、8吋、12吋等全系列規格，漲幅一成起跳。法人看好，半導體矽晶圓報價三年多來首度調升，環球晶、台勝科、合晶等三大台灣主要矽晶圓供應商將喜迎漲價紅利，營收、獲利同步看俏。",
       "publishedAt": "2026-08-23T19:48:26.334Z",
       "discoveredAt": "2026-08-23T19:48:26.334Z",
@@ -54,7 +228,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -70,7 +244,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9709493?from=edn_maintab_index",
-      "title": "生技 BTC 盛會強打 AI +生醫 健保、人體生物資料庫開放也成熱門議題 | 產業熱點 | 產業 | 經濟日報",
+      "title": "生技 BTC 盛會強打 AI +生醫 健保、人體生物資料庫開放也成熱門議題 行政院生技產業策略諮議委員會議（BTC）今（24）日起一連三天登場，今年會議將聚焦「AI＋生醫」攜手打世界盃，另外包括健保資料庫及人體生物資料庫如何更友善開放產業應用，也將成為今年關注重點。 BT...",
       "description": "行政院生技產業策略諮議委員會議（BTC）今（24）日起一連三天登場，今年會議將聚焦「AI＋生醫」攜手打世界盃，另外包括健保資料庫及人體生物資料庫如何更友善開放產業應用，也將成為今年關注重點。",
       "publishedAt": "2026-08-23T19:48:26.334Z",
       "discoveredAt": "2026-08-23T19:48:26.334Z",
@@ -84,7 +258,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -100,7 +274,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9709620?from=edn_maintab_index",
-      "title": "半導體槓桿基金 愈跌愈搶手 分析師示警投資人像在「接刀」 | 美股動態 | 國際 | 經濟日報",
+      "title": "半導體槓桿基金 愈跌愈搶手 分析師示警投資人像在「接刀」 儘管追蹤半導體的槓桿型基金近兩個月來遭受重創，但投資人在這段期間仍投入數十億美元買進這類高風險基金，押注盤勢將反彈。分析師提醒，逢低買入向來是許多槓桿指數型基金（ETF）的主要操作策略，但這有時也像...",
       "description": "儘管追蹤半導體的槓桿型基金近兩個月來遭受重創，但投資人在這段期間仍投入數十億美元買進這類高風險基金，押注盤勢將反彈。分析師提醒，逢低買入向來是許多槓桿指數型基金（ETF）的主要操作策略，但這有時也像「接刀」。",
       "publishedAt": "2026-08-23T19:48:26.334Z",
       "discoveredAt": "2026-08-23T19:48:26.334Z",
@@ -114,7 +288,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -130,7 +304,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9709719?from=edn_newest_index",
-      "title": "8月24日 五件財經大事搶先看 | 市場焦點 | 證券 | 經濟日報",
+      "title": "8月24日 五件財經大事搶先看 2026-08-24 03:06",
       "description": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。",
       "publishedAt": "2026-08-23T19:48:26.334Z",
       "discoveredAt": "2026-08-23T19:48:26.334Z",
@@ -144,7 +318,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -174,7 +348,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -204,7 +378,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -220,7 +394,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9709583?from=edn_maintab_index",
-      "title": "傑克森洞央行年會本周登場嗆 華許演講 難解美債壓力 美國聯準會（Fed）主席華許（Kevin Warsh）本周將在傑克森洞全球央行年會發表演說，經濟學家預期，他將聚焦說明推動中的Fed體制改革，可能不會太過著墨通膨議題與貨幣決策前景，如此一來，也難緩...",
+      "title": "傑克森洞央行年會本周登場 華許演講 難解美債壓力 美國聯準會（Fed）主席華許（Kevin Warsh）本周將在傑克森洞全球央行年會發表演說，經濟學家預期，他將聚焦說明推動中的Fed體制改革，可能不會太過著墨通膨議題與貨幣決策前景，如此一來，也難緩...",
       "description": "美國聯準會（Fed）主席華許（Kevin Warsh）本周將在傑克森洞全球央行年會發表演說，經濟學家預期，他將聚焦說明推動中的Fed體制改革，可能不會太過著墨通膨議題與貨幣決策前景，如此一來，也難緩解因通膨居高不下與財政赤字憂慮而起的美債殖利率上漲壓力。",
       "publishedAt": "2026-08-23T19:00:48.916Z",
       "discoveredAt": "2026-08-23T19:00:48.916Z",
@@ -234,7 +408,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -264,7 +438,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -294,7 +468,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -324,7 +498,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -354,7 +528,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -490,7 +664,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9709186?from=edn_hottest_index",
-      "title": "愈跌愈買 半導體槓桿 ETF 慘賠 資金仍源源流入...是撿便宜還是接刀？ 2498",
+      "title": "愈跌愈買 半導體槓桿 ETF 慘賠 資金仍源源流入...是撿便宜還是接刀？ 2576",
       "description": "",
       "publishedAt": "2026-08-23T19:00:48.916Z",
       "discoveredAt": "2026-08-23T19:00:48.916Z",
@@ -504,7 +678,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -534,7 +708,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -864,7 +1038,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1089,7 +1263,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9709441?from=edn_hottest_index",
-      "title": "明年勞保費率調升至13% 逾千萬勞工、62萬雇主保費負擔全面上調 11982",
+      "title": "明年勞保費率調升至13% 逾千萬勞工、62萬雇主保費負擔全面上調 14737",
       "description": "自2027年起，勞保普通事故費率調升0.5個百分點，將由今年12.5%調升至13%，其中1%為就業保險費率，12%為勞工保險費率，明年將達到「勞保條例」勞保法定費率上限。因勞保費率調升，預估近62.6萬家企業或雇主明年全年新增逾131.47億元法定成本；此外，逾1,051萬名勞工保費負擔也會增加。",
       "publishedAt": "2026-08-23T15:43:12.428Z",
       "discoveredAt": "2026-08-23T15:43:12.428Z",
@@ -1479,7 +1653,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9709339?from=edn_hottest_index",
-      "title": "川普投資帳戶6月進行逾1,000筆證券交易 6120",
+      "title": "川普投資帳戶6月進行逾1,000筆證券交易 6446",
       "description": "",
       "publishedAt": "2026-08-23T14:46:59.744Z",
       "discoveredAt": "2026-08-23T14:46:59.744Z",
@@ -1493,7 +1667,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2409,7 +2583,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9708289?from=edn_hottest_index",
-      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 5209",
+      "title": "美長債殖利率竄升不尋常 伊爾艾朗：四股驅動力造成 5117",
       "description": "",
       "publishedAt": "2026-08-23T09:57:00.611Z",
       "discoveredAt": "2026-08-23T09:57:00.611Z",
@@ -3602,15 +3776,15 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_e27de523feee15b7d83a",
+      "id": "cand_468b0af521c0625a7029",
       "sourceLastModified": "2026-08-23",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/370",
-      "title": "News and Releases｜Ministry of Digital Affairs",
-      "description": "News and Releases",
+      "url": "https://moda.gov.tw/en/press/background-information/1003",
+      "title": "Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Background Information",
       "publishedAt": "2026-08-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
@@ -3630,15 +3804,15 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_0f5362a66eb2493d02c4",
+      "id": "cand_ac7901ee2fee9fdb8fcf",
       "sourceLastModified": "2026-08-23",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/370",
-      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "公告訊息",
+      "url": "https://moda.gov.tw/en/press/background-information/10035",
+      "title": "Interview with Kerry Brown｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Kerry Brown",
       "publishedAt": "2026-08-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
@@ -3658,15 +3832,71 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d5ddaccf7d92a0019f0e",
+      "id": "cand_4f197f60dc6867029463",
       "sourceLastModified": "2026-08-23",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/multimedia/1197",
-      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "多媒體專區",
+      "url": "https://moda.gov.tw/en/press/background-information/10171",
+      "title": "Conversation with AmCham Taiwan｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Conversation with AmCham Taiwan",
+      "publishedAt": "2026-08-23",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7d43a0a03431d36035c",
+      "sourceLastModified": "2026-08-23",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10201",
+      "title": "Interview with Salzburger Nachrichten｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Salzburger Nachrichten",
+      "publishedAt": "2026-08-23",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6ae2203954c7936ebd19",
+      "sourceLastModified": "2026-08-23",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/11310",
+      "title": "Interview with Your Undivided Attention podcast｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Your Undivided Attention podcast",
       "publishedAt": "2026-08-23",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
@@ -5137,246 +5367,6 @@
       "description": "",
       "publishedAt": "2026-08-22T14:54:35.351Z",
       "discoveredAt": "2026-08-22T14:54:35.351Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cf8fc99c66d64150d8fb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9708014?from=edn_hottest_index",
-      "title": "台北追不上！新竹縣市家庭所得破200萬元傲視全台 8400",
-      "description": "",
-      "publishedAt": "2026-08-22T14:54:35.351Z",
-      "discoveredAt": "2026-08-22T14:54:35.351Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3872ca7ba1cea41f6be9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9707930",
-      "title": "防記憶體缺到2028年！輝達傳已卡位 與 SK 海力士、美光簽多年供應協議 | 國際焦點 | 國際 | 經濟日報",
-      "description": "隨著持續的記憶體短缺不斷帶來人工智慧（AI）基建建設上的問題，輝達據傳可能已與SK海力士和美光簽署新協議，以取得自家產品所需的記憶體晶片。",
-      "publishedAt": "2026-08-22T14:00:02.356Z",
-      "discoveredAt": "2026-08-22T14:00:02.356Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d479198228e889f79bd2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9708105",
-      "title": "專家示警 散熱將成為 AI 基建最大瓶頸之一 STCO 和 CPO 可望成解方 | 國際焦點 | 國際 | 經濟日報",
-      "description": "業界專家警告，散熱問題正日益成為人工智慧（AI）基礎設施的最大瓶頸之一，但他們同時也表示，AI本身有可能會是這項問題的解決方案之一。",
-      "publishedAt": "2026-08-22T14:00:02.356Z",
-      "discoveredAt": "2026-08-22T14:00:02.356Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_751a16b1f6129cf452b3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9708105?from=edn_maintab_index",
-      "title": "專家示警 散熱將成為 AI 基建最大瓶頸之一 STCO 和 CPO 可望成解方 業界專家警告，散熱問題正日益成為人工智慧（AI）基礎設施的最大瓶頸之一，但他們同時也表示，AI本身有可能會是這項問題的解決方案之一。 韓媒ETNews報導，韓國科學技術院（KAIST）教授金鐘浩...",
-      "description": "業界專家警告，散熱問題正日益成為人工智慧（AI）基礎設施的最大瓶頸之一，但他們同時也表示，AI本身有可能會是這項問題的解決方案之一。",
-      "publishedAt": "2026-08-22T14:00:02.356Z",
-      "discoveredAt": "2026-08-22T14:00:02.356Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6a690aa9536a1d5e2d06",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9708109?from=edn_newest_index",
-      "title": "「我不是藥神」缺藥版 化療藥、排鐵藥短缺⋯食藥署專案進口印度藥 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "衛福部食藥署近期公告兩款癌症化療藥品與一項急性鐵中毒用藥，因缺藥徵得業者專案輸入印度製藥品。中國大陸電影「我不是藥神」劇情中病友買不起高價癌藥，託人購買印度藥服用的劇情，在國內真實上演，但原因是缺藥。藥師批評，食藥署讓印度藥搭專案輸入便車長期輸入，未經正規藥品查驗登記，恐淪為管理漏洞。",
-      "publishedAt": "2026-08-22T14:00:02.356Z",
-      "discoveredAt": "2026-08-22T14:00:02.356Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5f98f670658a25a8da70",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9708110?from=edn_newest_index",
-      "title": "過動症用藥利他能斷貨 專案製造學名藥健保給付高3倍 挨批本末倒置 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "過動症用藥利他能自今年初陸續傳出缺藥，衛福部食藥署六月九日核准「瑩碩生技醫藥股份有限公司」專案製造「瑩碩欣晴錠 （Methylphenidate®） Tablets」。藥師指出，健保給付利他能藥價為每顆2.8元，欣晴錠核價卻高達8元，若提升利他能藥價，廠商便可能持續供應；替代藥的藥價高，恐導致藥局遭健保核刪，已導致基層藥局「不敢給藥」。",
-      "publishedAt": "2026-08-22T14:00:02.356Z",
-      "discoveredAt": "2026-08-22T14:00:02.356Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_48bf05615e9d1323f80c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9708120?from=edn_newest_index",
-      "title": "鄭麗文：AI時代創造台灣新一代護國神山群 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "中國國民黨主席鄭麗文今晚出席國際青商會中華民國總會2026年全國年會時表示，在AI時代，除中美兩大超級強權，台灣將變成新...",
-      "publishedAt": "2026-08-22T14:00:02.356Z",
-      "discoveredAt": "2026-08-22T14:00:02.356Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cdad3c7aa93d8459a905",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9708116?from=edn_newest_index",
-      "title": "屏東萬丹累積雨量近300毫米 南部防豪雨以上降雨 | 生活 | 要聞 | 經濟日報",
-      "description": "受低壓帶及西南風偏強影響，截至今晚8時30分，屏東萬丹鄉累積雨量299毫米。氣象署說，今天至25日清晨，嘉義以南防豪雨，...",
-      "publishedAt": "2026-08-22T14:00:02.356Z",
-      "discoveredAt": "2026-08-22T14:00:02.356Z",
       "topics": [
         "Taiwan business",
         "investment",

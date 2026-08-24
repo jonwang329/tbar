@@ -28,6 +28,9 @@ jobs:
       - name: Collect source candidates
         run: npm run collect
 
+      - name: Merge curated and manual sources
+        run: node scripts/merge-manual.mjs
+
       - name: Commit changed data only
         shell: bash
         run: |

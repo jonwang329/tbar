@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-24T23:00:03.076Z",
+  "updatedAt": "2026-08-24T23:53:12.812Z",
   "candidates": [
+    {
+      "id": "cand_76eef7ffa151745c584a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9711953",
+      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周一漲跌互見。輝達（NVIDIA）財報公布前，晶片及AI基礎設施類股賣壓沉重，拖累標普500指數及那斯達克綜合指數收低；金融股上漲則支撐道瓊工業指數收高。投資人也消化美國對伊朗的新制裁、與加拿大的關稅衝突，以及財政部可能採取的債務管理措施。",
+      "publishedAt": "2026-08-24T23:53:12.812Z",
+      "discoveredAt": "2026-08-24T23:53:12.812Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8cafead961ce27a94892",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9711991?from=edn_newest_index",
+      "title": "川普「經濟諾曼第登陸」來了！伊朗強硬回應 預告轉守為攻 | 國際焦點 | 國際 | 經濟日報",
+      "description": "紐約時報報導，美國宣布擴大對伊朗經濟制裁後，德黑蘭強硬回應，財政部長馬達尼札德表示，伊朗早已為美方進一步施壓做好準備，更警告這次不會只採取守勢，「美國也應預料到我們會採取攻勢」。分析人士認為，面對華府加大經濟壓力，伊朗可能升高軍事反制，而非接受美方要求。",
+      "publishedAt": "2026-08-24T23:53:12.812Z",
+      "discoveredAt": "2026-08-24T23:53:12.812Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_33cf042ec848bb724722",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9711989?from=edn_newest_index",
+      "title": "川普揚言對加拿大汽車鋼鐵徵50%關稅 美墨加協定前景蒙塵 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美加貿易談判破局後，美國總統川普今天宣布，明年1月1日起，對加拿大課徵的汽車、卡車、汽車零件及鋼鐵關稅將調升至50%。美...",
+      "publishedAt": "2026-08-24T23:53:12.812Z",
+      "discoveredAt": "2026-08-24T23:53:12.812Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aed29c05565518523d15",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9711987?from=edn_newest_index",
+      "title": "台積電德國廠明年投產 德勒斯登延伸電車改善通勤 | 國際焦點 | 國際 | 經濟日報",
+      "description": "台積電德勒斯登廠預計2027年底投產，未來將新增至少7000個工作機會。因應晶片產業的通勤需求，德勒斯登市府近日提出8號...",
+      "publishedAt": "2026-08-24T23:53:12.812Z",
+      "discoveredAt": "2026-08-24T23:53:12.812Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_876f318cb9923975cc21",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9711985?from=edn_newest_index",
+      "title": "大陸預估颱風沙德爾27日至28日登陸閩浙沿海 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "今年第18號颱風「沙德爾」今日5時其中心位於台北偏東方向約1,020公里的西北太平洋洋面上，預計將以每小時20至25公里的速度向西偏北方向移動。大陸中央氣象台指出，沙德爾可能於27日夜間至28日上午在浙江南部到福建沿海登陸。",
+      "publishedAt": "2026-08-24T23:53:12.812Z",
+      "discoveredAt": "2026-08-24T23:53:12.812Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_39360f61d57add53f371",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9711981?from=edn_newest_index",
+      "title": "美國全球封殺伊朗金流！鎖定5大領域 美財長：助洗錢將踢出美元體系 | 國際焦點 | 國際 | 經濟日報",
+      "description": "紐約時報報導，美國財政部24日宣布擴大對伊朗制裁，並警告各國停止與德黑蘭做生意，否則可能被排除在以美元為核心的全球金融體系之外。不過，美方暫未祭出最嚴厲措施，而是希望先透過外交施壓，要求各國自行切斷與伊朗的經貿關係。",
+      "publishedAt": "2026-08-24T23:53:12.812Z",
+      "discoveredAt": "2026-08-24T23:53:12.812Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceLastModified": null,
@@ -485,7 +665,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9711540?from=edn_hottest_index",
-      "title": "美股早盤／科技股領跌 費半摔2% 光通訊股重挫 8629",
+      "title": "美股早盤／科技股領跌 費半摔2% 光通訊股重挫 8984",
       "description": "投資人靜候本周稍晚的聯準會（Fed）主席華許演說，以及輝達財報，避險情緒升溫之下，科技股帶頭走低，美股24日早盤四大指數漲跌互見。",
       "publishedAt": "2026-08-24T21:00:47.428Z",
       "discoveredAt": "2026-08-24T21:00:47.428Z",
@@ -1115,7 +1295,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9711170?from=edn_hottest_index",
-      "title": "長鑫存儲崛起藏內幕？法庭證詞曝：剛創立就盯上三星技術 8841",
+      "title": "長鑫存儲崛起藏內幕？法庭證詞曝：剛創立就盯上三星技術 9224",
       "description": "韓媒報導，根據法院證詞，中國大陸DRAM龍頭長鑫存儲在發展DRAM業務之初，就試圖透過竊取三星電子的核心技術來開發自家製程節點，是該公司發展策略的一環。",
       "publishedAt": "2026-08-24T17:52:47.167Z",
       "discoveredAt": "2026-08-24T17:52:47.167Z",
@@ -1129,7 +1309,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1159,7 +1339,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2083,7 +2263,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9711049?from=edn_hottest_index",
-      "title": "台積電擴大鼓勵員工買股 全球逾85%員工參與買股補助計畫 18096",
+      "title": "台積電擴大鼓勵員工買股 全球逾85%員工參與買股補助計畫 18667",
       "description": "",
       "publishedAt": "2026-08-24T14:25:41.699Z",
       "discoveredAt": "2026-08-24T14:25:41.699Z",
@@ -2983,7 +3163,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9699709?from=edn_hottest_index",
-      "title": "63歲前人資專家：退休前5年起，絕對不能做的事 8502",
+      "title": "63歲前人資專家：退休前5年起，絕對不能做的事 8715",
       "description": "",
       "publishedAt": "2026-08-24T10:22:27.672Z",
       "discoveredAt": "2026-08-24T10:22:27.672Z",
@@ -5176,186 +5356,6 @@
         "Taiwan"
       ],
       "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fab7c037cc112a203809",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9709573?from=edn_maintab_index",
-      "title": "科技通膨擋不住 輝達 AI 伺服器明年起將漲價15% 彭博資訊報導，輝達一些大客戶已接獲通知，由於記憶體價格飆漲，搭載旗下VR與GB系列晶片的AI伺服器，明年起將漲價15%。 這意味這波科技通膨來勢洶洶，連輝達也擋不住，必須調高售價因應。惟相關消息尚...",
-      "description": "彭博資訊報導，輝達一些大客戶已接獲通知，由於記憶體價格飆漲，搭載旗下VR與GB系列晶片的AI伺服器，明年起將漲價15%。",
-      "publishedAt": "2026-08-23T19:00:48.916Z",
-      "discoveredAt": "2026-08-23T19:00:48.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1970e8bd9bc1bce9702e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9709576?from=edn_maintab_index",
-      "title": "台股抗空頭三利多助陣 8月底、9月上旬有望重返47K大關 台股上周多空在45K大關拉鋸，不過，市場專家預期，上市櫃公司8月起單月營收有望突破6兆元，加上8月外銷訂單預期將年增64%、達988億美元，以及輝達美國時間26日（台灣時間27日凌晨）公布財報，預期...",
-      "description": "台股上周多空在45K大關拉鋸，不過，市場專家預期，上市櫃公司8月起單月營收有望突破6兆元，加上8月外銷訂單預期將年增64%、達988億美元，以及輝達美國時間26日（台灣時間27日凌晨）公布財報，預期繳出亮眼佳績，這三大利多將激勵台股在8月底、9月上旬有望重返47K大關。",
-      "publishedAt": "2026-08-23T19:00:48.916Z",
-      "discoveredAt": "2026-08-23T19:00:48.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4d68328762a12d268957",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9709583?from=edn_maintab_index",
-      "title": "傑克森洞央行年會本周登場 華許演講 難解美債壓力 美國聯準會（Fed）主席華許（Kevin Warsh）本周將在傑克森洞全球央行年會發表演說，經濟學家預期，他將聚焦說明推動中的Fed體制改革，可能不會太過著墨通膨議題與貨幣決策前景，如此一來，也難緩...",
-      "description": "美國聯準會（Fed）主席華許（Kevin Warsh）本周將在傑克森洞全球央行年會發表演說，經濟學家預期，他將聚焦說明推動中的Fed體制改革，可能不會太過著墨通膨議題與貨幣決策前景，如此一來，也難緩解因通膨居高不下與財政赤字憂慮而起的美債殖利率上漲壓力。",
-      "publishedAt": "2026-08-23T19:00:48.916Z",
-      "discoveredAt": "2026-08-23T19:00:48.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d3de34afacd2be94a7e8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9709584?from=edn_maintab_index",
-      "title": "美國將公布「歷來最嚴厲」的制裁措施 伊朗放話 打擊波灣鄰國 美國24日將公布「歷來最嚴厲」的伊朗制裁措施，進一步經濟孤立伊朗。但伊朗22日批評美國規劃中的措施為「領土外主權」，並警告加入這場「經濟戰」的國家，將被視為敵國，暗示美國的經濟孤立計畫未必能讓伊朗屈...",
-      "description": "美國24日將公布「歷來最嚴厲」的伊朗制裁措施，進一步經濟孤立伊朗。但伊朗22日批評美國規劃中的措施為「領土外主權」，並警告加入這場「經濟戰」的國家，將被視為敵國，暗示美國的經濟孤立計畫未必能讓伊朗屈服，並可能讓波灣國家面臨新一輪攻擊，國際油市嚴陣以待。",
-      "publishedAt": "2026-08-23T19:00:48.916Z",
-      "discoveredAt": "2026-08-23T19:00:48.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e6d239ae904daac6593b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9709588?from=edn_maintab_index",
-      "title": "勞保費率明年調升至13% 62萬家企業與逾千萬名勞工負擔加重 明年起勞保普通事故費率將調升0.5個百分點至13%，其中1%為就業保險費率，12%為勞工保險費率，將達勞保法定費率上限。因勞保費率調升，預估近62.6萬家企業或雇主明年全年新增逾131.4億元法定成...",
-      "description": "明年起勞保普通事故費率將調升0.5個百分點至13%，其中1%為就業保險費率，12%為勞工保險費率，將達勞保法定費率上限。因勞保費率調升，預估近62.6萬家企業或雇主明年全年新增逾131.4億元法定成本；此外逾1,051萬名勞工保費負擔也增加。",
-      "publishedAt": "2026-08-23T19:00:48.916Z",
-      "discoveredAt": "2026-08-23T19:00:48.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_611a97c68a3eebcd6fcc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9709592?from=edn_maintab_index",
-      "title": "金融業布局台股 轉區間操作 銀行圈：逢高獲利落袋...非全面看空 台股愈漲，金融業持股策略愈靈活。金管會統計，金融三業首季大買台股1,831億元，第2季卻轉為減碼399億元，其中6月淨減碼769億元，寫近半年最大。金融圈預估，隨第3季進入除權息後調節、第4季加強控...",
-      "description": "台股愈漲，金融業持股策略愈靈活。金管會統計，金融三業首季大買台股1,831億元，第2季卻轉為減碼399億元，其中6月淨減碼769億元，寫近半年最大。金融圈預估，隨第3季進入除權息後調節、第4季加強控管曝險後，下半年買盤策略，將由「積極加碼」轉向「區間操作」。",
-      "publishedAt": "2026-08-23T19:00:48.916Z",
-      "discoveredAt": "2026-08-23T19:00:48.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

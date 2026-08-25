@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-25T21:58:13.467Z",
+  "updatedAt": "2026-08-25T23:03:10.217Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,181 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-08-25T23:03:10.217Z",
+      "discoveredAt": "2026-08-25T23:03:10.217Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_6649c5efe0f302673a19",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9714311?from=edn_newest_index",
+      "title": "【專家之眼】AI劇《問蒼生》的文化震撼 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "一部26分鐘的中國AI短劇《我這一生最大的罪，是把人寫成了妖……》（簡稱《問蒼生》），意外成為兩岸網路最受矚目的作品之一。它以東漢末年黃巾起義為背景，寫飢荒、苛政與百姓反抗，上線後迅速突破千萬觀看。「你們不是天生該跪」等台詞在社群大量流傳，更引發作品究竟是在談古代，還是在借古言今的爭論。",
+      "publishedAt": "2026-08-25T23:02:58.147Z",
+      "discoveredAt": "2026-08-25T23:02:58.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d2dda55e755643b7f55d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9714308?from=edn_newest_index",
+      "title": "8月26日重要財經行事曆 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣 除權息：程泰、裕日車、新巨、八方雲集、昇銳、光環、廣寰科、新潤、巨虹、森田、威宏-KY 法人說明會：華夏、大亞、揚秦、科風、德淵、博大、智通* 業績發表會：千附精密、能率亞洲、千附 國際 南韓、菲律賓央行利率決策 美國上周初領失業金人數 Fed傑克森洞年會開幕（到8/29） 財報：邁威爾科技（美股盤後） 中國大陸 全國人大常委會會議 大陸國家統計局公布7月工業利潤",
+      "publishedAt": "2026-08-25T23:02:58.147Z",
+      "discoveredAt": "2026-08-25T23:02:58.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_96e91818b89ef8c311e0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9714305?from=edn_newest_index",
+      "title": "華爾街日報：Anthropic自估潛在營收超過30兆美元 | 美股動態 | 國際 | 經濟日報",
+      "description": "「華爾街日報」今天報導，美國人工智慧（AI）開發商Anthropic很可能告訴投資人，其總體潛在市場（TAM）規模可望超...",
+      "publishedAt": "2026-08-25T23:02:58.147Z",
+      "discoveredAt": "2026-08-25T23:02:58.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_074dd8ac816f011d47c2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9714304?from=edn_newest_index",
+      "title": "國1北上湖口至楊梅「紫爆」 聯結車追撞貨櫃車側翻事故 建議改走國3 | 生活 | 要聞 | 經濟日報",
+      "description": "國道1號北向楊梅路段今天凌晨發生重大車禍，高速公路局表示，今天凌晨3時1分，在國1北向75.5K楊梅前，發生1輛聯結車追撞1輛貨櫃車，其中1車側翻占用全線事故，目前開放外側路肩通行。建議用路人可以先下湖口出口之後，再從湖口入口進入主線。現場仍在進行拖吊作業，行車速度相當緩慢，建議改走國3。",
+      "publishedAt": "2026-08-25T23:02:58.147Z",
+      "discoveredAt": "2026-08-25T23:02:58.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1b70f4533d6afd007b5f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9714279?from=edn_newest_index",
+      "title": "沙德爾颱風路徑再度北修 1原因將降輕颱 專家曝海陸警機率 | 生活 | 要聞 | 經濟日報",
+      "description": "沙德爾颱風路徑再度北修，氣象專家林得恩今天在「林老師氣象站」臉書粉專表示，各國數值模式今晨最新模擬結果顯示，沙德爾颱風運動路徑跟之前比較，有明顯北修的趨勢。也就是颱風將由台灣北部外海掠過的機率正在增大。",
+      "publishedAt": "2026-08-25T23:02:58.147Z",
+      "discoveredAt": "2026-08-25T23:02:58.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -288,7 +463,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -318,7 +493,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -348,7 +523,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -378,7 +553,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -408,7 +583,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -438,7 +613,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -468,7 +643,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -498,7 +673,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -528,7 +703,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -558,7 +733,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -724,7 +899,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9713531?from=edn_hottest_index",
-      "title": "證交所修法了！千金股升降單位縮至1元、「違約交割預收機制」延至5年 8998",
+      "title": "證交所修法了！千金股升降單位縮至1元、「違約交割預收機制」延至5年 9325",
       "description": "",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -738,7 +913,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -958,7 +1133,7 @@
     },
     {
       "id": "cand_d39e32a7ac8fcdf09cff",
-      "sourceLastModified": "2026-08-25T20:58:11.996Z",
+      "sourceLastModified": "2026-08-25T22:19:50.315Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1002,7 +1177,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1378,7 +1553,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9713355?from=edn_hottest_index",
-      "title": "陳幸妤替兒子存2,300萬教育基金 父母代操投資賺的錢也算贈與？ 10834",
+      "title": "陳幸妤替兒子存2,300萬教育基金 父母代操投資賺的錢也算贈與？ 11254",
       "description": "",
       "publishedAt": "2026-08-25T16:19:55.076Z",
       "discoveredAt": "2026-08-25T16:19:55.076Z",
@@ -1392,7 +1567,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1422,7 +1597,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1452,7 +1627,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1479,7 +1654,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1506,7 +1681,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1533,7 +1708,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1560,7 +1735,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1587,7 +1762,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1616,7 +1791,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1645,7 +1820,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1674,7 +1849,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2914,7 +3089,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9713138?from=edn_hottest_index",
-      "title": "誰在買？台股由低點一路拉抬逾900點 三大法人卻賣超53億元 10606",
+      "title": "誰在買？台股由低點一路拉抬逾900點 三大法人卻賣超53億元 10728",
       "description": "",
       "publishedAt": "2026-08-25T11:01:55.067Z",
       "discoveredAt": "2026-08-25T11:01:55.067Z",
@@ -2928,7 +3103,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3364,7 +3539,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9712338?from=edn_hottest_index",
-      "title": "國會女股神出手了！砸約8千萬元最新鎖定這檔 AI 概念股 11508",
+      "title": "國會女股神出手了！砸約8千萬元最新鎖定這檔 AI 概念股 11659",
       "description": "",
       "publishedAt": "2026-08-25T09:20:43.759Z",
       "discoveredAt": "2026-08-25T09:20:43.759Z",
@@ -5008,328 +5183,143 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_76eef7ffa151745c584a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "id": "cand_46e8da3f03394244c718",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9711953",
-      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市周一漲跌互見。輝達（NVIDIA）財報公布前，晶片及AI基礎設施類股賣壓沉重，拖累標普500指數及那斯達克綜合指數收低；金融股上漲則支撐道瓊工業指數收高。投資人也消化美國對伊朗的新制裁、與加拿大的關稅衝突，以及財政部可能採取的債務管理措施。",
-      "publishedAt": "2026-08-24T23:53:12.812Z",
-      "discoveredAt": "2026-08-24T23:53:12.812Z",
+      "url": "https://moda.gov.tw/en/press/background-information/2768",
+      "title": "Interview with BBC HARDtalk｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with BBC HARDtalk",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
       ],
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8cafead961ce27a94892",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9711991?from=edn_newest_index",
-      "title": "川普「經濟諾曼第登陸」來了！伊朗強硬回應 預告轉守為攻 | 國際焦點 | 國際 | 經濟日報",
-      "description": "紐約時報報導，美國宣布擴大對伊朗經濟制裁後，德黑蘭強硬回應，財政部長馬達尼札德表示，伊朗早已為美方進一步施壓做好準備，更警告這次不會只採取守勢，「美國也應預料到我們會採取攻勢」。分析人士認為，面對華府加大經濟壓力，伊朗可能升高軍事反制，而非接受美方要求。",
-      "publishedAt": "2026-08-24T23:53:12.812Z",
-      "discoveredAt": "2026-08-24T23:53:12.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_33cf042ec848bb724722",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9711989?from=edn_newest_index",
-      "title": "川普揚言對加拿大汽車鋼鐵徵50%關稅 美墨加協定前景蒙塵 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美加貿易談判破局後，美國總統川普今天宣布，明年1月1日起，對加拿大課徵的汽車、卡車、汽車零件及鋼鐵關稅將調升至50%。美...",
-      "publishedAt": "2026-08-24T23:53:12.812Z",
-      "discoveredAt": "2026-08-24T23:53:12.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aed29c05565518523d15",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9711987?from=edn_newest_index",
-      "title": "台積電德國廠明年投產 德勒斯登延伸電車改善通勤 | 國際焦點 | 國際 | 經濟日報",
-      "description": "台積電德勒斯登廠預計2027年底投產，未來將新增至少7000個工作機會。因應晶片產業的通勤需求，德勒斯登市府近日提出8號...",
-      "publishedAt": "2026-08-24T23:53:12.812Z",
-      "discoveredAt": "2026-08-24T23:53:12.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_876f318cb9923975cc21",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9711985?from=edn_newest_index",
-      "title": "大陸預估颱風沙德爾27日至28日登陸閩浙沿海 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "今年第18號颱風「沙德爾」今日5時其中心位於台北偏東方向約1,020公里的西北太平洋洋面上，預計將以每小時20至25公里的速度向西偏北方向移動。大陸中央氣象台指出，沙德爾可能於27日夜間至28日上午在浙江南部到福建沿海登陸。",
-      "publishedAt": "2026-08-24T23:53:12.812Z",
-      "discoveredAt": "2026-08-24T23:53:12.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_39360f61d57add53f371",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9711981?from=edn_newest_index",
-      "title": "美國全球封殺伊朗金流！鎖定5大領域 美財長：助洗錢將踢出美元體系 | 國際焦點 | 國際 | 經濟日報",
-      "description": "紐約時報報導，美國財政部24日宣布擴大對伊朗制裁，並警告各國停止與德黑蘭做生意，否則可能被排除在以美元為核心的全球金融體系之外。不過，美方暫未祭出最嚴厲措施，而是希望先透過外交施壓，要求各國自行切斷與伊朗的經貿關係。",
-      "publishedAt": "2026-08-24T23:53:12.812Z",
-      "discoveredAt": "2026-08-24T23:53:12.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-08-24T22:58:54.202Z",
-      "discoveredAt": "2026-08-24T22:58:54.202Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
       "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_77d3264c76ec73fc698a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9711869",
-      "title": "06:30 美擴大施壓 貝森特：助伊朗洗錢實體將踢出美元體系",
-      "description": "美國試圖向伊朗施加巨大經濟壓力以結束中東戰爭，財政部長貝森特今天表示，任何代表伊朗協助洗錢活動的實體，將被踢出美元體系",
-      "publishedAt": "2026-08-24T22:58:43.610Z",
-      "discoveredAt": "2026-08-24T22:58:43.610Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
+      "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
-      "id": "cand_4b0d32f5b6d0de901779",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "id": "cand_3c6f633bf9ed091008ab",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9711953?from=edn_maintab_index",
-      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% 美國股市周一漲跌互見。輝達（NVIDIA）財報公布前，晶片及AI基礎設施類股賣壓沉重，拖累標普500指數及那斯達克綜合指數收低；金融股上漲則支撐道瓊工業指數收高。投資人也消化美國對伊朗的新制裁、與...",
-      "description": "美國股市周一漲跌互見。輝達（NVIDIA）財報公布前，晶片及AI基礎設施類股賣壓沉重，拖累標普500指數及那斯達克綜合指數收低；金融股上漲則支撐道瓊工業指數收高。投資人也消化美國對伊朗的新制裁、與加拿大的關稅衝突，以及財政部可能採取的債務管理措施。",
-      "publishedAt": "2026-08-24T22:58:43.610Z",
-      "discoveredAt": "2026-08-24T22:58:43.610Z",
+      "url": "https://moda.gov.tw/en/press/background-information/3024",
+      "title": "Meeting with Microsoft｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with Microsoft",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
       ],
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_abc500c1c57db672f15b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9711953?from=edn_newest_index",
-      "title": "美股收盤／輝達財報前連七跌 晶片股重挫拖累那指跌0.8% 2026-08-25 06:45",
-      "description": "美國股市周一漲跌互見。輝達（NVIDIA）財報公布前，晶片及AI基礎設施類股賣壓沉重，拖累標普500指數及那斯達克綜合指數收低；金融股上漲則支撐道瓊工業指數收高。投資人也消化美國對伊朗的新制裁、與加拿大的關稅衝突，以及財政部可能採取的債務管理措施。",
-      "publishedAt": "2026-08-24T22:58:43.610Z",
-      "discoveredAt": "2026-08-24T22:58:43.610Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aabecbabeeb2d7030fd6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9711948?from=edn_newest_index",
-      "title": "8月25日重要財經行事曆 2026-08-25 06:39",
-      "description": "台灣 立法院會 經濟部發布7月工業生產指數、批發零售餐飲營業額統計 除權息：永豐優息存股、台肥、春雨、裕隆、瓦城、尼克森、晶呈科技、富宇、jpp-KY、長虹、沛波、信紘科、昱展新藥、泓德能源、能率亞洲、盛弘、巨大 法人說明會：中碳、正新、順德、偉詮電、彰銀、永豐金、高林、中租-KY、寶雅*、高端疫苗、愛派司、永鴻生技 業績發表會：漢田生技、力旺、三竹 中國大陸 全國人大常委會會議",
-      "publishedAt": "2026-08-24T22:58:43.610Z",
-      "discoveredAt": "2026-08-24T22:58:43.610Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_318834fad10b2adaa408",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3028",
+      "title": "Interview with Anne Applebaum｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Anne Applebaum",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ca1e71ebbf03e8cdefa8",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3048",
+      "title": "Interview with Josh Rogin｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Josh Rogin",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_854946cdcb8a50ab5e04",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3054",
+      "title": "Conversation with Noah Smith｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Conversation with Noah Smith",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

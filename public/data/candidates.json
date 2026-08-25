@@ -1,7 +1,121 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-25T19:45:08.419Z",
+  "updatedAt": "2026-08-25T20:58:49.406Z",
   "candidates": [
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-08-26",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-08-26",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-08-26",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-08-26",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-08-26",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-08-26",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8f076f6000456d0e898d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9714245?from=edn_newest_index",
+      "title": "SpaceX將斥資千億美元打造新火箭基地 2027年動工 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國太空探索科技公司（SpaceX）今天表示與路易斯安那州州長達成協議，將斥資1000億美元在該州南部打造1座火箭發射基...",
+      "publishedAt": "2026-08-25T20:58:49.406Z",
+      "discoveredAt": "2026-08-25T20:58:49.406Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5204dfa05a0d591ac1ab",
       "sourceLastModified": null,
@@ -10,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9714088?from=edn_maintab_index",
-      "title": "輝達報捷 最強 AI 推論機櫃 Groq 3 LPX 量產 鴻海進補 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達報捷 最強 AI 推論機櫃 Groq 3 LPX 量產 鴻海進補 輝達美國時間24日宣布，搭載旗下最強AI推論晶片Groq 3 LPX的機櫃已進入全面量產階段，效能可達到業界顛峰。這意味最新Vera Rubin平台達成另一個里程碑，法人看好，鴻海（2317）是相關...",
       "description": "輝達美國時間24日宣布，搭載旗下最強AI推論晶片Groq 3 LPX的機櫃已進入全面量產階段，效能可達到業界顛峰。這意味最新Vera Rubin平台達成另一個里程碑，法人看好，鴻海是相關機櫃最大組裝廠，出貨跟著衝鋒。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -24,7 +138,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9714099?from=edn_maintab_index",
-      "title": "證交所重拳嚴打違約交割 追蹤列管期大幅延長至五年 | 市場焦點 | 證券 | 經濟日報",
+      "title": "證交所重拳嚴打違約交割 追蹤列管期大幅延長至五年 臺灣證券交易所為遏止市場違約交割亂象並防範交易風險，昨（25）日董事會通過全面收緊違約投資人管理機制。未來首次違約結案者追蹤列管期，將從現行一年大幅延長至五年，累犯者全額預收款券天數直接提高至30個...",
       "description": "臺灣證券交易所為遏止市場違約交割亂象並防範交易風險，昨（25）日董事會通過全面收緊違約投資人管理機制。未來首次違約結案者追蹤列管期，將從現行一年大幅延長至五年，累犯者全額預收款券天數直接提高至30個營業日。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -54,7 +168,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -70,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9714058?from=edn_maintab_index",
-      "title": "SpaceX 太空 AI 明年 Q4 發射衛星 比預期早一年 台鏈提前接單 | 產業熱點 | 產業 | 經濟日報",
+      "title": "SpaceX 太空 AI 明年 Q4 發射衛星 比預期早一年 台鏈提前接單 SpaceX執行長馬斯克衝刺太空AI進度超前，他在X平台發文指出，旗下首批由輝達晶片驅動的AI衛星Starmind AI1將於明年第4季開始發射，並於2028年「大規模部署」，比原計畫提早至少一年。...",
       "description": "SpaceX執行長馬斯克衝刺太空AI進度超前，他在X平台發文指出，旗下首批由輝達晶片驅動的AI衛星Starmind AI1將於明年第4季開始發射，並於2028年「大規模部署」，比原計畫提早至少一年。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -84,7 +198,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -100,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5621/9713968?from=edn_maintab_index",
-      "title": "房市系統風險 建商急獻策 喊話鬆綁第二戶房貸、調高豪宅門檻 | 房市話題 | 房市 | 經濟日報",
+      "title": "房市系統風險 建商急獻策 喊話鬆綁第二戶房貸、調高豪宅門檻 房市系統性風險升高，建商公會昨（25）日提五大建言，包括鬆綁第二戶房貸、調高豪宅門檻、一般房貸維持七成並延長至40年、地方政府加速建案審查，以及打炒房轉向抑制囤地。業界呼籲，央行應檢討選擇性信用管制...",
       "description": "房市系統性風險升高，建商公會昨（25）日提五大建言，包括鬆綁第二戶房貸、調高豪宅門檻、一般房貸維持七成並延長至40年、地方政府加速建案審查，以及打炒房轉向抑制囤地。業界呼籲，央行應檢討選擇性信用管制，避免限貸風暴擴大為退戶、訴訟與建商倒閉潮。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -114,7 +228,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -130,7 +244,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9714113?from=edn_maintab_index",
-      "title": "國喬攜日商攻半導體特氣 加速跨越高階材料門檻 | 產業熱點 | 產業 | 經濟日報",
+      "title": "國喬攜日商攻半導體特氣 加速跨越高階材料門檻 台灣石化業者轉型「抄近路」，今年來與日商結盟動作一波波，透過台日合作模式，加速跨越半導體高階材料技術門檻。苯乙烯（SM）業者國喬（1312）昨（25）日宣布，攜手日商愛沃特株式會社（AWI）入股半導...",
       "description": "台灣石化業者轉型「抄近路」，今年來與日商結盟動作一波波，透過台日合作模式，加速跨越半導體高階材料技術門檻。苯乙烯（SM）業者國喬昨（25）日宣布，攜手日商愛沃特株式會社（AWI）入股半導體特殊氣體業者宏廣新技，強攻半導體特氣商機。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -144,7 +258,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -160,7 +274,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9714114?from=edn_maintab_index",
-      "title": "彰銀、國票金公公併有影 將從市場點名跨進程序啟動 | 金融脈動 | 金融 | 經濟日報",
+      "title": "彰銀、國票金公公併有影 將從市場點名跨進程序啟動 彰銀（2801）昨（25）日宣布，董事會24日授權董事長胡光華成立專案小組，25日再公開遴選財顧，正式啟動策略合作、投資及整併的前期評估。 值得注意的是，國票金（2889）今日也將召開董事會，授權...",
       "description": "彰銀昨（25）日宣布，董事會24日授權董事長胡光華成立專案小組，25日再公開遴選財顧，正式啟動策略合作、投資及整併的前期評估。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -174,7 +288,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -190,7 +304,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9714065?from=edn_maintab_index",
-      "title": "輝達 VR 效能驚艷 每詞元成本大減 鴻海、廣達、緯創接單看到2028年 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達 VR 效能驚艷 每詞元成本大減 鴻海、廣達、緯創接單看到2028年 輝達財報會議前夕，美國時間24日搶先揭露萬眾矚目的最新Vera Rubin平台效能數據，與目前最先進的GB300 NVL 72相較，Vera Rubin資料吞吐量是GB300的30倍，每詞元（Tok...",
       "description": "輝達財報會議前夕，美國時間24日搶先揭露萬眾矚目的最新Vera Rubin平台效能數據，與目前最先進的GB300 NVL 72相較，Vera Rubin資料吞吐量是GB300的30倍，每詞元（Token）成本也大減，驚艷市場。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -204,7 +318,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -220,7 +334,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9714075?from=edn_maintab_index",
-      "title": "英特爾先進製程「Hot Chips 2026」大秀肌肉 企圖追趕台積電、三星 | 產業熱點 | 產業 | 經濟日報",
+      "title": "英特爾先進製程「Hot Chips 2026」大秀肌肉 企圖追趕台積電、三星 不讓輝達專美於前，英特爾也在「Hot Chips 2026」活動中大秀肌肉，展示旗下Diamond Rapids處理器、Crescent Island GPU，以及Wildcat Lake系統單晶片...",
       "description": "不讓輝達專美於前，英特爾也在「Hot Chips 2026」活動中大秀肌肉，展示旗下Diamond Rapids處理器、Crescent Island GPU，以及Wildcat Lake系統單晶片等三款產品技術細節。",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -234,7 +348,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -264,7 +378,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -294,7 +408,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -324,7 +438,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -354,7 +468,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -384,7 +498,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -414,7 +528,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -460,7 +574,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9713531?from=edn_hottest_index",
-      "title": "證交所修法了！千金股升降單位縮至1元、「違約交割預收機制」延至5年 8770",
+      "title": "證交所修法了！千金股升降單位縮至1元、「違約交割預收機制」延至5年 8857",
       "description": "",
       "publishedAt": "2026-08-25T19:45:08.419Z",
       "discoveredAt": "2026-08-25T19:45:08.419Z",
@@ -474,7 +588,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -654,7 +768,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -684,7 +798,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -694,7 +808,7 @@
     },
     {
       "id": "cand_d39e32a7ac8fcdf09cff",
-      "sourceLastModified": "2026-08-25T19:38:34.954Z",
+      "sourceLastModified": "2026-08-25T20:58:11.996Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -711,7 +825,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1114,7 +1228,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9713355?from=edn_hottest_index",
-      "title": "陳幸妤替兒子存2,300萬教育基金 父母代操投資賺的錢也算贈與？ 10480",
+      "title": "陳幸妤替兒子存2,300萬教育基金 父母代操投資賺的錢也算贈與？ 10638",
       "description": "",
       "publishedAt": "2026-08-25T16:19:55.076Z",
       "discoveredAt": "2026-08-25T16:19:55.076Z",
@@ -2650,7 +2764,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9713138?from=edn_hottest_index",
-      "title": "誰在買？台股由低點一路拉抬逾900點 三大法人卻賣超53億元 10516",
+      "title": "誰在買？台股由低點一路拉抬逾900點 三大法人卻賣超53億元 10550",
       "description": "",
       "publishedAt": "2026-08-25T11:01:55.067Z",
       "discoveredAt": "2026-08-25T11:01:55.067Z",
@@ -3100,7 +3214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9712338?from=edn_hottest_index",
-      "title": "國會女股神出手了！砸約8千萬元最新鎖定這檔 AI 概念股 11377",
+      "title": "國會女股神出手了！砸約8千萬元最新鎖定這檔 AI 概念股 11437",
       "description": "",
       "publishedAt": "2026-08-25T09:20:43.759Z",
       "discoveredAt": "2026-08-25T09:20:43.759Z",
@@ -4353,90 +4467,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_e27de523feee15b7d83a",
-      "sourceLastModified": "2026-08-25",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/370",
-      "title": "News and Releases｜Ministry of Digital Affairs",
-      "description": "News and Releases",
-      "publishedAt": "2026-08-25",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0f5362a66eb2493d02c4",
-      "sourceLastModified": "2026-08-25",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/370",
-      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "公告訊息",
-      "publishedAt": "2026-08-25",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5ddaccf7d92a0019f0e",
-      "sourceLastModified": "2026-08-25",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/multimedia/1197",
-      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "多媒體專區",
-      "publishedAt": "2026-08-25",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_e808cbae0650101a65ac",
       "sourceLastModified": "2026-08-25",
       "sourceId": "deepmind-blog",
@@ -4458,6 +4488,146 @@
       "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_468b0af521c0625a7029",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/1003",
+      "title": "Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Background Information",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ac7901ee2fee9fdb8fcf",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10035",
+      "title": "Interview with Kerry Brown｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Kerry Brown",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4f197f60dc6867029463",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10171",
+      "title": "Conversation with AmCham Taiwan｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Conversation with AmCham Taiwan",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7d43a0a03431d36035c",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/10201",
+      "title": "Interview with Salzburger Nachrichten｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Salzburger Nachrichten",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6ae2203954c7936ebd19",
+      "sourceLastModified": "2026-08-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/11310",
+      "title": "Interview with Your Undivided Attention podcast｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Your Undivided Attention podcast",
+      "publishedAt": "2026-08-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
@@ -5175,186 +5345,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e8ee2d0569eb2bc36c4b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9711724?from=edn_maintab_index",
-      "title": "富邦金：台股 AI 基本面有撐 總座韓蔚廷預期 Q4 高檔震盪機率大 富邦金控（2881）昨（24）日召開第2季法說會，富邦金總經理韓蔚廷說，金控內部看好今年台灣經濟成長率飛越10%，展望台股，韓蔚廷認為，近來市場對消息更加敏感、波動可能放大，但是，AI基本面並未改變...",
-      "description": "富邦金控昨（24）日召開第2季法說會，富邦金總經理韓蔚廷說，金控內部看好今年台灣經濟成長率飛越10%，展望台股，韓蔚廷認為，近來市場對消息更加敏感、波動可能放大，但是，AI基本面並未改變也有支撐，預期第4季「高檔震盪機率大」。",
-      "publishedAt": "2026-08-24T19:18:59.258Z",
-      "discoveredAt": "2026-08-24T19:18:59.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c867397768b69082d6e6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9711644?from=edn_maintab_index",
-      "title": "英特爾先進封裝再添大單 SK 海力士下一代 HBM 將導入 EMIB 技術 英特爾衝刺先進封裝再傳捷報，南韓記憶體大廠SK海力士披露，將於下一代高頻寬記憶體（HBM）導入英特爾EMIB先進封裝技術。SK海力士的HBM過往僅採用台積電（2330）CoWoS先進封裝，如今也加入...",
-      "description": "英特爾衝刺先進封裝再傳捷報，南韓記憶體大廠SK海力士披露，將於下一代高頻寬記憶體（HBM）導入英特爾EMIB先進封裝技術。SK海力士的HBM過往僅採用台積電CoWoS先進封裝，如今也加入英特爾陣營，引發高度關注。",
-      "publishedAt": "2026-08-24T19:18:59.258Z",
-      "discoveredAt": "2026-08-24T19:18:59.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6d4d13062e0a641a3ac6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9711754?from=edn_maintab_index",
-      "title": "工總示警勞動力缺口擴大 同步關切產業轉型、能源政策議題 工總昨（24）日發表2026年度白皮書，缺工問題連三年居產業關注榜首，工總向政府提出改善缺工五大政策建言，並強調，台灣邁入超高齡社會，總人口連續負成長，勞動力缺口加大，已成為足以動搖國本的系統性風險...",
-      "description": "工總昨（24）日發表2026年度白皮書，缺工問題連三年居產業關注榜首，工總向政府提出改善缺工五大政策建言，並強調，台灣邁入超高齡社會，總人口連續負成長，勞動力缺口加大，已成為足以動搖國本的系統性風險。",
-      "publishedAt": "2026-08-24T19:18:59.258Z",
-      "discoveredAt": "2026-08-24T19:18:59.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_86e23525084900935995",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9711666?from=edn_maintab_index",
-      "title": "生醫大數據基建 兩階段推進 搶攻全球800億美元商機 生醫大數據基建，兩階段推進。行政院生技產業策略諮議委員會議（BTC）昨（24）日登場，BTC召集人、政務委員吳誠文表示，政府近年建立國際接軌的FHIR醫療資訊交換標準，年底可望在全國各醫學中心落實，...",
-      "description": "生醫大數據基建，兩階段推進。行政院生技產業策略諮議委員會議（BTC）昨（24）日登場，BTC召集人、政務委員吳誠文表示，政府近年建立國際接軌的FHIR醫療資訊交換標準，年底可望在全國各醫學中心落實，明年底前希望各區域醫院跟進，並推廣到長期照護機構。",
-      "publishedAt": "2026-08-24T19:18:59.258Z",
-      "discoveredAt": "2026-08-24T19:18:59.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f09d090f7a94615a93e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9711645?from=edn_maintab_index",
-      "title": "台積電晶片去年省電1,800億度 減少近8,900萬公噸碳排放 台積電（2330）最新年度永續報告書出爐，揭露台積電晶片低能耗為全球帶來的高節能效益，去年採用台積電晶片的資通訊產品，為全球節電逾1,800億度，減少近8,900萬公噸碳排放；至2030年，台積電每...",
-      "description": "台積電最新年度永續報告書出爐，揭露台積電晶片低能耗為全球帶來的高節能效益，去年採用台積電晶片的資通訊產品，為全球節電逾1,800億度，減少近8,900萬公噸碳排放；至2030年，台積電每用1度電生產半導體產品，將為全球節省近7度電。",
-      "publishedAt": "2026-08-24T19:18:59.258Z",
-      "discoveredAt": "2026-08-24T19:18:59.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b89b91ddeb78f05cf5bb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9711646?from=edn_maintab_index",
-      "title": "蘋果 i18Pro 傳漲價100美元 考驗果粉接受度 牽動鴻海、大立光等出貨 蘋果秋季新品發表會腳步趨近，彭博報導，受記憶體等零組件缺貨大漲價影響，iPhone 18 Pro新機漲價幾乎已成定局，預料將較前一代上漲至少100美元（約新台幣3,180元），漲幅約9%，考驗果粉接...",
-      "description": "蘋果秋季新品發表會腳步趨近，彭博報導，受記憶體等零組件缺貨大漲價影響，iPhone 18 Pro新機漲價幾乎已成定局，預料將較前一代上漲至少100美元（約新台幣3,180元），漲幅約9%，考驗果粉接受度，並牽動台積電、鴻海、大立光等供應鏈後續出貨。",
-      "publishedAt": "2026-08-24T19:18:59.258Z",
-      "discoveredAt": "2026-08-24T19:18:59.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

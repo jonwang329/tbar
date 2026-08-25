@@ -1,7 +1,397 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-25T05:08:48.813Z",
+  "updatedAt": "2026-08-25T07:32:47.018Z",
   "candidates": [
+    {
+      "id": "cand_1bc9d8d66888089adc18",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9713138",
+      "title": "誰在買？台股由低點一路拉抬逾900點 三大法人卻賣超53億元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股25日開低，盤中一度下挫逾500點，尾盤出現反攻，收在最高45,169.46點，高低點相差959.15點，終場上漲407.14點，漲幅0.91%，守住月線，成交量略增至6,960.55億元，三大法人賣超53.36億元。",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7c74e8bd612f6b05abb6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9712880",
+      "title": "美 IPO 熱潮提前升溫 Oura、Anthropic 蓄勢登場 | 美股動態 | 國際 | 經濟日報",
+      "description": "華爾街夏末向來清淡，今年卻因9月7日勞動節後一波首次公開發行股票（IPO）蓄勢待發而提前熱絡起來。智慧戒指業者Oura可望搶先登場，募資規模上看1,000億美元的Anthropic更是重頭戲，足以把今年IPO募資推上新高。",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a1ebb5786c2eee4f7f38",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10511/9712943",
+      "title": "美農民慘兮兮 今明兩年恐都賺不到錢 九大作物種植戶估虧630億美元 | 美國新聞 | 國際 | 經濟日報",
+      "description": "美國玉米帶農民正面臨40年來最嚴重的財務危機。他們原本就受到美中貿易戰與穀價低迷重創，如今美伊戰事又推高柴油和肥料價格，極端氣候也打擊收成。有農民直言，照目前情況，未來兩年恐怕都得慘賠。",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6b656dd2ad1d68c43fa7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9713138?from=edn_maintab_index",
+      "title": "誰在買？台股由低點一路拉抬逾900點 三大法人卻賣超53億元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股25日開低，盤中一度下挫逾500點，尾盤出現反攻，收在最高45,169.46點，高低點相差959.15點，終場上漲407.14點，漲幅0.91%，守住月線，成交量略增至6,960.55億元，三大法人賣超53.36億元。",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6fb905f9b03e7985746d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9713106?from=edn_maintab_index",
+      "title": "豪雨淹水補助來了！經濟部：「從優從速」助受災民眾及商家加速復原 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "受強烈西南風及低壓帶持續影響，自8月22日起全台多處地區發生強降雨，部分地區並傳出積淹水災情，影響民眾居住生活及商家正常營運。行政院日前指示淹水補助措施，加碼淹水補助之外，亦搭配家電補助，並將「從優、從速」原則辦理淹水慰助，盡早恢復正常生活及營運。",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e4182381dad34740bef8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9712973?from=edn_maintab_index",
+      "title": "台積電最後一盤爆2,997張買單急拉、收2,400元 貢獻大盤指數200點 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電（2330）25日午盤翻紅，最後一盤爆出2,997張買單，一口氣再拉升15元，終場收在2,400元，上漲25元， 漲幅1.05%，市值62兆2,376億元；台股也在午盤後翻紅，終場收在45,169.46點，上漲407.14點，光台積電就貢獻約200點的漲點。",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1b5fb37e3c1c0a567c94",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9713186?from=edn_newest_index",
+      "title": "精誠資訊、日本伊藤忠成立合資公司 總部設立福岡 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台灣資訊服務龍頭廠精誠資訊（6214）與日本伊藤忠科技解決方案株式會社（ITOCHU Techno-Solutions Corporation，簡稱「CTC」）25日宣布成立合資公司「CTC-SYSTEX株式會社」，為赴日發展的台灣企業提供完整IT服務。",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4b14be5fe19a707f91ec",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9713185?from=edn_newest_index",
+      "title": "國防部：公務手機均無中製程式 宣導個人機避免安裝 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "國防部指出，公務手機嚴禁安裝高德地圖等中國大陸製應用程式，經全面清查，國軍2936部公務手機，均無安裝陸製應用程式，落實...",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e2e7cd3bb23a527b1ac1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9713182?from=edn_newest_index",
+      "title": "比特幣突破8萬美元 美元走軟、貶值交易邏輯助攻 2026-08-25 15:30",
+      "description": "",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aeab3b459f81158b7aeb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9713172?from=edn_newest_index",
+      "title": "標普報告：中國正打造全球黃金網絡 提升人民幣國際地位 2026-08-25 15:25",
+      "description": "",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d0ca3facc70f0ea70d0e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9713169?from=edn_newest_index",
+      "title": "培育人才 AI 能力 TAICA 頒首批學程學分證明 2026-08-25 15:23",
+      "description": "",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_06aa6cb7e578072c2482",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6710/9712043?from=edn_hottest_index",
+      "title": "親友把戶籍寄你家會失去自住優惠？稅務局揭判斷關鍵 9577",
+      "description": "",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0cbc050b861fd4141789",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5944/9712049?from=edn_VIP_index_side",
+      "title": "詹姆斯：美元的外圍防線已被突破",
+      "description": "",
+      "publishedAt": "2026-08-25T07:32:47.018Z",
+      "discoveredAt": "2026-08-25T07:32:47.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5385eb668ab7f0714871",
       "sourceLastModified": null,
@@ -130,7 +520,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9712699?from=edn_maintab_index",
-      "title": "比特幣衝破80,000美元大關 下一個目標價與回檔風險曝光 | 國際焦點 | 國際 | 經濟日報",
+      "title": "比特幣衝破80,000美元大關 下一個目標價與回檔風險曝光 比特幣延續上周開始的強勁漲勢，周二突破80,000美元大關，是5月以來首見，盤中一度報80,762.51美元。這波行情由三股力量推動：美國財政部宣布擴大長天期公債回購規模、資金重新流入比特幣現貨ET...",
       "description": "比特幣延續上周開始的強勁漲勢，周二突破80,000美元大關，是5月以來首見，盤中一度報80,762.51美元。這波行情由三股力量推動：美國財政部宣布擴大長天期公債回購規模、資金重新流入比特幣現貨ETF，以及空頭被迫回補。市場現在的關注焦點是，比特幣能否站穩這道關卡。",
       "publishedAt": "2026-08-25T05:08:33.878Z",
       "discoveredAt": "2026-08-25T05:08:33.878Z",
@@ -144,7 +534,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -160,7 +550,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9712641?from=edn_maintab_index",
-      "title": "全村的希望來了 台股還能繼續漲？分析師曝輝達財報「這一數據」最重要 | 市場焦點 | 證券 | 經濟日報",
+      "title": "全村的希望來了 台股還能繼續漲？分析師曝輝達財報「這一數據」最重要 台股近期成交量持續縮減，不少分析師，市場中實戶都趁機休息出國旅遊，證券分析師坦言，本周恐將是量縮觀望的走勢，影響大盤的變數主是是輝達財報、聯準會（Fed）主席華許的演說、全球央行年會、美債殖利率飆高...",
       "description": "台股近期成交量持續縮減，不少分析師，市場中實戶都趁機休息出國旅遊，證券分析師坦言，本周恐將是量縮觀望的走勢，影響大盤的變數主是是輝達財報、聯準會（Fed）主席華許的演說、全球央行年會、美債殖利率飆高等，其中最關鍵的變數應屬輝達的毛利率數字。",
       "publishedAt": "2026-08-25T05:08:33.878Z",
       "discoveredAt": "2026-08-25T05:08:33.878Z",
@@ -174,7 +564,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -504,7 +894,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -534,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -564,7 +954,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -624,7 +1014,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -654,7 +1044,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -862,7 +1252,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -890,7 +1280,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -918,7 +1308,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1589,7 +1979,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9711540?from=edn_hottest_index",
-      "title": "美股早盤／科技股領跌 費半摔2% 光通訊股重挫 9679",
+      "title": "美股早盤／科技股領跌 費半摔2% 光通訊股重挫 9768",
       "description": "投資人靜候本周稍晚的聯準會（Fed）主席華許演說，以及輝達財報，避險情緒升溫之下，科技股帶頭走低，美股24日早盤四大指數漲跌互見。",
       "publishedAt": "2026-08-24T21:00:47.428Z",
       "discoveredAt": "2026-08-24T21:00:47.428Z",
@@ -2219,7 +2609,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9711170?from=edn_hottest_index",
-      "title": "長鑫存儲崛起藏內幕？法庭證詞曝：剛創立就盯上三星技術 11224",
+      "title": "長鑫存儲崛起藏內幕？法庭證詞曝：剛創立就盯上三星技術 11937",
       "description": "韓媒報導，根據法院證詞，中國大陸DRAM龍頭長鑫存儲在發展DRAM業務之初，就試圖透過竊取三星電子的核心技術來開發自家製程節點，是該公司發展策略的一環。",
       "publishedAt": "2026-08-24T17:52:47.167Z",
       "discoveredAt": "2026-08-24T17:52:47.167Z",
@@ -2233,7 +2623,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2263,7 +2653,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4087,7 +4477,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9699709?from=edn_hottest_index",
-      "title": "63歲前人資專家：退休前5年起，絕對不能做的事 10314",
+      "title": "63歲前人資專家：退休前5年起，絕對不能做的事 11081",
       "description": "",
       "publishedAt": "2026-08-24T10:22:27.672Z",
       "discoveredAt": "2026-08-24T10:22:27.672Z",
@@ -4969,395 +5359,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f87358b329cd9fdd9777",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9710575?from=edn_newest_index",
-      "title": "Space X接單利多頻傳 法人點名這檔供應鏈可望受惠 | 集中市場 | 證券 | 經濟日報",
-      "description": "Space X隨美國川普政府鬆綁監管政策，加上近期接獲數十億美元軍事衛星訂單，法人看好，華通（2313）可望受惠星艦V3規格升級且用量大增的價量齊揚，2026年衛星營收占比提升至26%，帶動獲利成長，營運展望正向。",
-      "publishedAt": "2026-08-24T05:26:05.505Z",
-      "discoveredAt": "2026-08-24T05:26:05.505Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d8b777c50a987d4c90d2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9710568?from=edn_newest_index",
-      "title": "寶雅效應？老字號生活通路掀掛牌潮 床的世界、特力屋接力掛牌 2026-08-24 13:13",
-      "description": "",
-      "publishedAt": "2026-08-24T05:26:05.505Z",
-      "discoveredAt": "2026-08-24T05:26:05.505Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f6cba7ff00a3a510ad6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9710567?from=edn_newest_index",
-      "title": "基地近2,000坪 「新店安德案」徵求出資人、同意比例逾96% 2026-08-24 13:13",
-      "description": "",
-      "publishedAt": "2026-08-24T05:26:05.505Z",
-      "discoveredAt": "2026-08-24T05:26:05.505Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9fcd4ca8c822f6a15b65",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9710560?from=edn_newest_index",
-      "title": "成交量縮 個股成交前五大僅這檔ETF入榜 零股成交第一0050 2026-08-24 13:11",
-      "description": "",
-      "publishedAt": "2026-08-24T05:26:05.505Z",
-      "discoveredAt": "2026-08-24T05:26:05.505Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c2ddd7322f6490552d85",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3018416",
-      "title": "2026(115年)行事曆：中秋節連假4天！全年連假請假＆旅遊攻略",
-      "description": "2026（115）年行事曆已公布，全年共9個連假、11個國定假日，包括春節連假9天、228連假3天、兒童節及清明節連假4天、勞動節連假3天、端午節連假3天、中秋節及教師節連假4天、雙十國慶連假3天、光",
-      "publishedAt": "2026-08-24T12:22:47+08:00",
-      "discoveredAt": "2026-08-24T08:09:02.195Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5645c9d8f2f3f9dd0d9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9710151",
-      "title": "加拿大準備長期抗戰到2029年！卡尼要撐到川普任期結束 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美加貿易談判破裂，新關稅已於上周六（22日）生效。根據彭博資訊引述知情人士報導，加拿大總理卡尼領導的政府研判，在美國期中選舉前恢復協商的機會渺茫，已著手設計國內紓困方案，必要時將以此支撐受衝擊企業度過美國總統川普的剩餘任期，顯示加拿大正為貿易衝突可能延續至2029年預作準備。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4e5745f2adc93a514529",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9710192",
-      "title": "矽晶圓3年首見漲價潮！台勝科鎖漲停 合晶、環球晶閃紅燈 | 集中市場 | 證券 | 經濟日報",
-      "description": "AI浪潮引爆矽晶圓需求，6吋、8吋、12吋全系列迎來疫情後首度漲價，漲幅一成起跳！台股24日盤中一度下跌逾300點之際，矽晶圓族群卻逆勢爆發，台勝科（3532）衝上漲停，環球晶（6488）、合晶（6182）一度亮燈，嘉晶（3016）、漢磊（3707）、中美晶（5483）同步強攻，成為盤面最強勢族群。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_93fcd97c86fd7206d983",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9710136",
-      "title": "股王爭霸戰! 川湖一度超車信驊 股價衝上漲停 | 集中市場 | 證券 | 經濟日報",
-      "description": "股后川湖（2059）24日股價再度大漲，盤中衝上漲停板14,720元，而股王信驊（5274）近日股價持續走弱，一度下滑至14,600元，若以盤中來看，川湖股價一度超車信驊，短暫成為股王。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_00fbbb51f7921f080b3b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9710192?from=edn_maintab_index",
-      "title": "矽晶圓3年首見漲價潮！台勝科鎖漲停 合晶、環球晶閃紅燈 AI浪潮引爆矽晶圓需求，6吋、8吋、12吋全系列迎來疫情後首度漲價，漲幅一成起跳！台股24日盤中一度下跌逾300點之際，矽晶圓族群卻逆勢爆發，台勝科（3532）衝上漲停，環球晶（6488）、合晶...",
-      "description": "AI浪潮引爆矽晶圓需求，6吋、8吋、12吋全系列迎來疫情後首度漲價，漲幅一成起跳！台股24日盤中一度下跌逾300點之際，矽晶圓族群卻逆勢爆發，台勝科（3532）衝上漲停，環球晶（6488）、合晶（6182）一度亮燈，嘉晶（3016）、漢磊（3707）、中美晶（5483）同步強攻，成為盤面最強勢族群。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ce185df5bc35eefd2f5d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9710136?from=edn_maintab_index",
-      "title": "股王爭霸戰！川湖一度超車信驊 股價衝上漲停 股后川湖（2059）24日股價再度大漲，盤中衝上漲停板14,720元，而股王信驊（5274）近日股價持續走弱，一度下滑至14,600元，若以盤中來看，川湖股價一度超車信驊，短暫成為股王。 股王股...",
-      "description": "股后川湖（2059）24日股價再度大漲，盤中衝上漲停板14,720元，而股王信驊（5274）近日股價持續走弱，一度下滑至14,600元，若以盤中來看，川湖股價一度超車信驊，短暫成為股王。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_09f7782b87cb673b89dd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9710119?from=edn_maintab_index",
-      "title": "NVIDIA 財報再亮眼也不夠 AI 資金循環能撐多久？五大重點一次看 輝達（NVIDIA）周三盤後（台北時間周四清晨）公布財報，市場關注的已不只是這家全球市值最高公司能否再度超越預期，而是整個AI循環資金安排能否延續。輝達獲利能力依然驚人，股價卻落後大盤。如此矛盾...",
-      "description": "輝達（NVIDIA）周三盤後（台北時間周四清晨）公布財報，市場關注的已不只是這家全球市值最高公司能否再度超越預期，而是整個AI循環資金安排能否延續。輝達獲利能力依然驚人，股價卻落後大盤。如此矛盾顯示，投資人擔心的不是下一季業績，而是AI業者投入的龐大資金能否轉為足以長期支撐晶片需求的獲利。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d28bc8a98620f34cebd5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9709895?from=edn_maintab_index",
-      "title": "為投資 OpenAI 軟銀這次一口氣發行1兆日圓公司債 規模創日本新高 軟銀集團（SoftBank）正為對OpenAI的投資承諾籌措資金，並計劃向投資大眾發行1兆日圓（約63億美元）公司債，規模將創日本同類發債案新高。 軟銀向主管機關提交的文件顯示，這批公司債期限七年...",
-      "description": "軟銀集團（SoftBank）正為對OpenAI的投資承諾籌措資金，並計劃向投資大眾發行1兆日圓（約63億美元）公司債，規模將創日本同類發債案新高。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bc6997f6521b7c092bd6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9709896?from=edn_maintab_index",
-      "title": "台股開高16點陷震盪！聯電領軍電子股走強 本周聚焦輝達財報 美股上周五主要指數多數收高，台股24日開高16.01點、報45,240.30點，盤中五大權值股走勢分歧，大盤在聯電（2303）領軍，帶動欣興（3037）、川湖（2059）、光寶科（2301）等電子...",
-      "description": "美股上周五主要指數多數收高，台股24日開高16.01點、報45,240.30點，盤中五大權值股走勢分歧，大盤在聯電（2303）領軍，帶動欣興（3037）、川湖（2059）、光寶科（2301）等電子要角走強下，多空持續拉鋸，指數於平盤附近震盪。盤面上陽明（2609）、合晶（6182）、聯電等個股交投熱絡。",
-      "publishedAt": "2026-08-24T03:31:53.691Z",
-      "discoveredAt": "2026-08-24T03:31:53.691Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

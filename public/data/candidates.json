@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-28T23:22:34.153Z",
+  "updatedAt": "2026-08-28T23:33:08.708Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -94,7 +94,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721134?from=edn_newest_index",
-      "title": "川普宣布史上最大石油交易！美國取得委內瑞拉650億桶石油過半控制權 | 國際焦點 | 國際 | 經濟日報",
+      "title": "川普宣布史上最大石油交易！美國取得委內瑞拉650億桶石油過半控制權 2026-08-29 07:20",
       "description": "美國總統川普28日在真實社群發文宣布，剛與委內瑞拉達成「世界歷史上最大的石油交易」，取得超過650億桶已探明石油儲量的過半控制權。",
       "publishedAt": "2026-08-28T23:22:34.153Z",
       "discoveredAt": "2026-08-28T23:22:34.153Z",
@@ -778,7 +778,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9719910?from=edn_hottest_index",
-      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 23182",
+      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 23287",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -808,7 +808,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9720252?from=edn_hottest_index",
-      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19731",
+      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19848",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -838,7 +838,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9719208?from=edn_hottest_index",
-      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17778",
+      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17863",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -868,7 +868,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17299",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17352",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -3203,6 +3203,35 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_b3ebca79428bd408628c",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/international/blog/3022337",
+      "title": "尼泊爾西藏邊境暴洪百人死傷、數百遊客失聯！事情怎麼發生的？－中央社｜商周",
+      "description": "尼泊爾與中國西藏邊境發生暴洪及土石流，目前已知造成逾160人死亡，另有數百人失蹤且包含多國外國遊客。美國地質調查所與專家分析，本次災害源自岩冰雪崩引發山崩並阻斷河道，積壓水流沖破阻礙後造成連鎖洪災。災",
+      "publishedAt": "2026-08-27T10:10:43+08:00",
+      "discoveredAt": "2026-08-28T23:33:08.708Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_ff1bd78583cf6080d288",
       "sourceLastModified": "2026-08-27",
       "sourceId": "deepmind-blog",
@@ -5186,36 +5215,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_01da3f49f288473cf7f4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12987/9715627?from=edn_newest_index",
-      "title": "致富證券舉辦「47 周年投資嘉年華」 | 國際現場 | 商情 | 經濟日報",
-      "description": "推進證券服務升級 專家看好環球投資機遇香港 - Media OutReach Newswire - 2026年8月26日 - 致富證券於8月22日在香港喜來登酒店舉辦「47周年投資嘉年華」，吸引逾500名投資者到場參與。活動獲芝商所、花旗、恒生投資、惠理基金及易方達資産管理鼎力支持。致富集團首席執行官梁昊先生表示：「致富證券既擁有一家47年香港金融機構的穩健和溫度，也擁有新一代金融科技公司的效率和創新。公司將圍繞線下分行服務網絡建設、數碼化投資體驗升級及財富管理業務拓展三大方向持續投入。」 致富證券「47 周年投資嘉年華」吸引大量投資者到場參與，現場氣氛熱烈。 植根香港47載 致富證券聚焦三大發展方向 作為創立於1979年、具備深厚傳承的本地零售券商，致富證券陪同香港投資者橫跨多個全球市場周期。目前致富擁有15間分行服務網絡，位居香港券商分行數量第一。致富集團首席執行官梁昊提出致富證券三大發展戰略後，致富證券研究部聯席董事莊志豪先生於現場進一步分享了公司最新發展規劃： 加強線下服務網絡： 發揮15 間分行遍布港九新界的網絡優勢，給予投資者信心及支持，持續提供有溫度的「1 對 1 真人專",
-      "publishedAt": "2026-08-26T08:03:06.092Z",
-      "discoveredAt": "2026-08-26T08:03:06.092Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

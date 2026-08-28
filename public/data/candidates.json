@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-28T23:07:33.152Z",
+  "updatedAt": "2026-08-28T23:22:34.153Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,65 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_03f707b198cc9f9c4089",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721134?from=edn_newest_index",
+      "title": "川普宣布史上最大石油交易！美國取得委內瑞拉650億桶石油過半控制權 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普28日在真實社群發文宣布，剛與委內瑞拉達成「世界歷史上最大的石油交易」，取得超過650億桶已探明石油儲量的過半控制權。",
+      "publishedAt": "2026-08-28T23:22:34.153Z",
+      "discoveredAt": "2026-08-28T23:22:34.153Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_be795f8663db575f1a65",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/management/blog/3022324",
+      "title": "績效好、沒抱怨不等於沒事！管理顧問：主管最該關心的，是那些「每天準時出現」的人",
+      "description": "",
+      "publishedAt": "2026-08-28T23:22:34.153Z",
+      "discoveredAt": "2026-08-28T23:22:34.153Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_746116cd6b2e905dde3c",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -138,7 +197,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -719,7 +778,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9719910?from=edn_hottest_index",
-      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 22974",
+      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 23182",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -749,7 +808,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9720252?from=edn_hottest_index",
-      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19500",
+      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19731",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -779,7 +838,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9719208?from=edn_hottest_index",
-      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17627",
+      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17778",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -809,7 +868,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17224",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17299",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -5157,66 +5216,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f314470690181faa5e54",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12987/9715625?from=edn_newest_index",
-      "title": "艾睿電子攜手產業夥伴亮相 PCIM Asia， 展示 AI、電氣化及智能電源技術方案 | 國際現場 | 商情 | 經濟日報",
-      "description": "助力應對人工智能時代不斷增長的電力需求中國深圳 – Media OutReach Newswire – 2026年8月26日 – 全球技術解決方案供應商艾睿電子（Arrow Electronics）將於2026年8月26日至28日參加在深圳國際會展中心（寶安新館）舉辦的 PCIM Asia Shenzhen 2026，展示面向人工智能（AI）、電氣化及智能電源應用zi的技術方案。 艾睿電子攜手產業夥伴亮相 PCIM Asia， 展示 AI、電氣化及智能電源技術方案 在16號館D20展位，艾睿電子將聯合亞德諾（ADI）、莫仕（Molex）、安世半導體（Nexperia）、恩智浦半導體（NXP）、安森美（onsemi）、意法半導體（STMicroelectronics）以及國巨（Yageo），展示涵蓋電源轉換、智能控制及系統級設計的解決方案，助力客戶應對AI基礎設施、工業自動化、可再生能源及電氣化應用不斷增長的能效、功率密度和可靠性需求。 隨著AI工作負載持續增長，工程師正面臨能效提升、功率密度優化、熱管理及系統可靠性等方面的挑戰。艾睿電子透過整合領先技術、工程設計能力、電源架構專長以及全",
-      "publishedAt": "2026-08-26T08:03:06.092Z",
-      "discoveredAt": "2026-08-26T08:03:06.092Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fea5585aaaf13dcbc2fd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12987/9715623?from=edn_newest_index",
-      "title": "施耐德電氣推出全新 GaN USB 快速充電器系列 2026-08-26 16:02",
-      "description": "",
-      "publishedAt": "2026-08-26T08:03:06.092Z",
-      "discoveredAt": "2026-08-26T08:03:06.092Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

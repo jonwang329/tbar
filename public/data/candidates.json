@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-28T22:03:56.767Z",
+  "updatedAt": "2026-08-28T22:14:22.756Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_89fa7cec9affdf340e7d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721119?from=edn_newest_index",
+      "title": "油價拉回 週線收黑 | 國際焦點 | 國際 | 經濟日報",
+      "description": "儘管美伊戰爭走向仍不明朗，但數百萬桶原油持續通過荷莫茲海峽（Strait of Hormuz）運輸，抑制油價漲勢，油價今...",
+      "publishedAt": "2026-08-28T22:14:22.756Z",
+      "discoveredAt": "2026-08-28T22:14:22.756Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_1155cdd4cd500125561e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721078",
-      "title": "聯準會主席鷹派談話引發升息預期 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "title": "06:00 聯準會主席鷹派談話引發升息預期 美股收黑",
       "description": "美國聯邦準備理事會（Fed）主席華許（Kevin Warsh）在一場演說中強調，對抗高通膨是當務之急，這番言論被外界解讀...",
       "publishedAt": "2026-08-28T22:03:56.767Z",
       "discoveredAt": "2026-08-28T22:03:56.767Z",
@@ -124,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721092?from=edn_newest_index",
-      "title": "本田和日產傳合作開發新車軟體 2029年新車可望搭載 | 國際焦點 | 國際 | 經濟日報",
+      "title": "本田和日產傳合作開發新車軟體 2029年新車可望搭載 2026-08-29 06:00",
       "description": "日經亞洲（Nikkei Asia）報導，日本汽車大廠本田汽車（Honda Motor）與日產汽車（Nissan Moto...",
       "publishedAt": "2026-08-28T22:03:56.767Z",
       "discoveredAt": "2026-08-28T22:03:56.767Z",
@@ -659,7 +689,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9719910?from=edn_hottest_index",
-      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 22617",
+      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 22651",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -689,7 +719,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9720252?from=edn_hottest_index",
-      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19041",
+      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19119",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -719,7 +749,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9719208?from=edn_hottest_index",
-      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17273",
+      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17313",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -749,7 +779,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17022",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17045",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -2171,6 +2201,230 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_46e8da3f03394244c718",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/2768",
+      "title": "Interview with BBC HARDtalk｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with BBC HARDtalk",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3c6f633bf9ed091008ab",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3024",
+      "title": "Meeting with Microsoft｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with Microsoft",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_318834fad10b2adaa408",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3028",
+      "title": "Interview with Anne Applebaum｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Anne Applebaum",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ca1e71ebbf03e8cdefa8",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3048",
+      "title": "Interview with Josh Rogin｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Josh Rogin",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_854946cdcb8a50ab5e04",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3054",
+      "title": "Conversation with Noah Smith｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Conversation with Noah Smith",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5ea429a9e920c2e909ae",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3086",
+      "title": "Meeting with ICANN Jia Rong Low｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with ICANN Jia Rong Low",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3a22e93906ce7fd5e504",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3110",
+      "title": "Meeting with IPAC｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with IPAC",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_042dcd3a95eaa215f141",
+      "sourceLastModified": "2026-08-28",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/3194",
+      "title": "Interview with Handlesblatt｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Interview with Handlesblatt",
+      "publishedAt": "2026-08-28",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     },
@@ -4975,276 +5229,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0c41193b442377697054",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9715178?from=edn_newest_index",
-      "title": "看好 AI 股8月營收動能佳 法人點名買進這些供應鏈 | 市場焦點 | 證券 | 經濟日報",
-      "description": "雖然人工智慧（AI）需求強勁，但硬體供需排擠效果持續在電子零組件產業間發酵，法人評估，AI占比較高族群下半年營收月增動能仍佳，記憶體漲價衝擊個人電腦、手機終端需求，相關廠商8月營收難見明顯旺季效應。",
-      "publishedAt": "2026-08-26T05:17:40.584Z",
-      "discoveredAt": "2026-08-26T05:17:40.584Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ec1019e65dea6c84c058",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9715177?from=edn_newest_index",
-      "title": "高雄國7斥資1,501億動工 關鍵標案8月底評選、最快9月決標 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "為加速高雄東側地區重大交通建設，國7已正式邁入實質施工階段，其前置之植栽工程於今年4月開工，整體用地協議價購比例更突破八成，正朝全面發包施工之目標持續邁進。",
-      "publishedAt": "2026-08-26T05:17:40.584Z",
-      "discoveredAt": "2026-08-26T05:17:40.584Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_048ad069f66645863f05",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9715176?from=edn_newest_index",
-      "title": "台股開高走高直逼46,000點大關 八檔千金股漲停 法人：月線支撐力道強 2026-08-26 13:13",
-      "description": "",
-      "publishedAt": "2026-08-26T05:17:40.584Z",
-      "discoveredAt": "2026-08-26T05:17:40.584Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8ce331063cb522de0118",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9715170?from=edn_newest_index",
-      "title": "美國家族血案！男子被父母要求搬走數周後返家行兇 4童在內8人遇害 2026-08-26 13:12",
-      "description": "",
-      "publishedAt": "2026-08-26T05:17:40.584Z",
-      "discoveredAt": "2026-08-26T05:17:40.584Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f43d52557a1b479fb9e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9714706?from=edn_hottest_index",
-      "title": "川普施壓術踢鐵板！紐時揭風向變了 卡尼不是孤例 各方群起對抗 2026-08-26 10:54",
-      "description": "",
-      "publishedAt": "2026-08-26T05:17:40.584Z",
-      "discoveredAt": "2026-08-26T05:17:40.584Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_346b0b612c65264f23a9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9714703",
-      "title": "輝達宣布推出 Jetson Orin Nano 2 機器人電腦 重新定義入門級邊緣 AI | 國際焦點 | 國際 | 經濟日報",
-      "description": "全球AI晶片霸主輝達（NVIDIA） 今日宣布推出 NVIDIA Jetson Orin Nano™ 2，這款全新機器人電腦將重新定義入門級邊緣 AI，讓數百萬名開發人員都能運用前沿等級的生成式人工智慧（AI）效能。",
-      "publishedAt": "2026-08-26T03:35:21.376Z",
-      "discoveredAt": "2026-08-26T03:35:21.376Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7fd762f0326d09235a37",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9714701",
-      "title": "國喬攜日商 AWI 攻半導體特氣 股價跳空漲停鎖死 排隊買單逾76萬張 | 集中市場 | 證券 | 經濟日報",
-      "description": "苯乙烯（SM）業者國喬（1312）華麗轉型，攜手日商愛沃特株式會社（AWI）入股半導體特殊氣體業者宏廣新技，強攻半導體特氣商機；26日跳空以漲停板13元開出後鎖死，站上各均線，漲停及市價排隊買單超過76.45萬張。",
-      "publishedAt": "2026-08-26T03:35:21.376Z",
-      "discoveredAt": "2026-08-26T03:35:21.376Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b0c8067f836b98ac1a97",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9714626",
-      "title": "掏空「蘋菓西打」7億 大西洋飲料前總孫幼英更一審判9年2月 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "生產飲料「蘋菓西打」的大西洋飲料公司前總經理孫幼英，被控2018年利用購地、借貸掏空大西洋飲料近7億元，一、二審都判刑9年6月；案經最高法院發回，台灣高等法院更一審今依違反證券交易法罪判孫幼英有期徒刑9年2月。可上訴。",
-      "publishedAt": "2026-08-26T03:35:21.376Z",
-      "discoveredAt": "2026-08-26T03:35:21.376Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dedf8cf4abcb85625396",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9714653",
-      "title": "沛爾生醫漲停創天價！股票「1拆20」今最後買進日、換股一次看懂 | 集中市場 | 證券 | 經濟日報",
-      "description": "台股26日開低走高，生醫族群也成為盤面亮點！生醫股后沛爾生醫-創（6949）強勢攻上漲停並創下新高1,490元，貢獻大盤近60點漲點，吸引市場目光。值得注意的是，沛爾生醫今日不只是飆股焦點，更是舊股票最後交易日，接下來將進行股票面額變更，每股面額由10元降至0.5元，等同1股換發20股，新股預計9月7日恢復上市買賣。",
-      "publishedAt": "2026-08-26T03:35:21.376Z",
-      "discoveredAt": "2026-08-26T03:35:21.376Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

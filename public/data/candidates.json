@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-28T23:33:08.708Z",
+  "updatedAt": "2026-08-28T23:43:45.861Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,36 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2663af4bddb44b59d7de",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9721141?from=edn_newest_index",
+      "title": "美國務院：台灣是可靠夥伴 挺台參與太平洋島國論壇 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "外交部長林佳龍率團訪問友邦帛琉，出席「太平洋島國論壇」（PIF）峰會相關活動。美國國務院今天回覆中央社記者表示，強烈支持...",
+      "publishedAt": "2026-08-28T23:43:45.861Z",
+      "discoveredAt": "2026-08-28T23:43:45.861Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -778,7 +808,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9719910?from=edn_hottest_index",
-      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 23287",
+      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 23406",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -808,7 +838,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9720252?from=edn_hottest_index",
-      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19848",
+      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 19969",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -838,7 +868,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9719208?from=edn_hottest_index",
-      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17863",
+      "title": "巴菲特96歲生日前「住進套房」 他押注的 Alphabet 市值蒸發7,000億美元 17967",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -868,7 +898,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17352",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 17405",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -5184,36 +5214,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_13472209064174a8eda4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12987/9715628?from=edn_newest_index",
-      "title": "優品360˚ 鼎力支持「香港運動節2026」 | 國際現場 | 商情 | 經濟日報",
-      "description": "首辦匹克球挑戰賽盛況空前 以運動連結社區同享健康活力香港 – Media OutReach Newswire – 2026年8月26日 – 優品360控股有限公司（「優品360˚」或「本公司」及其子公司：「集團」，股票編號：2360.HK）延續「有優品，就友好Buy」的品牌核心價值，除了致力為顧客提供高性價比產品及分享環球食品外，更希望為顧客多想一步，以親切活力的形象融入日常，成為大家最懂彼此的好友。為延續此理念，優品360˚ 特別贊助「香港運動節2026」，成功舉辦「優品360匹克球挑戰賽」。一連三日盛事場面熱鬧，吸引近百位球手熱血較量，更由多位人氣藝人與運動KOL呈獻的明星表演賽揭開序幕，配合專屬體驗班及互動遊戲區，與市民大眾一同動起來，將健康與活力帶入社區。 星級嘉賓同場較勁豐富體驗回饋會員 優品360˚ 特別引進風靡全球的新興運動匹克球，於香港運動節舉辦「優品360˚ 匹克球挑戰賽」。一連三日活動場面熱鬧，分別設有全民參與的「公開組」、青春活力的「大專盃」及樂也融融的「親子盃」三大賽事，吸引近百位球手以淘汰賽形式切磋。於活動首日（8月21日）的明星表演賽更邀請到陳庭欣、關楚耀、",
-      "publishedAt": "2026-08-26T08:03:06.092Z",
-      "discoveredAt": "2026-08-26T08:03:06.092Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

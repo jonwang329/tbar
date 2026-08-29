@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T16:03:42.605Z",
+  "updatedAt": "2026-08-29T16:14:39.336Z",
   "candidates": [
+    {
+      "id": "cand_c1ee423c183662a5da6f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9722092?from=edn_newest_index",
+      "title": "AI 熱 PMI 估連11月擴張 市場密切關注供應鏈出貨情形 | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "AI與高效能運算需求續強，台灣製造業景氣熱度可望延續。中經院將於9月1日公布8月台灣製造業採購經理人指數（PMI），從近期出口、外銷訂單及工業生產表現觀察，電子與半導體供應鏈接單、生產動能仍處高檔，PMI可望寫下連續11個月擴張。",
+      "publishedAt": "2026-08-29T16:14:39.336Z",
+      "discoveredAt": "2026-08-29T16:14:39.336Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b100e636c44e8e5b55c3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9722094?from=edn_newest_index",
+      "title": "陸相關指數恐續收縮 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "中國大陸國家統計局將於31日發布8月製造業採購經理指數（PMI），分析指出，8月製造業PMI有望較7月回升，但仍可能處於收縮區間，內需疲弱及房地產市場調整仍是主要下行壓力，出口及高技術製造業則可望提供支撐。",
+      "publishedAt": "2026-08-29T16:14:39.336Z",
+      "discoveredAt": "2026-08-29T16:14:39.336Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ab079592e464b7445f46",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11162/9722095?from=edn_newest_index",
+      "title": "半導體展 電子鏈五強同台 聯發科、鴻海、日月光投控等高層將對談 | 科技產業 | 產業 | 經濟日報",
+      "description": "SEMICON Taiwan 2026 國際半導體展將於9月2日登場，以「Transform Tomorrow 共構未來」為主軸。今年展會規畫將有逾1,300家廠商設置4,300個攤位，規模再創新高，預計將吸引來自65國、超過10萬名人士參與。",
+      "publishedAt": "2026-08-29T16:14:39.336Z",
+      "discoveredAt": "2026-08-29T16:14:39.336Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0ee17a7e09510b24be2b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9722097?from=edn_newest_index",
+      "title": "國際半導體展9月2日登場 工具機大廠 揪團參加 | 產業熱點 | 產業 | 經濟日報",
+      "description": "國際半導體展（SEMICON Taiwan 2026）將於9月2日登場，今年包括上銀、大銀、直得、東佑達、東台、高明鐵等工具機暨零組件大廠揪團參展，全力搶攻持續發燒的半導體與共同封裝光學（CPO）等設備及關鍵傳動元件供應鏈商機。",
+      "publishedAt": "2026-08-29T16:14:39.336Z",
+      "discoveredAt": "2026-08-29T16:14:39.336Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6b355f08de02d18fa427",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9722098?from=edn_newest_index",
+      "title": "凱基、台新新光金法說談展望 獲利前景、股利政策、壽險資本、股債配置受關注 | 金融脈動 | 金融 | 經濟日報",
+      "description": "台新新光金、凱基金本周將接力召開法人說明會，凱基金於8月31日率先登場，台新新光金則於9月1日接棒。兩家金控前七月獲利均繳出亮眼成績，雙創歷史同期新高。隨獲利大幅成長，市場除聚焦下半年獲利及投資展望外，明年股利政策、壽險資本及股債配置，也將成為此次法說會關注焦點。",
+      "publishedAt": "2026-08-29T16:14:39.336Z",
+      "discoveredAt": "2026-08-29T16:14:39.336Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2cce792aee49e39ba05d",
       "sourceLastModified": null,
@@ -70,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9721059?from=edn_hottest_index",
-      "title": "外資錢進來了！台股周漲1,107點 這周最愛的竟不是 AI 股 | 市場焦點 | 證券 | 經濟日報",
+      "title": "外資錢進來了！台股周漲1,107點 這周最愛的竟不是 AI 股 3555",
       "description": "台股28日收46,331.45點，上漲356.23點，本周大盤指數上漲1,107.16點，外資本周買超1,107.72億元，本周最受外資青睞的買超股首推金融股，在周買超前十名中占4檔，傳產股也吸金，同樣有4檔，電子股僅富喬及聯電2檔。",
       "publishedAt": "2026-08-29T16:03:42.605Z",
       "discoveredAt": "2026-08-29T16:03:42.605Z",
@@ -1570,7 +1720,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
-      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 7326",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 7416",
       "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
       "publishedAt": "2026-08-29T13:24:57.779Z",
       "discoveredAt": "2026-08-29T13:24:57.779Z",
@@ -1840,7 +1990,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9720932?from=edn_hottest_index",
-      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4491",
+      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4523",
       "description": "台股歷經七個交易日成交值低於兆元後，昨（28）日終於回升至兆元之上，並推升加權指數改寫波段新高。法人指出，台股向上挑戰關鍵「唯量是問」，篩選兼具基本面與人氣支撐的強勢的價漲量增股，包括聯電、南亞、華通、光寶科等15檔法人買盤擁護的交投放大個股，將是領漲先鋒。",
       "publishedAt": "2026-08-29T12:26:44.388Z",
       "discoveredAt": "2026-08-29T12:26:44.388Z",
@@ -3272,7 +3422,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8223",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8260",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5226,156 +5376,6 @@
       "description": "2名目擊者告訴路透社，今天清晨，西非國家尼日（Niger）首都尼阿美（Niamey）多個地區傳出連串槍聲與爆炸聲",
       "publishedAt": "2026-08-29T04:07:31.812Z",
       "discoveredAt": "2026-08-29T04:07:31.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ba84e6b2ce4c83a01cef",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9721516?from=edn_newest_index",
-      "title": "2026中國國際大數據產業博覽會在貴陽開幕 2026-08-29 12:00",
-      "description": "中國貴陽2026年8月29日 /美通社/ -- 這是一篇來自《貴州日報》的新聞報道： China International Big Data Industry Expo 2026 opens in Guiyang 2026中國國際大數據產業博覽會（簡稱「數博會」）於8月28日在中國西南部貴州省省會貴陽正式啟幕。作為在國家層面上具有影響力的數字產業盛會，該博覽會已經發展成為全球大數據領域技術交流、產業對接與創新成果轉化的核心平台。本屆數博會以「詞元——數據要素價值釋放新路徑」為主題，圍繞算力基座、數據供給、模型驅動、安全護航、智能體驗五大核心主題板塊打造，匯聚來自國內外的300餘家優質參展商，覆蓋人工智能、雲計算、數據安全、數字應用等多個領域。 在國內產業協作層面，本屆數博會聯動4個特色產業園區舉辦精準化的專項貿易對接會，旨在精準打通產業鏈上下游資源。與此同時，本屆數博會還與30餘家海外企業合作開展系列跨境交流對接活動，進一步推動大數據領域的國際合作、資源共享與業務拓展。 作為數博會的永久舉辦地，貴陽及毗鄰的貴安新區長期深耕大數據產業，致力於打造世界級數字產業集群。截至目前，該區域已集",
-      "publishedAt": "2026-08-29T04:07:31.812Z",
-      "discoveredAt": "2026-08-29T04:07:31.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_09f80f3968135c842d33",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9721515?from=edn_newest_index",
-      "title": "滿貫集團盈利延續2026年中期業績純利按年上升183% 2026-08-29 12:00",
-      "description": "業務展現強勁韌性 盈利持續兌現 業績摘要 滿貫集團延續去年扭虧為盈佳績，回顧期內，淨溢利約6.3百萬港元（2025年上半年：淨虧損約7.7百萬港元），同比上升182.6%，與去年同期相比，成功轉虧為盈。 期內，本集團錄得收入約496.1百萬港元，較2025年上半年510.1百萬港元輕微下降2.7%。 在面對營運成本上漲，以及本地消費者與自由行旅客消費模式轉變，以及港元增值等嚴峻挑戰下，集團整體收入僅微降，印證了集團業務在逆境中展現的強勁韌性。集團將繼續緊貼市場情況，按消費者喜好靈活調整策略並優化產品組合，致力增加收入。同時，集團將採取嚴格的成本控制措施，加上下半年為傳統消費高峰，相信2026年下半年收入將會改善，延續盈利軌道。 集團以對東南亞市場豐富的實戰經驗，抓緊時機調整市場策略，主動優化產品組合，策略性減少低毛利產品的比重，並積極發掘及引入具備高毛利率之優質產品。儘管於回顧期內，本集團於東南亞市場之整體分銷銷售額錄得下降，但本集團於新加坡、馬來西亞兩地的業務，在產品結構調整後毛利率均有所提升，此次「換血升級」，相信將為集團帶來更高質量、更穩定及更可持繼的收入來源。 董事會已議決不就",
-      "publishedAt": "2026-08-29T04:07:31.812Z",
-      "discoveredAt": "2026-08-29T04:07:31.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_82112127ad00f1a2fe26",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9721514?from=edn_newest_index",
-      "title": "雙北等5縣市高溫上看36度 嘉義以南防大雨 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "中央氣象署今天上午發布雙北等5縣市高溫黃色燈號（攝氏36度以上），同時也發布豪雨特報，台南市、屏東縣白天防豪雨，嘉義市、...",
-      "publishedAt": "2026-08-29T04:07:31.812Z",
-      "discoveredAt": "2026-08-29T04:07:31.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c159c95e02e01df955b6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9721511?from=edn_newest_index",
-      "title": "玉山學童金融素養扎根計畫 跨域共創培育學童關鍵能力 | 金融脈動 | 金融 | 經濟日報",
-      "description": "為落實普惠金融與教育永續理念，玉山金控（2884）、玉山文教基金會攜手親子天下教育創新中心，連續兩年推動「玉山學童金融素養扎根計畫」，於8月25日舉辦師資暨志工培訓活動，共35位國小教師及66位玉山志工參與，透過課程解析、試教演練及闖關活動體驗，為新學年度入校教學做好準備，期望將正確金融觀念帶進校園，陪伴學童建立良好的金融素養。",
-      "publishedAt": "2026-08-29T04:07:31.812Z",
-      "discoveredAt": "2026-08-29T04:07:31.812Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cc6294cd02378c0d21ad",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9721368",
-      "title": "11:40 藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場",
-      "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
-      "publishedAt": "2026-08-29T03:56:48.170Z",
-      "discoveredAt": "2026-08-29T03:56:48.170Z",
       "topics": [
         "Taiwan business",
         "investment",

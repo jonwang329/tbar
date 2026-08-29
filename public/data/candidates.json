@@ -1,7 +1,64 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T10:56:10.167Z",
+  "updatedAt": "2026-08-29T11:06:58.323Z",
   "candidates": [
+    {
+      "id": "cand_274d9e600a9993039b78",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721991?from=edn_newest_index",
+      "title": "俄羅斯夜襲釀27死 澤倫斯基不滿爆炸性物品存放住宅區 | 國際焦點 | 國際 | 經濟日報",
+      "description": "烏克蘭當局今天表示，俄羅斯一架無人機夜襲基輔西郊附近一處倉庫，引發大火和爆炸，已知造成27人罹難。總統澤倫斯基對於將爆炸...",
+      "publishedAt": "2026-08-29T11:06:58.323Z",
+      "discoveredAt": "2026-08-29T11:06:58.323Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ad7fa2b6a44cd150989f",
+      "sourceLastModified": "2026-08-29T10:57:56.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "title": "Previewing the Model Hardware Standard",
+      "description": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "publishedAt": "2026-08-29T10:57:56.000Z",
+      "discoveredAt": "2026-08-28T00:57:10.239Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_82846f0d8b7a3e8f819b",
       "sourceLastModified": null,
@@ -10,7 +67,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721982?from=edn_newest_index",
-      "title": "法人：華許言論偏中性 輝達財報蘋果新機有利台股 | 產業熱點 | 產業 | 經濟日報",
+      "title": "法人：華許言論偏中性 輝達財報蘋果新機有利台股 2026-08-29 18:45",
       "description": "美國聯準會主席華許言論被市場解讀偏鷹，美股下挫，法人認為，華許為因應美國公債到期資金壓力，現階段仍將維持不升息、不降息態...",
       "publishedAt": "2026-08-29T10:56:10.167Z",
       "discoveredAt": "2026-08-29T10:56:10.167Z",
@@ -220,7 +277,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720663?from=edn_hottest_index",
-      "title": "TIME 選出百大 AI 人物 沒有黃仁勳卻驚見美國名媛、好萊塢男星 4560",
+      "title": "TIME 選出百大 AI 人物 沒有黃仁勳卻驚見美國名媛、好萊塢男星 4562",
       "description": "時代雜誌（TIME）選出2026年全球百大人工智慧（AI）人物，在這份榜單中出現了一些意想不到的人士，包括名媛、工會領袖、好萊塢明星及美國參議員在內，而令人意外的是黃仁勳、蘇姿丰、祖克柏，以及DeepMind共同創辦人哈薩比斯等家喻戶曉的企業領袖並未入榜。",
       "publishedAt": "2026-08-29T10:23:55.748Z",
       "discoveredAt": "2026-08-29T10:23:55.748Z",
@@ -294,7 +351,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -940,7 +997,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9720996?from=edn_hottest_index",
-      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 4954",
+      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 4978",
       "description": "台北市一名年僅10歲女童，其身心障礙的母親在家從事性交易，導致她長期被母親客人多次性猥褻，一度240天未被安置，甚至出現自殘行為。對此，前總統蔡英文28日深夜發聲，表示「心裡很難過」，一個才10歲的孩子甚至學會了「翻供」一詞，盼社會安全網持續檢討，把漏洞補起來。",
       "publishedAt": "2026-08-29T09:04:12.626Z",
       "discoveredAt": "2026-08-29T09:04:12.626Z",
@@ -1120,7 +1177,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 6308",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 6390",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -1180,7 +1237,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720911?from=edn_hottest_index",
-      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 10316",
+      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 10362",
       "description": "美國總統川普簽署行政命令，把橫跨美國與加拿大邊界的「安大略湖」更名為「美國湖」（Lake America），而且可能還會企圖改其他地名。經濟學家克魯曼於是發文調侃川普。",
       "publishedAt": "2026-08-29T08:27:12.913Z",
       "discoveredAt": "2026-08-29T08:27:12.913Z",
@@ -2694,7 +2751,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5329,66 +5386,6 @@
       "importanceScore": 82,
       "confidenceScore": 72,
       "leaderMatch": true
-    },
-    {
-      "id": "cand_2733eb020c00a7af6d99",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9721078?from=edn_maintab_index",
-      "title": "聯準會主席鷹派談話引發升息預期 美股收黑 美國聯邦準備理事會（Fed）主席華許（Kevin Warsh）在一場演說中強調，對抗高通膨是當務之急，這番言論被外界解讀為比預期更加偏向鷹派，引發升息預期，美股今天收黑。 道瓊工業指數終場下跌9.4...",
-      "description": "美國聯邦準備理事會（Fed）主席華許（Kevin Warsh）在一場演說中強調，對抗高通膨是當務之急，這番言論被外界解讀...",
-      "publishedAt": "2026-08-28T21:53:20.530Z",
-      "discoveredAt": "2026-08-28T21:53:20.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_20bb938d0a65cbd1406c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9720935?from=edn_maintab_index",
-      "title": "華許放鷹：Fed 有工作要做 通膨未明顯降溫 美國聯準會（Fed）主席華許警告，美國通膨率目前並未顯著趨緩，決策官員若沒把握基礎通膨率會重返2%目標，Fed將「有工作要做」，凸顯抗通膨決心。他並承認，目前金融情勢似乎不具「限制性」，暗示他認為或...",
-      "description": "美國聯準會（Fed）主席華許警告，美國通膨率目前並未顯著趨緩，決策官員若沒把握基礎通膨率會重返2%目標，Fed將「有工作要做」，凸顯抗通膨決心。他並承認，目前金融情勢似乎不具「限制性」，暗示他認為或許有必要提高利率以緩和物價上漲壓力。",
-      "publishedAt": "2026-08-28T21:53:20.530Z",
-      "discoveredAt": "2026-08-28T21:53:20.530Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
     }
   ]
 }

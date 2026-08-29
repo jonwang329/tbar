@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T22:45:02.898Z",
+  "updatedAt": "2026-08-29T22:55:38.549Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_0b0893dea335c0b5d796",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722360?from=edn_newest_index",
+      "title": "冰島是否重啟入歐談判 公投結果預計30日揭曉 | 國際焦點 | 國際 | 經濟日報",
+      "description": "冰島今天結束一場攸關是否重啟加入歐洲聯盟談判的歷史性公投，晚間隨即開始計票。這場公投牽動當地民眾關切的生活成本、安全、主...",
+      "publishedAt": "2026-08-29T22:55:38.549Z",
+      "discoveredAt": "2026-08-29T22:55:38.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_2544d81c799cf3b38030",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9721810?from=edn_hottest_index",
-      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 | 金融脈動 | 金融 | 經濟日報",
+      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 2690",
       "description": "美國聯準會主席華許28日晚間於傑克森洞全球央行年會強硬表態對抗通膨，市場強烈感受鷹派訊號與升息預期，金價立即跳水，28日暴跌135美元至4,453美元。一連貫破4,580及4,500美元支撐區。整周下跌149美元約3.2%。",
       "publishedAt": "2026-08-29T22:45:02.898Z",
       "discoveredAt": "2026-08-29T22:45:02.898Z",
@@ -214,7 +244,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721387?from=edn_hottest_index",
-      "title": "華許重拾抗通膨公信力 卻把自己逼進9月升息死角 2685",
+      "title": "華許重拾抗通膨公信力 卻把自己逼進9月升息死角 2690",
       "description": "聯準會（Fed）主席華許在傑克森洞全球央行年會強硬表態，讓市場相信他真有決心藉升息來壓制通膨，也洗刷7月記者會立場含糊的印象。但這番話同時提高9月升息門檻：除非接下來通膨或就業數據明顯轉弱，Fed若按兵不動，反而可能再度損害公信力。",
       "publishedAt": "2026-08-29T20:06:46.636Z",
       "discoveredAt": "2026-08-29T20:06:46.636Z",
@@ -904,7 +934,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721292?from=edn_hottest_index",
-      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 2872",
+      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 2877",
       "description": "美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。",
       "publishedAt": "2026-08-29T17:07:33.221Z",
       "discoveredAt": "2026-08-29T17:07:33.221Z",
@@ -1248,7 +1278,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4946,7 +4976,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8788",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8802",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5354,36 +5384,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_94b2ca81d19e5ead439a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9721780?from=edn_newest_index",
-      "title": "四川涼山低分教師與「恥辱」合照 當地政府調查 2026-08-29 15:37",
-      "description": "中國四川涼山雷波縣近日流出一張老師開會的照片，當中顯示，任教班級平均分過低的教師被請上台，與背後螢幕打出的「恥辱」二字合...",
-      "publishedAt": "2026-08-29T07:44:18.252Z",
-      "discoveredAt": "2026-08-29T07:44:18.252Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

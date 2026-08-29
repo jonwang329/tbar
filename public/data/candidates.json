@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T03:35:58.652Z",
+  "updatedAt": "2026-08-29T03:57:01.557Z",
   "candidates": [
+    {
+      "id": "cand_cc6294cd02378c0d21ad",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9721368",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 | 產業熱點 | 產業 | 經濟日報",
+      "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
+      "publishedAt": "2026-08-29T03:56:48.170Z",
+      "discoveredAt": "2026-08-29T03:56:48.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_16d9c65b668137ea3fa7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9721502?from=edn_newest_index",
+      "title": "美股周線收紅 費半卻熄火 下周就業和博通接棒考驗AI行情 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周五小幅收低，但科技股和晶片股跌勢較重。聯準會（Fed）主席華許重申抗通膨決心，推高9月升息預期，帶動短天期美債殖利率大漲。美股下周將迎接兩大考驗：就業報告將左右利率走向，博通（Broadcom）財報則要證明，輝達（NVIDIA）點燃的AI行情能否延燒其他晶片股。",
+      "publishedAt": "2026-08-29T03:56:48.170Z",
+      "discoveredAt": "2026-08-29T03:56:48.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_03315e903166e0fc9327",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9721496?from=edn_newest_index",
+      "title": "不滿被列黑名單長鑫存儲提告美國防部 稱「軍工企業」認定武斷 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸DRAM大廠長鑫存儲不滿遭美國國防部列為大陸軍工企業黑名單，向美國法院提告，主張相關決定武斷、缺乏證據，並侵犯正當程序權利，要求撤銷認定並移出名單。長鑫正積極拓展海外市場，長期希望進軍美國，但美國出口管制等地緣政治風險，仍為其國際化布局增添變數。",
+      "publishedAt": "2026-08-29T03:56:48.170Z",
+      "discoveredAt": "2026-08-29T03:56:48.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a2c0cfea82e5aee63938",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9721492?from=edn_newest_index",
+      "title": "長鑫存儲起訴美國五角大樓 要求移出涉中軍企名單 | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "中國DRAM龍頭大廠長鑫科技起訴美國五角大樓，要求撤銷將其列入美國認定協助中國軍方的企業名單。在美國拜登政府時期，美國國...",
+      "publishedAt": "2026-08-29T03:56:48.170Z",
+      "discoveredAt": "2026-08-29T03:56:48.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4fa073781962f13a93c9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721487?from=edn_newest_index",
+      "title": "日本評估：近畿發生規模6.8以上地震機率過半 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本政府昨天公布近畿地區活斷層的長期評估，指出該地區未來30年內發生規模6.8以上地震的機率為50%至60%。穿過敦賀核...",
+      "publishedAt": "2026-08-29T03:56:48.170Z",
+      "discoveredAt": "2026-08-29T03:56:48.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4446e39440c420bcb173",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721484?from=edn_newest_index",
+      "title": "尼泊爾洪災8歲童爬樹保命 母子歷劫奇蹟重逢 | 國際焦點 | 國際 | 經濟日報",
+      "description": "尼泊爾男童佐亞爾．蓋勒（Zoyal Ghale）為躲避奪命洪災逃入森林，並爬到樹上成功保住小命，今天與母親奇蹟重逢。他的...",
+      "publishedAt": "2026-08-29T03:56:48.170Z",
+      "discoveredAt": "2026-08-29T03:56:48.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_635b8240603d27bab552",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721292?from=edn_maintab_index",
-      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 | 國際焦點 | 國際 | 經濟日報",
+      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。 日圓周五一度貶值0.5%至160.2...",
       "description": "美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。",
       "publishedAt": "2026-08-29T03:35:58.652Z",
       "discoveredAt": "2026-08-29T03:35:58.652Z",
@@ -744,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1270,7 +1450,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720235?from=edn_hottest_index",
-      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18334",
+      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18394",
       "description": "今日市場網路傳聞滿天飛，欣興（3037）今日下午完整重大訊息說明配合檢調調查，並非外傳內線交易等各種謠言。",
       "publishedAt": "2026-08-29T01:13:22.105Z",
       "discoveredAt": "2026-08-29T01:13:22.105Z",
@@ -1932,7 +2112,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1962,7 +2142,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1992,7 +2172,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2022,7 +2202,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2052,7 +2232,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2082,7 +2262,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2112,7 +2292,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2142,7 +2322,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2172,7 +2352,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2412,7 +2592,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2428,7 +2608,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9719910?from=edn_hottest_index",
-      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 27941",
+      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 28303",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -2442,7 +2622,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2458,7 +2638,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9720252?from=edn_hottest_index",
-      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 22542",
+      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 22692",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -2472,7 +2652,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2518,7 +2698,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 18588",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 18667",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -2532,7 +2712,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2562,7 +2742,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2592,7 +2772,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5067,168 +5247,6 @@
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e27bf6ee701956ebf81a",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
-      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
-      "description": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago.",
-      "publishedAt": "Wed, 26 Aug 2026 20:20:00 GMT",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a13805e6feb527e5dd63",
-      "sourceLastModified": "2026-08-26T18:31:47.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
-      "title": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
-      "description": "",
-      "publishedAt": "2026-08-26T18:31:47.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c39131e3e5d6a2c8cd7c",
-      "sourceLastModified": "2026-08-26T18:26:16.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/us-elections-readiness",
-      "title": "https://www.anthropic.com/news/us-elections-readiness",
-      "description": "",
-      "publishedAt": "2026-08-26T18:26:16.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7c946c62df22f9b141a6",
-      "sourceLastModified": "2026-08-26T18:24:13.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
-      "title": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
-      "description": "",
-      "publishedAt": "2026-08-26T18:24:13.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3b1c32b724582125aa12",
-      "sourceLastModified": "2026-08-26T18:21:30.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
-      "title": "https://www.anthropic.com/news/accenture-aws-anthropic",
-      "description": "",
-      "publishedAt": "2026-08-26T18:21:30.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_47ad92d511b008ca3c5b",
-      "sourceLastModified": "2026-08-26T18:16:53.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/skt-partnership-announcement",
-      "title": "https://www.anthropic.com/news/skt-partnership-announcement",
-      "description": "",
-      "publishedAt": "2026-08-26T18:16:53.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

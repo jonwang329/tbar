@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T16:56:58.958Z",
+  "updatedAt": "2026-08-29T17:07:33.221Z",
   "candidates": [
+    {
+      "id": "cand_e9217b007b146b609b3d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9722152?from=edn_newest_index",
+      "title": "輝達雙引擎發動 新一代產品價格翻倍 廣達、緯穎等業績將起飛 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達（NVIDIA）最新人工智慧（AI）機櫃Vera Rubin量產，加上AI推論機櫃Groq 3 LPX同步推出，雙引擎帶動，加上新一代機櫃價格較前一代翻倍成長，AI供應鏈業績跟著起飛。",
+      "publishedAt": "2026-08-29T17:07:33.221Z",
+      "discoveredAt": "2026-08-29T17:07:33.221Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_535bb1842b40c3cecd8f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9722156?from=edn_newest_index",
+      "title": "ODM 搶生意 擴大資本支出 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達Vera Rubin機櫃主要客戶是美國雲端服務供應商（CSP）或新興雲端服務供應商，主要部署地點在美國，鴻海、廣達、緯創與緯穎等ODM廠今年持續擴大資本支出，除用來增加美國產能，由於高漲零組件價格推升營運成本，也為備料資金做好準備。",
+      "publishedAt": "2026-08-29T17:07:33.221Z",
+      "discoveredAt": "2026-08-29T17:07:33.221Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ea18079d2220e43fe26e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9722153?from=edn_newest_index",
+      "title": "下半年輝達伺服器大量出貨 鴻海、技嘉、緯創大啖商機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達（NVIDIA）上周釋出亮眼的財報佳績與前景展望，激勵股價跳空大漲、並連動相關台系供應鏈強揚表態。法人建議，預期鴻海、技嘉、緯創等下游硬體組裝廠，將有機會受惠下半年輝達伺服器的大量出貨。",
+      "publishedAt": "2026-08-29T17:07:33.221Z",
+      "discoveredAt": "2026-08-29T17:07:33.221Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f526a34c5493ac3df8ba",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9722158?from=edn_newest_index",
+      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 | 產業熱點 | 產業 | 經濟日報",
+      "description": "最新報告指出，受到人工智慧（AI）晶片需求大幅增加的帶動，全球只生產晶片，且不設計也不銷售自家產品的純晶圓代工市場，今年第2季較2025年同期大幅成長29%。台積電市占穩居全球第一。",
+      "publishedAt": "2026-08-29T17:07:33.221Z",
+      "discoveredAt": "2026-08-29T17:07:33.221Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8f31d5344a5c4a506a6c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9722160?from=edn_newest_index",
+      "title": "217檔股息下月發放 上市櫃2,000億活水來了 | 市場焦點 | 證券 | 經濟日報",
+      "description": "邁入9月，台股將迎來新一波龐大股息發放的活水行情。據統計，9月上市櫃公司合計有217檔個股密集發放現金股利，總發放金額高達2,030.2億元。法人指出，隨龐大股息陸續入帳，有望啟動「股息再投資」效應，為台股後續多頭攻勢注入強勁的資金動能。",
+      "publishedAt": "2026-08-29T17:07:33.221Z",
+      "discoveredAt": "2026-08-29T17:07:33.221Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_efb58ddd547c86192829",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721292?from=edn_hottest_index",
+      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。",
+      "publishedAt": "2026-08-29T17:07:33.221Z",
+      "discoveredAt": "2026-08-29T17:07:33.221Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2937bde5fca1910c225c",
       "sourceLastModified": null,
@@ -820,7 +1000,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9721059?from=edn_hottest_index",
-      "title": "外資錢進來了！台股周漲1,107點 這周最愛的竟不是 AI 股 3738",
+      "title": "外資錢進來了！台股周漲1,107點 這周最愛的竟不是 AI 股 3784",
       "description": "台股28日收46,331.45點，上漲356.23點，本周大盤指數上漲1,107.16點，外資本周買超1,107.72億元，本周最受外資青睞的買超股首推金融股，在周買超前十名中占4檔，傳產股也吸金，同樣有4檔，電子股僅富喬及聯電2檔。",
       "publishedAt": "2026-08-29T16:03:42.605Z",
       "discoveredAt": "2026-08-29T16:03:42.605Z",
@@ -834,7 +1014,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2320,7 +2500,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
-      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 7707",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 7779",
       "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
       "publishedAt": "2026-08-29T13:24:57.779Z",
       "discoveredAt": "2026-08-29T13:24:57.779Z",
@@ -2896,7 +3076,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4022,7 +4202,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8401",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8432",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5196,186 +5376,6 @@
       "description": "日本外務省（相當於外交部）表示，本月已經恢復派遣日本大學生等人前往俄羅斯短期交流的事業。這個交流最近一次是在2019年舉...",
       "publishedAt": "2026-08-29T06:14:29.277Z",
       "discoveredAt": "2026-08-29T06:14:29.277Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_038789a7900e5f636f66",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9720803?from=edn_hottest_index",
-      "title": "華許傑克森洞演講五要點一次看 2026-08-28 22:28",
-      "description": "美國聯準會（Fed）主席華許28日在傑克森洞央行年會上發表專題演說，以下是內容摘要：",
-      "publishedAt": "2026-08-29T06:14:29.277Z",
-      "discoveredAt": "2026-08-29T06:14:29.277Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0242bce3284ab72e1241",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9717222",
-      "title": "14:00 整理包／陳幸妤的兒子說「沒有人在用 LINE 了啦」 為什麼年輕人更愛用 Discord？",
-      "description": "前總統陳水扁女兒陳幸妤近日公開與兒子的對話，眼尖的網友卻發現，母子使用的通訊軟體竟然是年輕人間流行的Discord。陳幸妤透露，自己過去使用LINE時，曾碰到照片不見、換手機備份失敗等問題，兒子甚至直接告訴她「沒有人在用LINE啦」。 Discord到底跟台灣人最常用的LINE有什麼不一樣？為什麼年輕人、遊戲玩家特別喜歡？《經濟日報》帶您了解。 一、Discord 是什麼？ Discord是一款由美國公司Discord Inc營運的免費網路通訊軟體，2015年推出時，出發點非常單純：讓一群朋友在打電動時，有一個好用的地方可以聊天。 而Discord發展至今，最大的特色就是其「伺服器」與「頻道」功能。伺服器的定位與LINE的群組接近，是將一群人聚在一起聊天的功能，但Discord的伺服器能為每個聊天話題建立不同的頻道，而頻道又可以分為「文字頻道」與「語音頻道」兩種類型。 舉例來說，一個以遊戲為主題的伺服器的頻道可以有：供所有成員聊天的「閒聊」、讓玩家們彼此交流的「遊戲攻略」、將大家聚在一起進行語音聊天與遊戲直播的「語音頻道」……等等。 除此之外，也能根據需求將頻道分門別類，讓每個頻道群",
-      "publishedAt": "2026-08-29T06:03:47.726Z",
-      "discoveredAt": "2026-08-29T06:03:47.726Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_573c2dba5153cea4eff7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721682?from=edn_newest_index",
-      "title": "尼泊爾洪災逾600死 村落遭吞噬、一家人奇蹟倖存 | 國際焦點 | 國際 | 經濟日報",
-      "description": "尼泊爾中部26日遭暴洪重創，努瓦科特縣1座村莊幾乎被洪水吞噬，世衛官員稱當地「亟需援助」；在一片災情慘重中，一家人躲在陽...",
-      "publishedAt": "2026-08-29T06:03:47.726Z",
-      "discoveredAt": "2026-08-29T06:03:47.726Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8cb5baeaa6504648d2b5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123669/9717024",
-      "title": "13:40 LOPIA 必買8種商品推薦！A5 和牛、披薩、提拉米蘇和自家製甜點 總經理親推這幾款",
-      "description": "來自日本的超人氣超市LOPIA，目前在台灣已有9間門市，來台將近三年，陸續進駐漢神巨蛋、新光三越、LaLaport等指標性百貨，話題度一路升溫。近期更因總經理水元仁志在社群上親自、熱情回覆網友，意外掀起討論熱潮，也讓LOPIA持續佔據版面，成功吸引更多人朝聖。 被封為「日本版 Costco」的LOPIA，不只是肉食控的天堂，熟食與甜點區同樣讓人一逛就失心瘋。如果你是第一次逛，面對滿滿商品不知從何下手，幫大家整理出8款網友公認的必買清單，照著買就對了！ LOPIA必買推薦：黑毛和牛系列 來到LOPIA，第一樣一定要放進購物籃的就是黑毛和牛。LOPIA畢竟是肉舖起家，對於肉的品質絕對不馬虎，從燒肉片、牛排到各式部位都有，油花分布漂亮、像大理石一樣誘人，價格卻比外面餐廳親民不少。每月29號的「肉之日」更常祭出優惠，像是黑毛和牛均一價 298 元／100g 等活動，煮火鍋或簡單乾煎，入口即化的油脂香氣，在家就能品嘗到幸福滋味。 LOPIA必買推薦：壽司 LOPIA的壽司可是豪邁「爆料系」路線，食材大塊、生魚片厚切，CP值超高！特別推薦鮭魚與干貝系列，保有鮮甜度，一口咬下去超滿足。壽司",
-      "publishedAt": "2026-08-29T05:52:34.802Z",
-      "discoveredAt": "2026-08-29T05:52:34.802Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c245d8dd80bb3a8db7e6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9721661?from=edn_newest_index",
-      "title": "苗栗縣導入「AIoT 巡迴檢量校正車」把關空品 強化智慧監測網 2026-08-29 13:44",
-      "description": "為確保苗栗縣空氣品質物聯網監測資料的準確性與可靠性，苗栗縣政府環境保護局首次導入AIoT巡迴檢量校正車，定期巡迴檢測縣內空氣品質感測器，持續提升監測品質，提供更精確的空氣品質資訊。",
-      "publishedAt": "2026-08-29T05:52:34.802Z",
-      "discoveredAt": "2026-08-29T05:52:34.802Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4ae02c7d51d86b93b572",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721650?from=edn_newest_index",
-      "title": "持刀闖中國大使館案 日本自衛官被免職 2026-08-29 13:36",
-      "description": "日本一名自衛官3月持刀闖進駐東京的中國大使館被捕，昨天已被免職。防衛省指出，「攜帶利器侵入並做出威脅行為，不僅危險性相當...",
-      "publishedAt": "2026-08-29T05:37:36.096Z",
-      "discoveredAt": "2026-08-29T05:37:36.096Z",
       "topics": [
         "Taiwan business",
         "investment",

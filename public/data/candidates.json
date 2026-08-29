@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T03:14:48.300Z",
+  "updatedAt": "2026-08-29T03:25:32.314Z",
   "candidates": [
+    {
+      "id": "cand_9b4011e9455bc88d1c3c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9721059",
+      "title": "外資錢進來了！台股周漲1,107點 這周最愛的竟不是 AI 股 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股28日收46,331.45點，上漲356.23點，本周大盤指數上漲1,107.16點，外資本周買超1,107.72億元，本周最受外資青睞的買超股首推金融股，在周買超前十名中占4檔，傳產股也吸金，同樣有4檔，電子股僅富喬及聯電2檔。",
+      "publishedAt": "2026-08-29T03:25:32.314Z",
+      "discoveredAt": "2026-08-29T03:25:32.314Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1650fce901310fe1494f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9721457?from=edn_newest_index",
+      "title": "營建漲價壓力大 國土署：老宅延壽、都更危老推動鼓勵使用國產建材 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "近期由台灣室內裝修、預拌混凝土、廚具、防火門、木材、電器、陶瓷、磚瓦及石礦等九大產業公會組成的「建材大聯盟」陳情營建產業鏈因面臨國際原物料暴漲、缺工等情形，導致相關產業訂單受影響，期盼政府能夠伸出援手。內政部國土管理署29日表示，持續透過鼓勵使用國產品牌建材，改善國內居住品質與安全 促進營建產業升級發展。",
+      "publishedAt": "2026-08-29T03:25:32.314Z",
+      "discoveredAt": "2026-08-29T03:25:32.314Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_932de01d661b9b3dc070",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721454?from=edn_newest_index",
+      "title": "雨衣賊持砂輪機偷香油錢 彰警逮人送辦 | 國際焦點 | 國際 | 經濟日報",
+      "description": "1名穿雨衣、戴安全帽竊嫌持砂輪機切開彰化縣田尾鄉興福宮鐵門及功德箱鎖頭，偷走香油錢，警方循線於台中市查獲涉案犯嫌，依竊盜...",
+      "publishedAt": "2026-08-29T03:25:32.314Z",
+      "discoveredAt": "2026-08-29T03:25:32.314Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f8f4f359f3d69df42bba",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721452?from=edn_newest_index",
+      "title": "涉中資水壩收賄案 厄瓜多前總統莫雷諾遭判有罪 | 國際焦點 | 國際 | 經濟日報",
+      "description": "厄瓜多一家法院今天裁定，前總統莫雷諾（Lenin Moreno）因收受建造該國最大水力發電大壩的中國公司賄賂，貪污罪名成...",
+      "publishedAt": "2026-08-29T03:25:32.314Z",
+      "discoveredAt": "2026-08-29T03:25:32.314Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8f9989f4f08543a2107a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9721451?from=edn_newest_index",
+      "title": "林佳龍訪帛琉出席特展 見證台灣攜手友邦合作成果 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "外交部長林佳龍昨天應友邦帛琉總統惠恕仁邀請，出席「太平洋繁榮特展」開幕典禮，並與美國、日本、澳大利亞駐帛琉使節一起參觀展...",
+      "publishedAt": "2026-08-29T03:25:32.314Z",
+      "discoveredAt": "2026-08-29T03:25:32.314Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f1e76c25024b6b30dfd2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9721448?from=edn_newest_index",
+      "title": "美喆財報／北美客戶保守下單 上半年虧1.42億元、每股虧1.79元 | 集中市場 | 證券 | 經濟日報",
+      "description": "國際石塑地板製造業者美喆-KY（8466）公布2026年上半年合併營收12.92億元，年減24.84%，稅後虧損1.42億元，較去年同期獲利0.17億元呈現由盈轉虧，每股淨虧1.79元、低於去年同期每股純益0.23元。",
+      "publishedAt": "2026-08-29T03:25:32.314Z",
+      "discoveredAt": "2026-08-29T03:25:32.314Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ee1d4839047eea5c5ca4",
       "sourceLastModified": null,
@@ -1000,7 +1180,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720235?from=edn_hottest_index",
-      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18253",
+      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18292",
       "description": "今日市場網路傳聞滿天飛，欣興（3037）今日下午完整重大訊息說明配合檢調調查，並非外傳內線交易等各種謠言。",
       "publishedAt": "2026-08-29T01:13:22.105Z",
       "discoveredAt": "2026-08-29T01:13:22.105Z",
@@ -2158,7 +2338,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9719910?from=edn_hottest_index",
-      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 27514",
+      "title": "整理包／全民動起來！運動部推「揮汗有禮」200萬份超商咖啡、豆漿免費拿 活動辦法、使用方式一次看 27740",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -2188,7 +2368,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9720252?from=edn_hottest_index",
-      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 22384",
+      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 22467",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -2248,7 +2428,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 18513",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 18560",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -5041,186 +5221,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bd82e378f015cedd10ed",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9716348",
-      "title": "美股早盤／輝達財報在即 PCE 顯示通膨仍然棘手 三大指數平盤波動 | 美股動態 | 國際 | 經濟日報",
-      "description": "美股26日早盤在平盤附近波動，主因是通膨報告結果比預期火熱，提高市場對美國聯準會（Fed）9月升息的押注，同時市場投資人也在等待AI領頭羊輝達的盤後財報。",
-      "publishedAt": "2026-08-26T14:25:11.043Z",
-      "discoveredAt": "2026-08-26T14:25:11.043Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_00160c24e799196b3647",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9716334",
-      "title": "房貸逾放飆5年新高 金管會急找銀行喝咖啡 | 金融脈動 | 金融 | 經濟日報",
-      "description": "國銀房貸逾放拉警報，金管會出手了。據統計，7月底國銀房貸逾放一舉攀升到94.25億元，是睽違五年重返「9字頭」，單月暴增7.8億元、寫六年半最大增額。金管會將找一家逾放連續攀升的大型民營銀行「喝咖啡」。",
-      "publishedAt": "2026-08-26T14:25:11.043Z",
-      "discoveredAt": "2026-08-26T14:25:11.043Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a30891e51669a1302b18",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9716302",
-      "title": "美 PCE 指數增幅持穩 第2季 GDP 成長率與初估1.5%一致 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國聯準會（Fed）偏愛的通膨指標7月意外持穩，加上消費者支出停滯，可望給Fed更多空間維持利率不變。",
-      "publishedAt": "2026-08-26T14:25:11.043Z",
-      "discoveredAt": "2026-08-26T14:25:11.043Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4b2b756fc9f0141a7c34",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9716233",
-      "title": "貿易戰使美加面臨通膨惡化 但兩國都已預留下台階 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國與加拿大關稅戰開打，分析師認為，兩國都承受不起通膨惡化打擊經濟的後果。不過，「川普再度畏縮」（TACO）也許會再度重演。",
-      "publishedAt": "2026-08-26T14:25:11.043Z",
-      "discoveredAt": "2026-08-26T14:25:11.043Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8deb61723a4f176db00a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9716334?from=edn_maintab_index",
-      "title": "房貸逾放飆5年新高 金管會急找銀行喝咖啡 | 金融脈動 | 金融 | 經濟日報",
-      "description": "國銀房貸逾放拉警報，金管會出手了。據統計，7月底國銀房貸逾放一舉攀升到94.25億元，是睽違五年重返「9字頭」，單月暴增7.8億元、寫六年半最大增額。金管會將找一家逾放連續攀升的大型民營銀行「喝咖啡」。",
-      "publishedAt": "2026-08-26T14:25:11.043Z",
-      "discoveredAt": "2026-08-26T14:25:11.043Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e47a72dce5938657c81b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9716302?from=edn_maintab_index",
-      "title": "美 PCE 指數增幅持穩 第2季 GDP 成長率與初估1.5%一致 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國聯準會（Fed）偏愛的通膨指標7月意外持穩，加上消費者支出停滯，可望給Fed更多空間維持利率不變。",
-      "publishedAt": "2026-08-26T14:25:11.043Z",
-      "discoveredAt": "2026-08-26T14:25:11.043Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T06:25:04.753Z",
+  "updatedAt": "2026-08-29T06:36:03.702Z",
   "candidates": [
+    {
+      "id": "cand_6ca9a26e1ee0bf6deb23",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721722?from=edn_newest_index",
+      "title": "尼泊爾接受外援但有限制！一般搜救仍靠自己 重建估需40至50億美元 | 國際焦點 | 國際 | 經濟日報",
+      "description": "尼泊爾與中國大陸西藏交界的喜馬拉雅山區26日發生暴洪與土石流。尼國外交部長卡納爾（Shisir Khanal）接受路透訪問時表示，尼泊爾在缺乏專業能力及技術的領域需要外國協助，但一般搜救並不需要外援。",
+      "publishedAt": "2026-08-29T06:36:03.702Z",
+      "discoveredAt": "2026-08-29T06:36:03.702Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2257ed1f915523592855",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721720?from=edn_newest_index",
+      "title": "柬埔寨稱網路詐騙園區清零 專家質疑成效 | 國際焦點 | 國際 | 經濟日報",
+      "description": "柬埔寨政府宣稱打擊詐騙產業取得重大進展，官員表示他們已徹底根除國內所有網路詐騙園區，但專家對此抱持懷疑態度",
+      "publishedAt": "2026-08-29T06:36:03.702Z",
+      "discoveredAt": "2026-08-29T06:36:03.702Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_80e8b23408e37843e0b5",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9720095",
-      "title": "垃圾桶裡的發票可以撿嗎？他帶回家竟收警方通知 律師解答了 | 生活 | 要聞 | 經濟日報",
+      "title": "14:20 垃圾桶裡的發票可以撿嗎？他帶回家竟收警方通知 律師解答了",
       "description": "近期有民眾在Threads分享自身經歷，表示在公共場所垃圾桶內發現發票，隨手撿起帶回家，沒想到之後竟接到警方通知，要求到警局製作筆錄。究竟「撿別人丟掉的發票」是否可能觸法？律師王碩分析，關鍵首先要釐清，原持有人究竟是故意丟掉，還是不小心遺失，兩種情況在法律上的處理完全不同。",
       "publishedAt": "2026-08-29T06:25:04.753Z",
       "discoveredAt": "2026-08-29T06:25:04.753Z",
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6721/9721702?from=edn_newest_index",
-      "title": "西藏土石流 港府預留2億捐助災區 | 港澳話題 | 兩岸 | 經濟日報",
+      "title": "西藏土石流 港府預留2億捐助災區 2026-08-29 14:21",
       "description": "據明報新聞網報導，香港特首李家超今日表示，因尼泊爾一側發生土石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人命傷亡、失聯，...",
       "publishedAt": "2026-08-29T06:25:04.753Z",
       "discoveredAt": "2026-08-29T06:25:04.753Z",
@@ -220,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720803?from=edn_hottest_index",
-      "title": "華許傑克森洞演講五要點一次看 15092",
+      "title": "華許傑克森洞演講五要點一次看 15126",
       "description": "美國聯準會（Fed）主席華許28日在傑克森洞央行年會上發表專題演說，以下是內容摘要：",
       "publishedAt": "2026-08-29T06:14:29.277Z",
       "discoveredAt": "2026-08-29T06:14:29.277Z",
@@ -1314,7 +1374,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2560,7 +2620,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720235?from=edn_hottest_index",
-      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18690",
+      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18705",
       "description": "今日市場網路傳聞滿天飛，欣興（3037）今日下午完整重大訊息說明配合檢調調查，並非外傳內線交易等各種謠言。",
       "publishedAt": "2026-08-29T01:13:22.105Z",
       "discoveredAt": "2026-08-29T01:13:22.105Z",
@@ -3748,7 +3808,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9720252?from=edn_hottest_index",
-      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 23431",
+      "title": "外資、主動式 ETF 愛股！欣興遭檢調搜索 下周一經理人比手速？ 23474",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -3808,7 +3868,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 19066",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 19083",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -5272,62 +5332,6 @@
       "url": "https://moda.gov.tw/en/press/background-information/2768",
       "title": "Interview with BBC HARDtalk｜Background Information - News and Releases｜Ministry of Digital Affairs",
       "description": "Interview with BBC HARDtalk",
-      "publishedAt": "2026-08-28",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3c6f633bf9ed091008ab",
-      "sourceLastModified": "2026-08-28",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/3024",
-      "title": "Meeting with Microsoft｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Meeting with Microsoft",
-      "publishedAt": "2026-08-28",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_318834fad10b2adaa408",
-      "sourceLastModified": "2026-08-28",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/3028",
-      "title": "Interview with Anne Applebaum｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Interview with Anne Applebaum",
       "publishedAt": "2026-08-28",
       "discoveredAt": "2026-08-13T12:35:46.831Z",
       "topics": [

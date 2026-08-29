@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T14:54:43.058Z",
+  "updatedAt": "2026-08-29T15:05:31.810Z",
   "candidates": [
+    {
+      "id": "cand_dbf162d573829de24189",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722169?from=edn_newest_index",
+      "title": "王毅與尼泊爾外長通話：中方將對尼一攬子援助 | 國際焦點 | 國際 | 經濟日報",
+      "description": "8月26日中尼邊界土石流災害引發重大傷亡，在大陸國家主席習近平28日向尼泊爾總統鮑德爾致慰問電後，大陸外長王毅與尼泊爾外長通話時表示，大陸對尼一攬子援助正在落實，包括緊急現匯援助和人道主義援助，並強調「面對災情，兩國要堅定站在一起，攜手應對，共克時艱」。",
+      "publishedAt": "2026-08-29T15:05:31.810Z",
+      "discoveredAt": "2026-08-29T15:05:31.810Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8d09043f1e59409b9fd1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9721968?from=edn_newest_index",
+      "title": "富邦臺灣中小 表現亮眼 | 基金天地 | 理財 | 經濟日報",
+      "description": "富邦臺灣中小（00733）周漲6.2%，經理人蘇筱婷表示，在AI資本支出維持成長、企業獲利動能延續下，可望受惠於資金由大型權值股輪動到具成長潛力的中小型產業股。",
+      "publishedAt": "2026-08-29T15:05:31.810Z",
+      "discoveredAt": "2026-08-29T15:05:31.810Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d0a127e95170a7cd7093",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9721969?from=edn_newest_index",
+      "title": "復華富時高息低波 強強滾 | 基金天地 | 理財 | 經濟日報",
+      "description": "復華富時高息低波（00731）周漲2.4%，主要受惠於第五大持股、權重6.71%的大立光股價周漲25.9%，28日收7,065元創收盤新高；多檔金融股近期表現強於大盤，扮演助攻角色。",
+      "publishedAt": "2026-08-29T15:05:31.810Z",
+      "discoveredAt": "2026-08-29T15:05:31.810Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b2c9f722be9262171512",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9721970?from=edn_newest_index",
+      "title": "國泰新興市場 搭 AI 熱潮 | 基金天地 | 理財 | 經濟日報",
+      "description": "國泰新興市場（00736）周漲0.9%，經理人陳世偉指出，全球AI投資熱潮由美國向新興市場擴散，輝達最新財報持續釋出強大AI需求訊號，帶動亞洲科技產業投資題材延續。",
+      "publishedAt": "2026-08-29T15:05:31.810Z",
+      "discoveredAt": "2026-08-29T15:05:31.810Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_146f16fbeb5187bd5dd7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9721976?from=edn_newest_index",
+      "title": "輝達財報加持 美股漲多於跌 | 基金天地 | 理財 | 經濟日報",
+      "description": "AI指標大廠輝達財報再次繳出強勁業績且提供樂觀財測，抵銷遙遙無期的美伊和平協議，激勵美股四大指數齊揚，連帶盤面上美股相關ETF漲多於跌。統計至28日，上周表現前三強的美股ETF依序為國泰網路資安3.8%、主動摩根美國科技2.6%、國泰美國道瓊正2的2.3%。",
+      "publishedAt": "2026-08-29T15:05:31.810Z",
+      "discoveredAt": "2026-08-29T15:05:31.810Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_a41fbdcbf8a446f18f30",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722125?from=edn_maintab_index",
-      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 | 國際焦點 | 國際 | 經濟日報",
+      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。 華許...",
       "description": "美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。",
       "publishedAt": "2026-08-29T14:54:43.058Z",
       "discoveredAt": "2026-08-29T14:54:43.058Z",
@@ -940,7 +1090,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
-      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 6258",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 6459",
       "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
       "publishedAt": "2026-08-29T13:24:57.779Z",
       "discoveredAt": "2026-08-29T13:24:57.779Z",
@@ -1210,7 +1360,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9720932?from=edn_hottest_index",
-      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4203",
+      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4246",
       "description": "台股歷經七個交易日成交值低於兆元後，昨（28）日終於回升至兆元之上，並推升加權指數改寫波段新高。法人指出，台股向上挑戰關鍵「唯量是問」，篩選兼具基本面與人氣支撐的強勢的價漲量增股，包括聯電、南亞、華通、光寶科等15檔法人買盤擁護的交投放大個股，將是領漲先鋒。",
       "publishedAt": "2026-08-29T12:26:44.388Z",
       "discoveredAt": "2026-08-29T12:26:44.388Z",
@@ -2386,7 +2536,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2462,7 +2612,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9720996?from=edn_hottest_index",
-      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5596",
+      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5620",
       "description": "台北市一名年僅10歲女童，其身心障礙的母親在家從事性交易，導致她長期被母親客人多次性猥褻，一度240天未被安置，甚至出現自殘行為。對此，前總統蔡英文28日深夜發聲，表示「心裡很難過」，一個才10歲的孩子甚至學會了「翻供」一詞，盼社會安全網持續檢討，把漏洞補起來。",
       "publishedAt": "2026-08-29T09:04:12.626Z",
       "discoveredAt": "2026-08-29T09:04:12.626Z",
@@ -2476,7 +2626,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2642,7 +2792,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 7993",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8031",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5226,156 +5376,6 @@
       "description": "台灣虎航股份有限公司今天客艙組員招募初試，近3000人投遞履歷，經初步書面資料篩選，約1700人符合初試甄選資格，預計錄...",
       "publishedAt": "2026-08-29T03:14:48.300Z",
       "discoveredAt": "2026-08-29T03:14:48.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_67314fe851bb5a9058a8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9721435?from=edn_newest_index",
-      "title": "台灣虎航客艙組員招募29日初試登場 預計第4季報到 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台灣虎航（6757）29日舉辦客艙組員招募初試，本次招募自開放報名以來，短短兩周累積近3,000人投遞履歷。經初步書面資料篩選後，約1,700名應試者符合資格，可參與初試甄選。",
-      "publishedAt": "2026-08-29T03:14:48.300Z",
-      "discoveredAt": "2026-08-29T03:14:48.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a28a5f5009d541aca941",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721416?from=edn_newest_index",
-      "title": "宣揚反覺醒？美防長赫塞斯去年突召全美將領演說 傳今年想再辦一次 | 國際焦點 | 國際 | 經濟日報",
-      "description": "華爾街日報28日報導，美國國防部長赫塞斯2025年秋天曾在匡提科陸戰隊基地（Marine Corps Base Quantico）發表「不要再有大鬍子怪人」（no more beardos）的演說。美國官員表示，他正考慮今年邀請數百名高階軍事人員再度前往該基地聽他演說。",
-      "publishedAt": "2026-08-29T03:14:48.300Z",
-      "discoveredAt": "2026-08-29T03:14:48.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_93c51544ca66d4d9d415",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9721412?from=edn_newest_index",
-      "title": "大直損鄰案兩案都更招商成功 創百億不動產價值 | 房市話題 | 房市 | 經濟日報",
-      "description": "北市基泰大直鄰損案，造成周邊兩處啟動公辦都更。台北市住宅及都市更新中心歷經去年招商未果，今年再啟招商，昨天完成評選，兩案最優申請人出爐，將為東側（大直儒玉案）及南側（大直藏璽案）推動更新重建，居民家園重建邁進一大步。",
-      "publishedAt": "2026-08-29T03:14:48.300Z",
-      "discoveredAt": "2026-08-29T03:14:48.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4d84323fbd0f5e54e7ba",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9721407?from=edn_newest_index",
-      "title": "中國出入境新規9/15上路 吳釗燮示警赴中三思 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "中國新的出入境管理規定將於9月15日施行，國安會秘書長吳釗燮今天表示，新規強制取得個人數位資料，加上其他恣意且缺乏明確標...",
-      "publishedAt": "2026-08-29T03:04:04.478Z",
-      "discoveredAt": "2026-08-29T03:04:04.478Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f36a8c2c93960681247",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9721404?from=edn_newest_index",
-      "title": "公股金控女力崛起 女性主管占比逾半數 | 產業熱點 | 產業 | 經濟日報",
-      "description": "職場女力嶄露頭角，根據上市公股金控公布去年度永續報告書揭露，女性主管占比多呈現年增，且兆豐金、合庫金、華南金等3家均超過...",
-      "publishedAt": "2026-08-29T03:04:04.478Z",
-      "discoveredAt": "2026-08-29T03:04:04.478Z",
       "topics": [
         "Taiwan business",
         "investment",

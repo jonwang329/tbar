@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T23:17:18.419Z",
+  "updatedAt": "2026-08-29T23:33:04.742Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_9e35346c453a46fa0aaf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722125?from=edn_hottest_index",
+      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。",
+      "publishedAt": "2026-08-29T23:32:53.414Z",
+      "discoveredAt": "2026-08-29T23:32:53.414Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0b0893dea335c0b5d796",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -124,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9721810?from=edn_hottest_index",
-      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 2787",
+      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 2891",
       "description": "美國聯準會主席華許28日晚間於傑克森洞全球央行年會強硬表態對抗通膨，市場強烈感受鷹派訊號與升息預期，金價立即跳水，28日暴跌135美元至4,453美元。一連貫破4,580及4,500美元支撐區。整周下跌149美元約3.2%。",
       "publishedAt": "2026-08-29T22:45:02.898Z",
       "discoveredAt": "2026-08-29T22:45:02.898Z",
@@ -228,7 +258,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -934,7 +964,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721292?from=edn_hottest_index",
-      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 2891",
+      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 2912",
       "description": "美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。",
       "publishedAt": "2026-08-29T17:07:33.221Z",
       "discoveredAt": "2026-08-29T17:07:33.221Z",
@@ -3703,7 +3733,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -4976,7 +5006,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8841",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8891",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5338,36 +5368,6 @@
       "url": "https://money.udn.com/money/story/5648/9721782?from=edn_newest_index",
       "title": "屏東已有豪雨 苗栗及新竹有局部大雨或豪雨 2026-08-29 15:37",
       "description": "中央氣象署更新豪雨特報，今日西南風影響，對流雲系發展旺盛，易有短延時強降雨，屏東縣已有豪雨發生，嘉義以南地區有局部大雨發...",
-      "publishedAt": "2026-08-29T07:44:18.252Z",
-      "discoveredAt": "2026-08-29T07:44:18.252Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3ddc663e283e54f9901e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721781?from=edn_newest_index",
-      "title": "挪威國王哈拉德辭世 川普發文哀悼讚備受愛戴 2026-08-29 15:37",
-      "description": "美國總統川普今天對挪威國王哈拉德五世（King Harald V）辭世表達哀痛，形容他是一位「堅強、自豪且備受尊敬的長者...",
       "publishedAt": "2026-08-29T07:44:18.252Z",
       "discoveredAt": "2026-08-29T07:44:18.252Z",
       "topics": [

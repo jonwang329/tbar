@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T08:53:19.190Z",
+  "updatedAt": "2026-08-29T09:04:12.626Z",
   "candidates": [
+    {
+      "id": "cand_8a44278280580418c6ad",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9716766",
+      "title": "AI 跑太快、人類還沒準備好 蓋茲發12頁長文 五大警告一次看 | 國際焦點 | 國際 | 經濟日報",
+      "description": "微軟（Microsoft）共同創辦人蓋茲（Bill Gates）警告，AI正以「快得令人難以置信」的速度改變社會，即使一切發展順利，人類仍將迎向史上罕見的最動盪時期。科技業者卻只顧加速競賽，政府及社會也沒有準備好因應大規模失業、網路攻擊、假訊息及人際關係改變等衝擊。",
+      "publishedAt": "2026-08-29T09:04:12.626Z",
+      "discoveredAt": "2026-08-29T09:04:12.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_16e37a1cd48b8d7ec1d1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721844?from=edn_maintab_index",
+      "title": "下周開盤前 五件值得回顧的國際大事 | 國際焦點 | 國際 | 經濟日報",
+      "description": "聯準會（Fed）主席華許在傑克森洞全球央行年會強硬表態，讓市場相信他真有決心藉升息來壓制通膨，也洗刷7月記者會立場含糊的印象。但這番話也讓Fed在9月更難不升息：除非接下來通膨或就業數據明顯轉弱，Fed若按兵不動，反而可能再度損害公信力。以下是下周開盤前，最值得回顧的五件國際要聞：",
+      "publishedAt": "2026-08-29T09:04:12.626Z",
+      "discoveredAt": "2026-08-29T09:04:12.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5a69ef52b582263e9dd0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9721879?from=edn_newest_index",
+      "title": "AI 賦能產業園區 經濟部攜手六都推動智慧治理新升級 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "經濟部產業園區管理局28日舉辦「2026產業園區發展政策高峰論壇」，以「智慧治理與產業園區之轉型與發展」為主題，邀集國科會、六都及產官學界代表齊聚交流，聚焦AI應用、智慧治理、低碳轉型及產業群聚發展，凝聚中央與地方推動產業園區升級共識。透過跨域資源整合與經驗交流，進一步強化產業鏈結與園區競爭力，為臺灣產業升級、供應鏈韌性及國際布局注入新動能。",
+      "publishedAt": "2026-08-29T09:04:12.626Z",
+      "discoveredAt": "2026-08-29T09:04:12.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a605044752082884a60f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5635/9721391?from=edn_newest_index",
+      "title": "國際論壇五席設備商僅一家台廠 光焱科技何以入列 | 熱門亮點 | 商情 | 經濟日報",
+      "description": "隨著矽光子與共同封裝光學（CPO）逐步由研發走向量產，台灣相關供應鏈版圖也日趨成形。從晶圓製造、先進封裝到光學元件，國內均已有業者卡位；相較之下，位居量產關鍵環節的檢測與量測設備，目前仍以國際設備商為主。這項供應鏈結構，也反映在8月31日於台北漢來大飯店舉行的SEMICON Taiwan矽光子國際論壇。 該論壇為9月2日至4日SEMICON Taiwan 2026登場前的重要技術活動。SEMI矽光子產業聯盟由SEMI號召成立，台積電與日月光擔任倡議人，目前已匯聚逾150家產業夥伴；本屆論壇並由台積電先進封裝技術開發副總徐國晉與日月光研發中心副總Dr. C.P. Hung共同擔任主席。 主辦單位預估，今年SEMICON Taiwan將吸引逾1,300家展商參與；相較之下，矽光子國際論壇全日僅安排十餘場專題發表，講者須事前提交技術主題與簡報內容，經SEMI審核後始排入正式議程。 觀察今年論壇講者陣容，矽光子製造與檢測設備仍明顯由國際大廠主導。製程中的線上檢測與量測由美商Onto Innovation發表；晶圓、晶粒至模組的自動化電光測試由德商ficonTEC分享；日系愛德萬測試則聚焦CPO",
+      "publishedAt": "2026-08-29T09:04:12.626Z",
+      "discoveredAt": "2026-08-29T09:04:12.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_74fc5c826c4646ea1536",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9720996?from=edn_hottest_index",
+      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "台北市一名年僅10歲女童，其身心障礙的母親在家從事性交易，導致她長期被母親客人多次性猥褻，一度240天未被安置，甚至出現自殘行為。對此，前總統蔡英文28日深夜發聲，表示「心裡很難過」，一個才10歲的孩子甚至學會了「翻供」一詞，盼社會安全網持續檢討，把漏洞補起來。",
+      "publishedAt": "2026-08-29T09:04:12.626Z",
+      "discoveredAt": "2026-08-29T09:04:12.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e1f32a61521aaf5768ff",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9721860?from=edn_newest_index",
-      "title": "彰化縣長選舉 民眾黨不排除推黨部副主委賴銀柱 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "彰化縣長選舉 民眾黨不排除推黨部副主委賴銀柱 2026-08-29 16:47",
       "description": "台灣民眾黨彰化縣黨部主任委員温宗諭今天表示，彰化選情非常複雜，民眾黨一直有人才，黨部副主委賴銀柱如果能代表民眾黨參選彰化...",
       "publishedAt": "2026-08-29T08:53:19.190Z",
       "discoveredAt": "2026-08-29T08:53:19.190Z",
@@ -160,7 +310,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 5464",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 5538",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -220,7 +370,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720911?from=edn_hottest_index",
-      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 9816",
+      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 9858",
       "description": "美國總統川普簽署行政命令，把橫跨美國與加拿大邊界的「安大略湖」更名為「美國湖」（Lake America），而且可能還會企圖改其他地名。經濟學家克魯曼於是發文調侃川普。",
       "publishedAt": "2026-08-29T08:27:12.913Z",
       "discoveredAt": "2026-08-29T08:27:12.913Z",
@@ -1360,7 +1510,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720803?from=edn_hottest_index",
-      "title": "華許傑克森洞演講五要點一次看 15625",
+      "title": "華許傑克森洞演講五要點一次看 15655",
       "description": "美國聯準會（Fed）主席華許28日在傑克森洞央行年會上發表專題演說，以下是內容摘要：",
       "publishedAt": "2026-08-29T06:14:29.277Z",
       "discoveredAt": "2026-08-29T06:14:29.277Z",
@@ -5226,156 +5376,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bb23bf8fd679861e3e94",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9719132",
-      "title": "邁威爾財報／上調財測盤後仍重挫7% 分析師憂利多發酵還要等一等 | 美股動態 | 國際 | 經濟日報",
-      "description": "ASIC大廠邁威爾科技（Marvell Technology）公布的上季財報僅小幅優於市場預期，儘管同時宣布上調年度財測，但市場擔心與Google合作的利多要稍後才會顯現，該公司股價在周四（27日）盤後大幅下挫。",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3f7c5a57544c248fa8b1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9719110",
-      "title": "川普又在地圖上動手腳 安大略湖改名美國湖 加拿大商人用帽子回擊 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普周四簽署行政命令，宣布將橫跨美加邊境的北美五大湖之一「安大略湖」（Lake Ontario）在美國地圖上更名為「美國湖」（Lake America），新名稱「立即生效」。這項舉措發生在美加貿易談判破裂、雙方互徵報復性關稅之際，迅速引發加拿大政界與民間強烈反彈。",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7d8d7250da772c2c01a2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9718848",
-      "title": "輝達吞亞馬遜大單 獲200萬顆AI晶片採購合約 台鏈補 | 產業熱點 | 產業 | 經濟日報",
-      "description": "輝達26日宣布，與全球雲端服務供應商龍頭亞馬遜AWS擴大策略合作，亞馬遜AWS將新增採購輝達200萬顆AI晶片，雙方並攜手開發輝達客製化高頻寬記憶體（NVHBM）。法人看好，上述合作案將為台積電、鴻海、廣達、緯創等協力廠帶來更多訂單。",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3915d867db8f639a32b3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9719132?from=edn_maintab_index",
-      "title": "邁威爾財報／上調財測盤後仍重挫7% 分析師憂利多發酵還要等一等 | 美股動態 | 國際 | 經濟日報",
-      "description": "ASIC大廠邁威爾科技（Marvell Technology）公布的上季財報僅小幅優於市場預期，儘管同時宣布上調年度財測，但市場擔心與Google合作的利多要稍後才會顯現，該公司股價在周四（27日）盤後大幅下挫。",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_541951a54946ee75b92b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9719110?from=edn_maintab_index",
-      "title": "川普又在地圖上動手腳 安大略湖改名美國湖 加拿大商人用帽子回擊 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普周四簽署行政命令，宣布將橫跨美加邊境的北美五大湖之一「安大略湖」（Lake Ontario）在美國地圖上更名為「美國湖」（Lake America），新名稱「立即生效」。這項舉措發生在美加貿易談判破裂、雙方互徵報復性關稅之際，迅速引發加拿大政界與民間強烈反彈。",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false

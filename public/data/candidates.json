@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T13:35:51.054Z",
+  "updatedAt": "2026-08-29T13:46:26.971Z",
   "candidates": [
+    {
+      "id": "cand_738667e2db446720e8f3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9722103?from=edn_newest_index",
+      "title": "超微 Helios 導入 TH6 打造 Scale-up 架構 台系三廠商受惠 | 市場焦點 | 證券 | 經濟日報",
+      "description": "超微（AMD）首套機架級系統 Helios下半年進入量產，採用OCP 的開放機架寬版規格，網路端由六組交換器承擔。法人認為，台廠中，智邦（2345）、貿聯-KY（3665）、台燿（6274）將成為重要的受惠者。",
+      "publishedAt": "2026-08-29T13:46:26.971Z",
+      "discoveredAt": "2026-08-29T13:46:26.971Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5387e4e413d9136c4678",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10511/9722093?from=edn_newest_index",
+      "title": "美國卡車貨運業慘澹四年終迎復甦！這回竟是拜 AI 之賜 | 美國新聞 | 國際 | 經濟日報",
+      "description": "歷經四年不景氣，美國卡車貨運業終於復甦，而人工智慧（AI）投資熱潮是使這個行業脫疲翻醒的重要推手。",
+      "publishedAt": "2026-08-29T13:46:26.971Z",
+      "discoveredAt": "2026-08-29T13:46:26.971Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_61baa730103723d82335",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9722079?from=edn_newest_index",
+      "title": "台裔作家首入圍德國圖書獎 廖樂薇以小說書寫台灣民主 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "台裔德國作家廖樂薇以台灣為背景的首部長篇小說Glaszeit（暫譯：玻璃時代），入圍2026年德國圖書獎長名單，成為首位...",
+      "publishedAt": "2026-08-29T13:46:26.971Z",
+      "discoveredAt": "2026-08-29T13:46:26.971Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_11e1d4626a75216b5703",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9722063?from=edn_newest_index",
+      "title": "今彩539第115210期開獎 | 生活 | 要聞 | 經濟日報",
+      "description": "今彩539第115210期開獎，中獎號碼33、06、03、17、23。3星彩中獎號碼870，4星彩中獎號碼1280",
+      "publishedAt": "2026-08-29T13:46:26.971Z",
+      "discoveredAt": "2026-08-29T13:46:26.971Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_83749947078f38e528a8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721029?from=edn_bloomberg_index_side",
+      "title": "日圓兌美元再度跌破160 美日上次干預的成果減退 | 國際焦點 | 國際 | 經濟日報",
+      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
+      "publishedAt": "2026-08-29T13:46:26.971Z",
+      "discoveredAt": "2026-08-29T13:46:26.971Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7e0816de7242d2fe364d",
       "sourceLastModified": null,
@@ -40,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
-      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 4123",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 4330",
       "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
       "publishedAt": "2026-08-29T13:24:57.779Z",
       "discoveredAt": "2026-08-29T13:24:57.779Z",
@@ -1562,7 +1712,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9720996?from=edn_hottest_index",
-      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5373",
+      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5418",
       "description": "台北市一名年僅10歲女童，其身心障礙的母親在家從事性交易，導致她長期被母親客人多次性猥褻，一度240天未被安置，甚至出現自殘行為。對此，前總統蔡英文28日深夜發聲，表示「心裡很難過」，一個才10歲的孩子甚至學會了「翻供」一詞，盼社會安全網持續檢討，把漏洞補起來。",
       "publishedAt": "2026-08-29T09:04:12.626Z",
       "discoveredAt": "2026-08-29T09:04:12.626Z",
@@ -1742,7 +1892,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 7512",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 7576",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -1802,7 +1952,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720911?from=edn_hottest_index",
-      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 11019",
+      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 11100",
       "description": "美國總統川普簽署行政命令，把橫跨美國與加拿大邊界的「安大略湖」更名為「美國湖」（Lake America），而且可能還會企圖改其他地名。經濟學家克魯曼於是發文調侃川普。",
       "publishedAt": "2026-08-29T08:27:12.913Z",
       "discoveredAt": "2026-08-29T08:27:12.913Z",
@@ -5241,156 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_72ceed763ea04df2ef29",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9721209?from=edn_newest_index",
-      "title": "內政部調升因公受傷義務役慰問金安養津貼 最高30% 2026-08-29 09:12",
-      "description": "考量因公受傷人員及家屬長期照護需求，同時因應消費者物價指數變動，內政部長劉世芳今天宣布調升義務役因公受傷人員三節慰問金及...",
-      "publishedAt": "2026-08-29T01:13:22.105Z",
-      "discoveredAt": "2026-08-29T01:13:22.105Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e6a6d310b9e65d728738",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9720235?from=edn_hottest_index",
-      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18925",
-      "description": "今日市場網路傳聞滿天飛，欣興（3037）今日下午完整重大訊息說明配合檢調調查，並非外傳內線交易等各種謠言。",
-      "publishedAt": "2026-08-29T01:13:22.105Z",
-      "discoveredAt": "2026-08-29T01:13:22.105Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_997b36495eb83a318ed8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721192?from=edn_newest_index",
-      "title": "川普宣布掌控委內瑞拉油儲 盼壓低美燃料價格 2026-08-29 09:00",
-      "description": "美國總統川普今天宣布前所未見的計畫，將掌控委內瑞拉1/5龐大石油儲量，看好美國企業能重振委國受創的能源產業，並藉由取得新...",
-      "publishedAt": "2026-08-29T01:02:44.958Z",
-      "discoveredAt": "2026-08-29T01:02:44.958Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d92082f66be27bf47860",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721179?from=edn_newest_index",
-      "title": "川普將赴五角大廈悼911 否認因演說爭議避開紐約 2026-08-29 08:45",
-      "description": "美國總統川普今天表示，他將在五角大廈悼念2001年9月11日恐怖攻擊事件25週年，並駁斥因演說爭議而缺席紐約紀念活動",
-      "publishedAt": "2026-08-29T00:47:17.927Z",
-      "discoveredAt": "2026-08-29T00:47:17.927Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_062859107535e61f4aba",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9721176?from=edn_newest_index",
-      "title": "四川涼山雷波縣讓平均低分老師在「恥辱」背板前合影 當地政府致歉 2026-08-29 08:36",
-      "description": "大陸四川涼山州一地安排班級平均分低的老師在「恥辱」二字前合影，當地政府致歉，稱已成立專項工作小組調查，將依據調查結果嚴肅處理。",
-      "publishedAt": "2026-08-29T00:36:50.489Z",
-      "discoveredAt": "2026-08-29T00:36:50.489Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

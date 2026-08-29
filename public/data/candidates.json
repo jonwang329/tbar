@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T21:25:32.994Z",
+  "updatedAt": "2026-08-29T21:36:04.650Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,36 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7af9c8c6a883f8f9e169",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722331?from=edn_newest_index",
+      "title": "尼日軍政府稱平息叛變 傳俄軍助奪回首都空軍基地 | 國際焦點 | 國際 | 經濟日報",
+      "description": "西非國家尼日今天發生士兵叛變，叛變士兵攻向總統府，並一度迫使國家電視台中斷播出。軍政府隨後表示已重新掌控局勢",
+      "publishedAt": "2026-08-29T21:36:04.650Z",
+      "discoveredAt": "2026-08-29T21:36:04.650Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -814,7 +844,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721292?from=edn_hottest_index",
-      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 2840",
+      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 2843",
       "description": "美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。",
       "publishedAt": "2026-08-29T17:07:33.221Z",
       "discoveredAt": "2026-08-29T17:07:33.221Z",
@@ -3154,7 +3184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
-      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 8513",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 8552",
       "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
       "publishedAt": "2026-08-29T13:24:57.779Z",
       "discoveredAt": "2026-08-29T13:24:57.779Z",
@@ -4856,7 +4886,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8691",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8704",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5354,36 +5384,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b9999358ee42155bcac1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9721770?from=edn_newest_index",
-      "title": "記憶體已經成為手機中最貴的零組件 | 產業熱點 | 產業 | 經濟日報",
-      "description": "市調機構Counterpoint Research表示，2026年第2季智慧型手機記憶體價格較前一季上漲超過80%，",
-      "publishedAt": "2026-08-29T07:33:36.622Z",
-      "discoveredAt": "2026-08-29T07:33:36.622Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

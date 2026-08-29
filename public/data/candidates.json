@@ -1,7 +1,97 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T15:52:51.723Z",
+  "updatedAt": "2026-08-29T16:03:42.605Z",
   "candidates": [
+    {
+      "id": "cand_2cce792aee49e39ba05d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9722099?from=edn_newest_index",
+      "title": "中光電投控新股上櫃 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "中光電轉型為中光電投控，以股份轉換方式，成為中光電投控100%持股之子公司，新股將於9月3日以83.5元掛牌上櫃，開啟新局。",
+      "publishedAt": "2026-08-29T16:03:42.605Z",
+      "discoveredAt": "2026-08-29T16:03:42.605Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3cd640b9983c582033a6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9722276?from=edn_newest_index",
+      "title": "0830 未來一周大代誌 | 市場焦點 | 證券 | 經濟日報",
+      "description": "經濟日報新聞部每周整理《未來一周大代誌》，包括國內、國際和兩岸焦點，也提供台股行事曆，讓讀者了解未來一周值得關注的重要財經事件。",
+      "publishedAt": "2026-08-29T16:03:42.605Z",
+      "discoveredAt": "2026-08-29T16:03:42.605Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4df29cd23f4adb88446a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9721059?from=edn_hottest_index",
+      "title": "外資錢進來了！台股周漲1,107點 這周最愛的竟不是 AI 股 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股28日收46,331.45點，上漲356.23點，本周大盤指數上漲1,107.16點，外資本周買超1,107.72億元，本周最受外資青睞的買超股首推金融股，在周買超前十名中占4檔，傳產股也吸金，同樣有4檔，電子股僅富喬及聯電2檔。",
+      "publishedAt": "2026-08-29T16:03:42.605Z",
+      "discoveredAt": "2026-08-29T16:03:42.605Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e29609d68f9ebdd18987",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123397/9722025?from=edn_newest_index",
-      "title": "台股擂台／周冠軍「股市獲利王」何文高 本周押大立光、AMAX | 台股擂台 | 證券 | 經濟日報",
+      "title": "台股擂台／周冠軍「股市獲利王」何文高 本周押大立光、AMAX 2026-08-29 23:47",
       "description": "「股市獲利王」何文高上周以5.4%績效，登上周冠軍寶座。其中，大立光（3008）因CPO營運企圖心增強，市場積極買進，單周大漲25.9%，表現亮眼。萬海則因市場追價意願薄弱，導致股價續航力不足，下跌10.4%，表現不如預期。",
       "publishedAt": "2026-08-29T15:52:51.723Z",
       "discoveredAt": "2026-08-29T15:52:51.723Z",
@@ -40,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123397/9722029?from=edn_newest_index",
-      "title": "台股擂台／衛冕者「低調黑馬」陳奇琛 本周青睞聯亞、貿聯 | 台股擂台 | 證券 | 經濟日報",
+      "title": "台股擂台／衛冕者「低調黑馬」陳奇琛 本周青睞聯亞、貿聯 2026-08-29 23:46",
       "description": "「低調黑馬」陳奇琛上周投資報酬率上漲2.2%。其中，他所持有的奇鋐（3017）因散熱需求增溫，單周上漲17.2%，表現亮眼。志信則因航運股休息，下跌13.3%，表現不如預期。",
       "publishedAt": "2026-08-29T15:52:51.723Z",
       "discoveredAt": "2026-08-29T15:52:51.723Z",
@@ -70,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722256?from=edn_newest_index",
-      "title": "俄羅斯空襲烏克蘭首都附近彈藥庫 增至37人喪命 | 國際焦點 | 國際 | 經濟日報",
+      "title": "俄羅斯空襲烏克蘭首都附近彈藥庫 增至37人喪命 2026-08-29 23:45",
       "description": "烏克蘭當局今天指出，俄羅斯昨天晚間出動無人機攻擊烏國首都基輔附近一處彈藥庫，引發火災與爆炸，迄今增至37人死亡，還有數十...",
       "publishedAt": "2026-08-29T15:52:51.723Z",
       "discoveredAt": "2026-08-29T15:52:51.723Z",
@@ -564,7 +654,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1480,7 +1570,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
-      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 7215",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 7326",
       "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
       "publishedAt": "2026-08-29T13:24:57.779Z",
       "discoveredAt": "2026-08-29T13:24:57.779Z",
@@ -1750,7 +1840,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9720932?from=edn_hottest_index",
-      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4462",
+      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4491",
       "description": "台股歷經七個交易日成交值低於兆元後，昨（28）日終於回升至兆元之上，並推升加權指數改寫波段新高。法人指出，台股向上挑戰關鍵「唯量是問」，篩選兼具基本面與人氣支撐的強勢的價漲量增股，包括聯電、南亞、華通、光寶科等15檔法人買盤擁護的交投放大個股，將是領漲先鋒。",
       "publishedAt": "2026-08-29T12:26:44.388Z",
       "discoveredAt": "2026-08-29T12:26:44.388Z",
@@ -2356,7 +2446,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3182,7 +3272,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8201",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8223",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5301,96 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_16d9c65b668137ea3fa7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9721502?from=edn_newest_index",
-      "title": "美股周線收紅 費半卻熄火 下周就業和博通接棒考驗AI行情 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市周五小幅收低，但科技股和晶片股跌勢較重。聯準會（Fed）主席華許重申抗通膨決心，推高9月升息預期，帶動短天期美債殖利率大漲。美股下周將迎接兩大考驗：就業報告將左右利率走向，博通（Broadcom）財報則要證明，輝達（NVIDIA）點燃的AI行情能否延燒其他晶片股。",
-      "publishedAt": "2026-08-29T03:56:48.170Z",
-      "discoveredAt": "2026-08-29T03:56:48.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_03315e903166e0fc9327",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9721496?from=edn_newest_index",
-      "title": "不滿被列黑名單長鑫存儲提告美國防部 稱「軍工企業」認定武斷 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "大陸DRAM大廠長鑫存儲不滿遭美國國防部列為大陸軍工企業黑名單，向美國法院提告，主張相關決定武斷、缺乏證據，並侵犯正當程序權利，要求撤銷認定並移出名單。長鑫正積極拓展海外市場，長期希望進軍美國，但美國出口管制等地緣政治風險，仍為其國際化布局增添變數。",
-      "publishedAt": "2026-08-29T03:56:48.170Z",
-      "discoveredAt": "2026-08-29T03:56:48.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a2c0cfea82e5aee63938",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9721492?from=edn_newest_index",
-      "title": "長鑫存儲起訴美國五角大樓 要求移出涉中軍企名單 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "中國DRAM龍頭大廠長鑫科技起訴美國五角大樓，要求撤銷將其列入美國認定協助中國軍方的企業名單。在美國拜登政府時期，美國國...",
-      "publishedAt": "2026-08-29T03:56:48.170Z",
-      "discoveredAt": "2026-08-29T03:56:48.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T13:14:15.236Z",
+  "updatedAt": "2026-08-29T13:24:57.779Z",
   "candidates": [
+    {
+      "id": "cand_7e0816de7242d2fe364d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722079?from=edn_newest_index",
+      "title": "台裔作家首入圍德國圖書獎 廖樂薇以小說書寫台灣民主 | 國際焦點 | 國際 | 經濟日報",
+      "description": "台裔德國作家廖樂薇以台灣為背景的首部長篇小說Glaszeit（暫譯：玻璃時代），入圍2026年德國圖書獎長名單，成為首位...",
+      "publishedAt": "2026-08-29T13:24:57.779Z",
+      "discoveredAt": "2026-08-29T13:24:57.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_781cd733437e4f0db06e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 | 美股動態 | 國際 | 經濟日報",
+      "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
+      "publishedAt": "2026-08-29T13:24:57.779Z",
+      "discoveredAt": "2026-08-29T13:24:57.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c07150b00597bef19d09",
       "sourceLastModified": null,
@@ -1502,7 +1562,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9720996?from=edn_hottest_index",
-      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5298",
+      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5329",
       "description": "台北市一名年僅10歲女童，其身心障礙的母親在家從事性交易，導致她長期被母親客人多次性猥褻，一度240天未被安置，甚至出現自殘行為。對此，前總統蔡英文28日深夜發聲，表示「心裡很難過」，一個才10歲的孩子甚至學會了「翻供」一詞，盼社會安全網持續檢討，把漏洞補起來。",
       "publishedAt": "2026-08-29T09:04:12.626Z",
       "discoveredAt": "2026-08-29T09:04:12.626Z",
@@ -1682,7 +1742,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 7380",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 7446",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -1742,7 +1802,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720911?from=edn_hottest_index",
-      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 10909",
+      "title": "川普把安大略湖更名為美國湖 克魯曼：何不把太平洋改成這名字？ 10952",
       "description": "美國總統川普簽署行政命令，把橫跨美國與加拿大邊界的「安大略湖」更名為「美國湖」（Lake America），而且可能還會企圖改其他地名。經濟學家克魯曼於是發文調侃川普。",
       "publishedAt": "2026-08-29T08:27:12.913Z",
       "discoveredAt": "2026-08-29T08:27:12.913Z",
@@ -5330,66 +5390,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d7d2ba9f5bdd7fb04c40",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721174?from=edn_newest_index",
-      "title": "加拿大第二季經濟強勁反彈 專家示警美新一輪關稅衝擊變數 2026-08-29 08:30",
-      "description": "加拿大經濟在第二季出現強勁反彈，年增長3.3%，表現為七大工業國集團（G7）中最強勁。有專家表示，加拿大已經逐漸找到因應...",
-      "publishedAt": "2026-08-29T00:36:50.489Z",
-      "discoveredAt": "2026-08-29T00:36:50.489Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90f512072d194689ab79",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9721173?from=edn_newest_index",
-      "title": "南方水氣影響 西南部留意午後強對流豪雨 2026-08-29 08:30",
-      "description": "氣象專家吳德榮表示，今天受南方水氣影響，西南部有局部降雨，午後也有強對流，氣象署也發布屏東縣地區豪雨特報，而東半部於明天...",
-      "publishedAt": "2026-08-29T00:36:50.489Z",
-      "discoveredAt": "2026-08-29T00:36:50.489Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

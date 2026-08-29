@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T07:33:36.622Z",
+  "updatedAt": "2026-08-29T07:44:18.252Z",
   "candidates": [
+    {
+      "id": "cand_55146df30645759312f7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9721782?from=edn_newest_index",
+      "title": "屏東已有豪雨 苗栗及新竹有局部大雨或豪雨 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "中央氣象署更新豪雨特報，今日西南風影響，對流雲系發展旺盛，易有短延時強降雨，屏東縣已有豪雨發生，嘉義以南地區有局部大雨發...",
+      "publishedAt": "2026-08-29T07:44:18.252Z",
+      "discoveredAt": "2026-08-29T07:44:18.252Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3ddc663e283e54f9901e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721781?from=edn_newest_index",
+      "title": "挪威國王哈拉德辭世 川普發文哀悼讚備受愛戴 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普今天對挪威國王哈拉德五世（King Harald V）辭世表達哀痛，形容他是一位「堅強、自豪且備受尊敬的長者...",
+      "publishedAt": "2026-08-29T07:44:18.252Z",
+      "discoveredAt": "2026-08-29T07:44:18.252Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_94b2ca81d19e5ead439a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9721780?from=edn_newest_index",
+      "title": "四川涼山低分教師與「恥辱」合照 當地政府調查 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "中國四川涼山雷波縣近日流出一張老師開會的照片，當中顯示，任教班級平均分過低的教師被請上台，與背後螢幕打出的「恥辱」二字合...",
+      "publishedAt": "2026-08-29T07:44:18.252Z",
+      "discoveredAt": "2026-08-29T07:44:18.252Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3567576d360b24df7c6a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9721778?from=edn_newest_index",
+      "title": "兼顧國防需求調升老農津貼等 政院估9/3提追加預算 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "為提升國防自主防衛戰力、調整軍公教專業加給、調升老農津貼與社福津貼等，估計行政院將在9月3日行政院會，提出今年度中央政府...",
+      "publishedAt": "2026-08-29T07:44:18.252Z",
+      "discoveredAt": "2026-08-29T07:44:18.252Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aac814d71c6fd3689e21",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9721777?from=edn_newest_index",
+      "title": "防恐龍家長擾教師 日本要求各地學校制定對策 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本政府文部科學省28日通知日本各地的教育委員會（相當於教育局），為了保護教職員面臨家長、地區居民等人的謾罵與不當要求，...",
+      "publishedAt": "2026-08-29T07:44:18.252Z",
+      "discoveredAt": "2026-08-29T07:44:18.252Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b9999358ee42155bcac1",
       "sourceLastModified": null,
@@ -220,7 +370,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720307?from=edn_hottest_index",
-      "title": "以牙還牙！加國首都的「川普大道」醞釀改名歐巴馬大道或 TACO 大道 13360",
+      "title": "以牙還牙！加國首都的「川普大道」醞釀改名歐巴馬大道或 TACO 大道 13396",
       "description": "美加關係緊張持續升溫，在川普提出要將五大湖中的安大略湖改名為「美國湖」後，加拿大首都渥太華市議會也趕在他正式簽署行政命令前敲定，要將一條以川普之名命名的道路改名為「歐巴馬大道」或「TACO大道」。",
       "publishedAt": "2026-08-29T07:22:58.003Z",
       "discoveredAt": "2026-08-29T07:22:58.003Z",
@@ -700,7 +850,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9720803?from=edn_hottest_index",
-      "title": "華許傑克森洞演講五要點一次看 15344",
+      "title": "華許傑克森洞演講五要點一次看 15381",
       "description": "美國聯準會（Fed）主席華許28日在傑克森洞央行年會上發表專題演說，以下是內容摘要：",
       "publishedAt": "2026-08-29T06:14:29.277Z",
       "discoveredAt": "2026-08-29T06:14:29.277Z",
@@ -3040,7 +3190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720235?from=edn_hottest_index",
-      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18830",
+      "title": "網路傳聞多 欣興完整重大訊息說明配合檢調調查 18862",
       "description": "今日市場網路傳聞滿天飛，欣興（3037）今日下午完整重大訊息說明配合檢調調查，並非外傳內線交易等各種謠言。",
       "publishedAt": "2026-08-29T01:13:22.105Z",
       "discoveredAt": "2026-08-29T01:13:22.105Z",
@@ -4288,7 +4438,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9720489?from=edn_hottest_index",
-      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 19208",
+      "title": "欣興遭搜索晚間再澄清：涉及產地標示爭議 1總經理、1副總配合調查 19229",
       "description": "",
       "publishedAt": "2026-08-28T21:53:20.530Z",
       "discoveredAt": "2026-08-28T21:53:20.530Z",
@@ -5226,154 +5376,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8cddfd74a954d461e0f5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9716926?from=edn_hottest_index",
-      "title": "高雄男2年內先賣後買「百萬退稅」仍落空 關鍵竟跟前屋主有關 10358",
-      "description": "",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_19c6b24baad336e472db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9718750?from=edn_course_index",
-      "title": "王鳳奎 / 東海大學EMBA專任教授、 亞太產業分析專業協進會院士 代理型 AI 時代，你會失業嗎?",
-      "description": "",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_75d3b958418c2311304e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9716378?from=edn_course_index",
-      "title": "羅俊瑋 / 中正大學法律系教授 企業應將AI治理視為核心要務",
-      "description": "",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_556aa6c0b1100926965b",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/business/indep/1006994",
-      "title": "淨零決勝時刻！台新新光金控串聯政策、金融與產業，共創企業永續成長新解方",
-      "description": "",
-      "publishedAt": "2026-08-28T00:57:10.239Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_95c29e503de5fb7a891a",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/management/blog/3022329",
-      "title": "員工平均不到33歲的緯穎，如何股價破6千、市值破兆？緯穎怎麼培養員工解題的狠勁？",
-      "description": "多年採訪經驗，讓我深信一件事：「看一家公司，不要看領導人說了什麼，要看裡頭的成員怎麼說、怎麼做。」這一天，我親自驗證了這句話。緯穎董事長洪麗甯（Emily）打電話邀我，擔任年度「WWIT領袖講堂」的講",
-      "publishedAt": "2026-08-28T08:00:55+08:00",
-      "discoveredAt": "2026-08-29T04:22:46.827Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

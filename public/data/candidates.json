@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-29T15:37:17.183Z",
+  "updatedAt": "2026-08-29T15:52:51.723Z",
   "candidates": [
+    {
+      "id": "cand_e29609d68f9ebdd18987",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123397/9722025?from=edn_newest_index",
+      "title": "台股擂台／周冠軍「股市獲利王」何文高 本周押大立光、AMAX | 台股擂台 | 證券 | 經濟日報",
+      "description": "「股市獲利王」何文高上周以5.4%績效，登上周冠軍寶座。其中，大立光（3008）因CPO營運企圖心增強，市場積極買進，單周大漲25.9%，表現亮眼。萬海則因市場追價意願薄弱，導致股價續航力不足，下跌10.4%，表現不如預期。",
+      "publishedAt": "2026-08-29T15:52:51.723Z",
+      "discoveredAt": "2026-08-29T15:52:51.723Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e56769e43e5eea8d9a1e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123397/9722029?from=edn_newest_index",
+      "title": "台股擂台／衛冕者「低調黑馬」陳奇琛 本周青睞聯亞、貿聯 | 台股擂台 | 證券 | 經濟日報",
+      "description": "「低調黑馬」陳奇琛上周投資報酬率上漲2.2%。其中，他所持有的奇鋐（3017）因散熱需求增溫，單周上漲17.2%，表現亮眼。志信則因航運股休息，下跌13.3%，表現不如預期。",
+      "publishedAt": "2026-08-29T15:52:51.723Z",
+      "discoveredAt": "2026-08-29T15:52:51.723Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_019c0926d08f8eca40de",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722256?from=edn_newest_index",
+      "title": "俄羅斯空襲烏克蘭首都附近彈藥庫 增至37人喪命 | 國際焦點 | 國際 | 經濟日報",
+      "description": "烏克蘭當局今天指出，俄羅斯昨天晚間出動無人機攻擊烏國首都基輔附近一處彈藥庫，引發火災與爆炸，迄今增至37人死亡，還有數十...",
+      "publishedAt": "2026-08-29T15:52:51.723Z",
+      "discoveredAt": "2026-08-29T15:52:51.723Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dff24647e76d61d12d16",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123397/9722033?from=edn_newest_index",
+      "title": "台股擂台／挑戰者「Q女王」劉良梅 本周挑環球晶、鉅陞 | 台股擂台 | 證券 | 經濟日報",
+      "description": "「Q女王」劉良梅上周投資組合報酬率跌0.9%。投資標的中，環球晶（6488）漲3.2%，表現最佳；波若威跌3.7%，表現不如預期。",
+      "publishedAt": "2026-08-29T15:52:51.723Z",
+      "discoveredAt": "2026-08-29T15:52:51.723Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6bc22f2b6a294cfe0e0b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123397/9722036?from=edn_newest_index",
+      "title": "台股擂台／挑戰者「華冠北極星」劉彥良 本周選禾伸堂、國巨 | 台股擂台 | 證券 | 經濟日報",
+      "description": "「華冠北極星」劉彥良上周投資組合報酬率跌10.2%，投資標的中，長榮（2603）跌7.9%，表現相對最佳；陽明跌12.1%，表現不如預期。",
+      "publishedAt": "2026-08-29T15:52:51.723Z",
+      "discoveredAt": "2026-08-29T15:52:51.723Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_36b1e6df48329b62097d",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722232?from=edn_maintab_index",
-      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 | 國際焦點 | 國際 | 經濟日報",
+      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「18...",
       "description": "美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「180度大轉彎」。",
       "publishedAt": "2026-08-29T15:37:17.183Z",
       "discoveredAt": "2026-08-29T15:37:17.183Z",
@@ -1284,7 +1434,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1330,7 +1480,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9721910?from=edn_hottest_index",
-      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 6957",
+      "title": "AI 襲來！巴菲特的價值投資還管用嗎？專家警告這類股票恐重傷 7215",
       "description": "「股神」巴菲特的「價值投資」，在人工智慧（AI）所驅動的大籌資時代，還管用嗎？知名科技播客帕特爾（Dwarkesh Patel）警告，投資激增，加上利率可能走高，恐將嚴重打擊傳統的、巴菲特式的價值型股票。",
       "publishedAt": "2026-08-29T13:24:57.779Z",
       "discoveredAt": "2026-08-29T13:24:57.779Z",
@@ -1600,7 +1750,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9720932?from=edn_hottest_index",
-      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4375",
+      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶 4462",
       "description": "台股歷經七個交易日成交值低於兆元後，昨（28）日終於回升至兆元之上，並推升加權指數改寫波段新高。法人指出，台股向上挑戰關鍵「唯量是問」，篩選兼具基本面與人氣支撐的強勢的價漲量增股，包括聯電、南亞、華通、光寶科等15檔法人買盤擁護的交投放大個股，將是領漲先鋒。",
       "publishedAt": "2026-08-29T12:26:44.388Z",
       "discoveredAt": "2026-08-29T12:26:44.388Z",
@@ -2852,7 +3002,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9720996?from=edn_hottest_index",
-      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5696",
+      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5730",
       "description": "台北市一名年僅10歲女童，其身心障礙的母親在家從事性交易，導致她長期被母親客人多次性猥褻，一度240天未被安置，甚至出現自殘行為。對此，前總統蔡英文28日深夜發聲，表示「心裡很難過」，一個才10歲的孩子甚至學會了「翻供」一詞，盼社會安全網持續檢討，把漏洞補起來。",
       "publishedAt": "2026-08-29T09:04:12.626Z",
       "discoveredAt": "2026-08-29T09:04:12.626Z",
@@ -3032,7 +3182,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8134",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 8201",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5241,156 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4fa073781962f13a93c9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721487?from=edn_newest_index",
-      "title": "日本評估：近畿發生規模6.8以上地震機率過半 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本政府昨天公布近畿地區活斷層的長期評估，指出該地區未來30年內發生規模6.8以上地震的機率為50%至60%。穿過敦賀核...",
-      "publishedAt": "2026-08-29T03:56:48.170Z",
-      "discoveredAt": "2026-08-29T03:56:48.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4446e39440c420bcb173",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721484?from=edn_newest_index",
-      "title": "尼泊爾洪災8歲童爬樹保命 母子歷劫奇蹟重逢 | 國際焦點 | 國際 | 經濟日報",
-      "description": "尼泊爾男童佐亞爾．蓋勒（Zoyal Ghale）為躲避奪命洪災逃入森林，並爬到樹上成功保住小命，今天與母親奇蹟重逢。他的...",
-      "publishedAt": "2026-08-29T03:56:48.170Z",
-      "discoveredAt": "2026-08-29T03:56:48.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_635b8240603d27bab552",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9721292?from=edn_maintab_index",
-      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。 日圓周五一度貶值0.5%至160.2...",
-      "description": "美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。",
-      "publishedAt": "2026-08-29T03:35:58.652Z",
-      "discoveredAt": "2026-08-29T03:35:58.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d1787426e0596fceadd5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9721475?from=edn_newest_index",
-      "title": "西藏土石流災情 中國啟動精細輿論審查 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "尼泊爾與中國西藏邊境地區近日發生大規模洪災及土石流後，「中國數字時代」（CDT）敏感詞檢測編輯對「德國之聲」（DW）表示...",
-      "publishedAt": "2026-08-29T03:35:58.652Z",
-      "discoveredAt": "2026-08-29T03:35:58.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b03077cfbc08fcb453a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9721463?from=edn_newest_index",
-      "title": "陸海警局：福建海警位金門附近海域依法進行常態執法巡查 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "中國大陸海警局東海分局新聞發言人朱安慶今表示，8月29日，福建海警位金門附近海域依法開展常態執法巡查。此前，海巡署金馬澎分署指出，中國伏季休漁期於8月16日12時結束後，中國漁船大舉出港作業，對周邊國家海域秩序造成極大壓力。",
-      "publishedAt": "2026-08-29T03:35:58.652Z",
-      "discoveredAt": "2026-08-29T03:35:58.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

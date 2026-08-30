@@ -1,7 +1,212 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T17:04:22.723Z",
+  "updatedAt": "2026-08-30T17:15:18.916Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-08-30T17:15:18.916Z",
+      "discoveredAt": "2026-08-30T17:15:18.916Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_ec4f88f560902c501491",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9723517?from=edn_newest_index",
+      "title": "13家金控前七月獲利4,927億元寫新高 現金股利看增26% | 金融脈動 | 金融 | 經濟日報",
+      "description": "13家金控前七月獲利4,927億元，較去年同期成長約78%，更改寫史上同期新高。法人指出，由於第2季壽險金控其他權益均大幅回升，除強化壽險資本適足率外，將提升現金股利配發能力，目前預估13家金控2026年度整體現金股利成長約26%。至6月底整體可分配盈餘為1.39兆元。",
+      "publishedAt": "2026-08-30T17:14:59.765Z",
+      "discoveredAt": "2026-08-30T17:14:59.765Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_727fe29bbe3adeb70ae6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9723524?from=edn_newest_index",
+      "title": "土銀購地放貸未動工比率升 建商逾18個月未興建率上揚至26％ | 金融脈動 | 金融 | 經濟日報",
+      "description": "不動產市場低迷，建商不僅推案趨緩，動工進度更遭遇多方衝擊。以土建融指標行庫土銀而言，近期購地貸款逾18個月未動工占全體購地貸款比率，由25％微幅上升至26％，主因是建商受今年土方清運新制及通膨等大環境因素影響。",
+      "publishedAt": "2026-08-30T17:14:59.765Z",
+      "discoveredAt": "2026-08-30T17:14:59.765Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_801117cbdab41ba8cc10",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9723666?from=edn_newest_index",
+      "title": "業界籲降危老都更備呆提列 | 金融脈動 | 金融 | 經濟日報",
+      "description": "銀行不動產授信備抵呆帳提列比率為1.5%，較一般放款高，金總建議符合危老或都更案件備呆提存比照正常授信資產提列1%。對此，金管會回應，配合「健全房地產市場方案」重要政策，目前仍以防止房市炒作及資金過度流入不動產市場為主，如未來整體房市政策調整，會適時檢視相關規範。",
+      "publishedAt": "2026-08-30T17:14:59.765Z",
+      "discoveredAt": "2026-08-30T17:14:59.765Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fbe9f8b363698adea039",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9723534?from=edn_newest_index",
+      "title": "升息燈號全亮 央行陷兩難 是否跟進日、韓提高利率腳步 下月理監事會受矚目 | 金融脈動 | 金融 | 經濟日報",
+      "description": "美國聯準會主席華許近日出席傑克森洞全球央行年會喊打通膨，被稱為歷任聯準會主席「最鷹派演講」，外界據此預期9月升息機率高。值得注意的是，日本央行在6月升息，韓國7、8月連續升息，市場關注台灣央行是否跟進。目前央行已排定9月17日召開第3季理監事會議。",
+      "publishedAt": "2026-08-30T17:14:59.765Z",
+      "discoveredAt": "2026-08-30T17:14:59.765Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1076ce873904fbbf9edd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9723537?from=edn_newest_index",
+      "title": "市場搶錢 資金成本節節高 | 金融脈動 | 金融 | 經濟日報",
+      "description": "經濟成長率步步攀升，通膨連月痛踩央行警戒線，在專家眼中，台灣的升息條件漸漸具足。實際上，若從另一個角度看，台灣的資金市場其實「已經升息了」。",
+      "publishedAt": "2026-08-30T17:14:59.765Z",
+      "discoveredAt": "2026-08-30T17:14:59.765Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c4e770e959db904ac8a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9722178?from=edn_hottest_index",
+      "title": "美股收低 科技股和晶片股跌勢較重 本周有兩大考驗 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市28日收低，科技股和晶片股跌勢較重。聯準會（Fed）主席華許重申抗通膨決心，推高9月升息預期，帶動短天期美債殖利率大漲。美股本周將迎接兩大考驗：美國就業報告將左右利率走向，博通財報則要證明，輝達（NVIDIA）點燃的AI行情能否延續並擴大至其他晶片股。",
+      "publishedAt": "2026-08-30T17:14:59.765Z",
+      "discoveredAt": "2026-08-30T17:14:59.765Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ab079f4a4d1421e30854",
       "sourceLastModified": null,
@@ -160,7 +365,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9722945?from=edn_hottest_index",
-      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 | 基金天地 | 理財 | 經濟日報",
+      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 2119",
       "description": "主動式ETF規模今年來大幅成長，其中光是台股主動式ETF規模已經逾8,200億元，主動式ETF加碼標的也成為市場焦點。統計上周主動式ETF加碼前十名台股，台半（5425）獲得4,940張加碼榮登第一，其次是大聯大（3702）3,799張，第三名的南亞（1303）以3,677張緊追在後。",
       "publishedAt": "2026-08-30T17:04:22.723Z",
       "discoveredAt": "2026-08-30T17:04:22.723Z",
@@ -1690,7 +1895,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9722172?from=edn_hottest_index",
-      "title": "外資升價股有戲 金像電、萬潤等可望引領指數上攻 3720",
+      "title": "外資升價股有戲 金像電、萬潤等可望引領指數上攻 3732",
       "description": "台股近來走勢轉強，不少個股後市基本面也亮麗搶眼，引動外資圈一波目標價上修潮，包括奇鋐、金像電等，在法人買盤或市場大戶的搶進推升下，股價領漲抗跌，成為引領行情走多的市場焦點。",
       "publishedAt": "2026-08-30T14:25:20.531Z",
       "discoveredAt": "2026-08-30T14:25:20.531Z",
@@ -4060,7 +4265,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5628/9722145?from=edn_hottest_index",
-      "title": "服務業失速 台灣經濟大警訊 3994",
+      "title": "服務業失速 台灣經濟大警訊 4004",
       "description": "台灣製造業與服務業的薪資結構，過去20年已出現明顯逆轉。20年前，服務業平均薪資仍高於製造業；到了2015年前後，兩者差距已大幅縮小，服務業原有的薪資優勢幾乎消失。此後製造業快速追趕並反超，尤其近十年在半導體、電子零組件及AI相關產業帶動下，差距進一步擴大。2025年製造業薪資已明顯高於服務業。",
       "publishedAt": "2026-08-30T08:14:11.041Z",
       "discoveredAt": "2026-08-30T08:14:11.041Z",
@@ -5189,211 +5394,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5839ae479dfecc6c2279",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9722898?from=edn_newest_index",
-      "title": "幣託BitoPro台灣使用度與信任度居冠 布局企業級服務 2026-08-30 13:55",
-      "description": "台灣虛擬資產業者幣託集團BitoGroup獲市場與國際肯定。根據CRIF最新發布的「台灣民眾虛擬資產產業未來發展及監管機制調查」，集團旗下幣託交易所 BitoPro 躍居本土最常使用、最受信任平台；此外，「點數換幣」更入選全球區塊鏈商業理事會（GBBC）「2026年全球101個真實世界區塊鏈應用案例手冊」，列為全球第50號案例。",
-      "publishedAt": "2026-08-30T05:56:22.076Z",
-      "discoveredAt": "2026-08-30T05:56:22.076Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bc4751b81c1f708827df",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9722897?from=edn_newest_index",
-      "title": "台塑石化：汽柴油31日起價格不調整 2026-08-30 13:55",
-      "description": "台塑石化今天公布加盟加油站參考零售價，汽油和柴油價格維持與上週相同不變。台塑石化31日凌晨1時起汽油和柴油批售價格不調整...",
-      "publishedAt": "2026-08-30T05:56:22.076Z",
-      "discoveredAt": "2026-08-30T05:56:22.076Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b1d9eaa54f9a516ec2fc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722895?from=edn_newest_index",
-      "title": "中國海警登船檢查日本漁船 日方：成員國例行作業 2026-08-30 13:54",
-      "description": "日媒今天披露，一艘隸屬於北海道厚岸漁協的秋刀魚漁船，8月24日時曾在在北太平洋公海接受中國海警局登船檢查",
-      "publishedAt": "2026-08-30T05:56:22.076Z",
-      "discoveredAt": "2026-08-30T05:56:22.076Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_08c18bb8c45a778c390a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722894?from=edn_newest_index",
-      "title": "烏克蘭襲俄能源設施 列寧格勒州煉油廠附近起火 | 國際焦點 | 國際 | 經濟日報",
-      "description": "在烏克蘭持續針對俄羅斯能源設施發動攻擊之際，俄羅斯地方當局今天表示，有無人機在列寧格勒州（Leningrad）一座煉油廠...",
-      "publishedAt": "2026-08-30T05:56:22.076Z",
-      "discoveredAt": "2026-08-30T05:56:22.076Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-08-30T05:45:48.190Z",
-      "discoveredAt": "2026-08-30T05:45:48.190Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_e74b63d29136f42ff4f3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722883?from=edn_newest_index",
-      "title": "亞洲近10萬冰川急速融化中！全球5.6萬處恐成水炸彈 1高山區被點名 2026-08-30 13:37",
-      "description": "尼泊爾與中國西藏交界地區爆發致命山洪後，喜馬拉雅冰川快速融化衍生的災害風險再度受到關注。專家指出，亞洲高山地區目前約有9萬5000座冰川，正急速流失冰量。另有一項研究發現，隨著冰川持續退縮，全球有5萬6659處冰川底下的低窪地形，未來可能積水形成新的湖泊，恐如潛藏高山的「水炸彈」；研究點名「世界屋脊」喜馬拉雅所在的亞洲高山地區，也存在許多這類潛在成湖地形。",
-      "publishedAt": "2026-08-30T05:45:33.889Z",
-      "discoveredAt": "2026-08-30T05:45:33.889Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ccebe16085e93dd5c0b3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722882?from=edn_newest_index",
-      "title": "彭博報導被判誹謗未上訴 新加坡部長指不容媒體抹黑 | 國際焦點 | 國際 | 經濟日報",
-      "description": "彭博新聞及旗下記者發表的報導，被新加坡法院裁定誹謗2名政府部長後，並未在期限內提出上訴。當事部長再對此案發文，指稱有些媒...",
-      "publishedAt": "2026-08-30T05:45:33.889Z",
-      "discoveredAt": "2026-08-30T05:45:33.889Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

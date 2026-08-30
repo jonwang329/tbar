@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T18:55:10.120Z",
+  "updatedAt": "2026-08-30T19:05:52.154Z",
   "candidates": [
+    {
+      "id": "cand_2b807f6632e3c5cf2e51",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723681?from=edn_newest_index",
+      "title": "利比亞敵對當局達成協議 24個月內舉行全國大選 | 國際焦點 | 國際 | 經濟日報",
+      "description": "利比亞敵對政治陣營的代表今天簽署一項獲聯合國支持的協議，同意於24個月內舉行總統和議會選舉，被視為在這個深陷分裂國家推動...",
+      "publishedAt": "2026-08-30T19:05:52.154Z",
+      "discoveredAt": "2026-08-30T19:05:52.154Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_875239fedf5f370b080e",
       "sourceLastModified": null,
@@ -910,7 +940,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9723544?from=edn_hottest_index",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 1716",
+      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 1726",
       "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
       "publishedAt": "2026-08-30T17:36:14.927Z",
       "discoveredAt": "2026-08-30T17:36:14.927Z",
@@ -940,7 +970,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9722949?from=edn_hottest_index",
-      "title": "輝達投資機器人將上市！能率亞洲押中 Agility 還要再買2家 AI 新創 1397",
+      "title": "輝達投資機器人將上市！能率亞洲押中 Agility 還要再買2家 AI 新創 1401",
       "description": "能率亞洲（7777）2025年投資美國機器人新創Agility，今年第4季將在美國以SPAC模式掛牌上市，成第一家美國人型機器人概念股；由於對AI及機器人投資見解相似，能率亞洲與輝達已建立戰略投資夥伴關係，互相介紹案源，能率今年底也將評估NVIDIA引薦的北美機器人手臂及北美AI大腦新創投資案。",
       "publishedAt": "2026-08-30T17:36:14.927Z",
       "discoveredAt": "2026-08-30T17:36:14.927Z",
@@ -1120,7 +1150,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9722572?from=edn_hottest_index",
-      "title": "AI「燒錢潮」轉向資本紀律！ASIC 成降本利器 這些台廠將受惠 1726",
+      "title": "AI「燒錢潮」轉向資本紀律！ASIC 成降本利器 這些台廠將受惠 1731",
       "description": "AI產業正進入結構性轉變階段，逐步邁向「槓桿式基礎設施周期」（Leveraged Infrastructure Cycle），融資方式也更加多元，開始大量導入公司債、長期資料中心租約、特殊目的公司（SPV）、專案融資（Project Finance）及私人信貸（Private Credit）等工具。隨AI產業進入資本紀律時代，業者對成本效益與投資報酬率的要求提高，反而有望加速ASIC滲透率提升。",
       "publishedAt": "2026-08-30T17:25:34.656Z",
       "discoveredAt": "2026-08-30T17:25:34.656Z",
@@ -1505,7 +1535,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9722945?from=edn_hottest_index",
-      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 2168",
+      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 2170",
       "description": "主動式ETF規模今年來大幅成長，其中光是台股主動式ETF規模已經逾8,200億元，主動式ETF加碼標的也成為市場焦點。統計上周主動式ETF加碼前十名台股，台半（5425）獲得4,940張加碼榮登第一，其次是大聯大（3702）3,799張，第三名的南亞（1303）以3,677張緊追在後。",
       "publishedAt": "2026-08-30T17:04:22.723Z",
       "discoveredAt": "2026-08-30T17:04:22.723Z",
@@ -5347,36 +5377,6 @@
       "url": "https://money.udn.com/money/story/7307/9723029?from=edn_newest_index",
       "title": "副署無人機條例？政院：待收到三讀法案審慎考量 2026-08-30 16:13",
       "description": "立法院會三讀通過無人機條例，媒體報導，行政院將副署，且編入今年度追加預算，明年度總預算案將提出修正草案。行政院發言人李慧...",
-      "publishedAt": "2026-08-30T08:14:11.041Z",
-      "discoveredAt": "2026-08-30T08:14:11.041Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dbe3771d2a9163a3928e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9723026?from=edn_newest_index",
-      "title": "鞭刑公投未成案 藍批犯罪者優先、綠指國民黨可修法 2026-08-30 16:12",
-      "description": "鞭刑入法公投28日遭中選會不通過，國民黨立委洪孟楷今天質疑，難道被害者人權就該被侵犯嗎，民進黨優先考量的卻是那0.1%惡...",
       "publishedAt": "2026-08-30T08:14:11.041Z",
       "discoveredAt": "2026-08-30T08:14:11.041Z",
       "topics": [

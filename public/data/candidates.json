@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T01:15:31.711Z",
+  "updatedAt": "2026-08-30T01:26:27.853Z",
   "candidates": [
+    {
+      "id": "cand_b82b8778ab244e8ac3ae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722455?from=edn_newest_index",
+      "title": "影/尼泊爾暴洪前警報狂響！工人急逃命影片曝 工程師錄下最後畫面失聯 | 國際焦點 | 國際 | 經濟日報",
+      "description": "尼泊爾與中國西藏交界地區26日爆發嚴重山洪，兩地累計已682人罹難、約3000人失蹤。一名在拉蘇瓦（Rasuwa）水力發電工程工作的26歲機械工程師，在洪水來襲前幾分鐘拍下廠區緊急警報狂響、現場人員奔跑的畫面，並上傳至社群平台，隨後便與家人失去聯絡。災後超過72小時，他與室友、同事仍下落不明，家屬坦言希望正逐漸消失。",
+      "publishedAt": "2026-08-30T01:26:27.853Z",
+      "discoveredAt": "2026-08-30T01:26:27.853Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_bb24861517969445ddfb",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9722449?from=edn_newest_index",
-      "title": "冰岩崩發生到衝擊西藏吉隆口岸僅6至7分鐘 已致16死、546人失聯 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "冰岩崩發生到衝擊西藏吉隆口岸僅6至7分鐘 已致16死、546人失聯 2026-08-30 09:14",
       "description": "尼泊爾和中國大陸西藏交界的喜馬拉雅山區26日上午發生暴洪與土石流，導致重大傷亡。央視新聞報導，西藏吉隆縣「8·26」土石流災害記者會30日在吉隆鎮舉行，官方表示截至29日18時，災害已造成當地16人遇難、546人失聯，並指引發災害的冰岩崩從發生到衝擊吉隆口岸僅約6至7分鐘，造成當地約0.7平方公里、27處建築及相關附屬設施被夷為平地。",
       "publishedAt": "2026-08-30T01:15:31.711Z",
       "discoveredAt": "2026-08-30T01:15:31.711Z",
@@ -144,7 +174,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -304,7 +334,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722125?from=edn_hottest_index",
-      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 3239",
+      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 3333",
       "description": "美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。",
       "publishedAt": "2026-08-29T23:32:53.414Z",
       "discoveredAt": "2026-08-29T23:32:53.414Z",
@@ -364,7 +394,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9721810?from=edn_hottest_index",
-      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 3396",
+      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 3436",
       "description": "美國聯準會主席華許28日晚間於傑克森洞全球央行年會強硬表態對抗通膨，市場強烈感受鷹派訊號與升息預期，金價立即跳水，28日暴跌135美元至4,453美元。一連貫破4,580及4,500美元支撐區。整周下跌149美元約3.2%。",
       "publishedAt": "2026-08-29T22:45:02.898Z",
       "discoveredAt": "2026-08-29T22:45:02.898Z",
@@ -1174,7 +1204,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721292?from=edn_hottest_index",
-      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 3020",
+      "title": "日圓再破160 美日聯手護盤不到一月失靈 貝森特坦言干預是怕美債遭殃 3028",
       "description": "美日聯手買進日圓不到一個月，日圓升幅已回吐過半，周五再度跌破160日圓兌1美元。這次干預效果短暫，但華府出手不只為了支撐日圓，更是擔心匯市失序推高美國利率。",
       "publishedAt": "2026-08-29T17:07:33.221Z",
       "discoveredAt": "2026-08-29T17:07:33.221Z",
@@ -3528,7 +3558,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5216,7 +5246,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9721368?from=edn_hottest_index",
-      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 9154",
+      "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場 9184",
       "description": "藥華藥（6446）29日宣布，旗下新藥Ropeg（P1101）正式獲得美國FDA核准使用於原發性血小板過多症（ET）的藥證，這是繼台灣及日本之後，進一步獲得全球最大罕見血癌治療市場入場券，將讓全美約17萬名ET患者受惠，有望讓藥華藥未來搶攻逾400億美元市場商機。",
       "publishedAt": "2026-08-29T08:42:45.021Z",
       "discoveredAt": "2026-08-29T08:42:45.021Z",
@@ -5338,36 +5368,6 @@
       "url": "https://money.udn.com/money/story/5599/9721821?from=edn_newest_index",
       "title": "房屋在洪災中屹立不搖 尼泊爾一家奇蹟生還引發關注 2026-08-29 16:12",
       "description": "在尼泊爾洪災中，當地一棟房屋在奔騰的土石流猛烈衝擊下仍屹立不搖，該戶人家在陽台眼睜睜看著周遭房屋一棟棟被沖走，他們卻毫髮...",
-      "publishedAt": "2026-08-29T08:16:32.218Z",
-      "discoveredAt": "2026-08-29T08:16:32.218Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1f9f2e85bddc1aac308c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9721812?from=edn_newest_index",
-      "title": "中國連續21個月增持黃金 2026-08-29 16:07",
-      "description": "港媒報導，自2024年11月重啟購金以來，中國人民銀行（央行）已連續21個月增持黃金。截至今年7月底，中國黃金儲備已達7...",
       "publishedAt": "2026-08-29T08:16:32.218Z",
       "discoveredAt": "2026-08-29T08:16:32.218Z",
       "topics": [

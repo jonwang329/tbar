@@ -6,12 +6,12 @@
 - Project: TBAR — Taiwan Business & AI Radar
 - Repository: jonwang329/tbar
 - Canonical branch: main
-- State status: 🟡 YELLOW — Project OS integration in progress
+- State status: 🟢 GREEN — Project OS documentation integration complete
 
 ## Version Truth
 - CURRENT_APPROVED_VERSION: TBAR Frozen V1 output structure
 - GOLDEN_BASELINE: Existing production/working baseline prior to Project OS integration
-- LATEST_COMMIT: 8278830a6006925a3ee7cdb9a4c271ff90b3f7c8
+- LATEST_COMMIT: cf6bf003b8b4ad495eca976768d9e5534b8074cf
 - PRODUCTION_VERSION: verify before claiming
 - EXPERIMENTAL_VERSION: none recorded
 - Last state update: 2026-08-30 Asia/Taipei
@@ -42,11 +42,11 @@ SOURCE → COLLECT → TIMESTAMP → NORMALIZE → STORY CLUSTER → SCORE → A
 - Change request: Add Project OS management structure and reusable skill.
 - Why: improve PM, SA, session recovery, version control, regression protection, execution discipline, and cross-project continuity.
 - Acceptance criteria:
-  - reusable Project OS skill exists
-  - project state contract exists
-  - portfolio dashboard contract exists
-  - AGENTS references the system
-  - no TBAR application/product behavior changes
+  - reusable Project OS skill exists — PASS
+  - project state contract exists — PASS
+  - portfolio dashboard contract exists — PASS
+  - AGENTS references the system — PASS
+  - no TBAR application/product behavior changes — PASS by documentation-only change scope
 - Protected behavior: all existing TBAR product behavior.
 - Deployment required: no product deployment required for documentation-only integration.
 
@@ -63,15 +63,16 @@ SOURCE → COLLECT → TIMESTAMP → NORMALIZE → STORY CLUSTER → SCORE → A
 - Existing execution standard in AGENTS.md
 - Project OS architecture defined
 - Reusable `skills/project-os/SKILL.md` added
+- `PORTFOLIO_DASHBOARD.md` added
+- AGENTS.md linked to Project OS
+- Documentation integration verified
 
 ### In Progress
-- Add portfolio dashboard template
-- Link AGENTS.md to Project OS
-- Verify documentation consistency
+- None for TBAR pilot documentation integration
 
 ### Next
-- Complete TBAR pilot documentation integration
-- Use this model to register other active projects
+- Register other active projects under the same Project OS contract
+- Map production version explicitly for TBAR during the next product/deployment cycle
 - Package Project OS as an installable ChatGPT Plugin if desired
 
 ## Risks / Blockers
@@ -88,7 +89,7 @@ When resuming TBAR:
 6. Continue from Next, not from conversation memory alone.
 
 ## Handoff
-- What changed: Project OS reusable skill introduced.
+- What changed: reusable Project OS skill, project state contract, portfolio dashboard, and AGENTS linkage were added.
 - What did not change: TBAR product/runtime behavior.
 - Known issues: production version mapping still needs explicit verification.
-- Next safe action: finish documentation linkage and portfolio dashboard.
+- Next safe action: onboard the next project or package Project OS as a true ChatGPT Plugin.

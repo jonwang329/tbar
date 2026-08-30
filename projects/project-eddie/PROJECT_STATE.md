@@ -4,17 +4,21 @@
 
 ## Status
 - Project: Project Eddie / coach scheduling
-- Project OS status: 🔎 VERIFY
-- Canonical baseline type: **COACH-TESTED BASELINE**
-- Exact coach-tested file/deployment mapping: **TO RECONCILE — do not guess or replace**
-- Known version lineage evidence: V16 scheduling-rule baseline; V17 adds isolated Test Mode on top of that lineage
+- Project OS status: 🔎 VERIFY SOURCE SNAPSHOT, but **Golden Baseline identity is now known**
+- Canonical baseline type: **COACH-TESTED GOLDEN BASELINE**
+- Coach-tested production URL: `https://project-eddie.jonwang329.chatgpt.site`
+- User confirmation: this is the version previously shown to the coach and considered good enough for coach feedback
+- Exact source-file / commit mapping behind that URL: **TO RECONCILE — do not guess or replace**
+- Known version lineage evidence: V16 scheduling-rule baseline; V17 adds isolated Test Mode, but neither may replace the coach-tested URL baseline merely because of filename/version number
 
 ## Golden Baseline Rule
-The Golden Baseline is the version actually shown to the coach and used for real coach feedback.
+The Golden Baseline is the production/site version actually shown to the coach:
+
+`https://project-eddie.jonwang329.chatgpt.site`
 
 Do NOT choose a baseline simply because a filename/version number is newer.
-Do NOT replace the coach-tested UI/flow with an earlier rough prototype or a later simplified rewrite.
-Until exact file/deployment mapping is reconciled, preserve the known coach-tested product behavior below as the Stable Core.
+Do NOT replace this coach-tested UI/flow with an earlier rough prototype or a later simplified rewrite.
+Until exact source-file/commit mapping is reconciled, the public coach-tested site is the authoritative product baseline and the known behavior below is the Stable Core.
 
 ## Stable Core — must not regress
 - Weekly coach scheduling workflow
@@ -50,7 +54,7 @@ Minimum useful views:
 - Which students have booked / confirmed
 - Which students have not booked / still pending
 - Lessons per student this month
-- Lessons per student year-to-date / cumulative to date
+- Lessons per student cumulative to date
 - Coach total lessons this month
 - Coach total lessons cumulative to date
 - Session history / what lessons occurred, retained for at least six months
@@ -77,7 +81,7 @@ Mandatory Project OS global rule:
 - A UI change is not complete until all supported device classes pass regression
 
 ## Current Delta Contract
-- Preserve coach-tested baseline
+- Preserve coach-tested Golden Baseline at `https://project-eddie.jonwang329.chatgpt.site`
 - Add drag/touch rescheduling
 - Add simple coach statistics and dated history
 - Do not simplify/rebuild existing scheduling workflow
@@ -85,16 +89,18 @@ Mandatory Project OS global rule:
 
 ## Recovery / Mapping Task
 Before any new Eddie implementation:
-1. Identify the exact file/version/deployment that was shown to the coach.
-2. Compare it with V16 and V17 lineage evidence.
-3. Record exact filename/version/timestamp/deployment when available.
-4. Set CURRENT_LOCKED_VERSION and GOLDEN_BASELINE to that coach-tested build.
-5. Only then implement the two approved deltas.
+1. Treat the coach-tested URL above as the Golden Baseline.
+2. Identify the exact source file/version/commit/deployment that produced that site.
+3. Compare it with V16 and V17 lineage evidence.
+4. Record exact filename/version/timestamp/commit/deployment when available.
+5. Do not block product understanding on source mapping, but do not modify production until the source baseline is reconciled.
+6. Implement only the two approved deltas on top of the reconciled coach-tested baseline.
 
 ## Known Evidence
+- User explicitly identified the public Eddie site above as the version shown to the coach.
 - Canonical context records the V16 scheduling rule: required sessions separate from candidate slots.
 - Canonical context records drag-and-drop rescheduling, six-month history and monthly statistics as future roadmap.
 - Canonical context records Test Mode isolation from production state/history.
 
 ## Next Safe Action
-Resolve the exact coach-tested build, then continue from that baseline with the two coach-requested deltas only.
+Reconcile the source/commit behind the coach-tested URL, freeze that exact source snapshot, and continue only with the two coach-requested deltas.

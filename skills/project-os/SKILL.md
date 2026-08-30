@@ -1,9 +1,9 @@
 # Project OS — PM + SA + Execution Control
 
 ## Purpose
-Project OS is a reusable development operating system for software/project work. It exists to prevent requirement loss, wrong-version work, session drift, accidental regression, incomplete deployment, and repeated re-explanation.
+Project OS is a reusable development operating system for software/project work. It exists to prevent requirement loss, wrong-version work, session drift, accidental regression, incomplete deployment, repeated re-explanation, and cross-device UX divergence.
 
-The system is intentionally broader than coding. It coordinates project management, system analysis, change control, session recovery, version control, stable-core protection, execution, regression QA, deployment verification, documentation, and handoff.
+The system is intentionally broader than coding. It coordinates project management, system analysis, change control, session recovery, version control, stable-core protection, execution, regression QA, deployment verification, documentation, handoff, and cross-device consistency.
 
 ## Invocation intent
 Use this skill before starting meaningful project design, debugging, feature work, UI changes, data changes, deployment work, or when resuming a project after a session/time gap.
@@ -28,6 +28,29 @@ Rules:
 - Chat memory is supporting evidence, not the source of truth.
 - A user statement such as “lock this version” must be persisted into project-local state during the same work cycle.
 - If a locked version contains known defects, keep it as the baseline and record the defects separately. Do not silently replace the architecture baseline with a later rough fix.
+
+## Global Cross-Device Consistency Rule — mandatory for every UI project
+All user-facing projects must maintain one shared interface / UI / UX baseline across iPhone, iPad/tablet, and desktop browser.
+
+Allowed:
+- Responsive rearrangement for screen size
+- Different column counts, spacing, typography scale, touch targets, and information density
+- Desktop may expose more information simultaneously when the same underlying hierarchy and workflow are preserved
+
+Not allowed:
+- Separate product versions per device
+- Different navigation logic, feature availability, labels, wording, or business rules by device unless explicitly required and recorded
+- Mobile being updated while desktop/tablet remains stale, or vice versa
+- Rebuilding one platform independently and losing approved behavior from another
+
+Cross-device regression must verify:
+- Same feature set and business logic
+- Same information architecture and navigation intent
+- Same canonical data/state
+- Same labels/content meaning
+- Responsive adaptation only, not product forks
+
+Any deliberate platform-specific exception must be recorded in the project's Feature Manifest and Delta Contract.
 
 ---
 
@@ -87,6 +110,7 @@ Before changing architecture or behavior:
 - Identify root cause before stacking patches.
 - Determine blast radius and regression surface.
 - Identify whether the issue is UI, data, state, infrastructure, deployment, cache, timing, auth, or version mismatch.
+- For UI work, identify all supported device classes and verify the shared UX baseline before changing one viewport.
 
 Required output before non-trivial work:
 - Current behavior
@@ -106,6 +130,7 @@ Every meaningful change should be represented as a Delta Contract:
 - Acceptance criteria
 - Protected behavior / do-not-change list
 - Affected surface
+- Affected device classes
 - Regression checks
 - Deployment required? yes/no
 
@@ -182,12 +207,16 @@ For every protected feature record:
 - Feature name
 - Expected behavior
 - Critical UI/data requirement
+- Supported device classes
+- Cross-device consistency requirement
 - Regression test
 - Status
 
 Before deployment, compare changed behavior with the Feature Manifest.
 
-Rule: a new feature cannot silently delete or simplify an approved stable-core feature.
+Rules:
+- A new feature cannot silently delete or simplify an approved stable-core feature.
+- A change made for one device must not regress another supported device.
 
 ---
 
@@ -202,6 +231,7 @@ Execution rules:
 - Do not stop at code generation.
 - A commit or push is not completion.
 - Production deployment must be verified in the actual user-facing environment when deployment is part of the task.
+- For UI work, treat phone, tablet and desktop as one product baseline and test all supported device classes before completion.
 
 ---
 
@@ -216,9 +246,11 @@ Verify protected nearby and core behavior, based on:
 - Feature Manifest
 - Affected dependency surface
 - Known past failure modes
-- Mobile / desktop behavior where relevant
+- Phone / tablet / desktop consistency
 - Data freshness / refresh behavior where relevant
 - Navigation / back flow / language switching / auth where relevant
+
+For user-facing UI projects, cross-device regression is mandatory unless the project explicitly supports only one device class.
 
 Never announce READY TO TEST if regression-critical behavior is known to be broken.
 
@@ -228,7 +260,7 @@ Never announce READY TO TEST if regression-critical behavior is known to be brok
 After successful implementation:
 - Deploy if required.
 - Test production.
-- Update README.md if architecture, operation, setup, data source, deployment, or failure modes changed.
+- Update README.md if architecture, operation, setup, data source, deployment, supported devices, or failure modes changed.
 - Update AGENTS.md if execution rules changed.
 - Update PROJECT_STATE.md.
 - Record release/version/timestamp/commit/deployment/test result.
@@ -250,7 +282,7 @@ At the end of a work cycle record:
 - Current Locked Version
 - Current Approved Version
 - Production Version
-- Test results
+- Test results by supported device class when UI is affected
 - Known issues
 - Pending work
 - Next recommended action
@@ -269,6 +301,7 @@ This contract allows a new session or another agent to continue safely.
 - Treating production as current simply because a URL loads.
 - Mixing several projects' requirements into one project state.
 - Letting Portfolio PM override project-local state.
+- Allowing iPhone, iPad and desktop to drift into different product versions.
 - Requiring the user to repeatedly ask 'Is it ready?'.
 
 ---
@@ -280,7 +313,7 @@ This contract allows a new session or another agent to continue safely.
 4. Convert the new request into a Delta Contract.
 5. Run SA before implementation.
 6. Execute the change.
-7. Run targeted + regression tests.
+7. Run targeted + regression tests, including cross-device checks for UI projects.
 8. Deploy and verify when required.
 9. Update version/state/docs and Portfolio summary.
 10. Report traffic-light status and only say READY TO TEST when truly ready.

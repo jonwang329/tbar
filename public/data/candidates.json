@@ -1,7 +1,121 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T20:35:30.581Z",
+  "updatedAt": "2026-08-30T20:46:02.296Z",
   "candidates": [
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-08-31",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-08-31",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-08-31",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-08-31",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-08-31",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-08-31",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8fcce51254fb0ad093c9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723696?from=edn_newest_index",
+      "title": "北賽普勒斯外海渡輪翻覆241人獲救 至少8死18失蹤 | 國際焦點 | 國際 | 經濟日報",
+      "description": "一艘載有267名乘客和船員的渡輪今天在北賽普勒斯土耳其共和國外海翻覆，造成至少8人死亡、18人失蹤。事發當時的畫面顯示，...",
+      "publishedAt": "2026-08-30T20:46:02.296Z",
+      "discoveredAt": "2026-08-30T20:46:02.296Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0397b3c2e5d064b19323",
       "sourceLastModified": null,
@@ -1270,7 +1384,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9723544?from=edn_hottest_index",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 1817",
+      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 1831",
       "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
       "publishedAt": "2026-08-30T17:36:14.927Z",
       "discoveredAt": "2026-08-30T17:36:14.927Z",
@@ -1284,7 +1398,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1300,7 +1414,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9722949?from=edn_hottest_index",
-      "title": "輝達投資機器人將上市！能率亞洲押中 Agility 還要再買2家 AI 新創 1421",
+      "title": "輝達投資機器人將上市！能率亞洲押中 Agility 還要再買2家 AI 新創 1426",
       "description": "能率亞洲（7777）2025年投資美國機器人新創Agility，今年第4季將在美國以SPAC模式掛牌上市，成第一家美國人型機器人概念股；由於對AI及機器人投資見解相似，能率亞洲與輝達已建立戰略投資夥伴關係，互相介紹案源，能率今年底也將評估NVIDIA引薦的北美機器人手臂及北美AI大腦新創投資案。",
       "publishedAt": "2026-08-30T17:36:14.927Z",
       "discoveredAt": "2026-08-30T17:36:14.927Z",
@@ -1314,7 +1428,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1480,7 +1594,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9722572?from=edn_hottest_index",
-      "title": "AI「燒錢潮」轉向資本紀律！ASIC 成降本利器 這些台廠將受惠 1763",
+      "title": "AI「燒錢潮」轉向資本紀律！ASIC 成降本利器 這些台廠將受惠 1765",
       "description": "AI產業正進入結構性轉變階段，逐步邁向「槓桿式基礎設施周期」（Leveraged Infrastructure Cycle），融資方式也更加多元，開始大量導入公司債、長期資料中心租約、特殊目的公司（SPV）、專案融資（Project Finance）及私人信貸（Private Credit）等工具。隨AI產業進入資本紀律時代，業者對成本效益與投資報酬率的要求提高，反而有望加速ASIC滲透率提升。",
       "publishedAt": "2026-08-30T17:25:34.656Z",
       "discoveredAt": "2026-08-30T17:25:34.656Z",
@@ -1865,7 +1979,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9722945?from=edn_hottest_index",
-      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 2209",
+      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 2213",
       "description": "主動式ETF規模今年來大幅成長，其中光是台股主動式ETF規模已經逾8,200億元，主動式ETF加碼標的也成為市場焦點。統計上周主動式ETF加碼前十名台股，台半（5425）獲得4,940張加碼榮登第一，其次是大聯大（3702）3,799張，第三名的南亞（1303）以3,677張緊追在後。",
       "publishedAt": "2026-08-30T17:04:22.723Z",
       "discoveredAt": "2026-08-30T17:04:22.723Z",
@@ -5273,126 +5387,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b8e220a7092905146a06",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723102?from=edn_newest_index",
-      "title": "外資買盤回籠 AI 多頭架構穩固 短線看地緣政治與利率風向 2026-08-30 17:16",
-      "description": "台股上周持續走揚，成功收復所有均線。",
-      "publishedAt": "2026-08-30T09:23:14.984Z",
-      "discoveredAt": "2026-08-30T09:23:14.984Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_37b6ad458a9e72634965",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9723099?from=edn_newest_index",
-      "title": "華許放鷹美晶片股、台指期跌 法人：台股本週多空交戰 | 產業熱點 | 產業 | 經濟日報",
-      "description": "市場解讀美國聯邦準備理事會主席華許抗通膨談話偏向鷹派，預期升息加溫，美晶片股挫跌，台指期夜盤下跌457點收45900點，...",
-      "publishedAt": "2026-08-30T09:23:14.984Z",
-      "discoveredAt": "2026-08-30T09:23:14.984Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c927714c102752068a84",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723095?from=edn_newest_index",
-      "title": "股票型 ETF 遭賣 科技與半導體資產持續受青睞 | 市場焦點 | 證券 | 經濟日報",
-      "description": "面對高利率環境、市場波動與總體經濟不確定環境，投資人在ETF資金動向上也出現資產配置調整，根據貝萊德iShares資金流向8月15日至21日的統計，上週全球股票型ETF呈現淨流出，然固定收益與商品ETF維持強勁資金流入，反映投資人對收益與避險資產的仍有需求然。",
-      "publishedAt": "2026-08-30T09:07:37.543Z",
-      "discoveredAt": "2026-08-30T09:07:37.543Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8fa9e0683e34dcffdf05",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723094?from=edn_newest_index",
-      "title": "伊朗最高領袖神隱半年罕見發聲 籲穆斯林共抗美以 | 國際焦點 | 國際 | 經濟日報",
-      "description": "伊朗最高領袖穆吉塔巴．哈米尼（Mojtaba Khamenei）今天發表書面訊息，呼籲穆斯林國家，尤其是波灣國家，團結一...",
-      "publishedAt": "2026-08-30T09:07:37.543Z",
-      "discoveredAt": "2026-08-30T09:07:37.543Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false

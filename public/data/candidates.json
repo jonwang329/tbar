@@ -1,7 +1,97 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T12:23:36.901Z",
+  "updatedAt": "2026-08-30T12:34:18.856Z",
   "candidates": [
+    {
+      "id": "cand_cba849da0fe286cdf17b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723293?from=edn_newest_index",
+      "title": "美國委內瑞拉石油協議 外媒：美可能掌握中國能源供應 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國今年初推翻委內瑞拉時任總統馬杜洛政權後，近日宣布雙方達成石油協議，時代雜誌專文分析，美國除了握有能源主導權、使伊朗受...",
+      "publishedAt": "2026-08-30T12:34:18.856Z",
+      "discoveredAt": "2026-08-30T12:34:18.856Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_99cff7a491ce493a7f68",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9723290?from=edn_newest_index",
+      "title": "寒冬覓新商機 AIDC成大陸新能源企業第二增長曲線 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "在大陸光電行業遭遇內捲寒冬下，隨著AI算力繼續擴張，大陸新能源企業如陽光電源、上能電氣、三晶電氣、優優綠能以及TV萊茵等正圍繞AIDC尋找新機會。AIDC對電力的需求正在從數據中心內部向外延伸，包括電源設備、儲能、電網穩定，再到能源管理和測試認證。",
+      "publishedAt": "2026-08-30T12:34:18.856Z",
+      "discoveredAt": "2026-08-30T12:34:18.856Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_da78e6cb709644aa839b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9723286?from=edn_newest_index",
+      "title": "陸光電寒冬持續？ 隆基綠能上半年虧損持續擴大 | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "大陸光電產業持續面臨供需失衡壓力，龍頭企業隆基綠能獲利表現承壓。隆基綠能30日公布2026年半年報，上半年營業收入人民幣270.45億元，年減17.58%；歸屬於上市公司股東的淨利潤虧損人民幣36.84億元，較去年同期虧損人民幣25.69億元進一步擴大。",
+      "publishedAt": "2026-08-30T12:34:18.856Z",
+      "discoveredAt": "2026-08-30T12:34:18.856Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c5c8ca40a12fb51bbad1",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723282?from=edn_newest_index",
-      "title": "日經民調：高市內閣支持率升至62％ 重新站上6字頭 | 國際焦點 | 國際 | 經濟日報",
+      "title": "日經民調：高市內閣支持率升至62％ 重新站上6字頭 2026-08-30 20:21",
       "description": "日本經濟新聞社與東京電視台28日至30日實施民意調查。結果顯示，日本首相高市早苗內閣支持率為62%，較7月上升4個百分點...",
       "publishedAt": "2026-08-30T12:23:36.901Z",
       "discoveredAt": "2026-08-30T12:23:36.901Z",
@@ -1090,7 +1180,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722210?from=edn_hottest_index",
-      "title": "巴拿馬塞船 運輸業奇招突圍 液化石油氣船在港外船對船轉駁 3013",
+      "title": "巴拿馬塞船 運輸業奇招突圍 液化石油氣船在港外船對船轉駁 3050",
       "description": "巴拿馬運河船隻壅塞情況日益嚴重，迫使部分液化石油氣（LPG）運輸船改走反常航線，有的遠繞南美洲，有的則可能已開始採取船對船轉運的方式。",
       "publishedAt": "2026-08-30T09:33:57.357Z",
       "discoveredAt": "2026-08-30T09:33:57.357Z",
@@ -1104,7 +1194,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1134,7 +1224,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1570,7 +1660,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9722158?from=edn_hottest_index",
-      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 2933",
+      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 2949",
       "description": "最新報告指出，受到人工智慧（AI）晶片需求大幅增加的帶動，全球只生產晶片，且不設計也不銷售自家產品的純晶圓代工市場，今年第2季較2025年同期大幅成長29%。台積電市占穩居全球第一。",
       "publishedAt": "2026-08-30T08:46:02.692Z",
       "discoveredAt": "2026-08-30T08:46:02.692Z",
@@ -1720,7 +1810,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5628/9722145?from=edn_hottest_index",
-      "title": "服務業失速 台灣經濟大警訊 3494",
+      "title": "服務業失速 台灣經濟大警訊 3514",
       "description": "台灣製造業與服務業的薪資結構，過去20年已出現明顯逆轉。20年前，服務業平均薪資仍高於製造業；到了2015年前後，兩者差距已大幅縮小，服務業原有的薪資優勢幾乎消失。此後製造業快速追趕並反超，尤其近十年在半導體、電子零組件及AI相關產業帶動下，差距進一步擴大。2025年製造業薪資已明顯高於服務業。",
       "publishedAt": "2026-08-30T08:14:11.041Z",
       "discoveredAt": "2026-08-30T08:14:11.041Z",
@@ -4235,7 +4325,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722232?from=edn_hottest_index",
-      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4969",
+      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4979",
       "description": "美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「180度大轉彎」。",
       "publishedAt": "2026-08-30T02:13:30.176Z",
       "discoveredAt": "2026-08-30T02:13:30.176Z",
@@ -5294,96 +5384,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f62b9d41db20453b7614",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9722172?from=edn_newest_index",
-      "title": "外資升價股有戲 金像電、萬潤等可望引領指數上攻 2026-08-30 01:23",
-      "description": "",
-      "publishedAt": "2026-08-29T17:33:26.268Z",
-      "discoveredAt": "2026-08-29T17:33:26.268Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_de6ec973b71eb50798f9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9722174?from=edn_newest_index",
-      "title": "半導體展概念股 可押寶 2026-08-30 01:22",
-      "description": "半導體年度盛會「SEMICON Taiwan 2026」9月2日至4日盛大開展，適逢輝達公布亮眼財報與樂觀展望，重新確立AI長線多頭架構，資金正加速卡位先進製程、先進封裝及矽光子（CPO）等半導體指標股，使SEMICON概念族群躍盤面最強焦點。",
-      "publishedAt": "2026-08-29T17:22:40.887Z",
-      "discoveredAt": "2026-08-29T17:22:40.887Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8c253599a3c033d4fac6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722305?from=edn_newest_index",
-      "title": "尼泊爾洪災釀682死 外長警告氣候變遷威脅加劇 2026-08-30 01:21",
-      "description": "尼泊爾與中國西藏邊界26日發生致命洪災，造成682人喪生、近3000人失蹤之際，尼泊爾外交部長今天警告，氣候變遷對喜馬拉...",
-      "publishedAt": "2026-08-29T17:22:40.887Z",
-      "discoveredAt": "2026-08-29T17:22:40.887Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

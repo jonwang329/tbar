@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T11:57:33.147Z",
+  "updatedAt": "2026-08-30T12:12:56.187Z",
   "candidates": [
+    {
+      "id": "cand_4909e5b8a6eaba791c72",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723263?from=edn_newest_index",
+      "title": "北賽普勒斯外海載約270人客船翻覆 當局展開搜救 | 國際焦點 | 國際 | 經濟日報",
+      "description": "路透社引述北賽普勒斯媒體報導，一艘載有約270人的客船今天在北賽普勒斯外海翻覆，目前正展開搜救行動",
+      "publishedAt": "2026-08-30T12:12:56.187Z",
+      "discoveredAt": "2026-08-30T12:12:56.187Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b2161c5b59ae162de62d",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9723255?from=edn_newest_index",
-      "title": "義大利參院副議長率規模最大訪團來台 晉見賴總統 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "義大利參院副議長率規模最大訪團來台 晉見賴總統 2026-08-30 19:54",
       "description": "義大利參議院副議長錢益友預定明天率團訪台，此次代表團共由多達10名義大利國會議員組成，將晉見總統賴清德。這是迄今為止義大...",
       "publishedAt": "2026-08-30T11:57:33.147Z",
       "discoveredAt": "2026-08-30T11:57:33.147Z",
@@ -40,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723250?from=edn_newest_index",
-      "title": "美伊戰爭公債殖利率飆升 G7融資成本估增數百億美元 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美伊戰爭公債殖利率飆升 G7融資成本估增數百億美元 2026-08-30 19:54",
       "description": "根據英國金融時報研究，美國與伊朗2月爆發戰爭以來，全球公債殖利率上升，全世界主要已開發經濟體的借款成本增加數百億美元",
       "publishedAt": "2026-08-30T11:57:33.147Z",
       "discoveredAt": "2026-08-30T11:57:33.147Z",
@@ -70,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723234?from=edn_newest_index",
-      "title": "公債殖利率上漲 推升G7償債成本上百億美元 加重財政壓力 | 國際焦點 | 國際 | 經濟日報",
+      "title": "公債殖利率上漲 推升G7償債成本上百億美元 加重財政壓力 2026-08-30 19:49",
       "description": "自2月美伊戰爭開打以來，全球公債殖利率攀揚，已推升全球已開發國家的償債成本上百億美元，加重財政壓力。",
       "publishedAt": "2026-08-30T11:57:33.147Z",
       "discoveredAt": "2026-08-30T11:57:33.147Z",
@@ -1030,7 +1060,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722210?from=edn_hottest_index",
-      "title": "巴拿馬塞船 運輸業奇招突圍 液化石油氣船在港外船對船轉駁 2884",
+      "title": "巴拿馬塞船 運輸業奇招突圍 液化石油氣船在港外船對船轉駁 2954",
       "description": "巴拿馬運河船隻壅塞情況日益嚴重，迫使部分液化石油氣（LPG）運輸船改走反常航線，有的遠繞南美洲，有的則可能已開始採取船對船轉運的方式。",
       "publishedAt": "2026-08-30T09:33:57.357Z",
       "discoveredAt": "2026-08-30T09:33:57.357Z",
@@ -1510,7 +1540,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9722158?from=edn_hottest_index",
-      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 2874",
+      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 2909",
       "description": "最新報告指出，受到人工智慧（AI）晶片需求大幅增加的帶動，全球只生產晶片，且不設計也不銷售自家產品的純晶圓代工市場，今年第2季較2025年同期大幅成長29%。台積電市占穩居全球第一。",
       "publishedAt": "2026-08-30T08:46:02.692Z",
       "discoveredAt": "2026-08-30T08:46:02.692Z",
@@ -1660,7 +1690,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5628/9722145?from=edn_hottest_index",
-      "title": "服務業失速 台灣經濟大警訊 3433",
+      "title": "服務業失速 台灣經濟大警訊 3478",
       "description": "台灣製造業與服務業的薪資結構，過去20年已出現明顯逆轉。20年前，服務業平均薪資仍高於製造業；到了2015年前後，兩者差距已大幅縮小，服務業原有的薪資優勢幾乎消失。此後製造業快速追趕並反超，尤其近十年在半導體、電子零組件及AI相關產業帶動下，差距進一步擴大。2025年製造業薪資已明顯高於服務業。",
       "publishedAt": "2026-08-30T08:14:11.041Z",
       "discoveredAt": "2026-08-30T08:14:11.041Z",
@@ -4175,7 +4205,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722232?from=edn_hottest_index",
-      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4913",
+      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4955",
       "description": "美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「180度大轉彎」。",
       "publishedAt": "2026-08-30T02:13:30.176Z",
       "discoveredAt": "2026-08-30T02:13:30.176Z",
@@ -4637,7 +4667,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4665,7 +4695,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4693,7 +4723,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5357,36 +5387,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ace63008c18ed3877bc2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5628/9722145?from=edn_newest_index",
-      "title": "服務業失速 台灣經濟大警訊 | 社論 | 專欄 | 經濟日報",
-      "description": "台灣製造業與服務業的薪資結構，過去20年已出現明顯逆轉。20年前，服務業平均薪資仍高於製造業；到了2015年前後，兩者差距已大幅縮小，服務業原有的薪資優勢幾乎消失。此後製造業快速追趕並反超，尤其近十年在半導體、電子零組件及AI相關產業帶動下，差距進一步擴大。2025年製造業薪資已明顯高於服務業。",
-      "publishedAt": "2026-08-29T17:22:40.887Z",
-      "discoveredAt": "2026-08-29T17:22:40.887Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

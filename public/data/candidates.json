@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T15:33:48.202Z",
+  "updatedAt": "2026-08-30T15:44:12.179Z",
   "candidates": [
+    {
+      "id": "cand_5b952bb896c0f5b10bef",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9723295?from=edn_newest_index",
+      "title": "英國工作外移效應 倫敦人口加速流失 | 外媒解析 | 國際 | 經濟日報",
+      "description": "上市獵才公司Robert Walters分析，未來五年可能有大約9萬份白領工作從倫敦外移到英國其他地區，主因是企業希望降低成本，加上新任首相柏能推動權力下放。",
+      "publishedAt": "2026-08-30T15:44:12.179Z",
+      "discoveredAt": "2026-08-30T15:44:12.179Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a5c0a9c043204529eb41",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9723296?from=edn_newest_index",
+      "title": "德國民眾轉投股市 基金資產規模創高 | 外媒解析 | 國際 | 經濟日報",
+      "description": "德國基金業管理的資產，總額首度突破5兆歐元（5.8兆美元），主要推力是投資人對指數股票型基金（ETF）展現熱情，這也顯示向來偏愛儲蓄的德國民眾，正逐漸轉向股票市場。",
+      "publishedAt": "2026-08-30T15:44:12.179Z",
+      "discoveredAt": "2026-08-30T15:44:12.179Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_01a38b55f96604cb5bf7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9723297?from=edn_newest_index",
+      "title": "肯亞富人喜好變了 買名表勝過買車 | 外媒解析 | 國際 | 經濟日報",
+      "description": "肯亞有錢人購買可收藏資產的情況愈來愈多，一來滿足個人喜好，二來具有長期投資潛力。",
+      "publishedAt": "2026-08-30T15:44:12.179Z",
+      "discoveredAt": "2026-08-30T15:44:12.179Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b61f029d86ac99bc7ba1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9723301?from=edn_newest_index",
+      "title": "加國車業富豪 靠多角經營翻身 | 外媒解析 | 國際 | 經濟日報",
+      "description": "川普關稅衝擊一度重創Linamar公司與哈森佛瑞茲身價，但她靠汽車零組件、農機與工業設備多角布局分散風險，並趁勢收購擴張，帶動公司股價與個人身價強勢反彈…",
+      "publishedAt": "2026-08-30T15:44:12.179Z",
+      "discoveredAt": "2026-08-30T15:44:12.179Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4135231d6b5c1c44846a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9723306?from=edn_newest_index",
+      "title": "毛小孩抗老 寵物長壽商機夯 | 外媒解析 | 國際 | 經濟日報",
+      "description": "人類追求長壽的風潮延燒至寵物照護，從胜肽、雷帕黴素到營養補充品與紅光療法，飼主砸錢替毛孩抗老，帶動寵物長壽商機升溫…",
+      "publishedAt": "2026-08-30T15:44:12.179Z",
+      "discoveredAt": "2026-08-30T15:44:12.179Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0bd903782820b1843004",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9723414?from=edn_hottest_index",
+      "title": "蘋果庫克將卸任 CEO 曾馨瑩、郭台銘飛加州赴宴 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海（2317）集團創辦人郭台銘與夫人曾馨瑩參加蘋果執行長庫克（Tim Cook）在Apple Park的晚宴。曾馨瑩指出，十八年前我們結婚時，很榮幸Cook親自來到台灣參加我們的婚禮。十八年後，在他即將退休之際，我們也特別飛到美國加州參加他在Apple Park的晚宴。",
+      "publishedAt": "2026-08-30T15:44:12.179Z",
+      "discoveredAt": "2026-08-30T15:44:12.179Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b8fe4ca4e2c422c700bd",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9723544",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 | 美股動態 | 國際 | 經濟日報",
+      "title": "23:22 輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它",
       "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
       "publishedAt": "2026-08-30T15:33:48.202Z",
       "discoveredAt": "2026-08-30T15:33:48.202Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9723544?from=edn_maintab_index",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 | 美股動態 | 國際 | 經濟日報",
+      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？ 輝達預估，在截至2028年1月的會...",
       "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
       "publishedAt": "2026-08-30T15:33:48.202Z",
       "discoveredAt": "2026-08-30T15:33:48.202Z",
@@ -550,7 +730,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9722172?from=edn_hottest_index",
-      "title": "外資升價股有戲 金像電、萬潤等可望引領指數上攻 3482",
+      "title": "外資升價股有戲 金像電、萬潤等可望引領指數上攻 3521",
       "description": "台股近來走勢轉強，不少個股後市基本面也亮麗搶眼，引動外資圈一波目標價上修潮，包括奇鋐、金像電等，在法人買盤或市場大戶的搶進推升下，股價領漲抗跌，成為引領行情走多的市場焦點。",
       "publishedAt": "2026-08-30T14:25:20.531Z",
       "discoveredAt": "2026-08-30T14:25:20.531Z",
@@ -2290,7 +2470,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722210?from=edn_hottest_index",
-      "title": "巴拿馬塞船 運輸業奇招突圍 液化石油氣船在港外船對船轉駁 3541",
+      "title": "巴拿馬塞船 運輸業奇招突圍 液化石油氣船在港外船對船轉駁 3559",
       "description": "巴拿馬運河船隻壅塞情況日益嚴重，迫使部分液化石油氣（LPG）運輸船改走反常航線，有的遠繞南美洲，有的則可能已開始採取船對船轉運的方式。",
       "publishedAt": "2026-08-30T09:33:57.357Z",
       "discoveredAt": "2026-08-30T09:33:57.357Z",
@@ -2304,7 +2484,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2770,7 +2950,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9722158?from=edn_hottest_index",
-      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 3182",
+      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 3194",
       "description": "最新報告指出，受到人工智慧（AI）晶片需求大幅增加的帶動，全球只生產晶片，且不設計也不銷售自家產品的純晶圓代工市場，今年第2季較2025年同期大幅成長29%。台積電市占穩居全球第一。",
       "publishedAt": "2026-08-30T08:46:02.692Z",
       "discoveredAt": "2026-08-30T08:46:02.692Z",
@@ -5214,186 +5394,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e166b22fd98b02804630",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722564?from=edn_newest_index",
-      "title": "美勞工統計局下修數據 過去一年就業成長低於預期 2026-08-30 10:37",
-      "description": "美國勞工統計局（BLS）修正後的數據顯示，2025年初到今年初的就業成長速度低於先前公布的數字，顯示美國經濟的實際狀況比...",
-      "publishedAt": "2026-08-30T02:45:47.085Z",
-      "discoveredAt": "2026-08-30T02:45:47.085Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8b6560d71d30a446ba11",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9722563?from=edn_newest_index",
-      "title": "中共高官加入信心喊話 蔡奇：要「正確看待」當前中國經濟形勢 2026-08-30 10:36",
-      "description": "在官媒連日對中國經濟表現疲弱發文信心喊話後，兼任中共中央黨校校長的中央書記處書記蔡奇昨天在該校秋季學期開學典禮時說，要「...",
-      "publishedAt": "2026-08-30T02:45:47.085Z",
-      "discoveredAt": "2026-08-30T02:45:47.085Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_32d652cca58f8f9ab36f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9722554?from=edn_newest_index",
-      "title": "習近平31日將會普丁 天然氣管道項目預計列入會談議題 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "大陸國家主席習近平30日起赴吉爾吉斯首都比斯凱克出席上海合作組織峰會，期間將與俄羅斯總統普丁會面。俄羅斯總統助理烏沙科夫（Yuri Ushakov）近日表示，普丁將於31日與習近平會談，雙方將討論中俄天然氣合作及國際議題，包括規劃多年的「西伯利亞力量2號」天然氣管道項目，並可能討論是否敲定相關協議。",
-      "publishedAt": "2026-08-30T02:35:08.036Z",
-      "discoveredAt": "2026-08-30T02:35:08.036Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5590cfa275c15976a18",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722546?from=edn_newest_index",
-      "title": "暴風雨襲賽普勒斯 3船撞礁石沉沒釀1死 | 國際焦點 | 國際 | 經濟日報",
-      "description": "賽普勒斯媒體Sigmalive報導，受風暴和惡劣海況影響，3艘船隻在賽普勒斯外海撞上礁石後沉沒，造成1人死亡、6人獲救",
-      "publishedAt": "2026-08-30T02:35:08.036Z",
-      "discoveredAt": "2026-08-30T02:35:08.036Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5fac2d776b4263eca65",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722538?from=edn_newest_index",
-      "title": "以色列屯墾民再襲約旦河西岸村莊 尼坦雅胡罕見譴責 2026-08-30 10:21",
-      "description": "數十名以色列屯墾民今天攻擊約旦河西岸北部村莊庫斯拉，包圍1棟民宅並投擲石塊。當地緊張情勢延續近3週之際，以色列總理尼坦雅...",
-      "publishedAt": "2026-08-30T02:24:15.932Z",
-      "discoveredAt": "2026-08-30T02:24:15.932Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_214fc9d6b288ccfc7733",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9722511?from=edn_newest_index",
-      "title": "尼泊爾西藏土石流災情 中國境內已16死546人失聯 2026-08-30 10:12",
-      "description": "尼泊爾與西藏邊境地區26日遭土石流重創。中國官方最新公布數字顯示，截至29日晚間6時，在西藏吉龍口岸一側已造成16人遇難...",
-      "publishedAt": "2026-08-30T02:13:30.176Z",
-      "discoveredAt": "2026-08-30T02:13:30.176Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

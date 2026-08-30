@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T23:45:29.045Z",
+  "updatedAt": "2026-08-30T23:56:19.327Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,126 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_76e11aef3e38e0921bd4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723767",
+      "title": "美軍再炸伊朗 因革命衛隊欲重布水雷 油價漲逾2% 升破90美元 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國與伊朗在荷莫茲海峽短暫降溫數周後，軍事衝突再度升高。美軍周日空襲伊朗革命衛隊在拉拉克島（Larak Island）上的兩座發射器，理由是伊方準備將水雷射入海峽，伊朗隨即揚言報復。這場攻擊顯示，川普政府一面加強經濟制裁，逼迫伊朗重返談判桌，一面仍動用武力維持航道通行。油價因供應風險再起而走高。",
+      "publishedAt": "2026-08-30T23:56:19.327Z",
+      "discoveredAt": "2026-08-30T23:56:19.327Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8088dcb70f6b3205fc31",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723777?from=edn_newest_index",
+      "title": "衛星影像示警蘇丹戰事升溫 邊境現大規模軍力部署 | 國際焦點 | 國際 | 經濟日報",
+      "description": "蘇丹內戰持續延燒逾3年。近期一項衛星影像顯示，靠蘇丹邊境的衣索比亞有處軍事基地近期出現大批軍車與軍事物資，可能與蘇丹準軍...",
+      "publishedAt": "2026-08-30T23:56:19.327Z",
+      "discoveredAt": "2026-08-30T23:56:19.327Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_65045a5697c47428439f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723772?from=edn_newest_index",
+      "title": "美伊戰火重燃！美軍空襲荷莫茲海峽小島 伊朗報復攻擊約旦 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國中央司令部證實30日打擊伊朗拉拉克島，摧毀2具企圖在荷莫茲海峽布設水雷的火箭發射器；伊朗當日隨即發動報復攻擊，朝約旦發射飛彈，遭到攔截。這是美伊偃旗息鼓一個月以來戰火重燃。",
+      "publishedAt": "2026-08-30T23:56:19.327Z",
+      "discoveredAt": "2026-08-30T23:56:19.327Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7330ae198876b4216809",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
+      "publishedAt": "2026-08-30T23:56:19.327Z",
+      "discoveredAt": "2026-08-30T23:56:19.327Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_744bad042e5e6f474afa",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9723769?from=edn_newest_index",
-      "title": "低壓帶影響台東留意豪雨 高屏花易有局部大雨 | 熱門話題 | 要聞 | 經濟日報",
+      "title": "低壓帶影響台東留意豪雨 高屏花易有局部大雨 2026-08-31 07:45",
       "description": "中央氣象署發布豪雨特報，低壓帶影響，易有短延時強降雨，今天台東縣有局部大雨或豪雨，高雄、屏東、花蓮地區有局部大雨發生的機...",
       "publishedAt": "2026-08-30T23:45:29.045Z",
       "discoveredAt": "2026-08-30T23:45:29.045Z",
@@ -124,7 +244,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723767?from=edn_newest_index",
-      "title": "美軍再炸伊朗 因革命衛隊欲重布水雷 油價漲逾2% 升破90美元 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美軍再炸伊朗 因革命衛隊欲重布水雷 油價漲逾2% 升破90美元 2026-08-31 07:41",
       "description": "美國與伊朗在荷莫茲海峽短暫降溫數周後，軍事衝突再度升高。美軍周日空襲伊朗革命衛隊在拉拉克島（Larak Island）上的兩座發射器，理由是伊方準備將水雷射入海峽，伊朗隨即揚言報復。這場攻擊顯示，川普政府一面加強經濟制裁，逼迫伊朗重返談判桌，一面仍動用武力維持航道通行。油價因供應風險再起而走高。",
       "publishedAt": "2026-08-30T23:45:29.045Z",
       "discoveredAt": "2026-08-30T23:45:29.045Z",
@@ -154,7 +274,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723763?from=edn_newest_index",
-      "title": "德國推戰後最大情報改革 強化主動反制混合戰威脅 | 國際焦點 | 國際 | 經濟日報",
+      "title": "德國推戰後最大情報改革 強化主動反制混合戰威脅 2026-08-31 07:36",
       "description": "面對基礎設施破壞、網路攻擊等混合威脅增加，德國政府正推動戰後最大規模情報制度改革，過去以情蒐為核心任務的情報機關，未來在...",
       "publishedAt": "2026-08-30T23:45:29.045Z",
       "discoveredAt": "2026-08-30T23:45:29.045Z",
@@ -288,7 +408,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -334,7 +454,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 3336",
+      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 3636",
       "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
       "publishedAt": "2026-08-30T22:47:32.575Z",
       "discoveredAt": "2026-08-30T22:47:32.575Z",
@@ -348,7 +468,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1714,7 +1834,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9723544?from=edn_hottest_index",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 2641",
+      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 2699",
       "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
       "publishedAt": "2026-08-30T17:36:14.927Z",
       "discoveredAt": "2026-08-30T17:36:14.927Z",
@@ -2309,7 +2429,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9722945?from=edn_hottest_index",
-      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 2505",
+      "title": "主動式 ETF 上周都在買哪檔？台半奪加碼王、南亞台塑也上榜 2526",
       "description": "主動式ETF規模今年來大幅成長，其中光是台股主動式ETF規模已經逾8,200億元，主動式ETF加碼標的也成為市場焦點。統計上周主動式ETF加碼前十名台股，台半（5425）獲得4,940張加碼榮登第一，其次是大聯大（3702）3,799張，第三名的南亞（1303）以3,677張緊追在後。",
       "publishedAt": "2026-08-30T17:04:22.723Z",
       "discoveredAt": "2026-08-30T17:04:22.723Z",
@@ -5253,126 +5373,6 @@
       "description": "日產汽車與本田汽車歷經兩年波折，決定以次世代軟體定義汽車領域作為起點，整合經營資源，以抗衡崛起的新興電動車製造商。雙方最...",
       "publishedAt": "2026-08-30T10:05:52.757Z",
       "discoveredAt": "2026-08-30T10:05:52.757Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b3ba28ff58732827ca06",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9722168?from=edn_VIP_index_side",
-      "title": "17檔投信作帳 行情點火 奇鋐、南亞等將扛多頭大旗",
-      "description": "時序進入8月底，第3季開始倒數，投信經理人績效進入衝刺期。篩選上周投信積極加碼的績優亮點股，包含奇鋐、南亞、創意、景碩等17檔，有望成為投信作帳領頭羊。",
-      "publishedAt": "2026-08-30T10:05:52.757Z",
-      "discoveredAt": "2026-08-30T10:05:52.757Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3de3112390edf7d41f4f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9720932?from=edn_VIP_index_side",
-      "title": "15檔價漲量增股 擁基本面、技術面利多 法人押寶",
-      "description": "台股歷經七個交易日成交值低於兆元後，昨（28）日終於回升至兆元之上，並推升加權指數改寫波段新高。法人指出，台股向上挑戰關鍵「唯量是問」，篩選兼具基本面與人氣支撐的強勢的價漲量增股，包括聯電、南亞、華通、光寶科等15檔法人買盤擁護的交投放大個股，將是領漲先鋒。",
-      "publishedAt": "2026-08-30T10:05:52.757Z",
-      "discoveredAt": "2026-08-30T10:05:52.757Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_65cf9cd39be10578e87c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9720655?from=edn_VIP_index_side",
-      "title": "10檔外資回補股 上攻先鋒",
-      "description": "在輝達財報與展望亮麗等有利因素中，外資8月以來至今回補持股逾3,700億元，有望寫下史上單月買超新高紀錄，掃貨標的集中AI供應鏈、海運等族群，買超南亞科（2408）、欣興等個股，市場看好是後市行情續攻聚焦點。",
-      "publishedAt": "2026-08-30T10:05:52.757Z",
-      "discoveredAt": "2026-08-30T10:05:52.757Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_40520428c698f599623b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723142?from=edn_newest_index",
-      "title": "委國臨時總統：與美能源協議效期25年 目標日產原油150萬桶 2026-08-30 17:54",
-      "description": "委內瑞拉臨時總統羅德里格斯今天表示，委內瑞拉與美國的能源協議有效期將達25年，目標是將原油產量提高至每日150萬桶，同時...",
-      "publishedAt": "2026-08-30T09:55:10.684Z",
-      "discoveredAt": "2026-08-30T09:55:10.684Z",
       "topics": [
         "Taiwan business",
         "investment",

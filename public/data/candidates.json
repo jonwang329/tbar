@@ -1,7 +1,97 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T08:46:21.176Z",
+  "updatedAt": "2026-08-30T08:56:48.486Z",
   "candidates": [
+    {
+      "id": "cand_26ce848902aeb63596ed",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723078?from=edn_newest_index",
+      "title": "「旅行學台灣」日本熱銷三刷 出版紀念座談爆滿 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本岩波書店今年出版「旅行學台灣」廣受歡迎，短期內三度再版。文化部駐日台灣文化中心29日在紀伊國屋書店新宿本店舉辦出版紀...",
+      "publishedAt": "2026-08-30T08:56:48.486Z",
+      "discoveredAt": "2026-08-30T08:56:48.486Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f328774cadff8307baae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9723073?from=edn_newest_index",
+      "title": "水利署：中央管河川治理率逾9成1 馬太鞍溪完成治理變更 | 產業熱點 | 產業 | 經濟日報",
+      "description": "媒體報導，審計部報告指逾半中央管轄河川10年未檢討。經濟部水利署今天說明，截至114年底止，中央管河川平均治理率91.2...",
+      "publishedAt": "2026-08-30T08:56:48.486Z",
+      "discoveredAt": "2026-08-30T08:56:48.486Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_68312cd95080763c2d05",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9723070?from=edn_newest_index",
+      "title": "大陸成功搭建地球和月球間隱形「高速太空光纖」 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "中國科學院空間應用工程與技術中心宣布，日前，中國在地月激光（雷射）通信試驗任務中取得重要突破，成功在超過40萬公里的地月距離上建立起雙向激光鏈路，首次實現地月雙向高速激光通信，象徵中國空間激光通信正式從近地軌道邁入地月空間。",
+      "publishedAt": "2026-08-30T08:56:48.486Z",
+      "discoveredAt": "2026-08-30T08:56:48.486Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_74ef2b47601dcc410761",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723051?from=edn_newest_index",
-      "title": "尼泊爾暴洪致工人受困隧道 當局重啟搜救 | 國際焦點 | 國際 | 經濟日報",
+      "title": "尼泊爾暴洪致工人受困隧道 當局重啟搜救 2026-08-30 16:36",
       "description": "尼泊爾與中國西藏邊境26日發生大規模暴洪和土石流後，尼泊爾搜救隊今天恢復搜尋據信受困多處隧道的水力發電工程工人，這項任務...",
       "publishedAt": "2026-08-30T08:46:02.692Z",
       "discoveredAt": "2026-08-30T08:46:02.692Z",
@@ -40,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9722158?from=edn_hottest_index",
-      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 | 產業熱點 | 產業 | 經濟日報",
+      "title": "純晶圓代工 台積電連連稱霸 連續兩季拿下73%市占率 2630",
       "description": "最新報告指出，受到人工智慧（AI）晶片需求大幅增加的帶動，全球只生產晶片，且不設計也不銷售自家產品的純晶圓代工市場，今年第2季較2025年同期大幅成長29%。台積電市占穩居全球第一。",
       "publishedAt": "2026-08-30T08:46:02.692Z",
       "discoveredAt": "2026-08-30T08:46:02.692Z",
@@ -190,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5628/9722145?from=edn_hottest_index",
-      "title": "服務業失速 台灣經濟大警訊 3098",
+      "title": "服務業失速 台灣經濟大警訊 3123",
       "description": "台灣製造業與服務業的薪資結構，過去20年已出現明顯逆轉。20年前，服務業平均薪資仍高於製造業；到了2015年前後，兩者差距已大幅縮小，服務業原有的薪資優勢幾乎消失。此後製造業快速追趕並反超，尤其近十年在半導體、電子零組件及AI相關產業帶動下，差距進一步擴大。2025年製造業薪資已明顯高於服務業。",
       "publishedAt": "2026-08-30T08:14:11.041Z",
       "discoveredAt": "2026-08-30T08:14:11.041Z",
@@ -2705,7 +2795,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722232?from=edn_hottest_index",
-      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4555",
+      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4577",
       "description": "美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「180度大轉彎」。",
       "publishedAt": "2026-08-30T02:13:30.176Z",
       "discoveredAt": "2026-08-30T02:13:30.176Z",
@@ -3239,7 +3329,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722125?from=edn_hottest_index",
-      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 4983",
+      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 5012",
       "description": "美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。",
       "publishedAt": "2026-08-29T23:32:53.414Z",
       "discoveredAt": "2026-08-29T23:32:53.414Z",
@@ -5298,96 +5388,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_db058e55b8e1a3fb9e44",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9721971?from=edn_newest_index",
-      "title": "科技 ETF 利多支撐漲勢帶勁 主動永豐科技趨勢周漲8.9% | 基金天地 | 理財 | 經濟日報",
-      "description": "AI指標股輝達財報再度告捷，為AI投資市場注入強力支撐，帶動全球主要股市紛紛走揚。根據CMoney統計至28日，觀察盤面上ETF近一周價格表現來看，平均上漲0.7%，共有214檔收紅，相當於六成的ETF周線收紅。",
-      "publishedAt": "2026-08-29T15:26:45.214Z",
-      "discoveredAt": "2026-08-29T15:26:45.214Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9143e132c387c60ba677",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9722222?from=edn_newest_index",
-      "title": "中尼邊境遭暴洪重創 兩國外長通話 2026-08-29 23:12",
-      "description": "尼泊爾與西藏邊境地區26日遭暴洪重創。中共中央政治局委員、中國外長王毅29日與尼泊爾外長坎乃爾（Shisir Khana...",
-      "publishedAt": "2026-08-29T15:16:09.073Z",
-      "discoveredAt": "2026-08-29T15:16:09.073Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dbf162d573829de24189",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722169?from=edn_newest_index",
-      "title": "王毅與尼泊爾外長通話：中方將對尼一攬子援助 2026-08-29 23:01",
-      "description": "8月26日中尼邊界土石流災害引發重大傷亡，在大陸國家主席習近平28日向尼泊爾總統鮑德爾致慰問電後，大陸外長王毅與尼泊爾外長通話時表示，大陸對尼一攬子援助正在落實，包括緊急現匯援助和人道主義援助，並強調「面對災情，兩國要堅定站在一起，攜手應對，共克時艱」。",
-      "publishedAt": "2026-08-29T15:05:31.810Z",
-      "discoveredAt": "2026-08-29T15:05:31.810Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

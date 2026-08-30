@@ -10,12 +10,28 @@ Use this skill before starting meaningful project design, debugging, feature wor
 
 ## Operating model
 
-PORTFOLIO PM → PROJECT PM → SA → CHANGE CONTROL → EXECUTION → QA/REGRESSION → DEPLOY/VERIFY → VERSION/HANDOFF
+PORTFOLIO PM → PROJECT PM → SA → CHANGE CONTROL → SESSION/VERSION CONTROL → EXECUTION → QA/REGRESSION → DEPLOY/VERIFY → VERSION/HANDOFF
+
+## Canonical Truth Priority — mandatory
+When sources disagree, use this order:
+
+1. Project-local `PROJECT_STATE.md` / explicit locked baseline record
+2. Project-local release/version ledger and Feature Manifest
+3. Verified Git commit + deployment mapping
+4. README / AGENTS / canonical project context
+5. Portfolio Dashboard summary
+6. Conversation history / memory
+7. Guessing — never use when any higher source exists
+
+Rules:
+- Portfolio PM must never override project-local canonical state.
+- Chat memory is supporting evidence, not the source of truth.
+- A user statement such as “lock this version” must be persisted into project-local state during the same work cycle.
+- If a locked version contains known defects, keep it as the baseline and record the defects separately. Do not silently replace the architecture baseline with a later rough fix.
 
 ---
 
 ## 1. Portfolio PM — Cross-project management
-
 Goal: manage multiple projects without mixing their implementation details.
 
 The Portfolio PM reads only each project's state contract, not every project file.
@@ -23,14 +39,13 @@ The Portfolio PM reads only each project's state contract, not every project fil
 For each project track:
 - Project name
 - Repository / canonical source
-- Current status: GREEN / YELLOW / RED / PAUSED
-- Current Approved Version
+- Current status: GREEN / YELLOW / RED / PAUSED / VERIFY
+- Current Approved or Locked Version
 - Production Version
 - Last verified timestamp
 - Current objective
 - Next action
 - Blockers / risks
-- Owner / environment if relevant
 - Link/path to PROJECT_STATE.md
 
 Rules:
@@ -38,11 +53,11 @@ Rules:
 - Never treat latest commit as approved production automatically.
 - Portfolio PM is a control plane, not the place where project details are stored.
 - Project details remain inside each project.
+- If Portfolio and project state conflict, project state wins unless proven stale by repository/deployment evidence.
 
 ---
 
 ## 2. Project PM — Scope, priorities, decisions, backlog
-
 Before implementation, maintain the project's working truth:
 - Objective / user outcome
 - Current scope
@@ -58,13 +73,12 @@ Before implementation, maintain the project's working truth:
 Rules:
 - New requests are deltas to the current approved product unless explicitly declared a redesign.
 - Do not silently drop earlier approved requirements.
-- Separate 'idea', 'approved requirement', 'in progress', 'deployed', and 'verified'.
+- Separate idea, approved requirement, in progress, final/locked, deployed, verified, and formally approved.
 - Do not mark work done just because code exists.
 
 ---
 
 ## 3. SA — System Analysis
-
 Before changing architecture or behavior:
 - Read README.md, AGENTS.md, PROJECT_STATE.md, relevant code and deployment configuration.
 - Identify current system architecture and data flow.
@@ -84,7 +98,6 @@ Required output before non-trivial work:
 ---
 
 ## 4. Requirement & Change Control
-
 Every meaningful change should be represented as a Delta Contract:
 
 ### Delta Contract
@@ -105,22 +118,25 @@ Rules:
 ---
 
 ## 5. Session Control & Recovery
-
 When starting or resuming after a session/time gap:
 
-1. Read PROJECT_STATE.md.
-2. Read CURRENT_APPROVED_VERSION and Golden Baseline.
-3. Check current repository head / relevant recent commit.
-4. Check production deployment/version if applicable.
-5. Compare Pending Change with deployed state.
-6. Read README.md and AGENTS.md.
-7. Only then resume work.
+1. Identify the exact project.
+2. Read project-local `PROJECT_STATE.md` first.
+3. Read CURRENT_APPROVED_VERSION / LOCKED_VERSION and GOLDEN_BASELINE.
+4. Read known remaining issues and Pending Change.
+5. Check current repository head / relevant recent commit.
+6. Check production deployment/version if applicable.
+7. Compare project state, repo and production.
+8. Read README.md and AGENTS.md.
+9. Only then resume work.
 
 Session Recovery must answer:
 - What project am I in?
-- What is the approved baseline?
+- What is the locked/approved baseline?
+- When was it locked?
+- What features define that baseline?
 - What is actually in production?
-- What changed since approval?
+- What changed since the lock?
 - What was pending when work stopped?
 - What is the next safe action?
 
@@ -129,17 +145,19 @@ Never reconstruct state from vague conversational memory when project state is a
 ---
 
 ## 6. Version Control
-
 Version identity must include:
 - Version label
 - Date
-- Exact time / timezone when relevant
-- Git commit SHA
+- Exact time and timezone
+- Git commit SHA when available
 - Deployment identifier / URL if applicable
 - Status
 - Test result
+- User lock/approval status
+- Known defects that do not invalidate the baseline
 
 Maintain these separately:
+- CURRENT_LOCKED_VERSION
 - CURRENT_APPROVED_VERSION
 - GOLDEN_BASELINE
 - LATEST_COMMIT
@@ -147,17 +165,18 @@ Maintain these separately:
 - EXPERIMENTAL_VERSION / branch when applicable
 
 Rules:
-- Latest != Approved.
+- Latest != Locked.
+- Locked != Formally Approved unless explicitly approved.
 - Deployed != Verified.
 - Verified != Approved unless approval is recorded.
 - Never silently replace the Golden Baseline with a newer rough version.
 - When the user references a time such as 'five minutes ago', retrieve the version from that time window before substituting any older version.
+- Every lock event must update `PROJECT_STATE.md` immediately.
 
 ---
 
 ## 7. Feature Manifest & Stable Core Protection
-
-Each approved version should have a Feature Manifest containing the important capabilities and UX decisions that must survive future changes.
+Each approved or locked version should have a Feature Manifest containing the important capabilities and UX decisions that must survive future changes.
 
 For every protected feature record:
 - Feature name
@@ -173,7 +192,6 @@ Rule: a new feature cannot silently delete or simplify an approved stable-core f
 ---
 
 ## 8. Execution Engine
-
 The implementation cycle is:
 
 UNDERSTAND → CHECK → FIX → TEST → DEPLOY → TEST PRODUCTION AGAIN → VERIFY DOCS → UPDATE STATE → REPORT
@@ -188,7 +206,6 @@ Execution rules:
 ---
 
 ## 9. QA & Regression Control
-
 Testing has two layers:
 
 ### Change-specific test
@@ -208,7 +225,6 @@ Never announce READY TO TEST if regression-critical behavior is known to be brok
 ---
 
 ## 10. Deployment, Documentation & Handoff
-
 After successful implementation:
 - Deploy if required.
 - Test production.
@@ -223,14 +239,15 @@ Status model:
 - 🟡 YELLOW — work/testing/deployment incomplete. User should not test yet.
 - 🔴 RED — blocked or failed critical test/deployment/data source.
 - ⚪ PAUSED — intentionally not active; state preserved.
+- 🔎 VERIFY — a version/source mapping exists but must be reconciled before new work.
 
 ---
 
 ## 11. Handoff Contract
-
 At the end of a work cycle record:
 - What changed
 - What did not change
+- Current Locked Version
 - Current Approved Version
 - Production Version
 - Test results
@@ -243,27 +260,27 @@ This contract allows a new session or another agent to continue safely.
 ---
 
 ## 12. Anti-patterns Project OS must prevent
-
 - Starting from an old version after switching sessions.
+- Asking the user to remember which version was correct when the project should already know.
 - Rebuilding a UI from scratch for a small change.
 - Losing features because only the latest request was remembered.
 - Saying 'done' after a commit without deployment verification.
 - Testing only the changed button and missing regressions elsewhere.
 - Treating production as current simply because a URL loads.
 - Mixing several projects' requirements into one project state.
+- Letting Portfolio PM override project-local state.
 - Requiring the user to repeatedly ask 'Is it ready?'.
 
 ---
 
 ## Default behavior when invoked
-
-1. Identify the project.
-2. Recover project state.
+1. Identify the project or portfolio intent.
+2. Recover project-local state using Canonical Truth Priority.
 3. Show a concise status summary.
 4. Convert the new request into a Delta Contract.
 5. Run SA before implementation.
 6. Execute the change.
 7. Run targeted + regression tests.
 8. Deploy and verify when required.
-9. Update version/state/docs.
+9. Update version/state/docs and Portfolio summary.
 10. Report traffic-light status and only say READY TO TEST when truly ready.

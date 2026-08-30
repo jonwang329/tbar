@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T02:24:15.932Z",
+  "updatedAt": "2026-08-30T02:35:08.036Z",
   "candidates": [
+    {
+      "id": "cand_32d652cca58f8f9ab36f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9722554?from=edn_newest_index",
+      "title": "習近平31日將會普丁 天然氣管道項目預計列入會談議題 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸國家主席習近平30日起赴吉爾吉斯首都比斯凱克出席上海合作組織峰會，期間將與俄羅斯總統普丁會面。俄羅斯總統助理烏沙科夫（Yuri Ushakov）近日表示，普丁將於31日與習近平會談，雙方將討論中俄天然氣合作及國際議題，包括規劃多年的「西伯利亞力量2號」天然氣管道項目，並可能討論是否敲定相關協議。",
+      "publishedAt": "2026-08-30T02:35:08.036Z",
+      "discoveredAt": "2026-08-30T02:35:08.036Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b5590cfa275c15976a18",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722546?from=edn_newest_index",
+      "title": "暴風雨襲賽普勒斯 3船撞礁石沉沒釀1死 | 國際焦點 | 國際 | 經濟日報",
+      "description": "賽普勒斯媒體Sigmalive報導，受風暴和惡劣海況影響，3艘船隻在賽普勒斯外海撞上礁石後沉沒，造成1人死亡、6人獲救",
+      "publishedAt": "2026-08-30T02:35:08.036Z",
+      "discoveredAt": "2026-08-30T02:35:08.036Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b5fac2d776b4263eca65",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722538?from=edn_newest_index",
-      "title": "以色列屯墾民再襲約旦河西岸村莊 尼坦雅胡罕見譴責 | 國際焦點 | 國際 | 經濟日報",
+      "title": "以色列屯墾民再襲約旦河西岸村莊 尼坦雅胡罕見譴責 2026-08-30 10:21",
       "description": "數十名以色列屯墾民今天攻擊約旦河西岸北部村莊庫斯拉，包圍1棟民宅並投擲石塊。當地緊張情勢延續近3週之際，以色列總理尼坦雅...",
       "publishedAt": "2026-08-30T02:24:15.932Z",
       "discoveredAt": "2026-08-30T02:24:15.932Z",
@@ -100,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722232?from=edn_hottest_index",
-      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 3205",
+      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 3272",
       "description": "美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「180度大轉彎」。",
       "publishedAt": "2026-08-30T02:13:30.176Z",
       "discoveredAt": "2026-08-30T02:13:30.176Z",
@@ -634,7 +694,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722125?from=edn_hottest_index",
-      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 3723",
+      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 3776",
       "description": "美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。",
       "publishedAt": "2026-08-29T23:32:53.414Z",
       "discoveredAt": "2026-08-29T23:32:53.414Z",
@@ -648,7 +708,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -694,7 +754,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9721810?from=edn_hottest_index",
-      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 3680",
+      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 3718",
       "description": "美國聯準會主席華許28日晚間於傑克森洞全球央行年會強硬表態對抗通膨，市場強烈感受鷹派訊號與升息預期，金價立即跳水，28日暴跌135美元至4,453美元。一連貫破4,580及4,500美元支撐區。整周下跌149美元約3.2%。",
       "publishedAt": "2026-08-29T22:45:02.898Z",
       "discoveredAt": "2026-08-29T22:45:02.898Z",
@@ -5321,66 +5381,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a605044752082884a60f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9721391?from=edn_newest_index",
-      "title": "國際論壇五席設備商僅一家台廠 光焱科技何以入列 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "隨著矽光子與共同封裝光學（CPO）逐步由研發走向量產，台灣相關供應鏈版圖也日趨成形。從晶圓製造、先進封裝到光學元件，國內均已有業者卡位；相較之下，位居量產關鍵環節的檢測與量測設備，目前仍以國際設備商為主。這項供應鏈結構，也反映在8月31日於台北漢來大飯店舉行的SEMICON Taiwan矽光子國際論壇。 該論壇為9月2日至4日SEMICON Taiwan 2026登場前的重要技術活動。SEMI矽光子產業聯盟由SEMI號召成立，台積電與日月光擔任倡議人，目前已匯聚逾150家產業夥伴；本屆論壇並由台積電先進封裝技術開發副總徐國晉與日月光研發中心副總Dr. C.P. Hung共同擔任主席。 主辦單位預估，今年SEMICON Taiwan將吸引逾1,300家展商參與；相較之下，矽光子國際論壇全日僅安排十餘場專題發表，講者須事前提交技術主題與簡報內容，經SEMI審核後始排入正式議程。 觀察今年論壇講者陣容，矽光子製造與檢測設備仍明顯由國際大廠主導。製程中的線上檢測與量測由美商Onto Innovation發表；晶圓、晶粒至模組的自動化電光測試由德商ficonTEC分享；日系愛德萬測試則聚焦CPO",
-      "publishedAt": "2026-08-29T09:04:12.626Z",
-      "discoveredAt": "2026-08-29T09:04:12.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74fc5c826c4646ea1536",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9720996?from=edn_hottest_index",
-      "title": "北市重大社會案件…10歲女童長期遭性傷害 蔡英文難過深夜發聲 5730",
-      "description": "台北市一名年僅10歲女童，其身心障礙的母親在家從事性交易，導致她長期被母親客人多次性猥褻，一度240天未被安置，甚至出現自殘行為。對此，前總統蔡英文28日深夜發聲，表示「心裡很難過」，一個才10歲的孩子甚至學會了「翻供」一詞，盼社會安全網持續檢討，把漏洞補起來。",
-      "publishedAt": "2026-08-29T09:04:12.626Z",
-      "discoveredAt": "2026-08-29T09:04:12.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

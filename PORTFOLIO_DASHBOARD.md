@@ -9,8 +9,9 @@ Each project owns its own `PROJECT_STATE.md`. The Portfolio PM reads only the su
 
 | Project | Repo / canonical source | Status | Current Approved Version | Production Version | Current Objective | Next Action | Risk / Blocker | Project State |
 |---|---|---|---|---|---|---|---|---|
-| TBAR | jonwang329/tbar | 🟡 YELLOW | Frozen V1 output structure | VERIFY | Integrate Project OS without changing product behavior | Finish docs linkage + verify state | Production mapping not explicit | `PROJECT_STATE.md` |
+| TBAR | jonwang329/tbar | 🟢 GREEN | Frozen V1 output structure | VERIFY | Project OS pilot integrated without changing product behavior | Map production version on next deployment cycle | Production mapping not explicit | `PROJECT_STATE.md` |
 | Taiwan MLB Tracker | jonwang329/taiwan-mlb-tracker- | ⚪ UNREGISTERED | Read project state before assuming | VERIFY | Register under Project OS | Create/verify `PROJECT_STATE.md` | Version/session drift historically high | pending |
+| Cisco Replacement | canonical source to register | ⚪ UNREGISTERED | Do not guess | VERIFY | Register current approved sales/solution design baseline | Identify canonical source, approved version, stable feature set, and current next step | Version/session continuity; complex multi-layer UX/content | pending |
 | Project Eddie | canonical source to register | ⚪ UNREGISTERED | Do not guess | VERIFY | Register stable approved build | Identify canonical source + state | Source/version continuity | pending |
 | Personal Brand – Jon Wang | canonical source to register | ⚪ UNREGISTERED | Do not guess | VERIFY | Register approved visual baseline | Identify canonical source + state | Source reconnection/version continuity | pending |
 

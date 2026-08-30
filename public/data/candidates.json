@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T08:24:48.691Z",
+  "updatedAt": "2026-08-30T08:35:27.932Z",
   "candidates": [
+    {
+      "id": "cand_5f791db7118670752346",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9723042?from=edn_newest_index",
+      "title": "泉州石化園區疑似化學洩漏 陸網友：喉嚨痛、呼吸不順 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "福建泉州泉港石化園區29日疑似發生化學物質洩漏，現場一度出現橙黃色霧氣，部分周邊民眾及園區工作人員反映聞到刺鼻異味，並稱出現喉嚨痛、呼吸不順等症狀。當地應急管理局則表示，事件屬小範圍洩漏，目前險情已獲控制，並建議居民不要靠近中心位置。截至目前，大陸官方尚未公布洩漏物質及事故原因等更多細節。",
+      "publishedAt": "2026-08-30T08:35:27.932Z",
+      "discoveredAt": "2026-08-30T08:35:27.932Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dc956aa9fcff7a2b5341",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9723040?from=edn_newest_index",
+      "title": "周末精選／台指期震盪轉守46K、台股後市怎麼走？法人曝六利多：有望直攻前高 | 市場焦點 | 證券 | 經濟日報",
+      "description": "擔心錯過重要新聞？經濟日報幫您精選周末結束前必看的內容。",
+      "publishedAt": "2026-08-30T08:35:27.932Z",
+      "discoveredAt": "2026-08-30T08:35:27.932Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_67ac9e6012003aef6e82",
       "sourceLastModified": null,
@@ -70,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5628/9722145?from=edn_hottest_index",
-      "title": "服務業失速 台灣經濟大警訊 3061",
+      "title": "服務業失速 台灣經濟大警訊 3075",
       "description": "台灣製造業與服務業的薪資結構，過去20年已出現明顯逆轉。20年前，服務業平均薪資仍高於製造業；到了2015年前後，兩者差距已大幅縮小，服務業原有的薪資優勢幾乎消失。此後製造業快速追趕並反超，尤其近十年在半導體、電子零組件及AI相關產業帶動下，差距進一步擴大。2025年製造業薪資已明顯高於服務業。",
       "publishedAt": "2026-08-30T08:14:11.041Z",
       "discoveredAt": "2026-08-30T08:14:11.041Z",
@@ -2585,7 +2645,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722232?from=edn_hottest_index",
-      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4514",
+      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4537",
       "description": "美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「180度大轉彎」。",
       "publishedAt": "2026-08-30T02:13:30.176Z",
       "discoveredAt": "2026-08-30T02:13:30.176Z",
@@ -3119,7 +3179,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722125?from=edn_hottest_index",
-      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 4936",
+      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 4961",
       "description": "美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。",
       "publishedAt": "2026-08-29T23:32:53.414Z",
       "discoveredAt": "2026-08-29T23:32:53.414Z",
@@ -3209,7 +3269,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721844?from=edn_hottest_index",
-      "title": "下周開盤前 五件值得回顧的國際大事 3131",
+      "title": "下周開盤前 五件值得回顧的國際大事 3143",
       "description": "聯準會（Fed）主席華許在傑克森洞全球央行年會強硬表態，讓市場相信他真有決心藉升息來壓制通膨，也洗刷7月記者會立場含糊的印象。但這番話也讓Fed在9月更難不升息：除非接下來通膨或就業數據明顯轉弱，Fed若按兵不動，反而可能再度損害公信力。以下是下周開盤前，最值得回顧的五件國際要聞：",
       "publishedAt": "2026-08-29T22:23:44.081Z",
       "discoveredAt": "2026-08-29T22:23:44.081Z",
@@ -5327,66 +5387,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b2c9f722be9262171512",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9721970?from=edn_newest_index",
-      "title": "國泰新興市場 搭 AI 熱潮 2026-08-29 23:00",
-      "description": "國泰新興市場（00736）周漲0.9%，經理人陳世偉指出，全球AI投資熱潮由美國向新興市場擴散，輝達最新財報持續釋出強大AI需求訊號，帶動亞洲科技產業投資題材延續。",
-      "publishedAt": "2026-08-29T15:05:31.810Z",
-      "discoveredAt": "2026-08-29T15:05:31.810Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_146f16fbeb5187bd5dd7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9721976?from=edn_newest_index",
-      "title": "輝達財報加持 美股漲多於跌 | 基金天地 | 理財 | 經濟日報",
-      "description": "AI指標大廠輝達財報再次繳出強勁業績且提供樂觀財測，抵銷遙遙無期的美伊和平協議，激勵美股四大指數齊揚，連帶盤面上美股相關ETF漲多於跌。統計至28日，上周表現前三強的美股ETF依序為國泰網路資安3.8%、主動摩根美國科技2.6%、國泰美國道瓊正2的2.3%。",
-      "publishedAt": "2026-08-29T15:05:31.810Z",
-      "discoveredAt": "2026-08-29T15:05:31.810Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

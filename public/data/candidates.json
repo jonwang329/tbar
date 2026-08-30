@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-30T06:07:35.788Z",
+  "updatedAt": "2026-08-30T06:22:57.148Z",
   "candidates": [
+    {
+      "id": "cand_bda1489ef96d1972c259",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9722927?from=edn_newest_index",
+      "title": "西藏災區出現新堰塞湖 前線救災人員緊急轉移地點 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "尼泊爾與西藏邊境土石流災區地質仍脆弱。綜合官媒央視新聞報導，災區持續有零星降雨，先前堰塞湖下方又發生山崩，正在形成新的堰...",
+      "publishedAt": "2026-08-30T06:22:57.148Z",
+      "discoveredAt": "2026-08-30T06:22:57.148Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_654ffbfce9dc579faab0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9722926?from=edn_newest_index",
+      "title": "南韓內閣改組 總統李在明提名財政、國防等六部長 | 國際焦點 | 國際 | 經濟日報",
+      "description": "南韓當局今天宣布內閣大幅改組，總統李在明提名財政經濟部第一次官李炯日（Lee Hyoung-il）出任副總理兼財政經濟部...",
+      "publishedAt": "2026-08-30T06:22:57.148Z",
+      "discoveredAt": "2026-08-30T06:22:57.148Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5ce27b91d59c34450dfb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9722666?from=edn_newest_index",
+      "title": "孩子一到夏天就吃不下？不只天氣熱 3大原因恐讓胃口愈來愈差 | 生活 | 要聞 | 經濟日報",
+      "description": "明天就是開學日，許多兒童恐出現壓力大、食慾不振等症狀，尤其夏季炎熱潮濕，氣溫近年來呈現上升趨勢，有如在東南亞國家，熱到讓人忍不住喝冰飲解暑，對兒童腸胃道更是一大挑戰。睿鳴堂中醫診所院長吳宛容說，兒童正在發育、代謝快，比成人更容易在短時間內因腹瀉、嘔吐或高燒，而喪失大量水分與電解質，若出現精神差、嗜睡、尿減、口唇眼乾無淚、或呼吸心跳快脫水症狀，需立即就醫。",
+      "publishedAt": "2026-08-30T06:22:57.148Z",
+      "discoveredAt": "2026-08-30T06:22:57.148Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c839f8343841e1fab378",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9722717?from=edn_newest_index",
+      "title": "圓圓迎22歲生日！保育員做「蔬果列車」蛋糕慶生 高齡照護成挑戰 | 生活 | 要聞 | 經濟日報",
+      "description": "大貓熊「圓圓」今天迎來22歲生日，動物園今天準備以竹桿、甘蔗及多種新鮮蔬果組合成「蔬果列車」為慶祝生日，也希望透過不同食物、造型及取食方式的變化，讓以邁入銀齡的圓圓可以透過環境、感官、食物及活動方式的變化，保有選擇、探索及表現自然行為的機會，也能觀察高齡動物生活狀況。",
+      "publishedAt": "2026-08-30T06:22:57.148Z",
+      "discoveredAt": "2026-08-30T06:22:57.148Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3e34d6c368675c037744",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9722767?from=edn_newest_index",
+      "title": "鎖定秋冬平日旅遊市場 台南住宿點數加碼 最高折2000元 | 生活 | 要聞 | 經濟日報",
+      "description": "交通部觀光署推出國旅補助即將上路，可望帶動平日旅遊市場，台南市觀旅局今宣布，「旅遊台南 住宿點數」第二階段將規畫發放總額100萬點住宿點數，每點價值1元，9月1日同步登場，部分區域旅宿每房每晚最高可折1000點，每人最高累積2000點，搶攻秋冬平日旅遊市場。",
+      "publishedAt": "2026-08-30T06:22:57.148Z",
+      "discoveredAt": "2026-08-30T06:22:57.148Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1f8ceb34a3b3f3746124",
       "sourceLastModified": null,
@@ -1445,7 +1595,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722232?from=edn_hottest_index",
-      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4140",
+      "title": "華許演說最大意外是什麼？180度大轉彎且補給市場「前瞻指引」 4189",
       "description": "美國聯準會（Fed）主席華許28日在央行年會發表「鷹派」演說後，美國2年期公債殖利率應聲衝高，科技股、金價和比特幣全倒。分析師表示，華許的發言令人訝異，因為與7月Fed決策會後發言相比，簡直是「180度大轉彎」。",
       "publishedAt": "2026-08-30T02:13:30.176Z",
       "discoveredAt": "2026-08-30T02:13:30.176Z",
@@ -1979,7 +2129,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9722125?from=edn_hottest_index",
-      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 4472",
+      "title": "9月 Fed 升息機率將近60%？伊爾艾朗舉3理由：市場高估了 4541",
       "description": "美國聯準會（Fed）主席華許周五在傑克森洞央行年會發表演說後，美債殖利率曲線從陡峭轉為扁平，顯示交易員相信Fed將開始採取行動抑制通膨，9月升息機率逼近60%。但經濟學家認為，市場高估了。",
       "publishedAt": "2026-08-29T23:32:53.414Z",
       "discoveredAt": "2026-08-29T23:32:53.414Z",
@@ -2039,7 +2189,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9721810?from=edn_hottest_index",
-      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 4401",
+      "title": "華許放鷹金價跳水 國銀：這些買家才是堅實買盤 短線拉回可這樣做 4457",
       "description": "美國聯準會主席華許28日晚間於傑克森洞全球央行年會強硬表態對抗通膨，市場強烈感受鷹派訊號與升息預期，金價立即跳水，28日暴跌135美元至4,453美元。一連貫破4,580及4,500美元支撐區。整周下跌149美元約3.2%。",
       "publishedAt": "2026-08-29T22:45:02.898Z",
       "discoveredAt": "2026-08-29T22:45:02.898Z",
@@ -2069,7 +2219,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9721844?from=edn_hottest_index",
-      "title": "下周開盤前 五件值得回顧的國際大事 3014",
+      "title": "下周開盤前 五件值得回顧的國際大事 3029",
       "description": "聯準會（Fed）主席華許在傑克森洞全球央行年會強硬表態，讓市場相信他真有決心藉升息來壓制通膨，也洗刷7月記者會立場含糊的印象。但這番話也讓Fed在9月更難不升息：除非接下來通膨或就業數據明顯轉弱，Fed若按兵不動，反而可能再度損害公信力。以下是下周開盤前，最值得回顧的五件國際要聞：",
       "publishedAt": "2026-08-29T22:23:44.081Z",
       "discoveredAt": "2026-08-29T22:23:44.081Z",
@@ -5223,156 +5373,6 @@
       "description": "泰國蘇梅島2026年8月29日 /美通社/ -- 8月26日，全球精緻「一價全包」度假先鋒品牌Club Med地中海俱樂部，與泰國尚泰集團資本（Central Group Capital）管理層，在泰國蘇梅島北岸項目現場，共同為Club Med Exclusive Collection Koh Samui度假村，舉行奠基儀式。 8月26日，位於泰國蘇梅島的Club Med Exclusive Collection Koh Samui度假村，正式舉行奠基儀式。 泰國尚泰集團資本（Central Group Capital）與Club Med地中海俱樂部代表出席Club Med Exclusive Collection Koh Samui度假村奠基儀式 復星旅文集團聯席總裁、地中海俱樂部副首席執行官兼首席增長官徐秉璸、東亞南亞及太平洋地區（ESAP）首席執行官Rachael Harding等出席當天活動。此次奠基，標誌著這一備受矚目的奢華度假項目，正式進入施工階段，也標誌著地中海俱樂部正以輕資產模式，加速全球奢華度假版圖的持續擴張。 (從左至右)Jason Dunn、泰國尚泰集團資本首席投",
       "publishedAt": "2026-08-29T13:03:35.497Z",
       "discoveredAt": "2026-08-29T13:03:35.497Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ecf973f7b103f613a817",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9722063?from=edn_newest_index",
-      "title": "今彩539第115210期開獎 2026-08-29 20:54",
-      "description": "今彩539第115210期開獎，中獎號碼33、06、03、17、23。3星彩中獎號碼870，4星彩中獎號碼1280",
-      "publishedAt": "2026-08-29T13:03:35.497Z",
-      "discoveredAt": "2026-08-29T13:03:35.497Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ebc67a4a0bd97666a757",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9713841",
-      "title": "20:40 一顆小鋼珠撐起半導體、機器人！天工精密把精度拉高20倍 下一戰挑戰50倍成本陶瓷珠",
-      "description": "馬堅勇的傳奇戰績，是2016年臨危受命，接下背負百億債務的光洋科。他當時頂著巨大壓力，花7個月重編30多本財報、協調債權銀行讓股票復牌，並帶領公司回歸材料本業，成功打入台積電先進製程，一年內讓光洋科奇蹟般地轉虧為盈。 2022年底離開光洋科後，馬堅勇在一場中小企業活動中，結識了林筱婷。 天工正面臨轉型關鍵期，需要馬堅勇的材料冶金背景和半導體資源；而對他來說，天工的滾珠微製造能力，讓他看見升級的潛力，也契合他回饋產業的初衷。 「我過去做精緻冶金，希望我的材料背景能提供幫助，剛好天工的滾動體與材料高度相關。另外非常重要的是，我希望能看到台灣二代的順利傳承，」馬堅勇坦言。 經過近4年的深度互動，今年馬堅勇正式出任天工精密新任董事長。",
-      "publishedAt": "2026-08-29T12:52:49.345Z",
-      "discoveredAt": "2026-08-29T12:52:49.345Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f47389a024c5f434bfa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9722058?from=edn_newest_index",
-      "title": "尼泊爾洪災 外交部：已向尼國表達願助救災和重建 2026-08-29 20:45",
-      "description": "尼泊爾與中國接壤的喜馬拉雅邊境地區26日發生洪災，外交部今天表示，目前暫未接獲台灣民眾受洪災影響或尼方向台灣政府請援資訊...",
-      "publishedAt": "2026-08-29T12:52:49.345Z",
-      "discoveredAt": "2026-08-29T12:52:49.345Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d680ed2e4f5f92ae774f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722054?from=edn_newest_index",
-      "title": "尼日首都激烈交火 叛變軍人試圖突破總統府安全防線 2026-08-29 20:36",
-      "description": "尼日首都尼阿美多個地區今天清晨傳出持續槍響和爆炸聲，包括在機場和總統府附近。4名消息人士表示，這是叛變士兵發動的攻擊",
-      "publishedAt": "2026-08-29T12:37:21.973Z",
-      "discoveredAt": "2026-08-29T12:37:21.973Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4cea662b83f253f4c92f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9722050?from=edn_newest_index",
-      "title": "尼泊爾洪災震驚世界 法國專家警告阿爾卑斯山冰川風險 2026-08-29 20:30",
-      "description": "尼泊爾與中國西藏邊境爆發大規模土石流災害，初判可能是冰川崩斷所致。法國科學家警告，氣候暖化加速冰川結構變化，阿爾卑斯山區...",
-      "publishedAt": "2026-08-29T12:37:21.973Z",
-      "discoveredAt": "2026-08-29T12:37:21.973Z",
       "topics": [
         "Taiwan business",
         "investment",

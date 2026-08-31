@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T05:47:08.841Z",
+  "updatedAt": "2026-08-31T06:03:29.915Z",
   "candidates": [
+    {
+      "id": "cand_419eefc436dcbb2dfe1f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9724607?from=edn_maintab_index",
+      "title": "MSCI 季度調整生效 台股收跌202點 8月強彈3,008點 台積電收低15元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股31日收盤下跌202.98點，跌幅0.44%，終場以46,128.47點作收，成交量1兆2,017億元；台積電（2330）收盤價2,405元，下跌15元，跌幅0.62%。",
+      "publishedAt": "2026-08-31T06:03:29.915Z",
+      "discoveredAt": "2026-08-31T06:03:29.915Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d675f8a24567b6667c35",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9724660?from=edn_newest_index",
+      "title": "第30屆魯台會開幕 陸國台辦主任宋濤：加強兩岸經濟合作才是正道 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸國台辦主任宋濤今天上午在第30屆魯台會開幕式致詞表示，加強兩岸經濟交流合作才是「人間正道」。大陸有誠意與台胞分享大陸發展機遇與成果，開創兩岸經濟合作新局面，將幫助台企更好地開拓內需市場，並鼓勵兩岸企業共同培育競爭優勢。",
+      "publishedAt": "2026-08-31T06:03:29.915Z",
+      "discoveredAt": "2026-08-31T06:03:29.915Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fef2992b90a2ce7e8a91",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9724659?from=edn_newest_index",
+      "title": "科技主權落地 數發部林宜敬：主權AI、低軌衛星是兩大關鍵 | 產業熱點 | 產業 | 經濟日報",
+      "description": "2026科技主權高峰論壇今（31）日舉行，數發部長林宜敬指出，「科技主權不是什麼都自己做，而是把最關鍵的幾項能力牢牢掌握在自己手裡。」對台灣而言，仍有若干攸關國家自主與韌性的關鍵能力必須掌握，其中，與數發部密切相關的兩項核心，就是「主權 AI」與「低軌衛星通訊」。",
+      "publishedAt": "2026-08-31T06:03:29.915Z",
+      "discoveredAt": "2026-08-31T06:03:29.915Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1ec8eb5b03b56eea8fef",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9724656?from=edn_newest_index",
+      "title": "民眾購屋信心回溫 永慶：8月交易量月增6%、年增17% | 房市話題 | 房市 | 經濟日報",
+      "description": "國內景氣燈號連8紅、出口連33紅，國內經濟成長動能強勁，主計總處上修今年經濟成長率達11.05%，飆出39年新高紀錄，讓民眾購屋信心回穩，但暑假出遊、時序進入民俗月以及南部大豪雨干擾等因素影響交易表現，讓8月全國交易量較7月小幅增長。",
+      "publishedAt": "2026-08-31T06:03:29.915Z",
+      "discoveredAt": "2026-08-31T06:03:29.915Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_419cdbeeb04ac73b8994",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9724653?from=edn_newest_index",
+      "title": "台股跌202.98點 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台北股市今天開低震盪，收盤跌202.98點，為46128.47點，跌幅0.44%，成交金額新台幣1兆2017.92億元",
+      "publishedAt": "2026-08-31T06:03:29.915Z",
+      "discoveredAt": "2026-08-31T06:03:29.915Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_07cf756fca0c5467b3d9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9724650?from=edn_newest_index",
+      "title": "尼泊爾洪災逾900死 總理：面臨難以想像災難 | 國際焦點 | 國際 | 經濟日報",
+      "description": "尼泊爾總理夏哈（Balendra Shah）表示，尼泊爾正面臨一場「難以想像且令人心碎」的災難，當局正努力評估這場毀滅性...",
+      "publishedAt": "2026-08-31T06:03:29.915Z",
+      "discoveredAt": "2026-08-31T06:03:29.915Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5fd2f85d44e3d28a21b8",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9724607",
-      "title": "MSCI 季度調整生效 台股收跌202點 8月強彈3,008點 台積電收低15元 | 市場焦點 | 證券 | 經濟日報",
+      "title": "13:46 MSCI 季度調整生效 台股收跌202點 8月強彈3,008點 台積電收低15元",
       "description": "台股31日收盤下跌202.98點，跌幅0.44%，終場以46,128.47點作收，成交量1兆2,017億元；台積電（2330）收盤價2,405元，下跌15元，跌幅0.62%。",
       "publishedAt": "2026-08-31T05:47:08.841Z",
       "discoveredAt": "2026-08-31T05:47:08.841Z",
@@ -1865,7 +2045,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723953?from=edn_hottest_index",
-      "title": "欣興發出最新聲明 澄清爭議產品非載板 4758",
+      "title": "欣興發出最新聲明 澄清爭議產品非載板 4872",
       "description": "ABF載板大廠欣興（3037）遭檢調搜索事件持續發酵，公司稍早發出最新聲明強調，本次產地標示爭議產品主要為PCB產品、並非載板。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -4924,7 +5104,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 5446",
+      "title": "本周開盤前 五件國際事不可不知 5492",
       "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-08-31T00:22:51.938Z",
       "discoveredAt": "2026-08-31T00:22:51.938Z",
@@ -5026,7 +5206,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5054,7 +5234,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5082,7 +5262,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5188,7 +5368,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 5103",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 5133",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -5202,190 +5382,10 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_744bad042e5e6f474afa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9723769?from=edn_newest_index",
-      "title": "低壓帶影響台東留意豪雨 高屏花易有局部大雨 2026-08-31 07:45",
-      "description": "中央氣象署發布豪雨特報，低壓帶影響，易有短延時強降雨，今天台東縣有局部大雨或豪雨，高雄、屏東、花蓮地區有局部大雨發生的機...",
-      "publishedAt": "2026-08-30T23:45:29.045Z",
-      "discoveredAt": "2026-08-30T23:45:29.045Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8918bf25f261ae2e5313",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723767?from=edn_newest_index",
-      "title": "美軍再炸伊朗 因革命衛隊欲重布水雷 油價漲逾2% 升破90美元 2026-08-31 07:41",
-      "description": "美國與伊朗在荷莫茲海峽短暫降溫數周後，軍事衝突再度升高。美軍周日空襲伊朗革命衛隊在拉拉克島（Larak Island）上的兩座發射器，理由是伊方準備將水雷射入海峽，伊朗隨即揚言報復。這場攻擊顯示，川普政府一面加強經濟制裁，逼迫伊朗重返談判桌，一面仍動用武力維持航道通行。油價因供應風險再起而走高。",
-      "publishedAt": "2026-08-30T23:45:29.045Z",
-      "discoveredAt": "2026-08-30T23:45:29.045Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_44883df9f0b02c97d27f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723763?from=edn_newest_index",
-      "title": "德國推戰後最大情報改革 強化主動反制混合戰威脅 2026-08-31 07:36",
-      "description": "面對基礎設施破壞、網路攻擊等混合威脅增加，德國政府正推動戰後最大規模情報制度改革，過去以情蒐為核心任務的情報機關，未來在...",
-      "publishedAt": "2026-08-30T23:45:29.045Z",
-      "discoveredAt": "2026-08-30T23:45:29.045Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3f28956bc73d83c74d01",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723758?from=edn_newest_index",
-      "title": "華許點燃9月升息押注 債券投資人仍不買帳 2026-08-31 07:27",
-      "description": "聯準會（Fed）主席華許重申抗通膨決心，市場把9月升息機率推高至約60%，但債券市場仍有人不買帳。他們擔心，華許若在通膨居高不下之際再度按兵不動，不只會重創Fed公信力，還會推升長天期美債殖利率。",
-      "publishedAt": "2026-08-30T23:34:47.036Z",
-      "discoveredAt": "2026-08-30T23:34:47.036Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e4ed25b18889ec4a1a3b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723740",
-      "title": "07:15 本周開盤前 五件國際事不可不知",
-      "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
-      "publishedAt": "2026-08-30T23:23:51.411Z",
-      "discoveredAt": "2026-08-30T23:23:51.411Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fa3a6710be43f0614187",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9719347?from=edn_newest_index",
-      "title": "從支付到控管一站到位 玉山全球企業卡 G ePay 解決企業三大難題 2026-08-31 07:00",
-      "description": "面對全球經濟波動、競爭加劇與營運環境快速變化，企業在追求成長的同時，更重視成本控管與營運效率。尤其費用管理若缺乏即時性與透明度，容易造成報帳作業負擔、管理落差與交易安全風險。",
-      "publishedAt": "2026-08-30T23:02:40.949Z",
-      "discoveredAt": "2026-08-30T23:02:40.949Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

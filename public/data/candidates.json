@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T05:25:56.899Z",
+  "updatedAt": "2026-08-31T05:36:32.422Z",
   "candidates": [
+    {
+      "id": "cand_7e062c4039138bf2a62f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9724304",
+      "title": "庫克交棒1／蘋果換帥 硬體重返蘋果核心 力拚再掀革命 | 專題報導 | 專題 | 經濟日報",
+      "description": "蘋果執行長庫克（Tim Cook）9月1日起交棒給硬體工程資深副總裁特納斯（John Ternus），結束15年來的舵手職務。庫克一路以自己的路線，走出已故共同創辦人賈伯斯的陰影，以「軟實力」讓蘋果蛻變為「獲利巨獸」，卻也留下了人工智慧（AI）發展路線的難題，給了特納斯重拾產品設計魔力的壓力。",
+      "publishedAt": "2026-08-31T05:36:32.422Z",
+      "discoveredAt": "2026-08-31T05:36:32.422Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_50f7188d73102b1bb187",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9724587?from=edn_newest_index",
+      "title": "桓鼎樂觀後市營運 預期第3季出貨將優於第2季 | 產業熱點 | 產業 | 經濟日報",
+      "description": "桓鼎-KY（5543）（5543 ）今年第2季受惠集團核心持續營運事業穩健發展，加上處分中國內銷金屬建材業務之業外利益挹注，帶動稅後淨利歸屬母公司業主達1.1億元，每股盈餘2.36元，較去年同期轉虧為盈，單季獲利更寫下歷史新高，展望後市，桓鼎持審慎樂觀看法，觀察目前整體在手訂單，預期第3季整體出貨規模有機會較第2季成長。",
+      "publishedAt": "2026-08-31T05:36:32.422Z",
+      "discoveredAt": "2026-08-31T05:36:32.422Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7ce2d610724c634ea8e8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9724586?from=edn_newest_index",
+      "title": "文總「Taiwan Day」9月波蘭登場 蕭美琴期許：零距離感受最真實台灣 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "響應外交部「台灣文化在歐洲2026」及文化部「歐洲台灣文化年」，文化總會將於9月11、12日前進波蘭舉辦「Taiwan Day」系列活動，8月31日舉辦行前記者會。文總副會長-副總統蕭美琴及主要贊助單位兆豐銀行副總經理陳建中等貴賓到場，為即將啟程的台灣文化隊伍暖身並獻上祝福。",
+      "publishedAt": "2026-08-31T05:36:32.422Z",
+      "discoveredAt": "2026-08-31T05:36:32.422Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_475bb449aa68997b096c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9724581?from=edn_newest_index",
+      "title": "台股一度跌破五日線 個股成交前五大四檔 ETF、這檔衝第一 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股31日開低，一度大跌881點並跌破五日線，投資人勇於搶進ETF。盤中成交量前五大有四檔ETF，包括主動中信台灣收益（00406A）逾42萬張排名第一，主動統一台股增長（00981A）逾22萬張排名第三，群益臺灣加權正2（00685L）逾21萬張排名第一，主動統一升級50（00403A）逾20萬張排名第五。其他個股是群創（3481）逾23萬張排名第二。",
+      "publishedAt": "2026-08-31T05:36:32.422Z",
+      "discoveredAt": "2026-08-31T05:36:32.422Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ed56de61332bb7bb371c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9724579?from=edn_newest_index",
+      "title": "SB Energy傳祭55億美元權證拉攏OpenAI 尚未營運已握4,000億美元訂單 | 國際焦點 | 國際 | 經濟日報",
+      "description": "軟銀支持的SB Energy為爭取OpenAI進駐資料中心，在上市前向OpenAI發行估值55億美元的認股權證，也凸顯AI業者相互投資、採購及租用算力的緊密關係。",
+      "publishedAt": "2026-08-31T05:36:32.422Z",
+      "discoveredAt": "2026-08-31T05:36:32.422Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2e12b3aeca0f20c57b94",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9724578?from=edn_newest_index",
+      "title": "空軍強弓飛彈預算公開 360億構建中層防空火網 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "116年度國防預算書今天送抵立法院，空軍強弓飛彈系統從機密預算轉為公開，編列115年至121年、360億元的持續預算，以...",
+      "publishedAt": "2026-08-31T05:36:32.422Z",
+      "discoveredAt": "2026-08-31T05:36:32.422Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c09568aa18c874289a21",
       "sourceLastModified": null,
@@ -1505,7 +1685,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723953?from=edn_hottest_index",
-      "title": "欣興發出最新聲明 澄清爭議產品非載板 4657",
+      "title": "欣興發出最新聲明 澄清爭議產品非載板 4699",
       "description": "ABF載板大廠欣興（3037）遭檢調搜索事件持續發酵，公司稍早發出最新聲明強調，本次產地標示爭議產品主要為PCB產品、並非載板。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -4564,7 +4744,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 5394",
+      "title": "本周開盤前 五件國際事不可不知 5411",
       "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-08-31T00:22:51.938Z",
       "discoveredAt": "2026-08-31T00:22:51.938Z",
@@ -4828,7 +5008,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 5070",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 5080",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -5098,7 +5278,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 10189",
+      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 10258",
       "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
       "publishedAt": "2026-08-30T22:47:32.575Z",
       "discoveredAt": "2026-08-30T22:47:32.575Z",
@@ -5206,186 +5386,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0397b3c2e5d064b19323",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723692?from=edn_newest_index",
-      "title": "挪威王室：已故國王哈拉德葬禮9/9舉行 2026-08-31 04:12",
-      "description": "挪威王室今天宣布，已故國王哈拉德五世的葬禮將於9月9日舉行",
-      "publishedAt": "2026-08-30T20:14:13.078Z",
-      "discoveredAt": "2026-08-30T20:14:13.078Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d22744150c4b5f76ae9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723529?from=edn_maintab_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電（2330）8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動...",
-      "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
-      "publishedAt": "2026-08-30T19:16:17.892Z",
-      "discoveredAt": "2026-08-30T19:16:17.892Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6ca053bdb7663b01c510",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9723531?from=edn_maintab_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 輝達（NVIDIA）攜手聯發科（2454）開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩（2...",
-      "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
-      "publishedAt": "2026-08-30T19:16:17.892Z",
-      "discoveredAt": "2026-08-30T19:16:17.892Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0eb70d32d0c960e2a91e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723536?from=edn_maintab_index",
-      "title": "WSJ：因應對陸貿易逆差擴大 歐美傳醞釀施壓人民幣升值 20國集團（G20）財長與央行行長會議將於當地時間8月31日至9月1日在美國北卡羅來納州阿什維爾舉行，華爾街日報報導，面對中國大陸貿易順差持續擴大，西方國家或藉此次會議開啟多邊協商與討論，醞釀聯手施...",
-      "description": "20國集團（G20）財長與央行行長會議將於當地時間8月31日至9月1日在美國北卡羅來納州阿什維爾舉行，華爾街日報報導，面對中國大陸貿易順差持續擴大，西方國家或藉此次會議開啟多邊協商與討論，醞釀聯手施壓推升人民幣匯價，重演1985年「廣場協議」（Plaza Accord）。",
-      "publishedAt": "2026-08-30T19:16:17.892Z",
-      "discoveredAt": "2026-08-30T19:16:17.892Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eacede8a12ae5a28f8b8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9723487?from=edn_maintab_index",
-      "title": "國銀富豪財管迎3兆元時代 客戶數挑戰3萬戶 高雄專區扮加速器 國銀高資產財管「3兆元時代」要來了。金管會統計，7月底23家國銀高資產財管規模（AUM）達2兆9,391億元，最快8月跨越3兆元；客戶數也可望同步挑戰3萬戶，迎來「3兆元、3萬戶」雙里程碑，人、財全...",
-      "description": "國銀高資產財管「3兆元時代」要來了。金管會統計，7月底23家國銀高資產財管規模（AUM）達2兆9,391億元，最快8月跨越3兆元；客戶數也可望同步挑戰3萬戶，迎來「3兆元、3萬戶」雙里程碑，人、財全到位。",
-      "publishedAt": "2026-08-30T19:16:17.892Z",
-      "discoveredAt": "2026-08-30T19:16:17.892Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fbce05324ecb7e9ef3ae",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9723489?from=edn_maintab_index",
-      "title": "政院本周拍板 八大項追加預算估逾3,000億 無人機採購待盤點 行政院預計本周四（3日）院會提出今年度中央政府追加預算案，包含因應中東情勢物價平抑措施、公務人員專業及主管加給、六大社福津貼加碼等八大項，整體追加預算規模仍在最終確認，外界估將超過3,000億元。 ...",
-      "description": "行政院預計本周四（3日）院會提出今年度中央政府追加預算案，包含因應中東情勢物價平抑措施、公務人員專業及主管加給、六大社福津貼加碼等八大項，整體追加預算規模仍在最終確認，外界估將超過3,000億元。",
-      "publishedAt": "2026-08-30T19:16:17.892Z",
-      "discoveredAt": "2026-08-30T19:16:17.892Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

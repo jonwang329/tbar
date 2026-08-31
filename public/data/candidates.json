@@ -1,7 +1,97 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T00:54:59.100Z",
+  "updatedAt": "2026-08-31T01:05:39.780Z",
   "candidates": [
+    {
+      "id": "cand_2e07a2d482b488f9e070",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723847?from=edn_newest_index",
+      "title": "太平洋島國論壇登場 林佳龍受矚、多國領袖缺席 | 國際焦點 | 國際 | 經濟日報",
+      "description": "太平洋島國領袖今天陸續抵達帛琉，準備出席年度論壇，但多名政府首長缺席，為這場原本意在展現區域團結的峰會蒙上陰影。外交部長...",
+      "publishedAt": "2026-08-31T01:05:39.780Z",
+      "discoveredAt": "2026-08-31T01:05:39.780Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b68a68a3889e2c1cf329",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5635/9719506?from=edn_newest_index",
+      "title": "遺產分割律師推薦｜謙聖國際法律事務所解析繼承分配、家族爭議與刑事風險 | 熱門亮點 | 商情 | 經濟日報",
+      "description": "親人離世後，家屬除了面對悲痛，也常須處理遺產繼承、財產分配與不動產登記等問題。 看似單純的家務事，若繼承人之間缺乏共識，可能從遺產分割協議演變成訴訟，甚至衍生侵占、偽造文書、詐欺等刑事爭議。謙聖國際法律事務所提醒，遺產分割不只是「財產怎麼分」，更涉及法律程序、證據保存、稅務申報與家族溝通，若處理不慎，容易讓家庭關 係與個人權益同時受損。",
+      "publishedAt": "2026-08-31T01:05:39.780Z",
+      "discoveredAt": "2026-08-31T01:05:39.780Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_adb5498543b009d4ec6e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9723841?from=edn_newest_index",
+      "title": "AI 沒吃掉軟體！Salesforce 領漲 回補買盤助攻 軟體股反彈料延至10月 | 美股動態 | 國際 | 經濟日報",
+      "description": "過去一年，市場擔憂AI將取代軟體、削弱企業訂閱需求，軟體股因而備受壓抑。但隨著Salesforce等龍頭業者繳出亮眼財報，悲觀論調開始鬆動。MarketWatch報導，iShares軟體ETF今年來績效在上周由負轉正，顯示「AI將吃掉軟體」的說法未必成立，這波「史詩級反彈」甚至可能延續至10月。",
+      "publishedAt": "2026-08-31T01:05:39.780Z",
+      "discoveredAt": "2026-08-31T01:05:39.780Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_3de9023a4e9c6a14f9c6",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723414",
-      "title": "蘋果庫克將卸任 CEO 曾馨瑩、郭台銘飛加州赴宴 | 產業熱點 | 產業 | 經濟日報",
+      "title": "08:50 蘋果庫克將卸任 CEO 曾馨瑩、郭台銘飛加州赴宴",
       "description": "鴻海（2317）集團創辦人郭台銘與夫人曾馨瑩參加蘋果執行長庫克（Tim Cook）在Apple Park的晚宴。曾馨瑩指出，十八年前我們結婚時，很榮幸Cook親自來到台灣參加我們的婚禮。十八年後，在他即將退休之際，我們也特別飛到美國加州參加他在Apple Park的晚宴。",
       "publishedAt": "2026-08-31T00:54:59.100Z",
       "discoveredAt": "2026-08-31T00:54:59.100Z",
@@ -40,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9723831?from=edn_newest_index",
-      "title": "一見雙雕藝術季落幕 觀光署：串聯鹽田文化帶動雲嘉南觀光商機 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "一見雙雕藝術季落幕 觀光署：串聯鹽田文化帶動雲嘉南觀光商機 2026-08-31 08:52",
       "description": "交通部觀光署署長陳玉秀日前前往雲嘉南濱海國家風景區，實地走訪七股鹽山及北門井仔腳瓦盤鹽田，了解「一見雙雕藝術季」推動情形。觀光署表示，深耕在地多年的一見雙雕藝術季，今年進一步導入在地共創，從傳統觀賞型展覽轉型為參與型地方體驗，並入選「2026－2027臺灣觀光雙年曆」全國性活動，成為雲嘉南重要觀光品牌。",
       "publishedAt": "2026-08-31T00:54:59.100Z",
       "discoveredAt": "2026-08-31T00:54:59.100Z",
@@ -70,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9723829?from=edn_newest_index",
-      "title": "欣興遭調查非 ABF 美系大行最新報告：重申正向 | 集中市場 | 證券 | 經濟日報",
+      "title": "欣興遭調查非 ABF 美系大行最新報告：重申正向 2026-08-31 08:51",
       "description": "欣興上周五（28日）遭檢調搜索，將針對妨害農工商罪中產地標示有爭議進行調查，31日掛單賣壓沈重；美系大行最新報告重申正向。",
       "publishedAt": "2026-08-31T00:54:59.100Z",
       "discoveredAt": "2026-08-31T00:54:59.100Z",
@@ -460,7 +550,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 3514",
+      "title": "本周開盤前 五件國際事不可不知 3753",
       "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-08-31T00:22:51.938Z",
       "discoveredAt": "2026-08-31T00:22:51.938Z",
@@ -562,7 +652,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -590,7 +680,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -618,7 +708,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -724,7 +814,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 3625",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 3780",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -738,7 +828,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -994,7 +1084,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 6306",
+      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 6641",
       "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
       "publishedAt": "2026-08-30T22:47:32.575Z",
       "discoveredAt": "2026-08-30T22:47:32.575Z",
@@ -2374,7 +2464,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9723544?from=edn_hottest_index",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 3051",
+      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 3100",
       "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
       "publishedAt": "2026-08-30T17:36:14.927Z",
       "discoveredAt": "2026-08-30T17:36:14.927Z",
@@ -5298,96 +5388,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2e6c2e57920f291646cf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9723232?from=edn_newest_index",
-      "title": "中國預售屋新制 分析：購屋者資金獲保障 2026-08-30 19:45",
-      "description": "中國人民銀行、金融監管總局等部門近日印發多份住房金融相關文件，涉及預售屋資金監管及房地產融資安排。房地產研究機構克而瑞指...",
-      "publishedAt": "2026-08-30T11:46:50.895Z",
-      "discoveredAt": "2026-08-30T11:46:50.895Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8ae5287e07867de70cb3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5601/9613146?from=edn_newest_index",
-      "title": "每一句都很有禮貌，聽起來卻像主持人？外國人接不住的「用力過猛」中式英文 2026-08-30 19:21",
-      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
-      "publishedAt": "2026-08-30T11:25:33.308Z",
-      "discoveredAt": "2026-08-30T11:25:33.308Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1c9ec8027015355be78a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9723206?from=edn_newest_index",
-      "title": "明後2日天氣最不穩！南部嚴防豪雨 未來恐又有熱帶性低氣壓 2026-08-30 19:20",
-      "description": "台灣仍處大低壓帶範圍，加上西南風影響，需留意雷雨及部短延時強降雨，尤其南部慎防局部大雨或豪雨，中央氣象署預報員王品翔表示，沙德爾颱風殘留的低壓雲系恐併入南海低氣壓，接近台灣過程中，不排除增強為熱帶性低氣壓，後續需持續觀察。",
-      "publishedAt": "2026-08-30T11:25:33.308Z",
-      "discoveredAt": "2026-08-30T11:25:33.308Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

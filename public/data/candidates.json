@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T11:33:51.769Z",
+  "updatedAt": "2026-08-31T11:44:30.704Z",
   "candidates": [
+    {
+      "id": "cand_1c1e1583d3ec86e29c54",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725139",
+      "title": "凱基金法說會／上半年調整後 EPS 3.96元創高 總座楊文鈞喊股利不掉隊 | 金融脈動 | 金融 | 經濟日報",
+      "description": "凱基金（2883）31日召開2026年第2季法說會，凱基金控總經理楊文鈞表示，受惠於旗下子公司獲利爆發成長，今年上半年稅後純益達284.4億元，每股盈餘（EPS）達1.64元，若加計凱基人壽FVOCI股票處分利益393億元，合計對保留盈餘貢獻677.8億元，調整後EPS達3.96元，續創歷史同期新高，相較於1月1日普通股每股淨值18.6元，截至6月底，每股淨值已達26.71元。他並指出，針對投資人最關心的股利政策，強調股利「絕對不會掉隊」。",
+      "publishedAt": "2026-08-31T11:44:30.704Z",
+      "discoveredAt": "2026-08-31T11:44:30.704Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a4cae0dd0e64196bb31e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9725458?from=edn_newest_index",
+      "title": "AI能救護理師缺工？ 護理全聯會：留人關鍵還是這2件事 | 生活 | 要聞 | 經濟日報",
+      "description": "護理缺工持續成為醫療體系壓力，各大醫院近年積極導入AI、智慧量測及生成式護理紀錄，讓護理師減少大量重複性工作。中華民國護理師護士公會全聯會理事長陳麗琴表示，智慧科技確實能減少重工、提升工作滿意度，但目前尚無研究能證明「導入AI後，護理師離職率下降多少」。真正要讓護理人員留下來，仍須解決工作負荷與薪資兩大問題。",
+      "publishedAt": "2026-08-31T11:44:30.704Z",
+      "discoveredAt": "2026-08-31T11:44:30.704Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6d46d47a87c856a523e5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9725462?from=edn_newest_index",
+      "title": "山區持續降雨 屏東縣春日鄉士文村明天停班停課 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "近期受低壓帶及西南風影響，山區持續有降雨情形，屏東縣春日鄉公所今指出，維護鄉親及學童安全，士文村明天9月1日停班停課，請族人減少不必要外出，並隨時留意最新氣象、道路及防災資訊。",
+      "publishedAt": "2026-08-31T11:44:30.704Z",
+      "discoveredAt": "2026-08-31T11:44:30.704Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6e01bb3051c66ff810d8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9725478?from=edn_newest_index",
+      "title": "減輕家庭移工雇主負擔 勞動部新增變更就業安定費申請書 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "勞動部31日公告，新增家庭幫傭就業安定費異動申請書。聘僱外籍家庭幫傭的雇主，如於聘僱期間因家庭成員增加等事由，致聘僱點數達10點以上者，即可申請異動每月繳納就業安定費金額由5,000元調降至2,000元，以減輕雇主負擔。",
+      "publishedAt": "2026-08-31T11:44:30.704Z",
+      "discoveredAt": "2026-08-31T11:44:30.704Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0bca31315049908095e7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725472?from=edn_newest_index",
+      "title": "中華電攜手亞旭 整合5G專網助力AI營建機器人 | 產業熱點 | 產業 | 經濟日報",
+      "description": "中華電信與亞旭電腦共同打造具高機動性的自走式5G專網平台解決方案，可依施工區域及作業需求彈性移動，提供AI營建機器人穩定...",
+      "publishedAt": "2026-08-31T11:44:30.704Z",
+      "discoveredAt": "2026-08-31T11:44:30.704Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a50dacc9e6819eb1406b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725471?from=edn_newest_index",
+      "title": "核三廠再運轉計畫 核安會：台電已繳交修訂版送審 | 產業熱點 | 產業 | 經濟日報",
+      "description": "廢除非核家園公投過關，核能議題受關注。核安會表示，18日召開核三廠再運轉計畫綜合審查聯席總結會議，會後台電已繳交修訂版本...",
+      "publishedAt": "2026-08-31T11:44:30.704Z",
+      "discoveredAt": "2026-08-31T11:44:30.704Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4522a3cbb7b3e595bc13",
       "sourceLastModified": null,
@@ -1473,7 +1653,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9724681?from=edn_hottest_index",
-      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 8163",
+      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 8530",
       "description": "長輩生前把房子留給孫女，但人過世後兩天，代理人才去辦贈與稅申報，這筆房地究竟該算「生前贈與」，還是應該列入遺產？財政部一件訴願案就出現這樣的爭議，其他繼承人質疑，贈與稅申報時人都已經過世，怎麼還能算贈與，甚至為此一路爭了十多年。",
       "publishedAt": "2026-08-31T10:24:51.131Z",
       "discoveredAt": "2026-08-31T10:24:51.131Z",
@@ -2128,7 +2308,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9724724?from=edn_hottest_index",
-      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 9605",
+      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 9804",
       "description": "檢調調查欣興PCB產地，欣興（3037）今日發布公司最新重大訊息說明。",
       "publishedAt": "2026-08-31T09:52:33.069Z",
       "discoveredAt": "2026-08-31T09:52:33.069Z",
@@ -4678,7 +4858,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9723904?from=edn_hottest_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6823",
+      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6859",
       "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
       "publishedAt": "2026-08-31T07:08:03.099Z",
       "discoveredAt": "2026-08-31T07:08:03.099Z",
@@ -5190,186 +5370,6 @@
       "description": "受到MSCI最新季度調整在今天盤後生效的影響，台股開盤即承壓，其中電子權值股跌勢較深，拖累大盤一度挫逾880點，不過金融...",
       "publishedAt": "2026-08-31T06:35:49.879Z",
       "discoveredAt": "2026-08-31T06:35:49.879Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_98c315c3479f6c3434f1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9724732?from=edn_newest_index",
-      "title": "童振源談台星交流 台灣可望蟬聯新加坡最大貿易夥伴 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "台灣繼2025年首度超越中國、躍居新加坡最大貿易夥伴後，駐新加坡代表童振源今天告訴中央社、細數雙邊各項交流進展，2026...",
-      "publishedAt": "2026-08-31T06:35:49.879Z",
-      "discoveredAt": "2026-08-31T06:35:49.879Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7e3303ba2994d58ba2a5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9724724?from=edn_newest_index",
-      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 | 產業熱點 | 產業 | 經濟日報",
-      "description": "檢調調查欣興PCB產地，欣興（3037）今日發布公司最新重大訊息說明。",
-      "publishedAt": "2026-08-31T06:35:49.879Z",
-      "discoveredAt": "2026-08-31T06:35:49.879Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_49adad850cd8b7c38311",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724579",
-      "title": "14:20 SB Energy 傳祭55億美元權證拉攏 OpenAI 尚未營運已握4,000億美元訂單",
-      "description": "軟銀支持的SB Energy為爭取OpenAI進駐資料中心，在上市前向OpenAI發行估值55億美元的認股權證，也凸顯AI業者相互投資、採購及租用算力的緊密關係。",
-      "publishedAt": "2026-08-31T06:24:58.693Z",
-      "discoveredAt": "2026-08-31T06:24:58.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f90e897f5e89b9da7034",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9724722?from=edn_newest_index",
-      "title": "颱風豪雨來襲 專家教你如何升級「居家防護」 | 生活 | 要聞 | 經濟日報",
-      "description": "適逢颱風季節，午後雷陣雨頻繁，低窪或排水不良地區易有積淹水風險。泰安產險提醒民眾，除了提前做好防災準備，也可透過適當的保險規劃，降低颱風豪雨可能帶來的財產損失。",
-      "publishedAt": "2026-08-31T06:24:58.693Z",
-      "discoveredAt": "2026-08-31T06:24:58.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f6a9ba20c4072e865ab7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9724717?from=edn_newest_index",
-      "title": "家登衝刺先進封裝先進製程雙引擎應用成長 董座這樣說 | 產業熱點 | 產業 | 經濟日報",
-      "description": "家登（3680）董座邱銘乾今日在半導體展在SEMICON Taiwan 2026展前交流會上受訪提到，公司持續衝刺先進封裝成長，家登自2019年起布局先進封裝相關載具，隨先進製程、先進封裝兩大路徑需求持續擴張，公司成長樂觀看待。",
-      "publishedAt": "2026-08-31T06:24:58.693Z",
-      "discoveredAt": "2026-08-31T06:24:58.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0e43ece97372eb74fd62",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9724703?from=edn_newest_index",
-      "title": "賴總統：蘭嶼拼板舟像台灣 盼傳承文化航向世界 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "總統賴清德今天接見「蘭嶼巴丹三百年首航」船隊時表示，台灣人民是海洋的子民，這艘由蘭嶼造舟工藝師以27種木材精心打造的大型...",
-      "publishedAt": "2026-08-31T06:24:58.693Z",
-      "discoveredAt": "2026-08-31T06:24:58.693Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T18:23:59.027Z",
+  "updatedAt": "2026-08-31T18:34:33.392Z",
   "candidates": [
+    {
+      "id": "cand_c4692c57d8b8ba9f7e6b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725909?from=edn_maintab_index",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "聯發科昨（31）日公告完成39億美元（近新台幣1,250億元）海外可轉債（ECB）訂價，引進輝達和Google母公司字母（Alphabet）兩大AI巨頭資金，輝達更大手筆包辦35億美元（約新台幣1,100億元）、約九成額度，並宣布兩家公司後續將深化合作。",
+      "publishedAt": "2026-08-31T18:34:33.392Z",
+      "discoveredAt": "2026-08-31T18:34:33.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fd388ad2b056a405ad6d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725910?from=edn_maintab_index",
+      "title": "金控今年配息量能上看1.5兆 明年股息大紅包有戲 | 金融脈動 | 金融 | 經濟日報",
+      "description": "金控股明年股息大紅包有戲。13家金控半年報31日全數出爐，上半年稅後純益4,400億元，另有3,337億元賣股利得轉入未分配盈餘；加計前期未分配盈餘與公積迴轉，法人估可分配盈餘基礎逾1.5兆元，配息量能充沛、底氣十足。",
+      "publishedAt": "2026-08-31T18:34:33.392Z",
+      "discoveredAt": "2026-08-31T18:34:33.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ab4e54c4ecfc92ea70a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725920?from=edn_maintab_index",
+      "title": "台積電：AI 算力需求每年增五倍 將透過先進邏輯製程、3DFabric 等抓緊基建熱潮 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積電昨（31）日釋出對AI市場更樂觀展望，公司高層昨日表示，AI相關資料算力需求每年將暴增逾五倍，台積電以先進邏輯製程、3DFabric、SoIC、CoWoS及矽光子等技術，推進異質整合與系統級創新，積極搶食商機。",
+      "publishedAt": "2026-08-31T18:34:33.392Z",
+      "discoveredAt": "2026-08-31T18:34:33.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bee11c373f14675b65ba",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9725927?from=edn_maintab_index",
+      "title": "301關稅將掀牌 三劇本推演 最終稅率有望貼近已談妥的15%不疊加 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "美國301關稅將出爐，據悉，台美經貿小組上周已召開臨時會議，沙盤推演三大劇本走向。「產能過剩」調查尚未攤牌，最可能劇本是，因台灣對美順差仍擴大，美方初步建議稅率應不會太好，但最終稅率將考量對美投資承諾，貼近台美談妥的15%不疊加。",
+      "publishedAt": "2026-08-31T18:34:33.392Z",
+      "discoveredAt": "2026-08-31T18:34:33.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3de0570a018be29c1366",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725863?from=edn_maintab_index",
+      "title": "SpaceX 攻燃氣渦輪規劃自行生產零組件 榮剛、長榮航太等可望沾光 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI用電大戰進入搶燃氣渦輪新階段。電網建設追不上資料中心擴張，連SpaceX也積極投入燃氣渦輪發電，以解AI電荒，亞馬遜、Google、微軟及OpenAI等科技巨擘也紛紛轉向天然氣發電；GE Vernova更透露，2030年前燃氣渦輪產能已被訂滿。",
+      "publishedAt": "2026-08-31T18:34:33.392Z",
+      "discoveredAt": "2026-08-31T18:34:33.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e263423ecf84c67162f0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9726034?from=edn_newest_index",
+      "title": "9月1日 五件財經大事搶先看 | 市場焦點 | 證券 | 經濟日報",
+      "description": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。 一、輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 聯發科（2454）昨（31）日公告完成39億美元（近新台幣1,250億元）海外可轉債（ECB）訂價，引進輝達和Google母公司字母（Alphabet）兩大AI巨頭資金...more 二、金控今年配息量能上看1.5兆 明年股息大紅包有戲 金控股明年股息大紅包有戲。13家金控半年報31日全數出爐，上半年稅後純益4,400億元...more 三、台積電：AI 算力需求每年增五倍 將透過先進邏輯製程、3DFabric 等抓緊基建熱潮 台積電（2330）昨（31）日釋出對AI市場更樂觀展望，公司高層昨日表示，AI相關資料算力需求每年將暴增逾五倍...more 四、301關稅將掀牌 三劇本推演 最終稅率有望貼近已談妥的15%不疊加 美國301關稅將出爐，據悉，台美經貿小組上周已召開臨時會議，沙盤推演三大劇本走向。「產能過剩」調查尚未攤牌...more 五、SpaceX 攻燃氣渦輪規劃自行生產零組件 榮剛、長榮航太",
+      "publishedAt": "2026-08-31T18:34:33.392Z",
+      "discoveredAt": "2026-08-31T18:34:33.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_03045ed96c7d452a836d",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5944/9725880?from=edn_newest_index",
-      "title": "機器人大眾化…路還很長 | 國際專欄 | 專欄 | 經濟日報",
+      "title": "機器人大眾化…路還很長 2026-09-01 02:14",
       "description": "中國大陸機器人新創企業宇樹科技公司，完成重磅級的股票上市（IPO），但公司執行長王興興承認，宇樹仍不清楚該如何製造真正管用的機器人。他預期機器人「大眾化市場」將在十年內來到，這已經是非常樂觀的預期。",
       "publishedAt": "2026-08-31T18:23:59.027Z",
       "discoveredAt": "2026-08-31T18:23:59.027Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5944/9725880?from=edn_bloomberg_index_side",
-      "title": "機器人大眾化…路還很長 | 國際專欄 | 專欄 | 經濟日報",
+      "title": "機器人大眾化…路還很長",
       "description": "中國大陸機器人新創企業宇樹科技公司，完成重磅級的股票上市（IPO），但公司執行長王興興承認，宇樹仍不清楚該如何製造真正管用的機器人。他預期機器人「大眾化市場」將在十年內來到，這已經是非常樂觀的預期。",
       "publishedAt": "2026-08-31T18:23:59.027Z",
       "discoveredAt": "2026-08-31T18:23:59.027Z",
@@ -2211,7 +2391,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3392,7 +3572,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 14836",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 14871",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5026,7 +5206,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5056,7 +5236,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5211,183 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_190104f6d7d8c7360db7",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "description": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive.",
-      "publishedAt": "Mon, 31 Aug 2026 12:30:00 GMT",
-      "discoveredAt": "2026-08-31T12:43:25.904Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_607182e1db65e00277df",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724020",
-      "title": "20:13 【經濟x彭博】美元貶值交易升溫 基金經理繼續看多新興市場債券",
-      "description": "【彭博】-- 基金經理表示，隨著「美元貶值交易」捲土重來並推動資金持續流入，新興市場債券今年以來已屬亮眼的表現有望更上一層樓。",
-      "publishedAt": "2026-08-31T12:17:39.429Z",
-      "discoveredAt": "2026-08-31T12:17:39.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_18cf76aefed80093b9b8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9725562?from=edn_newest_index",
-      "title": "大立光、南亞等19檔列上市注意股票 光鼎遭處置 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台灣證券交易所公告，31日有南亞（1303）、國喬（1312）、鼎元（2426）、統懋（2434）、全新（2455）、大立光（3008）、玉晶光（3406）、聯鈞（3450）、宏致（3605）、富世達（6805）等19檔列入注意股票。其中，光鼎（6226）自9月1日至7日五個交易日將列為處置股票。",
-      "publishedAt": "2026-08-31T12:17:39.429Z",
-      "discoveredAt": "2026-08-31T12:17:39.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_94af7d2a434f8888135b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725517?from=edn_newest_index",
-      "title": "影／向「周氏蝦捲」安平老店潑上百蟑螂嫌犯慘了 疑未吐實檢聲請羈押 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "29歲余姓男子前天中午涉嫌拿著裝有蟑螂的塑膠袋走進台南知名餐飲業「周氏蝦捲」安平老店，朝櫃台潑灑後徒步離去，轄區第四警分局今天持拘票前往余的住處將他逮捕到案；據了解，余疑似聲稱因不滿店家服務態度而犯案，檢察官認為他並未吐實，晚間將余聲請羈押。",
-      "publishedAt": "2026-08-31T12:17:39.429Z",
-      "discoveredAt": "2026-08-31T12:17:39.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_346f3b3ea7999bf19673",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9725540?from=edn_newest_index",
-      "title": "5年潰堤4次 麟洛大排又現裂縫破洞 居民憂「再下大雨怎麼辦」 | 生活 | 要聞 | 經濟日報",
-      "description": "受到西南風與低壓帶影響，屏東縣連日雨勢不斷，麟洛排水右岸萬丹鄉興化堤防繼0625豪雨潰堤大水漫村莊，縣府堆置沙包應急未料8月24日又再度潰堤。近日雨勢仍未停，附近村民發現，30日堤防內坡又出現裂縫破洞，縣議員洪宗麒獲報通知縣府水利處。水利處表示，今緊急灌漿保護受損提防避免裂縫擴大，後續納6月豪雨災害復健工程擴充辦理，加速整體復健。",
-      "publishedAt": "2026-08-31T12:17:39.429Z",
-      "discoveredAt": "2026-08-31T12:17:39.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5e82a103faf7a520fa94",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725560?from=edn_newest_index",
-      "title": "中信銀行獲行政院表揚 攔詐件數及金額奪雙冠 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "中國信託銀行積極攔詐有成，2025年臨櫃阻詐欺件數及金額雙雙為金融業之首，展現響應國家打詐政策的成果，行政院院長卓榮泰今日親自頒發「積極投入防詐機構」獎項，並由中信銀行董事長陳佳文代表受獎。",
-      "publishedAt": "2026-08-31T12:17:39.429Z",
-      "discoveredAt": "2026-08-31T12:17:39.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

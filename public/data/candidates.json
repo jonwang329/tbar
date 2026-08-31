@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T05:36:32.422Z",
+  "updatedAt": "2026-08-31T05:47:08.841Z",
   "candidates": [
+    {
+      "id": "cand_5fd2f85d44e3d28a21b8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9724607",
+      "title": "MSCI 季度調整生效 台股收跌202點 8月強彈3,008點 台積電收低15元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股31日收盤下跌202.98點，跌幅0.44%，終場以46,128.47點作收，成交量1兆2,017億元；台積電（2330）收盤價2,405元，下跌15元，跌幅0.62%。",
+      "publishedAt": "2026-08-31T05:47:08.841Z",
+      "discoveredAt": "2026-08-31T05:47:08.841Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b29b8851c36ea9c2292b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9724611?from=edn_newest_index",
+      "title": "蔡英文70歲生日 賴總統留言祝賀：還有很多地方要向請益 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "今天是前總統蔡英文70歲生日，蔡英文在社群平台貼出兩張帶著笑容切蛋糕的照片，吸引大批網友朝聖祝賀，就連賴清德總統也留言祝福蔡英文生日快樂並表示，「謝謝你一直以來對台灣的關心與支持」、「還有很多地方要向你請益」。",
+      "publishedAt": "2026-08-31T05:47:08.841Z",
+      "discoveredAt": "2026-08-31T05:47:08.841Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aca81b90c2160c43451c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9724609?from=edn_newest_index",
+      "title": "珊瑚白化頻率縮短 學者籲劃保護區加強執法 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "根據最新世界珊瑚礁狀況報告，珊瑚白化頻率縮短，導致全球覆蓋率下降，台灣學者指出，這份報告特別點名以台灣所屬的黑潮次區最明...",
+      "publishedAt": "2026-08-31T05:47:08.841Z",
+      "discoveredAt": "2026-08-31T05:47:08.841Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_12c8b947e4eb727f0b38",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9724607?from=edn_newest_index",
+      "title": "MSCI 季度調整生效 台股收跌202點 8月強彈3,008點 台積電收低15元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股31日收盤下跌202.98點，跌幅0.44%，終場以46,128.47點作收，成交量1兆2,017億元；台積電（2330）收盤價2,405元，下跌15元，跌幅0.62%。",
+      "publishedAt": "2026-08-31T05:47:08.841Z",
+      "discoveredAt": "2026-08-31T05:47:08.841Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2a182a15b3c59717a663",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9724606?from=edn_newest_index",
+      "title": "中南部暴雨襲擊 住商：8月交易量月減7.5%、年增6.6% | 房市話題 | 房市 | 經濟日報",
+      "description": "時序來到八月底，住商機構統計旗下加盟店八月份成交件數後發現，八月比起七月交易量減少7.5%，但比去年增加6.6%。",
+      "publishedAt": "2026-08-31T05:47:08.841Z",
+      "discoveredAt": "2026-08-31T05:47:08.841Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_77a6ae87e249938c4ccc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9724599?from=edn_newest_index",
+      "title": "尼泊爾洪災增至903死、4247人失蹤！軍方鑽開隧道見灌滿洪水 | 國際焦點 | 國際 | 經濟日報",
+      "description": "法新社報導，尼泊爾與中國大陸西藏交界的喜馬拉雅地區嚴重山洪進入第6天，根據當局災害部門，罹難人數截至31日增至903人，另有至少4247人下落不明。隨著遺體持續被尋獲，當局已展開集體埋葬；水力發電工程隧道搜救則傳出壞消息，軍方找到開口後發現內部灌滿洪水的景象，至今未偵測到生命跡象。",
+      "publishedAt": "2026-08-31T05:47:08.841Z",
+      "discoveredAt": "2026-08-31T05:47:08.841Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7e062c4039138bf2a62f",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124921/9724304",
-      "title": "庫克交棒1／蘋果換帥 硬體重返蘋果核心 力拚再掀革命 | 專題報導 | 專題 | 經濟日報",
+      "title": "庫克交棒1／蘋果換帥 硬體重返蘋果核心 力拚再掀革命 2026-08-31 11:44",
       "description": "蘋果執行長庫克（Tim Cook）9月1日起交棒給硬體工程資深副總裁特納斯（John Ternus），結束15年來的舵手職務。庫克一路以自己的路線，走出已故共同創辦人賈伯斯的陰影，以「軟實力」讓蘋果蛻變為「獲利巨獸」，卻也留下了人工智慧（AI）發展路線的難題，給了特納斯重拾產品設計魔力的壓力。",
       "publishedAt": "2026-08-31T05:36:32.422Z",
       "discoveredAt": "2026-08-31T05:36:32.422Z",
@@ -1685,7 +1865,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723953?from=edn_hottest_index",
-      "title": "欣興發出最新聲明 澄清爭議產品非載板 4699",
+      "title": "欣興發出最新聲明 澄清爭議產品非載板 4758",
       "description": "ABF載板大廠欣興（3037）遭檢調搜索事件持續發酵，公司稍早發出最新聲明強調，本次產地標示爭議產品主要為PCB產品、並非載板。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -2599,7 +2779,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4744,7 +4924,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 5411",
+      "title": "本周開盤前 五件國際事不可不知 5446",
       "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-08-31T00:22:51.938Z",
       "discoveredAt": "2026-08-31T00:22:51.938Z",
@@ -5008,7 +5188,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 5080",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 5103",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -5203,186 +5383,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6406e8d9674c935409ed",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723740?from=edn_maintab_index",
-      "title": "本周開盤前 五件國際事不可不知 荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞： 荷莫茲再拉警報 國際油價衝上90美元 美軍表示，周...",
-      "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
-      "publishedAt": "2026-08-30T22:47:32.575Z",
-      "discoveredAt": "2026-08-30T22:47:32.575Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5e93d7ed86ed8a77d8ea",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723740?from=edn_newest_index",
-      "title": "本周開盤前 五件國際事不可不知 2026-08-31 06:43",
-      "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
-      "publishedAt": "2026-08-30T22:47:32.575Z",
-      "discoveredAt": "2026-08-30T22:47:32.575Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b2bef90c5f95d26a0d56",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 10258",
-      "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
-      "publishedAt": "2026-08-30T22:47:32.575Z",
-      "discoveredAt": "2026-08-30T22:47:32.575Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_253d0ac765f5b7070d93",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723739?from=edn_newest_index",
-      "title": "美國大峽谷暴洪急撤數十人 20多人疑似失聯 2026-08-31 06:30",
-      "description": "據美國國家公園管理局，大峽谷發生嚴重暴洪，數十人被迫撤離，大量巨石、金屬結構物和其他雜物被沖刷進科羅拉多河，目前正尋求2...",
-      "publishedAt": "2026-08-30T22:36:55.945Z",
-      "discoveredAt": "2026-08-30T22:36:55.945Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_82ecdaf065b98eb8fcff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723699?from=edn_newest_index",
-      "title": "荷莫茲海峽襲伊朗火箭發射器 美軍一個月以來首度動武 2026-08-31 05:21",
-      "description": "一名美國官員今天表示，美國軍方對荷莫茲海峽的伊朗火箭發射器進行打擊。這是過去一個月以來美軍首度對伊朗採取軍事行動",
-      "publishedAt": "2026-08-30T21:22:47.178Z",
-      "discoveredAt": "2026-08-30T21:22:47.178Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8fcce51254fb0ad093c9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723696?from=edn_newest_index",
-      "title": "北賽普勒斯外海渡輪翻覆241人獲救 至少8死18失蹤 2026-08-31 04:45",
-      "description": "一艘載有267名乘客和船員的渡輪今天在北賽普勒斯土耳其共和國外海翻覆，造成至少8人死亡、18人失蹤。事發當時的畫面顯示，...",
-      "publishedAt": "2026-08-30T20:46:02.296Z",
-      "discoveredAt": "2026-08-30T20:46:02.296Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

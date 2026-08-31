@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T16:27:09.985Z",
+  "updatedAt": "2026-08-31T16:37:48.098Z",
   "candidates": [
+    {
+      "id": "cand_659f2f6dd1e71ea0aa7b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9725521?from=edn_newest_index",
+      "title": "玉晶光獲利靚 7月每股賺2.92元 切入 CPO 獲市場肯定 | 集中市場 | 證券 | 經濟日報",
+      "description": "光學鏡頭廠玉晶光（3406）遭列注意股票，昨（31）日應主管機關要求，公布自結7月稅後純益3.3億元，每股純益2.92元，單月獲利逼近第2季一整季五成，但仍較去年同期衰退二成。",
+      "publishedAt": "2026-08-31T16:37:48.098Z",
+      "discoveredAt": "2026-08-31T16:37:48.098Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8bd5b8f9cd4254335b86",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9725532?from=edn_newest_index",
+      "title": "就市論勢／矽光子、CPO 打聚光燈 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣7月海關出口年增率達46.3%，外銷訂單連續兩個月突破900億美元。展望後市，AI供應鏈訂單能見度高，Rubin機櫃已於8月開始出貨、年底放量，加上歐美年底旺季備貨及AI需求外溢帶動傳產漸入佳境，台灣今年經濟成長強勁。",
+      "publishedAt": "2026-08-31T16:37:48.098Z",
+      "discoveredAt": "2026-08-31T16:37:48.098Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_fead78fbd8b429ae4433",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9725523?from=edn_newest_index",
-      "title": "12檔站穩均線股 法人敲進 | 市場焦點 | 證券 | 經濟日報",
+      "title": "12檔站穩均線股 法人敲進 2026-09-01 00:27",
       "description": "台股昨（31）日受到法人逢高調節影響，終止連四紅。市場專家指出，近期盤面仍屬於個股輪動格局，凱基金（2883）、南亞等兼具法人買盤加持，及股價站穩所有均線優勢的強勢股，較易吸引短多關注，延續漲升力道。",
       "publishedAt": "2026-08-31T16:27:09.985Z",
       "discoveredAt": "2026-08-31T16:27:09.985Z",
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9725526?from=edn_newest_index",
-      "title": "國巨漲價效應 外資按讚 | 市場焦點 | 證券 | 經濟日報",
+      "title": "國巨漲價效應 外資按讚 2026-09-01 00:26",
       "description": "下半年進入電子產業的營運旺季，加上AI需求增溫，使得被動元件的供需吃緊狀況逐漸由AI領域蔓延至全市場，因而各外資法人紛紛喊「買」台廠國巨（2327），目標價以花旗的1,450元暫居最高。",
       "publishedAt": "2026-08-31T16:27:09.985Z",
       "discoveredAt": "2026-08-31T16:27:09.985Z",
@@ -70,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9725529?from=edn_newest_index",
-      "title": "稜研天線模組 瞄準三商機 | 櫃買動態 | 證券 | 經濟日報",
+      "title": "稜研天線模組 瞄準三商機 近期將登創新板 2026-09-01 00:24",
       "description": "稜研科技（7812）將登上創新板上市，董事長暨總經理張書維昨（31）日表示，把相控陣列天線做成「樂高式」的高頻模組天線，攜手全球一級客戶夥伴，搶進全球航太、衛星、5G／6G等三大市場。",
       "publishedAt": "2026-08-31T16:27:09.985Z",
       "discoveredAt": "2026-08-31T16:27:09.985Z",
@@ -861,7 +921,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2042,7 +2102,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 13813",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 13946",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -2536,7 +2596,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5304,66 +5364,6 @@
       "url": "https://money.udn.com/money/story/5599/9725118",
       "title": "18:48 台灣勝出！高盛：南韓人口老化太快 難享 AI 紅利",
       "description": "高盛報告指出，台灣和南韓是AI熱潮的兩大受惠國，但南韓人口老化速度太快，AI財富恐怕無法惠及一般民眾。",
-      "publishedAt": "2026-08-31T10:57:01.860Z",
-      "discoveredAt": "2026-08-31T10:57:01.860Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a583377353ad596611a6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725275?from=edn_maintab_index",
-      "title": "正崴、永崴決議處分森崴持股 確保股東權益與財務穩健 正威（2392）與永崴投控（3712）31日分別召開董事會，決議通過參與公開收購案，擬以每股0.05元處分所持有之森崴能源股權（正崴集團合計持股約 143,280仟股，其中永崴投控持股約121,28...",
-      "description": "正威（2392）與永崴投控（3712）31日分別召開董事會，決議通過參與公開收購案，擬以每股0.05元處分所持有之森藏能源股權（正崴集團合計持股約 143,280仟股，其中永崴投控持股約121,282 仟股）。",
-      "publishedAt": "2026-08-31T10:57:01.860Z",
-      "discoveredAt": "2026-08-31T10:57:01.860Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0492831fdc620c5c242a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725406?from=edn_newest_index",
-      "title": "00919 ETF擬9/16除息 每股配發1.1元連3季創高 | 產業熱點 | 產業 | 經濟日報",
-      "description": "熱門高股息ETF群益台灣精選高息（00919）今天發出最新配息公告，每受益權單位預計配發股息1.1元，連續3季攀高，並創...",
       "publishedAt": "2026-08-31T10:57:01.860Z",
       "discoveredAt": "2026-08-31T10:57:01.860Z",
       "topics": [

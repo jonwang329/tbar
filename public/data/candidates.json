@@ -1,7 +1,127 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T07:34:07.604Z",
+  "updatedAt": "2026-08-31T07:44:48.626Z",
   "candidates": [
+    {
+      "id": "cand_22c2da645074fce9972d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9724774",
+      "title": "合庫金法說會／前7月獲利160.7億元、年成長33.2% 總資產5.4兆 | 金融脈動 | 金融 | 經濟日報",
+      "description": "合庫金（5880）31日舉行第2季法人說明會，由總經理蘇佐政主持，他表示，儘管中東局勢震盪衝擊全球經濟，然而人工智慧(AI)技術突破與快速擴張，有效抵禦地緣政治帶來的負面影響，依據國際貨幣基金組織（IMF）於7月發布最新「世界經濟展望報告」，預測今年全球經濟成長率為3.0%，明年經濟成長率則為3.4%。顯示全球經濟於逆境中仍維持穩健及堅實基本面。",
+      "publishedAt": "2026-08-31T07:44:48.626Z",
+      "discoveredAt": "2026-08-31T07:44:48.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c5ebfb33efcece88d33d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9724908?from=edn_newest_index",
+      "title": "「青安3.0」婚育買盤助攻 台灣房屋：8月房市月增6.5%、年增10.9% | 房市話題 | 房市 | 經濟日報",
+      "description": "台灣房屋集團統計內部成交行情，觀察2026年8月價量變化，和7月相較，其中桃園月增11.2%，新北市8.6%，表現最亮眼；年增部分桃園市16.9%，新北市15.9%。整體而言，六都+新竹縣市，整體月增6.5%，年增10.9%。",
+      "publishedAt": "2026-08-31T07:44:48.626Z",
+      "discoveredAt": "2026-08-31T07:44:48.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6855d1e65fc499c3d80f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9724900?from=edn_newest_index",
+      "title": "朱忠明任上海市政府中共黨組書記 可望接任上海市長 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "據人民網和上觀新聞等中國官方媒體報導，中共上海市委副書記朱忠明已上任上海市政府黨組書記。財新網分析，中國第一大城市將迎來...",
+      "publishedAt": "2026-08-31T07:44:48.626Z",
+      "discoveredAt": "2026-08-31T07:44:48.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3b74a53e6175341cb331",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9724899?from=edn_newest_index",
+      "title": "潛在人才庫 德國聯邦情報局科隆電玩展招募新血 | 國際焦點 | 國際 | 經濟日報",
+      "description": "德國聯邦情報局前進全球3大電玩展「科隆電玩展」招募人工智慧、軟體開發等科技人才，推出自製間諜遊戲吸引人才加入。情報局表示...",
+      "publishedAt": "2026-08-31T07:44:48.626Z",
+      "discoveredAt": "2026-08-31T07:44:48.626Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_53246ef4f5a341d8a602",
       "sourceLastModified": null,
@@ -10,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9724887?from=edn_newest_index",
-      "title": "經濟部通過美商科林以98億元增資台灣 投資晶片製程設備研發及設計 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "經濟部通過美商科林以98億元增資台灣 投資晶片製程設備研發及設計 2026-08-31 15:33",
       "description": "經濟部投資審議會31日通過美商LAM RESEARCH CORPORATION以相當於新台幣98億3,500萬元等值之外幣，增資台灣科林，從事先進半導體晶片製程所需關鍵製造設備之技術研發、設計業務。",
       "publishedAt": "2026-08-31T07:34:07.604Z",
       "discoveredAt": "2026-08-31T07:34:07.604Z",
@@ -40,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9724877?from=edn_newest_index",
-      "title": "權利回復基金會8月通過91件賠償案 賠償逾1.7億元 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "權利回復基金會8月通過91件賠償案 賠償逾1.7億元 2026-08-31 15:30",
       "description": "財團法人威權統治時期國家不法行為被害者權利回復基金會今天說，8月通過91件賠償案，總賠償金額逾新台幣1.7億元。這次通過...",
       "publishedAt": "2026-08-31T07:34:07.604Z",
       "discoveredAt": "2026-08-31T07:34:07.604Z",
@@ -520,7 +640,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9723904?from=edn_hottest_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 5476",
+      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 5565",
       "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
       "publishedAt": "2026-08-31T07:08:03.099Z",
       "discoveredAt": "2026-08-31T07:08:03.099Z",
@@ -922,7 +1042,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -952,7 +1072,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5272,126 +5392,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_334c0d57637318063e7a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9723471?from=edn_hottest_index",
-      "title": "i18散熱再進化導入史上最大面積均熱板 台廠業績衝 3873",
-      "description": "蘋果秋季發表會將在台灣時間9月10日凌晨正式登場，市場預料首度亮相的iPhone 18 Pro系列將導入史上最大面積的VC（均熱板），散熱區域一路延伸至機身頂部，用以提升用戶體驗，衝刺新機銷售量，並有助於散熱廠業績衝鋒。",
-      "publishedAt": "2026-08-31T02:03:24.327Z",
-      "discoveredAt": "2026-08-31T02:03:24.327Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_501f0f34c3e7eaddeaf1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9723904",
-      "title": "09:37 欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張",
-      "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
-      "publishedAt": "2026-08-31T01:52:45.393Z",
-      "discoveredAt": "2026-08-31T01:52:45.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d6f7d8dbeadfe6379a76",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9723904?from=edn_maintab_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落...",
-      "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
-      "publishedAt": "2026-08-31T01:52:45.393Z",
-      "discoveredAt": "2026-08-31T01:52:45.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_92644b3507a6894c1f89",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723971?from=edn_newest_index",
-      "title": "景順：黃金仍具策略性配置價值 地緣政治與財政風險升高 | 市場焦點 | 證券 | 經濟日報",
-      "description": "景順亞太區（日本除外）客戶投資解決方案主管Christopher Hamilton表示，目前投資黃金的理由不在於預測短期金價走勢，而是因應主權債務偏高、財政赤字持續、地緣政治風險加劇、財政支出擴張，以及通膨走勢的不確定性高於過去十年的大部分時期。基於資產分散及實質資產的重要性，仍建議在投資組合中適度增加黃金配置。",
-      "publishedAt": "2026-08-31T01:52:45.393Z",
-      "discoveredAt": "2026-08-31T01:52:45.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

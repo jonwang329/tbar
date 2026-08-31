@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T17:25:09.126Z",
+  "updatedAt": "2026-08-31T17:35:52.150Z",
   "candidates": [
+    {
+      "id": "cand_4a046453c2b6dc435581",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725818?from=edn_newest_index",
+      "title": "凱基金掛保證 股利不掉隊 前七月 EPS 4.41元 | 金融脈動 | 金融 | 經濟日報",
+      "description": "凱基金控昨（31）日召開第2季法說會，上半年調整後每股純益（EPS）達3.96元，續創歷史同期新高，前七月更達4.41元；針對投資人最關心的股利政策，凱基金控總經理楊文鈞承諾，股利絕對不會掉隊。",
+      "publishedAt": "2026-08-31T17:35:52.150Z",
+      "discoveredAt": "2026-08-31T17:35:52.150Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aca660aee803578854f3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122377/9725827?from=edn_newest_index",
+      "title": "壽險宣告利率掀調漲潮 | 保險 | 金融 | 經濟日報",
+      "description": "隨著市場持續關注美國聯準會（Fed）後續貨幣政策，以及美國公債殖利率走勢，壽險公司9月宣告利率再掀調整潮。截至目前已公布9月最新宣告利率的業者中，合作金庫人壽將美元利變保單最高宣告利率調升至4.38%，躍居目前市場第二高，僅次於台灣人壽最高4.42%；富邦人壽則全面調升美元商品宣告利率0.05至0.1個百分點，最高來到4.35%。",
+      "publishedAt": "2026-08-31T17:35:52.150Z",
+      "discoveredAt": "2026-08-31T17:35:52.150Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f48c33b2878935215a6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9725915?from=edn_newest_index",
+      "title": "台股 ETF 發股息新一波聚焦 八檔公告第一階段金額 檔檔飆高 | 基金天地 | 理財 | 經濟日報",
+      "description": "9月台股ETF配息戰開打，八檔台股ETF昨（31）日搶先公告第一階段配息金額，檔檔飆高，包含群益台灣精選高息（00919）、大華優利高填息30（00918）等千億元ETF；今日還將有主動統一台股增長、復華台灣科技優息、元大台灣高息低波等將陸續公告9月配息成績單，也將成為市場焦點。",
+      "publishedAt": "2026-08-31T17:35:52.150Z",
+      "discoveredAt": "2026-08-31T17:35:52.150Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f9d790fab52d6c99474e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725821?from=edn_newest_index",
+      "title": "合庫金：現金股利將穩定成長 | 金融脈動 | 金融 | 經濟日報",
+      "description": "合庫金昨（31）日舉行法人說明會，市場聚焦股利政策，合庫表示，近三年股利皆達1元、發放率約八成，為維持穩定發放政策，未來會符合股東對現金股利穩定成長的期待。合庫金今年截至7月稅後純益160.7億元，續創歷年同期新高，年成長33.2%。",
+      "publishedAt": "2026-08-31T17:35:52.150Z",
+      "discoveredAt": "2026-08-31T17:35:52.150Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_282e31dbef9d4cec903c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725829?from=edn_newest_index",
+      "title": "台美利差變化趨緩 7月衍生性商品交易降溫 | 金融脈動 | 金融 | 經濟日報",
+      "description": "中央銀行昨（31）日公布7月銀行衍生性金融商品交易量降溫，單月交易金額24兆1,657億元，較6月減少1.9兆元、月減7.29%；其中，市場主要交易品項「利率有關契約」交易量大幅縮減1兆951億元，月減27.87%，成為整體衍生性商品交易量下滑的主要原因。央行金檢處副處長謝人俊表示，7月市場參與者受到台美利差變化趨緩，以及暑期交易清淡等因素影響，降低基於利率預期變動所進行的避險及投機操作。",
+      "publishedAt": "2026-08-31T17:35:52.150Z",
+      "discoveredAt": "2026-08-31T17:35:52.150Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b79ab0f4b294a30060d6",
       "sourceLastModified": null,
@@ -2296,7 +2446,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2762,7 +2912,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 14448",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 14514",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5223,156 +5373,6 @@
       "description": "近期受低壓帶及西南風影響，山區持續有降雨情形，屏東縣春日鄉公所今指出，維護鄉親及學童安全，士文村明天9月1日停班停課，請族人減少不必要外出，並隨時留意最新氣象、道路及防災資訊。",
       "publishedAt": "2026-08-31T11:44:30.704Z",
       "discoveredAt": "2026-08-31T11:44:30.704Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6e01bb3051c66ff810d8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725478?from=edn_newest_index",
-      "title": "減輕家庭移工雇主負擔 勞動部新增變更就業安定費申請書 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "勞動部31日公告，新增家庭幫傭就業安定費異動申請書。聘僱外籍家庭幫傭的雇主，如於聘僱期間因家庭成員增加等事由，致聘僱點數達10點以上者，即可申請異動每月繳納就業安定費金額由5,000元調降至2,000元，以減輕雇主負擔。",
-      "publishedAt": "2026-08-31T11:44:30.704Z",
-      "discoveredAt": "2026-08-31T11:44:30.704Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0bca31315049908095e7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725472?from=edn_newest_index",
-      "title": "中華電攜手亞旭 整合5G專網助力AI營建機器人 | 產業熱點 | 產業 | 經濟日報",
-      "description": "中華電信與亞旭電腦共同打造具高機動性的自走式5G專網平台解決方案，可依施工區域及作業需求彈性移動，提供AI營建機器人穩定...",
-      "publishedAt": "2026-08-31T11:44:30.704Z",
-      "discoveredAt": "2026-08-31T11:44:30.704Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a50dacc9e6819eb1406b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725471?from=edn_newest_index",
-      "title": "核三廠再運轉計畫 核安會：台電已繳交修訂版送審 | 產業熱點 | 產業 | 經濟日報",
-      "description": "廢除非核家園公投過關，核能議題受關注。核安會表示，18日召開核三廠再運轉計畫綜合審查聯席總結會議，會後台電已繳交修訂版本...",
-      "publishedAt": "2026-08-31T11:44:30.704Z",
-      "discoveredAt": "2026-08-31T11:44:30.704Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4522a3cbb7b3e595bc13",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725461?from=edn_newest_index",
-      "title": "前外媒記者提花蓮買票嚴重 傅崐萁：指控需本於證據 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "面對前外媒記者稱花蓮都買票一事，來自花蓮的國民黨團總召傅崐萁今天說，指控需本於證據，切勿以偏概全；若無人、事、時、地、物...",
-      "publishedAt": "2026-08-31T11:33:51.769Z",
-      "discoveredAt": "2026-08-31T11:33:51.769Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_75a8801ead5ec3deee8d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9725426?from=edn_newest_index",
-      "title": "影／台南「周氏蝦捲」安平老店遭潑上百隻蟑螂 雨衣男稱不滿服務態度 | 生活 | 要聞 | 經濟日報",
-      "description": "29歲余姓男子前天中午涉嫌拿著裝有蟑螂的塑膠袋走進台南知名餐飲業「周氏蝦捲」安平老店，朝櫃台潑灑後徒步離去，轄區第四警分局報請檢察官指揮偵辦，今天持拘票前往余的住處將他逮捕到案；據了解，余疑似聲稱因不滿店家服務態度而犯案，警方已移送檢方複訊。",
-      "publishedAt": "2026-08-31T11:33:51.769Z",
-      "discoveredAt": "2026-08-31T11:33:51.769Z",
       "topics": [
         "Taiwan business",
         "investment",

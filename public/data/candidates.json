@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T13:26:26.309Z",
+  "updatedAt": "2026-08-31T13:37:05.901Z",
   "candidates": [
+    {
+      "id": "cand_a15a3458f669f4e85b2b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725489",
+      "title": "9月宣告利率掀調整潮！合庫人壽衝4.38%、富邦人壽全面調升 | 金融脈動 | 金融 | 經濟日報",
+      "description": "隨著市場持續關注美國聯準會（Fed）後續貨幣政策，以及美國公債殖利率走勢，壽險公司9月宣告利率再掀調整潮。截至目前已公布9月最新宣告利率的業者中，合作金庫人壽將美元利變保單最高宣告利率調升至4.38%，躍居目前市場第二高，僅次於台灣人壽最高4.42%；富邦人壽則全面調升美元商品宣告利率0.05至0.1個百分點，最高來到4.35%，台銀人壽、三商美邦人壽最高宣告利率也同步調至4.35%，顯示業者持續加碼美元利變保單競爭力。",
+      "publishedAt": "2026-08-31T13:37:05.901Z",
+      "discoveredAt": "2026-08-31T13:37:05.901Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5c1b8d1de5c8bb77f36f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725645?from=edn_maintab_index",
+      "title": "川普稱伊朗「失敗的國家」：領導層一片混亂 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普31日在自家社群媒體平台「真實社群」發文說，伊朗是個「失敗的國家」，稱「該國領導層一片混亂，根本無法正常代表伊朗」。",
+      "publishedAt": "2026-08-31T13:37:05.901Z",
+      "discoveredAt": "2026-08-31T13:37:05.901Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_875b872a32577219c23e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725702?from=edn_newest_index",
+      "title": "NVIDIA投資聯發科35億美元ECB 打造AI運算平台 | 產業熱點 | 產業 | 經濟日報",
+      "description": "聯發科與輝達（NVIDIA）今天宣布，雙方深化長期合作夥伴關係，共同打造跨世代的AI基礎建設、邊緣AI運算與車用產品，輝...",
+      "publishedAt": "2026-08-31T13:37:05.901Z",
+      "discoveredAt": "2026-08-31T13:37:05.901Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_839332c3f8a53a5b05be",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725690?from=edn_newest_index",
+      "title": "研調：二手機維修市場支撐 手機面板出貨年減幅縮小 | 產業熱點 | 產業 | 經濟日報",
+      "description": "研調機構集邦科技最新面板產業研究指出，儘管記憶體供給短缺、價格吃緊加劇智慧手機供應鏈成本壓力，更影響手機品牌2026年的...",
+      "publishedAt": "2026-08-31T13:37:05.901Z",
+      "discoveredAt": "2026-08-31T13:37:05.901Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bd796d4078bfff78f412",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725688?from=edn_newest_index",
+      "title": "凱基人壽布局全齡健康 北市信義區打造康養宅 | 金融脈動 | 金融 | 經濟日報",
+      "description": "凱基人壽響應健康台灣政策，打造全齡健康生態圈。凱基人壽總經理郭瑜玲今天表示，規劃在台北市信義區打造旗艦型康養住宅，並擬與...",
+      "publishedAt": "2026-08-31T13:37:05.901Z",
+      "discoveredAt": "2026-08-31T13:37:05.901Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1ed062d927b01654827c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9724288?from=edn_newest_index",
+      "title": "尼泊爾洪災暴露高山預警不足 官員稱跨境數據共享面臨挑戰 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 尼泊爾災難性洪災中的受災民眾，在洪水奔涌而至前幾乎沒有得到預警，這凸顯出高海拔地區氣象監測以及與鄰國中國大陸開展數據共享方面存在的不足。",
+      "publishedAt": "2026-08-31T13:37:05.901Z",
+      "discoveredAt": "2026-08-31T13:37:05.901Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d2e87ace884376ebcc79",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725119",
-      "title": "不單押台積電！SK 海力士計劃找英特爾代工生產 HBM 基礎晶片 | 國際焦點 | 國際 | 經濟日報",
+      "title": "21:20 不單押台積電！SK 海力士計劃找英特爾代工生產 HBM 基礎晶片",
       "description": "南韓晶片大廠SK海力士據傳正考慮委託英特爾生產高頻寬記憶體（HBM）的基礎晶片（base die），以增加台積電以外的代工夥伴。分析師表示，英特爾6月聘請SK海力士前執行長李錫熙為代工事業資深副總裁，加深了兩公司關係，也推動了這項計畫的發展。",
       "publishedAt": "2026-08-31T13:26:26.309Z",
       "discoveredAt": "2026-08-31T13:26:26.309Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9725535",
-      "title": "今日最夯股／建準看好下半年營運 外資、自營商連四買 | 市場焦點 | 證券 | 經濟日報",
+      "title": "21:19 今日最夯股／建準看好下半年營運 外資、自營商連四買",
       "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
       "publishedAt": "2026-08-31T13:26:26.309Z",
       "discoveredAt": "2026-08-31T13:26:26.309Z",
@@ -70,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9725452?from=edn_newest_index",
-      "title": "從「少吃豬油」到速食店重新用牛油 飽和脂肪為何正在翻轉百年惡名？ | 熱門話題 | 要聞 | 經濟日報",
+      "title": "從「少吃豬油」到速食店重新用牛油 飽和脂肪為何正在翻轉百年惡名？ 2026-08-31 21:23",
       "description": "我們常把脂肪分成「飽和」和「不飽和」，差別就在於它們的結構有沒有「雙鍵」。這種雙鍵是導致油脂變質，例如氧化、產生異味、營養下降的主因。多個雙鍵最不穩定，像植物油、魚油；一個雙鍵中等穩定，像橄欖油；沒有雙鍵最穩定，就是飽和脂肪。 為什麼穩定很重要？越多雙鍵，越容易氧化變質，這些雙鍵會被氧氣或高溫破壞，產生對健康不利的副產物，甚至變酸、發臭。某些植物油經過長時間高溫烹調或工業加工，原本的雙鍵可能會轉變為「反式脂肪」，這種脂肪已被證實對心血管有害。具有雙鍵的油還可能變得濃稠或產生其他有害物質，過度加熱會讓不飽和脂肪彼此結合或斷裂，影響油的品質與消化性。 簡單來說：飽和脂肪因為結構簡單、沒雙鍵，加熱後最穩定，變質最少。這就是為什麼像椰子油、酥油、奶油，在高溫烹調下其實比某些植物油還安全。",
       "publishedAt": "2026-08-31T13:26:26.309Z",
       "discoveredAt": "2026-08-31T13:26:26.309Z",
@@ -1014,7 +1194,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1044,7 +1224,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1221,7 +1401,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3420,7 +3600,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9724681?from=edn_hottest_index",
-      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 14262",
+      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 14686",
       "description": "長輩生前把房子留給孫女，但人過世後兩天，代理人才去辦贈與稅申報，這筆房地究竟該算「生前贈與」，還是應該列入遺產？財政部一件訴願案就出現這樣的爭議，其他繼承人質疑，贈與稅申報時人都已經過世，怎麼還能算贈與，甚至為此一路爭了十多年。",
       "publishedAt": "2026-08-31T10:24:51.131Z",
       "discoveredAt": "2026-08-31T10:24:51.131Z",
@@ -4075,7 +4255,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9724724?from=edn_hottest_index",
-      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 13072",
+      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 13321",
       "description": "檢調調查欣興PCB產地，欣興（3037）今日發布公司最新重大訊息說明。",
       "publishedAt": "2026-08-31T09:52:33.069Z",
       "discoveredAt": "2026-08-31T09:52:33.069Z",
@@ -5189,186 +5369,6 @@
       "description": "中國28日修正通過國防動員法。立法院國防及外交委員會召委、民進黨立委陳冠廷今天說，中國明確將經濟、社會力量納入國防動員體...",
       "publishedAt": "2026-08-31T08:43:41.954Z",
       "discoveredAt": "2026-08-31T08:43:41.954Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2c0c6c8f1019e472383b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9724822",
-      "title": "16:26 3隻黑天鵝齊聚台股低檔有買盤承接 分析師：主力搶買兩族群",
-      "description": "台股31日承受3隻黑天鵝的壓力，盤中一度下探至45,450.21點，下跌881.24點，終場收在46,128.47點，下跌202點；證券分析師表示，今日成交量持續放大，低檔有承接買盤，早在上周末就出現攻擊量，代表市場主力歸隊，買盤則是鎖定兩個族群。",
-      "publishedAt": "2026-08-31T08:32:49.625Z",
-      "discoveredAt": "2026-08-31T08:32:49.625Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_37c28a1b3794466886db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9725025?from=edn_newest_index",
-      "title": "支持台商在魯發展 山東發布「十五五時期」對台11項利多 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "第30屆魯台經貿治談會31日在山東濰坊開幕，山東省台辦在會上發布「十五五時期支持台商台企在魯發展政策措施」，共11條，其中包括鼓勵台企在農業、科技創新、服務業等領域發展，並在拓展海外市場、融資、貸款、對接資本市場等方面提供協助。",
-      "publishedAt": "2026-08-31T08:32:49.625Z",
-      "discoveredAt": "2026-08-31T08:32:49.625Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e378eadc5b6709ef4f5a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9725020?from=edn_newest_index",
-      "title": "西方逼升人民幣 陸外交部：中方從不刻意追求貿易順差 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "針對美國財長貝森特指出，世界不可能允許中國擁有1.2兆美元的貿易順差，20國集團（G20）應重新審視與中國的貿易條款。對此，大陸外交部發言人郭嘉昆強調，中方從不刻意追求貿易順差，反對各種形式的單邊關稅措施。",
-      "publishedAt": "2026-08-31T08:32:49.625Z",
-      "discoveredAt": "2026-08-31T08:32:49.625Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_49dd98e92d81cb9746a1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9725017?from=edn_newest_index",
-      "title": "央行9月是否升息？合庫徐千婷：央行的腳是否踩下去看四個因素 | 金融脈動 | 金融 | 經濟日報",
-      "description": "合庫金控今日召開法說會，合庫金首席經濟學家徐千婷對於今年9月的央行理監事會議會否升息形容，「央行的腳已踩在油門上」，但是否踩下去要看四個變數，分別為通膨是否持續，國內經濟動能特別是傳產動能是否偏弱，及房地產狀況、並觀察國際主要央行決策，再作最後決定。",
-      "publishedAt": "2026-08-31T08:32:49.625Z",
-      "discoveredAt": "2026-08-31T08:32:49.625Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_369f8d0bcfa530663da7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123882/9717429?from=edn_newest_index",
-      "title": "集精選／台灣機械業搶進CPO、順差衝2,000億美元為何新台幣反貶？ | 當期活動 | 活動 | 經濟日報",
-      "description": "本周精選8則財經付費好文限時免費72小時，聚焦台灣順差與匯率、味之素供貨、無人機光達及陸廠記憶體突圍，並解析房產稅務與貧富差距。",
-      "publishedAt": "2026-08-31T08:32:49.625Z",
-      "discoveredAt": "2026-08-31T08:32:49.625Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fc6b064e26d3278e86db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9725008?from=edn_newest_index",
-      "title": "中國大陸 PC 市場9月起掀新一波漲價潮 最高調漲15% | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "PC產業「漲」聲不斷，根據大陸媒體報導，隨著開學季來臨，深圳多家電腦品牌門市中，包含惠普（HP）、聯想及華碩（2357）均已明確將在9月1日前後集體上調產品價格，最高調漲15%。",
-      "publishedAt": "2026-08-31T08:32:49.625Z",
-      "discoveredAt": "2026-08-31T08:32:49.625Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T21:03:05.033Z",
+  "updatedAt": "2026-08-31T21:13:59.633Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_fa3ed7a20a19cf8bae29",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9726063?from=edn_newest_index",
+      "title": "8月31日 期交所夜盤行情 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "盤後時段臺指期收在45,978點，（較開盤參考價）上漲1點。 小臺指期收在45,982點，（較開盤參考價）上漲5點。 微臺指期收在45,977點，今日收平盤。 電子期收在2,918.95點，（較開盤參考價）上漲5.8點。 半導體30指數期收在15,509點，（較開盤參考價）下跌41點。 臺灣中型100期貨收在35,953點，（較開盤參考價）上漲30點。 元大台灣50ETF期貨收在106.3點，（較開盤參考價）下跌0.05點。 元大美債20年ETF期貨收在25.78點，（較開盤參考價）下跌0.15點。 聯電期貨收在129點，（較開盤參考價）下跌1點。 台積電期貨收在2,395點，（較開盤參考價）下跌7點。 東證期貨收在4,128.75點，（較開盤參考價）下跌34.25點。 美國道瓊期貨收在53,265點，（較開盤參考價）下跌187點。 美國那斯達克100期貨收在29,547點，（較開盤參考價）上漲97點。 美國費城半導體期貨收在11,530.5點，（較開盤參考價）上漲87.5點。 英國富時100指數期貨結算在10,836點，（今日無",
+      "publishedAt": "2026-08-31T21:13:50.275Z",
+      "discoveredAt": "2026-08-31T21:13:50.275Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_5741e5a4bc70b627aaef",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123828/9726061?from=edn_newest_index",
-      "title": "YY Group正式更名為YYForce：深化人工智能、自動化與人機協同用工戰略 | 全球企業動態 | 商情 | 經濟日報",
+      "title": "YY Group正式更名為YYForce：深化人工智能、自動化與人機協同用工戰略 2026-09-01 05:00",
       "description": "- 納斯達克股票代碼變更為「YFOR」 ，預計於2026年9月2日啟用 - 新名稱體現了公司轉型為依托自動化與人工智能(AI)技術的勞動力管理與綜合設施管理(IFM)基礎設施平台 新加坡2026年9月1日 /美通社/ -- 面向亞洲及其他市場的AI賦能勞動力管理平台與綜合設施管理(IFM)服務商YY Group Holding Limited（NASDAQ: YYGH，以下簡稱「該公司」）今天宣布，企業品牌正式更名為YYForce Inc.（以下簡稱「YYForce」），納斯達克股票代碼同步變更為「YFOR」。 YYForce’s new corporate logo and tagline, “Forging Forward Together.” 自2026年9月2日起，該公司將以「YYForce Inc.」作為企業主體名稱。本次公司名稱及股票代碼變更預計於同日在納斯達克生效。該公司A類普通股將於2026年9月2日開盤起，在納斯達克資本市場以新股票代碼「YFOR」進行交易。在此之前，該公司A類普通股仍以代碼「YYGH」進行交易。現有股東無需針對本次名稱及代碼變更采取任何操作。原YY",
       "publishedAt": "2026-08-31T21:03:05.033Z",
       "discoveredAt": "2026-08-31T21:03:05.033Z",
@@ -124,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9726060?from=edn_newest_index",
-      "title": "中東緊張局勢升溫 國際油價走揚 | 國際焦點 | 國際 | 經濟日報",
+      "title": "中東緊張局勢升溫 國際油價走揚 2026-09-01 05:00",
       "description": "美國與伊朗再度交火且衝突看似仍會持續，使中東地區緊張局勢急劇升溫，國際油價今天也隨之攀漲",
       "publishedAt": "2026-08-31T21:03:05.033Z",
       "discoveredAt": "2026-08-31T21:03:05.033Z",
@@ -154,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9726058?from=edn_newest_index",
-      "title": "另類台灣之光 生髮生技帶領台灣外泌體邁向國際舞台 | 熱門話題 | 要聞 | 經濟日報",
+      "title": "另類台灣之光 生髮生技帶領台灣外泌體邁向國際舞台 2026-09-01 04:57",
       "description": "台灣外泌體技術可望邁向國際舞台。國防醫學大學兼任教授謝儒生博士帶領的研發團隊所開發出的Bio-Pulsed（生化脈衝）外泌體，經人體功效驗證生髮能力，並且受到國際期刊的矚目。",
       "publishedAt": "2026-08-31T21:03:05.033Z",
       "discoveredAt": "2026-08-31T21:03:05.033Z",
@@ -198,7 +228,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -454,7 +484,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7351",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7360",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -3100,7 +3130,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -4046,7 +4076,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 15298",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 15326",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5338,36 +5368,6 @@
       "url": "https://money.udn.com/money/story/7307/9725596?from=edn_newest_index",
       "title": "傳新竹棒球場工程容許5%垃圾？竹市府：契約無此條款「有垃圾遭掩埋」 | 政經焦點 | 要聞 | 經濟日報",
       "description": "新竹地檢署偵辦新竹市立棒球場工程案近四年，前市長林智堅被控圖利等罪獲不起訴，掀起政治攻防；部分網友與輿論解讀契約存有「5%垃圾容許標準」，或稱挖出的廢棄物數量少並質疑其來源。對此，市府澄清，這是有心人士惡意混淆新竹棒球場事實，確實有垃圾及廢棄物遭掩埋、從未有5%容許標準。",
-      "publishedAt": "2026-08-31T12:54:01.779Z",
-      "discoveredAt": "2026-08-31T12:54:01.779Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_75af62a2f862c3a02cf0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9724884?from=edn_newest_index",
-      "title": "上海星軼影院管理據悉接近收購百老匯院線中國內地業務的多數股權 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "【彭博】-- 據知情人士表示，上海星軼影院管理有限公司接近收購百老匯院線(Broadway Circuit)中國大陸內地業務的多數股權。",
       "publishedAt": "2026-08-31T12:54:01.779Z",
       "discoveredAt": "2026-08-31T12:54:01.779Z",
       "topics": [

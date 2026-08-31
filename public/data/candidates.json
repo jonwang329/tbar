@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T03:22:52.032Z",
+  "updatedAt": "2026-08-31T03:33:39.093Z",
   "candidates": [
+    {
+      "id": "cand_17cbcc620a7eaf9426db",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9724254",
+      "title": "航道風險升溫、運價飆高 貨櫃散裝航運股齊揚 | 集中市場 | 證券 | 經濟日報",
+      "description": "全球航運市場再掀漲價行情，氣候異常造成巴拿馬運河、萊茵河缺水，加上中東地緣政治風險升溫，紅海、黑海等關鍵航道運輸受干擾，推升全球航運成本，供應鏈脆弱性再度浮現。台股航運股31日同步走強，貨櫃、散裝航運股成為盤面逆勢上漲族群，其中裕民（2606）盤中一度大漲7.6%，慧洋-KY（2637）、四維航（5608）漲逾2%，貨櫃航商陽明海運（2609）漲幅也近4%，長榮（2603）、萬海（2615）同步走揚。",
+      "publishedAt": "2026-08-31T03:33:39.093Z",
+      "discoveredAt": "2026-08-31T03:33:39.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_66a3063b0603c002533d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5640/9723327?from=edn_newest_index",
+      "title": "樺康智雲3新品 以AI串聯建築全生命周期 | ICT趨勢 | 商情 | 經濟日報",
+      "description": "在全球淨零轉型加速、建築產業面臨缺工與高齡化壓力的背景下，透過AI與數位技術提升建築效率與營運韌性，成為產業邁向永續的重要課題。樺康智雲為此特別於明（1）日至4日參與「2026 Build for NextGen國際永續智慧建築暨智慧建材展」（台北世貿1館A區A13），以「AI串聯建築全生命周期」為核心，首次發表3項新品，並展示智慧建築雲平台的最新整合應用，涵蓋設計、施工、營運管理與節能減碳的完整智慧化解決方案。",
+      "publishedAt": "2026-08-31T03:33:39.093Z",
+      "discoveredAt": "2026-08-31T03:33:39.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_de00f295f387f76c64bd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9719951?from=edn_newest_index",
+      "title": "庫克交棒4／蘋果新 CEO 不經營社群媒體 須擦亮個人品牌 | 專題報導 | 專題 | 經濟日報",
+      "description": "就要接棒庫克成為蘋果公司新任執行長的特納斯，領英（LinkedIn）帳號裡只列出兩個職場頭銜，一則貼文也沒有，看不到任何活動。儘管已在蘋果負責硬體業務多年，特納斯一直把自己的數位足跡保持在極少程度，完全不在意、更別說經營所謂的個人品牌。",
+      "publishedAt": "2026-08-31T03:33:39.093Z",
+      "discoveredAt": "2026-08-31T03:33:39.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3f92c7e79964716c9166",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5640/9723334?from=edn_newest_index",
+      "title": "AI運算需求爆發 安圖斯科技營運吃補 | ICT趨勢 | 商情 | 經濟日報",
+      "description": "安圖斯科技自宏碁企業產品線獨立滿7年，正站上AI運算需求爆發的關鍵時刻。執行長李占傑指出，AI伺服器市場已從過去的影像辨識，快速跨入大型語言模型與企業級應用，企業客戶導入AI的速度明顯加快，從概念驗證（POC）正式走向生產環境（Production），預期未來3到5年，企業端將成為AI成長的主要動能，安圖斯今年營運可望優於產業平均。",
+      "publishedAt": "2026-08-31T03:33:39.093Z",
+      "discoveredAt": "2026-08-31T03:33:39.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_19b21d7326496699034b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9724286?from=edn_newest_index",
+      "title": "台積電25家供應商聯合徵才 逾2千名職缺、月薪上看8.5萬 | 產業熱點 | 產業 | 經濟日報",
+      "description": "半導體相關供應鏈人才需求增溫。台積電攜手104人力銀行，預計於9月18日在台南舉辦「半導體基礎技術人才博覽會」，集結25家供應商聯合徵才，合計釋出逾2,200個中南部工作機會，部分營造、機電工程職缺月薪上看8.5萬元。",
+      "publishedAt": "2026-08-31T03:33:39.093Z",
+      "discoveredAt": "2026-08-31T03:33:39.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b5ebf344a54400ecfa4d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5640/9723329?from=edn_newest_index",
+      "title": "達梭推3款虛擬助手 強化人機協同創新力 | ICT趨勢 | 商情 | 經濟日報",
+      "description": "達梭系統（Dassault Systèmes）日前宣布擴展旗下3DEXPERIENCE AI原生代理型平台，正式推出3款虛擬助手AURA、LEO與MARIE，進一步強化人機協同創新的能力。這3款虛擬助手「現已透過3DEXPERIENCE AI原生代理型平台正式推出」，並以深厚的科學與產業知識為基礎，協助使用者在工業場景中完成各類任務。",
+      "publishedAt": "2026-08-31T03:33:39.093Z",
+      "discoveredAt": "2026-08-31T03:33:39.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ad078c9ad6a8f5b09e8b",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9724155?from=edn_maintab_index",
-      "title": "股市賺翻了！國泰金總座指今年股利發放會比過去好 股價大漲 | 集中市場 | 證券 | 經濟日報",
+      "title": "股市賺翻了！國泰金總座指今年股利發放會比過去好 股價大漲 國泰金（2882）上周五舉辦法說會，上半年大賺765億元，年增66.67%，每股純益（EPS）為4.95元；如加計FVOCI股票處分損益，調整後EPS達11.04元，已超越去年全年，創下新高。關於...",
       "description": "國泰金（2882）上周五舉辦法說會，上半年大賺765億元，年增66.67%，每股純益（EPS）為4.95元；如加計FVOCI股票處分損益，調整後EPS達11.04元，已超越去年全年，創下新高。關於股利問題，國泰金總經理李長庚認為，今年的現金股利預計會發得比過去好。國泰金31日盤中大漲近3%。",
       "publishedAt": "2026-08-31T03:22:52.032Z",
       "discoveredAt": "2026-08-31T03:22:52.032Z",
@@ -894,7 +1074,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -924,7 +1104,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1390,7 +1570,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723471?from=edn_hottest_index",
-      "title": "i18散熱再進化導入史上最大面積均熱板 台廠業績衝 3766",
+      "title": "i18散熱再進化導入史上最大面積均熱板 台廠業績衝 3820",
       "description": "蘋果秋季發表會將在台灣時間9月10日凌晨正式登場，市場預料首度亮相的iPhone 18 Pro系列將導入史上最大面積的VC（均熱板），散熱區域一路延伸至機身頂部，用以提升用戶體驗，衝刺新機銷售量，並有助於散熱廠業績衝鋒。",
       "publishedAt": "2026-08-31T02:03:24.327Z",
       "discoveredAt": "2026-08-31T02:03:24.327Z",
@@ -2680,7 +2860,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 4891",
+      "title": "本周開盤前 五件國際事不可不知 4934",
       "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-08-31T00:22:51.938Z",
       "discoveredAt": "2026-08-31T00:22:51.938Z",
@@ -2944,7 +3124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 4680",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 4716",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -3214,7 +3394,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 8975",
+      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 9096",
       "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
       "publishedAt": "2026-08-30T22:47:32.575Z",
       "discoveredAt": "2026-08-30T22:47:32.575Z",
@@ -5204,186 +5384,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_37ae574ae0f4568f7a63",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723235?from=edn_newest_index",
-      "title": "10檔「三強共振」股領漲抗跌 富喬、聯電等躍盤面焦點 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股上周震盪盤堅，攀本波反彈來波段高峰。法人認為，後市行情雖有震盪，不過長線看好，挑選近周股價表現強勢、獲法人買超力挺、7月業績又表現亮眼的「三強共振股」，如富喬（1815）、聯電等十檔領漲抗跌，將居盤面的交投亮點。",
-      "publishedAt": "2026-08-30T16:53:27.997Z",
-      "discoveredAt": "2026-08-30T16:53:27.997Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_19d79893bee69a8acca5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723237?from=edn_newest_index",
-      "title": "AI 伺服器代工四強 外資挺 | 市場焦點 | 證券 | 經濟日報",
-      "description": "戴爾（Dell）即將公布第2季財報，AI伺服器訂單與後續展望將成市場焦點。台系代工供應鏈中，緯創（3231）、鴻海、英業達、仁寶等四家近期紛紛獲各家外資調高目標價，在強勁AI需求延續下後市可期。",
-      "publishedAt": "2026-08-30T16:53:27.997Z",
-      "discoveredAt": "2026-08-30T16:53:27.997Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fec33abbdc7b307358b1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723240?from=edn_newest_index",
-      "title": "一周盤前股市解析／蘋概核心供應鏈 吸睛 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股上周五（28日）受輝達大漲、投資人對AI前景信心回籠激勵，指數以跳空上漲開盤後，快速震盪向上至全日最高46,574點，上漲599點，一舉突破前波8月14日高點後，短線獲利賣壓出籠漲幅收斂，指數終場上漲356點、以46,331點作收。",
-      "publishedAt": "2026-08-30T16:53:27.997Z",
-      "discoveredAt": "2026-08-30T16:53:27.997Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ad124f2dcf2e102d6bc4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723257?from=edn_newest_index",
-      "title": "就市論勢／AI 供應鏈 可留意 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股歷經7月去槓桿與評價修正，8月逐步收復失土。三大法人方面，外資7月賣超7,389億元，8月由賣轉買，投信持續第七個月站在買方。",
-      "publishedAt": "2026-08-30T16:53:27.997Z",
-      "discoveredAt": "2026-08-30T16:53:27.997Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9a0561060ab287230530",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9723241?from=edn_newest_index",
-      "title": "長虹、皇昌奪大直公辦都更案 | 房市話題 | 房市 | 經濟日報",
-      "description": "長虹建設（5536）昨（30）日公告，拿下「大直藏璽」公辦都更案。另，皇昌營造則以皇昌福榮合作聯盟拿下「大直儒玉」公辦都更案，兩案更新後樓地板面積合計逾2萬坪，預估可創造超過220億元不動產價值。",
-      "publishedAt": "2026-08-30T16:53:27.997Z",
-      "discoveredAt": "2026-08-30T16:53:27.997Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_80b35737d52554083779",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9723285?from=edn_newest_index",
-      "title": "台指期 短線震盪再攻 | 期貨市場 | 期貨 | 經濟日報",
-      "description": "台股上周五（28日）震盪盤堅，終場指數收在46,331點，上漲356點；台指期則上漲293點、收46,357點，正價差為25.55點。期貨商表示，目前台指期站穩在所有均線之上，加上月線來到45,000點關卡附近，成為重要支撐，因此短線震盪整理過後仍有機會再攻。",
-      "publishedAt": "2026-08-30T16:42:41.579Z",
-      "discoveredAt": "2026-08-30T16:42:41.579Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

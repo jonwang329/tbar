@@ -1,7 +1,127 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T00:09:06.256Z",
+  "updatedAt": "2026-08-31T00:22:51.938Z",
   "candidates": [
+    {
+      "id": "cand_35f66ac0fee9858fea21",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723786",
+      "title": "日圓再破160 貝森特仍稱控制得還不錯：安倍經濟學已到盡頭 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財政部長貝森特周日表示，近日日圓走勢「控制得還不錯」，顯示美方不認為日圓再度貶值，已出現上月促使美日罕見聯手干預匯市的失序情況。",
+      "publishedAt": "2026-08-31T00:22:51.938Z",
+      "discoveredAt": "2026-08-31T00:22:51.938Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_668f5b20a18d7104d3ca",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723786?from=edn_maintab_index",
+      "title": "日圓再破160 貝森特仍稱控制得還不錯：安倍經濟學已到盡頭 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財政部長貝森特周日表示，近日日圓走勢「控制得還不錯」，顯示美方不認為日圓再度貶值，已出現上月促使美日罕見聯手干預匯市的失序情況。",
+      "publishedAt": "2026-08-31T00:22:51.938Z",
+      "discoveredAt": "2026-08-31T00:22:51.938Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_643b23567fcb3f5aa451",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723786?from=edn_newest_index",
+      "title": "日圓再破160 貝森特仍稱控制得還不錯：安倍經濟學已到盡頭 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財政部長貝森特周日表示，近日日圓走勢「控制得還不錯」，顯示美方不認為日圓再度貶值，已出現上月促使美日罕見聯手干預匯市的失序情況。",
+      "publishedAt": "2026-08-31T00:22:51.938Z",
+      "discoveredAt": "2026-08-31T00:22:51.938Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1109c835ddd5b9cd49df",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
+      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
+      "publishedAt": "2026-08-31T00:22:51.938Z",
+      "discoveredAt": "2026-08-31T00:22:51.938Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_964c1fb2358da6355a7a",
       "sourceLastModified": null,
@@ -10,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723784?from=edn_newest_index",
-      "title": "奇彥科技布局先進封裝材料加工有成 將首度參與2026國際半導體展 | 產業熱點 | 產業 | 經濟日報",
+      "title": "奇彥科技布局先進封裝材料加工有成 將首度參與2026國際半導體展 2026-08-31 08:04",
       "description": "受惠於先進封裝廠大擴產潮，推升半導體材料加工廠奇彥科技營運加溫。隨著與客戶合作開發的先進封裝銅柱與巨量轉移材料解決方案完成，奇彥科技今年將首度參與SEMICON Taiwan 2026 國際半導體展，宣告已成功自電子材料轉型邁向半導體材料加工供應鏈。",
       "publishedAt": "2026-08-31T00:09:06.256Z",
       "discoveredAt": "2026-08-31T00:09:06.256Z",
@@ -40,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723782?from=edn_newest_index",
-      "title": "8月31日重要財經行事曆 | 市場焦點 | 證券 | 經濟日報",
+      "title": "8月31日重要財經行事曆 2026-08-31 08:02",
       "description": "台灣 SEMICON Taiwan 2026展前記者會 除權息：高林股、美時、王座、三商、集雅社、全科、豪展、台聯電、強新、能率、樂意、泰金寶-DR、中保科 法人說明會：台泥、寒舍、凱基金、匯僑、中美實、台名、合庫金、瑞耘、博晟生醫、康霈*、統一實 興櫃掛牌：科科科技-KY、捷立康 國際 G20財長會議 中國大陸 大陸8月官方製造業PMI",
       "publishedAt": "2026-08-31T00:09:06.256Z",
       "discoveredAt": "2026-08-31T00:09:06.256Z",
@@ -244,7 +364,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 2324",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 2842",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -514,7 +634,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 3989",
+      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 4923",
       "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
       "publishedAt": "2026-08-30T22:47:32.575Z",
       "discoveredAt": "2026-08-30T22:47:32.575Z",
@@ -1488,7 +1608,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1894,7 +2014,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9723544?from=edn_hottest_index",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 2756",
+      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 2871",
       "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
       "publishedAt": "2026-08-30T17:36:14.927Z",
       "discoveredAt": "2026-08-30T17:36:14.927Z",
@@ -5253,126 +5373,6 @@
       "description": "尼泊爾致命洪災已奪走超過700條人命，當局在一片斷垣殘壁中救出一名遭埋多日的6歲女童，由於傷勢不輕，目前她已被送到加德滿...",
       "publishedAt": "2026-08-30T10:42:49.008Z",
       "discoveredAt": "2026-08-30T10:42:49.008Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a72077af68d9bdbeb375",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9723183?from=edn_newest_index",
-      "title": "美媒：新疆試飛基地大規模擴建 可能為轟20測試鋪路 2026-08-30 18:36",
-      "description": "美國軍事網站「戰區」披露，據衛星影像公司「星球實驗室」（Planet Labs）近日拍攝的衛星圖像，中國新疆一處靠近羅布...",
-      "publishedAt": "2026-08-30T10:42:49.008Z",
-      "discoveredAt": "2026-08-30T10:42:49.008Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6f33304225d3202ab503",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723177?from=edn_newest_index",
-      "title": "俄軍襲烏克蘭基輔州彈藥庫釀38死 創當地今年死亡人數新高 2026-08-30 18:30",
-      "description": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）今天表示，俄軍攻擊烏克蘭基輔州一座彈藥庫，死亡人數已增至38...",
-      "publishedAt": "2026-08-30T10:42:49.008Z",
-      "discoveredAt": "2026-08-30T10:42:49.008Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b8ac4d7a25c3f307e5c3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9723157?from=edn_newest_index",
-      "title": "菲律賓次長肯定台灣消防培訓 讚助打造「新菲律賓」 2026-08-30 18:07",
-      "description": "菲華文經總會消防研習營同學會今天舉行新屆學員授證儀式，菲律賓內政部次長馬比洛格肯定台灣協助培訓義勇消防隊員，提升菲律賓災...",
-      "publishedAt": "2026-08-30T10:16:32.584Z",
-      "discoveredAt": "2026-08-30T10:16:32.584Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5830931aa09f5e069b03",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723149?from=edn_newest_index",
-      "title": "疑似遊客行動電源自燃 東京迪士尼樂園餐廳疏散無人傷亡 2026-08-30 18:00",
-      "description": "日本東京迪士尼樂園30日下午4時許（台灣時間同日下午3時許），疑似有遊客攜帶的行動電源自燃。",
-      "publishedAt": "2026-08-30T10:05:52.757Z",
-      "discoveredAt": "2026-08-30T10:05:52.757Z",
       "topics": [
         "Taiwan business",
         "investment",

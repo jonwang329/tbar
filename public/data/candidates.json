@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T18:13:13.702Z",
+  "updatedAt": "2026-08-31T18:23:59.027Z",
   "candidates": [
+    {
+      "id": "cand_03045ed96c7d452a836d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5944/9725880?from=edn_newest_index",
+      "title": "機器人大眾化…路還很長 | 國際專欄 | 專欄 | 經濟日報",
+      "description": "中國大陸機器人新創企業宇樹科技公司，完成重磅級的股票上市（IPO），但公司執行長王興興承認，宇樹仍不清楚該如何製造真正管用的機器人。他預期機器人「大眾化市場」將在十年內來到，這已經是非常樂觀的預期。",
+      "publishedAt": "2026-08-31T18:23:59.027Z",
+      "discoveredAt": "2026-08-31T18:23:59.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ae10d901955aee4cf272",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5944/9725880?from=edn_bloomberg_index_side",
+      "title": "機器人大眾化…路還很長 | 國際專欄 | 專欄 | 經濟日報",
+      "description": "中國大陸機器人新創企業宇樹科技公司，完成重磅級的股票上市（IPO），但公司執行長王興興承認，宇樹仍不清楚該如何製造真正管用的機器人。他預期機器人「大眾化市場」將在十年內來到，這已經是非常樂觀的預期。",
+      "publishedAt": "2026-08-31T18:23:59.027Z",
+      "discoveredAt": "2026-08-31T18:23:59.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_626ca296202e954b1d50",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725872?from=edn_newest_index",
-      "title": "日本政府明年度預算將創高 估達8,950億美元 | 國際焦點 | 國際 | 經濟日報",
+      "title": "日本政府明年度預算將創高 估達8,950億美元 2026-09-01 02:07",
       "description": "日媒據各部會向財務省提交的支出規劃，算出2027年度預算需求達到約143兆日圓（8,950億美元），規模創新高，也遠超本年度所提出的122.4兆日圓，反映當局將大舉擴張人工智慧（AI）、半導體與國防等戰略投資。",
       "publishedAt": "2026-08-31T18:13:00.969Z",
       "discoveredAt": "2026-08-31T18:13:00.969Z",
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725869?from=edn_newest_index",
-      "title": "日圓貶破160 官方警戒 | 國際焦點 | 國際 | 經濟日報",
+      "title": "日圓貶破160 官方警戒 2026-09-01 02:06",
       "description": "日圓8月31日盤中再次貶破160，提高當局干預的可能性，也使投資人更加關注美日是否會再次出手支撐日圓。分析師則認為單靠干預很難扭轉日圓長期弱勢的格局。",
       "publishedAt": "2026-08-31T18:13:00.969Z",
       "discoveredAt": "2026-08-31T18:13:00.969Z",
@@ -70,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725831?from=edn_newest_index",
-      "title": "Mac Mini 犀利 獲 OpenAI、Anthropic 大量採購租用 | 國際焦點 | 國際 | 經濟日報",
+      "title": "Mac Mini 犀利 獲 OpenAI、Anthropic 大量採購租用 2026-09-01 02:05",
       "description": "The Information報導，OpenAI近幾個月買進數以萬計的Mac Mini與Mac Studio，以因應強化學習與代理需求。Anthropic也透過亞馬遜雲端運算服務（AWS），租用Mac Mini，進行類似作業，凸顯這兩家積極投入AI基建的巨頭，也依賴消費者擺放在螢幕下方的蘋果小型桌機。&#039;",
       "publishedAt": "2026-08-31T18:13:00.969Z",
       "discoveredAt": "2026-08-31T18:13:00.969Z",
@@ -100,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725832?from=edn_newest_index",
-      "title": "SK海力士 HBM 傳找英特爾代工 增加台積以外夥伴 | 國際焦點 | 國際 | 經濟日報",
+      "title": "SK海力士 HBM 傳找英特爾代工 增加台積以外夥伴 2026-09-01 02:04",
       "description": "南韓晶片大廠SK海力士據傳正考慮委託英特爾生產高頻寬記憶體（HBM）的基礎晶片（base die），以增加台積電以外的代工夥伴。分析師表示，英特爾6月聘請SK海力士前執行長李錫熙為代工事業資深副總裁，加深了兩公司關係，也推動了這項計畫的發展。",
       "publishedAt": "2026-08-31T18:13:00.969Z",
       "discoveredAt": "2026-08-31T18:13:00.969Z",
@@ -894,7 +954,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2211,7 +2271,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3332,7 +3392,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 14780",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 14836",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5328,66 +5388,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2fb22219e8734aff99a3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725556?from=edn_newest_index",
-      "title": "上合組織25週年峰會登場 中俄伊朗領袖齊聚吉爾吉斯 | 國際焦點 | 國際 | 經濟日報",
-      "description": "中國國家主席習近平與伊朗總統裴澤斯基安目前正在吉爾吉斯首都比許凱克，俄羅斯總統普丁今天稍晚也將抵達，參與為期2天、匯聚十...",
-      "publishedAt": "2026-08-31T12:17:39.429Z",
-      "discoveredAt": "2026-08-31T12:17:39.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4045d33d5fb10665c750",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9725241",
-      "title": "19:56 台股大跌他們逆勢紅！「這兩檔」擁 AI 護身符逆風暴衝",
-      "description": "台股31日拉回整理，盤面個股跌多漲少，其中「逆勢走強股」因各擁利多題材發酵，吸引市場矚目。如長興（1717）股價大漲超過半根停板，終場收82.5元，攀本波反彈高峰；力積電（6770）大漲4.2%、收73元，表現均相當強勢。",
-      "publishedAt": "2026-08-31T12:06:49.819Z",
-      "discoveredAt": "2026-08-31T12:06:49.819Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

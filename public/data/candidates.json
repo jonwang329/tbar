@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T12:43:25.904Z",
+  "updatedAt": "2026-08-31T12:54:15.897Z",
   "candidates": [
+    {
+      "id": "cand_055782ab0ab0235cd715",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725586?from=edn_maintab_index",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 | 產業熱點 | 產業 | 經濟日報",
+      "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
+      "publishedAt": "2026-08-31T12:54:01.779Z",
+      "discoveredAt": "2026-08-31T12:54:01.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4f35b76da84bb4d4cd6e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9725618?from=edn_newest_index",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
+      "publishedAt": "2026-08-31T12:54:01.779Z",
+      "discoveredAt": "2026-08-31T12:54:01.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_80af862376ad291baea6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9725596?from=edn_newest_index",
+      "title": "傳新竹棒球場工程容許5%垃圾？竹市府：契約無此條款「有垃圾遭掩埋」 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "新竹地檢署偵辦新竹市立棒球場工程案近四年，前市長林智堅被控圖利等罪獲不起訴，掀起政治攻防；部分網友與輿論解讀契約存有「5%垃圾容許標準」，或稱挖出的廢棄物數量少並質疑其來源。對此，市府澄清，這是有心人士惡意混淆新竹棒球場事實，確實有垃圾及廢棄物遭掩埋、從未有5%容許標準。",
+      "publishedAt": "2026-08-31T12:54:01.779Z",
+      "discoveredAt": "2026-08-31T12:54:01.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_75af62a2f862c3a02cf0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9724884?from=edn_newest_index",
+      "title": "上海星軼影院管理據悉接近收購百老匯院線中國內地業務的多數股權 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "【彭博】-- 據知情人士表示，上海星軼影院管理有限公司接近收購百老匯院線(Broadway Circuit)中國大陸內地業務的多數股權。",
+      "publishedAt": "2026-08-31T12:54:01.779Z",
+      "discoveredAt": "2026-08-31T12:54:01.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1c7652e3c94e820458c4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9725613?from=edn_newest_index",
+      "title": "大陸無人駕駛計程車進軍南韓 小馬智行首批擬投放200輛 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸自動駕駛企業小馬智行將與南韓自動駕駛移動出行企業FutureLink合作，把旗下第7代無人駕駛計程車（Robotaxi）引進南韓市場，首批計畫投放約200輛，並爭取在2028年前後於首爾實現完全無人駕駛商業營運。",
+      "publishedAt": "2026-08-31T12:54:01.779Z",
+      "discoveredAt": "2026-08-31T12:54:01.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d93a65d24e6af1659cb3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725608?from=edn_newest_index",
+      "title": "輝達認購聯發科海外轉換公司債35億美元 雙方還將深化合作 | 產業熱點 | 產業 | 經濟日報",
+      "description": "聯發科（2454）於今晚公告，其海外第一次無擔保轉換公司債完成訂價，總額為39億美元，其中會由輝達（NVIDIA）認購35億美元。同時，雙方也宣布，將深化長期合作夥伴關係，共同打造跨世代的AI基礎建設、邊緣AI運算與車用產品。",
+      "publishedAt": "2026-08-31T12:54:01.779Z",
+      "discoveredAt": "2026-08-31T12:54:01.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1a549c3a7c207d96c434",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet都出手認購 | 產業熱點 | 產業 | 經濟日報",
+      "title": "20:40 聯發科完成39億美元海外可轉債訂價 NVIDIA 和 Alphabet 認購",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結的",
       "publishedAt": "2026-08-31T12:43:25.904Z",
       "discoveredAt": "2026-08-31T12:43:25.904Z",
@@ -2640,7 +2820,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9724681?from=edn_hottest_index",
-      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 12377",
+      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 12901",
       "description": "長輩生前把房子留給孫女，但人過世後兩天，代理人才去辦贈與稅申報，這筆房地究竟該算「生前贈與」，還是應該列入遺產？財政部一件訴願案就出現這樣的爭議，其他繼承人質疑，贈與稅申報時人都已經過世，怎麼還能算贈與，甚至為此一路爭了十多年。",
       "publishedAt": "2026-08-31T10:24:51.131Z",
       "discoveredAt": "2026-08-31T10:24:51.131Z",
@@ -3069,7 +3249,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -3295,7 +3475,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9724724?from=edn_hottest_index",
-      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 11885",
+      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 12254",
       "description": "檢調調查欣興PCB產地，欣興（3037）今日發布公司最新重大訊息說明。",
       "publishedAt": "2026-08-31T09:52:33.069Z",
       "discoveredAt": "2026-08-31T09:52:33.069Z",
@@ -3309,7 +3489,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5204,186 +5384,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_22c2da645074fce9972d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9724774",
-      "title": "15:37 合庫金法說會／前7月獲利160.7億元、年成長33.2% 總資產5.4兆",
-      "description": "合庫金（5880）31日舉行第2季法人說明會，由總經理蘇佐政主持，他表示，儘管中東局勢震盪衝擊全球經濟，然而人工智慧(AI)技術突破與快速擴張，有效抵禦地緣政治帶來的負面影響，依據國際貨幣基金組織（IMF）於7月發布最新「世界經濟展望報告」，預測今年全球經濟成長率為3.0%，明年經濟成長率則為3.4%。顯示全球經濟於逆境中仍維持穩健及堅實基本面。",
-      "publishedAt": "2026-08-31T07:44:48.626Z",
-      "discoveredAt": "2026-08-31T07:44:48.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c5ebfb33efcece88d33d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9724908?from=edn_newest_index",
-      "title": "「青安3.0」婚育買盤助攻 台灣房屋：8月房市月增6.5%、年增10.9% | 房市話題 | 房市 | 經濟日報",
-      "description": "台灣房屋集團統計內部成交行情，觀察2026年8月價量變化，和7月相較，其中桃園月增11.2%，新北市8.6%，表現最亮眼；年增部分桃園市16.9%，新北市15.9%。整體而言，六都+新竹縣市，整體月增6.5%，年增10.9%。",
-      "publishedAt": "2026-08-31T07:44:48.626Z",
-      "discoveredAt": "2026-08-31T07:44:48.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6855d1e65fc499c3d80f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9724900?from=edn_newest_index",
-      "title": "朱忠明任上海市政府中共黨組書記 可望接任上海市長 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "據人民網和上觀新聞等中國官方媒體報導，中共上海市委副書記朱忠明已上任上海市政府黨組書記。財新網分析，中國第一大城市將迎來...",
-      "publishedAt": "2026-08-31T07:44:48.626Z",
-      "discoveredAt": "2026-08-31T07:44:48.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3b74a53e6175341cb331",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724899?from=edn_newest_index",
-      "title": "潛在人才庫 德國聯邦情報局科隆電玩展招募新血 | 國際焦點 | 國際 | 經濟日報",
-      "description": "德國聯邦情報局前進全球3大電玩展「科隆電玩展」招募人工智慧、軟體開發等科技人才，推出自製間諜遊戲吸引人才加入。情報局表示...",
-      "publishedAt": "2026-08-31T07:44:48.626Z",
-      "discoveredAt": "2026-08-31T07:44:48.626Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_53246ef4f5a341d8a602",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9724887?from=edn_newest_index",
-      "title": "經濟部通過美商科林以98億元增資台灣 投資晶片製程設備研發及設計 2026-08-31 15:33",
-      "description": "經濟部投資審議會31日通過美商LAM RESEARCH CORPORATION以相當於新台幣98億3,500萬元等值之外幣，增資台灣科林，從事先進半導體晶片製程所需關鍵製造設備之技術研發、設計業務。",
-      "publishedAt": "2026-08-31T07:34:07.604Z",
-      "discoveredAt": "2026-08-31T07:34:07.604Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5491e5bf786ca2aa95d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9724877?from=edn_newest_index",
-      "title": "權利回復基金會8月通過91件賠償案 賠償逾1.7億元 2026-08-31 15:30",
-      "description": "財團法人威權統治時期國家不法行為被害者權利回復基金會今天說，8月通過91件賠償案，總賠償金額逾新台幣1.7億元。這次通過...",
-      "publishedAt": "2026-08-31T07:34:07.604Z",
-      "discoveredAt": "2026-08-31T07:34:07.604Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

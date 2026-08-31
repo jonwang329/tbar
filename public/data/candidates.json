@@ -1,7 +1,182 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T03:54:51.039Z",
+  "updatedAt": "2026-08-31T04:06:26.051Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-08-31T04:06:26.051Z",
+      "discoveredAt": "2026-08-31T04:06:26.051Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_f08bfbbc3018cc6ddad6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9724395?from=edn_newest_index",
+      "title": "貝森特說將號召G20加高對陸貿易壁壘 壓低1.2兆美元順差 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財政部長貝森特周日表示，他將號召20國集團（G20）成員國重新檢視和中國大陸的貿易條件，以縮減全球失衡，並促使北京調整經濟結構，降低對出口的依賴、轉向國內消費。",
+      "publishedAt": "2026-08-31T04:06:05.904Z",
+      "discoveredAt": "2026-08-31T04:06:05.904Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f581bdf09302c506e7f7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6721/9724396?from=edn_newest_index",
+      "title": "Shein明在港上市 CEO許仰天身價4年蒸發逾4700億元 | 港澳話題 | 兩岸 | 經濟日報",
+      "description": "大陸快時尚巨頭Shein即將在香港上市，但估值已較高峰大幅縮水。彭博報導，Shein執行長許仰天身價也隨之從逾230億美元（約台幣7284億元）降至約80億美元（約台幣2533億元），短短4年間蒸發超過150億美元（約台幣4751億元）。",
+      "publishedAt": "2026-08-31T04:06:05.904Z",
+      "discoveredAt": "2026-08-31T04:06:05.904Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d4f362cf4eb37f22626a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124067/9724377?from=edn_newest_index",
+      "title": "美國留學申請流程：美國留學顧問解析大學申請條件、費用及時間 | 本地店商焦點 | 商情 | 經濟日報",
+      "description": "圖／PANO Education提供準備美國大學申請，卻不知該從什麼時候開始準備？其實，美國留學申請流程涉及考試、文書、課外活動與送件時程，若缺乏完整規劃，很容易到了申請階段才手忙腳亂。本文將整理申請流程、留學費用、入學條件與準備時間，並說明美國留學顧問能提供哪些協助，幫助學生與家長快速掌握重點。美國留學申請流程有哪些？美國留學申請流程通常會先從學生現況開始盤點，包括GPA、SAT／ACT、TOEFL／IELTS、AP／IB選課、課外活動與主修探索進度，再確認未來想申請的科系及學校方向。進入正式申請階段後，需陸續準備Personal Statement、Supplemental Essays、推薦信、Activity List、成績單及各校要求的資料。美國大學申請流程環環相扣，越早確認方向，越能保留調整空間。多數美國大學可透過Common App提交申請，UC Berkeley、UCLA等UC系統學校則使用獨立申請平台，因此送件方式與截止日期也有所不同，以多數美國大學的留學申請流程來看，G11下學期可開始準備文書、SAT、暑期活動與推薦信；8月Common App開放後整理申請資料，1",
+      "publishedAt": "2026-08-31T04:06:05.904Z",
+      "discoveredAt": "2026-08-31T04:06:05.904Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b2e8f3657d8def71ed1d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124067/9724376?from=edn_newest_index",
+      "title": "鳳山前鎮汽機車借款當舖推薦 合法短期資金週轉彈性評估 | 本地店商焦點 | 商情 | 經濟日報",
+      "description": "圖／樂天融資提供不少上班族、自營商、外送員、物流司機及需要短期資金週轉的民眾，常希望透過名下汽車或機車取得資金，同時維持日常生活與工作所需的交通工具使用。鳳山前鎮汽機車借款當舖推薦品牌樂天融資，提供汽機車借款評估服務，可依車況及借款人的實際條件進行彈性評估，協助有資金需求的民眾了解可申辦方案。圖／樂天融資提供鳳山前鎮汽機車借款怎麼辦理？不少民眾關心汽機車借款的申辦方式，其實實際可借額度會依車況、工作狀況、收入穩定度及個人條件等因素綜合評估，且即使車輛仍有貸款，也可先向專員諮詢評估，不必因此而放棄了解申辦可能。樂天融資提供各項鳳山前鎮汽機車借款當舖推薦服務，包括鳳山機車借款、汽車借款等短期週轉評估服務，現場可協助說明可借額度、利息、還款方式及所需文件，不限車齡與廠牌皆可先行諮詢，讓有需求的民眾充分了解相關資訊後再決定是否辦理。圖／樂天融資提供有用車需求也想借款？對許多通勤族、業務人員、物流配送、工程承包或家庭接送者而言，交通工具每天都必須使用，因此借款前通常也會關心後續的用車安排。樂天融資建議，民眾可於現場諮詢時，與專員確認符合自身情況的可用車借款方案及相關條件，了解可借額度、審核方式、",
+      "publishedAt": "2026-08-31T04:06:05.904Z",
+      "discoveredAt": "2026-08-31T04:06:05.904Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9ae3ed2fdedb876a6455",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9724375?from=edn_newest_index",
+      "title": "旅遊不便險理賠怎麼申請？富邦產險提醒「這些事」文件大不同 | 金融脈動 | 金融 | 經濟日報",
+      "description": "近期受颱風影響，航班延誤、取消及旅程變更等狀況頻傳，富邦產險提醒民眾，不同事故類型所需檢附文件略有差異，保戶如欲申請相關理賠，事故證明及費用單據等文件的完整性，將有助於後續認定，建議旅客於事故發生當下即向航空公司、交通工具業者或相關單位申請證明文件，並妥善保存原訂行程資料及額外支出單據。",
+      "publishedAt": "2026-08-31T04:06:05.904Z",
+      "discoveredAt": "2026-08-31T04:06:05.904Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4a0a8f43d849e5240b2c",
       "sourceLastModified": null,
@@ -10,7 +185,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9724332",
-      "title": "玉晶光挾雙題材 股價逆勢飆漲停天價、躋身千金股 | 集中市場 | 證券 | 經濟日報",
+      "title": "11:51 玉晶光挾雙題材 股價逆勢飆漲停天價、躋身千金股",
       "description": "玉晶光（3406）同樣具有CPO及蘋果新機題材，31日開低走高，盤中衝上漲停1,005元，寫歷史新高價，躋身千金股行列；大立光（3008）也是續創新高的表現，一度衝達7,735元，盤中漲幅逾8%。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -190,7 +365,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723953?from=edn_hottest_index",
-      "title": "欣興發出最新聲明 澄清爭議產品非載板 | 產業熱點 | 產業 | 經濟日報",
+      "title": "欣興發出最新聲明 澄清爭議產品非載板 4102",
       "description": "ABF載板大廠欣興（3037）遭檢調搜索事件持續發酵，公司稍早發出最新聲明強調，本次產地標示爭議產品主要為PCB產品、並非載板。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -2163,6 +2338,35 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_76268b8a1217cc979537",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/indep/1007010",
+      "title": "北投晶泉丰旅摘國際雙殊榮！入選《米其林指南》、獲 GSTC 永續認證 從黃金綠建築到細緻款待文化 以大地美學重塑溫泉奢華體驗｜商周",
+      "description": "晶華國際酒店集團旗下的溫泉精品飯店品牌——「北投晶泉丰旅」（Wellspring by Silks Beitou），開幕即憑藉優異的綠色工法取得國內「黃金級綠建築標章」；隨後更一舉獲得「臺北市觀光永續",
+      "publishedAt": "2026-08-31T09:45:21+08:00",
+      "discoveredAt": "2026-08-31T04:06:05.904Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 95,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_b9982d5d4851bad9e66c",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -3220,7 +3424,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 5047",
+      "title": "本周開盤前 五件國際事不可不知 5111",
       "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-08-31T00:22:51.938Z",
       "discoveredAt": "2026-08-31T00:22:51.938Z",
@@ -3484,7 +3688,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 4778",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 4818",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -3754,7 +3958,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 9313",
+      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 9431",
       "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
       "publishedAt": "2026-08-30T22:47:32.575Z",
       "discoveredAt": "2026-08-30T22:47:32.575Z",
@@ -5185,211 +5389,6 @@
       "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
-    },
-    {
-      "id": "cand_bd5cc012dcc579a67ef3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9723583?from=edn_newest_index",
-      "title": "長江存儲 NAND 大擴產 預期明年成長25% 挑戰三星、SK海力士等地位 2026-08-31 01:22",
-      "description": "研調機構Omdia預測，中國大陸記憶體業者長江存儲（YMTC）明年將提高NAND快閃記憶體的晶圓產量近25%，由於該公司目標在明年底躍居全球NAND一哥，還有人估計，產量或許會提高一倍以上。",
-      "publishedAt": "2026-08-30T17:25:34.656Z",
-      "discoveredAt": "2026-08-30T17:25:34.656Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_32bb2fec0e06e1f0f4c6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9723592?from=edn_newest_index",
-      "title": "AI 助攻 陸銅材需求爆發 2026-08-31 01:21",
-      "description": "在AI發展浪潮下，對於銅的需求加深。大陸一家銅材加工企業生產線訂單已排到年底，該企業產品主要應用於AI算力晶片液冷板，月產量超過2,000噸。據市場測算，2026年AI伺服器專用高端銅箔需求約2.4萬噸，年增260%。",
-      "publishedAt": "2026-08-30T17:25:34.656Z",
-      "discoveredAt": "2026-08-30T17:25:34.656Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f168063fa348788e7ec",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723669?from=edn_newest_index",
-      "title": "被視為「伊斯蘭版北約」 麥加共同防禦協定將首次集會 | 國際焦點 | 國際 | 經濟日報",
-      "description": "根據「麥加共同防禦協定」設立的戰略政治與國防委員會，其首次會議明天將在土耳其第一大城伊斯坦堡召開",
-      "publishedAt": "2026-08-30T17:25:34.656Z",
-      "discoveredAt": "2026-08-30T17:25:34.656Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e6a35ca4914a75a2a249",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9723586?from=edn_newest_index",
-      "title": "百度將登全棧 AI 第一股 明轉為雙重主要上市 在港股、那斯達克交易 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "一半營收已來自AI業務的百度，9月1日起，將於香港聯交所及那斯達克雙重主要上市。屆時將成為兩地市場少有完整走完「晶片、雲、大模型、AI應用、自動駕駛」全鏈條的科技企業，也贏得「全棧AI第一股」稱號。",
-      "publishedAt": "2026-08-30T17:25:34.656Z",
-      "discoveredAt": "2026-08-30T17:25:34.656Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_707506029c0c10085425",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9723588?from=edn_newest_index",
-      "title": "習普會聚焦天然氣合作 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "大陸國家主席習近平昨（30）日抵達吉爾吉斯首都比斯凱克出席上海合作組織峰會，預計今（31）日將與俄羅斯總統普丁會面，雙方將討論中俄天然氣合作及國際議題，包括規劃多年的「西伯利亞力量2號」天然氣管道項目。",
-      "publishedAt": "2026-08-30T17:25:34.656Z",
-      "discoveredAt": "2026-08-30T17:25:34.656Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_711f5b6aae53d8e6603b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9722572?from=edn_hottest_index",
-      "title": "AI「燒錢潮」轉向資本紀律！ASIC 成降本利器 這些台廠將受惠 1996",
-      "description": "AI產業正進入結構性轉變階段，逐步邁向「槓桿式基礎設施周期」（Leveraged Infrastructure Cycle），融資方式也更加多元，開始大量導入公司債、長期資料中心租約、特殊目的公司（SPV）、專案融資（Project Finance）及私人信貸（Private Credit）等工具。隨AI產業進入資本紀律時代，業者對成本效益與投資報酬率的要求提高，反而有望加速ASIC滲透率提升。",
-      "publishedAt": "2026-08-30T17:25:34.656Z",
-      "discoveredAt": "2026-08-30T17:25:34.656Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-08-30T17:15:18.916Z",
-      "discoveredAt": "2026-08-30T17:15:18.916Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
     }
   ]
 }

@@ -1,7 +1,272 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T09:37:22.213Z",
+  "updatedAt": "2026-08-31T09:52:54.885Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-08-31T09:52:54.885Z",
+      "discoveredAt": "2026-08-31T09:52:54.885Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_99043484f633136e4b72",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725125",
+      "title": "航太零組件廠長亨精密31日召開股東臨時會 討論退出興櫃 | 產業熱點 | 產業 | 經濟日報",
+      "description": "航太零組件廠長亨（4546）精密31日召開股東臨時會，會中主要討論「申請終止興櫃股票櫃檯買賣」及「申請停止股票公開發行」等重大議案，正式宣告長亨啟動退出公開資本市場的流程。",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_078f56f0f3746e9e8363",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725118?from=edn_maintab_index",
+      "title": "台灣勝出！高盛：南韓人口老化太快 難享 AI 紅利 | 國際焦點 | 國際 | 經濟日報",
+      "description": "高盛報告指出，台灣和南韓是AI熱潮的兩大受惠國，但南韓人口老化速度太快，AI財富恐怕無法惠及一般民眾。",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6ea17ac64387578abb98",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9725193?from=edn_newest_index",
+      "title": "凱基金明年股利有戲？總座：殖利率逾5%「相對樂觀、不會掉隊」 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "凱基金（2883）今（31）日舉行法說會，上半年稅後淨利284.4億元、每股盈餘1.64元，若加計凱基人壽FVOCI股票處分利益，對保留盈餘貢獻達677.8億元，創歷年同期新高。面對市場最關心的明年股利，總經理楊文鈞表示，凱基金股利「不會掉隊」，被問及以目前股價估算，現金殖利率有機會超過5%，他表示，「相對樂觀，也知道股東的期待」。",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7e6f3ce60fb0aeeabafa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9725183?from=edn_newest_index",
+      "title": "美伊僵局國際氣價漲…中油：9月民生天然氣價凍漲 發電用戶調漲5.83% | 生活 | 要聞 | 經濟日報",
+      "description": "台灣中油公司31日宣布，因美伊談判陷入僵局，中東LNG供應不確定性高，加上歐洲提前備氣因應冬季需求，國際LNG價格仍處高檔，致進口氣源成本增加。依據政府核定之天然氣價格公式計算，各類用戶天然氣價格均應調漲。為配合政府穩定國內物價政策，2026年9月民生用戶天然氣價格不予調整，由台灣中油吸收，以照顧全台家庭、商業及服務業等民生類用戶，減輕民生負擔及維持物價穩定。",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e96f796f47d4cfb22cb4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725179?from=edn_newest_index",
+      "title": "紐西蘭夜空驚現亮綠火球 拖白色尾巴民眾驚嘆 | 國際焦點 | 國際 | 經濟日報",
+      "description": "紐西蘭北島昨晚夜空出現一顆明亮的綠色火球，「陶蘭加天文學會」（Tauranga Astronomical Society...",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_952933f72d87ecccb9d9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9725178?from=edn_newest_index",
+      "title": "颱風沙德爾最快深夜復活海警機會偏低 9/3前中南部台東防豪雨 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "氣象署今天表示，位於海南島的熱帶低壓TD20最快今天深夜增強為颱風沙德爾，發海警機會偏低；9月3日前台灣受大低壓帶及西南...",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f0ce2a87b41a97fd1852",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9725177?from=edn_newest_index",
+      "title": "習近平與吉爾吉斯總統會談 簽署永久睦鄰友好合作條約 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "正在吉爾吉斯進行國是訪問的中國國家主席習近平，今天與吉爾吉斯總統賈帕洛夫舉行會談。習近平表示，中吉要落實好經貿合作規劃，...",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_eb0dea5a5162c76f82cb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9724724?from=edn_hottest_index",
+      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 | 產業熱點 | 產業 | 經濟日報",
+      "description": "檢調調查欣興PCB產地，欣興（3037）今日發布公司最新重大訊息說明。",
+      "publishedAt": "2026-08-31T09:52:33.069Z",
+      "discoveredAt": "2026-08-31T09:52:33.069Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_97aa2d9c1362b289a27a",
       "sourceLastModified": null,
@@ -10,7 +275,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9725101?from=edn_maintab_index",
-      "title": "合庫金法說會／股利政策定調穩定 符合股東對現金股利穩定成長期待 | 金融脈動 | 金融 | 經濟日報",
+      "title": "合庫金法說會／股利政策定調穩定 符合股東對現金股利穩定成長期待 合庫金（5880）31日舉行法人說明會，截至7月稅後純益160.7億元，續創歷年同期新高，年成長33.2%。投資人關注股利政策，合庫金表示，近三年股利皆達1元、發放率約八成，為維持穩定發放政策，未來...",
       "description": "合庫金（5880）31日舉行法人說明會，截至7月稅後純益160.7億元，續創歷年同期新高，年成長33.2%。投資人關注股利政策，合庫金表示，近三年股利皆達1元、發放率約八成，為維持穩定發放政策，未來會符合股東對現金股利穩定成長的期待。",
       "publishedAt": "2026-08-31T09:37:22.213Z",
       "discoveredAt": "2026-08-31T09:37:22.213Z",
@@ -2530,7 +2795,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9723904?from=edn_hottest_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6359",
+      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6455",
       "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
       "publishedAt": "2026-08-31T07:08:03.099Z",
       "discoveredAt": "2026-08-31T07:08:03.099Z",
@@ -5112,271 +5377,6 @@
       "description": "尼泊爾與大陸西藏邊境地區26日發生大規模土石流災害，造成兩地至少800人罹難，仍有3000多人失聯。國民黨副主席蕭旭岑今天在第30屆魯台會期間表示，他代表國民黨與主席鄭麗文表達最深切的哀悼與問候。隨後，大陸國台辦主任宋濤對台胞以各種方式表達哀悼和慰問，表示衷心感謝。",
       "publishedAt": "2026-08-31T04:16:53.557Z",
       "discoveredAt": "2026-08-31T04:16:53.557Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e5a3d481de7530d23b8c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5636/9724357?from=edn_newest_index",
-      "title": "富邦證券輔導捷立康生技 8月31日登錄興櫃 | 財富管理 | 商情 | 經濟日報",
-      "description": "富邦證券輔導捷立康生技（7686），於8月31日登錄興櫃交易。捷立康專注於微整形醫學及組織修復領域，致力透過創新醫療器材技術，將傳統仰賴大型手術及全身麻醉的治療方式，逐步轉化為恢復期較短、風險較低的微創療程。公司產品應用涵蓋醫學美容、軟組織重建及再生醫學等領域，積極拓展醫美及重建修復市場商機。",
-      "publishedAt": "2026-08-31T04:16:53.557Z",
-      "discoveredAt": "2026-08-31T04:16:53.557Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_240a966188c77b4e598c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9724403?from=edn_newest_index",
-      "title": "睽違5年再見紅燈！AI需求+消費電子備貨 7月製造業燈號轉亮紅燈 | 總經趨勢 | 要聞 | 經濟日報",
-      "description": "台經院今天發布7月製造業景氣燈號，AI新興科技應用蓬勃發展，加上消費性電子新品備貨需求升溫，廠商看好景氣比例上升，7月製造業景氣信號值上升2.03分至18.57分，燈號由代表景氣揚升的黃紅燈轉為代表繁榮的紅燈。這是自2021年以來、5年多來首見紅燈。",
-      "publishedAt": "2026-08-31T04:16:53.557Z",
-      "discoveredAt": "2026-08-31T04:16:53.557Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-08-31T04:06:26.051Z",
-      "discoveredAt": "2026-08-31T04:06:26.051Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_f08bfbbc3018cc6ddad6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724395?from=edn_newest_index",
-      "title": "貝森特說將號召G20加高對陸貿易壁壘 壓低1.2兆美元順差 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國財政部長貝森特周日表示，他將號召20國集團（G20）成員國重新檢視和中國大陸的貿易條件，以縮減全球失衡，並促使北京調整經濟結構，降低對出口的依賴、轉向國內消費。",
-      "publishedAt": "2026-08-31T04:06:05.904Z",
-      "discoveredAt": "2026-08-31T04:06:05.904Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f581bdf09302c506e7f7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6721/9724396?from=edn_newest_index",
-      "title": "Shein明在港上市 CEO許仰天身價4年蒸發逾4700億元 | 港澳話題 | 兩岸 | 經濟日報",
-      "description": "大陸快時尚巨頭Shein即將在香港上市，但估值已較高峰大幅縮水。彭博報導，Shein執行長許仰天身價也隨之從逾230億美元（約台幣7284億元）降至約80億美元（約台幣2533億元），短短4年間蒸發超過150億美元（約台幣4751億元）。",
-      "publishedAt": "2026-08-31T04:06:05.904Z",
-      "discoveredAt": "2026-08-31T04:06:05.904Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d4f362cf4eb37f22626a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124067/9724377?from=edn_newest_index",
-      "title": "美國留學申請流程：美國留學顧問解析大學申請條件、費用及時間 | 本地店商焦點 | 商情 | 經濟日報",
-      "description": "圖／PANO Education提供準備美國大學申請，卻不知該從什麼時候開始準備？其實，美國留學申請流程涉及考試、文書、課外活動與送件時程，若缺乏完整規劃，很容易到了申請階段才手忙腳亂。本文將整理申請流程、留學費用、入學條件與準備時間，並說明美國留學顧問能提供哪些協助，幫助學生與家長快速掌握重點。美國留學申請流程有哪些？美國留學申請流程通常會先從學生現況開始盤點，包括GPA、SAT／ACT、TOEFL／IELTS、AP／IB選課、課外活動與主修探索進度，再確認未來想申請的科系及學校方向。進入正式申請階段後，需陸續準備Personal Statement、Supplemental Essays、推薦信、Activity List、成績單及各校要求的資料。美國大學申請流程環環相扣，越早確認方向，越能保留調整空間。多數美國大學可透過Common App提交申請，UC Berkeley、UCLA等UC系統學校則使用獨立申請平台，因此送件方式與截止日期也有所不同，以多數美國大學的留學申請流程來看，G11下學期可開始準備文書、SAT、暑期活動與推薦信；8月Common App開放後整理申請資料，1",
-      "publishedAt": "2026-08-31T04:06:05.904Z",
-      "discoveredAt": "2026-08-31T04:06:05.904Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b2e8f3657d8def71ed1d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124067/9724376?from=edn_newest_index",
-      "title": "鳳山前鎮汽機車借款當舖推薦 合法短期資金週轉彈性評估 | 本地店商焦點 | 商情 | 經濟日報",
-      "description": "圖／樂天融資提供不少上班族、自營商、外送員、物流司機及需要短期資金週轉的民眾，常希望透過名下汽車或機車取得資金，同時維持日常生活與工作所需的交通工具使用。鳳山前鎮汽機車借款當舖推薦品牌樂天融資，提供汽機車借款評估服務，可依車況及借款人的實際條件進行彈性評估，協助有資金需求的民眾了解可申辦方案。圖／樂天融資提供鳳山前鎮汽機車借款怎麼辦理？不少民眾關心汽機車借款的申辦方式，其實實際可借額度會依車況、工作狀況、收入穩定度及個人條件等因素綜合評估，且即使車輛仍有貸款，也可先向專員諮詢評估，不必因此而放棄了解申辦可能。樂天融資提供各項鳳山前鎮汽機車借款當舖推薦服務，包括鳳山機車借款、汽車借款等短期週轉評估服務，現場可協助說明可借額度、利息、還款方式及所需文件，不限車齡與廠牌皆可先行諮詢，讓有需求的民眾充分了解相關資訊後再決定是否辦理。圖／樂天融資提供有用車需求也想借款？對許多通勤族、業務人員、物流配送、工程承包或家庭接送者而言，交通工具每天都必須使用，因此借款前通常也會關心後續的用車安排。樂天融資建議，民眾可於現場諮詢時，與專員確認符合自身情況的可用車借款方案及相關條件，了解可借額度、審核方式、",
-      "publishedAt": "2026-08-31T04:06:05.904Z",
-      "discoveredAt": "2026-08-31T04:06:05.904Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9ae3ed2fdedb876a6455",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9724375?from=edn_newest_index",
-      "title": "旅遊不便險理賠怎麼申請？富邦產險提醒「這些事」文件大不同 | 金融脈動 | 金融 | 經濟日報",
-      "description": "近期受颱風影響，航班延誤、取消及旅程變更等狀況頻傳，富邦產險提醒民眾，不同事故類型所需檢附文件略有差異，保戶如欲申請相關理賠，事故證明及費用單據等文件的完整性，將有助於後續認定，建議旅客於事故發生當下即向航空公司、交通工具業者或相關單位申請證明文件，並妥善保存原訂行程資料及額外支出單據。",
-      "publishedAt": "2026-08-31T04:06:05.904Z",
-      "discoveredAt": "2026-08-31T04:06:05.904Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4a0a8f43d849e5240b2c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9724332",
-      "title": "11:51 玉晶光挾雙題材 股價逆勢飆漲停天價、躋身千金股",
-      "description": "玉晶光（3406）同樣具有CPO及蘋果新機題材，31日開低走高，盤中衝上漲停1,005元，寫歷史新高價，躋身千金股行列；大立光（3008）也是續創新高的表現，一度衝達7,735元，盤中漲幅逾8%。",
-      "publishedAt": "2026-08-31T03:54:51.039Z",
-      "discoveredAt": "2026-08-31T03:54:51.039Z",
       "topics": [
         "Taiwan business",
         "investment",

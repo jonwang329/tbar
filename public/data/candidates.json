@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T08:54:16.665Z",
+  "updatedAt": "2026-08-31T09:05:03.289Z",
   "candidates": [
+    {
+      "id": "cand_3035db4a6408a2c450b0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9725093",
+      "title": "00919創三高 配息1.1元、單季配息殖利率衝3.44% | 基金天地 | 理財 | 經濟日報",
+      "description": "台股8月最後一個交易日震盪收黑，不過，擁有近137萬位受益人的高人氣ETF-群益台灣精選高息（00919）31日逆勢上漲，收在31.96元，改寫成立來新高。同時，公告每受益權單位擬配發1.1元，也刷新掛牌來新高紀錄，以收盤價換算，單季配息殖利率3.44%，同樣改寫新高。",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_69a18d4a1f08eee6decd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9724926",
+      "title": "真有四貸同堂？合庫四貸同堂掛0 三貸同堂掛0 僅雙貸族曝險低 | 金融脈動 | 金融 | 經濟日報",
+      "description": "合庫金（5880）今召開法說會，近期社會熱議四貸同堂現象，合庫個金主管說明，截至目前並沒有四貸同堂案件，且經交叉比對也沒有同時持有房貸、信貸及股票質借三貸同堂案件，目前僅有「雙貸族」為房地擔保貸款和信貸，件數三千多件、合計授信200多億元，占比2%，整體曝險比重低，風險仍屬可控範圍。",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_afa8eecff57669205c75",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725030?from=edn_maintab_index",
+      "title": "合庫金法說會／估預售屋市場偏保守 央行短期內鬆綁信用管制可能性低 | 金融脈動 | 金融 | 經濟日報",
+      "description": "合庫金（5880）今日召開法說會，展望下半年房市仍有交屋潮支撐，估呈現量縮價盤整格局。購屋需求回歸自住型，中古屋市場買氣相對回溫，預售屋市場偏向保守趨勢。依目前資訊觀察央行短期內全面鬆綁選擇性信用管制可能性仍偏低。",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3ca2ab95d2db66d603b8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725095?from=edn_newest_index",
+      "title": "均華高精度黏晶機出貨 今年營收貢獻拚超越晶粒挑揀機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "均華（6640）總經理石敦智31日表示，AI運算需求持續攀升，帶動HBM、Chiplet及異質整合技術快速發展，先進封裝也朝多晶粒、高密度與高精度方向演進。均華持續深化先進封裝設設備市場，今年在高精度黏晶機出貨挹注下，今年黏晶機營收貢獻力拚超越晶粒挑揀機。",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ea1ad51d6b1587a4d263",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725094?from=edn_newest_index",
+      "title": "永豐餘攻能源轉型、材料創新 自發自用電比例達67% | 產業熱點 | 產業 | 經濟日報",
+      "description": "永豐餘（1907）31日發布《2025年永續報告書》，揭示在醣經濟的基礎上，投入「低碳低耗能」、「全循環經濟」及「非塑材料」的發展成效。2025年，永豐餘從燃料轉換、設備改善與更新、流程重新設計、營運調整著手，執行近40項節能減碳行動，年減碳逾8.7萬噸CO₂e，促使2025年台灣營運據點碳排放量較2024年下降5.1%，較2021年碳費基準年減少19.9%。",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_64f8c996077c5ab54569",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9725093?from=edn_newest_index",
+      "title": "00919創三高 配息1.1元、單季配息殖利率衝3.44% | 基金天地 | 理財 | 經濟日報",
+      "description": "台股8月最後一個交易日震盪收黑，不過，擁有近137萬位受益人的高人氣ETF-群益台灣精選高息（00919）31日逆勢上漲，收在31.96元，改寫成立來新高。同時，公告每受益權單位擬配發1.1元，也刷新掛牌來新高紀錄，以收盤價換算，單季配息殖利率3.44%，同樣改寫新高。",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_03fbb18bba3511cb7f5e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9725091?from=edn_newest_index",
+      "title": "創業拓展香港市場第一步 選對 .hk 域名 建立專業網上身份 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "HKIRC提供多元化 .hk 域名及免費網絡安全服務 協助企業及機構安全拓展香港市場 香港2026年8月31日 /美通社/ -- 在數碼經濟迅速發展的時代，網站已成為企業建立品牌形象、接觸目標客戶及拓展市場的重要平台。對有意進軍香港市場的初創企業、中小企及個人創業者而言，選擇合適的香港域名，不僅是建立網上業務的重要一步，更有助突顯本地市場定位，提升品牌專業形象及客戶信任度。透過使用 「.hk 」域名，企業能更有效向客戶展示其紮根香港市場的決心與實力，為品牌發展及業務增長奠定穩固的數碼基礎。 選對「.hk 」域名 建立專業品牌形象 為拓展香港市場奠定穩固基礎 在建立網站及開展網上業務前，企業應根據機構性質、品牌定位及未來發展方向，選擇合適的「.hk」域名類別，以更有效展現品牌形象、專業身份及市場定位。 現時，「.hk」域名設有多個類別，以配合不同機構及人士的需要，包括適合商業機構使用的「.com.hk」、非牟利組織使用的「.org.hk」、教育機構使用的「.edu.hk」，以及適合個人、初創企業及各類機構使用的「.hk」等。選擇與機構性質相符的域名，不但有助提升品牌識別度及專業形象，更能",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_69598ca7dee2f862cbc3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9725090?from=edn_newest_index",
+      "title": "Yahoo股市公布 2026 「台灣投資人行為大調查」 揭震盪局勢下四大「贏家密碼」 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "全民理財時代！近 9 成看好 AI 榮景、7 成因投資實現資產增長 AI 深化資訊洞察！Yahoo股市 App 三大 AI 功能助攻高效布局 台北2026年8月31日 /美通社/ -- 在 AI 與科技龍頭股的帶動下，台股持續於高檔震盪，高股價與高波動交織的市場環境，不斷驅動投資人重新審視資產配置與風險管理。Yahoo股市公布 2026 年「台灣投資人行為大調查」結果，針對台灣超過五千名 18 歲以上的網路使用者，深入剖析投資行為與策略的變化。調查顯示，在震盪局勢下，四大「贏家密碼」正成為投資人應對市場的布局方向：「AI 為核心戰略思維」、「主動鑽研增加底氣」、「打造多樣化資產護城河」，以及「收息與成長雙引擎 ETF 策略」。 Yahoo股市公布 2026 「台灣投資人行為大調查」 。（Yahoo 提供） 股票、ETF 投資比例雙創新高！30 歲以下投資人加速進場AI 相關標的躍升資產配置主流 Yahoo 調查揭四大贏家密碼 根據 Yahoo股市 2026「台灣投資人行為大調查」，國人投資股市與 ETF 的比例雙雙創下新高，股票投資參與率從 61% 躍升至 76%，ETF 投資率亦由",
+      "publishedAt": "2026-08-31T09:05:03.289Z",
+      "discoveredAt": "2026-08-31T09:05:03.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c7ef48db842e876fb3ee",
       "sourceLastModified": null,
@@ -10,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9724666",
-      "title": "加密幣業者豪擲200億元買自家代幣 為何有的漲70%有的腰斬？ | 國際焦點 | 國際 | 經濟日報",
+      "title": "16:43 加密幣業者豪擲200億元買自家代幣 為何有的漲70%有的腰斬？",
       "description": "加密貨幣市場持續低迷，愈來愈多數位資產業者仿效上市公司，砸錢回購自家發行的代幣，希望透過減少供給來支撐價格。今年以來的回購金額已達6.38億美元（約台幣202億元），創下紀錄，高於去年同期的5.45億美元，更遠遠超過2024年全年的36.6萬美元。",
       "publishedAt": "2026-08-31T08:54:16.665Z",
       "discoveredAt": "2026-08-31T08:54:16.665Z",
@@ -1750,7 +1990,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9723904?from=edn_hottest_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6106",
+      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6174",
       "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
       "publishedAt": "2026-08-31T07:08:03.099Z",
       "discoveredAt": "2026-08-31T07:08:03.099Z",
@@ -2752,7 +2992,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4773,7 +5013,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723953?from=edn_hottest_index",
-      "title": "欣興發出最新聲明 澄清爭議產品非載板 5465",
+      "title": "欣興發出最新聲明 澄清爭議產品非載板 5491",
       "description": "ABF載板大廠欣興（3037）遭檢調搜索事件持續發酵，公司稍早發出最新聲明強調，本次產地標示爭議產品主要為PCB產品、並非載板。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -5148,246 +5388,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a7c96dc86c57eba1a4c3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5640/9723348?from=edn_newest_index",
-      "title": "未來科技館9/17登場 秀台灣研發能量 | ICT趨勢 | 商情 | 經濟日報",
-      "description": "2026台灣創新技術博覽會未來科技館將於9月17日至19日在台北世貿1館登場，由國科會召集中研院、教育部、衛福部、運動部等部會與法人單位共同參與，今年展出173件內容包含法人研發、產學合作、部會計畫到AI核心技術，全面展示台灣在全球科技競爭中的研發能量與產業化進展。",
-      "publishedAt": "2026-08-31T03:22:52.032Z",
-      "discoveredAt": "2026-08-31T03:22:52.032Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1bbb55738026b7408f50",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9724241?from=edn_newest_index",
-      "title": "全家搶開學早餐商機！聯名東京名店 BONGO 750店再賣「蒸煮蛋」 | 產業熱點 | 產業 | 經濟日報",
-      "description": "迎接9月開學季，全家（5903）擴大早餐與即食鮮食布局，除首度攜手日本東京人氣飯糰名店「ぼんご（BONGO）」推出兩款聯名飯糰，也看好蛋白質補充需求，自9月2日起在全台750間指定店舖熟食區新增「蒸煮蛋」，與既有茶葉蛋、日式溏心蛋形成三款蛋品陣容，進一步搶攻早餐、餐間加菜及健身族群商機。",
-      "publishedAt": "2026-08-31T03:22:52.032Z",
-      "discoveredAt": "2026-08-31T03:22:52.032Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b0da78bcea04e7f2bad3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9724240?from=edn_newest_index",
-      "title": "中國修訂國防動員法 經濟科技領域也納入動員範圍 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "中國10月1日起將實施新修訂的「國防動員法」，其中將徵用民用資源擴大為「徵收、徵用」，引發議論。同時，新條文首度定義「國...",
-      "publishedAt": "2026-08-31T03:22:52.032Z",
-      "discoveredAt": "2026-08-31T03:22:52.032Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74eec71f07d924da8aad",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5640/9723339?from=edn_newest_index",
-      "title": "精誠結盟CTC 台企赴日IT部署助力 | ICT趨勢 | 商情 | 經濟日報",
-      "description": "精誠資訊日前與日本伊藤忠科技解決方案株式會社（ITOCHU Techno-Solutions Corporation，CTC）共同成立合資公司「CTC-SYSTEX株式會社」，正式攜手為台灣企業赴日發展提供完整IT服務。",
-      "publishedAt": "2026-08-31T03:22:52.032Z",
-      "discoveredAt": "2026-08-31T03:22:52.032Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2298ea8b50f9cc284b78",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5640/9723338?from=edn_newest_index",
-      "title": "Uber登台13年 消費者安心移動首選 | ICT趨勢 | 商情 | 經濟日報",
-      "description": "Uber日前宣布平台登台13年以來累積行程里程正式突破26億公里，相當於台北往返東京約60萬趟，展現Uber在台灣市場的深度扎根與消費者對安心移動的高度依賴。",
-      "publishedAt": "2026-08-31T03:22:52.032Z",
-      "discoveredAt": "2026-08-31T03:22:52.032Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3d1e3f6993b6d9455d31",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9724155",
-      "title": "11:05 股市賺翻了！國泰金總座指今年股利發放會比過去好 股價大漲",
-      "description": "國泰金（2882）上周五舉辦法說會，上半年大賺765億元，年增66.67%，每股純益（EPS）為4.95元；如加計FVOCI股票處分損益，調整後EPS達11.04元，已超越去年全年，創下新高。關於股利問題，國泰金總經理李長庚認為，今年的現金股利預計會發得比過去好。國泰金31日盤中大漲近3%。",
-      "publishedAt": "2026-08-31T03:07:28.295Z",
-      "discoveredAt": "2026-08-31T03:07:28.295Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_368782db3211124797ee",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9724205?from=edn_newest_index",
-      "title": "台官員出席美中西部議會聯合會活動 重申供應鏈互補 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "駐芝加哥台北經濟文化辦事處處長類延峰出席美國「中西部議會聯合會」（MLC）執委會演講，重申台美供應鏈互補、經濟雙贏，感謝...",
-      "publishedAt": "2026-08-31T03:07:28.295Z",
-      "discoveredAt": "2026-08-31T03:07:28.295Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_654de662d3a0eb3ee39d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9724198?from=edn_newest_index",
-      "title": "統一發票3-4月千萬獎5張未領 兌領期限9/7 | 產業熱點 | 產業 | 經濟日報",
-      "description": "財政部表示，今年3、4月期特別獎（新台幣1000萬元）及特獎（200萬元）中獎發票，目前共有9張未領；未領的千萬大獎發票...",
-      "publishedAt": "2026-08-31T03:07:28.295Z",
-      "discoveredAt": "2026-08-31T03:07:28.295Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

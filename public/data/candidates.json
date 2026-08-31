@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T23:36:32.739Z",
+  "updatedAt": "2026-08-31T23:47:19.502Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_95cf42db2a61563bbe05",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726105",
+      "title": "美最高法院5：4准白宮宴會廳續建 川普獲重大勝利 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國最高法院今天裁定，准許美國總統川普繼續進行白宮大型宴會廳的地面工程。這項判決標誌著他第二任期關鍵計畫訴訟案的重大勝利",
+      "publishedAt": "2026-08-31T23:47:19.502Z",
+      "discoveredAt": "2026-08-31T23:47:19.502Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_48ff07f1a37d7b789a56",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726149?from=edn_newest_index",
+      "title": "貝森特直接施壓了！當面告訴日本財相與央行總裁 日本該升息了 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本媒體NHK引述對一名美國官員的採訪報導，美國財長貝森特向日本財務大臣片山皋月及日本銀行（BOJ，央行）總裁植田和男表示，日本的下一步應該是升息。",
+      "publishedAt": "2026-08-31T23:47:19.502Z",
+      "discoveredAt": "2026-08-31T23:47:19.502Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cb5b5efecaff514de6ba",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9726147?from=edn_newest_index",
+      "title": "沙德爾復活 大陸中央氣象台再度發布颱風預警 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "新華社報導，大陸中央氣象台1日6時發布颱風藍色預警，今年第18號颱風「沙德爾」減弱後的殘餘環流發展成熱帶低壓後，1日凌晨在南海西北部海域再度加強為颱風（熱帶風暴級），大陸中央氣象台繼續維持原颱風名稱「沙德爾」和編號不變。",
+      "publishedAt": "2026-08-31T23:47:19.502Z",
+      "discoveredAt": "2026-08-31T23:47:19.502Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_70be11804c58ff35fc4c",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9726142?from=edn_newest_index",
-      "title": "今晨國際頭條一次看／白宮舞廳續建 美伊戰火再度升溫 | 國際焦點 | 國際 | 經濟日報",
+      "title": "今晨國際頭條一次看／白宮舞廳續建 美伊戰火再度升溫 2026-09-01 07:34",
       "description": "「今晨國際頭條」同步檢視華爾街日報、華盛頓郵報、金融時報、衛報、路透與美聯社首頁，挑出各家頭條新聞、重點摘要與「為何重要」。用最短閱讀時間，快速掌握國際主流媒體此刻最重視的議題。",
       "publishedAt": "2026-08-31T23:36:32.739Z",
       "discoveredAt": "2026-08-31T23:36:32.739Z",
@@ -342,7 +432,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -988,7 +1078,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7710",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7754",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -4580,7 +4670,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 16236",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 16330",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5288,96 +5378,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7bd9b0510a40b07ca7c5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725681?from=edn_newest_index",
-      "title": "北賽普勒斯渡輪翻覆意外 母親泣訴女兒從手中滑落 | 國際焦點 | 國際 | 經濟日報",
-      "description": "北賽普勒斯外海昨天發生1艘載有267人的渡輪翻覆，已釀8人罹難，至今仍有近20人下落不明，包括生還者艾坦畢澤的一對兒女。...",
-      "publishedAt": "2026-08-31T13:26:26.309Z",
-      "discoveredAt": "2026-08-31T13:26:26.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8d254dc8730f8864ed38",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725679?from=edn_newest_index",
-      "title": "ChatGPT遭列規範名單 首個面臨歐盟監管AI聊天機器人 | 國際焦點 | 國際 | 經濟日報",
-      "description": "歐洲聯盟（EU）今天將ChatGPT列入須接受更嚴格法律規範的數位服務名單之中，使ChatGPT必須遵守更嚴格的安全規範...",
-      "publishedAt": "2026-08-31T13:26:26.309Z",
-      "discoveredAt": "2026-08-31T13:26:26.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ccd696185c77d805d5e1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725677?from=edn_newest_index",
-      "title": "稜研：天線模組營收占比明年衝50% 衛星應用先量產 | 產業熱點 | 產業 | 經濟日報",
-      "description": "陣列天線模組設計商稜研科技董事長張書維今天表示，AI浪潮催生毫米波需求，帶動關鍵模組市場成長。隨國防、多軌衛星與行動通訊...",
-      "publishedAt": "2026-08-31T13:26:26.309Z",
-      "discoveredAt": "2026-08-31T13:26:26.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T12:06:49.819Z",
+  "updatedAt": "2026-08-31T12:17:39.429Z",
   "candidates": [
+    {
+      "id": "cand_607182e1db65e00277df",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9724020",
+      "title": "美元貶值交易升溫 基金經理繼續看多新興市場債券 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 基金經理表示，隨著「美元貶值交易」捲土重來並推動資金持續流入，新興市場債券今年以來已屬亮眼的表現有望更上一層樓。",
+      "publishedAt": "2026-08-31T12:17:39.429Z",
+      "discoveredAt": "2026-08-31T12:17:39.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_18cf76aefed80093b9b8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9725562?from=edn_newest_index",
+      "title": "大立光、南亞等19檔列上市注意股票 光鼎遭處置 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣證券交易所公告，31日有南亞（1303）、國喬（1312）、鼎元（2426）、統懋（2434）、全新（2455）、大立光（3008）、玉晶光（3406）、聯鈞（3450）、宏致（3605）、富世達（6805）等19檔列入注意股票。其中，光鼎（6226）自9月1日至7日五個交易日將列為處置股票。",
+      "publishedAt": "2026-08-31T12:17:39.429Z",
+      "discoveredAt": "2026-08-31T12:17:39.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_94af7d2a434f8888135b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9725517?from=edn_newest_index",
+      "title": "影／向「周氏蝦捲」安平老店潑上百蟑螂嫌犯慘了 疑未吐實檢聲請羈押 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "29歲余姓男子前天中午涉嫌拿著裝有蟑螂的塑膠袋走進台南知名餐飲業「周氏蝦捲」安平老店，朝櫃台潑灑後徒步離去，轄區第四警分局今天持拘票前往余的住處將他逮捕到案；據了解，余疑似聲稱因不滿店家服務態度而犯案，檢察官認為他並未吐實，晚間將余聲請羈押。",
+      "publishedAt": "2026-08-31T12:17:39.429Z",
+      "discoveredAt": "2026-08-31T12:17:39.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_346f3b3ea7999bf19673",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9725540?from=edn_newest_index",
+      "title": "5年潰堤4次 麟洛大排又現裂縫破洞 居民憂「再下大雨怎麼辦」 | 生活 | 要聞 | 經濟日報",
+      "description": "受到西南風與低壓帶影響，屏東縣連日雨勢不斷，麟洛排水右岸萬丹鄉興化堤防繼0625豪雨潰堤大水漫村莊，縣府堆置沙包應急未料8月24日又再度潰堤。近日雨勢仍未停，附近村民發現，30日堤防內坡又出現裂縫破洞，縣議員洪宗麒獲報通知縣府水利處。水利處表示，今緊急灌漿保護受損提防避免裂縫擴大，後續納6月豪雨災害復健工程擴充辦理，加速整體復健。",
+      "publishedAt": "2026-08-31T12:17:39.429Z",
+      "discoveredAt": "2026-08-31T12:17:39.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5e82a103faf7a520fa94",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9725560?from=edn_newest_index",
+      "title": "中信銀行獲行政院表揚 攔詐件數及金額奪雙冠 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "中國信託銀行積極攔詐有成，2025年臨櫃阻詐欺件數及金額雙雙為金融業之首，展現響應國家打詐政策的成果，行政院院長卓榮泰今日親自頒發「積極投入防詐機構」獎項，並由中信銀行董事長陳佳文代表受獎。",
+      "publishedAt": "2026-08-31T12:17:39.429Z",
+      "discoveredAt": "2026-08-31T12:17:39.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2fb22219e8734aff99a3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725556?from=edn_newest_index",
+      "title": "上合組織25週年峰會登場 中俄伊朗領袖齊聚吉爾吉斯 | 國際焦點 | 國際 | 經濟日報",
+      "description": "中國國家主席習近平與伊朗總統裴澤斯基安目前正在吉爾吉斯首都比許凱克，俄羅斯總統普丁今天稍晚也將抵達，參與為期2天、匯聚十...",
+      "publishedAt": "2026-08-31T12:17:39.429Z",
+      "discoveredAt": "2026-08-31T12:17:39.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4045d33d5fb10665c750",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9725241",
-      "title": "台股大跌他們逆勢紅！「這兩檔」擁 AI 護身符逆風暴衝 | 市場焦點 | 證券 | 經濟日報",
+      "title": "19:56 台股大跌他們逆勢紅！「這兩檔」擁 AI 護身符逆風暴衝",
       "description": "台股31日拉回整理，盤面個股跌多漲少，其中「逆勢走強股」因各擁利多題材發酵，吸引市場矚目。如長興（1717）股價大漲超過半根停板，終場收82.5元，攀本波反彈高峰；力積電（6770）大漲4.2%、收73元，表現均相當強勢。",
       "publishedAt": "2026-08-31T12:06:49.819Z",
       "discoveredAt": "2026-08-31T12:06:49.819Z",
@@ -1067,7 +1247,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2013,7 +2193,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9724681?from=edn_hottest_index",
-      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 10156",
+      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 10762",
       "description": "長輩生前把房子留給孫女，但人過世後兩天，代理人才去辦贈與稅申報，這筆房地究竟該算「生前贈與」，還是應該列入遺產？財政部一件訴願案就出現這樣的爭議，其他繼承人質疑，贈與稅申報時人都已經過世，怎麼還能算贈與，甚至為此一路爭了十多年。",
       "publishedAt": "2026-08-31T10:24:51.131Z",
       "discoveredAt": "2026-08-31T10:24:51.131Z",
@@ -2668,7 +2848,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9724724?from=edn_hottest_index",
-      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 10575",
+      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 10916",
       "description": "檢調調查欣興PCB產地，欣興（3037）今日發布公司最新重大訊息說明。",
       "publishedAt": "2026-08-31T09:52:33.069Z",
       "discoveredAt": "2026-08-31T09:52:33.069Z",
@@ -5207,186 +5387,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b114b59cda6101a552db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9723904?from=edn_hottest_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6943",
-      "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
-      "publishedAt": "2026-08-31T07:08:03.099Z",
-      "discoveredAt": "2026-08-31T07:08:03.099Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3b770d1aba26246e0980",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9724681",
-      "title": "14:54 阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴",
-      "description": "長輩生前把房子留給孫女，但人過世後兩天，代理人才去辦贈與稅申報，這筆房地究竟該算「生前贈與」，還是應該列入遺產？財政部一件訴願案就出現這樣的爭議，其他繼承人質疑，贈與稅申報時人都已經過世，怎麼還能算贈與，甚至為此一路爭了十多年。",
-      "publishedAt": "2026-08-31T06:57:07.278Z",
-      "discoveredAt": "2026-08-31T06:57:07.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3ec1ad53ec821dfdd16b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724692?from=edn_maintab_index",
-      "title": "戰火燒向煉油廠 高盛把柴油利潤預測一口氣翻倍 高盛警告，中東及俄烏戰事使全球煉油產能更加吃緊，並把明年柴油煉油利潤預測調高逾一倍。 高盛分析師格里斯比（Yulia Zhestkova Grigsby）及史圖文（Daan Struyven）在報...",
-      "description": "高盛警告，中東及俄烏戰事使全球煉油產能更加吃緊，並把明年柴油煉油利潤預測調高逾一倍。",
-      "publishedAt": "2026-08-31T06:57:07.278Z",
-      "discoveredAt": "2026-08-31T06:57:07.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_707c2a9166d2b30e6a5d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9724804?from=edn_newest_index",
-      "title": "太平洋島國論壇峰會登場 MIT電動巴士接送各國代表 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "外交部長林佳龍出訪友邦帛琉，與帛琉總統惠恕仁等政要會晤，並啟動氫能倡議合作及見證4輛MIT電動巴士正式交車，也與惠恕仁一...",
-      "publishedAt": "2026-08-31T06:57:07.278Z",
-      "discoveredAt": "2026-08-31T06:57:07.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9882122485e932d73c59",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724797?from=edn_newest_index",
-      "title": "平壤指控美國敵對政策未變 批美日韓軍演構成威脅 | 國際焦點 | 國際 | 經濟日報",
-      "description": "平壤今天表示，南韓、美國和日本9月舉行的海上軍事演習對北韓構成「威脅」，並指控美國抱持敵對立場",
-      "publishedAt": "2026-08-31T06:57:07.278Z",
-      "discoveredAt": "2026-08-31T06:57:07.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c5444956fe56e7115f73",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724796?from=edn_newest_index",
-      "title": "散戶嫌上課麻煩 模擬交易新規一出 南韓槓桿ETF成交額崩96% | 國際焦點 | 國際 | 經濟日報",
-      "description": "為抑制散戶瘋搶高風險槓桿ETF，南韓金融監管機構自8月19日起實施強制模擬交易新規。投資人必須在個人電腦下載僅支援Windows系統的專屬程式，連續五天、每天至少花一小時，以1億韓元（約台幣230萬元）虛擬資金了解槓桿交易風險。許多散戶還沒開始交易，就被這套繁瑣程序勸退。",
-      "publishedAt": "2026-08-31T06:57:07.278Z",
-      "discoveredAt": "2026-08-31T06:57:07.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

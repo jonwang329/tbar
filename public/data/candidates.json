@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T10:35:54.672Z",
+  "updatedAt": "2026-08-31T10:46:33.167Z",
   "candidates": [
+    {
+      "id": "cand_cec9fbd230d5b24972e7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9725241?from=edn_maintab_index",
+      "title": "台股大跌他們逆勢紅！「這兩檔」擁 AI 護身符逆風暴衝 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股31日拉回整理，盤面個股跌多漲少，其中「逆勢走強股」因各擁利多題材發酵，吸引市場矚目。如長興（1717）股價大漲超過半根停板，終場收82.5元，攀本波反彈高峰；力積電（6770）大漲4.2%、收73元，表現均相當強勢。",
+      "publishedAt": "2026-08-31T10:46:33.167Z",
+      "discoveredAt": "2026-08-31T10:46:33.167Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5ac6b5ea2acbc5cea5d8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725393?from=edn_newest_index",
+      "title": "日本2027年防衛預算申請近1.8兆元 創下新高 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本防衛省今天提出創紀錄的2027財政年度預算申請，金額高達8兆9000億日圓（約新台幣1兆7700億元），且最終預算據...",
+      "publishedAt": "2026-08-31T10:46:33.167Z",
+      "discoveredAt": "2026-08-31T10:46:33.167Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_810f5aa130323bc6cd62",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725392?from=edn_newest_index",
+      "title": "財部：松南營區地上權案 預計11月9日開標 | 產業熱點 | 產業 | 經濟日報",
+      "description": "財政部國產署今天表示，今年最後一批國有土地招標設定地上權標的將有12宗，其中最大亮點為曾是輝達總部選址備案之一的台北市松...",
+      "publishedAt": "2026-08-31T10:46:33.167Z",
+      "discoveredAt": "2026-08-31T10:46:33.167Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e18d4951fcc91851e2f2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725391?from=edn_newest_index",
+      "title": "外資轉賣台股143億元終止連3買 賣超前3名皆ETF | 產業熱點 | 產業 | 經濟日報",
+      "description": "台股今天下跌202.98點，收在46128.47點，成交值新台幣1兆2017.92億元。三大法人同步賣超，合計賣超267...",
+      "publishedAt": "2026-08-31T10:46:33.167Z",
+      "discoveredAt": "2026-08-31T10:46:33.167Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8e7531c0484407799ab6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725387?from=edn_newest_index",
+      "title": "寒舍法說會／寒舍艾美酒店平均房價上半年首度突破萬元 下半年看旺 | 產業熱點 | 產業 | 經濟日報",
+      "description": "寒舍（2739）餐旅31日召開法人說明會，董事長蔡伯翰表示，2026年上半年集團營收改寫歷年同期新高，獲利亦大幅成長，整體營運表現穩健。展望下半年，餐旅市場需求可望延續成長動能，公司對後市抱持審慎樂觀態度，將持續深化AI科技應用、推動多元徵才，並強化餐飲服務與通路布局，增進營運效能及市場競爭力，力拚全年營運再創佳績。",
+      "publishedAt": "2026-08-31T10:46:33.167Z",
+      "discoveredAt": "2026-08-31T10:46:33.167Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1e93132df8d0dfa8b424",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725384?from=edn_newest_index",
+      "title": "AI、雲端需求推升資訊服務業 上半年營收年增14.6% | 產業熱點 | 產業 | 經濟日報",
+      "description": "企業及政府持續加碼AI投資，帶動資訊基礎建設、系統升級及軟體服務需求，電腦及資訊服務業維持穩健成長。2026年第2季電腦及資訊服務業營業額達1,767.2億元，年增13.59%；累計上半年營業額3,446.5億元，年增12.91%，其中電腦程式設計、諮詢及相關服務業上半年營收年增14.63%，成長動能較為強勁。",
+      "publishedAt": "2026-08-31T10:46:33.167Z",
+      "discoveredAt": "2026-08-31T10:46:33.167Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9b8fe18b40937fb76922",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725275",
-      "title": "正崴、永崴決議處分森崴持股 確保股東權益與財務穩健 | 產業熱點 | 產業 | 經濟日報",
+      "title": "18:31 正崴、永崴決議處分森崴持股 確保股東權益與財務穩健",
       "description": "正威（2392）與永崴投控（3712）31日分別召開董事會，決議通過參與公開收購案，擬以每股0.05元處分所持有之森藏能源股權（正崴集團合計持股約 143,280仟股，其中永崴投控持股約121,282 仟股）。",
       "publishedAt": "2026-08-31T10:35:54.672Z",
       "discoveredAt": "2026-08-31T10:35:54.672Z",
@@ -400,7 +580,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9724681?from=edn_hottest_index",
-      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 6350",
+      "title": "阿公過世後2天才申報贈與稅 繼承人喊房子應算遺產仍敗訴 6636",
       "description": "長輩生前把房子留給孫女，但人過世後兩天，代理人才去辦贈與稅申報，這筆房地究竟該算「生前贈與」，還是應該列入遺產？財政部一件訴願案就出現這樣的爭議，其他繼承人質疑，贈與稅申報時人都已經過世，怎麼還能算贈與，甚至為此一路爭了十多年。",
       "publishedAt": "2026-08-31T10:24:51.131Z",
       "discoveredAt": "2026-08-31T10:24:51.131Z",
@@ -1055,7 +1235,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9724724?from=edn_hottest_index",
-      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 8592",
+      "title": "檢調調查欣興 PCB 產地 公司最新重大訊息說明來了 8792",
       "description": "檢調調查欣興PCB產地，欣興（3037）今日發布公司最新重大訊息說明。",
       "publishedAt": "2026-08-31T09:52:33.069Z",
       "discoveredAt": "2026-08-31T09:52:33.069Z",
@@ -1099,7 +1279,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3605,7 +3785,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9723904?from=edn_hottest_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6625",
+      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6659",
       "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
       "publishedAt": "2026-08-31T07:08:03.099Z",
       "discoveredAt": "2026-08-31T07:08:03.099Z",
@@ -5197,186 +5377,6 @@
       "description": "美國財長貝森特本週出席G20峰會時，不僅要推動縮小全球貿易失衡、促進經濟成長及加強對伊朗制裁，也需設法緩解外界對美國債務...",
       "publishedAt": "2026-08-31T05:25:56.899Z",
       "discoveredAt": "2026-08-31T05:25:56.899Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c9b9d97ae0db0ac3c5f2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9724560?from=edn_newest_index",
-      "title": "華許放鷹、美伊戰事再起 台積電壓盤 台股一度下跌881點跌破五日線 | 市場焦點 | 證券 | 經濟日報",
-      "description": "受到聯準會主席華許在全球央行年會上放鷹、美伊戰事再起影響，美股四大指數上周五全數收黑，以費城半導體指數下跌3.4%最重，拖累台股31日開低，盤中一度大跌881點至45,450點，跌破五日線，逼近十日線。台積電盤中最低下跌45元至2,375元，跌破月、季線。盤面上逆勢抗跌族群包括航運、塑化、光學鏡頭、散熱、金融。",
-      "publishedAt": "2026-08-31T05:25:56.899Z",
-      "discoveredAt": "2026-08-31T05:25:56.899Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_922cea32773f79c5d51a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9724556?from=edn_newest_index",
-      "title": "主動式 ETF 戰國時代來臨！這檔績效狂飆77% 吸粉76萬人 | 基金天地 | 理財 | 經濟日報",
-      "description": "主動式ETF憑藉專業經理人主動選股與每日公開持股的高透明度，問世以來迅速躍升為市場焦點。截至8月28日，主動式股票型ETF檔數已由最初的僅僅三檔爆發性成長至31檔。隨著選擇大增，投資人眼光日益挑剔，不再滿足於戰勝大盤，而是拿放大鏡檢視經理人操盤實力。根據CMoney資料顯示，今年以來股東人數大增的標的，清一色擁有強悍績效打底，唯有衝上同類前段班，才是當前投資人認可的人氣王。",
-      "publishedAt": "2026-08-31T05:25:56.899Z",
-      "discoveredAt": "2026-08-31T05:25:56.899Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ffc8e9ca6de64b6952cf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724218",
-      "title": "13:05 彭博：川普對伊朗發動經濟戰 考驗習近平普丁「安全俱樂部」",
-      "description": "美國財長貝森特30日受訪透露，預計每周公布新一波次級制裁，首先鎖定銀行業，但未公開本周將遭制裁的銀行名稱。彭博報導，美國持續升高對伊朗的經濟制裁，恐考驗中國大陸國家主席習近平與俄羅斯總統普丁組成的「安全俱樂部」，即上海合作組織究竟有多大影響力。",
-      "publishedAt": "2026-08-31T05:15:17.890Z",
-      "discoveredAt": "2026-08-31T05:15:17.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d4c8529ab91f3cd6c009",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9724546?from=edn_newest_index",
-      "title": "產品漲價帶動毛利率明顯改善 法人調高強茂獲利預估值及目標價 | 集中市場 | 證券 | 經濟日報",
-      "description": "強茂（2481）拜全球去中化轉單效應，加上功率元件市場供需改善、材料成本上揚，多家大廠陸續調漲報價，法人預期，第3季起更多產品品項漲價有利下半年毛利率改善更加明顯，調高獲利預估值及目標價。",
-      "publishedAt": "2026-08-31T05:15:17.890Z",
-      "discoveredAt": "2026-08-31T05:15:17.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_52bb899395edba9ea1bc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9724543?from=edn_newest_index",
-      "title": "中共20大奉習近平之命帶離胡錦濤 孔紹遜可望升任甘肅省長 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "中共28日召開中央政治局會議後，中共中央辦公廳副主任兼秘書局長孔紹遜29日即首度以甘肅省委副書記、甘肅省政府黨組書記身分...",
-      "publishedAt": "2026-08-31T05:15:17.890Z",
-      "discoveredAt": "2026-08-31T05:15:17.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5a427e0d9e307b031c42",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9724542?from=edn_newest_index",
-      "title": "賴總統祝蔡英文生日快樂 感謝為台灣打下基礎 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "總統賴清德今天在社群媒體Threads上祝福前總統蔡英文生日快樂並指出，感謝蔡英文為台灣打下的基礎，接下來還有很多事要繼...",
-      "publishedAt": "2026-08-31T05:15:17.890Z",
-      "discoveredAt": "2026-08-31T05:15:17.890Z",
       "topics": [
         "Taiwan business",
         "investment",

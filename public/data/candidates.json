@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T23:15:21.563Z",
+  "updatedAt": "2026-08-31T23:25:58.196Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -81,6 +81,93 @@
       "freshnessScore": 100,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_068a107523390ce4f94b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9726120",
+      "title": "美股收盤／迎戰9月魔咒 油價升息夾擊 輝達聯發科結盟逆撐費半 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周一收低，中東戰事再度緊張，推升油價及美債殖利率，也加深市場對通膨及聯準會（Fed）9月升息的疑慮。投資人並等待本周就業報告及9月11日公布的消費者物價，判斷Fed是否真會緊縮貨幣政策。",
+      "publishedAt": "2026-08-31T23:25:58.196Z",
+      "discoveredAt": "2026-08-31T23:25:58.196Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2f140422e33522a6af7e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9726133?from=edn_newest_index",
+      "title": "台積電ADR跌0.5% 較台北交易溢價縮至個位數 | 美股動態 | 國際 | 經濟日報",
+      "description": "台積電ADR周一下跌0.5%，收在415.32美元，較台北交易溢價縮為9.4%。",
+      "publishedAt": "2026-08-31T23:25:58.196Z",
+      "discoveredAt": "2026-08-31T23:25:58.196Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f529f1863a4f935d044b",
+      "sourceLastModified": "2026-08-31T23:25:08.897Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/polimill",
+      "title": "https://openai.com/index/polimill",
+      "description": "",
+      "publishedAt": "2026-08-31T23:25:08.897Z",
+      "discoveredAt": "2026-08-31T23:25:58.196Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
@@ -871,7 +958,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7640",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7669",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -4463,7 +4550,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 16035",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 16124",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5291,96 +5378,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e2246d8840213d762851",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724204?from=edn_newest_index",
-      "title": "美國財政部拒絕向部分主要媒體發放 G20 財長峰會採訪證 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 在全球市場波動和美伊衝突的背景下，美國財政部未批准彭博新聞社和《華爾街日報》等多家媒體記者報導本周在北卡羅萊納州阿什維爾舉行的二十國集團(G20)財長峰會。",
-      "publishedAt": "2026-08-31T13:15:52.140Z",
-      "discoveredAt": "2026-08-31T13:15:52.140Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_71ff4f429ce7cb1c72ec",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9725659?from=edn_newest_index",
-      "title": "超有感！00921季配息暴衝3.1倍 單季配息率約4.08%、年化配息率16.3% | 基金天地 | 理財 | 經濟日報",
-      "description": "兆豐投信等權重ETF三兄弟的老大即將配息，這次配息超有感。兆豐龍頭等權重ETF（00921）9月的季配息預估配發1元，較上期實際配發0.32元，大幅增加0.68元，配息成長幅度高達212.5%，是上期的3.1倍。以8月31日收盤價24.47元計算，單季配息率約4.08%，年化配息率約16.3%。",
-      "publishedAt": "2026-08-31T13:15:52.140Z",
-      "discoveredAt": "2026-08-31T13:15:52.140Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e7b00aba77c26b637954",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725654?from=edn_newest_index",
-      "title": "美伊再交火 伊朗總統：與美國續戰不符我國利益 | 國際焦點 | 國際 | 經濟日報",
-      "description": "在美國與伊朗軍事衝突再度升高後，伊朗總統裴澤斯基安（Masoud Pezeshkian）今天表示，與美國持續交戰不符伊朗...",
-      "publishedAt": "2026-08-31T13:15:52.140Z",
-      "discoveredAt": "2026-08-31T13:15:52.140Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T16:05:43.199Z",
+  "updatedAt": "2026-08-31T16:16:42.100Z",
   "candidates": [
+    {
+      "id": "cand_009ad7c4d60be512096b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9725516?from=edn_newest_index",
+      "title": "友達半導體展將秀肌肉 | 集中市場 | 證券 | 經濟日報",
+      "description": "友達（2409）鎖定AI核心前沿，今年將首度揮軍國際半導體展（SEMICON Taiwan），展示將光電整合能力延伸至高速傳輸領域的階段性成果。",
+      "publishedAt": "2026-08-31T16:16:28.830Z",
+      "discoveredAt": "2026-08-31T16:16:28.830Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9bd4e4e73866581062bf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9725496?from=edn_newest_index",
+      "title": "均豪、均華出貨動能強 | 市場焦點 | 證券 | 經濟日報",
+      "description": "設備廠均豪（5443）、均華及東捷受惠AI帶動先進封大擴產商機，半導體相關設備營運升溫，並一路看旺未來五年半導體設備成長動能強勁，相關業務出貨跟著衝。",
+      "publishedAt": "2026-08-31T16:16:28.830Z",
+      "discoveredAt": "2026-08-31T16:16:28.830Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a614c57f0ed4e4daf211",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9725522?from=edn_newest_index",
+      "title": "華碩打造「會走路的 5G 專網」 | 集中市場 | 證券 | 經濟日報",
+      "description": "華碩（2357）集團旗下亞旭建構「會走路的5G專網」，攜手中華電信等跨域夥伴，串聯5G專網、AI機器人與數位構築，推進智慧營造落地，打造施工AI機器人，幫營建業解決長期缺工、高風險作業及施工品質管理等挑戰，未來推向日本、歐洲及東南亞等市場。",
+      "publishedAt": "2026-08-31T16:16:28.830Z",
+      "discoveredAt": "2026-08-31T16:16:28.830Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2f7e841e73c8a47bada6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9725511?from=edn_newest_index",
+      "title": "志聖衝刺 AI 高階製造 | 集中市場 | 證券 | 經濟日報",
+      "description": "PCB暨半導體設備商志聖（2467）昨（31）日表示，上半年AI營收占比已達七成，看好下半年深化先進封裝與先進PCB布局，將帶動營運持續成長。",
+      "publishedAt": "2026-08-31T16:16:28.830Z",
+      "discoveredAt": "2026-08-31T16:16:28.830Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c456a4a80165abc985dd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9725519?from=edn_newest_index",
+      "title": "鼎元光通訊模組報捷 | 集中市場 | 證券 | 經濟日報",
+      "description": "鼎元（2426）搶搭AI資料中心引爆的高速傳輸需求商機，成功切入800G及1.6T光通訊模組供應鏈，並卡位CPO（共同封裝光學）前瞻技術。法人看好，隨著美系客戶拉貨動能延續，高毛利產品比重持續提升，鼎元將邁入全新成長軌道。",
+      "publishedAt": "2026-08-31T16:16:28.830Z",
+      "discoveredAt": "2026-08-31T16:16:28.830Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f713f54acea46362d096",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122337/9723546?from=edn_VIP_index_side",
+      "title": "丁學文專欄／川普收緊移民政策 一個不再歡迎你的美國出現 | 精選觀點 | 專欄 | 經濟日報",
+      "description": "一直以來，大家都心知肚明，美國之所以強盛，反映的就是一部移民史。從歐洲移民、引入非洲奴隸到亞洲移工，從農業社會到高科技產業，來自全球各地的移民為美國帶來了勞動力與創新力，讓美國得以獨領風騷傲視全球。",
+      "publishedAt": "2026-08-31T16:16:28.830Z",
+      "discoveredAt": "2026-08-31T16:16:28.830Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_608f8e45c4a5aac28be3",
       "sourceLastModified": null,
@@ -160,7 +340,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://www.businessweekly.com.tw/style/indep/1007003",
-      "title": "卡式爐安全嗎？卡式爐爆炸原因、七大使用注意事項與安全挑選指南｜商周",
+      "title": "卡式爐安全嗎？卡式爐爆炸原因、七大使用注意事項與安全挑選指南",
       "description": "卡式爐安全嗎？多數氣爆事故與瓦斯罐過熱、壓力異常及錯誤使用有關。本文解析卡式爐爆炸原因、案例警訊、安全裝置原理與挑選重點，並說明妙管家卡式爐與瓦斯罐的安全設計，協助讀者建立正確使用觀念。",
       "publishedAt": "2026-09-01T00:00:00+08:00",
       "discoveredAt": "2026-08-31T16:05:43.199Z",
@@ -189,7 +369,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://www.businessweekly.com.tw/style/indep/1007000",
-      "title": "2026卡式爐推薦指南：卡式爐怎麼選？安全、耐用、火力一次比較｜商周",
+      "title": "2026卡式爐推薦指南：卡式爐怎麼選？安全、耐用、火力一次比較",
       "description": "烤肉、吃火鍋前，卡式爐怎麼選？本文整理商品檢驗標識、瓦斯罐相容性、火力防風、材質耐用度與通路價格七大指標，並依居家、露營、租屋等情境提供選購建議，解析安全標準判讀重點。",
       "publishedAt": "2026-09-01T00:00:00+08:00",
       "discoveredAt": "2026-08-31T16:05:43.199Z",
@@ -218,7 +398,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://www.businessweekly.com.tw/business/indep/1006957",
-      "title": "假代書、假屋主、假債權？信義房屋拆解「房產詐騙」三防線｜商周",
+      "title": "假代書、假屋主、假債權？信義房屋拆解「房產詐騙」三防線",
       "description": "2025年，台灣一起以偽造代筆遺囑侵占不動產的詐騙案偵結。主嫌自2021年起涉嫌勾結律師、里長與員警，鎖定獨居或剛過世長者的不動產下手，透過偽造文件完成過戶程序，不法所得逾新台幣1.4億元。",
       "publishedAt": "2026-09-01T00:00:00+08:00",
       "discoveredAt": "2026-08-31T16:05:43.199Z",
@@ -766,7 +946,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1712,7 +1892,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 13463",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 13656",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5197,186 +5377,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5ac6b5ea2acbc5cea5d8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725393?from=edn_newest_index",
-      "title": "日本2027年防衛預算申請近1.8兆元 創下新高 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本防衛省今天提出創紀錄的2027財政年度預算申請，金額高達8兆9000億日圓（約新台幣1兆7700億元），且最終預算據...",
-      "publishedAt": "2026-08-31T10:46:33.167Z",
-      "discoveredAt": "2026-08-31T10:46:33.167Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_810f5aa130323bc6cd62",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725392?from=edn_newest_index",
-      "title": "財部：松南營區地上權案 預計11月9日開標 | 產業熱點 | 產業 | 經濟日報",
-      "description": "財政部國產署今天表示，今年最後一批國有土地招標設定地上權標的將有12宗，其中最大亮點為曾是輝達總部選址備案之一的台北市松...",
-      "publishedAt": "2026-08-31T10:46:33.167Z",
-      "discoveredAt": "2026-08-31T10:46:33.167Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e18d4951fcc91851e2f2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725391?from=edn_newest_index",
-      "title": "外資轉賣台股143億元終止連3買 賣超前3名皆ETF | 產業熱點 | 產業 | 經濟日報",
-      "description": "台股今天下跌202.98點，收在46128.47點，成交值新台幣1兆2017.92億元。三大法人同步賣超，合計賣超267...",
-      "publishedAt": "2026-08-31T10:46:33.167Z",
-      "discoveredAt": "2026-08-31T10:46:33.167Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8e7531c0484407799ab6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725387?from=edn_newest_index",
-      "title": "寒舍法說會／寒舍艾美酒店平均房價上半年首度突破萬元 下半年看旺 | 產業熱點 | 產業 | 經濟日報",
-      "description": "寒舍（2739）餐旅31日召開法人說明會，董事長蔡伯翰表示，2026年上半年集團營收改寫歷年同期新高，獲利亦大幅成長，整體營運表現穩健。展望下半年，餐旅市場需求可望延續成長動能，公司對後市抱持審慎樂觀態度，將持續深化AI科技應用、推動多元徵才，並強化餐飲服務與通路布局，增進營運效能及市場競爭力，力拚全年營運再創佳績。",
-      "publishedAt": "2026-08-31T10:46:33.167Z",
-      "discoveredAt": "2026-08-31T10:46:33.167Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e93132df8d0dfa8b424",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725384?from=edn_newest_index",
-      "title": "AI、雲端需求推升資訊服務業 上半年營收年增14.6% | 產業熱點 | 產業 | 經濟日報",
-      "description": "企業及政府持續加碼AI投資，帶動資訊基礎建設、系統升級及軟體服務需求，電腦及資訊服務業維持穩健成長。2026年第2季電腦及資訊服務業營業額達1,767.2億元，年增13.59%；累計上半年營業額3,446.5億元，年增12.91%，其中電腦程式設計、諮詢及相關服務業上半年營收年增14.63%，成長動能較為強勁。",
-      "publishedAt": "2026-08-31T10:46:33.167Z",
-      "discoveredAt": "2026-08-31T10:46:33.167Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9b8fe18b40937fb76922",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725275",
-      "title": "18:31 正崴、永崴決議處分森崴持股 確保股東權益與財務穩健",
-      "description": "正威（2392）與永崴投控（3712）31日分別召開董事會，決議通過參與公開收購案，擬以每股0.05元處分所持有之森藏能源股權（正崴集團合計持股約 143,280仟股，其中永崴投控持股約121,282 仟股）。",
-      "publishedAt": "2026-08-31T10:35:54.672Z",
-      "discoveredAt": "2026-08-31T10:35:54.672Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

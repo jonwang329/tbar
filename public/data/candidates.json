@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T23:25:58.196Z",
+  "updatedAt": "2026-08-31T23:36:32.739Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_70be11804c58ff35fc4c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726142?from=edn_newest_index",
+      "title": "今晨國際頭條一次看／白宮舞廳續建 美伊戰火再度升溫 | 國際焦點 | 國際 | 經濟日報",
+      "description": "「今晨國際頭條」同步檢視華爾街日報、華盛頓郵報、金融時報、衛報、路透與美聯社首頁，挑出各家頭條新聞、重點摘要與「為何重要」。用最短閱讀時間，快速掌握國際主流媒體此刻最重視的議題。",
+      "publishedAt": "2026-08-31T23:36:32.739Z",
+      "discoveredAt": "2026-08-31T23:36:32.739Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_068a107523390ce4f94b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9726120",
-      "title": "美股收盤／迎戰9月魔咒 油價升息夾擊 輝達聯發科結盟逆撐費半 | 美股動態 | 國際 | 經濟日報",
+      "title": "07:20 美股收盤／迎戰9月魔咒 油價升息夾擊 輝達聯發科結盟逆撐費半",
       "description": "美國股市周一收低，中東戰事再度緊張，推升油價及美債殖利率，也加深市場對通膨及聯準會（Fed）9月升息的疑慮。投資人並等待本周就業報告及9月11日公布的消費者物價，判斷Fed是否真會緊縮貨幣政策。",
       "publishedAt": "2026-08-31T23:25:58.196Z",
       "discoveredAt": "2026-08-31T23:25:58.196Z",
@@ -124,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9726133?from=edn_newest_index",
-      "title": "台積電ADR跌0.5% 較台北交易溢價縮至個位數 | 美股動態 | 國際 | 經濟日報",
+      "title": "台積電ADR跌0.5% 較台北交易溢價縮至個位數 2026-09-01 07:19",
       "description": "台積電ADR周一下跌0.5%，收在415.32美元，較台北交易溢價縮為9.4%。",
       "publishedAt": "2026-08-31T23:25:58.196Z",
       "discoveredAt": "2026-08-31T23:25:58.196Z",
@@ -958,7 +988,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7669",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7710",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -4550,7 +4580,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 16124",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 16236",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5332,36 +5362,6 @@
       "url": "https://money.udn.com/money/story/5612/9725677?from=edn_newest_index",
       "title": "稜研：天線模組營收占比明年衝50% 衛星應用先量產 | 產業熱點 | 產業 | 經濟日報",
       "description": "陣列天線模組設計商稜研科技董事長張書維今天表示，AI浪潮催生毫米波需求，帶動關鍵模組市場成長。隨國防、多軌衛星與行動通訊...",
-      "publishedAt": "2026-08-31T13:26:26.309Z",
-      "discoveredAt": "2026-08-31T13:26:26.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1750fcec8a915769b359",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725676?from=edn_newest_index",
-      "title": "G20財長會議登場 美擬籲各國加強對伊朗經濟施壓 | 國際焦點 | 國際 | 經濟日報",
-      "description": "由美國主辦的20國集團（G20）財政部長會議今天登場，會談重點包括全球失衡、主權債務及產能過剩等議題，且美國財長貝森特擬...",
       "publishedAt": "2026-08-31T13:26:26.309Z",
       "discoveredAt": "2026-08-31T13:26:26.309Z",
       "topics": [

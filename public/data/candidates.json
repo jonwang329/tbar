@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T04:06:26.051Z",
+  "updatedAt": "2026-08-31T04:16:53.557Z",
   "candidates": [
+    {
+      "id": "cand_71392ae362ff2c08c633",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9724398",
+      "title": "AI 持股上季帳面賺逾1,600億美元 科技巨人獲利有膨風之嫌 | 美股動態 | 國際 | 經濟日報",
+      "description": "Alphabet、亞馬遜（Amazon）、輝達（NVIDIA）及微軟（Microsoft）上季投資其他AI業者，合計帶來逾1,600億美元帳面利益，大幅墊高獲利，也引發市場擔心，這些一次性收益可能誇大AI熱潮的實際強度。",
+      "publishedAt": "2026-08-31T04:16:53.557Z",
+      "discoveredAt": "2026-08-31T04:16:53.557Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7f9a96bb7d3d050584f1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6710/9724098?from=edn_maintab_index",
+      "title": "買房解約留意時間點！錯過這一步3種稅退不了 還要再繳土增稅 | 稅務法規 | 金融 | 經濟日報",
+      "description": "近期傳出建商因違規建築遭稽查裁罰，進一步引發不動產買賣糾紛，有民眾因此要求解約、返還訂金及補償相關損失。不過，房屋買賣即使最後成功解約，先前已經繳出去的土增稅、契稅及印花稅，卻不一定都能拿回來，甚至還可能衍生另一筆土地增值稅，買賣雙方在解約時得特別留意。",
+      "publishedAt": "2026-08-31T04:16:53.557Z",
+      "discoveredAt": "2026-08-31T04:16:53.557Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fbce01bee7edf531ec54",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9724418?from=edn_newest_index",
+      "title": "「這兩檔」ETF 分居外資上周買超冠亞軍 周漲幅還勝正2 | 基金天地 | 理財 | 經濟日報",
+      "description": "台股上周在大型權值與AI供應鏈帶動下，收復短中期均線並重返46,000點，收46,331.45點，單周上漲1,107.16點、漲幅2.45%。在千億規模ETF中，00981A與00403A單周上漲超過4%，不僅跑贏大盤，也優於元大台灣50正2等熱門槓桿型ETF，反映主動選股策略在輪動加速的行情中具備較高的超額報酬潛力。",
+      "publishedAt": "2026-08-31T04:16:53.557Z",
+      "discoveredAt": "2026-08-31T04:16:53.557Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8d98b775ff2fb57fd926",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9724412?from=edn_newest_index",
+      "title": "新台幣午盤貶2.7分 暫收31.655元 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台北外匯市場新台幣兌美元今天中午暫收31.655元，貶2.7分，成交金額12.08億美元",
+      "publishedAt": "2026-08-31T04:16:53.557Z",
+      "discoveredAt": "2026-08-31T04:16:53.557Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7c8448445ea841a60870",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9724407?from=edn_newest_index",
+      "title": "西藏洪災 蕭旭岑代鄭麗文當面致意 宋濤：感謝台胞慰問 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "尼泊爾與大陸西藏邊境地區26日發生大規模土石流災害，造成兩地至少800人罹難，仍有3000多人失聯。國民黨副主席蕭旭岑今天在第30屆魯台會期間表示，他代表國民黨與主席鄭麗文表達最深切的哀悼與問候。隨後，大陸國台辦主任宋濤對台胞以各種方式表達哀悼和慰問，表示衷心感謝。",
+      "publishedAt": "2026-08-31T04:16:53.557Z",
+      "discoveredAt": "2026-08-31T04:16:53.557Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e5a3d481de7530d23b8c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5636/9724357?from=edn_newest_index",
+      "title": "富邦證券輔導捷立康生技 8月31日登錄興櫃 | 財富管理 | 商情 | 經濟日報",
+      "description": "富邦證券輔導捷立康生技（7686），於8月31日登錄興櫃交易。捷立康專注於微整形醫學及組織修復領域，致力透過創新醫療器材技術，將傳統仰賴大型手術及全身麻醉的治療方式，逐步轉化為恢復期較短、風險較低的微創療程。公司產品應用涵蓋醫學美容、軟組織重建及再生醫學等領域，積極拓展醫美及重建修復市場商機。",
+      "publishedAt": "2026-08-31T04:16:53.557Z",
+      "discoveredAt": "2026-08-31T04:16:53.557Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_240a966188c77b4e598c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9724403?from=edn_newest_index",
+      "title": "睽違5年再見紅燈！AI需求+消費電子備貨 7月製造業燈號轉亮紅燈 | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "台經院今天發布7月製造業景氣燈號，AI新興科技應用蓬勃發展，加上消費性電子新品備貨需求升溫，廠商看好景氣比例上升，7月製造業景氣信號值上升2.03分至18.57分，燈號由代表景氣揚升的黃紅燈轉為代表繁榮的紅燈。這是自2021年以來、5年多來首見紅燈。",
+      "publishedAt": "2026-08-31T04:16:53.557Z",
+      "discoveredAt": "2026-08-31T04:16:53.557Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceLastModified": null,
@@ -365,7 +575,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723953?from=edn_hottest_index",
-      "title": "欣興發出最新聲明 澄清爭議產品非載板 4102",
+      "title": "欣興發出最新聲明 澄清爭議產品非載板 4200",
       "description": "ABF載板大廠欣興（3037）遭檢調搜索事件持續發酵，公司稍早發出最新聲明強調，本次產地標示爭議產品主要為PCB產品、並非載板。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -919,7 +1129,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2345,7 +2555,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://www.businessweekly.com.tw/style/indep/1007010",
-      "title": "北投晶泉丰旅摘國際雙殊榮！入選《米其林指南》、獲 GSTC 永續認證 從黃金綠建築到細緻款待文化 以大地美學重塑溫泉奢華體驗｜商周",
+      "title": "北投晶泉丰旅摘國際雙殊榮！入選《米其林指南》、獲 GSTC 永續認證 從黃金綠建築到細緻款待文化 以大地美學重塑溫泉奢華體驗",
       "description": "晶華國際酒店集團旗下的溫泉精品飯店品牌——「北投晶泉丰旅」（Wellspring by Silks Beitou），開幕即憑藉優異的綠色工法取得國內「黃金級綠建築標章」；隨後更一舉獲得「臺北市觀光永續",
       "publishedAt": "2026-08-31T09:45:21+08:00",
       "discoveredAt": "2026-08-31T04:06:05.904Z",
@@ -3424,7 +3634,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9723740?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 5111",
+      "title": "本周開盤前 五件國際事不可不知 5155",
       "description": "荷莫茲海峽戰火再起，國際油價大漲。11月布蘭特原油漲破每桶90美元，西德州中級原油逼近86美元。以下是本周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-08-31T00:22:51.938Z",
       "discoveredAt": "2026-08-31T00:22:51.938Z",
@@ -3688,7 +3898,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9723529?from=edn_hottest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 4818",
+      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 4861",
       "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
       "publishedAt": "2026-08-30T23:56:19.327Z",
       "discoveredAt": "2026-08-30T23:56:19.327Z",
@@ -3958,7 +4168,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723531?from=edn_hottest_index",
-      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 9431",
+      "title": "輝達最強 AI PC 預訂一空 華碩及微星首批搭載 RTX Spark 處理器機種被搶光 9526",
       "description": "輝達（NVIDIA）攜手聯發科開發的RTX Spark系列PC預計今年秋季上市，包含微軟（Microsoft）及更多遊戲開發商近期陸續宣布更新及加入支援該平台，名列首波推出廠商的華碩及微星，目前第一批貨已預訂一空，呈現供不應求情況，相關廠商已向輝達爭取更多配額。",
       "publishedAt": "2026-08-30T22:47:32.575Z",
       "discoveredAt": "2026-08-30T22:47:32.575Z",
@@ -5173,216 +5383,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fbeccb95182943551080",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723472?from=edn_newest_index",
-      "title": "人工智慧失控案例 飆增 | 國際焦點 | 國際 | 經濟日報",
-      "description": "研究顯示，人工智慧（AI）脫離使用者控制、無視指令，甚至以有害方式追求自身目標的案例，已增至歷來新高，欺騙與未能對齊人類目標的嚴重程度，也持續惡化。",
-      "publishedAt": "2026-08-30T17:46:55.339Z",
-      "discoveredAt": "2026-08-30T17:46:55.339Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ae67a18c22e3b6d66aa0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723470?from=edn_newest_index",
-      "title": "G7償債成本 增160億美元 | 國際焦點 | 國際 | 經濟日報",
-      "description": "自2月美伊戰爭開打以來，全球公債殖利率攀揚，已推升全球已開發國家的償債成本上百億美元，加重財政壓力。",
-      "publishedAt": "2026-08-30T17:46:55.339Z",
-      "discoveredAt": "2026-08-30T17:46:55.339Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_04a36ec0d1a702ab302f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723529?from=edn_newest_index",
-      "title": "台股9月行情多頭掌旗 三大利多助攻抗 Fed 「放鷹」 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股今（31）日將收8月月線，雖恐受Fed主席華許於傑克森洞全球央行年會「放鷹」言論影響而承壓，展望9月行情，在台積電8月業績可望續寫新猷、上市櫃公司8月營收挑戰6兆元以上新高、法人滾動式調升台股上市櫃獲利等三利多助攻下，多頭仍有望掌大旗。",
-      "publishedAt": "2026-08-30T17:36:14.927Z",
-      "discoveredAt": "2026-08-30T17:36:14.927Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c0fc0b692988b759d25b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9723496?from=edn_newest_index",
-      "title": "法人掃貨股 多頭指標 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股在輝達亮麗財報效應等利多帶動下，上周大盤日K線連四紅，量能連四增、並重返兆元大關，加上外資上周買超金額再次突破千億元，三大法人合計加碼逾1,400億元，大力掃貨的台積電、南亞科等十檔，將是力抗美股上周五（28日）回檔的多頭焦點。",
-      "publishedAt": "2026-08-30T17:36:14.927Z",
-      "discoveredAt": "2026-08-30T17:36:14.927Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cf920eace5e6a9e575aa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9723490?from=edn_newest_index",
-      "title": "1分鐘看世界／尼泊爾暴洪災區水位持續升高 累計750死3,044人失蹤 | 國際焦點 | 國際 | 經濟日報",
-      "description": "當局警告，暴洪災區的河流水位持續升高，上游形成新堰塞湖，可能引發更多災情。搜救行動的「黃金72小時」已過。截至30日，總計至少已有750人罹難、3,044人仍下落不明。尼泊爾總理辦公室表示，救援團隊雖處艱困環境，仍努力搜尋並搶救可能受困人員。",
-      "publishedAt": "2026-08-30T17:36:14.927Z",
-      "discoveredAt": "2026-08-30T17:36:14.927Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9e4bfe55564303642ce2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9723544?from=edn_hottest_index",
-      "title": "輝達營收展望樂觀得令人震驚 華爾街猜神隊友是它 3214",
-      "description": "輝達（Nvidia）上周公布財報時，對下一年度的營收展望，套用一位分析師的話來說，「樂觀得令人震驚」。但預期如此之高，不免讓一些投資人好奇：輝達憑的是什麼？",
-      "publishedAt": "2026-08-30T17:36:14.927Z",
-      "discoveredAt": "2026-08-30T17:36:14.927Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3d19c8642945ee50a068",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9722949?from=edn_hottest_index",
-      "title": "輝達投資機器人將上市！能率亞洲押中 Agility 還要再買2家 AI 新創 1484",
-      "description": "能率亞洲（7777）2025年投資美國機器人新創Agility，今年第4季將在美國以SPAC模式掛牌上市，成第一家美國人型機器人概念股；由於對AI及機器人投資見解相似，能率亞洲與輝達已建立戰略投資夥伴關係，互相介紹案源，能率今年底也將評估NVIDIA引薦的北美機器人手臂及北美AI大腦新創投資案。",
-      "publishedAt": "2026-08-30T17:36:14.927Z",
-      "discoveredAt": "2026-08-30T17:36:14.927Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

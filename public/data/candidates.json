@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T17:03:46.468Z",
+  "updatedAt": "2026-08-31T17:14:31.727Z",
   "candidates": [
+    {
+      "id": "cand_831c8b90e304419eef6b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725922?from=edn_newest_index",
+      "title": "晶圓一哥唱旺矽光子應用 預計明年市占逾50% 帶動光收發模組升溫 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積電唱旺光通訊後市，該公司先進封裝技術發展副總經理徐國晉昨（31）日表示，光學技術是資料中心的「神經系統」，矽光子已是主流規模化平台，預計到2027年將占整體市場逾50%，並帶動光收發模組需求快速升溫，今年看增五成。",
+      "publishedAt": "2026-08-31T17:14:31.727Z",
+      "discoveredAt": "2026-08-31T17:14:31.727Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8a19d97e87db2106df41",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6710/9725514?from=edn_newest_index",
+      "title": "土增稅重購退稅 不限次數 | 稅務法規 | 金融 | 經濟日報",
+      "description": "土增稅有多項租稅優惠，適用情況略有不同。有些民眾搞混土增稅「重購退稅」及「一生一次」優惠，台中市稅務局表示，重購退稅申請次數並無限制，只要符合申請要件，仍可再次申請，並不限「一生一次」。",
+      "publishedAt": "2026-08-31T17:14:31.727Z",
+      "discoveredAt": "2026-08-31T17:14:31.727Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6796a2c2038241493a98",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6710/9725520?from=edn_newest_index",
+      "title": "車輛欠繳牌照稅仍上路 罰 | 稅務法規 | 金融 | 經濟日報",
+      "description": "新竹縣稅務局表示，汽機車如果尚未繳清牌照稅，仍行駛或停放於公共道路，一旦遭查獲，除須補繳原本積欠的牌照稅外，還會被處以應納稅額一倍以下罰鍰。",
+      "publishedAt": "2026-08-31T17:14:31.727Z",
+      "discoveredAt": "2026-08-31T17:14:31.727Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6cad3a1c68dcbe049902",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6710/9725525?from=edn_newest_index",
+      "title": "認列建廠利息支出 有眉角 | 稅務法規 | 金融 | 經濟日報",
+      "description": "財政部高雄國稅局表示，企業因興建廠房而借款，在廠房建造期間產生的應付利息，應計入廠房建造成本，不能直接列為當期費用；直到廠房興建完成後產生的借款利息，才可作為當期費用列支。",
+      "publishedAt": "2026-08-31T17:14:31.727Z",
+      "discoveredAt": "2026-08-31T17:14:31.727Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_85ef01055e0558fc4e00",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726024?from=edn_newest_index",
+      "title": "伊朗情勢緊張推升國際油價 歐洲股市收低 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國與伊朗的緊張局勢再度升溫，使國際油價攀漲之際，歐洲股市主要指數今天收盤下跌",
+      "publishedAt": "2026-08-31T17:14:31.727Z",
+      "discoveredAt": "2026-08-31T17:14:31.727Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_033a8f1086ed462d81be",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9725856?from=edn_course_index",
+      "title": "當 AI 鑽出沙盒，治理不能再等 | 名家觀點 | 專欄 | 經濟日報",
+      "description": "人工智慧的風險，未必來自它「想做壞事」，更可能來自它「太認真把事情做好」。",
+      "publishedAt": "2026-08-31T17:14:31.727Z",
+      "discoveredAt": "2026-08-31T17:14:31.727Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7ae5ecc2d60c99f18609",
       "sourceLastModified": null,
@@ -2432,7 +2612,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 14294",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 14394",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -2446,7 +2626,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5203,183 +5383,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3385703c9131f7ee22a1",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/focus/indep/6022648",
-      "title": "玩AI魷魚遊戲、推兆元明星隊，台日韓星輸不起的「主權AI大作戰」獨家直擊",
-      "description": "",
-      "publishedAt": "2026-08-31T11:33:51.769Z",
-      "discoveredAt": "2026-08-31T11:33:51.769Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_938c833910220416e014",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/focus/indep/6022571",
-      "title": "當法國人說：這不是我們的做法…直擊台泥張安平的「日不落台商全球戰記」",
-      "description": "",
-      "publishedAt": "2026-08-31T11:33:51.769Z",
-      "discoveredAt": "2026-08-31T11:33:51.769Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8514a6468dd938c3365e",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/business/blog/3015120",
-      "title": "00900富邦高股息30》8月配息0.075元！成分股、優缺點一次看",
-      "description": "",
-      "publishedAt": "2026-08-31T11:33:51.769Z",
-      "discoveredAt": "2026-08-31T11:33:51.769Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d6444573c6ab80c9c4c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725382",
-      "title": "19:22 鴻海劉揚偉出席力挺！台灣量子論壇吸10國與會 盼成量子產業樞紐",
-      "description": "「2026 台灣量子論壇」（Quantum Taiwan Forum 2026）9月1日登場，為期三天，共吸引27國新創團隊及10國代表與會，鴻海（2317）董事長劉揚偉也親自出席展前記者會聆聽產業趨勢，台灣量子計算與資訊科技協會 (TAQCIT)理事長張慶瑞指出，量子科技將成為繼半導體之後的下一波產業重點。台灣期望從傳統的「矽島」轉型為全球量子產業樞紐。",
-      "publishedAt": "2026-08-31T11:23:00.931Z",
-      "discoveredAt": "2026-08-31T11:23:00.931Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d83727a85d7ff1595b4b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725457?from=edn_newest_index",
-      "title": "捷克河狸如「生態系工程師」 建造天然水壩對抗乾旱 2026-08-31 19:21",
-      "description": "捷克夏季持續面臨乾旱問題。動物學家發現，河狸為了打造安全的水域環境，會利用水生植物、泥土等材料築起「天然水壩」，既能留住...",
-      "publishedAt": "2026-08-31T11:23:00.931Z",
-      "discoveredAt": "2026-08-31T11:23:00.931Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_88308c692a087b772b96",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9725455?from=edn_newest_index",
-      "title": "比亞迪境外營收占比逾5成 首度超越中國本土 2026-08-31 19:21",
-      "description": "中國電動車龍頭比亞迪上半年財報顯示，境外營收占比達52.57%，首次超越中國本土市場。受中國汽車銷量減少影響，比亞迪上半...",
-      "publishedAt": "2026-08-31T11:23:00.931Z",
-      "discoveredAt": "2026-08-31T11:23:00.931Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

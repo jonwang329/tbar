@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T16:16:42.100Z",
+  "updatedAt": "2026-08-31T16:27:09.985Z",
   "candidates": [
+    {
+      "id": "cand_fead78fbd8b429ae4433",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9725523?from=edn_newest_index",
+      "title": "12檔站穩均線股 法人敲進 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股昨（31）日受到法人逢高調節影響，終止連四紅。市場專家指出，近期盤面仍屬於個股輪動格局，凱基金（2883）、南亞等兼具法人買盤加持，及股價站穩所有均線優勢的強勢股，較易吸引短多關注，延續漲升力道。",
+      "publishedAt": "2026-08-31T16:27:09.985Z",
+      "discoveredAt": "2026-08-31T16:27:09.985Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fcac6f8f7e2380b86843",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9725526?from=edn_newest_index",
+      "title": "國巨漲價效應 外資按讚 | 市場焦點 | 證券 | 經濟日報",
+      "description": "下半年進入電子產業的營運旺季，加上AI需求增溫，使得被動元件的供需吃緊狀況逐漸由AI領域蔓延至全市場，因而各外資法人紛紛喊「買」台廠國巨（2327），目標價以花旗的1,450元暫居最高。",
+      "publishedAt": "2026-08-31T16:27:09.985Z",
+      "discoveredAt": "2026-08-31T16:27:09.985Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a02a12cfebf1406a886",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9725529?from=edn_newest_index",
+      "title": "稜研天線模組 瞄準三商機 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "稜研科技（7812）將登上創新板上市，董事長暨總經理張書維昨（31）日表示，把相控陣列天線做成「樂高式」的高頻模組天線，攜手全球一級客戶夥伴，搶進全球航太、衛星、5G／6G等三大市場。",
+      "publishedAt": "2026-08-31T16:27:09.985Z",
+      "discoveredAt": "2026-08-31T16:27:09.985Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f4fac95dd8e664b4b11e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9725527?from=edn_newest_index",
+      "title": "正崴、永崴出售森崴持股 | 市場焦點 | 證券 | 經濟日報",
+      "description": "正崴（2392）、永崴昨（31）日同步公告，擬透過參與由森崴前總經理胡惠森之子胡正杰提出、每股0.05元公開收購森崴股票案，出脫手上森崴持股，預計9月14日完成交割，交易完成後，將喪失對森崴能源控制力。",
+      "publishedAt": "2026-08-31T16:27:09.985Z",
+      "discoveredAt": "2026-08-31T16:27:09.985Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4df890bd21e56416ed9b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9725531?from=edn_newest_index",
+      "title": "家登雙引擎 熱轉營運 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "家登（3680）董座邱銘乾昨（31）日表示，家登2019年起就開始布局先進封裝相關載具，隨先進製程、先進封裝兩大路徑需求持續擴張，對下半年與明年成長樂觀看待，後續有機會持續擴大美國投資。",
+      "publishedAt": "2026-08-31T16:27:09.985Z",
+      "discoveredAt": "2026-08-31T16:27:09.985Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_009ad7c4d60be512096b",
       "sourceLastModified": null,
@@ -160,7 +310,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122337/9723546?from=edn_VIP_index_side",
-      "title": "丁學文專欄／川普收緊移民政策 一個不再歡迎你的美國出現 | 精選觀點 | 專欄 | 經濟日報",
+      "title": "丁學文專欄／川普收緊移民政策 一個不再歡迎你的美國出現",
       "description": "一直以來，大家都心知肚明，美國之所以強盛，反映的就是一部移民史。從歐洲移民、引入非洲奴隸到亞洲移工，從農業社會到高科技產業，來自全球各地的移民為美國帶來了勞動力與創新力，讓美國得以獨領風騷傲視全球。",
       "publishedAt": "2026-08-31T16:16:28.830Z",
       "discoveredAt": "2026-08-31T16:16:28.830Z",
@@ -771,7 +921,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1892,7 +2042,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 13656",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 13813",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5227,156 +5377,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_05c750294f6d87fe07f7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725402?from=edn_newest_index",
-      "title": "工商協進會吳東亮率團見賴總統 提十大建言 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "工商協進會理事長吳東亮31日上午率領第27屆理監事一行32人前往總統府晉見賴清德總統，就工商界高度關切之議題，並當面呈遞促進金融發展、能源重組、稅負、觀光及文創等攸關企業營運的十多項書面建言。",
-      "publishedAt": "2026-08-31T10:57:01.860Z",
-      "discoveredAt": "2026-08-31T10:57:01.860Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_46f1faa3724e6ee82021",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725399?from=edn_newest_index",
-      "title": "深化台日地方創生合作 國發會率團赴日本熊本交流 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "為持續推動台日地方創生交流合作，並汲取日本在地方與產業振興方面的實務，國發會副主委高仙桂率領中興新村地方創生育成村團隊，於31日啟程前往日本熊本縣，展開為期五天的交流參訪行程。國發會指出，此行將拜會熊本縣政府，並與當地地方創生推動組織進行深入交流，透過實地參訪多元案例，促進雙方經驗分享與合作連結。",
-      "publishedAt": "2026-08-31T10:57:01.860Z",
-      "discoveredAt": "2026-08-31T10:57:01.860Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_56cabbd9f6e89bceb515",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725397?from=edn_newest_index",
-      "title": "台積電中科1.4奈米新廠基地曝光 盧秀燕參訪：全力協助投資落地 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "台中市長盧秀燕今偕同市府團隊前往台積電中科1.4奈米新廠基地參訪，了解工程進度及後續投資需求。她表示，目前整體工程進度穩定且超前，對台積電投資台中深具信心，市府將全力協助投資落地。此行由台積電副總莊子壽接待。從市府提供的相片，也讓台積電清楚曝光。",
-      "publishedAt": "2026-08-31T10:57:01.860Z",
-      "discoveredAt": "2026-08-31T10:57:01.860Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9af0e26efc16b9d1c406",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725395?from=edn_newest_index",
-      "title": "稜研打造「樂高式」天線模組 搶進衛星、航太市場 | 產業熱點 | 產業 | 經濟日報",
-      "description": "稜研科技*（7812）把相控陣列天線做成「樂高式」的高頻模組天線，攜手全球一級客戶夥伴，搶進全球航太、衛星、5G／6G等三大市場，天線模組2027年占比將達50%。",
-      "publishedAt": "2026-08-31T10:57:01.860Z",
-      "discoveredAt": "2026-08-31T10:57:01.860Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cec9fbd230d5b24972e7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9725241?from=edn_maintab_index",
-      "title": "台股大跌他們逆勢紅！「這兩檔」擁 AI 護身符逆風暴衝 台股31日拉回整理，盤面個股跌多漲少，其中「逆勢走強股」因各擁利多題材發酵，吸引市場矚目。如長興（1717）股價大漲超過半根停板，終場收82.5元，攀本波反彈高峰；力積電（6770）大漲4.2%、收...",
-      "description": "台股31日拉回整理，盤面個股跌多漲少，其中「逆勢走強股」因各擁利多題材發酵，吸引市場矚目。如長興（1717）股價大漲超過半根停板，終場收82.5元，攀本波反彈高峰；力積電（6770）大漲4.2%、收73元，表現均相當強勢。",
-      "publishedAt": "2026-08-31T10:46:33.167Z",
-      "discoveredAt": "2026-08-31T10:46:33.167Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

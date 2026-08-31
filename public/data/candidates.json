@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T09:05:03.289Z",
+  "updatedAt": "2026-08-31T09:16:00.703Z",
   "candidates": [
+    {
+      "id": "cand_7359720e3ed19cc7c5ff",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725119?from=edn_newest_index",
+      "title": "不單押台積電！SK海力士計劃找英特爾代工生產HBM基礎晶片 | 國際焦點 | 國際 | 經濟日報",
+      "description": "南韓晶片大廠SK海力士據傳正考慮委託英特爾生產高頻寬記憶體（HBM）的基礎晶片（base die），以增加台積電以外的代工夥伴。分析師表示，英特爾6月聘請SK海力士前執行長李錫熙為代工事業資深副總裁，加深了兩公司關係，也推動了這項計畫的發展。",
+      "publishedAt": "2026-08-31T09:16:00.703Z",
+      "discoveredAt": "2026-08-31T09:16:00.703Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5997c9f89f1681835dbb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725118?from=edn_newest_index",
+      "title": "台灣勝出！高盛：南韓人口老化太快 難享AI紅利 | 國際焦點 | 國際 | 經濟日報",
+      "description": "高盛報告指出，台灣和南韓是AI熱潮的兩大受惠國，但南韓人口老化速度太快，AI財富恐怕無法惠及一般民眾。",
+      "publishedAt": "2026-08-31T09:16:00.703Z",
+      "discoveredAt": "2026-08-31T09:16:00.703Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f2be3c183bfe50736b64",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725103?from=edn_newest_index",
+      "title": "瞄準 AI 世代核心 友達首度進軍 SEMICON Taiwan 秀關鍵實力 | 產業熱點 | 產業 | 經濟日報",
+      "description": "隨著AI多元應用蓬勃發展，對高速運算與資料傳輸的需求持續攀升，基礎建設量能已成推動產業前進的重要關鍵。友達（2409）光電鎖定AI核心前沿，將於9月2日至4日登場的國際半導體展SEMICON Taiwan 2026中，展示將光電整合能力延伸至高速傳輸領域的階段性成果，包含：於集團公司達興材料（L1210）展位中展示光通訊解決方案，偕生態圈夥伴打造系統級Micro LED CPO光學模組；同時，友達與康寧合作，在其展位（L1030）展出玻璃核心基板（Glass Cores Substrate, GCS）相關半導體先進封裝技術，雙軸並進展示集團光通訊與半導體先進封裝布局的技術實力。",
+      "publishedAt": "2026-08-31T09:16:00.703Z",
+      "discoveredAt": "2026-08-31T09:16:00.703Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4cd99c34ad3fbcf0a0d6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9725102?from=edn_newest_index",
+      "title": "SEMICON 展前搶先看 量子電腦將是未來布局重點 | 產業熱點 | 產業 | 經濟日報",
+      "description": "SEMICON 2026 即將在本周盛大開幕，31日舉辦展前記者會，邀請中研院特聘研究員暨量子電腦專題中心執行長陳啟東針對台灣量子電腦發展概況發表演講。陳啟東表示，台灣目前在AI領域已取得舉足輕重的地位，而量子電腦的發展，以及和AI的結合，將會是未來一大趨勢。",
+      "publishedAt": "2026-08-31T09:16:00.703Z",
+      "discoveredAt": "2026-08-31T09:16:00.703Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0ccd394d71dc750350b9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9725101?from=edn_newest_index",
+      "title": "合庫金法說會／股利政策定調穩定 符合股東對現金股利穩定成長期待 | 金融脈動 | 金融 | 經濟日報",
+      "description": "合庫金（5880）31日舉行法人說明會，截至7月稅後純益160.7億元，續創歷年同期新高，年成長33.2%。投資人關注股利政策，合庫金表示，近三年股利皆達1元、發放率約八成，為維持穩定發放政策，未來會符合股東對現金股利穩定成長的期待。",
+      "publishedAt": "2026-08-31T09:16:00.703Z",
+      "discoveredAt": "2026-08-31T09:16:00.703Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_3035db4a6408a2c450b0",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9725093",
-      "title": "00919創三高 配息1.1元、單季配息殖利率衝3.44% | 基金天地 | 理財 | 經濟日報",
+      "title": "17:14 00919配息1.1元創三高 單季配息殖利率衝3.44%",
       "description": "台股8月最後一個交易日震盪收黑，不過，擁有近137萬位受益人的高人氣ETF-群益台灣精選高息（00919）31日逆勢上漲，收在31.96元，改寫成立來新高。同時，公告每受益權單位擬配發1.1元，也刷新掛牌來新高紀錄，以收盤價換算，單季配息殖利率3.44%，同樣改寫新高。",
       "publishedAt": "2026-08-31T09:05:03.289Z",
       "discoveredAt": "2026-08-31T09:05:03.289Z",
@@ -40,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9724926",
-      "title": "真有四貸同堂？合庫四貸同堂掛0 三貸同堂掛0 僅雙貸族曝險低 | 金融脈動 | 金融 | 經濟日報",
+      "title": "17:00 真有四貸同堂？合庫四貸同堂掛0 三貸同堂掛0 僅雙貸族曝險低",
       "description": "合庫金（5880）今召開法說會，近期社會熱議四貸同堂現象，合庫個金主管說明，截至目前並沒有四貸同堂案件，且經交叉比對也沒有同時持有房貸、信貸及股票質借三貸同堂案件，目前僅有「雙貸族」為房地擔保貸款和信貸，件數三千多件、合計授信200多億元，占比2%，整體曝險比重低，風險仍屬可控範圍。",
       "publishedAt": "2026-08-31T09:05:03.289Z",
       "discoveredAt": "2026-08-31T09:05:03.289Z",
@@ -70,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9725030?from=edn_maintab_index",
-      "title": "合庫金法說會／估預售屋市場偏保守 央行短期內鬆綁信用管制可能性低 | 金融脈動 | 金融 | 經濟日報",
+      "title": "合庫金法說會／估預售屋市場偏保守 央行短期內鬆綁信用管制可能性低 合庫金（5880）今日召開法說會，展望下半年房市仍有交屋潮支撐，估呈現量縮價盤整格局。購屋需求回歸自住型，中古屋市場買氣相對回溫，預售屋市場偏向保守趨勢。依目前資訊觀察央行短期內全面鬆綁選擇性信用管...",
       "description": "合庫金（5880）今日召開法說會，展望下半年房市仍有交屋潮支撐，估呈現量縮價盤整格局。購屋需求回歸自住型，中古屋市場買氣相對回溫，預售屋市場偏向保守趨勢。依目前資訊觀察央行短期內全面鬆綁選擇性信用管制可能性仍偏低。",
       "publishedAt": "2026-08-31T09:05:03.289Z",
       "discoveredAt": "2026-08-31T09:05:03.289Z",
@@ -1014,7 +1164,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1990,7 +2140,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9723904?from=edn_hottest_index",
-      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6174",
+      "title": "欣興驚爆遭搜索 股價重挫跌停失守千元 排隊賣單逾8.7萬張 6240",
       "description": "PCB載板大廠欣興（3037）28日驚爆被桃園地方檢察署指揮桃園市調處搜索，雖連發兩次重大訊息說明，強調配合調查，且公司營運正常，對財務、業務並無重大影響，但31日仍是重挫跌停開出後鎖死，股價跌落千元關，下挫至999元，早盤成交量約2,000餘張， 跌停與市價賣單超過8.7萬張。",
       "publishedAt": "2026-08-31T07:08:03.099Z",
       "discoveredAt": "2026-08-31T07:08:03.099Z",
@@ -2812,7 +2962,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5013,7 +5163,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9723953?from=edn_hottest_index",
-      "title": "欣興發出最新聲明 澄清爭議產品非載板 5491",
+      "title": "欣興發出最新聲明 澄清爭議產品非載板 5521",
       "description": "ABF載板大廠欣興（3037）遭檢調搜索事件持續發酵，公司稍早發出最新聲明強調，本次產地標示爭議產品主要為PCB產品、並非載板。",
       "publishedAt": "2026-08-31T03:54:51.039Z",
       "discoveredAt": "2026-08-31T03:54:51.039Z",
@@ -5238,156 +5388,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_de00f295f387f76c64bd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124921/9719951?from=edn_newest_index",
-      "title": "庫克交棒4／蘋果新 CEO 不經營社群媒體 須擦亮個人品牌 | 專題報導 | 專題 | 經濟日報",
-      "description": "就要接棒庫克成為蘋果公司新任執行長的特納斯，領英（LinkedIn）帳號裡只列出兩個職場頭銜，一則貼文也沒有，看不到任何活動。儘管已在蘋果負責硬體業務多年，特納斯一直把自己的數位足跡保持在極少程度，完全不在意、更別說經營所謂的個人品牌。",
-      "publishedAt": "2026-08-31T03:33:39.093Z",
-      "discoveredAt": "2026-08-31T03:33:39.093Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3f92c7e79964716c9166",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5640/9723334?from=edn_newest_index",
-      "title": "AI運算需求爆發 安圖斯科技營運吃補 | ICT趨勢 | 商情 | 經濟日報",
-      "description": "安圖斯科技自宏碁企業產品線獨立滿7年，正站上AI運算需求爆發的關鍵時刻。執行長李占傑指出，AI伺服器市場已從過去的影像辨識，快速跨入大型語言模型與企業級應用，企業客戶導入AI的速度明顯加快，從概念驗證（POC）正式走向生產環境（Production），預期未來3到5年，企業端將成為AI成長的主要動能，安圖斯今年營運可望優於產業平均。",
-      "publishedAt": "2026-08-31T03:33:39.093Z",
-      "discoveredAt": "2026-08-31T03:33:39.093Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_19b21d7326496699034b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9724286?from=edn_newest_index",
-      "title": "台積電25家供應商聯合徵才 逾2千名職缺、月薪上看8.5萬 | 產業熱點 | 產業 | 經濟日報",
-      "description": "半導體相關供應鏈人才需求增溫。台積電攜手104人力銀行，預計於9月18日在台南舉辦「半導體基礎技術人才博覽會」，集結25家供應商聯合徵才，合計釋出逾2,200個中南部工作機會，部分營造、機電工程職缺月薪上看8.5萬元。",
-      "publishedAt": "2026-08-31T03:33:39.093Z",
-      "discoveredAt": "2026-08-31T03:33:39.093Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5ebf344a54400ecfa4d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5640/9723329?from=edn_newest_index",
-      "title": "達梭推3款虛擬助手 強化人機協同創新力 | ICT趨勢 | 商情 | 經濟日報",
-      "description": "達梭系統（Dassault Systèmes）日前宣布擴展旗下3DEXPERIENCE AI原生代理型平台，正式推出3款虛擬助手AURA、LEO與MARIE，進一步強化人機協同創新的能力。這3款虛擬助手「現已透過3DEXPERIENCE AI原生代理型平台正式推出」，並以深厚的科學與產業知識為基礎，協助使用者在工業場景中完成各類任務。",
-      "publishedAt": "2026-08-31T03:33:39.093Z",
-      "discoveredAt": "2026-08-31T03:33:39.093Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ad078c9ad6a8f5b09e8b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9724155?from=edn_maintab_index",
-      "title": "股市賺翻了！國泰金總座指今年股利發放會比過去好 股價大漲 國泰金（2882）上周五舉辦法說會，上半年大賺765億元，年增66.67%，每股純益（EPS）為4.95元；如加計FVOCI股票處分損益，調整後EPS達11.04元，已超越去年全年，創下新高。關於...",
-      "description": "國泰金（2882）上周五舉辦法說會，上半年大賺765億元，年增66.67%，每股純益（EPS）為4.95元；如加計FVOCI股票處分損益，調整後EPS達11.04元，已超越去年全年，創下新高。關於股利問題，國泰金總經理李長庚認為，今年的現金股利預計會發得比過去好。國泰金31日盤中大漲近3%。",
-      "publishedAt": "2026-08-31T03:22:52.032Z",
-      "discoveredAt": "2026-08-31T03:22:52.032Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,7 +1,244 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T15:54:51.164Z",
+  "updatedAt": "2026-08-31T16:05:43.199Z",
   "candidates": [
+    {
+      "id": "cand_608f8e45c4a5aac28be3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122331/9725655?from=edn_newest_index",
+      "title": "趨勢觀察／AI 可提高效率，判斷力不能外包 | 經營管理 | OFF學 | 經濟日報",
+      "description": "我在麥肯錫的同事上月發表一篇文章，裡面的數字值得每個正在簽AI預算的董事長多想一下：79%的企業已採用生成式AI，卻只有39%能指出AI帶來的效益，也只有約三分之一真正做到規模化。",
+      "publishedAt": "2026-08-31T16:05:43.199Z",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7d195a4175f8bcddc2d7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122331/9725660?from=edn_newest_index",
+      "title": "數位沛方／創業先規劃 從九宮格下手 | 經營管理 | OFF學 | 經濟日報",
+      "description": "最近輔導一間新成立的公司，負責人在職場打滾了幾十年後，決定自行創業，於是開了間公司，代理一些商品，準備大展身手，希望我推薦可以幫他客製化設計有購物及分潤系統的網站設計公司，他想要做套分潤系統來完成他的創業賺錢規劃。",
+      "publishedAt": "2026-08-31T16:05:43.199Z",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c45d3029e203c777dd54",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122331/9725650?from=edn_newest_index",
+      "title": "商業興觀點／前進越南綠能整合新戰場 | 經營管理 | OFF學 | 經濟日報",
+      "description": "近期地緣政治風險升高，使能源價格與供應穩定性再度成為全球製造業關注焦點，能源安全不再是遠方的地緣政治議題，而是深刻影響工廠能否穩定生產、訂單能否如期交付的現實挑戰。對越南而言，這項壓力尤其明顯。",
+      "publishedAt": "2026-08-31T16:05:43.199Z",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_73481cd8007cb1c464cd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9725546?from=edn_newest_index",
+      "title": "豐興鋼筋漲價 六周首見 | 集中市場 | 證券 | 經濟日報",
+      "description": "豐興（2015）昨（31）日開出新盤價，鋼筋每公噸漲200元，是近六周以來首見上漲，是否代表建築用鋼將迎來「金九銀十」的前奏，受到市場關注。",
+      "publishedAt": "2026-08-31T16:05:43.199Z",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_75dfc03522f3fb069c87",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9725549?from=edn_newest_index",
+      "title": "燁輝開漲盤 迎「金九」行情 | 集中市場 | 證券 | 經濟日報",
+      "description": "燁輝（2023）昨（31）日開新盤價，9月內銷鍍鋅與烤漆鋼每公噸各漲500元，與8月跌800元相比明顯改善，由跌轉漲的氣氛進一步提升交易信心，市場樂觀看待鋼市「金九」現蹤，有望順利銜接第4季傳統旺季，後市不看淡。",
+      "publishedAt": "2026-08-31T16:05:43.199Z",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_37bca51941a1fada41ff",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/indep/1007003",
+      "title": "卡式爐安全嗎？卡式爐爆炸原因、七大使用注意事項與安全挑選指南｜商周",
+      "description": "卡式爐安全嗎？多數氣爆事故與瓦斯罐過熱、壓力異常及錯誤使用有關。本文解析卡式爐爆炸原因、案例警訊、安全裝置原理與挑選重點，並說明妙管家卡式爐與瓦斯罐的安全設計，協助讀者建立正確使用觀念。",
+      "publishedAt": "2026-09-01T00:00:00+08:00",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_be1108a9e370616f46dc",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/indep/1007000",
+      "title": "2026卡式爐推薦指南：卡式爐怎麼選？安全、耐用、火力一次比較｜商周",
+      "description": "烤肉、吃火鍋前，卡式爐怎麼選？本文整理商品檢驗標識、瓦斯罐相容性、火力防風、材質耐用度與通路價格七大指標，並依居家、露營、租屋等情境提供選購建議，解析安全標準判讀重點。",
+      "publishedAt": "2026-09-01T00:00:00+08:00",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a14c7533a58b97836d4d",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/business/indep/1006957",
+      "title": "假代書、假屋主、假債權？信義房屋拆解「房產詐騙」三防線｜商周",
+      "description": "2025年，台灣一起以偽造代筆遺囑侵占不動產的詐騙案偵結。主嫌自2021年起涉嫌勾結律師、里長與員警，鎖定獨居或剛過世長者的不動產下手，透過偽造文件完成過戶程序，不法所得逾新台幣1.4億元。",
+      "publishedAt": "2026-09-01T00:00:00+08:00",
+      "discoveredAt": "2026-08-31T16:05:43.199Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_560455a9335ada6574ac",
       "sourceLastModified": null,
@@ -40,7 +277,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9724083?from=edn_VIP_index_side",
-      "title": "為什麼挑選旅日神卡不能只看高回饋？拆解常見3大實務陷阱 | 金融脈動 | 金融 | 經濟日報",
+      "title": "為什麼挑選旅日神卡不能只看高回饋？拆解常見3大實務陷阱",
       "description": "國人赴日旅遊熱潮持續升溫，各大發卡銀行為了搶攻海外旅遊商機，紛紛祭出5%、8.5%甚至上看10%的旅日神卡吸引新客。不過，銀行業者提醒，挑選旅日神卡不應只盲目追逐帳面上的回饋率，若刷卡當下匯率過高，或是需登錄才有回饋，且有登錄名額限制，以及忘了還有一筆海外交易手續費，都可能導致回饋嚴重縮水。",
       "publishedAt": "2026-08-31T15:54:51.164Z",
       "discoveredAt": "2026-08-31T15:54:51.164Z",
@@ -739,7 +976,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1475,7 +1712,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 13234",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 13463",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5129,246 +5366,6 @@
       "description": "正威（2392）與永崴投控（3712）31日分別召開董事會，決議通過參與公開收購案，擬以每股0.05元處分所持有之森藏能源股權（正崴集團合計持股約 143,280仟股，其中永崴投控持股約121,282 仟股）。",
       "publishedAt": "2026-08-31T10:35:54.672Z",
       "discoveredAt": "2026-08-31T10:35:54.672Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ed8e6e4d4e95cece73b1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9725370?from=edn_newest_index",
-      "title": "沙德爾最快今晚復活！周三北轉相對接近台灣 海警發布機率曝光 | 生活 | 要聞 | 經濟日報",
-      "description": "颱風沙爾德有機會今晚至明晨「復活」，中央氣象署預報員黃恩鴻表示，TD20若復活將沿用原本「沙德爾」名稱，並朝東北東方移動，預計周三北轉進入廣東沿海陸地，相對接近台灣，但強度發展有限，對台灣沒有直接影響，發布海警的機率偏低；另熱帶性低氣壓TD27預估今、明2天發展為輕度颱風「科羅旺」。",
-      "publishedAt": "2026-08-31T10:35:54.672Z",
-      "discoveredAt": "2026-08-31T10:35:54.672Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_531881d403c112224192",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9725332?from=edn_newest_index",
-      "title": "1天可以吃幾顆蛋？88歲阿公一天吃25顆「膽固醇沒紅字」研究揭「常吃蛋者」阿茲海默症風險低47％ | 熱門話題 | 要聞 | 經濟日報",
-      "description": "雞蛋到底能不能每天吃？過去一提到蛋黃，不少人第一個想到的就是膽固醇，甚至因此把雞蛋列入「少吃為妙」的食物。但近年愈來愈多研究發現，雞蛋與膽固醇、心血管疾病之間的關係，可能沒有想像中那麼直接。更有研究指出，適量吃蛋除了未必增加死亡風險，還可能與阿茲海默症風險降低有關。 「醫界福爾摩斯」曾嶔元醫師在其新書《精準飲食》中指出，既然膳食膽固醇不再被過度擔憂，我們對雞蛋的看法也應調整。過去，雞蛋因膽固醇含量而被視為「高風險食物」。如今，多數專家認為，對膽固醇數值正常的成年人而言，每天1顆，或每週最多7顆，不僅安全，更是健康飲食的一部分。",
-      "publishedAt": "2026-08-31T10:35:54.672Z",
-      "discoveredAt": "2026-08-31T10:35:54.672Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bd5521c673c4ddffcf8e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725373?from=edn_newest_index",
-      "title": "國產署鄰近大巨蛋原址改建 10月開工 | 產業熱點 | 產業 | 經濟日報",
-      "description": "鄰近台北市大巨蛋的財政部國產署原址（仁愛段基地）改建案去年決標，為目前中央部會首宗危老改建案。財政部國產署今天說明，兩棟...",
-      "publishedAt": "2026-08-31T10:35:54.672Z",
-      "discoveredAt": "2026-08-31T10:35:54.672Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2124be1ba6aeae9f6837",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725368?from=edn_newest_index",
-      "title": "華許放鷹新台幣爆量小貶 8月仍強升6.26角 | 產業熱點 | 產業 | 經濟日報",
-      "description": "美國聯準會主席華許放鷹、美伊戰火再起，為美元指數提供支撐，新台幣兌美元走勢承壓，盤中一度貶破31.7元，不過出口商進場拋...",
-      "publishedAt": "2026-08-31T10:35:54.672Z",
-      "discoveredAt": "2026-08-31T10:35:54.672Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_255d708575aa2ffbd584",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725367?from=edn_newest_index",
-      "title": "中油9月民生與工業天然氣價凍漲 電業漲5.83% | 產業熱點 | 產業 | 經濟日報",
-      "description": "台灣中油今天表示，為配合政府穩定國內物價政策，9月民生、工業用戶天然氣價格不調整；電業用戶方面，為適度反映上漲的氣源成本...",
-      "publishedAt": "2026-08-31T10:35:54.672Z",
-      "discoveredAt": "2026-08-31T10:35:54.672Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d3e7ae1ac708bf0cde44",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9725155",
-      "title": "18:14 貴的更會漲？南亞五天飆逾三成 這檔高價股更狂漲42%",
-      "description": "台股31日受到費半指數大跌影響，盤中一度下跌881.24點，但尾盤展開反攻，終場只下跌202.98點，成交量放大至1.2兆元。觀察成交量、成交值排行，成交量部分因MSCI季度調整，臺企銀（2834）、台泥（1101）等進榜；大立光（3008）則打進成交值前十中，股價創下新高，值得注意的是，大立光五日波段漲幅竟勝過南亞（1303）的34%，達42%。",
-      "publishedAt": "2026-08-31T10:24:51.131Z",
-      "discoveredAt": "2026-08-31T10:24:51.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a85cf01d3653e7cf1a2f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9725230?from=edn_maintab_index",
-      "title": "MLCC 庫存見底、單價上揚！外資預告被動元件「供需緊繃」將全面炸開 下半年進入電子產業的營運旺季，加上AI需求增溫，使得被動元件的供需吃緊狀況逐漸由AI領域蔓延至全市場，因而各外資法人紛紛喊「買」台廠國巨*（2327），目標價以花旗的1,450元暫居最高。 根據瑞...",
-      "description": "下半年進入電子產業的營運旺季，加上AI需求增溫，使得被動元件的供需吃緊狀況逐漸由AI領域蔓延至全市場，因而各外資法人紛紛喊「買」台廠國巨*（2327），目標價以花旗的1,450元暫居最高。",
-      "publishedAt": "2026-08-31T10:24:51.131Z",
-      "discoveredAt": "2026-08-31T10:24:51.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cde1c902f88b9a01cc59",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725347?from=edn_newest_index",
-      "title": "補足基層幹部 858名預官、1311名預士明年入伍 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "國防部考量民國113年恢復一年期義務役後，明年將迎來首批大學畢業生入伍，為補充基層軍士官缺員，將恢復徵集預備軍官、士官。...",
-      "publishedAt": "2026-08-31T10:24:51.131Z",
-      "discoveredAt": "2026-08-31T10:24:51.131Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T21:07:41.377Z",
+  "updatedAt": "2026-09-01T21:27:06.558Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,153 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_228253bba8bc57aa35f2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9728587?from=edn_newest_index",
+      "title": "沙德爾外圍環流影響全台溼答答 台東今防豪雨 周五雨區轉移北部+宜蘭 | 生活 | 要聞 | 經濟日報",
+      "description": "本周低壓帶影響，天氣不穩定，易有短延時強降雨。新北市及宜蘭山區已有豪雨發生，中央氣象署發布豪雨特報，今天恆春半島有局部大雨或豪雨，高雄、屏東、台東有局部大雨發生的機率。",
+      "publishedAt": "2026-09-01T21:27:06.558Z",
+      "discoveredAt": "2026-09-01T21:27:06.558Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bec98ffebe6bafebfb4d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9728577?from=edn_newest_index",
+      "title": "1張圖看全台8月累積雨量 南部紫到發黑 粉專：相當少見 | 生活 | 要聞 | 經濟日報",
+      "description": "西南風水氣狂灌，南部雨勢下不停。民間氣象粉專「台灣颱風論壇｜天氣特急」表示，低壓渦旋頻擾，西南風持續輸送大量水氣，8月的南部幾乎就是雨、雨、還是雨。好不容易停一下，沒多久又開始下，累積雨量相當驚人。屏東山區多處測站累積雨量突破1800毫米，其中，大漢山更超過2500毫米。",
+      "publishedAt": "2026-09-01T21:27:06.558Z",
+      "discoveredAt": "2026-09-01T21:27:06.558Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c6d516273bbe4eb6f21e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9728585?from=edn_newest_index",
+      "title": "9月1日 期交所夜盤行情 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "盤後時段臺指期收在46,679點，（較開盤參考價）下跌522點。 小臺指期收在46,683點，（較開盤參考價）下跌518點。 微臺指期收在46,695點，（較開盤參考價）下跌506點。 電子期收在2,964.7點，（較開盤參考價）下跌40.3點。 半導體30指數期收在15,855點，（較開盤參考價）下跌226點。 臺灣中型100期貨收在36,038點，（較開盤參考價）下跌705點。 元大台灣50ETF期貨收在108.4點，（較開盤參考價）下跌0.75點。 元大美債20年ETF期貨收在25.68點，（較開盤參考價）上漲0.05點。 聯電期貨收在131.5點，（較開盤參考價）下跌2點。 台積電期貨收在2,425點，（較開盤參考價）下跌17點。 東證期貨收在4,111.25點，（較開盤參考價）下跌36點。 美國道瓊期貨收在52,810點，（較開盤參考價）下跌520點。 美國那斯達克100期貨收在29,142點，（較開盤參考價）下跌416點。 美國費城半導體期貨收在11,294.5點，（較開盤參考價）下跌300.5點。 英國富時100指數",
+      "publishedAt": "2026-09-01T21:27:06.558Z",
+      "discoveredAt": "2026-09-01T21:27:06.558Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2cc649b517012cbb8103",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9728588?from=edn_newest_index",
+      "title": "市場消化美伊新一輪衝突 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "全球債市掀拋售潮之際，美國與伊朗敵對行動升高，引發市場擔心，能源價格飆漲恐迫使各國央行升息壓抑通膨，華爾街股市主要指數今...",
+      "publishedAt": "2026-09-01T21:27:06.558Z",
+      "discoveredAt": "2026-09-01T21:27:06.558Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ef505dd48b5b06f3a67f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "description": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
+      "publishedAt": "Tue, 01 Sep 2026 21:19:20 GMT",
+      "discoveredAt": "2026-09-01T21:27:06.558Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": true
+    },
+    {
       "id": "cand_0b43c482017c9a43d408",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +241,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728583?from=edn_newest_index",
-      "title": "美伊敵對行動升級 國際油價收漲 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美伊敵對行動升級 國際油價收漲 2026-09-02 05:06",
       "description": "美軍今天稍早表示對伊朗發動新一輪打擊後，德黑蘭稱已對中東地區美軍目標採取決定性行動以示報復，雙方衝突升級引發市場擔憂荷莫...",
       "publishedAt": "2026-09-01T21:07:41.377Z",
       "discoveredAt": "2026-09-01T21:07:41.377Z",
@@ -600,7 +747,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1102,7 +1249,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1132,7 +1279,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1162,7 +1309,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1192,7 +1339,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1222,7 +1369,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2402,7 +2549,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9866",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9959",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -3840,7 +3987,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8058",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8084",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -4350,7 +4497,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11806",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11883",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5176,156 +5323,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_698a48869ceb7a71b1cf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9727941?from=edn_newest_index",
-      "title": "影／苗栗115學年起實施中小學生免費學校午餐 鍾東錦：費用與台中相當 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "苗栗縣從115學年度起實施免費學校營養午餐，每餐並調高至60元，由縣府與十八鄉鎮市公所各負擔一半經費，除了中小學生，受惠對象也擴及縣立高中、公私立國中小的校長、導師、特教助理員；縣府上午舉行「幸福開飯、苗栗起飛」記者會，宣布這項新學年的教育新政策上路。縣長鍾東錦強調，學校午餐每餐費用併計約為70至74元，雖比雙北稍低，但與台中市相當。",
-      "publishedAt": "2026-09-01T11:45:00.780Z",
-      "discoveredAt": "2026-09-01T11:45:00.780Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_406834ce73e1f2eaab52",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9727323?from=edn_newest_index",
-      "title": "全球債券殖利率升至2008年來最高 對聯準會升息的預期增強 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 隨著油價上漲加劇了通膨疑慮，投資人對聯準會升息的預期也增強，全球債券殖利率攀升，重返近20年來的最高水準。",
-      "publishedAt": "2026-09-01T11:45:00.780Z",
-      "discoveredAt": "2026-09-01T11:45:00.780Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_24d21b27446b1474b8fb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727955?from=edn_newest_index",
-      "title": "AI晶片需求強勁 創浦：兩年內EUV雷射產出能力增至三倍 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI、高效能運算（HPC）及資料中心基礎建設持續推升先進製程需求，全球半導體設備供應鏈同步擴充產能。德國雷射設備大廠創浦（TRUMPF）首席技術長（CTO）Berthold Schmidt今日在SEMICON Taiwan開展前夕受訪表示，公司對半導體市場展望維持高度正向，AI、HPC與資料中心帶來的先進半導體需求，未來數年仍將維持「結構性強勁成長」，為因應客戶需求，創浦正在擴大EUV雷射系統產能，未來兩年內將把產出能力提高至目前的三倍。",
-      "publishedAt": "2026-09-01T11:45:00.780Z",
-      "discoveredAt": "2026-09-01T11:45:00.780Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_89e058fec35cc4db5c36",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727953?from=edn_newest_index",
-      "title": "總價4.8億元、每股160元 雋揚處分漢神購物中心股權6%予漢神資產管理 | 產業熱點 | 產業 | 經濟日報",
-      "description": "雋揚國際（1439）1日舉行董事會通過處分轉投資事業「漢神購物中心」部分股權；雋揚表示，為充實營運資金及挹注本業經營，決議以每股160元、處分持有6%漢神購物中心股權予雋揚關係人、漢神資產管理。",
-      "publishedAt": "2026-09-01T11:45:00.780Z",
-      "discoveredAt": "2026-09-01T11:45:00.780Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_10fc8e86aa9ffed07a30",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727764",
-      "title": "19:23 美光台灣勞資爭議升溫 今年將發歷年來最高的績效獎金",
-      "description": "AI記憶體需求火熱，記憶體大廠美光（Micron）台灣勞資爭議升溫，台灣廠區員工醞釀罷工，且獲高達八成工會成員支持，對此，美光1日回應表示，團隊成員的努力與貢獻是美光成功的重要基礎，已宣布今年將發放歷年來最高的績效獎金，績效獎金分紅（IPP，Incentive Pay Plan）相關方案預計10月公布；在此之前，將持續透過既有溝通管道與團隊成員保持對話，並尊重相關法定程序。",
-      "publishedAt": "2026-09-01T11:27:37.764Z",
-      "discoveredAt": "2026-09-01T11:27:37.764Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

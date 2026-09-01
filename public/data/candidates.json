@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T04:09:24.193Z",
+  "updatedAt": "2026-09-01T04:27:44.334Z",
   "candidates": [
+    {
+      "id": "cand_a3bcbe74e4f1a13fabc7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9726552",
+      "title": "環球晶徐秀蘭：未來兩年矽晶圓雙位數成長值得期待 | 產業熱點 | 產業 | 經濟日報",
+      "description": "環球晶（6488）董事長徐秀蘭今日上午出席2026晶鏈高峰論壇，她在受訪時表示，在未來兩年，矽晶圓產業呈現雙位數百分比成長應是值得期待。",
+      "publishedAt": "2026-09-01T04:27:44.334Z",
+      "discoveredAt": "2026-09-01T04:27:44.334Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_53f65a9779f6e8d86cc6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9726786?from=edn_maintab_index",
+      "title": "MLCC 漲價潮＋半導體展推波！被動元件動起來 國巨彈回5日線 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股9月首日多頭氣勢強勁，被動元件族群同步吸金，信昌電（6173）一度亮燈漲停，國巨*（2327）盤中漲逾3%、彈回5日線上，艾華（6204）、勤凱（4760）一度同步大漲逾6%，九豪（6127）、金山電（8042）、華新科（2492）、禾伸堂（3026）、蜜望實（8043）等也全面走強，MLCC漲價與供需吃緊題材再度成為盤面焦點。",
+      "publishedAt": "2026-09-01T04:27:44.334Z",
+      "discoveredAt": "2026-09-01T04:27:44.334Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_269064ef4d5e1b5863bb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6721/9726908?from=edn_newest_index",
+      "title": "投資人態度謹慎 SHEIN香港掛牌首日一度跌近10% | 港澳話題 | 兩岸 | 經濟日報",
+      "description": "大陸快時尚跨境電商SHEIN今天在香港掛牌上市，開盤價報48.56港元，與發行價持平，隨後跌幅擴大，盤中一度重挫近10%，最低來到43.72港元。分析指出，SHEIN面臨營收成長放緩、國際貿易政策變動及地緣政治等壓力，投資人對其估值仍持謹慎態度。",
+      "publishedAt": "2026-09-01T04:27:44.334Z",
+      "discoveredAt": "2026-09-01T04:27:44.334Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1e2894626b1d251115cc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9726905?from=edn_newest_index",
+      "title": "8月車市表現不弱 豪華車展現大躍進 | 產業熱點 | 產業 | 經濟日報",
+      "description": "8月初進入傳統民俗月淡季，台灣車市在國人觀念逐漸改變，以及各車廠夏季促銷的挹注下，單月總市場登錄台數達29,222台，年減0.8%，累計1-8月總市場登錄台數為270,156台，年增2.4%。",
+      "publishedAt": "2026-09-01T04:27:44.334Z",
+      "discoveredAt": "2026-09-01T04:27:44.334Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_15d508f83d4b1066bda7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9726901?from=edn_newest_index",
+      "title": "美國運通與 St Andrews Links Trust 建立合作夥伴關係 | 金融脈動 | 金融 | 經濟日報",
+      "description": "美國運通今日宣布，將聖安德魯斯林克斯高爾夫球場（St Andrews Links）納入其體育合作夥伴版圖，並成為這座被視為高爾夫發源聖地──「高爾夫之家」的官方支付合作夥伴。憑藉美國運通廣泛的國際布局，此次合作將讓更多來自世界各地的高爾夫球友與持卡會員有機會造訪這座傳奇球場，同時進一步拓展美國運通的全球運動賽事合作版圖，包涵國家美式足球聯盟（NFL）、一級方程式賽車（F1®）、溫布頓網球錦標賽、美國網球公開賽，以及遍布世界各地的指標性體育場館。",
+      "publishedAt": "2026-09-01T04:27:44.334Z",
+      "discoveredAt": "2026-09-01T04:27:44.334Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a5a3ad58969d29acc029",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726899?from=edn_newest_index",
+      "title": "此處不留爺自有留爺處 烏克蘭無人機大軍操盤手投奔義大利 | 國際焦點 | 國際 | 經濟日報",
+      "description": "烏克蘭前國防部長、被視為無人機作戰戰略操盤手的費多羅夫（Mykhailo Fedorov），遭烏克蘭總統澤倫斯基撤職數周後，獲義大利國防部長克羅塞托（Guido Crosetto）延攬，擔任現代軍事戰略顧問，協助義大利因應無人機、人工智慧等新科技正在改變的戰爭型態。",
+      "publishedAt": "2026-09-01T04:27:44.334Z",
+      "discoveredAt": "2026-09-01T04:27:44.334Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_97f5ae54d4e1b22aa596",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9726897?from=edn_newest_index",
+      "title": "AI 下一戰轉向光互連 邁威爾：NPO 2027至2028年進市場 | 產業熱點 | 產業 | 經濟日報",
+      "description": "IC設計大廠邁威爾（Marvell）資深副總裁Radha Nagarajan 1日表示，隨AI叢集規模持續放大，下一個必須解決的就是連接問題，光互連未來不會只停留在Switch 端，而將進一步走進XPU，並從機櫃內的縱垂直擴展（Scale-up）、資料中心內的橫向擴展（Scale-out），一路延伸至跨資料中心擴展（Scale-across）。",
+      "publishedAt": "2026-09-01T04:27:44.334Z",
+      "discoveredAt": "2026-09-01T04:27:44.334Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d550888c477571e18d90",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726786",
-      "title": "MLCC 漲價潮＋半導體展推波！被動元件動起來 國巨彈回5日線 | 市場焦點 | 證券 | 經濟日報",
+      "title": "12:05 MLCC 漲價潮＋半導體展推波！被動元件動起來 國巨彈回5日線",
       "description": "台股9月首日多頭氣勢強勁，被動元件族群同步吸金，信昌電（6173）一度亮燈漲停，國巨*（2327）盤中漲逾3%、彈回5日線上，艾華（6204）、勤凱（4760）一度同步大漲逾6%，九豪（6127）、金山電（8042）、華新科（2492）、禾伸堂（3026）、蜜望實（8043）等也全面走強，MLCC漲價與供需吃緊題材再度成為盤面焦點。",
       "publishedAt": "2026-09-01T04:09:24.193Z",
       "discoveredAt": "2026-09-01T04:09:24.193Z",
@@ -594,7 +804,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2058,7 +2268,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2224,7 +2434,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725204?from=edn_hottest_index",
-      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 9061",
+      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 9215",
       "description": "電力供應已成為限制人工智慧（AI）資料中心快速上線的瓶頸，許多專案因此轉向可移動式的天然氣渦輪發電機，以取得所需電力，推升了渦輪機的需求。馬斯克表示，為了將發電機啟用時間縮短，SpaceX將自行生產渦輪葉片與導葉的鑄造。",
       "publishedAt": "2026-09-01T01:18:52.483Z",
       "discoveredAt": "2026-09-01T01:18:52.483Z",
@@ -2238,7 +2448,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3832,7 +4042,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 9004",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 9048",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -5171,216 +5381,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e67ec4e5290ba76ca2fa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5739/9725561?from=edn_newest_index",
-      "title": "長興、力積電 認購靚 | 權證特區 | 證券 | 經濟日報",
-      "description": "台股昨（31）日拉回整理，盤面個股跌多漲少，其中「逆勢走強股」因各有利多題材發酵，吸引市場矚目。如長興（1717）股價大漲超過半根停板，終場收82.5元，攀本波反彈高峰；力積電大漲4.2%、收73元，表現均相當強勢。",
-      "publishedAt": "2026-08-31T16:52:53.643Z",
-      "discoveredAt": "2026-08-31T16:52:53.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_341c1170aa5a4834412b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5739/9725554?from=edn_newest_index",
-      "title": "創見、威剛 四檔有看頭 | 權證特區 | 證券 | 經濟日報",
-      "description": "記憶體族群仍是盤面人氣焦點，除產業龍頭指標股之外，創見（2451）與威剛也獲多頭買盤青睞。權證發行商表示，可趁震盪時，挑偏價外且120天期以上的相關認購權證操作。",
-      "publishedAt": "2026-08-31T16:52:53.643Z",
-      "discoveredAt": "2026-08-31T16:52:53.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a35174d26d6c69f21029",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5739/9725518?from=edn_newest_index",
-      "title": "南亞、台化 選逾三個月 | 權證特區 | 證券 | 經濟日報",
-      "description": "隨全球製造業庫存調整步入尾聲，塑化產業供需結構逐步改善。台塑集團旗下指標大廠南亞（1303）、台化受惠利基型產品拉貨動能增溫及轉投資效益發酵，後市營運展望轉趨樂觀，吸引買盤聚焦。",
-      "publishedAt": "2026-08-31T16:52:53.643Z",
-      "discoveredAt": "2026-08-31T16:52:53.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fc227cb065523d336452",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10871/9725865?from=edn_newest_index",
-      "title": "美伊戰火再起 全球航運供應鏈再度拉響警報 貨櫃、散裝運價漲勢蠢動 | 綜合產業 | 產業 | 經濟日報",
-      "description": "美伊戰火再起，全球航運供應鏈再度拉響警報，貨櫃、散裝運價跟著蠢動。貨櫃輪短期重返紅海無望，歐洲線有效運力持續遭到繞航消耗；北美線又受到巴拿馬運河水量不足、通航重量受限影響，兩大主力航線供給同步壓縮，運價短期不易走弱。",
-      "publishedAt": "2026-08-31T16:52:53.643Z",
-      "discoveredAt": "2026-08-31T16:52:53.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b2a136e5eaddd94b2d95",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9724513?from=edn_bloomberg_index_side",
-      "title": "中國大陸製造業活動小幅回升 經濟顯現些許復甦跡象",
-      "description": "【彭博】-- 中國大陸8月工廠活動雖仍處於收縮狀態，但有所改善，顯現在決策者考慮出台新舉措之際，經濟出現一絲復甦跡象。",
-      "publishedAt": "2026-08-31T16:52:53.643Z",
-      "discoveredAt": "2026-08-31T16:52:53.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_659f2f6dd1e71ea0aa7b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9725521?from=edn_newest_index",
-      "title": "玉晶光獲利靚 7月每股賺2.92元 切入 CPO 獲市場肯定 | 集中市場 | 證券 | 經濟日報",
-      "description": "光學鏡頭廠玉晶光（3406）遭列注意股票，昨（31）日應主管機關要求，公布自結7月稅後純益3.3億元，每股純益2.92元，單月獲利逼近第2季一整季五成，但仍較去年同期衰退二成。",
-      "publishedAt": "2026-08-31T16:37:48.098Z",
-      "discoveredAt": "2026-08-31T16:37:48.098Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8bd5b8f9cd4254335b86",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9725532?from=edn_newest_index",
-      "title": "就市論勢／矽光子、CPO 打聚光燈 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台灣7月海關出口年增率達46.3%，外銷訂單連續兩個月突破900億美元。展望後市，AI供應鏈訂單能見度高，Rubin機櫃已於8月開始出貨、年底放量，加上歐美年底旺季備貨及AI需求外溢帶動傳產漸入佳境，台灣今年經濟成長強勁。",
-      "publishedAt": "2026-08-31T16:37:48.098Z",
-      "discoveredAt": "2026-08-31T16:37:48.098Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

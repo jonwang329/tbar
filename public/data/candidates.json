@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T07:30:29.749Z",
+  "updatedAt": "2026-09-01T07:46:22.693Z",
   "candidates": [
+    {
+      "id": "cand_fd8a3938ad5bb7b7a4cc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726419",
+      "title": "全球告別「儲蓄過剩」 華許看見投資大浪潮 AI 也來跟美債搶錢 | 國際焦點 | 國際 | 經濟日報",
+      "description": "全球資金流向正在出現重大轉變。聯準會（Fed）主席華許（Kevin Warsh）認為，全球已從過去的「儲蓄過剩」轉向「投資激增」，經濟成長潛力也可能高於傳統預測。與此同時，AI資料中心和基礎設施投資大舉吸收資金，被視為美債殖利率居高不下的因素之一。華許日前已暗示，若通膨無法朝2%目標下降，Fed可能還得升息；但總統川普同日仍公開喊話，美國利率應該遠低於世界其他國家。",
+      "publishedAt": "2026-09-01T07:46:22.693Z",
+      "discoveredAt": "2026-09-01T07:46:22.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_39510a8bf3d3d7d41247",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9727405?from=edn_maintab_index",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 | 基金天地 | 理財 | 經濟日報",
+      "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
+      "publishedAt": "2026-09-01T07:46:22.693Z",
+      "discoveredAt": "2026-09-01T07:46:22.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a93e3402770aef19701",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9727402?from=edn_newest_index",
+      "title": "投資型保單為何爆紅？保費狂吸金 想跟進先看懂三件事 | 金融脈動 | 金融 | 經濟日報",
+      "description": "台股、美股多頭行情延燒，帶動投資型保單買氣全面升溫，今年更成為壽險市場最火熱的商品之一，不僅新契約保費大幅成長，一張張「百億神單」接連出爐。不過，投資型保單為何今年爆紅？現在股市已處相對高檔，還適合跟著進場嗎？壽險業者指出，投資型保單兼具保障與投資功能，且可連結不同投資標的，成為保戶參與資本市場的重要工具，但熱銷不代表人人都適合，想跟進至少要先看懂「投資標的、費用結構、風險承受能力」三件事，避免只看到配息或市場漲幅就搶著進場。",
+      "publishedAt": "2026-09-01T07:46:22.693Z",
+      "discoveredAt": "2026-09-01T07:46:22.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dc15d7f0a06dc1ada292",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727464?from=edn_newest_index",
+      "title": "公主遊輪停止在台銷售 航港局：無其他業者跟進 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "公主遊輪宣布在台停止銷售。對此，交通部航港局副局長饒智平今天表示，目前掌握公主遊輪今年在台的航次不會取消，也沒有其他業者...",
+      "publishedAt": "2026-09-01T07:46:22.693Z",
+      "discoveredAt": "2026-09-01T07:46:22.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b7fbda0f86f4cd908fc2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9727459?from=edn_newest_index",
+      "title": "SEMICON 引爆押寶潮！這檔半導體股大秀肌肉亮燈漲停 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "「2026 SEMICON Taiwan」2日將正式開展，吸引全球矚目，1日部分押寶買盤已先行搶買，激勵穩懋（3105）股價開高走高，近午盤即亮燈強鎖漲停，漲停價492元攀本波反彈高峰。",
+      "publishedAt": "2026-09-01T07:46:22.693Z",
+      "discoveredAt": "2026-09-01T07:46:22.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9be7cfa9c496012b2e3e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727450?from=edn_newest_index",
+      "title": "群創成功開發 Chip Last、異質整合技術平台 搶攻 AI 高效運算商機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "群創（3481）宣布，成功開發Chip Last、異質整合技術平台，要搶攻AI高效運算商機。群創憑藉在大尺寸面板製程、精密加工及量產經驗，繼Chip First與TGV技術布局後，首次發表Chip Last關鍵技術平台，且透過高密度異質整合（HIPoS）平台，與一站式面板級測試解決方案，實現快速量產。",
+      "publishedAt": "2026-09-01T07:46:22.693Z",
+      "discoveredAt": "2026-09-01T07:46:22.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7ff30cd892801c22aea1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727448?from=edn_newest_index",
+      "title": "CAVIRA 首月交車就衝進前10！鴻華先進產能滿載、全力拚交車 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海（2317）旗下鴻華先進（2258）旗下CAVIRA交車首月就傳出好成績！根據8月台灣新車掛牌數據，CAVIRA單月交車548台，一舉衝上全台新車銷售第10名，上市第一個月就擠進前十大，市場反應相當熱絡。",
+      "publishedAt": "2026-09-01T07:46:22.693Z",
+      "discoveredAt": "2026-09-01T07:46:22.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e076269d1e216cb6a052",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9727349",
-      "title": "三大法人回補561億元！台股9月開門飆820點 聯發科亮燈還引爆哪些族群？ | 市場焦點 | 證券 | 經濟日報",
+      "title": "15:15 三大法人回補561億元！台股9月開門飆820點 聯發科亮燈還引爆哪些族群？",
       "description": "台股9月由多方拔得頭籌！集中市場指數1日開高48.64點、報46,177.11點，在聯發科（2454）跳空漲停領軍下，資金火力迅速向矽光子、PCB、載板、CoWoS等電子族群擴散，推升指數一路攻高，尾盤台積電（2330）再急拉15元、收2,440元，終場集中市場指數大漲820.25點、收46,948.72點，成交值1.08兆元。三大法人合計買超561.39億元。",
       "publishedAt": "2026-09-01T07:30:29.749Z",
       "discoveredAt": "2026-09-01T07:30:29.749Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9727349?from=edn_maintab_index",
-      "title": "三大法人回補561億元！台股9月開門飆820點 聯發科亮燈還引爆哪些族群？ | 市場焦點 | 證券 | 經濟日報",
+      "title": "三大法人回補561億元！台股9月開門飆820點 聯發科亮燈還引爆哪些族群？ 台股9月由多方拔得頭籌！集中市場指數1日開高48.64點、報46,177.11點，在聯發科（2454）跳空漲停領軍下，資金火力迅速向矽光子、PCB、載板、CoWoS等電子族群擴散，推升指數一路攻高...",
       "description": "台股9月由多方拔得頭籌！集中市場指數1日開高48.64點、報46,177.11點，在聯發科（2454）跳空漲停領軍下，資金火力迅速向矽光子、PCB、載板、CoWoS等電子族群擴散，推升指數一路攻高，尾盤台積電（2330）再急拉15元、收2,440元，終場集中市場指數大漲820.25點、收46,948.72點，成交值1.08兆元。三大法人合計買超561.39億元。",
       "publishedAt": "2026-09-01T07:30:29.749Z",
       "discoveredAt": "2026-09-01T07:30:29.749Z",
@@ -400,7 +610,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9725717?from=edn_hottest_index",
-      "title": "台指期夜盤由黑翻紅！上半場衝上46K 大關 6267",
+      "title": "台指期夜盤由黑翻紅！上半場衝上46K 大關 6288",
       "description": "台指期夜盤31日以46,126點開高，盤中走勢持續震盪。截至傍晚9點40分，台指期夜盤報46,063點、漲86點、漲幅0.1%。剛開盤多空雙方較勁激烈，空頭賣壓再起最低暫達45,905點，隨後最高達46,186點，高低點震盪281點，暫時站上46K大關，並持續於附近震盪。",
       "publishedAt": "2026-09-01T07:14:42.935Z",
       "discoveredAt": "2026-09-01T07:14:42.935Z",
@@ -684,7 +894,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -714,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -880,7 +1090,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7637",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7717",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -894,7 +1104,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2064,7 +2274,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4654,7 +4864,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725204?from=edn_hottest_index",
-      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 10196",
+      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 10312",
       "description": "電力供應已成為限制人工智慧（AI）資料中心快速上線的瓶頸，許多專案因此轉向可移動式的天然氣渦輪發電機，以取得所需電力，推升了渦輪機的需求。馬斯克表示，為了將發電機啟用時間縮短，SpaceX將自行生產渦輪葉片與導葉的鑄造。",
       "publishedAt": "2026-09-01T01:18:52.483Z",
       "discoveredAt": "2026-09-01T01:18:52.483Z",
@@ -5168,210 +5378,6 @@
       "description": "尼泊爾與中國大陸西藏交界的喜馬拉雅山區8月26日發生暴洪與土石流，目前兩地合計死亡人數已超過950人，另有超過4400人失蹤。愈來愈絕望的家屬把希望寄託在手機最後發出的訊號，尋找失蹤親人。",
       "publishedAt": "2026-09-01T00:07:46.320Z",
       "discoveredAt": "2026-09-01T00:07:46.320Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e27de523feee15b7d83a",
-      "sourceLastModified": "2026-09-01",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/370",
-      "title": "News and Releases｜Ministry of Digital Affairs",
-      "description": "News and Releases",
-      "publishedAt": "2026-09-01",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0f5362a66eb2493d02c4",
-      "sourceLastModified": "2026-09-01",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/370",
-      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "公告訊息",
-      "publishedAt": "2026-09-01",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5ddaccf7d92a0019f0e",
-      "sourceLastModified": "2026-09-01",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/press/multimedia/1197",
-      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
-      "description": "多媒體專區",
-      "publishedAt": "2026-09-01",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_95cf42db2a61563bbe05",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726105",
-      "title": "07:40 美最高法院5：4准白宮宴會廳續建 川普獲重大勝利",
-      "description": "美國最高法院今天裁定，准許美國總統川普繼續進行白宮大型宴會廳的地面工程。這項判決標誌著他第二任期關鍵計畫訴訟案的重大勝利",
-      "publishedAt": "2026-08-31T23:47:19.502Z",
-      "discoveredAt": "2026-08-31T23:47:19.502Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_48ff07f1a37d7b789a56",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726149?from=edn_newest_index",
-      "title": "貝森特直接施壓了！當面告訴日本財相與央行總裁 日本該升息了 2026-09-01 07:43",
-      "description": "日本媒體NHK引述對一名美國官員的採訪報導，美國財長貝森特向日本財務大臣片山皋月及日本銀行（BOJ，央行）總裁植田和男表示，日本的下一步應該是升息。",
-      "publishedAt": "2026-08-31T23:47:19.502Z",
-      "discoveredAt": "2026-08-31T23:47:19.502Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cb5b5efecaff514de6ba",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9726147?from=edn_newest_index",
-      "title": "沙德爾復活 大陸中央氣象台再度發布颱風預警 2026-09-01 07:40",
-      "description": "新華社報導，大陸中央氣象台1日6時發布颱風藍色預警，今年第18號颱風「沙德爾」減弱後的殘餘環流發展成熱帶低壓後，1日凌晨在南海西北部海域再度加強為颱風（熱帶風暴級），大陸中央氣象台繼續維持原颱風名稱「沙德爾」和編號不變。",
-      "publishedAt": "2026-08-31T23:47:19.502Z",
-      "discoveredAt": "2026-08-31T23:47:19.502Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_70be11804c58ff35fc4c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726142?from=edn_newest_index",
-      "title": "今晨國際頭條一次看／白宮舞廳續建 美伊戰火再度升溫 2026-09-01 07:34",
-      "description": "「今晨國際頭條」同步檢視華爾街日報、華盛頓郵報、金融時報、衛報、路透與美聯社首頁，挑出各家頭條新聞、重點摘要與「為何重要」。用最短閱讀時間，快速掌握國際主流媒體此刻最重視的議題。",
-      "publishedAt": "2026-08-31T23:36:32.739Z",
-      "discoveredAt": "2026-08-31T23:36:32.739Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T11:10:06.540Z",
+  "updatedAt": "2026-09-01T11:27:37.764Z",
   "candidates": [
+    {
+      "id": "cand_10fc8e86aa9ffed07a30",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727764",
+      "title": "美光台灣勞資爭議升溫 今年將發歷年來最高的績效獎金 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI記憶體需求火熱，記憶體大廠美光（Micron）台灣勞資爭議升溫，台灣廠區員工醞釀罷工，且獲高達八成工會成員支持，對此，美光1日回應表示，團隊成員的努力與貢獻是美光成功的重要基礎，已宣布今年將發放歷年來最高的績效獎金，績效獎金分紅（IPP，Incentive Pay Plan）相關方案預計10月公布；在此之前，將持續透過既有溝通管道與團隊成員保持對話，並尊重相關法定程序。",
+      "publishedAt": "2026-09-01T11:27:37.764Z",
+      "discoveredAt": "2026-09-01T11:27:37.764Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_49ee8c34308c254f83e0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727854?from=edn_maintab_index",
+      "title": "佳必琪法說會／獲挪威主權基金投資！光通訊產品出貨 訂單看到2028年 | 產業熱點 | 產業 | 經濟日報",
+      "description": "佳必琪（6197）1日舉行法說會，公布獲得挪威主權財富基金持股0.13%，約175.78萬美元，同時，1.6T光通訊產品開始出貨，跟上光進銅退趨勢，董事長張舒眉表示，目前產能不足，客戶已經由過去的短單，改下長單，訂單能見度看到2028年。",
+      "publishedAt": "2026-09-01T11:27:37.764Z",
+      "discoveredAt": "2026-09-01T11:27:37.764Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cc453681e9e273d6f138",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727935?from=edn_newest_index",
+      "title": "台捷直航添亮點 星宇藝術機「空山金」抵布拉格吸睛 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "星宇航空與日本藝術家空山基合作推出的金色旗艦機A350-1000今天飛抵布拉格。星宇航空公關長暨發言人梁文龍表示，星宇航...",
+      "publishedAt": "2026-09-01T11:27:37.764Z",
+      "discoveredAt": "2026-09-01T11:27:37.764Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_981473b275d7b1150a51",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727933?from=edn_newest_index",
+      "title": "宇沛永續：半導體製程廢水利用 節能50% | 產業熱點 | 產業 | 經濟日報",
+      "description": "面板廠友達光電今天宣布，為因應AI布局，其中「AI產品應用與智慧服務」將於SEMICON Taiwan展現成果。旗下子公...",
+      "publishedAt": "2026-09-01T11:27:37.764Z",
+      "discoveredAt": "2026-09-01T11:27:37.764Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_57868e381a00ab664a59",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9727928?from=edn_newest_index",
+      "title": "ABA 年會登場 15國金融領袖共探亞洲銀行業韌性新局 | 金融脈動 | 金融 | 經濟日報",
+      "description": "中國信託金控創辦人辜濓松先生積極促成的亞洲銀行家協會（Asian Bankers Association, ABA），1日舉行第42屆會員大會暨研討會的開幕典禮，由馬爾地夫銀行（Bank of Maldives）主辦，主題為「亞洲銀行業：投資打造穩健未來」（Banking in Asia: Investing to Build Resilience），來自15個國家及地區，逾140位金融領袖出席，共同探討數位科技、永續發展及創新金融提升銀行業的競爭力與韌性的關鍵，以因應全球經濟環境快速變遷所帶來的挑戰。",
+      "publishedAt": "2026-09-01T11:27:37.764Z",
+      "discoveredAt": "2026-09-01T11:27:37.764Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a69f009c06c313d7ae4b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727923?from=edn_newest_index",
+      "title": "SEMICON Taiwan：創浦展示次世代AI晶片整合式冷卻技術 | 產業熱點 | 產業 | 經濟日報",
+      "description": "全球半導體關鍵設備供應商創浦（TRUMPF）今日宣布將於國際半導體展 (SEMICON Taiwan) 首度展示一項全新的超短脈衝雷射應用，可實現 AI 晶片內部整合式冷卻系統的工業化生產。這也是創浦因應AI晶片追求兼具更小、更強及更省電所推出一項全新應用技術。",
+      "publishedAt": "2026-09-01T11:27:37.764Z",
+      "discoveredAt": "2026-09-01T11:27:37.764Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4e53f9436770cfe1a11f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9727922?from=edn_newest_index",
+      "title": "印尼野火煙霾飄抵菲律賓 馬尼拉空氣品質亮紅燈 | 國際焦點 | 國際 | 經濟日報",
+      "description": "印尼近來持續發生森林火災，產生的煙霾飄到菲律賓大馬尼拉地區等。菲律賓民防處（OCD）呼籲民眾減少戶外活動，若需出門宜戴口...",
+      "publishedAt": "2026-09-01T11:27:37.764Z",
+      "discoveredAt": "2026-09-01T11:27:37.764Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_bca6d3c007adce39bacd",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9727779",
-      "title": "新壽投資收益亮眼！上半年股債未實現利益近900億元 九成來自股票 | 金融脈動 | 金融 | 經濟日報",
+      "title": "19:07 新壽投資收益亮眼！上半年股債未實現利益近900億元 九成來自股票",
       "description": "台股今年走勢震盪，但新光人壽投資部位仍握有豐厚未實現利益。台新新光金（2887）1日法說會揭露，新壽截至6月底金融資產未實現利益近900億元，其中約九成來自股票。新壽股票投資占比亦從年初不到一成，提高至6月底的13.9%。",
       "publishedAt": "2026-09-01T11:09:52.942Z",
       "discoveredAt": "2026-09-01T11:09:52.942Z",
@@ -640,7 +850,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9727405?from=edn_hottest_index",
-      "title": "44萬股民注意！月配績效王00929最新配息出爐 6897",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 7196",
       "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
       "publishedAt": "2026-09-01T10:42:13.094Z",
       "discoveredAt": "2026-09-01T10:42:13.094Z",
@@ -714,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2642,7 +2852,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9726755?from=edn_hottest_index",
-      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 13350",
+      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 13892",
       "description": "每年贈與稅免稅額為244萬元，許多父母會想利用年底前，將免稅額內現金贈與給子女，但很多人有一疑問，244萬元的現金贈與，要不要申報？",
       "publishedAt": "2026-09-01T07:57:11.423Z",
       "discoveredAt": "2026-09-01T07:57:11.423Z",
@@ -3752,7 +3962,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8221",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8254",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -5181,216 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e2894626b1d251115cc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9726905?from=edn_newest_index",
-      "title": "8月車市表現不弱 豪華車展現大躍進 | 產業熱點 | 產業 | 經濟日報",
-      "description": "8月初進入傳統民俗月淡季，台灣車市在國人觀念逐漸改變，以及各車廠夏季促銷的挹注下，單月總市場登錄台數達29,222台，年減0.8%，累計1-8月總市場登錄台數為270,156台，年增2.4%。",
-      "publishedAt": "2026-09-01T04:27:44.334Z",
-      "discoveredAt": "2026-09-01T04:27:44.334Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_15d508f83d4b1066bda7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9726901?from=edn_newest_index",
-      "title": "美國運通與 St Andrews Links Trust 建立合作夥伴關係 | 金融脈動 | 金融 | 經濟日報",
-      "description": "美國運通今日宣布，將聖安德魯斯林克斯高爾夫球場（St Andrews Links）納入其體育合作夥伴版圖，並成為這座被視為高爾夫發源聖地──「高爾夫之家」的官方支付合作夥伴。憑藉美國運通廣泛的國際布局，此次合作將讓更多來自世界各地的高爾夫球友與持卡會員有機會造訪這座傳奇球場，同時進一步拓展美國運通的全球運動賽事合作版圖，包涵國家美式足球聯盟（NFL）、一級方程式賽車（F1®）、溫布頓網球錦標賽、美國網球公開賽，以及遍布世界各地的指標性體育場館。",
-      "publishedAt": "2026-09-01T04:27:44.334Z",
-      "discoveredAt": "2026-09-01T04:27:44.334Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a5a3ad58969d29acc029",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726899?from=edn_newest_index",
-      "title": "此處不留爺自有留爺處 烏克蘭無人機大軍操盤手投奔義大利 | 國際焦點 | 國際 | 經濟日報",
-      "description": "烏克蘭前國防部長、被視為無人機作戰戰略操盤手的費多羅夫（Mykhailo Fedorov），遭烏克蘭總統澤倫斯基撤職數周後，獲義大利國防部長克羅塞托（Guido Crosetto）延攬，擔任現代軍事戰略顧問，協助義大利因應無人機、人工智慧等新科技正在改變的戰爭型態。",
-      "publishedAt": "2026-09-01T04:27:44.334Z",
-      "discoveredAt": "2026-09-01T04:27:44.334Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_97f5ae54d4e1b22aa596",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9726897?from=edn_newest_index",
-      "title": "AI 下一戰轉向光互連 邁威爾：NPO 2027至2028年進市場 | 產業熱點 | 產業 | 經濟日報",
-      "description": "IC設計大廠邁威爾（Marvell）資深副總裁Radha Nagarajan 1日表示，隨AI叢集規模持續放大，下一個必須解決的就是連接問題，光互連未來不會只停留在Switch 端，而將進一步走進XPU，並從機櫃內的縱垂直擴展（Scale-up）、資料中心內的橫向擴展（Scale-out），一路延伸至跨資料中心擴展（Scale-across）。",
-      "publishedAt": "2026-09-01T04:27:44.334Z",
-      "discoveredAt": "2026-09-01T04:27:44.334Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d550888c477571e18d90",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9726786",
-      "title": "12:05 MLCC 漲價潮＋半導體展推波！被動元件動起來 國巨彈回5日線",
-      "description": "台股9月首日多頭氣勢強勁，被動元件族群同步吸金，信昌電（6173）一度亮燈漲停，國巨*（2327）盤中漲逾3%、彈回5日線上，艾華（6204）、勤凱（4760）一度同步大漲逾6%，九豪（6127）、金山電（8042）、華新科（2492）、禾伸堂（3026）、蜜望實（8043）等也全面走強，MLCC漲價與供需吃緊題材再度成為盤面焦點。",
-      "publishedAt": "2026-09-01T04:09:24.193Z",
-      "discoveredAt": "2026-09-01T04:09:24.193Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5b9f406cc250789e85f3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124067/9726826?from=edn_newest_index",
-      "title": "台中北屯系統櫃規劃安裝推薦 專業系統櫃師傅打造機能性空間 | 本地店商焦點 | 商情 | 經濟日報",
-      "description": "圖／享居系統櫃設計提供現代住宅坪數與生活型態改變，許多屋主裝修時重視收納效率、空間動線與整體風格一致性，使系統櫃設計成為居家規劃的重要選擇。今天要介紹的「享居系統櫃設計」，透過專業系統櫃師傅團隊協助屋主整合收納、美感與實用需求，打造更符合日常生活的理想空間，因而建立台中北屯系統櫃規劃安裝推薦口碑。「享居系統櫃設計」希望替每位屋主打造兼具美感、實用性與生活溫度的居家環境，品牌相信，家是讓人放鬆、陪伴家人與享受生活的重要空間，因此每次規劃都以「享受生活、安心居住」為理念，透過系統櫃設計滿足使用者生活需求。圖／享居系統櫃設計提供品牌創辦人長期接觸室內設計與系統櫃規劃，發現許多消費者在裝修過程中，常遇到收納不足、空間規劃不完善、風格不一致等問題。為了解決這些裝修痛點，團隊投入系統櫃設計領域，並與專業工廠合作，提供客製化設計、高品質施工，協助客戶提升空間機能與生活品質，因而入選台中北屯系統櫃規劃安裝推薦名單。服務項目上，「享居系統櫃設計」提供系統櫃客製化設計、室內空間整體規劃以及高品質施工服務，範圍涵蓋住宅、套房、小坪數空間與商業空間。團隊會依照空間尺寸、使用習慣與預算需求進行規劃，並結合多元板",
-      "publishedAt": "2026-09-01T04:09:24.193Z",
-      "discoveredAt": "2026-09-01T04:09:24.193Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d069eea4564747b234c8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124067/9726825?from=edn_newest_index",
-      "title": "職場霸凌怎麼認定 蕭博仁律師事務所職場霸凌律師法律諮詢 | 本地店商焦點 | 商情 | 經濟日報",
-      "description": "圖／蕭博仁律師事務所提供職場上的責備、排擠或不合理要求，並非只要讓人感到不舒服，就一定構成職場霸凌。許多人面對疑似不當對待時，會想了解職場霸凌怎麼認定，以及個案是否已逾越正常管理與工作互動範圍。蕭博仁律師事務所提供職場霸凌律師法律諮詢，從事件經過、言詞行為及相關證據切入，協助當事人釐清案件利弊與可採取的方向。圖／蕭博仁律師事務所提供職場霸凌新制上路，明確認定核心要件因應修正後的《職業安全衛生法》與《公務人員執行職務安全及衛生防護辦法》，一般企業及公務機關自2026年7月1日起實施職場霸凌防治新制。要了解職場霸凌怎麼認定，需觀察行為人是否假借職務上的權勢或機會，逾越職務或業務所需的合理範圍，以威脅、冒犯、冷落、孤立、侮辱或其他不當言行，形成敵意性、脅迫性或冒犯性的工作環境，並使當事人身心健康受到危害。圖／蕭博仁律師事務所提供職場霸凌怎麼認定？個案認定可從五個面向觀察，包括當事人是否屬一般企業或公務機關人員、事件是否發生於職務權勢或工作機會之中、行為是否逾越正當合理範圍、不當行為是否反覆持續，以及是否造成身心危害。原則上須具有持續性，但情節重大者，不以反覆發生為必要。圖／蕭博仁律師事務所提",
-      "publishedAt": "2026-09-01T04:09:24.193Z",
-      "discoveredAt": "2026-09-01T04:09:24.193Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

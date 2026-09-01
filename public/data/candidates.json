@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T10:25:58.481Z",
+  "updatedAt": "2026-09-01T10:42:13.094Z",
   "candidates": [
+    {
+      "id": "cand_32fb4c06bb878be7a004",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9727810",
+      "title": "AI 續旺推升景氣 製造業 PMI 連11月擴張、成本壓力升溫 | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "AI需求持續點火，台灣製造業景氣維持高檔，但供應鏈另一端的成本壓力也正在升溫。中經院院長連賢明1日表示，8月製造業採購經理人指數（PMI）續升至62.5，反映出口及AI產業持續暢旺，但高頻寬記憶體（HBM）等零組件供不應求，價格大幅上漲，不只形成生產瓶頸，也可能進一步推升電子產品價格，短期內恐難明顯紓解。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_07825a118646d49e6afc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727764?from=edn_maintab_index",
+      "title": "美光台灣勞資爭議升溫 今年將發歷年來最高的績效獎金 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI記憶體需求火熱，記憶體大廠美光（Micron）台灣勞資爭議升溫，台灣廠區員工醞釀罷工，且獲高達八成工會成員支持，對此，美光1日回應表示，團隊成員的努力與貢獻是美光成功的重要基礎，已宣布今年將發放歷年來最高的績效獎金，績效獎金分紅（IPP，Incentive Pay Plan）相關方案預計10月公布；在此之前，將持續透過既有溝通管道與團隊成員保持對話，並尊重相關法定程序。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fb1e3438d88197718b4b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9727761?from=edn_newest_index",
+      "title": "影／銅鑼大矽谷土石堆置場開發案引發地方疑慮 自救會赴環保局陳抗 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "苗栗縣銅鑼鄉有業者申請在九華山大興善寺附近設置「大矽谷土石方資源堆置處理場」，引起地方民眾反彈並組自救會，開發案今天上午在環保局辦理環境影響說明書專案小組第二次審查會，上百名自救會成員前往抗議並表達反對設置的訴求，審查會開放直播，專案小組作成結論要求全案針對生態影響、交通衝擊、環境監測等進行完整調查及安全評估分析，「補充、修正後再審」。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_84dc74ea9d3bde17bee4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9727675?from=edn_newest_index",
+      "title": "衛福部擬推長照「共生宅」 選定10處民宅各收6位長者提供24小時照護 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "隨我國進入超高齡社會，長者居住、照顧成為政策重點，衛福部擬推出「共生宅」試辦計畫，選定全台10處地處偏遠民宅為據點。衛福部長照司長祝健芳說，試辦計畫尚在研議中，且須通過專家審查會議，尚無具體實施時間表，目前規畫每處由6位長者及家屬共住，醫療團隊以居家醫療方式前往照顧，初步鎖定對象為中、重症安寧病人。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ae6672587bf4a947b6c1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9727648?from=edn_newest_index",
+      "title": "國旅補助地方加碼 花蓮延長住宿最高加碼7000元 台南第3晚免費 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "觀光署推動平日國旅補助今正式上路，除中央住宿折抵，地方政府與旅宿業者也同步接力加碼，包含花蓮祭出延長住宿加碼，符合條件最高可加碼7000元；台東推出第3晚住宿加碼優惠，蘭嶼、綠島提供不同加碼方案；台南則有36家合作旅宿推平日連住3晚，第3晚免費。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_86a67f7e2e52534165bc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9727646?from=edn_newest_index",
+      "title": "曾文水庫峽谷音樂會將登場 住限定旅宿搶半價聽好康 | 生活 | 要聞 | 經濟日報",
+      "description": "邁入第三年舉辦的曾文水庫峽谷音樂會，敲定今年11月6、7日登場，主辦的西拉雅國家風景區管理處表示，今年將邀請十鼓擊樂團、嘉義大埔和平社區大埔愛樂弦樂團、手合鐵鼓樂團演出，即日起預定限定旅宿，更有機會享半價聽音樂會好康。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9f0a4e263dd1a106efb8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9727643?from=edn_newest_index",
+      "title": "當義式餐點遇見沙茶醬 「臺味嘉年華」開席指定捐贈三公益團體 | 生活 | 要聞 | 經濟日報",
+      "description": "彰化縣埔心鄉在地企業唯賀國際餐飲集團，去年與林聰明沙鍋魚頭推出聯名餐點，創下銷售3萬3千分佳績，今年乘勝追擊舉辦「臺味嘉年華」聯名活動，十多款融合台味的義式餐點，在活動期間每賣出一分即捐出20元給三個公益社團。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_22f05470a0887c172f5e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9727405?from=edn_hottest_index",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 | 基金天地 | 理財 | 經濟日報",
+      "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
+      "publishedAt": "2026-09-01T10:42:13.094Z",
+      "discoveredAt": "2026-09-01T10:42:13.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6d1ab8e108e25211984a",
       "sourceLastModified": null,
@@ -10,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9727633",
-      "title": "台新新光金股利有望更甜！林維俊：有信心明年優於今年、傾向現金為主 | 金融脈動 | 金融 | 經濟日報",
+      "title": "18:18 台新新光金股利有望更甜！林維俊：有信心明年優於今年、傾向現金為主",
       "description": "台新新光金（2887）今年獲利大幅成長，明年股利也可望跟著水漲船高。台新新光金總經理林維俊1日在法說會釋出股利利多，他表示，以目前獲利狀況來看，「我很有信心，明年會配得比今年好」；至於股利形式，由於台新新光金股本規模已相當大，未來將傾向以現金股利為主，但仍保留搭配股票股利的彈性。",
       "publishedAt": "2026-09-01T10:25:58.481Z",
       "discoveredAt": "2026-09-01T10:25:58.481Z",
@@ -40,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5621/9727762?from=edn_maintab_index",
-      "title": "華固又獵地！砸11.5億元買塭仔圳千坪土地、最快2028年開發 | 房市話題 | 房市 | 經濟日報",
+      "title": "華固又獵地！砸11.5億元買塭仔圳千坪土地、最快2028年開發 華固（2548）建設又獵地，斥資11.5億元買入塭仔圳土地。華固1日公告，向8名自然人購入新北市新莊區環漢段土地，基地面積約1,089坪，交易總金額為11.5億元，換算每坪單價約105.6萬元。華固...",
       "description": "華固（2548）建設又獵地，斥資11.5億元買入塭仔圳土地。華固1日公告，向8名自然人購入新北市新莊區環漢段土地，基地面積約1,089坪，交易總金額為11.5億元，換算每坪單價約105.6萬元。華固表示，該案位於新莊塭仔圳重劃區、建國一路上，鄰近輔仁大學，預計明年底配地，最快2028年開發。",
       "publishedAt": "2026-09-01T10:25:58.481Z",
       "discoveredAt": "2026-09-01T10:25:58.481Z",
@@ -512,7 +752,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9727611?from=edn_maintab_index",
-      "title": "裁罰案出爐 國泰投信：將確實檢討及持續精進相關內控機制 國泰投信前董事郭明鑑兼任世芯-KY（3661）獨董，引發利害關係人投資紅線爭議，裁罰案1日出爐，金管會對國泰投信核處警告，包含近一年內不能募集海外基金、近半年不能擔任境外基金總代理等業務，並合...",
+      "title": "裁罰案出爐 國泰投信：將確實檢討及持續精進相關內控機制 國泰投信前董事郭明鑑兼任世芯-KY（3661）獨董，引發利害關係人投資紅線爭議，裁罰案1日出爐，金管會對國泰投信核處警告，包含近一年內不能募集海外基金、近半年不能擔任境外基金總代理等業務，並合計...",
       "description": "國泰投信前董事郭明鑑兼任世芯-KY（3661）獨董，引發利害關係人投資紅線爭議，裁罰案1日出爐，金管會對國泰投信核處警告，包含近一年內不能募集海外基金、近半年不能擔任境外基金總代理等業務，並合計核處600萬元罰鍰等等。",
       "publishedAt": "2026-09-01T09:47:43.058Z",
       "discoveredAt": "2026-09-01T09:47:43.058Z",
@@ -766,7 +1006,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -796,7 +1036,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1982,7 +2222,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9726755?from=edn_hottest_index",
-      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 12004",
+      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 12775",
       "description": "每年贈與稅免稅額為244萬元，許多父母會想利用年底前，將免稅額內現金贈與給子女，但很多人有一疑問，244萬元的現金贈與，要不要申報？",
       "publishedAt": "2026-09-01T07:57:11.423Z",
       "discoveredAt": "2026-09-01T07:57:11.423Z",
@@ -2266,7 +2506,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3092,7 +3332,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8127",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8179",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -5150,246 +5390,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_82036aa6294982be8c35",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9726620",
-      "title": "11:20 連續2月調漲 國籍航空燃油附加費9月7日起短程增79元、長程增206元",
-      "description": "受近期國際航空燃油價格上漲影響，國籍航空公司國際航線客運燃油附加費再度調漲，短程航線自9月7日起由30美元(新台幣948元)調升至32.5美元（新台幣1,027元），長程航線由78美元（新台幣2,465元）調升至84.5美元（新台幣2,671元），為連續第2個月調漲。交通部民用航空局並要求航空公司充分揭露相關資訊，以維護旅客消費權益。",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bae2f342d9f5dcb2f2cc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9726589",
-      "title": "11:26 「給 Lulu 十個讚！」G2C+聯盟納入東捷 力拚2年內重返榮耀",
-      "description": "「均豪轉型半導體花了三四年，東捷科技卻在短短幾個月就到位！」「我投得很值得！給Lulu再十個讚！」志聖（2467）執行長梁又文暨均豪、均華執行長，近年跟父親梁茂生加速轉型布局半導體製程設備，G2C+聯盟31日召開國際半導體展前記者會，親切的稱呼東捷（8064）執行長嚴璐英文名，對今年新成員東捷充滿信心。",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6a514ebcb4a9599f225a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9726552?from=edn_maintab_index",
-      "title": "環球晶徐秀蘭：未來兩年矽晶圓雙位數成長值得期待 環球晶（6488）董事長徐秀蘭今日上午出席2026晶鏈高峰論壇，她在受訪時表示，在未來兩年，矽晶圓產業呈現雙位數百分比成長應是值得期待。 國際半導體產業協會(SEMI)近日預估，全球半導體材料市...",
-      "description": "環球晶（6488）董事長徐秀蘭今日上午出席2026晶鏈高峰論壇，她在受訪時表示，在未來兩年，矽晶圓產業呈現雙位數百分比成長應是值得期待。",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5610cff033a3d7af546",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726646?from=edn_newest_index",
-      "title": "美中元首峰會前 川普盟友戴恩斯再度訪中 | 國際焦點 | 國際 | 經濟日報",
-      "description": "中國國家主席習近平預計本月下旬訪美前，與美國總統川普關係密切的共和黨籍參議員戴恩斯近日再度訪問中國，並與浙江省長劉捷會面...",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9c8d831e8578d25b2fdb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9726644?from=edn_newest_index",
-      "title": "環球晶先進封裝今年開始貢獻營收 徐秀蘭看矽晶圓未來兩年量價齊揚 | 產業熱點 | 產業 | 經濟日報",
-      "description": "矽晶圓大廠環球晶（6488）董事長徐秀蘭1日表示，這波AI帶動的並非單純景氣循環，而是半導體產業的結構性改變，隨應用持續擴大，未來晶片數量與種類都將增加；同時，晶圓角色也開始延伸至先進封裝，環球晶今年已看到相關營收貢獻。",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_40407256b5dbb9b20adc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9726532?from=edn_newest_index",
-      "title": "中油加油會員新制今上路 民眾加油免帶卡、輕鬆累積點數 | 生活 | 要聞 | 經濟日報",
-      "description": "台灣中油宣布，全面調整會員服務機制，未來將以「中油Pay」App作為主要的申辦與使用管道，提供民眾免帶卡、輕鬆累積點數的便利體驗。",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2b9409e879c9cab62138",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9726537?from=edn_newest_index",
-      "title": "雙颱共存 沙德爾外圍環流加持雨勢恐更猛烈 氣象署估海警機率低 | 生活 | 要聞 | 經濟日報",
-      "description": "沙德爾颱風、科羅旺颱風今天上午8時先後生成。是否有發布颱風警報機率？中央氣象署氣象預報中心技正李孟軒表示，沙德爾颱風最有可能路徑，為今天開始至周四比較偏東北方的方向移動，周四會開始偏北往中國方向移動，以目前這個路徑來說，發海警的機率偏低。不過，還是有部分模式顯示，可能還是會靠近台灣海峽一些，可能視它未來路徑再評估。",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8ce51e9a88d39c20972a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9726640?from=edn_newest_index",
-      "title": "陸手機掀漲價潮 華為、小米、榮耀最高調漲逾4700元 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "記憶體成本持續攀升，中國大陸手機市場再掀漲價潮，華為、榮耀及小米多款中階至旗艦手機今起同步調高售價，最高漲幅達1,000元（合約新台幣4,705元），其中Mate 80 Pro Max的16GB＋1TB版本已逼近人民幣萬元大關。小米集團總裁盧偉冰此前表示，下半年部分大陸國產直板旗艦手機的售價很可能會突破萬元大關。",
-      "publishedAt": "2026-09-01T03:23:11.977Z",
-      "discoveredAt": "2026-09-01T03:23:11.977Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

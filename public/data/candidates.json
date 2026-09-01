@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T20:53:40.360Z",
+  "updatedAt": "2026-09-01T21:07:41.377Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,36 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0b43c482017c9a43d408",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728583?from=edn_newest_index",
+      "title": "美伊敵對行動升級 國際油價收漲 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美軍今天稍早表示對伊朗發動新一輪打擊後，德黑蘭稱已對中東地區美軍目標採取決定性行動以示報復，雙方衝突升級引發市場擔憂荷莫...",
+      "publishedAt": "2026-09-01T21:07:41.377Z",
+      "discoveredAt": "2026-09-01T21:07:41.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1339,7 +1369,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -2372,7 +2402,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9812",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9866",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -3810,7 +3840,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8049",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8058",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -4320,7 +4350,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11778",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11806",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5292,36 +5322,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_49ee8c34308c254f83e0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727854?from=edn_maintab_index",
-      "title": "佳必琪法說會／獲挪威主權基金投資！光通訊產品出貨 訂單看到2028年 佳必琪（6197）1日舉行法說會，公布獲得挪威主權財富基金持股0.13%，約175.78萬美元，同時，1.6T光通訊產品開始出貨，跟上光進銅退趨勢，董事長張舒眉表示，目前產能不足，客戶已經由過去...",
-      "description": "佳必琪（6197）1日舉行法說會，公布獲得挪威主權財富基金持股0.13%，約175.78萬美元，同時，1.6T光通訊產品開始出貨，跟上光進銅退趨勢，董事長張舒眉表示，目前產能不足，客戶已經由過去的短單，改下長單，訂單能見度看到2028年。",
-      "publishedAt": "2026-09-01T11:27:37.764Z",
-      "discoveredAt": "2026-09-01T11:27:37.764Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

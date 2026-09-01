@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T18:49:05.331Z",
+  "updatedAt": "2026-09-01T19:04:24.086Z",
   "candidates": [
+    {
+      "id": "cand_fe9a63457ffcfd9c8b62",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9728534?from=edn_newest_index",
+      "title": "大阪世博台灣吉祥物「a-We」空總辦展 設計師解密頭上「神祕萌包」 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "「a-We」回台灣囉！去年於大阪世博登場的台灣文化外交大使「a-We」，首次返台於空總國家文化基地舉辦特展「a-We台灣主題特展：a～～～Wemoji！」，4日正式登場，這也是大阪世博台灣展返台展出的第一炮。a-We昨現身「We TAIWAN回台灣」系列活動記者會，Q彈並充滿韌性的氣泡造型萌值爆表。設計者方序中感性表示，a-We看起來很弱、很可愛，「卻擁有凝聚人們的巨大力量」。",
+      "publishedAt": "2026-09-01T19:04:24.086Z",
+      "discoveredAt": "2026-09-01T19:04:24.086Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f48df7eb0b36990ed8f5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728541?from=edn_newest_index",
+      "title": "尼泊爾邊境洪災 聯合國初估留下逾240萬噸廢棄物 | 國際焦點 | 國際 | 經濟日報",
+      "description": "中國與尼泊爾邊境近日發生嚴重洪災，迄今死亡人數超過1000人，聯合國開發計畫署（UNDP）初步估算，洪災過後產生逾240...",
+      "publishedAt": "2026-09-01T19:04:24.086Z",
+      "discoveredAt": "2026-09-01T19:04:24.086Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceLastModified": null,
@@ -496,7 +556,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -523,7 +583,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1193,7 +1253,7 @@
     },
     {
       "id": "cand_7d7113e9ed7d016979c3",
-      "sourceLastModified": "2026-09-01T17:01:23.107Z",
+      "sourceLastModified": "2026-09-01T18:55:47.951Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1556,7 +1616,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9353",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9436",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -1688,7 +1748,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2994,7 +3054,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 7957",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 7967",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -3504,7 +3564,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11468",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11526",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -3518,7 +3578,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5301,7 +5361,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9727405?from=edn_hottest_index",
-      "title": "44萬股民注意！月配績效王00929最新配息出爐 14697",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 14740",
       "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
       "publishedAt": "2026-09-01T10:42:13.094Z",
       "discoveredAt": "2026-09-01T10:42:13.094Z",
@@ -5316,66 +5376,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6d1ab8e108e25211984a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9727633",
-      "title": "18:18 台新新光金股利有望更甜！林維俊：有信心明年優於今年、傾向現金為主",
-      "description": "台新新光金（2887）今年獲利大幅成長，明年股利也可望跟著水漲船高。台新新光金總經理林維俊1日在法說會釋出股利利多，他表示，以目前獲利狀況來看，「我很有信心，明年會配得比今年好」；至於股利形式，由於台新新光金股本規模已相當大，未來將傾向以現金股利為主，但仍保留搭配股票股利的彈性。",
-      "publishedAt": "2026-09-01T10:25:58.481Z",
-      "discoveredAt": "2026-09-01T10:25:58.481Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8aaccfff9f1310165da8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9727762?from=edn_maintab_index",
-      "title": "華固又獵地！砸11.5億元買塭仔圳千坪土地、最快2028年開發 華固（2548）建設又獵地，斥資11.5億元買入塭仔圳土地。華固1日公告，向8名自然人購入新北市新莊區環漢段土地，基地面積約1,089坪，交易總金額為11.5億元，換算每坪單價約105.6萬元。華固...",
-      "description": "華固（2548）建設又獵地，斥資11.5億元買入塭仔圳土地。華固1日公告，向8名自然人購入新北市新莊區環漢段土地，基地面積約1,089坪，交易總金額為11.5億元，換算每坪單價約105.6萬元。華固表示，該案位於新莊塭仔圳重劃區、建國一路上，鄰近輔仁大學，預計明年底配地，最快2028年開發。",
-      "publishedAt": "2026-09-01T10:25:58.481Z",
-      "discoveredAt": "2026-09-01T10:25:58.481Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,7 +1,305 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T15:37:45.262Z",
+  "updatedAt": "2026-09-01T16:29:53.420Z",
   "candidates": [
+    {
+      "id": "cand_d44201e8e26d9021013d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9728299?from=edn_newest_index",
+      "title": "證交所董座談科技島 林修銘：台灣擁最完整 AI 鏈 | 市場焦點 | 證券 | 經濟日報",
+      "description": "臺灣證券交易所董事長林修銘接受財星雜誌（Fortune）專訪時表示，國內外投資人投資台股時若只關注台積電，恐怕低估了台灣身為科技島的真正價值。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0325cee61efb032d64b0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9728314?from=edn_newest_index",
+      "title": "台新新光金市值跨越兆元 總座林維俊釋出股利利多 明年有信心更好 | 金融脈動 | 金融 | 經濟日報",
+      "description": "台新新光金股價昨（1）日強勢走高，收盤突破40元大關、來到40.3元，市值跨越1兆元，成為國內金融業第四家「兆元金控」。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_af32f45f2c664667ecbc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9728315?from=edn_newest_index",
+      "title": "三商壽董座 陳茂欽兼任 | 金融脈動 | 金融 | 經濟日報",
+      "description": "玉山金合併三商壽於昨（1）日完成股權交割程序，三商壽自即日起正式成為玉山金子公司。同時昨董事會通過現金增資三商壽160億元及任命經營團隊，由金控總經理陳茂欽擔任人壽董事長，三商壽原副董事長許瀞心任總經理。公司預計於12月1日更名為玉山人壽。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1c27524a4df52e401ef6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9728074?from=edn_newest_index",
+      "title": "聯電、聯發科 認購悍 | 權證特區 | 證券 | 經濟日報",
+      "description": "「2026國際半導體展（2026 SEMICON Taiwan）」今（2）日登場，台股在AI供應鏈具備完整體系，除半導體產業持續受惠外，後續相關製程包括ASIC、光通訊、散熱等族群受矚目。由於近日台股波動大，可挑選「國際半導展概念股」相關權證操作，擴大獲利空間。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_644146f618c652308205",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9728317?from=edn_newest_index",
+      "title": "台股重挫拖累績效 三大退休基金7月虧近3,000億 勞動基金損失最嚴重 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "7月台股重挫，也影響政府三大退休基金投資績效，包含勞動基金、國民年金保險基金、公務人員退休撫卹基金，7月收益合計回吐2,991.4億元。其中，光是勞動基金，7月就虧損2,463.7億元，不過前七月累計仍賺逾1.9兆元。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_883f7d82571baf60a01c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_52523216d4832466668d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9727402?from=edn_VIP_index_side",
+      "title": "投資型保單為何爆紅？保費狂吸金 想跟進先看懂三件事 | 金融脈動 | 金融 | 經濟日報",
+      "description": "台股、美股多頭行情延燒，帶動投資型保單買氣全面升溫，今年更成為壽險市場最火熱的商品之一，不僅新契約保費大幅成長，一張張「百億神單」接連出爐。不過，投資型保單為何今年爆紅？現在股市已處相對高檔，還適合跟著進場嗎？壽險業者指出，投資型保單兼具保障與投資功能，且可連結不同投資標的，成為保戶參與資本市場的重要工具，但熱銷不代表人人都適合，想跟進至少要先看懂「投資標的、費用結構、風險承受能力」三件事，避免只看到配息或市場漲幅就搶著進場。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1d43b3fec3f5bef91e3d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726985?from=edn_bloomberg_index_side",
+      "title": "日本財相稱日美聯手干預匯市有益 淡化貝森特敦促東京升息的報導 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 日本財務大臣片山皋月表示，她與美國財政部長史考特·貝森特一致認為，兩國近期聯手干預匯市帶來正面效果；她同時淡化有關貝森特一直敦促日本央行上調政策利率的報導。",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6c5fc95c83d85af81053",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/carbon-reduction/indep/1006998",
+      "title": "永續是門好生意！聯電自建創生中「轉廢為寶」，以循環創生搶佔綠色訂單",
+      "description": "",
+      "publishedAt": "2026-09-01T16:29:13.507Z",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_89e5c02fd4b65e3e135f",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/business/indep/1006995",
+      "title": "不靠價格戰也能養出高回購 Relove 以高品質讓台灣私密保養走向海外｜商周",
+      "description": "廣告成本攀升、流量碎片化、顧客忠誠度流失，是現今零售業共同面臨的焦慮。然而，多數品牌仍深陷追逐即時聲量、以轉換短期業績的迷思中。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "discoveredAt": "2026-09-01T16:29:13.507Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_573768f69cae74d80baf",
       "sourceLastModified": null,
@@ -160,7 +458,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9728141?from=edn_VIP_index_side",
-      "title": "輝達與聯發科親上加親 黃仁勳砸35億美元看上了什麼？ | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達與聯發科親上加親 黃仁勳砸35億美元看上了什麼？",
       "description": "輝達（NVIDIA）大舉投資挺生態系的範圍擴及到台灣，大手筆認購聯發科（2454）可轉公司債。雙方原本就是晶片開發合作夥伴，如今親上加親。輝達認購聯發科海外轉換公司債，等於給予資金支持，如果未來決定進行轉換，更將成為其股東。",
       "publishedAt": "2026-09-01T15:37:45.262Z",
       "discoveredAt": "2026-09-01T15:37:45.262Z",
@@ -234,7 +532,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -264,7 +562,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -414,7 +712,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1374,7 +1672,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1644,7 +1942,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1810,7 +2108,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 10188",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 10739",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -1824,7 +2122,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1851,7 +2149,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1911,7 +2209,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3607,7 +3905,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9727405?from=edn_hottest_index",
-      "title": "44萬股民注意！月配績效王00929最新配息出爐 13715",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 14249",
       "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
       "publishedAt": "2026-09-01T10:42:13.094Z",
       "discoveredAt": "2026-09-01T10:42:13.094Z",
@@ -3856,7 +4154,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -5076,306 +5374,6 @@
       "description": "金管會今天表示，前國泰投信董事郭明鑑未依規定申報利害關係人資料，加上國泰投信內控未確實執行，合計開罰新台幣600萬元，違...",
       "publishedAt": "2026-09-01T08:39:39.673Z",
       "discoveredAt": "2026-09-01T08:39:39.673Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2a5ca853e99b3afd8d2a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9727603?from=edn_newest_index",
-      "title": "桃宜高屏豪雨特報 10縣市留意大雨 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "交通部中央氣象署發布豪雨特報，低氣壓及西南風影響，易有短延時強降雨，高雄市及屏東縣今天有局部大雨或豪雨，午後桃園市及宜蘭...",
-      "publishedAt": "2026-09-01T08:39:39.673Z",
-      "discoveredAt": "2026-09-01T08:39:39.673Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e7d1c425c79f043fd22b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9727428",
-      "title": "16:20 緯穎股價收盤站上7,800元新天價 明日將上演除權秀",
-      "description": "ODM廠緯穎（6669）1日股價表現強勁，終場收在漲停，達到7,800元的歷史新高價，由於緯穎2日將進行除權交易，預計每股將會配發1.983股，也就代表若投資人現持有一張緯穎股票，就可再得到1,983股的緯穎股權，等同於買一張再送近兩張。",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_82d01a8dbbcda15c02fa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9727545",
-      "title": "16:16 新台幣升3.3分 收31.633元",
-      "description": "台北外匯市場新台幣兌美元今天收盤收31.633元，升3.3分，成交金額20.54億美元",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fb788528d408ad1538c3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727432",
-      "title": "美光深耕台灣30年投資逾1.4兆元 梅羅特拉：持續擴大記憶體能量 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI浪潮推升高頻寬記憶體需求，美國記憶體大廠美光持續加碼台灣。美光總裁暨執行長梅羅特拉（Sanjay Mehrotra）表示，未來AI需要更強大的記憶體支援，美光將持續扎根台灣，擴大先進製造與高頻寬記憶體布局，建構全球AI發展所需的記憶體能量。",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1b5e85d7553a4ad45d01",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9727545?from=edn_maintab_index",
-      "title": "新台幣升3.3分 收31.633元 台北外匯市場新台幣兌美元今天收盤收31.633元，升3.3分，成交金額20.54億美元。 新台幣兌美元今天開盤價為31.64元，最高31.59元、最低31.695元。...",
-      "description": "台北外匯市場新台幣兌美元今天收盤收31.633元，升3.3分，成交金額20.54億美元",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_56d4f266e72b220c47f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727574?from=edn_newest_index",
-      "title": "創控科技2026國際半導體展首推 AI 應用秘密武器 | 產業熱點 | 產業 | 經濟日報",
-      "description": "創控（6909）科技今日預告，將於本屆SEMICON Taiwan 2026 國際半導體展中首度展出「半導體工廠微汙染管理—AI 預警解決方案」。該方案領先業界導入「物理定律約束（Physics-Constrained AI）」技術，並結合創控科技旗下具備極高靈敏度與現地分析能力的AMC/VOC系列監測設備，實現環境風險主動預警。",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1c7f78f3490b0bd6a954",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12509/9727566?from=edn_newest_index",
-      "title": "新台幣收31.633元 升3.3分 | AI 人機協作 | 證券 | 經濟日報",
-      "description": "台北外匯市場新台幣兌美元1日收盤收31.633元，升3.3分，升幅0.11%，成交金額20.54億美元。 新台幣1日以31.64元開出，盤中最高31.59元、最低31.695元，終場收在31.633元。 （此文章為AI人機協作，正確數據以主管機關為準。）",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4869007acf80a7001adf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9727569?from=edn_newest_index",
-      "title": "中油：9月液化石油氣價格不調整 維持亞鄰最低價 | 生活 | 要聞 | 經濟日報",
-      "description": "中油今日宣布，2日凌晨零時起，9月份家庭用液化石油氣（桶裝瓦斯）、工業用丙烷、丁烷、混合丙丁烷及車用液化石油氣價格皆不調整。",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_59c65543a3d27ae15e0b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9727567?from=edn_newest_index",
-      "title": "太誇張！年化配息率飆到20.3% 00896配息1.45元刷新紀錄 | 基金天地 | 理財 | 經濟日報",
-      "description": "中國信託投信1日公告，中信綠能及電動車（00896）ETF最新一次收益分配，每受益權單位配發1.45元，刷新成立以來配息紀錄。以9月1日收盤價28.52元估算，單次配息率約5.08%，年化配息率達20.3%，將於9月16日除息，9月15日為最後買進日，預計在10月15日發放股利。",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d94020028ae1c5206aa5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9727565?from=edn_newest_index",
-      "title": "00985D 最新配息日快筆記！ 9月16日最後買進日 2026-09-01 16:20",
-      "description": "",
-      "publishedAt": "2026-09-01T08:23:03.360Z",
-      "discoveredAt": "2026-09-01T08:23:03.360Z",
       "topics": [
         "Taiwan business",
         "investment",

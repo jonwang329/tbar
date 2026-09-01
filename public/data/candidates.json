@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T19:19:13.465Z",
+  "updatedAt": "2026-09-01T19:33:09.209Z",
   "candidates": [
+    {
+      "id": "cand_2af6ea7c78bacdf7433e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9728549?from=edn_newest_index",
+      "title": "外資買超＋營收雙位數成長 這幾檔台股潛力十足 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股高檔震盪、外資買賣力道反覆之際，市場如何掌握真正的「外資寵愛股」？觀察籌碼與基本面，部分個股不僅獲外資持續加碼，前七月營收也維持雙位數成長，股價更同步跑贏大盤，包括：廣達、聯電、臻鼎-KY等，成為盤面值得留意的焦點。",
+      "publishedAt": "2026-09-01T19:33:09.209Z",
+      "discoveredAt": "2026-09-01T19:33:09.209Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0ad387336f55e7767b06",
       "sourceLastModified": "2026-09-01T19:11:41.000Z",
@@ -1616,7 +1646,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9475",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9543",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -1630,7 +1660,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1660,7 +1690,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1690,7 +1720,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1719,7 +1749,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3054,7 +3084,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 7978",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 7990",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -3564,7 +3594,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11543",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11591",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5346,36 +5376,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_22f05470a0887c172f5e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9727405?from=edn_hottest_index",
-      "title": "44萬股民注意！月配績效王00929最新配息出爐 14750",
-      "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
-      "publishedAt": "2026-09-01T10:42:13.094Z",
-      "discoveredAt": "2026-09-01T10:42:13.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

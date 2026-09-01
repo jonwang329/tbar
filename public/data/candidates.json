@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T09:29:26.333Z",
+  "updatedAt": "2026-09-01T09:47:43.058Z",
   "candidates": [
+    {
+      "id": "cand_0c45a479598fd9f6a5a4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9727563",
+      "title": "量價榜抓到資金新焦點！欣興成交值竟達台積電2倍 穩懋爆量飆漲停 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股9月首日強勢反攻，集中市場加權指數大漲820.25點、收46,948.72點，成交值收斂至1.08兆元，三大法人聯手回補561.39億元。在指數創高之際，量價排行榜也浮現資金新動向，其中最吸睛的是欣興（3037）成交值高達851.83億元，不僅拿下單日成交值冠軍，更超越台積電（2330）的416.13億元逾1倍，顯示資金火力明顯向PCB、載板族群集中。",
+      "publishedAt": "2026-09-01T09:47:43.058Z",
+      "discoveredAt": "2026-09-01T09:47:43.058Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5580db7d8452b96dc1a1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9727611?from=edn_maintab_index",
+      "title": "裁罰案出爐 國泰投信：將確實檢討及持續精進相關內控機制 | 金融脈動 | 金融 | 經濟日報",
+      "description": "國泰投信前董事郭明鑑兼任世芯-KY（3661）獨董，引發利害關係人投資紅線爭議，裁罰案1日出爐，金管會對國泰投信核處警告，包含近一年內不能募集海外基金、近半年不能擔任境外基金總代理等業務，並合計核處600萬元罰鍰等等。",
+      "publishedAt": "2026-09-01T09:47:43.058Z",
+      "discoveredAt": "2026-09-01T09:47:43.058Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b18bb1ae9530256836de",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727764?from=edn_newest_index",
+      "title": "美光台灣勞資爭議升溫 今年將發歷年來最高的績效獎金 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI記憶體需求火熱，記憶體大廠美光（Micron）台灣勞資爭議升溫，台灣廠區員工醞釀罷工，且獲高達八成工會成員支持，對此，美光1日回應表示，團隊成員的努力與貢獻是美光成功的重要基礎，已宣布今年將發放歷年來最高的績效獎金，績效獎金分紅（IPP，Incentive Pay Plan）相關方案預計10月公布；在此之前，將持續透過既有溝通管道與團隊成員保持對話，並尊重相關法定程序。",
+      "publishedAt": "2026-09-01T09:47:43.058Z",
+      "discoveredAt": "2026-09-01T09:47:43.058Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1c1d19f00d2b630fc961",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727762?from=edn_newest_index",
+      "title": "華固又獵地！砸11.5億元買塭仔圳千坪土地、最快2028年開發 | 產業熱點 | 產業 | 經濟日報",
+      "description": "華固（2548）建設又獵地，斥資11.5億元買入塭仔圳土地。華固1日公告，向8名自然人購入新北市新莊區環漢段土地，基地面積約1,089坪，交易總金額為11.5億元，換算每坪單價約105.6萬元。華固表示，該案位於新莊塭仔圳重劃區、建國一路上，鄰近輔仁大學，預計明年底配地，最快2028年開發。",
+      "publishedAt": "2026-09-01T09:47:43.058Z",
+      "discoveredAt": "2026-09-01T09:47:43.058Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f470203e06e817d40d23",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9727759?from=edn_newest_index",
+      "title": "實施逾30年免稅優惠退場 陸外籍個人獲外商股息紅利今起課20% | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸從今天起執行新規，要求外籍個人從外商投資企業取得的股息紅利所得，按照「利息、股息、紅利所得」繳納個人所得稅，適用20%稅率。大陸官媒引述業內人士，此舉有利於維護稅制公平統一，還能夠堵塞稅收漏洞。",
+      "publishedAt": "2026-09-01T09:47:43.058Z",
+      "discoveredAt": "2026-09-01T09:47:43.058Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4747fc2b9a608d930dde",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9727757?from=edn_newest_index",
+      "title": "建築園冶獎歷經32年 從高雄走向全台灣 9月7日頒獎 | 房市話題 | 房市 | 經濟日報",
+      "description": "全台建築界指標性盛事的「建築園冶獎」邁入第32年，今年迎來重要里程碑，隨著台北市、基隆市正式納入評選範圍，園冶獎評選版圖進一步擴展，從1995年發源於高雄、深耕南台灣，一路走向全台灣，展現民間推動建築品質、城市美學與永續環境的成果。",
+      "publishedAt": "2026-09-01T09:47:43.058Z",
+      "discoveredAt": "2026-09-01T09:47:43.058Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a8e39b086dc9124f677a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9727756?from=edn_newest_index",
+      "title": "第一上市公司上半年稅前盈餘604億元 年增20.8% | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣證券交易所今天表示，除永冠-KY外，包含創新板在內共92家第一上市公司均已完成2026年上半年財報公告申報。經統計，...",
+      "publishedAt": "2026-09-01T09:47:43.058Z",
+      "discoveredAt": "2026-09-01T09:47:43.058Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_592baaee9e76b500a6e0",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9727557",
-      "title": "台新新光金股價衝40元躍「兆元級金控」 林維俊：這是給我們的分數 | 金融脈動 | 金融 | 經濟日報",
+      "title": "17:29 台新新光金股價衝40元躍「兆元級金控」 林維俊：這是給我們的分數",
       "description": "台新新光金（2887）股價1日強勢走高，收盤突破40元大關、來到40.3元，市值也正式跨越1兆元，成為國內金融業第四家「兆元金控」。台新新光金總經理林維俊在第2季法說會上難掩喜悅，他表示，對於市值突破兆元「心裡充滿感謝」，感謝所有投資人與股東的認同與支持，這就像是投資人替經營團隊「打的分數」。",
       "publishedAt": "2026-09-01T09:29:26.333Z",
       "discoveredAt": "2026-09-01T09:29:26.333Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9727554",
-      "title": "金管會對國泰投信案開鍘了 600萬罰到頂還限業務 | 金融脈動 | 金融 | 經濟日報",
+      "title": "17:13 金管會對國泰投信案開鍘了 600萬罰到頂還限業務",
       "description": "國泰投信案裁罰出爐。金管會認定利關人申報控管失靈，基金、全委兩項違規均按法定最高額開罰，合計600萬元並予警告；更重的是，海外基金申募、境外基金總代理等業務也將受限。",
       "publishedAt": "2026-09-01T09:29:26.333Z",
       "discoveredAt": "2026-09-01T09:29:26.333Z",
@@ -70,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9727601?from=edn_maintab_index",
-      "title": "AI封裝需求狂飆、瓶頸浮現 日月光高雄同蓋7廠、台積電何軍憂軟體缺口 | 產業熱點 | 產業 | 經濟日報",
+      "title": "AI封裝需求狂飆、瓶頸浮現 日月光高雄同蓋7廠、台積電何軍憂軟體缺口 AI先進封裝需求持續升溫，擴產壓力也一路傳導至設備與材料端。日月光（3711）執行副總經理洪松井1日透露，公司目前在高雄同時興建7棟廠房，卻仍面臨空間及設備交期兩大瓶頸；台積電（2330）先進封裝技...",
       "description": "AI先進封裝需求持續升溫，擴產壓力也一路傳導至設備與材料端。日月光（3711）執行副總經理洪松井1日透露，公司目前在高雄同時興建7棟廠房，卻仍面臨空間及設備交期兩大瓶頸；台積電（2330）先進封裝技術暨服務副總經理何軍則點出，載板與PCB供應短缺之外，軟體更是讓他「睡不著」的關鍵缺口。",
       "publishedAt": "2026-09-01T09:29:26.333Z",
       "discoveredAt": "2026-09-01T09:29:26.333Z",
@@ -100,7 +310,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9727557?from=edn_maintab_index",
-      "title": "台新新光金股價衝40元躍「兆元級金控」 林維俊：這是給我們的分數 | 金融脈動 | 金融 | 經濟日報",
+      "title": "台新新光金股價衝40元躍「兆元級金控」 林維俊：這是給我們的分數 台新新光金（2887）股價1日強勢走高，收盤突破40元大關、來到40.3元，市值也正式跨越1兆元，成為國內金融業第四家「兆元金控」。台新新光金總經理林維俊在第2季法說會上難掩喜悅，他表示，對於市值...",
       "description": "台新新光金（2887）股價1日強勢走高，收盤突破40元大關、來到40.3元，市值也正式跨越1兆元，成為國內金融業第四家「兆元金控」。台新新光金總經理林維俊在第2季法說會上難掩喜悅，他表示，對於市值突破兆元「心裡充滿感謝」，感謝所有投資人與股東的認同與支持，這就像是投資人替經營團隊「打的分數」。",
       "publishedAt": "2026-09-01T09:29:26.333Z",
       "discoveredAt": "2026-09-01T09:29:26.333Z",
@@ -1300,7 +1510,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9726755?from=edn_hottest_index",
-      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 9075",
+      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 10307",
       "description": "每年贈與稅免稅額為244萬元，許多父母會想利用年底前，將免稅額內現金贈與給子女，但很多人有一疑問，244萬元的現金贈與，要不要申報？",
       "publishedAt": "2026-09-01T07:57:11.423Z",
       "discoveredAt": "2026-09-01T07:57:11.423Z",
@@ -2214,7 +2424,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2244,7 +2454,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2410,7 +2620,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8005",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8047",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -2424,7 +2634,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5183,216 +5393,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_30883f47c6a96f800ef4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726465?from=edn_newest_index",
-      "title": "石油期貨走入平民時代！不到3萬元就能進場 芝商所推每口10桶新合約 | 國際焦點 | 國際 | 經濟日報",
-      "description": "石油交易以前主要是大宗商品交易商、機構投資人與專業交易員的市場，一次押注往往要上百桶或上千桶原油，如今門檻降低了。芝商所（CME）新推出每口僅10桶的西德州中級原油期貨合約，按目前油價計算，價值約860美元（約台幣2.73萬元），相較於微型合約（100桶）與標準合約（1,000桶），散戶比較容易進場。",
-      "publishedAt": "2026-09-01T02:36:25.974Z",
-      "discoveredAt": "2026-09-01T02:36:25.974Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_64194eb525b1f30328d2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726181",
-      "title": "10:13 回應朱肯米勒怒批干預美債市 美財長貝森特開酸：他那天賠錢啦",
-      "description": "美國財長貝森特表示，他在遭到昔日職場導師、億萬富豪投資人朱肯米勒（Stanley Druckenmiller）批評近期干預債券市場後，雙方曾經通過話；他同時也反駁了朱肯米勒的批評，表示美國公債可能正是因為財政部採取了相關行動，才有較佳的表現。",
-      "publishedAt": "2026-09-01T02:21:11.758Z",
-      "discoveredAt": "2026-09-01T02:21:11.758Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c8aa9fefd71443f4016f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9726447?from=edn_newest_index",
-      "title": "凱基金股價衝越35元 漲幅逾3.4%表現亮眼 | 市場焦點 | 證券 | 經濟日報",
-      "description": "凱基金（2883）1日開高走高，一路衝過35元關卡，早盤來到35.1元，漲幅逾3.4%，今日在金融股中表現亮眼。主要是銀行淨利息收益率（NIM）上修、壽險其他綜合損益（OCI）股票未實現顯著回升。群益投顧預估，凱基金2027年有望配發2.2~3.2 元現金股利。",
-      "publishedAt": "2026-09-01T02:21:11.758Z",
-      "discoveredAt": "2026-09-01T02:21:11.758Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_35319b5c913429a5aebb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9726439?from=edn_newest_index",
-      "title": "ASML High NA EUV 走向量產 已有4家客戶完成裝機 | 產業熱點 | 產業 | 經濟日報",
-      "description": "ASML 於 SEMICON Taiwan 2026 半導體先進製程科技論壇釋出最新訊息，其中提到High NA EUV 加速邁向高量產（High Volume Manufacturing）階段。",
-      "publishedAt": "2026-09-01T02:21:11.758Z",
-      "discoveredAt": "2026-09-01T02:21:11.758Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_366667090f46076b8b6f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726237?from=edn_newest_index",
-      "title": "Anthropic 與輝達支持的 Lambda 達成350億美元的算力合作協議 | 國際焦點 | 國際 | 經濟日報",
-      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
-      "publishedAt": "2026-09-01T02:21:11.758Z",
-      "discoveredAt": "2026-09-01T02:21:11.758Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bc2df396cb82386b9daf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9726435?from=edn_newest_index",
-      "title": "台灣攜手帛琉、美日深化藍碳合作 以 AI、衛星遙測助海洋治理 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "面對全球氣候變遷及海洋環境挑戰，台灣持續深化與太平洋島國的氣候及海洋治理合作。帛琉政府8月30日舉行「共築韌性藍色太平洋：擴大科技驅動的海洋與碳治理」專家論壇，邀集台灣、帛琉、美國及日本產官學研代表50餘人，聚焦再生能源、碳治理、海洋與漁業等議題，台灣也分享碳權、藍碳及數位科技應用經驗，盼以科技協助島國強化海洋治理及能源轉型。",
-      "publishedAt": "2026-09-01T02:21:11.758Z",
-      "discoveredAt": "2026-09-01T02:21:11.758Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_925b7e1df6b5c04aadd3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726306?from=edn_newest_index",
-      "title": "韓國總統室政策室長金容範辭任 曾因單只股票槓桿 ETF 遭批評 | 國際焦點 | 國際 | 經濟日報",
-      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
-      "publishedAt": "2026-09-01T02:21:11.758Z",
-      "discoveredAt": "2026-09-01T02:21:11.758Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

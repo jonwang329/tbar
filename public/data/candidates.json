@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T22:45:54.410Z",
+  "updatedAt": "2026-09-01T22:56:21.561Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_35c824c19eb1356a184e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728668?from=edn_newest_index",
+      "title": "澤倫斯基：俄領空將充滿烏克蘭無人機、不再安全 | 國際焦點 | 國際 | 經濟日報",
+      "description": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）今天示警各家航空公司與旅客，在俄烏交戰期間，俄羅斯領空將變得...",
+      "publishedAt": "2026-09-01T22:56:21.561Z",
+      "discoveredAt": "2026-09-01T22:56:21.561Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d32c573e9d180e3551a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728666?from=edn_newest_index",
+      "title": "美能源部長訪問前夕 委內瑞拉國民議會准石油協議 | 國際焦點 | 國際 | 經濟日報",
+      "description": "委內瑞拉執政陣營占多數的國民議會今天通過一項石油協議，將委內瑞拉約1/5石油儲量的控制權賦予美國",
+      "publishedAt": "2026-09-01T22:56:21.561Z",
+      "discoveredAt": "2026-09-01T22:56:21.561Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_aabbd6302e2ebc761420",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728559",
-      "title": "G20 科技會議 美國敦促各國「少干預」 AI 規範 | 國際焦點 | 國際 | 經濟日報",
+      "title": "06:45 G20 科技會議 美國敦促各國「少干預」 AI 規範",
       "description": "美國今天在北卡羅來納州一場產業巨擘與商務部長齊聚的會議上，敦促20國集團（G20）會員國對人工智慧（AI）監管採取少干預...",
       "publishedAt": "2026-09-01T22:45:54.410Z",
       "discoveredAt": "2026-09-01T22:45:54.410Z",
@@ -124,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9728657?from=edn_newest_index",
-      "title": "復華 ETF 00710B配息創8.19%新高 9月17日除息 | 基金天地 | 理財 | 經濟日報",
+      "title": "復華 ETF 00710B配息創8.19%新高 9月17日除息 2026-09-02 06:35",
       "description": "債券ETF配息再添亮點！復華彭博非投等債ETF（00710B）調整追蹤指數規則後，最新配息年化配息率達8.19%，在債券收益需求持續受到投資人關注之際，透過「提升信用品質、鎖定高票息」雙管齊下，兼顧收益潛力與風險控管。",
       "publishedAt": "2026-09-01T22:45:54.410Z",
       "discoveredAt": "2026-09-01T22:45:54.410Z",
@@ -154,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9728656?from=edn_newest_index",
-      "title": "復華 ETF 00929連三個月配15% | 基金天地 | 理財 | 經濟日報",
+      "title": "復華 ETF 00929連三個月配15% 2026-09-02 06:35",
       "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以8月31日收盤價29.15元估算，預估年化配息率可達15.6%，延續穩定月配息節奏。以這次配息水準觀察，00929不僅持續提供現金流，2026年以來亮眼的含息績效，也讓「配息+成長」成為市場關注焦點。",
       "publishedAt": "2026-09-01T22:45:54.410Z",
       "discoveredAt": "2026-09-01T22:45:54.410Z",
@@ -2653,7 +2713,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2819,7 +2879,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10529",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10579",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -4257,7 +4317,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8208",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8221",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -4767,7 +4827,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 12412",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 12517",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5259,66 +5319,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_984321d414843751d054",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9728052?from=edn_newest_index",
-      "title": "8月六都交易量縮了、月減逾兩成 央行9月政策成後市關鍵 | 房市話題 | 房市 | 經濟日報",
-      "description": "根據六都地政局公布的8月建物買賣移轉棟數，2026年8月台北市1,752棟、月減25.5％、年增2.8％；新北市3,619棟、月減25.4％、年減4.2％；桃園市3,126棟、月減24.7％、年減5%。",
-      "publishedAt": "2026-09-01T12:17:31.300Z",
-      "discoveredAt": "2026-09-01T12:17:31.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0bb4acd8218006fe03bb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9727951?from=edn_maintab_index",
-      "title": "玉山金完成合併三商壽啟動金控2.0新篇章 新任董總人選揭曉 玉山金（2884）1日完成與三商壽之股權交割程序，三商壽自即日起正式成為玉山金控子公司。隨著銀行、人壽、證券及投信等金融版圖逐步到位，玉山金控正式邁入「金控2.0」新階段，並躍升為國內資產規模第5大...",
-      "description": "玉山金（2884）1日完成與三商壽之股權交割程序，三商壽自即日起正式成為玉山金控子公司。隨著銀行、人壽、證券及投信等金融版圖逐步到位，玉山金控正式邁入「金控2.0」新階段，並躍升為國內資產規模第5大上市金控公司，資產規模逾6.6兆元。",
-      "publishedAt": "2026-09-01T11:56:09.172Z",
-      "discoveredAt": "2026-09-01T11:56:09.172Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

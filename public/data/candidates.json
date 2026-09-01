@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T17:07:01.813Z",
+  "updatedAt": "2026-09-01T17:22:55.815Z",
   "candidates": [
+    {
+      "id": "cand_3f41e7d59b07b736f239",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9728376?from=edn_newest_index",
+      "title": "中經院分析記憶體缺貨 成 AI 鏈瓶頸 | 產業熱點 | 產業 | 經濟日報",
+      "description": "中經院昨（1）日公布8月製造業採購經理人指數（PMI）上升至62.5，連11月維持擴張。中經院院長連賢明指出，台灣出口及AI產業需求仍強，但原物料價格上升速度加快，部分廠商已反映「搶料」情況，供應鏈成本壓力正在快速累積。",
+      "publishedAt": "2026-09-01T17:22:55.815Z",
+      "discoveredAt": "2026-09-01T17:22:55.815Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cad5a8c4e87e92d910c0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5628/9728385?from=edn_newest_index",
+      "title": "美加貿易戰 台灣要看懂警訊 | 社論 | 專欄 | 經濟日報",
+      "description": "美國總統川普認為加拿大對美國實施「不公平貿易與行業歧視」，所以針對汽車、酒類、乳製品等產品課徵最高50%的懲罰性關稅，影響約200億美元的商品；加拿大以牙還牙，也對美國鋼鐵、鋁材、家電、電子產品等約700項商品，課徵最高50%的關稅。",
+      "publishedAt": "2026-09-01T17:22:55.815Z",
+      "discoveredAt": "2026-09-01T17:22:55.815Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_066f6a29b484ac5cc29c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728387?from=edn_newest_index",
+      "title": "日本10年期公債殖利率觸及3% 30年首見 傳美國財長施壓升息 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本10年期公債殖利率1日一度觸及3%，是30年來首見，也是本世紀首度升抵此里程碑，傳出美國財長貝森特施壓日本升息，加重日本央行升息壓力。這也代表日本經濟逐漸走出長期低利率環境，市場正在重新評估通膨、貨幣政策和政府財政支出帶來的影響。",
+      "publishedAt": "2026-09-01T17:22:55.815Z",
+      "discoveredAt": "2026-09-01T17:22:55.815Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1a70174cec2f66c0a082",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728391?from=edn_newest_index",
+      "title": "聯準會主席華許：儲蓄過剩轉向投資激增 | 國際焦點 | 國際 | 經濟日報",
+      "description": "全球資金流向正在出現重大轉變。聯準會（Fed）主席華許（Kevin Warsh）認為，全球已從過去的「儲蓄過剩」轉向「投資激增」，經濟成長潛力也可能高於傳統預測。",
+      "publishedAt": "2026-09-01T17:22:55.815Z",
+      "discoveredAt": "2026-09-01T17:22:55.815Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_370a302ffcdcdcff2cc1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9728312?from=edn_newest_index",
+      "title": "壽險不動產投資餘額創高 至7月底達1.71兆元 年增逾7% | 金融脈動 | 金融 | 經濟日報",
+      "description": "壽險資金持續湧向不動產市場，中央銀行最新統計顯示，截至7月底，國內壽險業不動產投資餘額已攀升至1兆7,136億元，創歷史新高，年增7.22%；若與去年底相較，今年前七個月增加約916億元，顯示在金融市場波動與長期收益需求下，不動產仍是壽險業資產配置的重要戰場。",
+      "publishedAt": "2026-09-01T17:22:55.815Z",
+      "discoveredAt": "2026-09-01T17:22:55.815Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9942e25c74b68ef61b0b",
       "sourceLastModified": null,
@@ -517,7 +667,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 8769",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 8938",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -2465,7 +2615,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11031",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11161",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -4262,7 +4412,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9727405?from=edn_hottest_index",
-      "title": "44萬股民注意！月配績效王00929最新配息出爐 14467",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 14538",
       "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
       "publishedAt": "2026-09-01T10:42:13.094Z",
       "discoveredAt": "2026-09-01T10:42:13.094Z",
@@ -5236,156 +5386,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c029d592de49b5f476f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9727554?from=edn_maintab_index",
-      "title": "金管會對國泰投信案開鍘了 600萬罰到頂還限業務 國泰投信案重罰出爐。金管會1日認定，國泰投信利害關係人申報控管失靈，且重大偶發事件通報不及時、不完整，基金、全委兩項違規均按法定最高額各罰300萬元，合計600萬元並予警告。 兩大缺失全踩到紅線 ...",
-      "description": "國泰投信案裁罰出爐。金管會認定利關人申報控管失靈，基金、全委兩項違規均按法定最高額開罰，合計600萬元並予警告；更重的是，海外基金申募、境外基金總代理等業務也將受限。",
-      "publishedAt": "2026-09-01T09:11:42.065Z",
-      "discoveredAt": "2026-09-01T09:11:42.065Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c7fbcfb53f40538e41d2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727697?from=edn_newest_index",
-      "title": "鴻海、英飛凌點出台廠投資歐盟新機會：從封裝一路攻AI資料中心 | 產業熱點 | 產業 | 經濟日報",
-      "description": "歐洲晶片法案2.0將政策觸角從半導體供給端進一步延伸至需求與AI基礎建設，也替台灣供應鏈打開新機會。鴻海、英飛凌及歐洲地方政府代表今日在投資歐盟論壇指出，台灣赴歐投資的機會已不只是跟隨晶圓廠設廠，而是從先進封裝、零組件、模組、AI伺服器一路延伸至AI資料中心及AI工廠；但台廠也必須重新思考區域供應鏈，依各國人才、材料與既有生態系進行分工，而非把台灣供應鏈原封不動搬到歐洲。",
-      "publishedAt": "2026-09-01T09:11:42.065Z",
-      "discoveredAt": "2026-09-01T09:11:42.065Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1a0028c17927852920f4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5639/9727664?from=edn_newest_index",
-      "title": "權亞石材參展自動化展落幕 花崗岩技術助半導體 | 自動化產業 | 商情 | 經濟日報",
-      "description": "總部位於新竹湖口的「權亞石材」，憑藉深厚的加工底蘊成功打破傳統建材框架。面對半導體與高科技製程邁入奈米級，機台對「高精度與高穩定性」的要求日益嚴苛，權亞石材於日前落幕的台北自動化展中，展出專為高科技產業打造的天然花崗岩精密平台與結構件，成為展場備受矚目的工業基石焦點。 天然花崗岩物理優勢＋TAF權威認證 破解奈米級製程挑戰 在半導體與自動化製造領域，傳統金屬材料如鑄鐵、鋼、鋁等，易受環境潮濕生鏽、磁場干擾或溫差變形影響，難以滿足尖端需求。權亞石材洞察先機設立「精密事業部」（PIST Division），導入歷經百萬年孕育的天然花崗岩。其具備極度穩定的原子結構、極低熱膨脹係數，且擁有「不生鏽、不磁化」的天然物理優勢，能有效隔絕振動與磁場干擾，成為高階三次元量測儀（CMM）、晶圓檢測、面板光學檢測（AOI）及雷射塗佈設備的最佳物理台座。 為打造世界級精密元件，權亞石材嚴選經德國與日本原物料物性分析認證的印度（印度黑）及南非（南非淺黑）天然花崗岩，確保密度、彎曲強度與吸水率皆達業界頂級標準。 現場交流熱烈 攜手設備大廠推進奈米級量具升級 展覽期間，權亞石材展位吸引眾多來自自動化設",
-      "publishedAt": "2026-09-01T09:11:42.065Z",
-      "discoveredAt": "2026-09-01T09:11:42.065Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_18224064df6a333147f4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9727688?from=edn_newest_index",
-      "title": "Bolt 在台灣與計程車隊合作 「博特小黃」服務正式上線 | 產業熱點 | 產業 | 經濟日報",
-      "description": "歐洲行動叫車平台Bolt迎接登台一周年，持續深化在地市場布局。去年9月正式進入台灣市場以來，依據乘客與駕駛的實際需求拓展服務選擇、優化平台體驗。Bolt 1日宣布「博特小黃」服務正式上線，豐富平台叫車選擇，提供更便利、多元的日常移動體驗。",
-      "publishedAt": "2026-09-01T09:11:42.065Z",
-      "discoveredAt": "2026-09-01T09:11:42.065Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_80b6081e7f472db5b5fd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9727683?from=edn_newest_index",
-      "title": "KUKA 全球高管到訪存融，共話智能製造裝配發展與協同機遇 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "美的集團董事副總裁率KUKA全球高管團隊到訪存融，雙方圍繞智能製造裝配行業發展、全球市場趨勢進行了深入交流。 中國無錫2026年9月1日 /美通社/ -- 上周，由美的集團董事副總裁率領的KUKA集團全球高管代表團到訪存融（Centron）。代表團由 KUKA 集團總部管理層及多個國家和地區的業務負責人組成。 作為全球領先的工業機器人與自動化解決方案供應商，KUKA 此次以高規格團隊集體到訪，反映出雙方對智能製造裝配領域發展趨勢的共同關注。訪問期間，雙方圍繞行業發展、全球市場變化及未來協同機會等話題進行了深入交流。 存融方面由姐妹品牌礪星（Leetx）CEO 汪俊、存融產品線總經理歐陽素、存融業務線總經理汪馳宇及海外業務銷售總監陳敏共同接待。KUKA 高管團隊參觀了存融製造基地，實地了解其在精密塗膠、灌封與滴浸領域的產品布局與製造能力，並聽取了礪星（Leetx）在擰緊、壓裝與自動送釘等智能裝配技術領域的相關布局。 隨後的交流中，雙方結合各自的全球業務經驗，就中國市場發展節奏、海外製造需求變化、智能製造裝配行業未來走向，以及工藝裝備與機器人平台的技術演進方向，分享了觀察並交換了意見。 礪",
-      "publishedAt": "2026-09-01T09:11:42.065Z",
-      "discoveredAt": "2026-09-01T09:11:42.065Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

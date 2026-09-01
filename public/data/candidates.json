@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T00:07:46.320Z",
+  "updatedAt": "2026-09-01T00:38:18.549Z",
   "candidates": [
+    {
+      "id": "cand_cda5236d586c7bddbfcc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726162",
+      "title": "Anthropic 算力大進補 傳350億美元牽手 Lambda 輝達幕後包下資料中心 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）在人工智慧（AI）基礎設施版圖扮演的角色愈來愈深，不只賣晶片、投資雲端業者，如今還親自承租資料中心，替AI業者取得昂貴算力鋪路。據報導Anthropic已和輝達投資的雲端業者Lambda簽署價值350億美元的雲端運算合約，背後資料中心的承租方正是輝達。",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6eeab09d723f36d3466d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726168",
+      "title": "川普喊美 GDP 成長上看20% 稱不該升息 CNBC：近80年僅發生過一次 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普周一表示，美國經濟成長率有可能高達20%，但他認為，就算經濟高速增長，也不該是聯準會升息的理由。",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_47d15e3ac5428f6f2762",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726168?from=edn_maintab_index",
+      "title": "川普喊美 GDP 成長上看20% 稱不該升息 CNBC：近80年僅發生過一次 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普周一表示，美國經濟成長率有可能高達20%，但他認為，就算經濟高速增長，也不該是聯準會升息的理由。",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3a8e8013f81ec9499c64",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9726136?from=edn_newest_index",
+      "title": "高雄屏東大雷雨 國家級警報響 牛角灣溪山區暴雨快遠離溪流 | 生活 | 要聞 | 經濟日報",
+      "description": "今天低氣壓影響及西南風增強，中央氣象署發布高雄市、屏東縣大雷雨即時訊息，持續時間至上午8時22分；有短延時強降雨發生，並伴隨較強陣風，慎防溪河水暴漲、坍方、落石、低窪地區積水、低能見度。",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e2a34985cdb5d14930f8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9726132?from=edn_newest_index",
+      "title": "低壓帶影響 大雨特報範圍擴大 7縣市慎防短延時強降雨 | 生活 | 要聞 | 經濟日報",
+      "description": "低壓帶影響，易有短延時強降雨，中央氣象署發布大雨特報，今天雲林以南、台東地區及蘭嶼、綠島有局部大雨發生的機率，注意雷擊及強陣風，低窪地區慎防積水，連日降雨，山區慎防坍方、落石及溪水暴漲。",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aa52a6ae78785324f79e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9726130?from=edn_newest_index",
+      "title": "茄子愈煮愈黑關鍵是它 專家教2招 烹調仍維持漂亮紫色 | 生活 | 要聞 | 經濟日報",
+      "description": "茄子營養又好吃，但為什麼會愈煮愈黑？農業部表示，讓茄子變色的主因，是果肉中的單寧，接觸空氣後產生氧化反應就會變色，是正常的自然現象，不會影響食用安全。",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ad51f9bf57c45f5ffbf4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9726163?from=edn_newest_index",
+      "title": "嘉義又少1間書店 老字號金石堂耐斯店熄燈讀書人不捨 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "「又少一間書店！」嘉義市再傳老字號書店熄燈。繼2024年鴻圖書局結束營業、去年大人物書店熄燈，位於耐斯百貨廣場的金石堂書店耐斯店，昨晚開學日最後一天營業，陪伴嘉義讀書人20多年書香空間畫下句點，讓老顧客直呼不捨。昨晚即使下雨，仍有不少民眾特地前往金石堂耐斯店，把握最後營業時間買書、文具，許多老顧客社群留言，回憶過去書店找書、翻書的時光。",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_03cbddae75053351e2be",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9726189?from=edn_newest_index",
+      "title": "9月1日盤前／殖利率上揚壓抑評價 台股短期區間震盪拚選股 | 市場焦點 | 證券 | 經濟日報",
+      "description": "昨日盤勢 Fed主席華許重申抗通膨決心，市場憂慮升息議題再起，上週五美科技股走弱，加上美伊戰火衝擊投資情緒，影響週一加權指數回測10日線，因當沖增溫，眾多股盤中擴大振幅。由於昨日MSCI季度調整，午盤1點後指數跌幅收斂，終場強守5日均線之上。盤面光學股強者恆強，在電子弱勢之際，資金轉移傳產塑膠股及部分生技股避險。 反觀弱勢族群，ABF因欣興涉及司法風暴、景碩面臨大股東拋售股票，該族群僅臻鼎表現較佳；被動元件及矽晶圓因籌碼處於整理期，未見買盤曙光。 權值股方面，台積電下跌0.62%、鴻海下跌1.19%、聯發科下跌1.51%、廣達上漲1.80%，台達電上漲0.55%。盤面強勢股，全新、南亞、雙鴻、永擎、玉晶光、宏碩系統等共23檔漲停；精材、晶豪科、青雲、大立光、均華、微星、聯亞、美食-KY等漲幅6%以上。盤面弱勢股，欣興、矽力*-KY、竑騰、藥華藥等共7檔跌停；鴻勁、景碩、直得、國巨*、昇達科、南俊國際、高力等跌幅7%以上。 終場台灣加權指數下跌202.98點，以46128.47點作收，成交量1.2兆元。三大類股同步上漲，電子下跌0.87%、傳產上漲1.11%、金融上漲1.88%。在次族群",
+      "publishedAt": "2026-09-01T00:38:18.549Z",
+      "discoveredAt": "2026-09-01T00:38:18.549Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1de2b1264549f5eb920c",
       "sourceLastModified": null,
@@ -345,7 +585,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1138,7 +1378,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7886",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 8106",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -1182,7 +1422,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1212,7 +1452,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1242,7 +1482,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1272,7 +1512,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1302,7 +1542,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4730,7 +4970,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 16552",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 16939",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5138,246 +5378,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d75cca7aa03f31b76958",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724290?from=edn_newest_index",
-      "title": "希音260億美元的估值仍難平成長前景擔憂 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 希音國際控股有限公司已完成首次公開募股(IPO)，其估值僅為該公司昔日估值的一小部分。對於部分投資者而言，考慮到該公司的前景，這一估值或許仍然偏高。",
-      "publishedAt": "2026-08-31T13:48:03.105Z",
-      "discoveredAt": "2026-08-31T13:48:03.105Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a15a3458f669f4e85b2b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9725489",
-      "title": "21:34 9月宣告利率掀調整潮！合庫人壽衝4.38%、富邦人壽全面調升",
-      "description": "隨著市場持續關注美國聯準會（Fed）後續貨幣政策，以及美國公債殖利率走勢，壽險公司9月宣告利率再掀調整潮。截至目前已公布9月最新宣告利率的業者中，合作金庫人壽將美元利變保單最高宣告利率調升至4.38%，躍居目前市場第二高，僅次於台灣人壽最高4.42%；富邦人壽則全面調升美元商品宣告利率0.05至0.1個百分點，最高來到4.35%，台銀人壽、三商美邦人壽最高宣告利率也同步調至4.35%，顯示業者持續加碼美元利變保單競爭力。",
-      "publishedAt": "2026-08-31T13:37:05.901Z",
-      "discoveredAt": "2026-08-31T13:37:05.901Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5c1b8d1de5c8bb77f36f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725645?from=edn_maintab_index",
-      "title": "川普稱伊朗「失敗的國家」：領導層一片混亂 美國總統川普31日在自家社群媒體平台「真實社群」發文說，伊朗是個「失敗的國家」，稱「該國領導層一片混亂，根本無法正常代表伊朗」。 川普貼文指出：「伊朗已正式成為一個失敗的國家。它已經完了！他們沒有...",
-      "description": "美國總統川普31日在自家社群媒體平台「真實社群」發文說，伊朗是個「失敗的國家」，稱「該國領導層一片混亂，根本無法正常代表伊朗」。",
-      "publishedAt": "2026-08-31T13:37:05.901Z",
-      "discoveredAt": "2026-08-31T13:37:05.901Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_875b872a32577219c23e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725702?from=edn_newest_index",
-      "title": "NVIDIA投資聯發科35億美元ECB 打造AI運算平台 | 產業熱點 | 產業 | 經濟日報",
-      "description": "聯發科與輝達（NVIDIA）今天宣布，雙方深化長期合作夥伴關係，共同打造跨世代的AI基礎建設、邊緣AI運算與車用產品，輝...",
-      "publishedAt": "2026-08-31T13:37:05.901Z",
-      "discoveredAt": "2026-08-31T13:37:05.901Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_839332c3f8a53a5b05be",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725690?from=edn_newest_index",
-      "title": "研調：二手機維修市場支撐 手機面板出貨年減幅縮小 | 產業熱點 | 產業 | 經濟日報",
-      "description": "研調機構集邦科技最新面板產業研究指出，儘管記憶體供給短缺、價格吃緊加劇智慧手機供應鏈成本壓力，更影響手機品牌2026年的...",
-      "publishedAt": "2026-08-31T13:37:05.901Z",
-      "discoveredAt": "2026-08-31T13:37:05.901Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bd796d4078bfff78f412",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9725688?from=edn_newest_index",
-      "title": "凱基人壽布局全齡健康 北市信義區打造康養宅 | 金融脈動 | 金融 | 經濟日報",
-      "description": "凱基人壽響應健康台灣政策，打造全齡健康生態圈。凱基人壽總經理郭瑜玲今天表示，規劃在台北市信義區打造旗艦型康養住宅，並擬與...",
-      "publishedAt": "2026-08-31T13:37:05.901Z",
-      "discoveredAt": "2026-08-31T13:37:05.901Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1ed062d927b01654827c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9724288?from=edn_newest_index",
-      "title": "尼泊爾洪災暴露高山預警不足 官員稱跨境數據共享面臨挑戰 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 尼泊爾災難性洪災中的受災民眾，在洪水奔涌而至前幾乎沒有得到預警，這凸顯出高海拔地區氣象監測以及與鄰國中國大陸開展數據共享方面存在的不足。",
-      "publishedAt": "2026-08-31T13:37:05.901Z",
-      "discoveredAt": "2026-08-31T13:37:05.901Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d2e87ace884376ebcc79",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725119",
-      "title": "21:20 不單押台積電！SK 海力士計劃找英特爾代工生產 HBM 基礎晶片",
-      "description": "南韓晶片大廠SK海力士據傳正考慮委託英特爾生產高頻寬記憶體（HBM）的基礎晶片（base die），以增加台積電以外的代工夥伴。分析師表示，英特爾6月聘請SK海力士前執行長李錫熙為代工事業資深副總裁，加深了兩公司關係，也推動了這項計畫的發展。",
-      "publishedAt": "2026-08-31T13:26:26.309Z",
-      "discoveredAt": "2026-08-31T13:26:26.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

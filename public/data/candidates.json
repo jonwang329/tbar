@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T00:58:00.917Z",
+  "updatedAt": "2026-09-01T01:18:52.483Z",
   "candidates": [
+    {
+      "id": "cand_564304a41f3b513625dd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9726271",
+      "title": "聯發科跳空漲停、欣興甩開跌停！台股9月首日開高一度急拉近520點 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股9月首日開高48.64點、報46,177.11點，隨後在聯發科（2454）跳空漲停、直奔4,315元，台積電（2330）開低翻紅，加上鴻海（2317）、創意（3443）、台新新光金（2887）、南電（8046）等要角聯袂走強，帶動大盤漲點快速擴大，一度逼近520點、觸及46,641.88點；欣興（3037）則逃脫跌停陰霾，盤面多空交錯。國喬（1312）、南亞（1303）、欣興等個股交投熱絡。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0538b578668ffddd4d8e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9726271?from=edn_maintab_index",
+      "title": "聯發科跳空漲停、欣興甩開跌停！台股9月首日開高一度急拉近520點 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股9月首日開高48.64點、報46,177.11點，隨後在聯發科（2454）跳空漲停、直奔4,315元，台積電（2330）開低翻紅，加上鴻海（2317）、創意（3443）、台新新光金（2887）、南電（8046）等要角聯袂走強，帶動大盤漲點快速擴大，一度逼近520點、觸及46,641.88點；欣興（3037）則逃脫跌停陰霾，盤面多空交錯。國喬（1312）、南亞（1303）、欣興等個股交投熱絡。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1aaef23fe81d639cad50",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9726210?from=edn_newest_index",
+      "title": "平日國旅補助今天上路 逾百萬人登錄 觀光署：先住先贏 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "2026年平日國旅補助今天正式上路，本島住宿最高每人補助2000元，離島最高補助2500元，已經超過百萬人登錄。交通部觀光署表示，經費有限、先住先贏，預計經費最快將於11月底用罄，經費用到一半時會對外公告提醒民眾，但仍要視使用狀況而定。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b7c8d6f31fadd13ed80f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9726221?from=edn_newest_index",
+      "title": "低氣壓影響+強西南風 屏東、台東大雷雨 外出攜帶雨具 | 生活 | 要聞 | 經濟日報",
+      "description": "今天受低氣壓影響及西南風增強，易有短延時強降雨，中央氣象署發布屏東縣、台東縣大雷雨即時訊息，持續時間至上午9時50分；有短延時強降雨發生，並伴隨較強陣風、閃電落雷，慎防溪河水暴漲、坍方、落石、低窪地區積水、低能見度、雷擊。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dae1b1383baeec203f1b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9726224?from=edn_newest_index",
+      "title": "最萌「平安符」開賣 龍山寺跨界攜「快樂襪」推娃包祈福禮 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "傳統平安符不再只能放錢包，艋舺龍山寺與瑪利亞基金會「Merry Young 快樂襪」跨界合作，將心智障礙青年的純真畫作轉化為時尚配件，創新推出「艋舺龍山寺×快樂襪」平安娃包祈福禮，即日起限量發售。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0a20d325f072c069c9f2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9726235?from=edn_newest_index",
+      "title": "雨彈升級 高雄屏東慎防豪雨 5縣市大雨續轟 | 生活 | 要聞 | 經濟日報",
+      "description": "低壓帶影響，易有短延時強降雨，中央氣象署發布豪雨特報，今天高雄市及屏東縣有局部大雨或豪雨，雲林至台南、台東地區及蘭嶼、綠島有局部大雨發生的機率，注意雷擊及強陣風，低窪地區慎防積水，連日降雨，山區慎防坍方、落石及溪水暴漲。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_70b6cfb5296aee0e19c2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9726275?from=edn_newest_index",
+      "title": "好市多黑鑽卡新福利！泰國4天3夜11,990元起 最高送9千元賣場抵用券 | 產業熱點 | 產業 | 經濟日報",
+      "description": "好市多黑鑽卡會員又有新福利，這次將優惠延伸至海外旅遊，攜手美諾度假會（Minor Vacation Club，原安納塔拉度假會）推出黑鑽卡主卡會員限定泰國住宿專案，4天3夜行程最低11,990元起，地點可選曼谷、寇立、普吉島、蘇梅島及清邁，包含住宿、每日飯店早餐及機場往返接送（不含機票），最高另可拿到9,000元好市多實體賣場商品抵用券。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_74077904ab19246b169e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9725204?from=edn_hottest_index",
+      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 | 國際焦點 | 國際 | 經濟日報",
+      "description": "電力供應已成為限制人工智慧（AI）資料中心快速上線的瓶頸，許多專案因此轉向可移動式的天然氣渦輪發電機，以取得所需電力，推升了渦輪機的需求。馬斯克表示，為了將發電機啟用時間縮短，SpaceX將自行生產渦輪葉片與導葉的鑄造。",
+      "publishedAt": "2026-09-01T01:18:52.483Z",
+      "discoveredAt": "2026-09-01T01:18:52.483Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b275261f1b75d8e58732",
       "sourceLastModified": null,
@@ -10,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9726149",
-      "title": "貝森特直接施壓了！當面告訴日本財相與央行總裁 日本該升息了 | 國際焦點 | 國際 | 經濟日報",
+      "title": "08:55 貝森特直接施壓了！當面告訴日本財相與央行總裁 日本該升息了",
       "description": "日本媒體NHK引述對一名美國官員的採訪報導，美國財長貝森特向日本財務大臣片山皋月及日本銀行（BOJ，央行）總裁植田和男表示，日本的下一步應該是升息。",
       "publishedAt": "2026-09-01T00:58:00.917Z",
       "discoveredAt": "2026-09-01T00:58:00.917Z",
@@ -40,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9726197?from=edn_maintab_index",
-      "title": "布蘭特油價漲破91美元 美伊再交火 荷莫茲依然受阻 | 國際焦點 | 國際 | 經濟日報",
+      "title": "布蘭特油價漲破91美元 美伊再交火 荷莫茲依然受阻 國際油價今天（1日）進一步上漲，周一創下三周來最大漲幅，原因是美國與伊朗爆發新一輪敵對行動，引發市場對能源流經荷莫茲海峽可能長期受阻的擔憂。 西德州中級原油（WTI）10月期貨今天盤初上漲1%，報...",
       "description": "國際油價今天（1日）進一步上漲，周一創下三周來最大漲幅，原因是美國與伊朗爆發新一輪敵對行動，引發市場對能源流經荷莫茲海峽可能長期受阻的擔憂。",
       "publishedAt": "2026-09-01T00:58:00.917Z",
       "discoveredAt": "2026-09-01T00:58:00.917Z",
@@ -532,7 +772,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -560,7 +800,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -588,7 +828,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1588,7 +1828,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 8240",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 8421",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -5139,246 +5379,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9c6e7c59c977ede4d981",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725755?from=edn_newest_index",
-      "title": "威力彩第115070期 頭獎槓龜 | 產業熱點 | 產業 | 經濟日報",
-      "description": "威力彩第115070期今晚開獎，第一區中獎號碼為19、37、04、32、08、12，第二區中獎號碼02。派彩結果，頭獎、...",
-      "publishedAt": "2026-08-31T14:14:05.429Z",
-      "discoveredAt": "2026-08-31T14:14:05.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_81984b9cc1b6e9c0c4a7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 17151",
-      "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
-      "publishedAt": "2026-08-31T14:14:05.429Z",
-      "discoveredAt": "2026-08-31T14:14:05.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_97585a14c04267c26790",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9725727",
-      "title": "21:59 美股早盤／美伊睽違一個月再度開戰 三大指數走跌 費半獨揚",
-      "description": "美股31日早盤走跌，主因是美國和伊朗時隔一個月再度交火，導致油價與殖利率上升。",
-      "publishedAt": "2026-08-31T14:03:12.425Z",
-      "discoveredAt": "2026-08-31T14:03:12.425Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e95eb69a3dfc37aed2dd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9725717",
-      "title": "21:49 台指期夜盤由黑翻紅！上半場衝上46K 大關",
-      "description": "台指期夜盤31日以46,126點開高，盤中走勢持續震盪。截至傍晚9點40分，台指期夜盤報46,063點、漲86點、漲幅0.1%。剛開盤多空雙方較勁激烈，空頭賣壓再起最低暫達45,905點，隨後最高達46,186點，高低點震盪281點，暫時站上46K大關，並持續於附近震盪。",
-      "publishedAt": "2026-08-31T14:03:12.425Z",
-      "discoveredAt": "2026-08-31T14:03:12.425Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a659cc8b3eda41c208fb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9725727?from=edn_maintab_index",
-      "title": "美股早盤／美伊睽違一個月再度開戰 三大指數走跌 費半獨揚 美股31日早盤走跌，主因是美國和伊朗時隔一個月再度交火，導致油價與殖利率上升。 道瓊工業指數31日早盤下跌0.6%；標普500和那斯達克指數則分別下跌0.4%和0.3%；費城半導體指數漲0.6%；...",
-      "description": "美股31日早盤走跌，主因是美國和伊朗時隔一個月再度交火，導致油價與殖利率上升。",
-      "publishedAt": "2026-08-31T14:03:12.425Z",
-      "discoveredAt": "2026-08-31T14:03:12.425Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_82e2d6781599d9773f0a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9725737?from=edn_newest_index",
-      "title": "開學接送任務啟動！國泰產險提醒家長備妥3大行車護身符 | 金融脈動 | 金融 | 經濟日報",
-      "description": "開學季到來，許多爸媽一早便開始穿梭住家巷口到校門口，熟悉的接送路線，卻潛藏許多交通風險。根據道安總動員網統計，去年全國兒童交通事故死傷人數達12,496人，有76%為搭乘交通載具時發生交通事故。家長每天接送孩子，臨停、機車穿梭、自行車及行人交會，短短幾分鐘車程，可能因疏忽發生事故，國泰產險提醒家長，除了安全帽與安全帶是看得見的防護，也必須備妥強制險、第三人責任險、駕駛人傷害險等3大行車護身符，若有餘裕，推薦加碼愛車護身符「車體損失險」，安心迎接每天上下學的親子時光。",
-      "publishedAt": "2026-08-31T14:03:12.425Z",
-      "discoveredAt": "2026-08-31T14:03:12.425Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f79be91078870d34bb1a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9725733?from=edn_newest_index",
-      "title": "美伊再交火 川普：美方將予以反擊 | 國際焦點 | 國際 | 經濟日報",
-      "description": "根據美國福斯新聞頻道（Fox News），總統川普今天表示，在伊朗攻擊中東地區的美國目標後，美方將予以反擊",
-      "publishedAt": "2026-08-31T14:03:12.425Z",
-      "discoveredAt": "2026-08-31T14:03:12.425Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cea928b9ca06b66eb443",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12987/9725732?from=edn_newest_index",
-      "title": "戴德梁行受邀出席RICS 中國峰會2026共議「十五五新局下的全球資產與技術重塑」 | 國際現場 | 商情 | 經濟日報",
-      "description": "香港 - Media OutReach Newswire - 2026年8月31日 - 享譽全球的房地產服務及諮詢顧問公司戴德梁行受邀出席RICS中國峰會2026。戴德梁行環球董事、大中華區首席執行官、RICS中國區域理事會主席趙錦權，上海估價及顧問服務部主管、高級董事劉漪，北京估價及顧問服務部主管、資產證券化業務負責人楊枝出席活動並參與圓桌論壇。 十五五規劃是中國從 \"規模增長\" 轉向 \"品質躍升\" 的關鍵五年，房地產與建造領域迎來制度重構、技術革命、空間重塑、開放升級四大變革。RICS中國峰會2026以\"十五五新局下的全球資產與技術重塑\"為主題，緊扣規劃核心，圍繞五大主線展開：政策與頂層設計、技術重塑產業、全球資產佈局、資本與資產盤活、綠色低碳轉型。 戴德梁行環球董事、大中華區首席執行官、RICS中國區域理事會主席趙錦權受邀出席活動，並進行開幕致辭。趙錦權表示: 「今年是中國內地『十五五』規劃的開局之年，亦是國內房地產業與建造業，從『規模擴張』邁向高品質發展與提質升級的關鍵轉折之年。在此進程中，RICS推動國際測量與估值準則、負責任的人工智能使用指引，以及可持續與ESG全球指南，與",
-      "publishedAt": "2026-08-31T14:03:12.425Z",
-      "discoveredAt": "2026-08-31T14:03:12.425Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T04:56:41.004Z",
+  "updatedAt": "2026-09-01T05:13:07.204Z",
   "candidates": [
+    {
+      "id": "cand_e8782c4aa60a4031ae06",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726802",
+      "title": "遵循 Meta 賺錢模式？OpenAI 宣布廣告年化營收達10億美元里程碑 | 國際焦點 | 國際 | 經濟日報",
+      "description": "OpenAI周一（8月31日）宣布，旗下廣告業務營收年化預估值已達10億美元，達到一大里程碑。",
+      "publishedAt": "2026-09-01T05:13:07.204Z",
+      "discoveredAt": "2026-09-01T05:13:07.204Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bcce5efe4fa027059508",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9727012?from=edn_newest_index",
+      "title": "打造信賴產業鏈 賴總統：台灣已建立完整半導體聚落 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "賴清德總統1日上午出席「2026晶鏈高峰論壇」。他表示，面對AI快速發展，全球科技產業更需要值得信賴的合作夥伴，台灣已建立完整的半導體聚落，具備快速、彈性、高效率的製造能力；並在民主法治基礎上，穩定供應全球市場、信守承諾，累積國際夥伴的信賴。",
+      "publishedAt": "2026-09-01T05:13:07.204Z",
+      "discoveredAt": "2026-09-01T05:13:07.204Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bb817c6e4ba042e9f2ed",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9727011?from=edn_newest_index",
+      "title": "調查：8月中國房市傳統淡季 中古屋房價月減0.45% | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "中國官方持續提出相關房地產政策，但調查顯示，8月傳統淡季，具代表性的百城中古屋住宅房價平均每坪19.4萬元，月減0.45...",
+      "publishedAt": "2026-09-01T05:13:07.204Z",
+      "discoveredAt": "2026-09-01T05:13:07.204Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9507ca5c3bd720cf924e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9727009?from=edn_newest_index",
+      "title": "民團提台灣首件NCP申訴 經濟部無法以NCP名義受理原因曝 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "跨國民團合作今日向經濟部提出首件國家聯絡點（NCP）申訴案，經濟部回應表示，在台灣NCP正式設立之前，無法以NCP之名受理個案申訴，但經濟部會將有關印尼方利害關係人表達的內容，轉達給相關企業表達關注。",
+      "publishedAt": "2026-09-01T05:13:07.204Z",
+      "discoveredAt": "2026-09-01T05:13:07.204Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f4780cd005f754c314f7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9727008?from=edn_newest_index",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 | 集中市場 | 證券 | 經濟日報",
+      "description": "AI伺服器大廠緯穎（6669）每千股配發1,983股，將在9月2日除權，若以8月31日收盤價7,095元計算，除權後參考價將降至約2,400元；1日股價開高走高，盤中觸及漲停7,800元，股價強漲走勢亮眼。",
+      "publishedAt": "2026-09-01T05:13:07.204Z",
+      "discoveredAt": "2026-09-01T05:13:07.204Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5308632c0e5a38332798",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9727004?from=edn_newest_index",
+      "title": "韓股 AI、價值重估雙題材發酵 009829聚焦三星、SK 海力士 | 基金天地 | 理財 | 經濟日報",
+      "description": "隨著全球科技鉅子對高頻寬記憶體（HBM）的索求達到前所未有的癲狂狀態，全台首檔韓股市值型ETF—大華韓國KOSPI 50（009829）經理人賴昱廷表示，全球AI算力基建已從單純的GPU設計爭霸，全面演變為「誰拿到HBM，誰就能掌握AI心臟」的產能生死戰。",
+      "publishedAt": "2026-09-01T05:13:07.204Z",
+      "discoveredAt": "2026-09-01T05:13:07.204Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_696aedda0a74ef8a9b66",
       "sourceLastModified": null,
@@ -594,7 +774,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2059,7 +2239,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2794,7 +2974,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725204?from=edn_hottest_index",
-      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 9388",
+      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 9481",
       "description": "電力供應已成為限制人工智慧（AI）資料中心快速上線的瓶頸，許多專案因此轉向可移動式的天然氣渦輪發電機，以取得所需電力，推升了渦輪機的需求。馬斯克表示，為了將發電機啟用時間縮短，SpaceX將自行生產渦輪葉片與導葉的鑄造。",
       "publishedAt": "2026-09-01T01:18:52.483Z",
       "discoveredAt": "2026-09-01T01:18:52.483Z",
@@ -3639,7 +3819,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4402,7 +4582,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 9112",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 9149",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -5201,186 +5381,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_282e31dbef9d4cec903c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9725829?from=edn_newest_index",
-      "title": "台美利差變化趨緩 7月衍生性商品交易降溫 | 金融脈動 | 金融 | 經濟日報",
-      "description": "中央銀行昨（31）日公布7月銀行衍生性金融商品交易量降溫，單月交易金額24兆1,657億元，較6月減少1.9兆元、月減7.29%；其中，市場主要交易品項「利率有關契約」交易量大幅縮減1兆951億元，月減27.87%，成為整體衍生性商品交易量下滑的主要原因。央行金檢處副處長謝人俊表示，7月市場參與者受到台美利差變化趨緩，以及暑期交易清淡等因素影響，降低基於利率預期變動所進行的避險及投機操作。",
-      "publishedAt": "2026-08-31T17:35:52.150Z",
-      "discoveredAt": "2026-08-31T17:35:52.150Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b79ab0f4b294a30060d6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725920?from=edn_newest_index",
-      "title": "台積電：AI 算力需求每年增五倍 將透過先進邏輯製程、3DFabric 等抓緊基建熱潮 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台積電昨（31）日釋出對AI市場更樂觀展望，公司高層昨日表示，AI相關資料算力需求每年將暴增逾五倍，台積電以先進邏輯製程、3DFabric、SoIC、CoWoS及矽光子等技術，推進異質整合與系統級創新，積極搶食商機。",
-      "publishedAt": "2026-08-31T17:25:09.126Z",
-      "discoveredAt": "2026-08-31T17:25:09.126Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b433a4bbda3e3e888326",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725926?from=edn_newest_index",
-      "title": "SEMI 上修半導體市場展望 | 產業熱點 | 產業 | 經濟日報",
-      "description": "受惠AI需求強勁，國際半導體產業協會（SEMI）昨（31）日上修2028年全球半導體晶圓廠前段製造設備（WFE）、後段設備等市場投資預估，並看好今、明年全球半導體材料市場將呈現雙位數百分比成長。",
-      "publishedAt": "2026-08-31T17:25:09.126Z",
-      "discoveredAt": "2026-08-31T17:25:09.126Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_91eeef5bb474b2443448",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9725928?from=edn_newest_index",
-      "title": "輝達牽緊聯發科 黃仁勳：絕佳投資 | 產業熱點 | 產業 | 經濟日報",
-      "description": "聯發科39億美元（近新台幣1,250億元）海外可轉債（ECB）引進輝達與Google母公司字母（Alphabet）資金，尤其輝達更是首次大手筆出手投資台灣企業，引發關注。法人分析，輝達重金投資聯發科，應是看上聯發科累積的技術能力，與在特殊應用IC（ASIC）市場發展潛力。",
-      "publishedAt": "2026-08-31T17:25:09.126Z",
-      "discoveredAt": "2026-08-31T17:25:09.126Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_36052c69695205f760d2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9725793?from=edn_newest_index",
-      "title": "房市8月交易量北強南弱 雙北明顯增溫 預期下半年整體買氣向上 | 房市話題 | 房市 | 經濟日報",
-      "description": "受傳統民俗月加上中南部豪雨影響，永慶、住商、中信、台灣房屋四大房仲8月旗下仲介店頭成交數據顯示，8月交易量比7月小增6.5%或小減7.5%之間，惟年增3.4~17%，市況呈「北強南弱」；以整體來看，今年國內經濟佳，加上自住需求逐步回籠，下半年房市交易量可望優於上半年。",
-      "publishedAt": "2026-08-31T17:25:09.126Z",
-      "discoveredAt": "2026-08-31T17:25:09.126Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1ff69014e21a3fa07f0f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9725789?from=edn_newest_index",
-      "title": "衛福部將砸百億助攻生醫 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "衛福部昨（31）日宣布，已在8月27日訂定發布《衛生福利部辦理投資臺灣生醫產業實施方案作業要點》，將以十年共100億元進行政府策略性投資，並整合法規輔導與健保資源，引導民間資金共同投入，助攻生醫發展。",
-      "publishedAt": "2026-08-31T17:25:09.126Z",
-      "discoveredAt": "2026-08-31T17:25:09.126Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

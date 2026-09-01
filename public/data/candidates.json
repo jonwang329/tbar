@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T21:52:44.392Z",
+  "updatedAt": "2026-09-01T22:05:47.817Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_74b5d6404a459dd88909",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9728607?from=edn_newest_index",
+      "title": "Mixx 推出 SxC™ Connector，用於高基數擴展與多拍比特級連通性 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "從光引擎到機箱邊緣，只需一種光纖連接器技術。將於 SEMICON Taiwan 展會現場進行連接器實機演示。 加利福尼亞州聖何塞2026年9月2日 /美通社/ -- 總部位於美國、由創投支持的深科技公司 Mixx Technologies, Inc.，專注於為超大規模人工智能 (AI) 基礎設施開發共封裝光學元件，今日推出 SxC™ Connector。這是一款適用於前端平面與背板的光學連接器，單個機架單元內最多可連接 24,576 條光纖。Mixx 將於 2026 年 9 月 2 日起，在 SEMICON Taiwan 展會的 I2923 號展位舉行連接器現場示範。 Mixx 首款上市的產品是一款光纖連接器。該行業正透過近封裝光學元件 (NPO)、CPX 以及類似的插座式方案，逐步邁向共封裝光學 (CPO) 發展。每一步發展都需要比現有連接器更高密度的基數 (radix)，而這正是實現真正 CPO 不可或缺的先決條件。連接器決定了單台設備所能承載的光學輸入/輸出 (I/O) 總量。這一技術層面決定了光學技術究竟能解決機櫃級 (rack scale) 的推理難題，還是只停留在實驗室測試",
+      "publishedAt": "2026-09-01T22:05:47.817Z",
+      "discoveredAt": "2026-09-01T22:05:47.817Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_834304450c7788a95f9c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9728604?from=edn_newest_index",
+      "title": "沙德爾颱風有3種可能路徑 專家：不向命運低頭的戰士 估再活5天 | 生活 | 要聞 | 經濟日報",
+      "description": "沙德爾颱風昨天神奇「復活」，根據中央氣象署最新颱風消息，輕颱沙德爾今天凌晨2時的中心位置在東沙島西北方70公里之處（鵝鑾鼻西方480公里之處）以每小時6公里速度，向東北轉北進行，氣象署提醒在東沙島附近海面航行及作業船隻應特別注意，並隨時收聽此颱風的最新動態。",
+      "publishedAt": "2026-09-01T22:05:47.817Z",
+      "discoveredAt": "2026-09-01T22:05:47.817Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_14ab87d10cb8dce8cbb5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728598?from=edn_newest_index",
-      "title": "美邀俄財長出席G20會議 恐難爭取歐洲對伊朗施壓 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美邀俄財長出席G20會議 恐難爭取歐洲對伊朗施壓 2026-09-02 05:45",
       "description": "美國主辦的20國集團（G20）財政部長會議因俄羅斯財長出席蒙上陰影，華府今天力求爭取夥伴支持對伊朗的制裁以及降低貿易失衡",
       "publishedAt": "2026-09-01T21:52:44.392Z",
       "discoveredAt": "2026-09-01T21:52:44.392Z",
@@ -124,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9728592?from=edn_newest_index",
-      "title": "今天全台慎防強對流突襲 吳德榮：雙颱環伺不侵台 最快周日才放晴 | 生活 | 要聞 | 經濟日報",
+      "title": "今天全台慎防強對流突襲 吳德榮：雙颱環伺不侵台 最快周日才放晴 2026-09-02 05:45",
       "description": "今晨台南、南部已有降雨，中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，今天至周五，沙德爾颱風及科羅旺颱風在大低壓環流內，增強有限。台灣附近水氣多，時而因西南風的增強，激發強對流，應慎防其所伴隨的雷擊、強風、瞬間強降雨等劇烈天氣，以及多日累積的大量降雨而致災。",
       "publishedAt": "2026-09-01T21:52:44.392Z",
       "discoveredAt": "2026-09-01T21:52:44.392Z",
@@ -2609,7 +2669,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10164",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10250",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -2741,7 +2801,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4047,7 +4107,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8119",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8130",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -4557,7 +4617,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 12050",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 12091",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5248,66 +5308,6 @@
       "description": "迎接中秋團圓佳節，台北晶華酒店將於9月4日至28日推出「中秋大烤宴—亞洲燒烤節」，集結位於飯店一樓的「栢麗廳」與大直英迪格酒店四樓的「泰市場」兩大人氣自助餐廳，以炭烤、鐵板、爐烤等多元手法，端出橫跨台灣、日本、韓國及泰國的燒烤盛宴。",
       "publishedAt": "2026-09-01T11:56:09.172Z",
       "discoveredAt": "2026-09-01T11:56:09.172Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e8b0783273b5c8710b19",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9727823?from=edn_VIP_index_side",
-      "title": "政府連八年撥補勞保 真能改善勞保財務？",
-      "description": "行政院日前通過2027年度中央政府總預算案，歲入、歲出均創歷史新高，其中明年編列1,300億元撥補勞保基金，若經立法院審議通過，將是政府連續第八年撥補勞保，累計撥補金額達6,470億元。政府強調「只要政府在，勞保就不會倒」，但在政府年年挹注下，勞保財務是否真的走向永續，仍是外界關注焦點。",
-      "publishedAt": "2026-09-01T11:56:09.172Z",
-      "discoveredAt": "2026-09-01T11:56:09.172Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8789f98d3956a5de9c62",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9727951",
-      "title": "19:40 玉山金完成合併三商壽啟動金控2.0新篇章 新任董總人選揭曉",
-      "description": "玉山金（2884）1日完成與三商壽之股權交割程序，三商壽自即日起正式成為玉山金控子公司。隨著銀行、人壽、證券及投信等金融版圖逐步到位，玉山金控正式邁入「金控2.0」新階段，並躍升為國內資產規模第5大上市金控公司，資產規模逾6.6兆元。",
-      "publishedAt": "2026-09-01T11:45:00.780Z",
-      "discoveredAt": "2026-09-01T11:45:00.780Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T07:14:42.935Z",
+  "updatedAt": "2026-09-01T07:30:29.749Z",
   "candidates": [
+    {
+      "id": "cand_e076269d1e216cb6a052",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9727349",
+      "title": "三大法人回補561億元！台股9月開門飆820點 聯發科亮燈還引爆哪些族群？ | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股9月由多方拔得頭籌！集中市場指數1日開高48.64點、報46,177.11點，在聯發科（2454）跳空漲停領軍下，資金火力迅速向矽光子、PCB、載板、CoWoS等電子族群擴散，推升指數一路攻高，尾盤台積電（2330）再急拉15元、收2,440元，終場集中市場指數大漲820.25點、收46,948.72點，成交值1.08兆元。三大法人合計買超561.39億元。",
+      "publishedAt": "2026-09-01T07:30:29.749Z",
+      "discoveredAt": "2026-09-01T07:30:29.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_126fa3190b043b4f8eab",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9727349?from=edn_maintab_index",
+      "title": "三大法人回補561億元！台股9月開門飆820點 聯發科亮燈還引爆哪些族群？ | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股9月由多方拔得頭籌！集中市場指數1日開高48.64點、報46,177.11點，在聯發科（2454）跳空漲停領軍下，資金火力迅速向矽光子、PCB、載板、CoWoS等電子族群擴散，推升指數一路攻高，尾盤台積電（2330）再急拉15元、收2,440元，終場集中市場指數大漲820.25點、收46,948.72點，成交值1.08兆元。三大法人合計買超561.39億元。",
+      "publishedAt": "2026-09-01T07:30:29.749Z",
+      "discoveredAt": "2026-09-01T07:30:29.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bfec2b59578e9646853d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9727410?from=edn_newest_index",
+      "title": "泰國免簽新制將上路！台灣旅客最長停留從60天縮至30天 | 國際焦點 | 國際 | 經濟日報",
+      "description": "泰國內政部8月31日在《皇家公報》刊登新公告，更新免簽證名單，將台灣在內的60個國家和地區遊客免簽停留期限從60天縮短至30天，新措施將於15日上路。",
+      "publishedAt": "2026-09-01T07:30:29.749Z",
+      "discoveredAt": "2026-09-01T07:30:29.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8af247a0f606ada46d67",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727408?from=edn_newest_index",
+      "title": "三星衝刺3D 記憶體 zHBM 效能上看增八倍、zNAND-O 拚2028年送樣 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "AI運算需求快速攀升，記憶體架構加速由平面走向垂直整合，三星電子記憶體產品規劃部門副總裁崔璋石（Jangseok Choi）於SEMICON Taiwan記憶體高峰論壇宣布，三星將以「CUBE」策略推進3D架構，涵蓋新一代zHBM及zNAND-O，分別瞄準AI資料中心與裝置端AI市場，其中，zHBM效能目標最高較HBM4E提升八倍，zNAND-O則規劃2028年推出樣品。",
+      "publishedAt": "2026-09-01T07:30:29.749Z",
+      "discoveredAt": "2026-09-01T07:30:29.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_82763ad1e04812b011b3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9727407?from=edn_newest_index",
+      "title": "台灣金聯永續驅動空間再生 獲台灣永續行動銅獎 | 房市話題 | 房市 | 經濟日報",
+      "description": "台灣金聯成立25周年並連續二年榮獲「台灣永續行動銅獎」肯定，董事長宮文萍日前接受台灣永續能源研究基金會（TAISE）頒獎，也在2026亞太永續博覽會「永續建築展區」打造主題館，將老屋新生及空間再生等議題與民眾生活軌跡緊密連結，邀請民眾體驗空間再生、都市更新等經驗，為老舊與閒置空間創造更多可能。",
+      "publishedAt": "2026-09-01T07:30:29.749Z",
+      "discoveredAt": "2026-09-01T07:30:29.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b8b84a7f5ab31fad41c3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9727405?from=edn_newest_index",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 | 基金天地 | 理財 | 經濟日報",
+      "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
+      "publishedAt": "2026-09-01T07:30:29.749Z",
+      "discoveredAt": "2026-09-01T07:30:29.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_367983e2687b67d0cd59",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9727392?from=edn_newest_index",
+      "title": "中東衝突升溫添不確定性 日經指數微幅收跌 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美伊戰爭逾1個月未見重大衝突後，兩國近日再度交火，帶來更多不確定因素，國際油價今天進一步走高，日股基準日經225指數收盤...",
+      "publishedAt": "2026-09-01T07:30:29.749Z",
+      "discoveredAt": "2026-09-01T07:30:29.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6f7eedd85f153f4ca34d",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9727253",
-      "title": "AI 缺電帶旺核電老店 西屋從破產翻身 重返股市在望 | 國際焦點 | 國際 | 經濟日報",
+      "title": "15:05 AI 缺電帶旺核電老店 西屋從破產翻身 重返股市在望",
       "description": "AI資料中心掀起用電潮，加上川普政府大力扶植核電，曾因核電廠工程嚴重超支而破產的西屋電氣，如今翻身氣勢正盛。西屋已著手籌備重返股市，美國政府更握有取得20%股權的選擇權，昔日核電業的慘痛教訓，如今正碰上AI時代的核電復興潮。",
       "publishedAt": "2026-09-01T07:14:42.935Z",
       "discoveredAt": "2026-09-01T07:14:42.935Z",
@@ -190,7 +400,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9725717?from=edn_hottest_index",
-      "title": "台指期夜盤由黑翻紅！上半場衝上46K 大關 | 期貨市場 | 期貨 | 經濟日報",
+      "title": "台指期夜盤由黑翻紅！上半場衝上46K 大關 6267",
       "description": "台指期夜盤31日以46,126點開高，盤中走勢持續震盪。截至傍晚9點40分，台指期夜盤報46,063點、漲86點、漲幅0.1%。剛開盤多空雙方較勁激烈，空頭賣壓再起最低暫達45,905點，隨後最高達46,186點，高低點震盪281點，暫時站上46K大關，並持續於附近震盪。",
       "publishedAt": "2026-09-01T07:14:42.935Z",
       "discoveredAt": "2026-09-01T07:14:42.935Z",
@@ -670,7 +880,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7609",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7637",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -730,7 +940,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9726755",
-      "title": "14:10 贈與小孩244萬內都不用申報？專家：這種一定要報",
+      "title": "15:30 贈與小孩244萬內都不用申報？專家：這種一定要報",
       "description": "每年贈與稅免稅額為244萬元，許多父母會想利用年底前，將免稅額內現金贈與給子女，但很多人有一疑問，244萬元的現金贈與，要不要申報？",
       "publishedAt": "2026-09-01T06:17:01.055Z",
       "discoveredAt": "2026-09-01T06:17:01.055Z",
@@ -744,7 +954,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4444,7 +4654,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725204?from=edn_hottest_index",
-      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 10150",
+      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 10196",
       "description": "電力供應已成為限制人工智慧（AI）資料中心快速上線的瓶頸，許多專案因此轉向可移動式的天然氣渦輪發電機，以取得所需電力，推升了渦輪機的需求。馬斯克表示，為了將發電機啟用時間縮短，SpaceX將自行生產渦輪葉片與導葉的鑄造。",
       "publishedAt": "2026-09-01T01:18:52.483Z",
       "discoveredAt": "2026-09-01T01:18:52.483Z",
@@ -4458,7 +4668,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5162,213 +5372,6 @@
       "description": "「今晨國際頭條」同步檢視華爾街日報、華盛頓郵報、金融時報、衛報、路透與美聯社首頁，挑出各家頭條新聞、重點摘要與「為何重要」。用最短閱讀時間，快速掌握國際主流媒體此刻最重視的議題。",
       "publishedAt": "2026-08-31T23:36:32.739Z",
       "discoveredAt": "2026-08-31T23:36:32.739Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_068a107523390ce4f94b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9726120",
-      "title": "07:20 美股收盤／迎戰9月魔咒 油價升息夾擊 輝達聯發科結盟逆撐費半",
-      "description": "美國股市周一收低，中東戰事再度緊張，推升油價及美債殖利率，也加深市場對通膨及聯準會（Fed）9月升息的疑慮。投資人並等待本周就業報告及9月11日公布的消費者物價，判斷Fed是否真會緊縮貨幣政策。",
-      "publishedAt": "2026-08-31T23:25:58.196Z",
-      "discoveredAt": "2026-08-31T23:25:58.196Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2f140422e33522a6af7e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9726133?from=edn_newest_index",
-      "title": "台積電ADR跌0.5% 較台北交易溢價縮至個位數 2026-09-01 07:19",
-      "description": "台積電ADR周一下跌0.5%，收在415.32美元，較台北交易溢價縮為9.4%。",
-      "publishedAt": "2026-08-31T23:25:58.196Z",
-      "discoveredAt": "2026-08-31T23:25:58.196Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f529f1863a4f935d044b",
-      "sourceLastModified": "2026-09-01T00:52:28.414Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/polimill",
-      "title": "https://openai.com/index/polimill",
-      "description": "",
-      "publishedAt": "2026-08-31T23:25:08.897Z",
-      "discoveredAt": "2026-08-31T23:25:58.196Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dc8c86cab08b129eb99a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9726120?from=edn_maintab_index",
-      "title": "美股收盤／迎戰9月魔咒 油價升息夾擊 輝達聯發科結盟逆撐費半 美國股市周一收低，中東戰事再度緊張，推升油價及美債殖利率，也加深市場對通膨及聯準會（Fed）9月升息的疑慮。投資人並等待本周就業報告及9月11日公布的消費者物價，判斷Fed是否真會緊縮貨幣政策。 ...",
-      "description": "美國股市周一收低，中東戰事再度緊張，推升油價及美債殖利率，也加深市場對通膨及聯準會（Fed）9月升息的疑慮。投資人並等待本周就業報告及9月11日公布的消費者物價，判斷Fed是否真會緊縮貨幣政策。",
-      "publishedAt": "2026-08-31T23:04:47.421Z",
-      "discoveredAt": "2026-08-31T23:04:47.421Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_26ad89fec9ffe256e7f8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9726121?from=edn_newest_index",
-      "title": "9月1日重要財經行事曆 2026-09-01 06:59",
-      "description": "台灣 立法院會 勞動部7月勞動基金運用情形 中經院發布8月製造業採購經理人PMI 除權息：統一台灣高息動能、毛寶、和康生、萬企、國票金、夆典、僑威、凌航、融程電、由田、勤凱、眾達-KY、立端、正瀚-創、宏捷科、大江、裕融 法人說明會：台富、美時、奇偶、松翰、萬泰科、佳必琪、美達科技、台新新光金 終止掛牌：三商壽 國際 南韓8月貿易收支 亞歐美8月製造業PMI 歐元區8月CPI 蘋果CEO庫克卸任 財報：戴爾 中國大陸 大陸跨境電商希音（SHEIN）港股上市 標普公布8月大陸製造業PMI",
-      "publishedAt": "2026-08-31T23:04:47.421Z",
-      "discoveredAt": "2026-08-31T23:04:47.421Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b37188883c3a2f40e8c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9726120?from=edn_newest_index",
-      "title": "美股收盤／迎戰9月魔咒 油價升息夾擊 輝達聯發科結盟逆撐費半 2026-09-01 06:54",
-      "description": "美國股市周一收低，中東戰事再度緊張，推升油價及美債殖利率，也加深市場對通膨及聯準會（Fed）9月升息的疑慮。投資人並等待本周就業報告及9月11日公布的消費者物價，判斷Fed是否真會緊縮貨幣政策。",
-      "publishedAt": "2026-08-31T22:54:11.235Z",
-      "discoveredAt": "2026-08-31T22:54:11.235Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f7897022735100620194",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726116?from=edn_newest_index",
-      "title": "【專家之眼】全球糧食危機真會到來？ 2026-09-01 06:43",
-      "description": "日前，美國金融機構摩根大通發布報告警告，在戰爭、天氣、倉儲、水資源和浪費等五大因素持續影響下，全球正面臨一場「複合式風暴」，特別是化肥短缺與超強聖嬰現象的疊加效應，全球糧食危機或於二○二七年上半年爆發；資本市場立即應聲而動，Ａ股市場的種植業大幅走強，農發種業等多股漲停，糧食ＥＴＦ全線走高，遭外界質疑有炒作之嫌。",
-      "publishedAt": "2026-08-31T22:43:44.021Z",
-      "discoveredAt": "2026-08-31T22:43:44.021Z",
       "topics": [
         "Taiwan business",
         "investment",

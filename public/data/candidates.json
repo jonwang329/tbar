@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T05:13:07.204Z",
+  "updatedAt": "2026-09-01T05:27:40.329Z",
   "candidates": [
+    {
+      "id": "cand_07bcc7d5d508791fa98f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9727041?from=edn_newest_index",
+      "title": "法國巴黎銀行財富管理：看好半導體、加碼歐洲銀行 | 市場焦點 | 證券 | 經濟日報",
+      "description": "法國巴黎銀行財富管理新聞雙周刊第207期指出，AI投資動能延續，看好半導體、加碼歐洲銀行。",
+      "publishedAt": "2026-09-01T05:27:40.329Z",
+      "discoveredAt": "2026-09-01T05:27:40.329Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d05b693d539cb8d93738",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9727036?from=edn_newest_index",
+      "title": "台股開高 個股成交前五大全數是 ETF 00403A衝第一 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股1日開高走高直逼47K大關，投資人買ETF更不手軟，盤中成交量前五大全數是ETF，包括主動統一升級50（00403A）逾42萬張排名第一，群益臺灣加權正2（00685L）逾33萬張排名第二，主動中信台灣收益（00406A）逾27萬張排名第三，元大台灣50正2（00631L）逾25萬張排名第四，主動統一台股增長（00981A）逾22萬張排名第五。",
+      "publishedAt": "2026-09-01T05:27:40.329Z",
+      "discoveredAt": "2026-09-01T05:27:40.329Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cf18a567c753383b0a38",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727035?from=edn_newest_index",
+      "title": "高鐵首組新車完成組裝展開靜態測試 拚2027年7月載客 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "台灣高鐵首組新世代列車N700ST於8月15日運抵台灣，已於燕巢總機廠完成組裝並展開靜態測試，預計11月完成，隨即將進行...",
+      "publishedAt": "2026-09-01T05:27:40.329Z",
+      "discoveredAt": "2026-09-01T05:27:40.329Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2621286f2a907830f096",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727034?from=edn_newest_index",
+      "title": "公主遊輪停止在台銷售 周永暉：今年航次未受影響 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "公主遊輪宣布在台停止銷售，對此，港務公司董事長周永暉今天說，今年航次未受影響；觀光署表示，會爭取更多郵輪業者來台。學者則...",
+      "publishedAt": "2026-09-01T05:27:40.329Z",
+      "discoveredAt": "2026-09-01T05:27:40.329Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f7ec159af4ef5d04ccae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727031?from=edn_newest_index",
+      "title": "桃高屏豪雨特報 9縣市留意大雨 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "交通部中央氣象署發布豪雨特報，低氣壓及西南風影響，易有短延時強降雨，高雄市及屏東縣今天有局部大雨或豪雨，而午後對流雲系發...",
+      "publishedAt": "2026-09-01T05:27:40.329Z",
+      "discoveredAt": "2026-09-01T05:27:40.329Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e8782c4aa60a4031ae06",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9726802",
-      "title": "遵循 Meta 賺錢模式？OpenAI 宣布廣告年化營收達10億美元里程碑 | 國際焦點 | 國際 | 經濟日報",
+      "title": "13:00 遵循 Meta 賺錢模式？OpenAI 宣布廣告年化營收達10億美元里程碑",
       "description": "OpenAI周一（8月31日）宣布，旗下廣告業務營收年化預估值已達10億美元，達到一大里程碑。",
       "publishedAt": "2026-09-01T05:13:07.204Z",
       "discoveredAt": "2026-09-01T05:13:07.204Z",
@@ -2974,7 +3124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725204?from=edn_hottest_index",
-      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 9481",
+      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 9538",
       "description": "電力供應已成為限制人工智慧（AI）資料中心快速上線的瓶頸，許多專案因此轉向可移動式的天然氣渦輪發電機，以取得所需電力，推升了渦輪機的需求。馬斯克表示，為了將發電機啟用時間縮短，SpaceX將自行生產渦輪葉片與導葉的鑄造。",
       "publishedAt": "2026-09-01T01:18:52.483Z",
       "discoveredAt": "2026-09-01T01:18:52.483Z",
@@ -3789,7 +3939,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4582,7 +4732,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 9149",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 9162",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -5216,156 +5366,6 @@
       "description": "金控股明年股息大紅包有戲。13家金控半年報31日全數出爐，上半年稅後純益4,400億元，另有3,337億元賣股利得轉入未分配盈餘；加計前期未分配盈餘與公積迴轉，法人估可分配盈餘基礎逾1.5兆元，配息量能充沛、底氣十足。",
       "publishedAt": "2026-08-31T17:46:41.027Z",
       "discoveredAt": "2026-08-31T17:46:41.027Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8c23c61ccaaffbc65b2e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9725936?from=edn_newest_index",
-      "title": "華為上半年失色 淨利潤年減逾三成 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "大陸科技巨頭華為昨（31）日發布2026年半年報，上半年營收增長但獲利承壓。報告顯示，華為上半年營收人民幣4,678億元（約新台幣2.2兆元），年增9.55%；歸屬於母公司所有者的淨利潤人民幣234億元（約新台幣1,102億元），年減36.8%。另外，上半年研發投入達人民幣1,213億元，年增25.2%，占營收25.95%，創歷史新高。",
-      "publishedAt": "2026-08-31T17:46:41.027Z",
-      "discoveredAt": "2026-08-31T17:46:41.027Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4a046453c2b6dc435581",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9725818?from=edn_newest_index",
-      "title": "凱基金掛保證 股利不掉隊 前七月 EPS 4.41元 | 金融脈動 | 金融 | 經濟日報",
-      "description": "凱基金控昨（31）日召開第2季法說會，上半年調整後每股純益（EPS）達3.96元，續創歷史同期新高，前七月更達4.41元；針對投資人最關心的股利政策，凱基金控總經理楊文鈞承諾，股利絕對不會掉隊。",
-      "publishedAt": "2026-08-31T17:35:52.150Z",
-      "discoveredAt": "2026-08-31T17:35:52.150Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aca660aee803578854f3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122377/9725827?from=edn_newest_index",
-      "title": "壽險宣告利率掀調漲潮 | 保險 | 金融 | 經濟日報",
-      "description": "隨著市場持續關注美國聯準會（Fed）後續貨幣政策，以及美國公債殖利率走勢，壽險公司9月宣告利率再掀調整潮。截至目前已公布9月最新宣告利率的業者中，合作金庫人壽將美元利變保單最高宣告利率調升至4.38%，躍居目前市場第二高，僅次於台灣人壽最高4.42%；富邦人壽則全面調升美元商品宣告利率0.05至0.1個百分點，最高來到4.35%。",
-      "publishedAt": "2026-08-31T17:35:52.150Z",
-      "discoveredAt": "2026-08-31T17:35:52.150Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0f48c33b2878935215a6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9725915?from=edn_newest_index",
-      "title": "台股 ETF 發股息新一波聚焦 八檔公告第一階段金額 檔檔飆高 | 基金天地 | 理財 | 經濟日報",
-      "description": "9月台股ETF配息戰開打，八檔台股ETF昨（31）日搶先公告第一階段配息金額，檔檔飆高，包含群益台灣精選高息（00919）、大華優利高填息30（00918）等千億元ETF；今日還將有主動統一台股增長、復華台灣科技優息、元大台灣高息低波等將陸續公告9月配息成績單，也將成為市場焦點。",
-      "publishedAt": "2026-08-31T17:35:52.150Z",
-      "discoveredAt": "2026-08-31T17:35:52.150Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f9d790fab52d6c99474e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9725821?from=edn_newest_index",
-      "title": "合庫金：現金股利將穩定成長 | 金融脈動 | 金融 | 經濟日報",
-      "description": "合庫金昨（31）日舉行法人說明會，市場聚焦股利政策，合庫表示，近三年股利皆達1元、發放率約八成，為維持穩定發放政策，未來會符合股東對現金股利穩定成長的期待。合庫金今年截至7月稅後純益160.7億元，續創歷年同期新高，年成長33.2%。",
-      "publishedAt": "2026-08-31T17:35:52.150Z",
-      "discoveredAt": "2026-08-31T17:35:52.150Z",
       "topics": [
         "Taiwan business",
         "investment",

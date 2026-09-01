@@ -1,7 +1,97 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T19:55:09.005Z",
+  "updatedAt": "2026-09-01T20:11:11.054Z",
   "candidates": [
+    {
+      "id": "cand_151bd8370945d216bc0c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9728561?from=edn_newest_index",
+      "title": "美國政府與 North American Blue Energy Partners (NABEP) 達成歷史性協議，共同發展委內瑞拉石油業 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "這項協議因委內瑞拉與美國的關係加強而達成，預計將涉及近 1000 億美元投資而商業化委內瑞拉超過 650 億桶 P1 原油儲存量 委內瑞拉加拉加斯2026年9月2日 /美通社/ -- 美國國務院、美國戰爭部與 North American Blue Energy Partners (NABEP) 達成一項大幅擴大委內瑞拉石油產量的歷史性協議。NABEP 將擁有該業務的營運控制權，而美國政府持有該公司 35% 股份，同時享有以成本價優先獲得該公司 20% 產量的權利，作為此交易的一部份。 特朗普總統於 Truth Social 宣佈這項協議是「全球史上最大石油交易」，並展示美國與委內瑞拉政府正在深化委內瑞拉石油界合作。這為委內瑞拉人民帶來就業機會和財政穩定，並為美國人帶來更低油價。 NABEP 行政總裁 Alejandro Betancourt 表示：「委內瑞拉擁有豐富天然資源、勤奮的人民，以及尚未開發的潛力。這項交易將釋放這潛力，並為委內瑞拉人與美國人帶來極大好處。我們感謝特朗普總統、魯比奧國務卿、赫格塞思部長、美國政府，並感謝羅德里格斯總統和委內瑞拉政府。他們對 NABEP 的信任，",
+      "publishedAt": "2026-09-01T20:11:11.054Z",
+      "discoveredAt": "2026-09-01T20:11:11.054Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_82221fd4e854c091356e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9728560?from=edn_newest_index",
+      "title": "Sciton 推出 Super MOXI® 開創全身肌膚煥活新時代 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "加州帕洛阿爾托2026年9月2日 /美通社/ -- 醫療及醫學美容激光與光能技術領域的先驅及領導者 Sciton Inc. 今日宣佈推出配備 High Density（HD）Delivery™ 高密度能量輸送技術的 Super MOXI®。這是其屢獲殊榮的 MOXI® 激光系統一次重大升級，為 Sciton 旗下最受信賴的激光療程之一 MOXI® 帶來更快的療程速度、更高的靈活性及更多應用可能。 Super MOXI 將 MOXI 的應用提升至全新層次。產品採用雙光束設計，療程時間最多可縮短一半，並配備功率更強的 16W 二極管，可高效處理較大面積的身體部位，為全身肌膚煥活療程開拓更多可能。Super MOXI 可於便攜式 mJOULE™ 及功能多元的 JOULE X® 平台使用，提供更廣泛的療程設定及全新 ScitonStaX™ 組合，讓醫療專業人員在療程選擇、個人化方案及業務發展方面更具彈性。 擴充後的設定涵蓋預防保養、定期維持，以至進階肌膚煥活及膚質修復等不同需要。Quick Start 預設模式可作為療程起點，而能量及密度亦可靈活調校，讓醫療專業人員根據患者的治療目標、部位及所",
+      "publishedAt": "2026-09-01T20:11:11.054Z",
+      "discoveredAt": "2026-09-01T20:11:11.054Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_94c9747187cd3d129b35",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728559?from=edn_newest_index",
+      "title": "G20科技會議 美敦促各國少干預AI規範 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國今天在北卡羅來納州一場產業巨擘與商務部長齊聚的會議上，敦促20國集團（G20）會員國對人工智慧（AI）監管採取少干預...",
+      "publishedAt": "2026-09-01T20:11:11.054Z",
+      "discoveredAt": "2026-09-01T20:11:11.054Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d13d448462eae7070a1b",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728555?from=edn_newest_index",
-      "title": "美軍反擊伊朗 川普警告德黑蘭若還手將遭受更大打擊 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美軍反擊伊朗 川普警告德黑蘭若還手將遭受更大打擊 2026-09-02 03:45",
       "description": "美伊近期再度交火，中東局勢升溫之際，美軍今天開始對伊朗境內的伊斯蘭革命衛隊（IRGC）目標發動打擊。美國總統川普也發文表...",
       "publishedAt": "2026-09-01T19:55:09.005Z",
       "discoveredAt": "2026-09-01T19:55:09.005Z",
@@ -1330,7 +1420,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1676,7 +1766,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9619",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9676",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -3114,7 +3204,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 7995",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8014",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -3624,7 +3714,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11647",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11681",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5290,96 +5380,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_84dc74ea9d3bde17bee4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9727675?from=edn_newest_index",
-      "title": "衛福部擬推長照「共生宅」 選定10處民宅各收6位長者提供24小時照護 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "隨我國進入超高齡社會，長者居住、照顧成為政策重點，衛福部擬推出「共生宅」試辦計畫，選定全台10處地處偏遠民宅為據點。衛福部長照司長祝健芳說，試辦計畫尚在研議中，且須通過專家審查會議，尚無具體實施時間表，目前規畫每處由6位長者及家屬共住，醫療團隊以居家醫療方式前往照顧，初步鎖定對象為中、重症安寧病人。",
-      "publishedAt": "2026-09-01T10:42:13.094Z",
-      "discoveredAt": "2026-09-01T10:42:13.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ae6672587bf4a947b6c1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9727648?from=edn_newest_index",
-      "title": "國旅補助地方加碼 花蓮延長住宿最高加碼7000元 台南第3晚免費 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "觀光署推動平日國旅補助今正式上路，除中央住宿折抵，地方政府與旅宿業者也同步接力加碼，包含花蓮祭出延長住宿加碼，符合條件最高可加碼7000元；台東推出第3晚住宿加碼優惠，蘭嶼、綠島提供不同加碼方案；台南則有36家合作旅宿推平日連住3晚，第3晚免費。",
-      "publishedAt": "2026-09-01T10:42:13.094Z",
-      "discoveredAt": "2026-09-01T10:42:13.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_86a67f7e2e52534165bc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9727646?from=edn_newest_index",
-      "title": "曾文水庫峽谷音樂會將登場 住限定旅宿搶半價聽好康 | 生活 | 要聞 | 經濟日報",
-      "description": "邁入第三年舉辦的曾文水庫峽谷音樂會，敲定今年11月6、7日登場，主辦的西拉雅國家風景區管理處表示，今年將邀請十鼓擊樂團、嘉義大埔和平社區大埔愛樂弦樂團、手合鐵鼓樂團演出，即日起預定限定旅宿，更有機會享半價聽音樂會好康。",
-      "publishedAt": "2026-09-01T10:42:13.094Z",
-      "discoveredAt": "2026-09-01T10:42:13.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

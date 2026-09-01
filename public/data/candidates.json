@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T22:56:21.561Z",
+  "updatedAt": "2026-09-01T23:10:58.368Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,156 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1f71f64173d3d1965865",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9728681?from=edn_newest_index",
+      "title": "美股收盤／四大指數收黑 費半挫跌2% 公債拋售、油價大漲拖累市場情緒 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市本月開局不利，四大指數周二（1日）均大幅收低，中東敵對行動升級推高油價，全球債券拋售加劇，反映市場日益預期各國央行將不得不加快升息步調，全球主權債務殖利率升至數年高位。",
+      "publishedAt": "2026-09-01T23:10:58.368Z",
+      "discoveredAt": "2026-09-01T23:10:58.368Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_502e9922e8d53d8acbe3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9728680?from=edn_newest_index",
+      "title": "00918緊扣 AI 與金融主軸展現高填息韌性 | 基金天地 | 理財 | 經濟日報",
+      "description": "大華銀投信指數量化投資部門主管暨大華優利高填息30（00918）經理人郭修誠表示，台股基本面與籌碼面同步偏多，隨著9月初國際半導體展與蘋果新品發表會登場，市場資金加速卡位旺季行情。雖然量能能否持續放大為後續觀察重點，但在科技新品升級潮與地緣、宏觀不確定性消退下，大盤多頭架構極為穩固，帶動具備高股息與高填息特性的旗艦ETF成為市場資金搶進焦點。",
+      "publishedAt": "2026-09-01T23:10:58.368Z",
+      "discoveredAt": "2026-09-01T23:10:58.368Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c3d481949426b4b7b687",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9728679?from=edn_newest_index",
+      "title": "韓股迎 AI+改革雙利多 四大核心推升中長線行情 | 基金天地 | 理財 | 經濟日報",
+      "description": "受惠全球人工智慧（AI）算力需求持續擴張，加上韓國政府加速推進企業價值提升計畫（Value-Up Program），韓國股市（KOSPI）近年展現強勁多頭韌性，在AI 記憶體超級週期與資本市場改革雙引擎驅動下，外資機構正大幅上修韓股目標價，將其視為亞太市場的重要配置首選。",
+      "publishedAt": "2026-09-01T23:10:58.368Z",
+      "discoveredAt": "2026-09-01T23:10:58.368Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_50fc285daef09b088d39",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9728678?from=edn_newest_index",
+      "title": "00994A、00728除息前 最後買進日9/17 | 基金天地 | 理財 | 經濟日報",
+      "description": "受到美債殖利率攀升與科技評價檢視影響，台股近期見高檔震盪，第一金投信分析，台股成長趨勢持續，往年選舉前一季股價震盪拉回機率高，反應政治不確定性擔憂，股價逢大跌修正反倒提供投資人回檔佈局選後行情機會。第一金投信公告兩檔台股ETF配息資訊，第一金台灣工業30（00728）每單位配息0.77元及主第一金台股優（00994A）每單位配息0.257元，都將在9月18日日進行本季除息，投資人宜把握9月17日前買進且持有即享這次配息，配息發放日訂在10月15日。",
+      "publishedAt": "2026-09-01T23:10:58.368Z",
+      "discoveredAt": "2026-09-01T23:10:58.368Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_49ebda49ee950725d346",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9728677?from=edn_newest_index",
+      "title": "00981B 月配息公告 9月18日前買進持有參與配息 | 基金天地 | 理財 | 經濟日報",
+      "description": "近一個月美債殖利率於4.6%至4.8%呈現區間波動，資金轉向具備高殖利率、低存續期特性的非投資等級券債券，以作為滿足避險需求及追求收益的替代工具。第一金優選非投債ETF（00981B）月配息公告，每單位配息0.063元，投資人宜把握9月18日前買進且持有，享這次月配權益，配息發放日訂於10月19日。",
+      "publishedAt": "2026-09-01T23:10:58.368Z",
+      "discoveredAt": "2026-09-01T23:10:58.368Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -2879,7 +3029,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10579",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10641",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -4317,7 +4467,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8221",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8241",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -4827,7 +4977,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 12517",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 12634",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5173,156 +5323,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d8490c216089aba38555",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9727890?from=edn_maintab_index",
-      "title": "整理包／卡友看過來！9張信用卡大洗牌 有的失效、有的改名換卡 相關權益一次看 國內信用卡市場再掀整併潮，中國信託、台新銀行、玉山銀行及華南銀行近期陸續調整旗下信用卡產品，共有9款信用卡受到影響，異動方式從聯名合作結束、停止發卡、更名，到換發其他卡片都有，《經濟日報》整理相關資...",
-      "description": "國內信用卡市場再掀整併潮，中國信託、台新銀行、玉山銀行及華南銀行近期陸續調整旗下信用卡產品，共有9款信用卡受到影響，異動方式從聯名合作結束、停止發卡、更名，到換發其他卡片都有，《經濟日報》整理相關資訊供讀者參考。 其中中國信託MUJI無印良品聯名卡、勤美天地聯名卡將在合作終止後停止刷卡；台新旗下Woojii卡、全家Fish悠遊聯名卡及三商美邦聯名卡則轉入Richart系列；玉山雙北市牙醫師公會會員卡與華南兩款聯名卡原則上可繼續使用至原卡效期屆滿，玉山台灣黑熊認同卡則在換發的Unicard完成開卡後，原卡即會停用。 卡友除了注意「何時不能刷」，也要確認新卡是否需要重新開卡、原有點數如何處理，以及自動扣繳、電子票證等服務是否受到影響。 ※最新消息請以各銀行官方公告為準。 台新銀行：3款卡併入Richart體系 台新銀行此次調整Woojii卡、全家Fish悠遊聯名卡及三商美邦聯名卡，三款卡陸續改名並納入「台新信用卡切換刷平台」，持卡人可透過Richart Life APP自由切換7大方案，指定通路最高享3.8%台新Point回饋。 Woojii卡 台新銀行與台新證券的Woo",
-      "publishedAt": "2026-09-01T12:17:31.300Z",
-      "discoveredAt": "2026-09-01T12:17:31.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dea1159cd464bf4a3e7a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9728072?from=edn_newest_index",
-      "title": "AFA 首屆金融科技大獎登場 台灣3家業者擠進十強角逐5大獎 | 金融脈動 | 金融 | 經濟日報",
-      "description": "亞洲金融科技聯盟（Asia FinTech Alliance，AFA）1日於台北舉辦首屆2026亞洲金融科技聯盟大獎（AFA Awards 2026）決賽暨頒獎典禮。AFA主席暨台灣金融科技協會名譽理事長蔡玉玲致詞表示，AFA希望透過16個成員經濟體共同參與，串聯亞洲各市場的金融科技創新，以「一項獎項，16個經濟體，無限可能（One Award, 16 Economies, Infinite Possibilities.）」總結AFA Awards設立初衷。",
-      "publishedAt": "2026-09-01T12:17:31.300Z",
-      "discoveredAt": "2026-09-01T12:17:31.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_82e878dafb76e4bda2e1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9728064?from=edn_newest_index",
-      "title": "今日最夯股／定穎投控股價漲停呈價漲量增格局 外資認錯轉買看見了什麼？ | 市場焦點 | 證券 | 經濟日報",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-09-01T12:17:31.300Z",
-      "discoveredAt": "2026-09-01T12:17:31.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_299d93daa427070aeb9e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9728067?from=edn_newest_index",
-      "title": "華虹擬擴大12吋晶圓產能 建設月產5.5萬片新產線 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "大陸晶圓代工廠華虹宏力1日宣布擬擴大12吋晶圓產能。陸媒報導，華虹宏力表示，公司及全資子公司上海華虹宏力，擬與無錫錫虹國芯二期、華芯鼎新、國開公司共同對無錫華虹宏力三期半導體有限公司增資，建設月產能約5.5萬片的12吋特色製程晶圓代工產線。",
-      "publishedAt": "2026-09-01T12:17:31.300Z",
-      "discoveredAt": "2026-09-01T12:17:31.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7439d8af3eadf6e63a98",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9728056?from=edn_newest_index",
-      "title": "郭紹儀連任紡拓會董事長：掌握AI為產業注入創新動能 | 產業熱點 | 產業 | 經濟日報",
-      "description": "中華民國紡織業拓展會（簡稱紡拓會）今天召開第18屆第1次董事會，推選力麗集團董事長郭紹儀連任董事長，副董事長則由集盛董事...",
-      "publishedAt": "2026-09-01T12:17:31.300Z",
-      "discoveredAt": "2026-09-01T12:17:31.300Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

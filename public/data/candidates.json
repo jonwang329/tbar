@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T21:41:22.114Z",
+  "updatedAt": "2026-09-01T21:52:44.392Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,66 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_14ab87d10cb8dce8cbb5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728598?from=edn_newest_index",
+      "title": "美邀俄財長出席G20會議 恐難爭取歐洲對伊朗施壓 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國主辦的20國集團（G20）財政部長會議因俄羅斯財長出席蒙上陰影，華府今天力求爭取夥伴支持對伊朗的制裁以及降低貿易失衡",
+      "publishedAt": "2026-09-01T21:52:44.392Z",
+      "discoveredAt": "2026-09-01T21:52:44.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_30bcb85146dc1d7683d0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9728592?from=edn_newest_index",
+      "title": "今天全台慎防強對流突襲 吳德榮：雙颱環伺不侵台 最快周日才放晴 | 生活 | 要聞 | 經濟日報",
+      "description": "今晨台南、南部已有降雨，中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，今天至周五，沙德爾颱風及科羅旺颱風在大低壓環流內，增強有限。台灣附近水氣多，時而因西南風的增強，激發強對流，應慎防其所伴隨的雷擊、強風、瞬間強降雨等劇烈天氣，以及多日累積的大量降雨而致災。",
+      "publishedAt": "2026-09-01T21:52:44.392Z",
+      "discoveredAt": "2026-09-01T21:52:44.392Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -282,7 +342,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -309,7 +369,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -336,7 +396,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -363,7 +423,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -390,7 +450,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -417,7 +477,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -444,7 +504,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -471,7 +531,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -498,7 +558,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -525,7 +585,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -552,7 +612,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -579,7 +639,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -606,7 +666,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -633,7 +693,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -660,7 +720,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -687,7 +747,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -717,7 +777,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2549,7 +2609,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10010",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 10164",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -3987,7 +4047,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8099",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 8119",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -4497,7 +4557,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11931",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 12050",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5262,66 +5322,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3ecb7385691981341db7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9727944?from=edn_maintab_index",
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 皇翔（2545）1日公告，為提高資金運用效益，於8月3日至9月1日期間處分聯發科（2454）股票共175張，每股平均處分價格4,246.95元，交易總金額約7.43億元，處分損失約1,475萬元。此...",
-      "description": "皇翔（2545）1日公告，為提高資金運用效益，於8月3日至9月1日期間處分聯發科（2454）股票共175張，每股平均處分價格4,246.95元，交易總金額約7.43億元，處分損失約1,475萬元。此次處分後，皇翔仍持有聯發科股票共83張，總金額約3.57億元，持股比例約0.003%。",
-      "publishedAt": "2026-09-01T11:45:00.780Z",
-      "discoveredAt": "2026-09-01T11:45:00.780Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8a3ae40419fce5e1c08d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726137?from=edn_newest_index",
-      "title": "川普再與九家製藥商達成藥品補助協議 百濟神州位列其中 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 川普政府已與百濟神州和太陽藥業有限公司等九家生物技術與製藥企業達成新的藥品定價協議。",
-      "publishedAt": "2026-09-01T11:45:00.780Z",
-      "discoveredAt": "2026-09-01T11:45:00.780Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

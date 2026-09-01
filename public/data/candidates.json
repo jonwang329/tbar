@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T06:37:57.750Z",
+  "updatedAt": "2026-09-01T06:57:06.170Z",
   "candidates": [
+    {
+      "id": "cand_ca87304bdb71f018c0e5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9727233",
+      "title": "中油實體會員卡新制9月1日上路！加油免帶卡、輕鬆累點 | 生活 | 要聞 | 經濟日報",
+      "description": "中油先前表示，為鼓勵民眾多使用中油Pay，自9月1日起，會員服務將以中油App「中油Pay」為主要申辦與使用方式，讓民眾免帶卡、輕鬆累點，享受更便利的會員體驗。",
+      "publishedAt": "2026-09-01T06:57:06.170Z",
+      "discoveredAt": "2026-09-01T06:57:06.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f69ebd20682012d1a573",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727297?from=edn_newest_index",
+      "title": "海象不佳 9/2往返蘭嶼綠島船班異動 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "台東客輪業者今天中午公告，因海象不佳2日中午過後台東往返綠島船班取消，台東及屏東後壁湖往返蘭嶼船班2日全部取消",
+      "publishedAt": "2026-09-01T06:57:06.170Z",
+      "discoveredAt": "2026-09-01T06:57:06.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3a2230cccad3b3d5a7b9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9727296?from=edn_newest_index",
+      "title": "微電車出租新規 須揭示投保、租借前教操作 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "交通部近日公告修正自行車租賃定型化契約應記載及不得記載事項，微型電動二輪車出租人應揭示投保強制汽車責任保險；租借前須教導...",
+      "publishedAt": "2026-09-01T06:57:06.170Z",
+      "discoveredAt": "2026-09-01T06:57:06.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_73f684b4d0ece39574dd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727293?from=edn_newest_index",
+      "title": "離岸風機8月火災 沃旭能源：初判過熱區仍待查真正原因 | 產業熱點 | 產業 | 經濟日報",
+      "description": "沃旭能源大彰化西北離岸風場8月初發生單一風機火災事故，尚未公布起火原因。沃旭能源今天表示，已初步釐清可能的過熱區域，目前...",
+      "publishedAt": "2026-09-01T06:57:06.170Z",
+      "discoveredAt": "2026-09-01T06:57:06.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fa8dc40ede482d634ead",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727292?from=edn_newest_index",
+      "title": "仲量聯行延攬前台壽資深副總黃郁琪 擔任台灣投資部主管 | 產業熱點 | 產業 | 經濟日報",
+      "description": "仲量聯行1日宣布，黃郁琪（Kristy Hwang）正式加入仲量聯行，擔任台灣投資部主管（Head of Capital Markets, JLL Taiwan），並於即日起生效。仲量聯行表示，接下來她將負責帶領台灣投資團隊，進一步強化資本市場業務發展，結合仲量聯行全球資源與在地市場專業，持續為國內外投資人提供專業的投資顧問及資本市場服務。",
+      "publishedAt": "2026-09-01T06:57:06.170Z",
+      "discoveredAt": "2026-09-01T06:57:06.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_afa543ad8819fca6d07e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9727289?from=edn_newest_index",
+      "title": "台灣璞玉永續指數表彰優質非熱門且兼具永續特色股票組合表現亮眼 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣指數公司新編台灣指數公司台灣璞玉永續指數，自上市股票，運用獲利、配息與市場交易熱度等指標進行篩選，發掘出如璞玉一般具潛藏價值的股票；再根據TIP台灣永續評鑑篩選出評級達BBB級以上且在董事會結構與運作、股東權益等議題表現較佳者，採自由流通市值加權，依序選取至多100檔成分股，以表彰兼具優質非熱門及永續特色的投資組合長期投資績效表現；台灣指數公司自2026年9月1日起發布收盤指數，同步揭示於璞玉指數專區(https://taiwanindex.com.tw/pristine)。",
+      "publishedAt": "2026-09-01T06:57:06.170Z",
+      "discoveredAt": "2026-09-01T06:57:06.170Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c458f8e1bf7825abb581",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9727234",
-      "title": "主動式 ETF 股王配息出爐 00981A 擬配發0.63元、持平新高 | 基金天地 | 理財 | 經濟日報",
+      "title": "14:33 主動式 ETF 股王配息出爐 00981A 擬配發0.63元、持平新高",
       "description": "主動式ETF股王、規模王-主動統一台股增長（00981A）最新配息出爐，根據統一投信1日公告主動統一台股增長每受益權單位擬配發0.63元，持平於上一季度，並維持新高，以今日收盤價30.37元換算，單季配息殖利率2.07%。",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9727141",
-      "title": "公主遊輪撤台震撼市場？四大旅行社：訂單照走、產品照賣 | 產業熱點 | 產業 | 經濟日報",
+      "title": "14:25 公主遊輪撤台震撼市場？四大旅行社：訂單照走、產品照賣",
       "description": "公主遊輪（Princess Cruises）宣布自8月31日起停止台灣分公司網站、社群平台及當地銷售業務，引發退出台灣市場、旅行社恐受衝擊的討論。不過，雄獅、鳳凰、五福及可樂旅遊均表示，公主遊輪疫情後早已未恢復台灣母港航線，國內旅行社目前銷售主要以Fly-Cruise（飛航郵輪）為主，仍可透過總部、海外服務窗口或其他管道訂位，既有訂單也照常出團，現階段對旅行社產品銷售及營收實質影響有限。",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -70,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9727234?from=edn_maintab_index",
-      "title": "主動式 ETF 股王配息出爐 00981A 擬配發0.63元、持平新高 | 基金天地 | 理財 | 經濟日報",
+      "title": "主動式 ETF 股王配息出爐 00981A 擬配發0.63元、持平新高 主動式ETF股王、規模王-主動統一台股增長（00981A）最新配息出爐，根據統一投信1日公告主動統一台股增長每受益權單位擬配發0.63元，持平於上一季度，並維持新高，以今日收盤價30.37元換算，單...",
       "description": "主動式ETF股王、規模王-主動統一台股增長（00981A）最新配息出爐，根據統一投信1日公告主動統一台股增長每受益權單位擬配發0.63元，持平於上一季度，並維持新高，以今日收盤價30.37元換算，單季配息殖利率2.07%。",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -100,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9727093?from=edn_maintab_index",
-      "title": "30年首見！日10年期公債殖利率觸3% 貝森特促升息、全球債市賣壓蔓延 | 國際焦點 | 國際 | 經濟日報",
+      "title": "30年首見！日10年期公債殖利率觸3% 貝森特促升息、全球債市賣壓蔓延 日本10年期公債殖利率周二盤中一度觸及3%，是1996年以來首見，也是本世紀第一次升抵此一心理關卡，稍後小幅回落至2.99%。與去年此時大約1.5%相比，殖利率在一年內已翻倍。在此之前，美國財政部...",
       "description": "日本10年期公債殖利率周二盤中一度觸及3%，是1996年以來首見，也是本世紀第一次升抵此一心理關卡，稍後小幅回落至2.99%。與去年此時大約1.5%相比，殖利率在一年內已翻倍。在此之前，美國財政部長貝森特表態，希望日本銀行（央行）更積極升息。",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -280,7 +460,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7465",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7542",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -310,7 +490,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9724822?from=edn_hottest_index",
-      "title": "3隻黑天鵝齊聚台股低檔有買盤承接 分析師：主力搶買兩族群 7157",
+      "title": "3隻黑天鵝齊聚台股低檔有買盤承接 分析師：主力搶買兩族群 7198",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -774,7 +954,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4054,7 +4234,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9725204?from=edn_hottest_index",
-      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 9935",
+      "title": "不想等了！馬斯克破解 AI 缺電就自製渦輪葉片 最快提前18個月 10042",
       "description": "電力供應已成為限制人工智慧（AI）資料中心快速上線的瓶頸，許多專案因此轉向可移動式的天然氣渦輪發電機，以取得所需電力，推升了渦輪機的需求。馬斯克表示，為了將發電機啟用時間縮短，SpaceX將自行生產渦輪葉片與導葉的鑄造。",
       "publishedAt": "2026-09-01T01:18:52.483Z",
       "discoveredAt": "2026-09-01T01:18:52.483Z",
@@ -4368,7 +4548,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5186,186 +5366,6 @@
       "description": "秋季來臨，中央氣象署發布季長期天氣展望，「報氣候 - 中央氣象署」臉書粉專表示，根據熱帶海溫和大氣環流監測資料顯示，目前熱帶中東太平洋海溫持續偏高，為聖嬰現象發展狀態，預計此狀態將持續至秋季，冬季至明年春季仍以維持聖嬰狀態的機率最高。",
       "publishedAt": "2026-08-31T21:45:55.529Z",
       "discoveredAt": "2026-08-31T21:45:55.529Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4c3d511a3264338947ac",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9726068?from=edn_newest_index",
-      "title": "未來1周慎防強對流致災雨 雙颱將接力生成 吳德榮曝對台影響 2026-09-01 05:39",
-      "description": "低壓帶影響，今晨西南部已降下大雨，中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，今天各地區皆有強對流發展的機率，以南部、東南部機率最高。北部24至33度、中部24至32度、南部24至29度、東部24至33度。",
-      "publishedAt": "2026-08-31T21:45:55.529Z",
-      "discoveredAt": "2026-08-31T21:45:55.529Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f7124bc76ab5aefcbe0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726066?from=edn_newest_index",
-      "title": "Axios：川普擬在荷莫茲海峽有限度打擊伊朗 防止重建軍力 2026-09-01 05:21",
-      "description": "美媒引述3名美國官員說法披露，美國總統川普及其高層幕僚考慮在荷莫茲海峽（Strait of Hormuz）發動有限度的軍...",
-      "publishedAt": "2026-08-31T21:24:30.940Z",
-      "discoveredAt": "2026-08-31T21:24:30.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fa3ed7a20a19cf8bae29",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9726063?from=edn_newest_index",
-      "title": "8月31日 期交所夜盤行情 2026-09-01 05:09",
-      "description": "盤後時段臺指期收在45,978點，（較開盤參考價）上漲1點。 小臺指期收在45,982點，（較開盤參考價）上漲5點。 微臺指期收在45,977點，今日收平盤。 電子期收在2,918.95點，（較開盤參考價）上漲5.8點。 半導體30指數期收在15,509點，（較開盤參考價）下跌41點。 臺灣中型100期貨收在35,953點，（較開盤參考價）上漲30點。 元大台灣50ETF期貨收在106.3點，（較開盤參考價）下跌0.05點。 元大美債20年ETF期貨收在25.78點，（較開盤參考價）下跌0.15點。 聯電期貨收在129點，（較開盤參考價）下跌1點。 台積電期貨收在2,395點，（較開盤參考價）下跌7點。 東證期貨收在4,128.75點，（較開盤參考價）下跌34.25點。 美國道瓊期貨收在53,265點，（較開盤參考價）下跌187點。 美國那斯達克100期貨收在29,547點，（較開盤參考價）上漲97點。 美國費城半導體期貨收在11,530.5點，（較開盤參考價）上漲87.5點。 英國富時100指數期貨結算在10,836點，（今日無",
-      "publishedAt": "2026-08-31T21:13:50.275Z",
-      "discoveredAt": "2026-08-31T21:13:50.275Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5741e5a4bc70b627aaef",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9726061?from=edn_newest_index",
-      "title": "YY Group正式更名為YYForce：深化人工智能、自動化與人機協同用工戰略 2026-09-01 05:00",
-      "description": "- 納斯達克股票代碼變更為「YFOR」 ，預計於2026年9月2日啟用 - 新名稱體現了公司轉型為依托自動化與人工智能(AI)技術的勞動力管理與綜合設施管理(IFM)基礎設施平台 新加坡2026年9月1日 /美通社/ -- 面向亞洲及其他市場的AI賦能勞動力管理平台與綜合設施管理(IFM)服務商YY Group Holding Limited（NASDAQ: YYGH，以下簡稱「該公司」）今天宣布，企業品牌正式更名為YYForce Inc.（以下簡稱「YYForce」），納斯達克股票代碼同步變更為「YFOR」。 YYForce’s new corporate logo and tagline, “Forging Forward Together.” 自2026年9月2日起，該公司將以「YYForce Inc.」作為企業主體名稱。本次公司名稱及股票代碼變更預計於同日在納斯達克生效。該公司A類普通股將於2026年9月2日開盤起，在納斯達克資本市場以新股票代碼「YFOR」進行交易。在此之前，該公司A類普通股仍以代碼「YYGH」進行交易。現有股東無需針對本次名稱及代碼變更采取任何操作。原YY",
-      "publishedAt": "2026-08-31T21:03:05.033Z",
-      "discoveredAt": "2026-08-31T21:03:05.033Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6149f9f7fd9d4a08c6b2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726060?from=edn_newest_index",
-      "title": "中東緊張局勢升溫 國際油價走揚 2026-09-01 05:00",
-      "description": "美國與伊朗再度交火且衝突看似仍會持續，使中東地區緊張局勢急劇升溫，國際油價今天也隨之攀漲",
-      "publishedAt": "2026-08-31T21:03:05.033Z",
-      "discoveredAt": "2026-08-31T21:03:05.033Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ef76bffa0bb4c7b27be8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9726058?from=edn_newest_index",
-      "title": "另類台灣之光 生髮生技帶領台灣外泌體邁向國際舞台 2026-09-01 04:57",
-      "description": "台灣外泌體技術可望邁向國際舞台。國防醫學大學兼任教授謝儒生博士帶領的研發團隊所開發出的Bio-Pulsed（生化脈衝）外泌體，經人體功效驗證生髮能力，並且受到國際期刊的矚目。",
-      "publishedAt": "2026-08-31T21:03:05.033Z",
-      "discoveredAt": "2026-08-31T21:03:05.033Z",
       "topics": [
         "Taiwan business",
         "investment",

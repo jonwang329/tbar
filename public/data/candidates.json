@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T08:55:14.028Z",
+  "updatedAt": "2026-09-01T09:11:42.065Z",
   "candidates": [
+    {
+      "id": "cand_be788cb4682642183149",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9727459",
+      "title": "SEMICON 引爆押寶潮！這檔半導體股大秀肌肉亮燈漲停 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "「2026 SEMICON Taiwan」2日將正式開展，吸引全球矚目，1日部分押寶買盤已先行搶買，激勵穩懋（3105）股價開高走高，近午盤即亮燈強鎖漲停，漲停價492元攀本波反彈高峰。",
+      "publishedAt": "2026-09-01T09:11:42.065Z",
+      "discoveredAt": "2026-09-01T09:11:42.065Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c029d592de49b5f476f0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9727554?from=edn_maintab_index",
+      "title": "金管會對國泰投信案開鍘了 600萬罰到頂還限業務 | 金融脈動 | 金融 | 經濟日報",
+      "description": "國泰投信案裁罰出爐。金管會認定利關人申報控管失靈，基金、全委兩項違規均按法定最高額開罰，合計600萬元並予警告；更重的是，海外基金申募、境外基金總代理等業務也將受限。",
+      "publishedAt": "2026-09-01T09:11:42.065Z",
+      "discoveredAt": "2026-09-01T09:11:42.065Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7fbcfb53f40538e41d2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727697?from=edn_newest_index",
+      "title": "鴻海、英飛凌點出台廠投資歐盟新機會：從封裝一路攻AI資料中心 | 產業熱點 | 產業 | 經濟日報",
+      "description": "歐洲晶片法案2.0將政策觸角從半導體供給端進一步延伸至需求與AI基礎建設，也替台灣供應鏈打開新機會。鴻海、英飛凌及歐洲地方政府代表今日在投資歐盟論壇指出，台灣赴歐投資的機會已不只是跟隨晶圓廠設廠，而是從先進封裝、零組件、模組、AI伺服器一路延伸至AI資料中心及AI工廠；但台廠也必須重新思考區域供應鏈，依各國人才、材料與既有生態系進行分工，而非把台灣供應鏈原封不動搬到歐洲。",
+      "publishedAt": "2026-09-01T09:11:42.065Z",
+      "discoveredAt": "2026-09-01T09:11:42.065Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1a0028c17927852920f4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5639/9727664?from=edn_newest_index",
+      "title": "權亞石材參展自動化展落幕 花崗岩技術助半導體 | 自動化產業 | 商情 | 經濟日報",
+      "description": "總部位於新竹湖口的「權亞石材」，憑藉深厚的加工底蘊成功打破傳統建材框架。面對半導體與高科技製程邁入奈米級，機台對「高精度與高穩定性」的要求日益嚴苛，權亞石材於日前落幕的台北自動化展中，展出專為高科技產業打造的天然花崗岩精密平台與結構件，成為展場備受矚目的工業基石焦點。 天然花崗岩物理優勢＋TAF權威認證 破解奈米級製程挑戰 在半導體與自動化製造領域，傳統金屬材料如鑄鐵、鋼、鋁等，易受環境潮濕生鏽、磁場干擾或溫差變形影響，難以滿足尖端需求。權亞石材洞察先機設立「精密事業部」（PIST Division），導入歷經百萬年孕育的天然花崗岩。其具備極度穩定的原子結構、極低熱膨脹係數，且擁有「不生鏽、不磁化」的天然物理優勢，能有效隔絕振動與磁場干擾，成為高階三次元量測儀（CMM）、晶圓檢測、面板光學檢測（AOI）及雷射塗佈設備的最佳物理台座。 為打造世界級精密元件，權亞石材嚴選經德國與日本原物料物性分析認證的印度（印度黑）及南非（南非淺黑）天然花崗岩，確保密度、彎曲強度與吸水率皆達業界頂級標準。 現場交流熱烈 攜手設備大廠推進奈米級量具升級 展覽期間，權亞石材展位吸引眾多來自自動化設",
+      "publishedAt": "2026-09-01T09:11:42.065Z",
+      "discoveredAt": "2026-09-01T09:11:42.065Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_18224064df6a333147f4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9727688?from=edn_newest_index",
+      "title": "Bolt 在台灣與計程車隊合作 「博特小黃」服務正式上線 | 產業熱點 | 產業 | 經濟日報",
+      "description": "歐洲行動叫車平台Bolt迎接登台一周年，持續深化在地市場布局。去年9月正式進入台灣市場以來，依據乘客與駕駛的實際需求拓展服務選擇、優化平台體驗。Bolt 1日宣布「博特小黃」服務正式上線，豐富平台叫車選擇，提供更便利、多元的日常移動體驗。",
+      "publishedAt": "2026-09-01T09:11:42.065Z",
+      "discoveredAt": "2026-09-01T09:11:42.065Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_80b6081e7f472db5b5fd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9727683?from=edn_newest_index",
+      "title": "KUKA 全球高管到訪存融，共話智能製造裝配發展與協同機遇 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "美的集團董事副總裁率KUKA全球高管團隊到訪存融，雙方圍繞智能製造裝配行業發展、全球市場趨勢進行了深入交流。 中國無錫2026年9月1日 /美通社/ -- 上周，由美的集團董事副總裁率領的KUKA集團全球高管代表團到訪存融（Centron）。代表團由 KUKA 集團總部管理層及多個國家和地區的業務負責人組成。 作為全球領先的工業機器人與自動化解決方案供應商，KUKA 此次以高規格團隊集體到訪，反映出雙方對智能製造裝配領域發展趨勢的共同關注。訪問期間，雙方圍繞行業發展、全球市場變化及未來協同機會等話題進行了深入交流。 存融方面由姐妹品牌礪星（Leetx）CEO 汪俊、存融產品線總經理歐陽素、存融業務線總經理汪馳宇及海外業務銷售總監陳敏共同接待。KUKA 高管團隊參觀了存融製造基地，實地了解其在精密塗膠、灌封與滴浸領域的產品布局與製造能力，並聽取了礪星（Leetx）在擰緊、壓裝與自動送釘等智能裝配技術領域的相關布局。 隨後的交流中，雙方結合各自的全球業務經驗，就中國市場發展節奏、海外製造需求變化、智能製造裝配行業未來走向，以及工藝裝備與機器人平台的技術演進方向，分享了觀察並交換了意見。 礪",
+      "publishedAt": "2026-09-01T09:11:42.065Z",
+      "discoveredAt": "2026-09-01T09:11:42.065Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bd4e42a3cd9e1ff03de0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9727682?from=edn_newest_index",
+      "title": "九牧引領 AI 機器人衛浴新時代 首發X80 AI 機器手智能馬桶 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "以「香港語境」重塑在地化智能衛浴新標準 香港2026年9月1日 /美通社/ -- 第十屆立秋演講「新物種爆炸•吳聲商業方法發布2026」以「我將宇宙隨身攜帶」為主題，聚焦 AI 技術與機器人應用，探討生活場景的「科技蝶變」。全球領先衛浴品牌九牧（JOMOO）作為戰略合作夥伴，於會上發布全新的「X80 AI 機器手智能馬桶」，並推出專為香港市場量身打造的在地化衛浴解決方案，正式開啟全球機器人衛浴的新時代。 衞浴品牌九牧JOMOO發布全新 X80 AI 機器手智能馬桶，並宣布針對香港市場推出專屬的在地化衞浴解決方案，正式開啟全球機器人衞浴新時代。 吳聲指出，九牧深刻洞察城市語境與日常衛浴痛點。針對香港海水沖廁易腐蝕、高層水壓不穩、居住環境密集及舊樓空間狹小等挑戰，九牧JOMOO打破傳統單一輸出標準化產品的模式，進行了大量的在地化研發。 針對香港特殊的衛浴環境，九牧JOMOO推出多項突破性技術： 雙水路海水款智能馬桶：採用清洗使用淡水、沖刷使用海水的雙水路設計，並通過香港水務署的鹽霧耐腐蝕認證。 零壓沖水與恆溫增壓：導入零壓沖水及恆溫增壓花灑技術，有效解決高層住宅水壓波動的問題。 泡沫屏障技",
+      "publishedAt": "2026-09-01T09:11:42.065Z",
+      "discoveredAt": "2026-09-01T09:11:42.065Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_a45a69ee03f9f743e21c",
       "sourceLastModified": null,
@@ -820,7 +1030,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9726755?from=edn_hottest_index",
-      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 8357",
+      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 8857",
       "description": "每年贈與稅免稅額為244萬元，許多父母會想利用年底前，將免稅額內現金贈與給子女，但很多人有一疑問，244萬元的現金贈與，要不要申報？",
       "publishedAt": "2026-09-01T07:57:11.423Z",
       "discoveredAt": "2026-09-01T07:57:11.423Z",
@@ -834,7 +1044,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1930,7 +2140,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7927",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 7977",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -5182,216 +5392,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74b8fa6a66418aabe5b3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9726340?from=edn_newest_index",
-      "title": "證交所投資知識小幫手上線 輕鬆學投資、建立正確投資觀念 | 市場焦點 | 證券 | 經濟日報",
-      "description": "為持續推動投資人教育，提供更便利、友善的學習體驗，臺灣證券交易所啟動投資人教育新品牌「證好學 TWSE Academy」，8月31日第一步率先推出智能客服「TWSE投資知識小幫手」，透過對話互動與主題導引，提供便利的投資知識查詢與學習服務，協助投資人找到想了解的資訊，進一步建立正確投資與風險管理觀念，讓投資學習更簡單。",
-      "publishedAt": "2026-09-01T01:47:42.191Z",
-      "discoveredAt": "2026-09-01T01:47:42.191Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8dfabd37e35d80aa7988",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9726331?from=edn_newest_index",
-      "title": "美參議員戴恩斯日前訪問杭州 看了中國這些科技公司 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "根據浙江省人民政府外事辦公室發布的消息，美國聯邦參議員戴恩斯（Steve Daines）、美國駐華大使龐德偉、駐上海總領事馬志安等人，8月26日至29日在中國人民外交學會副會長耿爽陪同下訪問浙江杭州，「實地感受浙江產學研深度融合、創新活力迸發的優質發展生態」。",
-      "publishedAt": "2026-09-01T01:47:42.191Z",
-      "discoveredAt": "2026-09-01T01:47:42.191Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_314726ab2347d4a2f3a1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9726329?from=edn_newest_index",
-      "title": "聚賢研發布局新能源市場 董事會決議投資酈天永續科技 | 產業熱點 | 產業 | 經濟日報",
-      "description": "聚賢研發-創（7631）董事會決議，以5,800萬元投資關係企業酈天永續科技，將持有其26.77%股權。",
-      "publishedAt": "2026-09-01T01:47:42.191Z",
-      "discoveredAt": "2026-09-01T01:47:42.191Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_da5ba77fb3040bcda78b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9726326?from=edn_newest_index",
-      "title": "紐約時報廣場爆持刀攻擊案1死1傷 犯嫌遭擊斃 | 國際焦點 | 國際 | 經濟日報",
-      "description": "遊客雲集的美國紐約時報廣場（Times Square）今天發生持刀攻擊事件，造成1人死亡，另有1人受傷，持刀的女性犯嫌隨...",
-      "publishedAt": "2026-09-01T01:47:42.191Z",
-      "discoveredAt": "2026-09-01T01:47:42.191Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d305f7353bb2308ea152",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9726288",
-      "title": "09:27 輝達砸千億投資 聯發科跳空漲停鎖死 排隊買單逾2.6萬張",
-      "description": "聯發科（2454）31日公告完成39億美元（近新台幣1,250億元）海外可轉債（ECB）訂價，引進輝達和Google母公司字母（Alphabet）兩大AI巨頭資金，其中輝達大手筆投資35億美元（約新台幣1,100億元）；聯發科1日股價跳空以漲停板4,315元開出後鎖死，排隊買單超過2.6萬張。",
-      "publishedAt": "2026-09-01T01:35:09.647Z",
-      "discoveredAt": "2026-09-01T01:35:09.647Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ad9d6285ef2353f65728",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9725506?from=edn_newest_index",
-      "title": "十年孕育有成 萬勝發科技成功登興櫃 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "萬勝發科技(Fortune Advanced)專注於高壓整合型混合訊號電源管理晶片(PMIC)，自2014年進駐經濟部產發署「智慧電子晶片發展計畫」指導之南港IC設計育成中心以來，已成功開發出多款應用於電視、顯示器、機上盒(STB)及筆記型電腦等領域的數位控制多路電源的電源管理晶片。 該晶片能大幅提升效能與降低待機功耗，為客戶提供高效、高性價比的電源解決方案。憑藉穩健的營運與技術突破，萬勝發科技於今年7月成功登錄興櫃，並連續榮獲2024亞洲金選獎「產品獎」與2025亞洲金選獎「潛力新創獎」後，持續展現卓越技術能力與市場爆發力。 今年萬勝發科技憑藉具電子保險絲PoE PSE管理器保護元件「FA7660OTR，60V 3A」，強勢入圍2026年亞洲金選獎台灣區電源管理IC最佳產品獎。產品核心優勢包括，晶片支援3.0V至60V 超寬輸入電壓，IEC61000-4-5突波耐壓極限高達±70V，針對電源線路過電流、過電壓、短路、過溫及反向電流等異常狀況，整合多重電路保護功能，以電子式電源開關取代傳統溫度保險絲。 當發生異常電流時，可透過內建MOSFET快速關閉電源路徑，在提升保護反應速度的",
-      "publishedAt": "2026-09-01T01:35:09.647Z",
-      "discoveredAt": "2026-09-01T01:35:09.647Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90284f5118654ea382f8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9726310?from=edn_newest_index",
-      "title": "習近平、普丁會晤 陸學者：中俄成為全球南方國家治理的驅動力 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "大陸國家主席習近平昨在吉爾吉斯首都比斯凱克出席上合組織峰會期間會見俄羅斯總統普丁，雙方重申戰略夥伴關係。大陸學者認為，中俄合作正在成為全球南方國家的共同力量；俄羅斯官方則稱，此次會晤主要聚焦經濟關係，俄烏戰爭僅被順帶提及。",
-      "publishedAt": "2026-09-01T01:35:09.647Z",
-      "discoveredAt": "2026-09-01T01:35:09.647Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false

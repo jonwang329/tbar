@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T19:43:54.632Z",
+  "updatedAt": "2026-09-01T19:55:09.005Z",
   "candidates": [
+    {
+      "id": "cand_d13d448462eae7070a1b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728555?from=edn_newest_index",
+      "title": "美軍反擊伊朗 川普警告德黑蘭若還手將遭受更大打擊 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美伊近期再度交火，中東局勢升溫之際，美軍今天開始對伊朗境內的伊斯蘭革命衛隊（IRGC）目標發動打擊。美國總統川普也發文表...",
+      "publishedAt": "2026-09-01T19:55:09.005Z",
+      "discoveredAt": "2026-09-01T19:55:09.005Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2af6ea7c78bacdf7433e",
       "sourceLastModified": null,
@@ -1480,7 +1510,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1646,7 +1676,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9580",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 9619",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -3084,7 +3114,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9726931?from=edn_hottest_index",
-      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 7991",
+      "title": "台股往新高挑戰 分析師看好這五族群可以買、欣興也被點名 7995",
       "description": "台股1日開高走高，一度拉升至46,903.88點，上漲775.48點，為7月從低點反彈以來的高點，投資人關注後市表現，是否可以進場布局？證券分析師強調，攻擊量已經出現，各均線呈現多頭排列，台股準備往新高挑戰，點名看好五大族群值得關注。",
       "publishedAt": "2026-09-01T13:36:54.035Z",
       "discoveredAt": "2026-09-01T13:36:54.035Z",
@@ -3594,7 +3624,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11617",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 11647",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -5350,36 +5380,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f0a4e263dd1a106efb8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9727643?from=edn_newest_index",
-      "title": "當義式餐點遇見沙茶醬 「臺味嘉年華」開席指定捐贈三公益團體 | 生活 | 要聞 | 經濟日報",
-      "description": "彰化縣埔心鄉在地企業唯賀國際餐飲集團，去年與林聰明沙鍋魚頭推出聯名餐點，創下銷售3萬3千分佳績，今年乘勝追擊舉辦「臺味嘉年華」聯名活動，十多款融合台味的義式餐點，在活動期間每賣出一分即捐出20元給三個公益社團。",
-      "publishedAt": "2026-09-01T10:42:13.094Z",
-      "discoveredAt": "2026-09-01T10:42:13.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

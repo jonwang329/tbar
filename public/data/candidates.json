@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-31T23:47:19.502Z",
+  "updatedAt": "2026-09-01T00:07:46.320Z",
   "candidates": [
+    {
+      "id": "cand_1de2b1264549f5eb920c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9726162?from=edn_newest_index",
+      "title": "Anthropic算力大進補 傳350億美元牽手Lambda 輝達幕後包下資料中心 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）在人工智慧（AI）基礎設施版圖扮演的角色愈來愈深，不只賣晶片、投資雲端業者，如今還親自承租資料中心，替AI業者取得昂貴算力鋪路。據報導Anthropic已和輝達投資的雲端業者Lambda簽署價值350億美元的雲端運算合約，背後資料中心的承租方正是輝達。",
+      "publishedAt": "2026-09-01T00:07:46.320Z",
+      "discoveredAt": "2026-09-01T00:07:46.320Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dbde9702636fa1e6463f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9726152?from=edn_newest_index",
+      "title": "尼泊爾洪災逾950死、4400人失蹤！家屬將希望寄託手機最後訊號 | 國際焦點 | 國際 | 經濟日報",
+      "description": "尼泊爾與中國大陸西藏交界的喜馬拉雅山區8月26日發生暴洪與土石流，目前兩地合計死亡人數已超過950人，另有超過4400人失蹤。愈來愈絕望的家屬把希望寄託在手機最後發出的訊號，尋找失蹤親人。",
+      "publishedAt": "2026-09-01T00:07:46.320Z",
+      "discoveredAt": "2026-09-01T00:07:46.320Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e27de523feee15b7d83a",
       "sourceLastModified": "2026-09-01",
@@ -94,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9726105",
-      "title": "美最高法院5：4准白宮宴會廳續建 川普獲重大勝利 | 國際焦點 | 國際 | 經濟日報",
+      "title": "07:40 美最高法院5：4准白宮宴會廳續建 川普獲重大勝利",
       "description": "美國最高法院今天裁定，准許美國總統川普繼續進行白宮大型宴會廳的地面工程。這項判決標誌著他第二任期關鍵計畫訴訟案的重大勝利",
       "publishedAt": "2026-08-31T23:47:19.502Z",
       "discoveredAt": "2026-08-31T23:47:19.502Z",
@@ -124,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9726149?from=edn_newest_index",
-      "title": "貝森特直接施壓了！當面告訴日本財相與央行總裁 日本該升息了 | 國際焦點 | 國際 | 經濟日報",
+      "title": "貝森特直接施壓了！當面告訴日本財相與央行總裁 日本該升息了 2026-09-01 07:43",
       "description": "日本媒體NHK引述對一名美國官員的採訪報導，美國財長貝森特向日本財務大臣片山皋月及日本銀行（BOJ，央行）總裁植田和男表示，日本的下一步應該是升息。",
       "publishedAt": "2026-08-31T23:47:19.502Z",
       "discoveredAt": "2026-08-31T23:47:19.502Z",
@@ -154,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9726147?from=edn_newest_index",
-      "title": "沙德爾復活 大陸中央氣象台再度發布颱風預警 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "沙德爾復活 大陸中央氣象台再度發布颱風預警 2026-09-01 07:40",
       "description": "新華社報導，大陸中央氣象台1日6時發布颱風藍色預警，今年第18號颱風「沙德爾」減弱後的殘餘環流發展成熱帶低壓後，1日凌晨在南海西北部海域再度加強為颱風（熱帶風暴級），大陸中央氣象台繼續維持原颱風名稱「沙德爾」和編號不變。",
       "publishedAt": "2026-08-31T23:47:19.502Z",
       "discoveredAt": "2026-08-31T23:47:19.502Z",
@@ -315,7 +375,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1078,7 +1138,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725586?from=edn_hottest_index",
-      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7754",
+      "title": "聯發科完成39億美元海外可轉債訂價 輝達、Alphabet 都出手認購 7886",
       "description": "繼聯發科（2454）董事會於今年7月31日通過彈性融資預算案，聯發科技今日宣布完成總額39億美金，超過1,200億台幣的海外可轉債訂價，為台灣資本市場至今金額最高的海外可轉債發行。此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，展現對聯發科技由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。 聯發科表示，憑藉聯發科技在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科技將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。 聯發科也與NVIDIA宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科技將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結",
       "publishedAt": "2026-08-31T18:45:18.306Z",
       "discoveredAt": "2026-08-31T18:45:18.306Z",
@@ -4670,7 +4730,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725618?from=edn_hottest_index",
-      "title": "重磅！輝達投資聯發科35億美元 深化合作 16330",
+      "title": "重磅！輝達投資聯發科35億美元 深化合作 16552",
       "description": "輝達投資聯發科35億美元，以深化雙方合作，反映輝達努力說服更多公司，打造可用於輝達資料中心生態系的晶片。",
       "publishedAt": "2026-08-31T14:14:05.429Z",
       "discoveredAt": "2026-08-31T14:14:05.429Z",
@@ -5318,66 +5378,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c71927311f3e130d1ffd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9725535",
-      "title": "21:19 今日最夯股／建準看好下半年營運 外資、自營商連四買",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-08-31T13:26:26.309Z",
-      "discoveredAt": "2026-08-31T13:26:26.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f845af55b0aa1a75df13",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9725452?from=edn_newest_index",
-      "title": "從「少吃豬油」到速食店重新用牛油 飽和脂肪為何正在翻轉百年惡名？ 2026-08-31 21:23",
-      "description": "我們常把脂肪分成「飽和」和「不飽和」，差別就在於它們的結構有沒有「雙鍵」。這種雙鍵是導致油脂變質，例如氧化、產生異味、營養下降的主因。多個雙鍵最不穩定，像植物油、魚油；一個雙鍵中等穩定，像橄欖油；沒有雙鍵最穩定，就是飽和脂肪。 為什麼穩定很重要？越多雙鍵，越容易氧化變質，這些雙鍵會被氧氣或高溫破壞，產生對健康不利的副產物，甚至變酸、發臭。某些植物油經過長時間高溫烹調或工業加工，原本的雙鍵可能會轉變為「反式脂肪」，這種脂肪已被證實對心血管有害。具有雙鍵的油還可能變得濃稠或產生其他有害物質，過度加熱會讓不飽和脂肪彼此結合或斷裂，影響油的品質與消化性。 簡單來說：飽和脂肪因為結構簡單、沒雙鍵，加熱後最穩定，變質最少。這就是為什麼像椰子油、酥油、奶油，在高溫烹調下其實比某些植物油還安全。",
-      "publishedAt": "2026-08-31T13:26:26.309Z",
-      "discoveredAt": "2026-08-31T13:26:26.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

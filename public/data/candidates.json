@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-01T12:57:21.004Z",
+  "updatedAt": "2026-09-01T13:21:10.119Z",
   "candidates": [
+    {
+      "id": "cand_adedd65e4e3e5dac826e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9727819",
+      "title": "國泰投信案 郭明鑑是背鍋嗎？金管會定調了 | 金融脈動 | 金融 | 經濟日報",
+      "description": "國泰世華銀前董事長郭明鑑到底有沒有問題？國泰投信案裁罰出爐，金管會證期局高晶萍直言，郭明鑑兼職一案，依法仍須向投信申報，郭未申報，國泰投信三道防線也全失守，才讓違規漏接八個月。",
+      "publishedAt": "2026-09-01T13:20:49.482Z",
+      "discoveredAt": "2026-09-01T13:20:49.482Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aacf88de3cad69a33712",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9728022?from=edn_maintab_index",
+      "title": "兩檔 KY 股財報出包 證交所最新處置結果出爐 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣證券交易所經形式審閱所有第一上市公司第2季財報後，1日公告永冠-KY（1589）相關上市有價證券併案停止買賣，康控-KY（4943）併案列為全額交割併採行分盤集合競價交易，自3日起開始執行。",
+      "publishedAt": "2026-09-01T13:20:49.482Z",
+      "discoveredAt": "2026-09-01T13:20:49.482Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a940e800ba5df626b6b7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9726570?from=edn_newest_index",
+      "title": "民間調查顯示中國大陸8月製造業加速成長 出口導向型企業展現韌性 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "【彭博】-- 一項私人調查顯示，中國大陸8月份工廠活動擴張幅度超過預期，表明儘管經濟整體放緩，但中國大陸出口導向型企業仍展現出韌性。",
+      "publishedAt": "2026-09-01T13:20:49.482Z",
+      "discoveredAt": "2026-09-01T13:20:49.482Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a0edacee71f285a353a6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9727911?from=edn_newest_index",
+      "title": "歐元區通膨率升至近三年新高 進一步鞏固央行升息的理由 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 歐元區通膨加速至近三年來最高水準，進一步強化了歐洲央行下周升息的理由。",
+      "publishedAt": "2026-09-01T13:20:49.482Z",
+      "discoveredAt": "2026-09-01T13:20:49.482Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5cc53abd9409bcd5792d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6721/9727915?from=edn_newest_index",
+      "title": "希音上市「生不逢時」 錯過成長巔峰的代價顯現 | 港澳話題 | 兩岸 | 經濟日報",
+      "description": "【彭博】-- 希音國際控股期待已久的上市卻趕上了一個尷尬的時點：這家快時尚零售商成長最快的時期已經過去，而關稅、監管壓力和日益激烈的競爭，正讓其下一階段的發展變得更加艱難。",
+      "publishedAt": "2026-09-01T13:20:49.482Z",
+      "discoveredAt": "2026-09-01T13:20:49.482Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_349574da162045ac7372",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9727685?from=edn_newest_index",
+      "title": "習近平展開七年來最繁忙的出訪行程 為與川普會面預熱 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "【彭博】-- 中國大陸領導人習近平正在開展七年多來最繁忙的出訪活動，其中部分目的是希望說服各國相信中國大陸比美國更能發揮全球領導作用。",
+      "publishedAt": "2026-09-01T13:20:49.482Z",
+      "discoveredAt": "2026-09-01T13:20:49.482Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3335f15c8159f6151fba",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9728174?from=edn_newest_index",
+      "title": "AFA Awards 2026首屆登場 台灣3企業挺進十強 | 金融脈動 | 金融 | 經濟日報",
+      "description": "亞洲金融科技聯盟（Asia FinTech Alliance, AFA）今於台北舉辦首屆 2026 亞洲金融科技聯盟大獎（AFA Awards 2026）決賽與頒獎典禮。AFA 主席暨台灣金融科技協會名譽理事長蔡玉玲於頒獎典禮致詞時表示，AFA 希望透過 16 個成員經濟體的共同參與，把亞洲各市場的金融科技創新真正串聯起來。她以「一項獎項，16 個經濟體，無限可能（One Award, 16 Economies, Infinite Possibilities.）」總結 AFA Awards 的設立初衷，並強調：「世界需要的不是更多孤立的理念，而是可擴展的橋樑。」",
+      "publishedAt": "2026-09-01T13:20:49.482Z",
+      "discoveredAt": "2026-09-01T13:20:49.482Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_16ba01f75e6f0f941b03",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 | 期貨市場 | 期貨 | 經濟日報",
+      "title": "20:51 台指期夜盤由紅翻黑！上半場跌破47K 大關",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5621/9727762",
-      "title": "華固又獵地！砸11.5億元買塭仔圳千坪土地、最快2028年開發 | 房市話題 | 房市 | 經濟日報",
+      "title": "20:50 華固又獵地！砸11.5億元買塭仔圳千坪土地、最快2028年開發",
       "description": "華固（2548）建設又獵地，斥資11.5億元買入塭仔圳土地。華固1日公告，向8名自然人購入新北市新莊區環漢段土地，基地面積約1,089坪，交易總金額為11.5億元，換算每坪單價約105.6萬元。華固表示，該案位於新莊塭仔圳重劃區、建國一路上，鄰近輔仁大學，預計明年底配地，最快2028年開發。",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -70,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9711573",
-      "title": "整理包／9月新制別錯過！機場服務費調整、國旅補助、銀行「沉睡帳戶」新制一次看 | 整理包 | 專題 | 經濟日報",
+      "title": "20:43 整理包／9月新制別錯過！毛孩登入計畫、中油 Pay、國道大雨降速宣導等新制一次看",
       "description": "9月有不少新制度上路，包括出國要注意機場服務費從500元提高至750元，國旅則迎來住宿補助、生日券、Taiwan PASS等優惠；此外，不孕症試管嬰兒補助也再加碼。《經濟日報》為您整理9月新制，一次掌握重要資訊。",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -100,7 +310,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_maintab_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 | 期貨市場 | 期貨 | 經濟日報",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅...",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -280,7 +490,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727008?from=edn_hottest_index",
-      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 7816",
+      "title": "緯穎每千股配發1983股 除權前股價飆漲停寫歷史新高 8113",
       "description": "",
       "publishedAt": "2026-09-01T12:57:21.004Z",
       "discoveredAt": "2026-09-01T12:57:21.004Z",
@@ -651,7 +861,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2077,7 +2287,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9727405?from=edn_hottest_index",
-      "title": "44萬股民注意！月配績效王00929最新配息出爐 10058",
+      "title": "44萬股民注意！月配績效王00929最新配息出爐 10666",
       "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以1日收盤價29.46元估算，預估年化配息率可達15.4%，延續穩定月配息節奏。以本次配息水準觀察，00929不僅持續提供現金流，今年以來亮眼的含息績效，也讓「配息＋成長」成為市場關注焦點。",
       "publishedAt": "2026-09-01T10:42:13.094Z",
       "discoveredAt": "2026-09-01T10:42:13.094Z",
@@ -2326,7 +2536,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -4052,7 +4262,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9726755?from=edn_hottest_index",
-      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 17562",
+      "title": "贈與小孩244萬內都不用申報？專家：這種一定要報 2026-09-01 11:50",
       "description": "每年贈與稅免稅額為244萬元，許多父母會想利用年底前，將免稅額內現金贈與給子女，但很多人有一疑問，244萬元的現金贈與，要不要申報？",
       "publishedAt": "2026-09-01T07:57:11.423Z",
       "discoveredAt": "2026-09-01T07:57:11.423Z",
@@ -4682,7 +4892,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9725717?from=edn_hottest_index",
-      "title": "台指期夜盤由黑翻紅！上半場衝上46K 大關 6499",
+      "title": "台指期夜盤由黑翻紅！上半場衝上46K 大關 6828",
       "description": "台指期夜盤31日以46,126點開高，盤中走勢持續震盪。截至傍晚9點40分，台指期夜盤報46,063點、漲86點、漲幅0.1%。剛開盤多空雙方較勁激烈，空頭賣壓再起最低暫達45,905點，隨後最高達46,186點，高低點震盪281點，暫時站上46K大關，並持續於附近震盪。",
       "publishedAt": "2026-09-01T07:14:42.935Z",
       "discoveredAt": "2026-09-01T07:14:42.935Z",
@@ -4696,7 +4906,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5162,7 +5372,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9725909?from=edn_hottest_index",
-      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8423",
+      "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 8469",
       "description": "",
       "publishedAt": "2026-09-01T06:37:57.750Z",
       "discoveredAt": "2026-09-01T06:37:57.750Z",
@@ -5181,216 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_134664c7e4dc4053d919",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9724822?from=edn_hottest_index",
-      "title": "3隻黑天鵝齊聚台股低檔有買盤承接 分析師：主力搶買兩族群 7198",
-      "description": "",
-      "publishedAt": "2026-09-01T06:37:57.750Z",
-      "discoveredAt": "2026-09-01T06:37:57.750Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cc3fd606f6b6f95d646e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9726755",
-      "title": "15:30 贈與小孩244萬內都不用申報？專家：這種一定要報",
-      "description": "每年贈與稅免稅額為244萬元，許多父母會想利用年底前，將免稅額內現金贈與給子女，但很多人有一疑問，244萬元的現金贈與，要不要申報？",
-      "publishedAt": "2026-09-01T06:17:01.055Z",
-      "discoveredAt": "2026-09-01T06:17:01.055Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3539548ab46dbd684d39",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9727182?from=edn_newest_index",
-      "title": "5年期公債得標利率衝上1.82% 較2月同年期大增近2碼 | 金融脈動 | 金融 | 經濟日報",
-      "description": "中央銀行1日受財政部委託標售5年期115年度甲類第8期中央政府建設公債，市場投標熱度尚可，但得標利率明顯走高，最高得標利率達1.82%，較今年2月26日發行的同年期公債最高得標利率1.3410%，大幅上升47.9個基本點，反映近期債券市場利率中樞明顯墊高。",
-      "publishedAt": "2026-09-01T06:17:01.055Z",
-      "discoveredAt": "2026-09-01T06:17:01.055Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f5c0c458528a1a8eb25",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9727172?from=edn_newest_index",
-      "title": "9月電子期金融期齊漲 | 期貨市場 | 期貨 | 經濟日報",
-      "description": "台北股市今天上漲820.25點，收46948.72點。9月電子期收3003.50點，上漲90.35點，正價差21.17點...",
-      "publishedAt": "2026-09-01T06:17:01.055Z",
-      "discoveredAt": "2026-09-01T06:17:01.055Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e21a3aa2bd695faa4879",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9727171?from=edn_newest_index",
-      "title": "吉爾吉斯喊一中 外交部籲國際正視中國脅迫利誘行徑 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "吉爾吉斯與中國發布聯合宣言重申支持一中原則。外交部今天譴責相關內容嚴重貶抑台灣主權，正告吉爾吉斯政府勿扈從中國扭曲的不實...",
-      "publishedAt": "2026-09-01T06:17:01.055Z",
-      "discoveredAt": "2026-09-01T06:17:01.055Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0e49add361ac658ae184",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9727166?from=edn_newest_index",
-      "title": "電子水泥紡織機電強勢 台股收46948點創近2個月高 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股今天上漲820.25點，收在46948.72點，創近2個月收盤新高，成交值新台幣1兆810.25億元。電子、水泥、紡...",
-      "publishedAt": "2026-09-01T06:17:01.055Z",
-      "discoveredAt": "2026-09-01T06:17:01.055Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c2917cc5ba77079308e9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9727164?from=edn_newest_index",
-      "title": "全球資金瘋搶新興市場 單周吸金22.67億美元居冠 | 市場焦點 | 證券 | 經濟日報",
-      "description": "全球資金持續輪動之下，根據EPFR統計，截至2026年8月26日止近一周，全球新興市場股票基金連續保持淨流入，吸金22.67億美元，居各類股票市場之冠。",
-      "publishedAt": "2026-09-01T06:17:01.055Z",
-      "discoveredAt": "2026-09-01T06:17:01.055Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

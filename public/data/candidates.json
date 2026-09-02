@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T06:57:18.492Z",
+  "updatedAt": "2026-09-02T07:20:16.958Z",
   "candidates": [
+    {
+      "id": "cand_13c94a7beb669a98f8d4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729891",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美伊時隔逾1個月再爆軍事衝突，加劇全球股市震盪，台股2日遭權值電子股賣壓拖累，台積電（2330）、台達電（2308）等同步走弱，集中市場指數下挫784點、跌幅1.67%，收在全日最低點46,164.72點，跌破5日線，成交值降至9,183.93億元。加計集中市場與櫃買市場，上漲709家、下跌1,127家，漲停25家、跌停0家；三大法人更聯手賣超1,150.34億元，其中外資大砍逾910億元，市場呈現「指數下挫、法人大撤退」情勢。",
+      "publishedAt": "2026-09-02T07:20:16.958Z",
+      "discoveredAt": "2026-09-02T07:20:16.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f1d63fe928d222bf9705",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729891?from=edn_maintab_index",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美伊時隔逾1個月再爆軍事衝突，加劇全球股市震盪，台股2日遭權值電子股賣壓拖累，台積電（2330）、台達電（2308）等同步走弱，集中市場指數下挫784點、跌幅1.67%，收在全日最低點46,164.72點，跌破5日線，成交值降至9,183.93億元。加計集中市場與櫃買市場，上漲709家、下跌1,127家，漲停25家、跌停0家；三大法人更聯手賣超1,150.34億元，其中外資大砍逾910億元，市場呈現「指數下挫、法人大撤退」情勢。",
+      "publishedAt": "2026-09-02T07:20:16.958Z",
+      "discoveredAt": "2026-09-02T07:20:16.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c2b7c6486f11db226be0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9729902?from=edn_newest_index",
+      "title": "雨怎麼下這麼久？屏東8月狂灌1749毫米全台最高 1個月下全年8成雨 | 生活 | 要聞 | 經濟日報",
+      "description": "受強烈西南氣流及低壓帶影響，屏東縣從8月22日降雨以來迄今超過11天，「雨怎麼下這麼久？」成為鄉親疑問，縣府水利處今表示，據氣象署統計，8月單月屏東站累積雨量達1749.5毫米，全台最高，短短一個月所下的雨就接近屏東過去一整年平均雨量8成，相當驚人。",
+      "publishedAt": "2026-09-02T07:20:16.958Z",
+      "discoveredAt": "2026-09-02T07:20:16.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b60af5966be404242a47",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9729905?from=edn_newest_index",
+      "title": "工研院高爾夫AI機奪WITSA全球大獎 揮桿、球速一機掌握 | 產業熱點 | 產業 | 經濟日報",
+      "description": "工研院研發「HoleInOne全場域複合感知一體機系統方案」，整合多模態感知與邊緣AI技術，可即時分析球速、飛行軌跡及揮桿動作，並已導入高爾夫球場驗證，並獲2026 WITSA全球AI大獎「AI與數據類」肯定，盼推動台灣運動產業由硬體製造走向數據服務。",
+      "publishedAt": "2026-09-02T07:20:16.958Z",
+      "discoveredAt": "2026-09-02T07:20:16.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5dc24cdbe5e85e130481",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729901?from=edn_newest_index",
+      "title": "大盤受國際情勢影響修正 光聖逆勢強攻漲停 | 市場焦點 | 證券 | 經濟日報",
+      "description": "今日大盤受到國際局勢影響，回檔修正，光通訊族群表現相對強勢，由光聖（6442）領頭，開盤略為震盪後便一路走高，10:30前就成功亮燈鎖死，兩大雷射代工廠商華星光（4979）、光環（3234）則分別大漲4%及5.5%，其餘個股也相對有撐。",
+      "publishedAt": "2026-09-02T07:20:16.958Z",
+      "discoveredAt": "2026-09-02T07:20:16.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1724e20f55e0df708967",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9729894?from=edn_newest_index",
+      "title": "三大法人賣超台股1150.33億元 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台股今天跌784點，收在46164.72點，成交值新台幣9183.93億元。三大法人外資及陸資、投信、自營商同步賣超，合...",
+      "publishedAt": "2026-09-02T07:20:16.958Z",
+      "discoveredAt": "2026-09-02T07:20:16.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7c9522a0ca4faf14ee5c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729891?from=edn_newest_index",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美伊時隔逾1個月再爆軍事衝突，加劇全球股市震盪，台股2日遭權值電子股賣壓拖累，台積電（2330）、台達電（2308）等同步走弱，集中市場指數下挫784點、跌幅1.67%，收在全日最低點46,164.72點，跌破5日線，成交值降至9,183.93億元。加計集中市場與櫃買市場，上漲709家、下跌1,127家，漲停25家、跌停0家；三大法人更聯手賣超1,150.34億元，其中外資大砍逾910億元，市場呈現「指數下挫、法人大撤退」情勢。",
+      "publishedAt": "2026-09-02T07:20:16.958Z",
+      "discoveredAt": "2026-09-02T07:20:16.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b2982369affddf76cccf",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9729394",
-      "title": "日銀總裁暗示9月升息 植田說會考量物價上漲風險 日圓仍堅穩在160之上 | 國際焦點 | 國際 | 經濟日報",
+      "title": "14:57 日銀總裁暗示9月升息 植田說會考量物價上漲風險 日圓仍堅穩在160之上",
       "description": "日本銀行（央行）總裁植田和男暗示本月稍晚舉行政策會議時可能會升息，表示官員在決策時將把物價上漲的風險納入考量。",
       "publishedAt": "2026-09-02T06:57:18.492Z",
       "discoveredAt": "2026-09-02T06:57:18.492Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729802?from=edn_maintab_index",
-      "title": "台股短線操作難度高 法人點名可將2類股納入投資組合 | 市場焦點 | 證券 | 經濟日報",
+      "title": "台股短線操作難度高 法人點名可將2類股納入投資組合 受中東情勢再度惡化，油價大漲，推升美國公債殖利率，且使得聯準會升息預期攀高，進而壓低美股表現，台股2日難逃下跌走勢，指數開低走低收最低，終場收在46,164.72點，下跌784點；法人坦言，短線指數...",
       "description": "受中東情勢再度惡化，油價大漲，推升美國公債殖利率，且使得聯準會升息預期攀高，進而壓低美股表現，台股2日難逃下跌走勢，指數開低走低收最低，終場收在46,164.72點，下跌784點；法人坦言，短線指數有回檔壓力，加上類股輪動快速，操作難度較高，若要因應短線波動，可在投資組合中納入兩大類股。",
       "publishedAt": "2026-09-02T06:57:18.492Z",
       "discoveredAt": "2026-09-02T06:57:18.492Z",
@@ -490,7 +700,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9728529?from=edn_hottest_index",
-      "title": "9月2日 五件財經大事搶先看 9547",
+      "title": "9月2日 五件財經大事搶先看 10097",
       "description": "",
       "publishedAt": "2026-09-02T06:42:49.207Z",
       "discoveredAt": "2026-09-02T06:42:49.207Z",
@@ -2159,7 +2369,7 @@
     },
     {
       "id": "cand_46c2b66add84406380ef",
-      "sourceLastModified": "2026-09-02T05:32:25.488Z",
+      "sourceLastModified": "2026-09-02T07:09:46.142Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -2186,7 +2396,7 @@
     },
     {
       "id": "cand_518503f93a11b5bac200",
-      "sourceLastModified": "2026-09-02T05:32:25.365Z",
+      "sourceLastModified": "2026-09-02T07:09:45.535Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -3260,7 +3470,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9728894",
-      "title": "09:50 緯穎除權每股配1.983股股票股利 早盤曾飆漲停但盤中走勢震盪",
+      "title": "15:10 史上最大除權秀！緯穎「買一張送近二張」權值高達5,185元 盤中雖漲停但收盤變貼權",
       "description": "伺服器代工大廠緯穎（6669）2日除權，每股配發1.983股股票股利，除權開盤參考價為2,615元，早盤以2,790元開高後快速衝達漲停2,875元，但盤中走勢震盪，一度小翻黑至2,590元。",
       "publishedAt": "2026-09-02T02:05:54.152Z",
       "discoveredAt": "2026-09-02T02:05:54.152Z",
@@ -3274,7 +3484,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3961,7 +4171,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4781,7 +4991,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 13297",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 13457",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -4991,7 +5201,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9728195?from=edn_hottest_index",
-      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9455",
+      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9474",
       "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
       "publishedAt": "2026-09-01T23:23:53.398Z",
       "discoveredAt": "2026-09-01T23:23:53.398Z",
@@ -5160,216 +5370,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_35c824c19eb1356a184e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728668?from=edn_newest_index",
-      "title": "澤倫斯基：俄領空將充滿烏克蘭無人機、不再安全 | 國際焦點 | 國際 | 經濟日報",
-      "description": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）今天示警各家航空公司與旅客，在俄烏交戰期間，俄羅斯領空將變得...",
-      "publishedAt": "2026-09-01T22:56:21.561Z",
-      "discoveredAt": "2026-09-01T22:56:21.561Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d32c573e9d180e3551a0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728666?from=edn_newest_index",
-      "title": "美能源部長訪問前夕 委內瑞拉國民議會准石油協議 | 國際焦點 | 國際 | 經濟日報",
-      "description": "委內瑞拉執政陣營占多數的國民議會今天通過一項石油協議，將委內瑞拉約1/5石油儲量的控制權賦予美國",
-      "publishedAt": "2026-09-01T22:56:21.561Z",
-      "discoveredAt": "2026-09-01T22:56:21.561Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aabbd6302e2ebc761420",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728559",
-      "title": "06:45 G20 科技會議 美國敦促各國「少干預」 AI 規範",
-      "description": "美國今天在北卡羅來納州一場產業巨擘與商務部長齊聚的會議上，敦促20國集團（G20）會員國對人工智慧（AI）監管採取少干預...",
-      "publishedAt": "2026-09-01T22:45:54.410Z",
-      "discoveredAt": "2026-09-01T22:45:54.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_64cbb6e1ab09c9167d43",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9728657?from=edn_newest_index",
-      "title": "復華 ETF 00710B配息創8.19%新高 9月17日除息 2026-09-02 06:35",
-      "description": "債券ETF配息再添亮點！復華彭博非投等債ETF（00710B）調整追蹤指數規則後，最新配息年化配息率達8.19%，在債券收益需求持續受到投資人關注之際，透過「提升信用品質、鎖定高票息」雙管齊下，兼顧收益潛力與風險控管。",
-      "publishedAt": "2026-09-01T22:45:54.410Z",
-      "discoveredAt": "2026-09-01T22:45:54.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e62b9ef57c6d32555a38",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9728656?from=edn_newest_index",
-      "title": "復華 ETF 00929連三個月配15% 2026-09-02 06:35",
-      "description": "高股息ETF配息再成市場焦點！復華台灣科技優息ETF（00929）最新公告每單位配息0.38元，若以8月31日收盤價29.15元估算，預估年化配息率可達15.6%，延續穩定月配息節奏。以這次配息水準觀察，00929不僅持續提供現金流，2026年以來亮眼的含息績效，也讓「配息+成長」成為市場關注焦點。",
-      "publishedAt": "2026-09-01T22:45:54.410Z",
-      "discoveredAt": "2026-09-01T22:45:54.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d491348b7e6406a1aa1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728555",
-      "title": "06:30 美軍反擊伊朗 川普警告德黑蘭若還手將遭受更大打擊",
-      "description": "美伊近期再度交火，中東局勢升溫之際，美軍今天開始對伊朗境內的伊斯蘭革命衛隊（IRGC）目標發動打擊。美國總統川普也發文表...",
-      "publishedAt": "2026-09-01T22:34:55.256Z",
-      "discoveredAt": "2026-09-01T22:34:55.256Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d6f13632391ca60eafea",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9728649?from=edn_newest_index",
-      "title": "走出郭台銘女球友緋聞陰霾！曾馨瑩「滿血復活」陪老公赴美又跑趴 2026-09-02 06:33",
-      "description": "鴻海創辦人郭台銘日前因與女球友的互動引發外界議論，妻子曾馨瑩也因此受到關注。不過，近期她接連出現在不同場合，生活步調看起來並未因此受到太大影響。她先是陪同郭台銘前往美國，出席蘋果前執行長庫克（Tim Cook）的退休派對，返台後又現身歌手張清芳60歲生日聚會，與多年好友聚首同歡。",
-      "publishedAt": "2026-09-01T22:34:55.256Z",
-      "discoveredAt": "2026-09-01T22:34:55.256Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T01:09:40.245Z",
+  "updatedAt": "2026-09-02T01:25:10.418Z",
   "candidates": [
+    {
+      "id": "cand_6841b76cc5c364d68048",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9728831",
+      "title": "台積電回測5日線！台股開低一度急跌近380點 聯發科領軍抗空 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股四大指數昨夜全面收黑，費半指數下挫逾2%，台股2日開盤下跌47.4點、報46,901.32點，隨後在台積電（2330）回測5日線領跌之下，大盤一度下挫近380點、探至46,571.84點；惟聯發科（2454）續強，並帶動南亞（1303）、緯創（3231）、台塑化（6505）、緯穎（6669）等逆勢走高，牽制空方攻勢，多空於46,500點附近激烈拉鋸。盤面上，南亞、主動統一升級50（00403A）、主動中信台灣收益（00406A）等交投熱絡。",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_860d4a8f5e9b7879a1bc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9728799",
+      "title": "輝達傳最快本周敲定收購 Hugging Face 價碼140億美元 布局開源 AI 領域 | 美股動態 | 國際 | 經濟日報",
+      "description": "根據彭博資訊報導，據知情人士透露，輝達（NVIDIA）正就收購AI新創公司Hugging Face展開進一步的談判，這筆交易的總金額可能達到約140億美元。",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_06122f719d8e0d6f251b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9728831?from=edn_maintab_index",
+      "title": "台積電回測5日線！台股開低一度急跌近380點 聯發科領軍抗空 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股四大指數昨夜全面收黑，費半指數下挫逾2%，台股2日開盤下跌47.4點、報46,901.32點，隨後在台積電（2330）回測5日線領跌之下，大盤一度下挫近380點、探至46,571.84點；惟聯發科（2454）續強，並帶動南亞（1303）、緯創（3231）、台塑化（6505）、緯穎（6669）等逆勢走高，牽制空方攻勢，多空於46,500點附近激烈拉鋸。盤面上，南亞、主動統一升級50（00403A）、主動中信台灣收益（00406A）等交投熱絡。",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_504ed2cf2b7151b460a5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728839?from=edn_newest_index",
+      "title": "美郵政當局限縮郵寄投票 吹哨者：恐作廢數千選票 | 國際焦點 | 國際 | 經濟日報",
+      "description": "一名吹哨者向美國國會爆料，美國郵政管理局（U.S. Postal Service）正推動一項限縮郵寄投票的計畫，恐導致數...",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e85a0ce52c4dfc8d4bc5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9728838?from=edn_newest_index",
+      "title": "所羅門於半導體展首度展示 FOUP 晶圓匣內全晶圓翹曲檢測技術 | 產業熱點 | 產業 | 經濟日報",
+      "description": "所羅門（2359）宣布，會於2026 SEMICON Taiwan首度展示「FOUP晶圓匣內全晶圓翹曲檢測技術」 ，全面升級晶圓廠營運智慧安全。",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d64b70991332669404d2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9728837?from=edn_newest_index",
+      "title": "核查伊朗核材料受阻 IAEA憂核擴散風險升高 | 國際焦點 | 國際 | 經濟日報",
+      "description": "國際原子能總署（IAEA）在一份機密報告中指出，「亟需解決」無法進入伊朗關鍵核設施的問題",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3ebff620f431c517afc7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9728831?from=edn_newest_index",
+      "title": "台積電回測5日線！台股開低一度急跌近380點 聯發科領軍抗空 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股四大指數昨夜全面收黑，費半指數下挫逾2%，台股2日開盤下跌47.4點、報46,901.32點，隨後在台積電（2330）回測5日線領跌之下，大盤一度下挫近380點、探至46,571.84點；惟聯發科（2454）續強，並帶動南亞（1303）、緯創（3231）、台塑化（6505）、緯穎（6669）等逆勢走高，牽制空方攻勢，多空於46,500點附近激烈拉鋸。盤面上，南亞、主動統一升級50（00403A）、主動中信台灣收益（00406A）等交投熱絡。",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3e59fb890ac5ba22e6f8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5616/9728825?from=edn_newest_index",
+      "title": "新台幣開盤貶1.7分 為31.65元 | 外匯市場 | 金融 | 經濟日報",
+      "description": "台北外匯市場新台幣兌美元匯率今天以31.65元開盤，貶1.7分",
+      "publishedAt": "2026-09-02T01:25:10.418Z",
+      "discoveredAt": "2026-09-02T01:25:10.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ffc8daea886c5e8e32b0",
       "sourceLastModified": null,
@@ -901,7 +1141,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 10143",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 10388",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -2481,7 +2721,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -4076,7 +4316,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 11110",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 11136",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -5068,246 +5308,6 @@
       "description": "今季以高山綠、動感迷彩與大地色系為主調，捕捉勇於攀越的精神。 紐約2026年9月1日 /美通社/ -- 國際領先的旅行、生活方式及配飾品牌 TUMI，今天矚目呈獻其 2026 秋冬系列及宣傳企劃。新系列從崎嶇壯麗的高山地貌中汲取靈感，氣勢非凡。本季以 TUMI 經典暢銷基礎色調袋款為基礎，而全新的 TUMI Axis 系列，為追求簡約的現代都市人帶來功能與風格兼備的日常袋款。是次宣傳企劃跟隨兩位旅人的足跡 — 長期合作的 TUMI 全球品牌大使、McLaren Mastercard Formula 1 車手 Lando Norris 與他的旅伴 — 完美演繹 TUMI 的核心理念：追求永不止步，時刻放眼更高峰。 圖中 Lando Norris 攜帶 Alpha TUMI Brief Pack 及 Alpha 雙重拉鍊可擴展四輪手提旅行箱。 2026 秋冬系列由著名導演 Valentin Florian 執導，並由攝影師 Theo Gosselin 掌鏡，遠赴蘇格蘭高地取景，營造出令人神往的壯闊氛圍。在這裏，崎嶇地勢與靜謐優雅和諧交融，映照出本季獨有的元素美學。 Lando Norris",
       "publishedAt": "2026-09-01T14:05:25.288Z",
       "discoveredAt": "2026-09-01T14:05:25.288Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_765af6716c039e925edf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9728235?from=edn_newest_index",
-      "title": "隆重推出 Jo Malone London × WildWash 狗狗洗髮露 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "倫敦2026年9月1日 /美通社/ -- 為人類最好的朋友獻上一款嶄新的護理必備品——由 Jo Malone London 與寵物護理品牌 WildWash 聯手打造的「橙香與雪松木」狗狗洗髮露 (Orange & Cedarwood Dog Shampoo)。 Jo Malone London x WildWash 這家英國香水與生活風格品牌最新推出的產品，獲得了法國鬥牛犬 Blue 的親自認可——牠先前曾與牠的狗爸爸、Cypress & Grapevine 品牌大使 Tom Hardy 一同出現在該品牌的幾部宣傳影片中。 英國寵物護理品牌 WildWash 選用最高品質的原料來製作其天然產品——這正是該品牌與 Jo Malone London 所共有的價值理念。正因如此，WildWash 已成為尋求既有效又香氣怡人產品的狗狗美容師和寵物主人的首選品牌，廣受認可且值得信賴。 每瓶 285 毫升的「橙香與雪松木」狗狗洗髮露 (Orange & Cedarwood Dog Shampoo)，瓶身均印有四種犬種之一的手繪插圖。然而，為了保留狗狗本身常帶有的驚喜感，網上購買的商品所附的具體設",
-      "publishedAt": "2026-09-01T14:05:25.288Z",
-      "discoveredAt": "2026-09-01T14:05:25.288Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d21c5faa5cf0e0d4ea22",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9728195",
-      "title": "21:39 美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨",
-      "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
-      "publishedAt": "2026-09-01T13:49:50.578Z",
-      "discoveredAt": "2026-09-01T13:49:50.578Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_66535b1bd3daf51a0879",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9728195?from=edn_maintab_index",
-      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。 道瓊工業指數早盤下跌0.5%，標普500指數跌0.6%，那斯達克指數跌1%，費城...",
-      "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
-      "publishedAt": "2026-09-01T13:49:50.578Z",
-      "discoveredAt": "2026-09-01T13:49:50.578Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e21999035225f5e6a463",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124921/9642030?from=edn_maintab_index",
-      "title": "吃到飽新勢力1／從五星飯店配角變主角！400億元 Buffet 市場為何成了餐飲集團兵家必爭？ 當一間Buffet年營收上看4億、5億元，一年可帶進超過20萬人流，全台一年打400億、500億元規模的吃到飽市場，這早已不是單純的餐飲生意，甚至成為飯店集團、百貨商場甚至連鎖餐飲業爭搶的「人流、金...",
-      "description": "當一間Buffet年營收上看4億、5億元，一年可帶進超過20萬人流，全台一年打400億、500億元規模的吃到飽市場，這早已不是單純的餐飲生意，甚至成為飯店集團、百貨商場甚至連鎖餐飲業爭搶的「人流、金流密碼」。",
-      "publishedAt": "2026-09-01T13:49:50.578Z",
-      "discoveredAt": "2026-09-01T13:49:50.578Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e2eb3672b0ae65451e1d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728206?from=edn_newest_index",
-      "title": "俄羅斯副外長稱無意攻擊北約 否認針對波羅的海國家 | 國際焦點 | 國際 | 經濟日報",
-      "description": "俄羅斯外交部副部長格魯希科1日表示，莫斯科沒有理由、計畫或必要攻擊北大西洋公約組織（NATO）國家，並特別否認針對波羅的...",
-      "publishedAt": "2026-09-01T13:49:50.578Z",
-      "discoveredAt": "2026-09-01T13:49:50.578Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_12897dfd63296b861f2a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9727419?from=edn_newest_index",
-      "title": "韓國2027年計劃發債規模接近紀錄水準 為政府擴張性財政議程籌資 | 國際焦點 | 國際 | 經濟日報",
-      "description": "隨著總統李在明推動擴張性財政議程，韓國計劃2027年發行接近紀錄水準的222.8兆韓元（1,627億美元）債券……",
-      "publishedAt": "2026-09-01T13:49:50.578Z",
-      "discoveredAt": "2026-09-01T13:49:50.578Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_17137b0a1a3eb4c6817e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9728201?from=edn_newest_index",
-      "title": "台中日曜天地 OUTLET「零碼鞋清倉會」9月4日開搶 萬雙鞋最低2折起 | 生活 | 要聞 | 經濟日報",
-      "description": "台中日曜天地OUTLET看準消費者追求高CP值的購物需求，將於9月4日至9月29日推出「零碼鞋清倉會」，集結上萬雙知名品牌鞋款限期出清，並祭出最低2折起優惠，打造換季買鞋的新省錢攻略。",
-      "publishedAt": "2026-09-01T13:49:50.578Z",
-      "discoveredAt": "2026-09-01T13:49:50.578Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7a05a1923c6a4ce7f677",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124921/9642030",
-      "title": "21:36 吃到飽新勢力1／從五星飯店配角變主角！400億元 Buffet 市場為何成了餐飲集團兵家必爭？",
-      "description": "當一間Buffet年營收上看4億、5億元，一年可帶進超過20萬人流，全台一年打400億、500億元規模的吃到飽市場，這早已不是單純的餐飲生意，甚至成為飯店集團、百貨商場甚至連鎖餐飲業爭搶的「人流、金流密碼」。",
-      "publishedAt": "2026-09-01T13:36:54.035Z",
-      "discoveredAt": "2026-09-01T13:36:54.035Z",
       "topics": [
         "Taiwan business",
         "investment",

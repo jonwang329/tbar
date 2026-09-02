@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T16:39:37.123Z",
+  "updatedAt": "2026-09-02T16:55:14.172Z",
   "candidates": [
+    {
+      "id": "cand_d3b520aaacb20ef02b15",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9730587?from=edn_newest_index",
+      "title": "光寶科、緯創 認購熱 | 權證特區 | 證券 | 經濟日報",
+      "description": "台股昨（2）日高檔賣壓湧現，呈現「量縮收跌」格局，光寶科（2301）、緯創等人工智慧（AI）供應鏈獲得短多力挺，股價強勢表態，預料後市仍有可為，發行券商建議，偏多投資人可透過權證的槓桿效果，擴大獲利空間。",
+      "publishedAt": "2026-09-02T16:55:14.172Z",
+      "discoveredAt": "2026-09-02T16:55:14.172Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d50fb5fff254f89824d1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9730588?from=edn_newest_index",
+      "title": "旺宏、華邦電 四檔靚 | 權證特區 | 證券 | 經濟日報",
+      "description": "AI需求強勁，記憶體在缺貨效應中，報價持續走揚，法人看好旺宏（2337）、華邦電等台廠營運表現，並陸續上修今年獲利，權證券商建議，可利用券商造市積極的認購權證參與相關個股走勢。",
+      "publishedAt": "2026-09-02T16:55:14.172Z",
+      "discoveredAt": "2026-09-02T16:55:14.172Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8b05db5aaaa68ae8ce8e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9730591?from=edn_newest_index",
+      "title": "友達、群創 選長天期 | 權證特區 | 證券 | 經濟日報",
+      "description": "大盤指數在高檔震盪，資金轉移至中低價股，友達（2409）及群創交易熱絡，權證發行商認為，可挑偏價外的長天期認購權證，短線操作擴大獲利空間。",
+      "publishedAt": "2026-09-02T16:55:14.172Z",
+      "discoveredAt": "2026-09-02T16:55:14.172Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f6f14e719c78771ee4e4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9730597?from=edn_newest_index",
+      "title": "台化 兩檔迎順風 | 權證特區 | 證券 | 經濟日報",
+      "description": "台化（1326）第2季受到原油供應短缺行情大漲，帶動石化塑膠產品價格上漲，稅後純益60.92億元，每股純益（EPS）為1.04元，較去年同期轉虧為盈；上半年EPS為2.11元。",
+      "publishedAt": "2026-09-02T16:55:14.172Z",
+      "discoveredAt": "2026-09-02T16:55:14.172Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a80b0cf32622f9dfbbb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9730596?from=edn_newest_index",
+      "title": "穩懋 瞄準價外20% | 權證特區 | 證券 | 經濟日報",
+      "description": "穩懋（3105）今年受惠光通與衛星應用快速增加，手機應用需求也趨於穩定，第3季本業營運預期繼續走高；明（2027）年則因非手機應用快速放量，且手機產品需求亦復甦，預估獲利為近六年新高。",
+      "publishedAt": "2026-09-02T16:55:14.172Z",
+      "discoveredAt": "2026-09-02T16:55:14.172Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e66afad8cbc08eed43f6",
       "sourceLastModified": null,
@@ -594,7 +744,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -940,7 +1090,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8556",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8817",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -1674,7 +1824,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2500,7 +2650,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730124?from=edn_hottest_index",
-      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 11948",
+      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 12111",
       "description": "因市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，特定批次產品電容器可能有問題影響，台達電2日股價重挫逾7%。台達電回應，無法評論市場傳聞及客戶合作細節。但若供應商零組件出現問題，台達電會盡力協助客戶安排換貨，確保客戶需求不受影響。",
       "publishedAt": "2026-09-02T13:04:53.455Z",
       "discoveredAt": "2026-09-02T13:04:53.455Z",
@@ -3545,7 +3695,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7584",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7620",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -4096,7 +4246,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5226,156 +5376,6 @@
       "description": "AI浪潮帶動全球半導體產業快速成長，台灣如何接住國內外大廠投資成為關鍵。行政院長卓榮泰2日出席「SEMICON Taiwan 2026國際半導體展」開幕典禮表示，政府將從土地、能源、人才、人力及金融等面向做好準備，滿足國內外大廠在台投資需求；除持續推動「晶片驅動台灣產業創新方案」（晶創台灣）、「AI新十大建設」，也將透過中小微企業轉型升級政策，強化高科技產業供應鏈。",
       "publishedAt": "2026-09-02T09:28:17.131Z",
       "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_701a3ce9e3f8933736f1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9730213?from=edn_newest_index",
-      "title": "多重資產掌握醫療、消費新商機 富邦富裕商機多重資產基金9月7日開募 | 基金天地 | 理財 | 經濟日報",
-      "description": "當全球財富持續累積，高資產族群的消費模式也正悄然轉變，從過去偏重精品、名車等高價商品，逐步轉向健康、時間與生活品質，帶動個人化醫療、健康管理、抗老照護、醫美及高端生活服務等需求升溫。富邦投信表示，面對全球產業趨勢快速變化，投資人可透過多重資產策略分散單一市場風險，並聚焦受惠全球財富成長的科技、醫療與消費三大長期趨勢。富邦富裕商機多重資產基金將於9月7日展開募集，透過跨資產、跨產業布局，掌握富裕經濟衍生的結構性投資機會。",
-      "publishedAt": "2026-09-02T09:28:17.131Z",
-      "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4b4e509bafccacb52c30",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730124",
-      "title": "20:20 台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響",
-      "description": "受到市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，公司特定批次產品電容器可能有問題影響，台達電2日盤中股價重挫。",
-      "publishedAt": "2026-09-02T09:09:57.170Z",
-      "discoveredAt": "2026-09-02T09:09:57.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90bd5febe3cc41370f78",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730124?from=edn_maintab_index",
-      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 受到市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，公司特定批次產品電容器可能有問題影響，台達電2日盤中股價重挫。 對此，台達電表示，無法評論市場傳聞及客戶合作細節。但若供應商零組件...",
-      "description": "受到市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，公司特定批次產品電容器可能有問題影響，台達電2日盤中股價重挫。",
-      "publishedAt": "2026-09-02T09:09:57.170Z",
-      "discoveredAt": "2026-09-02T09:09:57.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_75f8d45ab88718ca8469",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9730183?from=edn_newest_index",
-      "title": "無人機條例下一步？「無人載具科技創新實驗條例」可望迎來翻修？ | 政經焦點 | 要聞 | 經濟日報",
-      "description": "立法院日前終於三讀通過「無人機條例」，規劃以六年為期，編列年度預算400億元，總經費2,400億元，推動台灣無人載具及相關產業發展。下一步，外界瞄準迄今八年未修法的《無人載具科技創新實驗條例》，希望將法案翻修，與時俱進。",
-      "publishedAt": "2026-09-02T09:09:57.170Z",
-      "discoveredAt": "2026-09-02T09:09:57.170Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fdb1a08004b7d12fbd9f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9729811?from=edn_newest_index",
-      "title": "氮化鎵及碳化矽成為國防通訊及電力新引擎 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "高功率元件應用研發聯盟(下稱高功率聯盟)為持續推動第三類半導體產業技術發展，今年再度與14家會員廠商及熱像產業聯盟旗下5家廠商合作，共同參加台灣國際半導體展(SEMICON TAIWAN 2026)，於9月2日至4日在南港展覽館2館7樓(攤位編號#T9029)展出碳化矽(SiC)與氮化鎵(GaN)及熱像感測相關研發成果。 隨著電動載具、無人載具與智慧機器人等新興應用快速發展，全球科技產業正加速邁向「低空經濟」與「智慧移動」新時代。其中，無人機應用已從國防偵蒐逐步拓展至農業管理、物流運輸及基礎設施巡檢等領域。面對有限的電池容量，以及續航力、載重與散熱等要求，如何提升電能轉換與功率控制效率，已成為推動無人機性能突破的關鍵；同時，物聯網及即時資料傳輸需求持續增加，也對高頻、高效率通訊技術提出更高要求，使功率半導體與射頻通訊元件成為支撐相關新興應用發展的重要技術。 高功率聯盟本次攜手國家中山科學研究院、台灣經濟研究院、國立成功大學、台灣半導體研究中心、臻品科技、皮托科技、亞洲先創科技、長洛國際、鼎極科技、永光化學、恩萊特科技、合晶科技、鎵聯通科技和堉宸科技，以及熱像產業聯盟的安新精密科技、捷揚",
-      "publishedAt": "2026-09-02T09:09:57.170Z",
-      "discoveredAt": "2026-09-02T09:09:57.170Z",
       "topics": [
         "Taiwan business",
         "investment",

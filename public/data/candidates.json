@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T23:11:00.368Z",
+  "updatedAt": "2026-09-02T23:25:32.254Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_13e8db275a1ebdd8bb4b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9731123",
+      "title": "美股收盤／戴爾飆近16%替 AI 多頭撐腰 標普終止三連跌 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周三收高，標普500指數終止連續三日跌勢。美債殖利率停止攀升，加上企業財報強勁、股價回落後更具吸引力，吸引投資人逢低買進。戴爾（Dell）財報也為AI需求持續成長增添佐證，帶動輝達（NVIDIA）上漲。不過，美伊戰事仍推升油價，限制大盤漲勢。",
+      "publishedAt": "2026-09-02T23:25:32.254Z",
+      "discoveredAt": "2026-09-02T23:25:32.254Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a9abbba2bcdb6157dc9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9731129?from=edn_newest_index",
+      "title": "台積電ADR漲0.4% 台指期漲171點 | 美股動態 | 國際 | 經濟日報",
+      "description": "台積電ADR周三上漲0.4%，收在415.50美元，較台北交易溢價10.6%。",
+      "publishedAt": "2026-09-02T23:25:32.254Z",
+      "discoveredAt": "2026-09-02T23:25:32.254Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a0492ced94d75f992985",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9731127?from=edn_newest_index",
+      "title": "義大利威尼托區通過安樂死法案 創右派轄區先例 | 國際焦點 | 國際 | 經濟日報",
+      "description": "義大利北部威尼托大區（Veneto）今天通過安樂死法案，此法案規範「醫療協助終結生命」的程序與框架，威尼托成為全義首個右...",
+      "publishedAt": "2026-09-02T23:25:32.254Z",
+      "discoveredAt": "2026-09-02T23:25:32.254Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_c9ddb1cf684fc213edb5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9731123?from=edn_maintab_index",
-      "title": "美股收盤／戴爾飆近16%替 AI 多頭撐腰 標普終止三連跌 | 美股動態 | 國際 | 經濟日報",
+      "title": "美股收盤／戴爾飆近16%替 AI 多頭撐腰 標普終止三連跌 美國股市周三收高，標普500指數終止連續三日跌勢。美債殖利率停止攀升，加上企業財報強勁、股價回落後更具吸引力，吸引投資人逢低買進。戴爾（Dell）財報也為AI需求持續成長增添佐證，帶動輝達（NV...",
       "description": "美國股市周三收高，標普500指數終止連續三日跌勢。美債殖利率停止攀升，加上企業財報強勁、股價回落後更具吸引力，吸引投資人逢低買進。戴爾（Dell）財報也為AI需求持續成長增添佐證，帶動輝達（NVIDIA）上漲。不過，美伊戰事仍推升油價，限制大盤漲勢。",
       "publishedAt": "2026-09-02T23:11:00.368Z",
       "discoveredAt": "2026-09-02T23:11:00.368Z",
@@ -255,7 +345,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -285,7 +375,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1224,7 +1314,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729891?from=edn_hottest_index",
-      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4830",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4852",
       "description": "",
       "publishedAt": "2026-09-02T18:31:29.974Z",
       "discoveredAt": "2026-09-02T18:31:29.974Z",
@@ -3195,7 +3285,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 11156",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 11370",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -3645,7 +3735,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 9477",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 9741",
       "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
       "publishedAt": "2026-09-02T14:28:45.565Z",
       "discoveredAt": "2026-09-02T14:28:45.565Z",
@@ -5272,96 +5362,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7700c082e6a399be457c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730358",
-      "title": "19:57 鴻海董座劉揚偉：AI 來臨 Made in Taiwan 將轉變成 Made with Taiwan",
-      "description": "鴻海（2317）董事長劉揚偉2日出席「半導體大師論壇」時表示，「這波人工智慧（AI） 浪潮來勢極其兇猛巨大，整個供應鏈都承受著前所未有的擴張壓力，全球供應鏈也跟著發生轉變，過去我們習慣思考『Made in Taiwan』（台灣製造），現在我們必須轉向思考『Made with Taiwan』（與台灣攜手製造）——結合台灣的核心實力，與當地市場的國家共同合作製造」。",
-      "publishedAt": "2026-09-02T12:06:35.260Z",
-      "discoveredAt": "2026-09-02T12:06:35.260Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9d0aee7bab0cade980e4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9730530?from=edn_newest_index",
-      "title": "國銀五大信賴放款要破5兆了！7月暴增逾3,000億元 近八成增量非行庫 | 金融脈動 | 金融 | 經濟日報",
-      "description": "據金管會統計，7月底國銀五大信賴產業放款餘額達4兆9,513億元，7月單月暴增3,061億元、首破3,000億元，寫上路以來單月最大增額，最快8月可望突破5兆元，目前以軍工、AI及安控需求最旺。",
-      "publishedAt": "2026-09-02T12:06:35.260Z",
-      "discoveredAt": "2026-09-02T12:06:35.260Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c017a4fa76dcaf1701f3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9730509?from=edn_newest_index",
-      "title": "公司明明很需要你，為何升遷卻沒有你？職場最怕「有用卻沒位置」 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "勞動部2026年公布的調查顯示，在對工作不滿意的勞工中，有75.5％最不滿「人事考核升遷制度」，高居第一。女性在職場上因性別感受到不平等待遇，則以「工作分配」與「調薪幅度」最高，兩者皆為2.5％；2025年台灣女性平均時薪，也仍比男性低16.1％。 一千多年前的武則天，也碰到了類似的問題。十四歲進宮，事情做得好，靠著自己的工作能力在宮中安穩待了十二年，卻始終只是五品才人。她一直很有用，卻沒有因此得到更好的位置。直到唐太宗過世，她才發現，這十二年的安穩，並沒有替自己留下一條路。 你現在待的地方，是能讓你繼續往前走的舞台，還是只是讓你安穩待著，最後才發現走不出去的「感業寺」？作家吳淡如在《武則天攻略》中提到，武則天在唐太宗身邊待了十二年，她不是不夠能幹，只是十二年過去，她依舊沒有等到一個更好的位置。",
-      "publishedAt": "2026-09-02T12:06:35.260Z",
-      "discoveredAt": "2026-09-02T12:06:35.260Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

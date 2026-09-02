@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T21:12:53.972Z",
+  "updatedAt": "2026-09-02T21:27:12.093Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_c23ae8236fa622b7c11d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9731060?from=edn_newest_index",
+      "title": "連跌後吸引逢低買氣 美股收高 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市今天收盤上漲，將過去連續3個交易日的跌勢局部收復。投資人尋找在近期避險氣氛下可能超賣的股票和類股，來逢低進場布局",
+      "publishedAt": "2026-09-02T21:27:12.093Z",
+      "discoveredAt": "2026-09-02T21:27:12.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1a6399a79e20fb1f2d80",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9731058?from=edn_newest_index",
+      "title": "國3南下龍潭路段清晨3車連環撞 占用內中線車道無回堵 | 生活 | 要聞 | 經濟日報",
+      "description": "根據警廣即時路況，今天清晨4時57分，在國道3號南下69.5K過龍潭，發生3車追撞事故，占用內線和中線車道。無回堵，用路人行經該路段小心駕駛。",
+      "publishedAt": "2026-09-02T21:27:12.093Z",
+      "discoveredAt": "2026-09-02T21:27:12.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_da3c887bd4e708af4f00",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9731057?from=edn_newest_index",
+      "title": "9月2日 期交所夜盤行情 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "盤後時段臺指期收在46,336點，（較開盤參考價）上漲171點。 小臺指期收在46,324點，（較開盤參考價）上漲159點。 微臺指期收在46,325點，（較開盤參考價）上漲160點。 電子期收在2,939.5點，（較開盤參考價）上漲11.9點。 半導體30指數期收在15,800點，（較開盤參考價）上漲23點。 臺灣中型100期貨收在36,299點，（較開盤參考價）上漲212點。 元大台灣50ETF期貨收在107.25點，（較開盤參考價）上漲0.35點。 元大美債20年ETF期貨收在25.75點，（較開盤參考價）上漲0.08點。 聯電期貨收在128點，（較開盤參考價）上漲2點。 台積電期貨收在2,405點，（較開盤參考價）上漲11點。 東證期貨收在4,108.5點，（較開盤參考價）上漲22.75點。 美國道瓊期貨收在53,160點，（較開盤參考價）上漲305點。 美國那斯達克100期貨收在29,184點，（較開盤參考價）上漲80點。 美國費城半導體期貨收在11,200點，（較開盤參考價）下跌33.5點。 英國富時100指數期貨收在",
+      "publishedAt": "2026-09-02T21:27:12.093Z",
+      "discoveredAt": "2026-09-02T21:27:12.093Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_e983883191bdf100e41d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +184,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5638/9729883?from=edn_newest_index",
-      "title": "中悦建設機構 前瞻佈局 完美鐫刻新莊副都心理想聚落 | 房市情報 | 商情 | 經濟日報",
+      "title": "中悦建設機構 前瞻佈局 完美鐫刻新莊副都心理想聚落 2026-09-03 05:18",
       "description": "一座偉大的城市，商業賦予其繁華，而文化則決定其高度。縱觀全球頂尖都會，紐約第五大道的價值，因大都會美術館（The Met）與 MOMA 而深厚；東京六本木的魅力，來自 Tokyo Midtown 與 21_21 DESIGN SIGHT 藝術交會的質感。當商業繁榮發展至極致，唯有無法複製的國家級人文藝術底蘊，才是企業總部名揚國際的最尊榮名片。 【相映國家文藝殿堂・企業風格地標】 【中悦。栢TOWER】坐落於新莊副都心最珍貴的文化核心首排。窗前即是「國家電影及視聽文化中心」，與「文化部」所在的行政院聯合辦公大樓相鄰。這裡不只是政經決策的交會點，更是雙北最具藝術氣場與國際水準的首都人文水岸地標。 【名企匯聚・藝術與科技的完美對話】 深厚的人文底蘊，已吸引諸多跨國藝術、創新科技與數位資訊巨擘搶先卡位——包括國際藝術拍賣巨擘、潮流玩具推手、公仔博物館等文創指標企業指名進駐。連同周邊的中悦IFC、松TOWER、栢TOWER、寰宇一號等商辦群落，更有大亞集團、勤誠興業、崇越電通、互動資通、404科技、居家先生、騰勢TSA…等知名科技龍頭、新創企業進駐；這裡不僅是高效率辦公空間，更是思想碰撞、",
       "publishedAt": "2026-09-02T21:12:53.972Z",
       "discoveredAt": "2026-09-02T21:12:53.972Z",
@@ -124,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9731053?from=edn_newest_index",
-      "title": "今明強對流突襲 吳德榮：雙颱滯留打轉忽而變向 南部下周擺脫多雨天氣 | 生活 | 要聞 | 經濟日報",
+      "title": "今明強對流突襲 吳德榮：雙颱滯留打轉忽而變向 南部下周擺脫多雨天氣 2026-09-03 05:09",
       "description": "今晨南部及東半部已有明顯降雨，中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，今明兩天沙德爾颱風及科羅旺颱風無直接影響，但台灣附近水氣多，時而有強對流發展，應慎防其所伴隨的雷擊、強風、瞬間強降雨。北部25至32度、中部24至33度、南部25至33度、東部24至32度。",
       "publishedAt": "2026-09-02T21:12:53.972Z",
       "discoveredAt": "2026-09-02T21:12:53.972Z",
@@ -807,7 +897,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729891?from=edn_hottest_index",
-      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4755",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4760",
       "description": "",
       "publishedAt": "2026-09-02T18:31:29.974Z",
       "discoveredAt": "2026-09-02T18:31:29.974Z",
@@ -981,7 +1071,7 @@
     },
     {
       "id": "cand_e5086d2128376ecc58b0",
-      "sourceLastModified": "2026-09-02T21:03:25.606Z",
+      "sourceLastModified": "2026-09-02T21:15:34.610Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -2778,7 +2868,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 10441",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 10480",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -3228,7 +3318,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 8388",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 8442",
       "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
       "publishedAt": "2026-09-02T14:28:45.565Z",
       "discoveredAt": "2026-09-02T14:28:45.565Z",
@@ -5259,96 +5349,6 @@
       "url": "https://money.udn.com/money/story/5599/9730236",
       "title": "19:22 特納斯接掌蘋果王國挑戰多艱鉅？這些數字一目瞭然",
       "description": "蘋果公司新執行長特納斯1日上任，在社群媒體平台X上說一聲「哈囉」，立刻吸引30萬粉絲，但這主要是接收前兩任執行長的光環。賈伯斯創立的電子裝置公司定義了過去40年的電腦使用方式，繼任的庫克憑供應鏈長才加以發揚光大。",
-      "publishedAt": "2026-09-02T11:36:20.964Z",
-      "discoveredAt": "2026-09-02T11:36:20.964Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_12cb2b4fc025b9cd1651",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730489?from=edn_newest_index",
-      "title": "陽明海運與韓華海洋簽署13,000 TEU 級 LNG 新船建造合約 | 產業熱點 | 產業 | 經濟日報",
-      "description": "陽明海運（2609）與韓國韓華海洋公司（下稱「韓華海洋」）2日於陽明海運重慶大樓正式簽署6艘13,000 TEU級LNG雙燃料全貨櫃輪建造合約，由陽明海運蔡豐明董事長及韓華海洋金熙喆（Mr. Charles Kim）執行長代表簽署。",
-      "publishedAt": "2026-09-02T11:36:20.964Z",
-      "discoveredAt": "2026-09-02T11:36:20.964Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4af563000dffcd7aae33",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9730239?from=edn_newest_index",
-      "title": "全球債券價格下挫 但跌勢遠不及2022年劇烈 | 國際焦點 | 國際 | 經濟日報",
-      "description": "全球債券市場當前這波拋售看起來劇烈，但與四年前相比並不算什麼……",
-      "publishedAt": "2026-09-02T11:36:20.964Z",
-      "discoveredAt": "2026-09-02T11:36:20.964Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_db7187705fed2a26fd42",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9730482?from=edn_newest_index",
-      "title": "外資賣超913億 調節統一台股增長主動式ETF居冠 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股今天下挫784點，外資賣超新台幣913.54億元，其中主動統一台股增長賣超5萬967張最多，聯電4萬5119張居次、...",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
       "topics": [

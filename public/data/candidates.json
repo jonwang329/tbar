@@ -1,7 +1,94 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T00:55:18.425Z",
+  "updatedAt": "2026-09-02T01:09:40.245Z",
   "candidates": [
+    {
+      "id": "cand_ffc8daea886c5e8e32b0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9728801?from=edn_newest_index",
+      "title": "嘉市新興蛋黃區房市站上5字頭 台積電華泰名品城進駐嘉縣利多 | 房市話題 | 房市 | 經濟日報",
+      "description": "股市搭上半導體科技產業熱潮走高，市場資金大量湧向科技股，房市面臨資金排擠效應，交易熱度不如過去。不過，嘉市房市卻逆勢上漲，受惠毗鄰嘉縣嘉科園區台積電先進封裝廠、高鐵特區華泰名品城等重大投資，市中心新建案房價最高站上每坪5字頭，「新蛋黃區」輪廓逐漸成形。",
+      "publishedAt": "2026-09-02T01:09:40.245Z",
+      "discoveredAt": "2026-09-02T01:09:40.245Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_752dfdd3d04e9fdc5666",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9728799?from=edn_newest_index",
+      "title": "輝達傳最快本周敲定收購Hugging Face 價碼140億美元 布局開源AI領域 | 美股動態 | 國際 | 經濟日報",
+      "description": "根據彭博資訊報導，據知情人士透露，輝達（NVIDIA）正就收購AI新創公司Hugging Face展開進一步的談判，這筆交易的總金額可能達到約140億美元。",
+      "publishedAt": "2026-09-02T01:09:40.245Z",
+      "discoveredAt": "2026-09-02T01:09:40.245Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bda32a3263f7eea86fdb",
+      "sourceLastModified": "2026-09-02T01:01:16.525Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "title": "https://openai.com/index/gilbert-tobin",
+      "description": "",
+      "publishedAt": "2026-09-02T01:01:16.525Z",
+      "discoveredAt": "2026-09-02T01:09:40.245Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d277cb05d54b2dec87df",
       "sourceLastModified": null,
@@ -10,7 +97,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728758",
-      "title": "戴爾財測大驚喜 台日陸伺服器供應鏈可望沾光 仁寶等受惠股一次看 | 國際焦點 | 國際 | 經濟日報",
+      "title": "08:45 戴爾財測大驚喜 台日陸伺服器供應鏈可望沾光 仁寶等受惠股一次看",
       "description": "戴爾科技（Dell Technologies）宣布，將全年營收預測大幅調高250億美元，再度印證AI伺服器需求正以驚人速度成長。受此利多消息激勵，亞洲電腦、伺服器及零組件相關股票可能跟進上揚。",
       "publishedAt": "2026-09-02T00:55:18.425Z",
       "discoveredAt": "2026-09-02T00:55:18.425Z",
@@ -40,7 +127,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728758?from=edn_maintab_index",
-      "title": "戴爾財測大驚喜 台日陸伺服器供應鏈可望沾光 仁寶等受惠股一次看 | 國際焦點 | 國際 | 經濟日報",
+      "title": "戴爾財測大驚喜 台日陸伺服器供應鏈可望沾光 仁寶等受惠股一次看 戴爾科技（Dell Technologies）宣布，將全年營收預測大幅調高250億美元，再度印證AI伺服器需求正以驚人速度成長。受此利多消息激勵，亞洲電腦、伺服器及零組件相關股票可能跟進上揚。 根...",
       "description": "戴爾科技（Dell Technologies）宣布，將全年營收預測大幅調高250億美元，再度印證AI伺服器需求正以驚人速度成長。受此利多消息激勵，亞洲電腦、伺服器及零組件相關股票可能跟進上揚。",
       "publishedAt": "2026-09-02T00:55:18.425Z",
       "discoveredAt": "2026-09-02T00:55:18.425Z",
@@ -70,7 +157,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728791?from=edn_newest_index",
-      "title": "時報廣場隨機砍人死者曝！美國銀行32歲副總裁 產假復工首日中刀身亡 | 國際焦點 | 國際 | 經濟日報",
+      "title": "時報廣場隨機砍人死者曝！美國銀行32歲副總裁 產假復工首日中刀身亡 2026-09-02 08:55",
       "description": "美國紐約時報廣場8月31日下午發生隨機砍人，49歲凶嫌在人來人往的鬧區接連刺傷2名路人，造成1死1傷。死者身份曝光是美國銀行副總裁皮亞琴蒂，因腹部中刀身亡。年僅32歲的她5個月前才生下女兒，剛結束產假、復工第一天下班回家途中遭逢橫禍。",
       "publishedAt": "2026-09-02T00:55:18.425Z",
       "discoveredAt": "2026-09-02T00:55:18.425Z",
@@ -100,7 +187,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728790?from=edn_newest_index",
-      "title": "日經：關切中美關係走向 高市爭取早一步會晤川普 | 國際焦點 | 國際 | 經濟日報",
+      "title": "日經：關切中美關係走向 高市爭取早一步會晤川普 2026-09-02 08:54",
       "description": "美國與中國即將舉行峰會，鑒於美中關係牽動日本國安與經濟政策，日本首相高市早苗傳正爭取在美中峰會前，於未來幾個月的國際場合...",
       "publishedAt": "2026-09-02T00:55:18.425Z",
       "discoveredAt": "2026-09-02T00:55:18.425Z",
@@ -130,7 +217,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9728783?from=edn_newest_index",
-      "title": "澤倫斯基警告烏無人機將關閉俄領空 普丁：不與恐怖分子談判 | 國際焦點 | 國際 | 經濟日報",
+      "title": "澤倫斯基警告烏無人機將關閉俄領空 普丁：不與恐怖分子談判 2026-09-02 08:47",
       "description": "烏克蘭總統澤倫斯基（Volodymyr Zelenskiy）1日警告航空公司和保險公司，烏克蘭無人機出沒已使俄羅斯天空變得危險、不宜使用，領空實際上也正逐漸關閉。對此，俄羅斯總統普丁回應，不可能「與恐怖分子談判」。",
       "publishedAt": "2026-09-02T00:55:18.425Z",
       "discoveredAt": "2026-09-02T00:55:18.425Z",
@@ -622,7 +709,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -650,7 +737,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -678,7 +765,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -814,7 +901,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 9979",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 10143",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -3989,7 +4076,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9728147?from=edn_hottest_index",
-      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 11101",
+      "title": "台指期夜盤由紅翻黑！上半場跌破47K 大關 11110",
       "description": "台指期夜盤1日以47,201點開平盤，盤中走勢持續震盪。截至傍晚8點40分，台指期夜盤暫報46,748點、跌453點、跌幅0.9%。剛開盤多方試圖率先攻擊，最高達47,343點，隨後空頭賣壓再起由紅翻黑、最低暫達46,703點，高低點震盪640點，跌破47K大關，持續於46,700點附近震盪。",
       "publishedAt": "2026-09-01T16:29:13.507Z",
       "discoveredAt": "2026-09-01T16:29:13.507Z",
@@ -5235,96 +5322,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90b95ddd0d75c23f48ff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9728037",
-      "title": "21:21 今日最夯股／立碁跳空爆量衝漲停 留下長下影線有何利多？",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-09-01T13:36:54.035Z",
-      "discoveredAt": "2026-09-01T13:36:54.035Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a7d74728bbe67cd298e9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728196?from=edn_newest_index",
-      "title": "全球首位「記者太空人」逝世 日本秋山豐寬享壽84歲 2026-09-01 21:36",
-      "description": "1990年成為首位登上太空的日本人，更是全球首位「記者太空人」的前日本東京放送電視台（TBS）記者秋山豐寬，8月26日因...",
-      "publishedAt": "2026-09-01T13:36:54.035Z",
-      "discoveredAt": "2026-09-01T13:36:54.035Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6c361b6a68aa161db710",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9728195?from=edn_newest_index",
-      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 2026-09-01 21:36",
-      "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
-      "publishedAt": "2026-09-01T13:36:54.035Z",
-      "discoveredAt": "2026-09-01T13:36:54.035Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

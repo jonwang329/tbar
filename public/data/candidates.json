@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T22:45:05.894Z",
+  "updatedAt": "2026-09-02T22:55:57.787Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,63 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_db0aa232d0ab6153309e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9731123?from=edn_newest_index",
+      "title": "戴爾飆近16%替AI多頭撐腰 標普終止三連跌 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周三收高，標普500指數終止連續三日跌勢。美債殖利率停止攀升，加上企業財報強勁、股價回落後更具吸引力，吸引投資人逢低買進。戴爾（Dell）財報也為AI需求持續成長增添佐證，帶動輝達（NVIDIA）上漲。不過，美伊戰事仍推升油價，限制大盤漲勢。",
+      "publishedAt": "2026-09-02T22:55:57.787Z",
+      "discoveredAt": "2026-09-02T22:55:57.787Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_65778ad5f38752040c64",
+      "sourceLastModified": "2026-09-02T22:54:36.023Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "title": "https://openai.com/index/atv-big-air-tour",
+      "description": "",
+      "publishedAt": "2026-09-02T22:54:36.023Z",
+      "discoveredAt": "2026-09-02T22:55:57.787Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_880a86303b9f5546df00",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +151,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9731066",
-      "title": "川普：美國準備隨時再次攻擊伊朗 新一輪軍事行動不會持續太久 | 國際焦點 | 國際 | 經濟日報",
+      "title": "06:30 川普：美國準備隨時再次攻擊伊朗 新一輪軍事行動不會持續太久",
       "description": "美國總統川普今天表示，美國已準備好隨時再次攻擊伊朗，對伊朗的新一輪軍事行動不會持續太久",
       "publishedAt": "2026-09-02T22:45:05.894Z",
       "discoveredAt": "2026-09-02T22:45:05.894Z",
@@ -1137,7 +1194,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729891?from=edn_hottest_index",
-      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4806",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4814",
       "description": "",
       "publishedAt": "2026-09-02T18:31:29.974Z",
       "discoveredAt": "2026-09-02T18:31:29.974Z",
@@ -3108,7 +3165,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 10943",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 11056",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -3558,7 +3615,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 9203",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 9352",
       "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
       "publishedAt": "2026-09-02T14:28:45.565Z",
       "discoveredAt": "2026-09-02T14:28:45.565Z",
@@ -5306,66 +5363,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9e276d0ec5a4413931b4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9730520?from=edn_newest_index",
-      "title": "全日空選擇空中巴士飛行訓練服務 | 國際焦點 | 國際 | 經濟日報",
-      "description": "空中巴士與全日空9月2日已簽訂一份廣泛的飛行訓練協議，為全日空的下一代飛行員提供訓練，進一步擴展雙方近四十年的策略夥伴關係。",
-      "publishedAt": "2026-09-02T12:06:35.260Z",
-      "discoveredAt": "2026-09-02T12:06:35.260Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2b38b7d7f54587c24169",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9730516?from=edn_newest_index",
-      "title": "紐約市擬祭新規 禁止公立學校8年級以下學生用AI | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國媒體報導，紐約市將禁止公立學校8年級以下學生使用人工智慧（AI），一名知情人士今天向法新社證實這項消息",
-      "publishedAt": "2026-09-02T12:06:35.260Z",
-      "discoveredAt": "2026-09-02T12:06:35.260Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T17:10:21.927Z",
+  "updatedAt": "2026-09-02T17:26:09.807Z",
   "candidates": [
+    {
+      "id": "cand_a86b9683e0585523e93e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730899?from=edn_newest_index",
+      "title": "美商務部長：台灣將投資美國300億美元 評估開徵新半導體關稅 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國商務部長盧特尼克2日接受CNBC訪問時表示，台灣下周將宣布對美國投資200億到300億美元，他補充說這是先前與台灣貿易協議的一部分。",
+      "publishedAt": "2026-09-02T17:26:09.807Z",
+      "discoveredAt": "2026-09-02T17:26:09.807Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ed6189a8a3cff6fa2fa1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10871/9730765?from=edn_newest_index",
+      "title": "麗晶之夜開趴 集結四大頂級珠寶品牌 銷售衝10億 | 綜合產業 | 產業 | 經濟日報",
+      "description": "「2026麗晶之夜」昨（2）日晚間登場，集結四大頂級珠寶品牌、逾6億元高級珠寶，檔期銷售金額挑戰10億元。會場以270度環景影像營造1920年代「黃金年代」美學，入場消費門檻延續去年等級破千萬元，點燃秋季奢華戰火。",
+      "publishedAt": "2026-09-02T17:26:09.807Z",
+      "discoveredAt": "2026-09-02T17:26:09.807Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8eec0139be5b4d84a60b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11162/9730766?from=edn_newest_index",
+      "title": "宏碁前進 IFA 強攻 AI PC 預告推出 Acer Googlebook 為 Gemini 量身打造 | 科技產業 | 產業 | 經濟日報",
+      "description": "德國柏林消費電子展（IFA）即將於9月4日至8日登場，宏碁2日於IFA展前舉行「next@acer」全球記者會，宣布一系列新品登場，由董事長陳俊聖主持。宏碁除了預告即將推出Acer Googlebook，同時陳俊聖端出自家Acer SFF RTX Spark精巧型桌上型電腦，宣示宏碁搶攻下半年AI PC市場決心。",
+      "publishedAt": "2026-09-02T17:26:09.807Z",
+      "discoveredAt": "2026-09-02T17:26:09.807Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_325f54335a56c9737827",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9730818?from=edn_newest_index",
+      "title": "台積電與英特爾的競合新常態 | 名家觀點 | 專欄 | 經濟日報",
+      "description": "這場由AI與高效能運算所引爆的全球算力軍備競賽，正以前所未有的力道重塑半導體產業的既有版圖，更讓長期以來的競爭邏輯發生根本性的質變。在過去的傳統視角中，台積電與英特爾在先進晶圓代工與技術節點的競逐上，始終處於王不見王的零和博弈狀態。然而，當前市場傳出台積電因自家CoWoS先進封裝產能嚴重吃緊，進而將部分後段封裝工序委由英特爾馬來西亞廠協助分擔，以共同服務指標性AI大客戶，不僅代表產能調度的現象，更象徵著全球半導體供應鏈正邁入一個高度務實、以大局為重的全新競合時代。",
+      "publishedAt": "2026-09-02T17:26:09.807Z",
+      "discoveredAt": "2026-09-02T17:26:09.807Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2aaa121ba262b9a391b9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730768?from=edn_newest_index",
+      "title": "陽明斥資389億 擴充船隊 | 產業熱點 | 產業 | 經濟日報",
+      "description": "陽明與韓國韓華海洋公司（韓華海洋）昨（2）日於陽明海運重慶大樓正式簽署六艘13,000 TEU級LNG雙燃料全貨櫃輪建造合約，由陽明海運蔡豐明董事長及韓華海洋金熙喆執行長代表簽署。",
+      "publishedAt": "2026-09-02T17:26:09.807Z",
+      "discoveredAt": "2026-09-02T17:26:09.807Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_565722363b2e4c0389d2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9730818?from=edn_course_index",
+      "title": "台積電與英特爾的競合新常態 | 名家觀點 | 專欄 | 經濟日報",
+      "description": "這場由AI與高效能運算所引爆的全球算力軍備競賽，正以前所未有的力道重塑半導體產業的既有版圖，更讓長期以來的競爭邏輯發生根本性的質變。在過去的傳統視角中，台積電與英特爾在先進晶圓代工與技術節點的競逐上，始終處於王不見王的零和博弈狀態。然而，當前市場傳出台積電因自家CoWoS先進封裝產能嚴重吃緊，進而將部分後段封裝工序委由英特爾馬來西亞廠協助分擔，以共同服務指標性AI大客戶，不僅代表產能調度的現象，更象徵著全球半導體供應鏈正邁入一個高度務實、以大局為重的全新競合時代。",
+      "publishedAt": "2026-09-02T17:26:09.807Z",
+      "discoveredAt": "2026-09-02T17:26:09.807Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b7c07a570d1012198811",
       "sourceLastModified": null,
@@ -1240,7 +1420,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8937",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 9106",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -2800,7 +2980,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730124?from=edn_hottest_index",
-      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 12189",
+      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 12300",
       "description": "因市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，特定批次產品電容器可能有問題影響，台達電2日股價重挫逾7%。台達電回應，無法評論市場傳聞及客戶合作細節。但若供應商零組件出現問題，台達電會盡力協助客戶安排換貨，確保客戶需求不受影響。",
       "publishedAt": "2026-09-02T13:04:53.455Z",
       "discoveredAt": "2026-09-02T13:04:53.455Z",
@@ -3845,7 +4025,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7635",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7678",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -3886,7 +4066,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -3976,7 +4156,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4006,7 +4186,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5210,186 +5390,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_39806219e9a920956ac1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730290?from=edn_newest_index",
-      "title": "宏碁攻 AI 商機 IFA 發表會秀自家輝達 RTX Spark 筆電 | 產業熱點 | 產業 | 經濟日報",
-      "description": "宏碁（2353）衝刺AI PC商機，2日於IFA 2026期間舉行「next@Acer」全球記者會中，由董事長陳俊聖親自展示Acer SFF RTX Spark精巧型桌上型電腦，搭載 NVIDIA RTX Spark 超級晶片，輝達（NVIDIA）高階主管亦出席宏碁發表會力挺。",
-      "publishedAt": "2026-09-02T09:46:10.974Z",
-      "discoveredAt": "2026-09-02T09:46:10.974Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_246d1645ed11ec1997b7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730287?from=edn_newest_index",
-      "title": "台企銀：股票股利為主 審慎評估提高現金股利比重 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台灣企銀今天舉行第2季線上法人說明會，公布上半年合併稅後淨利新台幣74.1億元，年增15.37%，每股稅後盈餘（EPS）...",
-      "publishedAt": "2026-09-02T09:46:10.974Z",
-      "discoveredAt": "2026-09-02T09:46:10.974Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_24523d701dca7bd5bfd9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730285?from=edn_newest_index",
-      "title": "三陽 SYM8月市占48.6%稱霸市場 迪爵、JET 雙車系撐盤 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台灣機車市場競爭升溫，三陽工業（2206）機車品牌SYM 8月持續展現龍頭氣勢，單月掛牌2萬9,228台，市占率達48.6%，大幅領先光陽、山葉及Gogoro；累計前八月總市場規模達49萬4,422台，三陽累計銷售21萬8,949台、市占44.3%，同樣穩居市場第一，顯示在產品競爭力與行銷策略雙軌推動下，市場領先優勢持續鞏固。",
-      "publishedAt": "2026-09-02T09:46:10.974Z",
-      "discoveredAt": "2026-09-02T09:46:10.974Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3458ab2d5b57013bca25",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9730281?from=edn_newest_index",
-      "title": "排碳少卻因洪災死傷慘重！尼泊爾向美、中、印度等碳排大戶索賠 | 國際焦點 | 國際 | 經濟日報",
-      "description": "尼泊爾在發生造成逾千人死亡、近4,000人仍然失蹤的嚴重山洪災害後，要求中國、美國和印度這些全球最大的溫室氣體排放國，要提供氣候賠償。",
-      "publishedAt": "2026-09-02T09:46:10.974Z",
-      "discoveredAt": "2026-09-02T09:46:10.974Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_12d944b7f4ae14619383",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730276?from=edn_newest_index",
-      "title": "SEMICON／伊頓首度亮相大功率 UPS 新品和800V MV SST | 產業熱點 | 產業 | 經濟日報",
-      "description": "SEMICON Taiwan 2026 2日登場，全球智慧動力管理公司伊頓(Eaton)首度展出併購的Boyd Thermal(寶德熱能)液冷方案，呈現由供電、配電與電路保護延伸至晶片散熱的技術布局。伊頓「從電網到晶片」(From Grid to Chip)策略，打造涵蓋智慧配電、備用電源、儲能與數位化服務的完整電力管理生態系。",
-      "publishedAt": "2026-09-02T09:46:10.974Z",
-      "discoveredAt": "2026-09-02T09:46:10.974Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1bf94d871e9fc164b5c7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9730177",
-      "title": "17:26 外資賣超913億元 大賣 ETF、聯電、國巨 但竟逆勢狂買這類股",
-      "description": "台股2日開低走低收最低，終場以46,164.72點，下跌784點，三大法人聯手賣超1,150.34億元，其中外資大砍913.55億元，統計外資賣超前十名中，ETF占5檔，聯電（2303）、國巨*（2327）也遭大賣，但多檔金融股竟獲外資逆勢大買，在買超前十名中占了7檔。",
-      "publishedAt": "2026-09-02T09:28:17.131Z",
-      "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

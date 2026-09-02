@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T06:43:07.277Z",
+  "updatedAt": "2026-09-02T06:57:18.492Z",
   "candidates": [
+    {
+      "id": "cand_b2982369affddf76cccf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9729394",
+      "title": "日銀總裁暗示9月升息 植田說會考量物價上漲風險 日圓仍堅穩在160之上 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本銀行（央行）總裁植田和男暗示本月稍晚舉行政策會議時可能會升息，表示官員在決策時將把物價上漲的風險納入考量。",
+      "publishedAt": "2026-09-02T06:57:18.492Z",
+      "discoveredAt": "2026-09-02T06:57:18.492Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3405803380cd3e56e062",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729802?from=edn_maintab_index",
+      "title": "台股短線操作難度高 法人點名可將2類股納入投資組合 | 市場焦點 | 證券 | 經濟日報",
+      "description": "受中東情勢再度惡化，油價大漲，推升美國公債殖利率，且使得聯準會升息預期攀高，進而壓低美股表現，台股2日難逃下跌走勢，指數開低走低收最低，終場收在46,164.72點，下跌784點；法人坦言，短線指數有回檔壓力，加上類股輪動快速，操作難度較高，若要因應短線波動，可在投資組合中納入兩大類股。",
+      "publishedAt": "2026-09-02T06:57:18.492Z",
+      "discoveredAt": "2026-09-02T06:57:18.492Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_62cb39736da4bf35ef7f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729835?from=edn_newest_index",
+      "title": "中秋節將至！違規攜豬肉製品返台重罰20萬 移民署：去年76人挨罰 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "中秋佳節將至，不少民眾規劃出國旅遊或探親訪友，返台時常會選購當地特色伴手禮與美食，移民署提醒「送禮重心意，別讓疫病來團聚」，包括含肉月餅、豬肉乾、香腸及各式肉製品，均為非洲豬瘟等動物疫病的潛在傳入管道，民眾務必遵守相關規範，以免觸法規受罰。",
+      "publishedAt": "2026-09-02T06:57:18.492Z",
+      "discoveredAt": "2026-09-02T06:57:18.492Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_71f2ebc5357ea13dd90e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9729840?from=edn_newest_index",
+      "title": "Google宣布加碼台灣AI基礎建設布局 將擴建士林研發中心60%辦公空間 | 產業熱點 | 產業 | 經濟日報",
+      "description": "Google技術長暨AI基礎建設資深副總裁Amin Vahdat 9月2日於SEMICON Taiwan 2026發表專題演說，聚焦AI快速發展下的算力需求、硬體基礎建設與產業協作。他表示，AI正推動新一波科技與社會轉型，未來能否持續擴大AI應用，關鍵將取決於整體產業能否共同突破晶片、散熱、供電及網路等基礎建設瓶頸。",
+      "publishedAt": "2026-09-02T06:57:18.492Z",
+      "discoveredAt": "2026-09-02T06:57:18.492Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d9d2d1c7b7554eb31974",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9729838?from=edn_newest_index",
+      "title": "股價從16.3元漲到40.3元！台新新光金躍兆元金控 下一步靠什麼再攻一城？ | 金融脈動 | 金融 | 經濟日報",
+      "description": "台新新光金（2887）合併滿一年後，資本市場先給出高分，9月1日股價收在40.3元，市值正式突破1兆元，成為國內第四家「兆元金控」；相較2025年7月24日合併時股價約16.3元，股價已大幅翻揚。市值站上兆元之後，後市還有多少成長空間？下一步又要靠什麼撐住市場期待？台新新光金下一階段的關鍵，已不是繼續把規模做大，而是如何真正把台新、新光兩大體系「合而為一」，透過銀行、人壽、證券及投信共銷，把龐大的客戶、通路與產品資源串起來，讓整併綜效真正轉化為獲利。",
+      "publishedAt": "2026-09-02T06:57:18.492Z",
+      "discoveredAt": "2026-09-02T06:57:18.492Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bf5cd5323025b567b17f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5635/9728819?from=edn_newest_index",
+      "title": "德律科技攻克次微米檢測技術 AI驅動先進封裝量測迎戰半導體新世代 | 熱門亮點 | 商情 | 經濟日報",
+      "description": "隨著生成式AI、高效能運算（HPC）與AI伺服器需求持續攀升，全球半導體產業正加速邁向Chiplet、CoWoS、HBM及3D先進封裝時代。當製程不斷朝向微米甚至奈米尺度演進，檢測設備也從傳統品質把關角色，躍升為影響製程良率、產能效率與產品可靠度的核心關鍵。德律科技（3030）今年於SEMICON Taiwan 2026上，以完整的AI智慧檢測與高精度量測解決方案，展現台灣自主檢測設備邁向全球高階半導體供應鏈的重要實力。 此次展會最大亮點之一，為德律推出具備次微米（Sub-µm）解析能力的TR7950晶圓檢測與微量測平台，整合Auto Focus、高倍率顯微鏡、SWIR短波紅外線相機、多光譜感測及AI深度學習演算法，可針對μBump、Cu Pillar、RDL、TSV、TGV、薄膜厚度及表面形貌等關鍵製程進行高精度檢測；搭配TR7900Q SII-P高精密3D AOI平台及新世代X光檢測系統，更可有效分析隱藏缺陷、翹曲及封裝內部結構，大幅降低誤判率，提升製程控制能力與最終良率。 德律科技指出，AI已逐漸成為半導體檢測設備的重要核心，不只是提升缺陷辨識能力，更能透過大量數據分析與智慧",
+      "publishedAt": "2026-09-02T06:57:18.492Z",
+      "discoveredAt": "2026-09-02T06:57:18.492Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fbb286c72fe9eaa33469",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9729851?from=edn_newest_index",
+      "title": "新加坡經濟成長預測上修至5% AI需求強勁帶動製造業 | 國際焦點 | 國際 | 經濟日報",
+      "description": "新加坡金融管理局公布最新專業預測者調查報告，受訪經濟學家將今年經濟成長的預測由3.5%上調至5%。專家認為，人工智慧需求...",
+      "publishedAt": "2026-09-02T06:57:18.492Z",
+      "discoveredAt": "2026-09-02T06:57:18.492Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_08254aac17d4788e003e",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9729438",
-      "title": "AI 產業夯！這三大科技廠購廠達千億元 全年商用不動產可望破2000億 | 產業熱點 | 產業 | 經濟日報",
+      "title": "14:39 AI 產業夯！這三大科技廠購廠達千億元 全年商用不動產可望破2000億",
       "description": "宏大國際資產2日表示，今年至目前為止，工業不動產交易金額前三大企業，包括美光、日月光（3711）、矽品，投資總金額逾1000億元，其中購置廠房座落位於桃園、苗栗、台南、高雄等處，驗證了AI工業熱潮是台灣現在進行式。",
       "publishedAt": "2026-09-02T06:42:49.207Z",
       "discoveredAt": "2026-09-02T06:42:49.207Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9728907",
-      "title": "蘋果新 CEO 薪酬首曝光：特納斯年薪破18億元 庫克轉任董事長薪水降 | 美股動態 | 國際 | 經濟日報",
+      "title": "14:21 蘋果新 CEO 薪酬首曝光：特納斯年薪破18億元 庫克轉任董事長薪水降",
       "description": "蘋果公司表示，新任執行長特納斯（John Ternus）在2027會計年度的薪酬方案價值約為5,800萬美元（新台幣約18.4億元），而原執行長庫克接任執行董事長後，薪酬約為4,700萬美元（新台幣約14.9億元）。",
       "publishedAt": "2026-09-02T06:42:49.207Z",
       "discoveredAt": "2026-09-02T06:42:49.207Z",
@@ -70,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9729675",
-      "title": "全球公債殖利率竄升別只怪通膨 反映市場給 G20財長會「不及格」分數 | 國際焦點 | 國際 | 經濟日報",
+      "title": "14:03 全球公債殖利率竄升別只怪通膨 反映市場給 G20財長會「不及格」分數",
       "description": "全球公債賣壓2日盤中未止，美國10年期公債殖利率進一步朝5%邁進，日本10年期公債衝上30年新高，澳洲10年期公債殖利率仍高於5%，乍看為美伊衝突再起推升油價，從而加劇市場對通膨與利率前景的憂慮，但專家指出，真正肇因在於投資人對財政信心減弱，並且對剛閉幕的20國集團（G20）財長會打了不及格分數。",
       "publishedAt": "2026-09-02T06:42:49.207Z",
       "discoveredAt": "2026-09-02T06:42:49.207Z",
@@ -100,7 +310,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9729773?from=edn_maintab_index",
-      "title": "AI 供應鏈催生跨境金流需求 彭金隆：虛擬資產子法最快明年首季上路 | 金融脈動 | 金融 | 經濟日報",
+      "title": "AI 供應鏈催生跨境金流需求 彭金隆：虛擬資產子法最快明年首季上路 FinTechOn 2026暨亞洲金融科技聯盟（AFA）高峰會2日在台北登場。金管會主委彭金隆表示，全球對虛擬資產及穩定幣的討論，已從「要不要發展」轉向「如何正確納管」。台灣《虛擬資產服務法》已...",
       "description": "FinTechOn 2026暨亞洲金融科技聯盟（AFA）高峰會2日在台北登場。金管會主委彭金隆表示，全球對虛擬資產及穩定幣的討論，已從「要不要發展」轉向「如何正確納管」。台灣《虛擬資產服務法》已於今年6月30日三讀通過，金管會正制定九項子法，包含穩定幣相關規範，最快明年第1季正式公布實施。",
       "publishedAt": "2026-09-02T06:42:49.207Z",
       "discoveredAt": "2026-09-02T06:42:49.207Z",
@@ -280,7 +490,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9728529?from=edn_hottest_index",
-      "title": "9月2日 五件財經大事搶先看 9261",
+      "title": "9月2日 五件財經大事搶先看 9547",
       "description": "",
       "publishedAt": "2026-09-02T06:42:49.207Z",
       "discoveredAt": "2026-09-02T06:42:49.207Z",
@@ -354,7 +564,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -534,7 +744,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1789,7 +1999,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1966,7 +2176,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1993,7 +2203,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -3811,7 +4021,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4571,7 +4781,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 13236",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 13297",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -4781,7 +4991,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9728195?from=edn_hottest_index",
-      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9447",
+      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9455",
       "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
       "publishedAt": "2026-09-01T23:23:53.398Z",
       "discoveredAt": "2026-09-01T23:23:53.398Z",
@@ -5159,216 +5369,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74b5d6404a459dd88909",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9728607?from=edn_newest_index",
-      "title": "Mixx 推出 SxC™ Connector，用於高基數擴展與多拍比特級連通性 2026-09-02 06:00",
-      "description": "從光引擎到機箱邊緣，只需一種光纖連接器技術。將於 SEMICON Taiwan 展會現場進行連接器實機演示。 加利福尼亞州聖何塞2026年9月2日 /美通社/ -- 總部位於美國、由創投支持的深科技公司 Mixx Technologies, Inc.，專注於為超大規模人工智能 (AI) 基礎設施開發共封裝光學元件，今日推出 SxC™ Connector。這是一款適用於前端平面與背板的光學連接器，單個機架單元內最多可連接 24,576 條光纖。Mixx 將於 2026 年 9 月 2 日起，在 SEMICON Taiwan 展會的 I2923 號展位舉行連接器現場示範。 Mixx 首款上市的產品是一款光纖連接器。該行業正透過近封裝光學元件 (NPO)、CPX 以及類似的插座式方案，逐步邁向共封裝光學 (CPO) 發展。每一步發展都需要比現有連接器更高密度的基數 (radix)，而這正是實現真正 CPO 不可或缺的先決條件。連接器決定了單台設備所能承載的光學輸入/輸出 (I/O) 總量。這一技術層面決定了光學技術究竟能解決機櫃級 (rack scale) 的推理難題，還是只停留在實驗室測試",
-      "publishedAt": "2026-09-01T22:05:47.817Z",
-      "discoveredAt": "2026-09-01T22:05:47.817Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_834304450c7788a95f9c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9728604?from=edn_newest_index",
-      "title": "沙德爾颱風有3種可能路徑 專家：不向命運低頭的戰士 估再活5天 2026-09-02 05:57",
-      "description": "沙德爾颱風昨天神奇「復活」，根據中央氣象署最新颱風消息，輕颱沙德爾今天凌晨2時的中心位置在東沙島西北方70公里之處（鵝鑾鼻西方480公里之處）以每小時6公里速度，向東北轉北進行，氣象署提醒在東沙島附近海面航行及作業船隻應特別注意，並隨時收聽此颱風的最新動態。",
-      "publishedAt": "2026-09-01T22:05:47.817Z",
-      "discoveredAt": "2026-09-01T22:05:47.817Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_14ab87d10cb8dce8cbb5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728598?from=edn_newest_index",
-      "title": "美邀俄財長出席G20會議 恐難爭取歐洲對伊朗施壓 2026-09-02 05:45",
-      "description": "美國主辦的20國集團（G20）財政部長會議因俄羅斯財長出席蒙上陰影，華府今天力求爭取夥伴支持對伊朗的制裁以及降低貿易失衡",
-      "publishedAt": "2026-09-01T21:52:44.392Z",
-      "discoveredAt": "2026-09-01T21:52:44.392Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_30bcb85146dc1d7683d0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9728592?from=edn_newest_index",
-      "title": "今天全台慎防強對流突襲 吳德榮：雙颱環伺不侵台 最快周日才放晴 2026-09-02 05:45",
-      "description": "今晨台南、南部已有降雨，中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，今天至周五，沙德爾颱風及科羅旺颱風在大低壓環流內，增強有限。台灣附近水氣多，時而因西南風的增強，激發強對流，應慎防其所伴隨的雷擊、強風、瞬間強降雨等劇烈天氣，以及多日累積的大量降雨而致災。",
-      "publishedAt": "2026-09-01T21:52:44.392Z",
-      "discoveredAt": "2026-09-01T21:52:44.392Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_228253bba8bc57aa35f2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9728587?from=edn_newest_index",
-      "title": "沙德爾外圍環流影響全台溼答答 台東今防豪雨 周五雨區轉移北部+宜蘭 2026-09-02 05:15",
-      "description": "本周低壓帶影響，天氣不穩定，易有短延時強降雨。新北市及宜蘭山區已有豪雨發生，中央氣象署發布豪雨特報，今天恆春半島有局部大雨或豪雨，高雄、屏東、台東有局部大雨發生的機率。",
-      "publishedAt": "2026-09-01T21:27:06.558Z",
-      "discoveredAt": "2026-09-01T21:27:06.558Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bec98ffebe6bafebfb4d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9728577?from=edn_newest_index",
-      "title": "1張圖看全台8月累積雨量 南部紫到發黑 粉專：相當少見 2026-09-02 05:15",
-      "description": "西南風水氣狂灌，南部雨勢下不停。民間氣象粉專「台灣颱風論壇｜天氣特急」表示，低壓渦旋頻擾，西南風持續輸送大量水氣，8月的南部幾乎就是雨、雨、還是雨。好不容易停一下，沒多久又開始下，累積雨量相當驚人。屏東山區多處測站累積雨量突破1800毫米，其中，大漢山更超過2500毫米。",
-      "publishedAt": "2026-09-01T21:27:06.558Z",
-      "discoveredAt": "2026-09-01T21:27:06.558Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c6d516273bbe4eb6f21e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9728585?from=edn_newest_index",
-      "title": "9月1日 期交所夜盤行情 2026-09-02 05:12",
-      "description": "盤後時段臺指期收在46,679點，（較開盤參考價）下跌522點。 小臺指期收在46,683點，（較開盤參考價）下跌518點。 微臺指期收在46,695點，（較開盤參考價）下跌506點。 電子期收在2,964.7點，（較開盤參考價）下跌40.3點。 半導體30指數期收在15,855點，（較開盤參考價）下跌226點。 臺灣中型100期貨收在36,038點，（較開盤參考價）下跌705點。 元大台灣50ETF期貨收在108.4點，（較開盤參考價）下跌0.75點。 元大美債20年ETF期貨收在25.68點，（較開盤參考價）上漲0.05點。 聯電期貨收在131.5點，（較開盤參考價）下跌2點。 台積電期貨收在2,425點，（較開盤參考價）下跌17點。 東證期貨收在4,111.25點，（較開盤參考價）下跌36點。 美國道瓊期貨收在52,810點，（較開盤參考價）下跌520點。 美國那斯達克100期貨收在29,142點，（較開盤參考價）下跌416點。 美國費城半導體期貨收在11,294.5點，（較開盤參考價）下跌300.5點。 英國富時100指數",
-      "publishedAt": "2026-09-01T21:27:06.558Z",
-      "discoveredAt": "2026-09-01T21:27:06.558Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

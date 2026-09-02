@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T04:05:07.139Z",
+  "updatedAt": "2026-09-02T04:23:59.682Z",
   "candidates": [
+    {
+      "id": "cand_ffbe884f8f3917f7fe39",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9729380",
+      "title": "單月淨利年增六倍！這檔機械股跨入先進封裝供應鏈 股價創新高 | 集中市場 | 證券 | 經濟日報",
+      "description": "國際半導體展2日盛大開展，但受到美債殖利率陡升、油價大漲壓力，台股漲多回調，盤中下跌近700點，然大甲永和機械（2221）股價逆勢攻上漲停板85.4元，並創下新高。大甲昨公布7月自結，單月歸屬於母公司淨利0.21億元，年增達6倍，每股純益(EPS)0.49元。",
+      "publishedAt": "2026-09-02T04:23:59.682Z",
+      "discoveredAt": "2026-09-02T04:23:59.682Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_02b9f9115f1b2e22b939",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9729429?from=edn_newest_index",
+      "title": "渣打：AI帶動成長 上調台灣今年經濟成長率至11.5% | 產業熱點 | 產業 | 經濟日報",
+      "description": "渣打集團全球研究部發布最新經濟展望，將台灣今年經濟成長率預測由9.5%大幅上調至11.5%，可望創下2010年以來最快增...",
+      "publishedAt": "2026-09-02T04:23:59.682Z",
+      "discoveredAt": "2026-09-02T04:23:59.682Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fce4dc67cc3742163436",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9729428?from=edn_newest_index",
+      "title": "瑞銀：未來10年中國料難趕上ASML極紫外光微影技術 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "跨國投行瑞銀集團（UBS）分析師預估，中國半導體製造能力未來10年內可能仍難取得足夠進展，以開發出可替代荷蘭半導體設備廠...",
+      "publishedAt": "2026-09-02T04:23:59.682Z",
+      "discoveredAt": "2026-09-02T04:23:59.682Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7146f0784e2a7ac118fc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729426?from=edn_newest_index",
+      "title": "總統：政府支持國軍 團結一心守護國家安全 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "九三軍人節將至，總統賴清德今天表示，一個國家真正的強大，不只是來自精良裝備，更有面對挑戰的時候，大家站在一起、團結在一起...",
+      "publishedAt": "2026-09-02T04:23:59.682Z",
+      "discoveredAt": "2026-09-02T04:23:59.682Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b5a987ea9f7658e3da1f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729421?from=edn_newest_index",
+      "title": "CPO 題材點亮光學族群 亞光飆漲停 大立光、玉晶光也逆勢翻紅 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股2日開低走低，一度下滑至46,202.36點，下跌746.36點，具有CPO題材的光學族群成為盤面上的亮點，亞光（3019）開低走高， 盤中衝上漲停157.5元鎖死，大立光（3008）及玉晶光（3406）同樣開低後翻紅，逆勢走高。",
+      "publishedAt": "2026-09-02T04:23:59.682Z",
+      "discoveredAt": "2026-09-02T04:23:59.682Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e9f279f73a7a9f5a2497",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729411?from=edn_newest_index",
+      "title": "台積電先進封裝進駐白埔產業園區 陳其邁再爆還有某國際大廠要來 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "高雄白埔產業園區展開規畫，市長陳其邁昨天下午在議會答詢時證實，高市府與經濟部、台積電一起合作，將在白埔園區建立半導體先進封裝設備供應鏈基地，間接證實台積電將在高雄擴廠，陳今天受訪時再透露，白埔產業園區另外的28公頃，還有另一家國際大廠已經跟市府洽談進駐",
+      "publishedAt": "2026-09-02T04:23:59.682Z",
+      "discoveredAt": "2026-09-02T04:23:59.682Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ea15fff3f8f71a9f06e6",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9729170",
-      "title": "紐西蘭央行二度升息 預告年底前再出手 紐元竟走貶原因曝光 | 國際焦點 | 國際 | 經濟日報",
+      "title": "11:52 紐西蘭央行二度升息 預告年底前再出手 紐元竟走貶原因曝光",
       "description": "紐西蘭央行連續第二度升息，目標逐步轉向較不具刺激性的貨幣政策，以防範通膨壓力升溫。不過，決策出爐後，紐元匯率轉貶，因交易者聚焦於2027年的利率預測較低。",
       "publishedAt": "2026-09-02T04:05:07.139Z",
       "discoveredAt": "2026-09-02T04:05:07.139Z",
@@ -648,7 +828,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2986,7 +3166,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 11903",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 12066",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -3196,7 +3376,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9728195?from=edn_hottest_index",
-      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9260",
+      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9295",
       "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
       "publishedAt": "2026-09-01T23:23:53.398Z",
       "discoveredAt": "2026-09-01T23:23:53.398Z",
@@ -5134,186 +5314,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d1e90a1692f6fccc138",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728332?from=edn_newest_index",
-      "title": "川普：Fed 沒有升息理由 強調經濟高速成長不會引發通膨 2026-09-02 01:50",
-      "description": "美國總統川普表示，美國經濟成長率有可能高達20%，但他認為，就算經濟高速增長，也不該是聯準會（Fed）升息的理由。",
-      "publishedAt": "2026-09-01T17:56:55.152Z",
-      "discoveredAt": "2026-09-01T17:56:55.152Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2b39c430a378c31c1f16",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728329?from=edn_newest_index",
-      "title": "歐元區8月通膨 攀三年高點 | 國際焦點 | 國際 | 經濟日報",
-      "description": "歐元區通膨因能源價格上漲，快速攀升至近三年最高，強化歐洲央行（ECB）下周升息預期。",
-      "publishedAt": "2026-09-01T17:56:55.152Z",
-      "discoveredAt": "2026-09-01T17:56:55.152Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cd72f76b3178caeffa0e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728337?from=edn_newest_index",
-      "title": "1分鐘看世界／美國22州告亞馬遜操縱廣告價格 七年來超收逾200億美元 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國聯邦貿易委員會（FTC）與全美22州8月31日提起訴訟，控告電商巨擘亞馬遜操縱廣告價格，誘使廣告商支付更高費用推銷商品，自2019年以來合計對120萬個廣告商超收逾200億美元。這是FTC近年來對亞馬遜提起的第三個重大訴訟。",
-      "publishedAt": "2026-09-01T17:56:55.152Z",
-      "discoveredAt": "2026-09-01T17:56:55.152Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_509d0b68245070a23d62",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9728354?from=edn_newest_index",
-      "title": "庫克揮別蘋果 交棒特納斯 2026-09-02 01:40",
-      "description": "蘋果公司執行長庫克（Tim Cook）8月31日卸下逾15年的執行長一職，在任期最後一個上班日他向員工發出感性告別信，感謝同仁付出，並向創辦人賈伯斯致敬，更對接棒的特納斯（John Ternus）寄予高度信任與期待。",
-      "publishedAt": "2026-09-01T17:46:11.049Z",
-      "discoveredAt": "2026-09-01T17:46:11.049Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_50699296e1dac6fa41f3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728352?from=edn_newest_index",
-      "title": "石油期貨走進平民時代 2.7萬就可進場 2026-09-02 01:40",
-      "description": "兩艘超級油輪在通行荷莫茲海峽時遇襲，布蘭特油價升破每桶92美元。油價備受關注之際，芝商所（CME）推出每口僅10桶的西德州中級原油期貨合約，方便散戶進場，走進平民時代，讓石油交易普及化的趨勢進一步加速。",
-      "publishedAt": "2026-09-01T17:46:11.049Z",
-      "discoveredAt": "2026-09-01T17:46:11.049Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a6125360dbcf87c42015",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728357?from=edn_newest_index",
-      "title": "資料中心炒熱核電業務 西屋電氣靠 AI 翻身 | 國際焦點 | 國際 | 經濟日報",
-      "description": "AI資料中心掀起用電潮，加上川普政府大力扶植核電，曾因核電廠工程嚴重超支而破產的西屋電氣公司（Westinghouse Electric），如今已從谷底翻身，正著手籌備重返股市。",
-      "publishedAt": "2026-09-01T17:46:11.049Z",
-      "discoveredAt": "2026-09-01T17:46:11.049Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

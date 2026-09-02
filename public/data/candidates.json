@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T07:36:10.146Z",
+  "updatedAt": "2026-09-02T07:48:48.814Z",
   "candidates": [
+    {
+      "id": "cand_0db6ca35e0f408fc6a28",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729979?from=edn_newest_index",
+      "title": "九合一選舉登記 鄭麗文：團結一致將氣勢延續至投票日 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "地方公職人員選舉參選人開放登記，國民黨主席鄭麗文今天表示，完成登記後，代表選戰正式進入白熱化階段，她懇請中常委全力投入輔...",
+      "publishedAt": "2026-09-02T07:48:48.814Z",
+      "discoveredAt": "2026-09-02T07:48:48.814Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_96cb978f9a017d5f643b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729978?from=edn_newest_index",
+      "title": "民進黨吳玉琴登記參選鹿草鄉長 無黨籍黃軒凱完成登記 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "現任嘉義縣鹿草鄉長嚴珮瑜放棄連任，民進黨臨時換將由曾任兩屆民進黨不分區立委吳玉琴登記參選；另一位參選人無黨籍黃軒凱，下午...",
+      "publishedAt": "2026-09-02T07:48:48.814Z",
+      "discoveredAt": "2026-09-02T07:48:48.814Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_da8013bed503ecd9f7dc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729977?from=edn_newest_index",
+      "title": "賴清德籲黨內勿過度解讀選情 尊重各地競總步調 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "九合一選舉11月28日投票，兼任民進黨主席的總統賴清德今天表示，選戰過程中，不論參選人、團隊成員或其他黨公職，都不要過度...",
+      "publishedAt": "2026-09-02T07:48:48.814Z",
+      "discoveredAt": "2026-09-02T07:48:48.814Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c950c2978566aef0af31",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729974?from=edn_newest_index",
+      "title": "賴清德：0至18歲成長津貼明年上路 每月5000元 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "兼任民進黨主席的總統賴清德今天表示，「0到18歲成長津貼」經費已編入明年度中央政府總預算，預計明年開始發放，每人每月可領...",
+      "publishedAt": "2026-09-02T07:48:48.814Z",
+      "discoveredAt": "2026-09-02T07:48:48.814Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5c071e132a56ee4ec9ee",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9729973?from=edn_newest_index",
+      "title": "廣運半導體業務成業績成長新引擎接單 接單占比衝三成 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI與先進封裝擴產潮持續推升半導體廠自動化需求，廣運（6125）加速把半導體打造為智慧製造、智慧物流之外的重要成長引擎。廣運總經理柯智鈞表示，今年半導體接單動能明顯升溫，目前新增訂單中，半導體占比已達約三成，今年半導體接單更已達去年一倍以上，明年也設定更高成長目標。",
+      "publishedAt": "2026-09-02T07:48:48.814Z",
+      "discoveredAt": "2026-09-02T07:48:48.814Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9cf137f031bc816f5866",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9729733",
-      "title": "秘魯宣布與伊朗斷交！原因曝光 怒控4大罪 | 國際焦點 | 國際 | 經濟日報",
+      "title": "15:33 秘魯宣布與伊朗斷交！原因曝光 怒控4大罪",
       "description": "法新社報導，秘魯外交部2日宣布正式與伊朗斷絕外交關係，一口氣針對德黑蘭提出多項指控，包括升高中東衝突、干擾荷莫茲海峽航運、阻撓國際核查，以及鎮壓示威、侵害新聞自由與女性權利等人權問題。秘魯也成為近期中東戰火再起後，進一步降低與伊朗外交關係的拉美國家之一。",
       "publishedAt": "2026-09-02T07:36:10.146Z",
       "discoveredAt": "2026-09-02T07:36:10.146Z",
@@ -714,7 +864,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -880,7 +1030,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9728529?from=edn_hottest_index",
-      "title": "9月2日 五件財經大事搶先看 10640",
+      "title": "9月2日 五件財經大事搶先看 10897",
       "description": "",
       "publishedAt": "2026-09-02T06:42:49.207Z",
       "discoveredAt": "2026-09-02T06:42:49.207Z",
@@ -894,7 +1044,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1450,7 +1600,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727944?from=edn_hottest_index",
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 9237",
+      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 9262",
       "description": "皇翔（2545）1日公告，為提高資金運用效益，於8月3日至9月1日期間處分聯發科（2454）股票共175張，每股平均處分價格4,246.95元，交易總金額約7.43億元，處分損失約1,475萬元。此次處分後，皇翔仍持有聯發科股票共83張，總金額約3.57億元，持股比例約0.003%。",
       "publishedAt": "2026-09-02T05:30:48.537Z",
       "discoveredAt": "2026-09-02T05:30:48.537Z",
@@ -5205,156 +5355,6 @@
       "description": "美國與伊朗持續爭奪荷莫茲海峽控制權，本周戰鬥再度升溫，三天內二度交火。美軍1日對伊朗目標發動新一輪攻擊，伊朗則向波斯灣各地發射飛彈和無人機回應。",
       "publishedAt": "2026-09-01T23:34:14.346Z",
       "discoveredAt": "2026-09-01T23:34:14.346Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2604d17a472c16f74582",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728698?from=edn_newest_index",
-      "title": "美三天內第二度打擊伊朗 西德州原油突破90美元 2026-09-02 07:31",
-      "description": "美國周二對伊朗革命衛隊目標發動新一輪打擊，報復伊朗企圖在荷莫茲海峽布設水雷，以及向美軍駐約旦基地發射飛彈。伊朗揚言嚴厲反擊。雙方衝突再度升高，布蘭特原油一度衝破95美元，西德州原油自7月下旬以來首見站上每桶90美元，歐洲天然氣價格也升至2023年1月以來最高。",
-      "publishedAt": "2026-09-01T23:34:14.346Z",
-      "discoveredAt": "2026-09-01T23:34:14.346Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fbf09a944f3f309271ce",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9728681",
-      "title": "07:20 美股收盤／四大指數收黑 費半挫跌2% 公債拋售、油價大漲拖累市場情緒",
-      "description": "美國股市本月開局不利，四大指數周二（1日）均大幅收低，中東敵對行動升級推高油價，全球債券拋售加劇，反映市場日益預期各國央行將不得不加快升息步調，全球主權債務殖利率升至數年高位。",
-      "publishedAt": "2026-09-01T23:23:53.398Z",
-      "discoveredAt": "2026-09-01T23:23:53.398Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_35e848b6e6db105dded1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9728681?from=edn_maintab_index",
-      "title": "美股收盤／四大指數收黑 費半挫跌2% 公債拋售、油價大漲拖累市場情緒 美國股市本月開局不利，四大指數周二（1日）均大幅收低，中東敵對行動升級推高油價，全球債券拋售加劇，反映市場日益預期各國央行將不得不加快升息步調，全球主權債務殖利率升至數年高位。 道瓊工業指數1...",
-      "description": "美國股市本月開局不利，四大指數周二（1日）均大幅收低，中東敵對行動升級推高油價，全球債券拋售加劇，反映市場日益預期各國央行將不得不加快升息步調，全球主權債務殖利率升至數年高位。",
-      "publishedAt": "2026-09-01T23:23:53.398Z",
-      "discoveredAt": "2026-09-01T23:23:53.398Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a57c833a56c0dcfc0547",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9728689?from=edn_newest_index",
-      "title": "台積電ADR跌0.3% 日月光與聯電ADR逆勢上漲 2026-09-02 07:23",
-      "description": "台股ADR周二（1日）漲跌互見，儘管費城半導體指數挫跌逾2%，但日月光和聯電ADR逆勢上漲，台積電ADR也相對抗跌，收盤小跌0.32%，報每股414.00美元，收盤最新價格換算並折合新台幣後為每股2,620.83元，較台北交易股票溢價率為7.41%。",
-      "publishedAt": "2026-09-01T23:23:53.398Z",
-      "discoveredAt": "2026-09-01T23:23:53.398Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_70adcc288b2927d2823d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9728683?from=edn_newest_index",
-      "title": "證交所：永冠停止買賣 康控分盤交易 2026-09-02 07:14",
-      "description": "臺灣證券交易所表示，經形式審閱第一上市公司（含創新板第一上市公司）2026年第2季財務報告，證交所已公告自2026年9月3日起執行處置措施。永冠-KY（1589）停止買賣，康控-KY（4943）變更交易方法併採行分盤集合競價交易方式。",
-      "publishedAt": "2026-09-01T23:23:53.398Z",
-      "discoveredAt": "2026-09-01T23:23:53.398Z",
       "topics": [
         "Taiwan business",
         "investment",

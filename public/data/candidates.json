@@ -1,7 +1,121 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T20:28:36.337Z",
+  "updatedAt": "2026-09-02T20:46:15.548Z",
   "candidates": [
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-09-03",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-09-03",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-09-03",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-09-03",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-09-03",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-09-03",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_98bad8da8e932714d0ae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9731047?from=edn_newest_index",
+      "title": "哈利王子夫婦搬回英國 川普酸：樂見他們離開美國 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普今天表示，他很高興英國哈利王子（Prince Harry）及其美國籍妻子梅根（Meghan Markle）已...",
+      "publishedAt": "2026-09-02T20:46:15.548Z",
+      "discoveredAt": "2026-09-02T20:46:15.548Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0ad387336f55e7767b06",
       "sourceLastModified": "2026-09-02T19:11:21.000Z",
@@ -517,7 +631,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729891?from=edn_hottest_index",
-      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4742",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4749",
       "description": "",
       "publishedAt": "2026-09-02T18:31:29.974Z",
       "discoveredAt": "2026-09-02T18:31:29.974Z",
@@ -1062,7 +1176,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -2488,7 +2602,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 10157",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 10319",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -2938,7 +3052,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 8176",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 8263",
       "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
       "publishedAt": "2026-09-02T14:28:45.565Z",
       "discoveredAt": "2026-09-02T14:28:45.565Z",
@@ -2952,7 +3066,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5147,7 +5261,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7844",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7858",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -5253,126 +5367,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b73ef94120e89379a0fa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730397?from=edn_maintab_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital...",
-      "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
-      "publishedAt": "2026-09-02T11:20:14.890Z",
-      "discoveredAt": "2026-09-02T11:20:14.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e5b376a28ef32e7c0b10",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730358?from=edn_maintab_index",
-      "title": "鴻海董座劉揚偉：AI 來臨 Made in Taiwan 將轉變成 Made with Taiwan 鴻海（2317）董事長劉揚偉2日出席「半導體大師論壇」時表示，「這波人工智慧（AI） 浪潮來勢極其兇猛巨大，整個供應鏈都承受著前所未有的擴張壓力，全球供應鏈也跟著發生轉變，過去我們習慣思考『Ma...",
-      "description": "鴻海（2317）董事長劉揚偉2日出席「半導體大師論壇」時表示，「這波人工智慧（AI） 浪潮來勢極其兇猛巨大，整個供應鏈都承受著前所未有的擴張壓力，全球供應鏈也跟著發生轉變，過去我們習慣思考『Made in Taiwan』（台灣製造），現在我們必須轉向思考『Made with Taiwan』（與台灣攜手製造）——結合台灣的核心實力，與當地市場的國家共同合作製造」。",
-      "publishedAt": "2026-09-02T11:20:14.890Z",
-      "discoveredAt": "2026-09-02T11:20:14.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f071b3461ecb4194e3f8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730460?from=edn_newest_index",
-      "title": "SEMICON／高明鐵：今年為矽光子元年 看好2028至2030年市場將迎大爆發 | 產業熱點 | 產業 | 經濟日報",
-      "description": "國際半導體展2日登場，高階光通訊與半導體設備商高明鐵（4573）表示，今年為矽光子元年，看好2028至2030年市場將迎來大規模爆發，高明鐵本次展出完整矽光子檢測方案，並且積極往晶圓檢測領域推進。",
-      "publishedAt": "2026-09-02T11:20:14.890Z",
-      "discoveredAt": "2026-09-02T11:20:14.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ce1b66ba0997e3a4275f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9730457?from=edn_newest_index",
-      "title": "牧德營收／8月續創高 高階產品接單已延伸至未來數季 | 集中市場 | 證券 | 經濟日報",
-      "description": "牧德（3563）2日公告 115 年 8 月合併營收約新台幣 3.61 億元，月增約0.42%、年增約35.68%，單月營收續創歷史新高，展現公司營運動能穩定成長。公司表示，隨 AI 基礎建設持續擴大，電子產品朝高效能、高密度及高階化發展，帶動相關製程對精密檢測設備需求提升。牧德持續聚焦高階應用市場，未來產品布局將以AI 伺服器 GPU 應用、光模組 MSA、高階載板及先進封裝為主要發展方向，透過檢測技術與產品持續升級，掌握 AI 產業鏈及高階電子製程所衍生的檢測需求。",
-      "publishedAt": "2026-09-02T11:20:14.890Z",
-      "discoveredAt": "2026-09-02T11:20:14.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

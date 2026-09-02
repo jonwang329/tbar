@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T14:09:48.188Z",
+  "updatedAt": "2026-09-02T14:28:45.565Z",
   "candidates": [
+    {
+      "id": "cand_63bc3bd0742eb4582481",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9730660",
+      "title": "中纖再申讓台中銀8,145萬股 持股比例仍為最大股東 | 金融脈動 | 金融 | 經濟日報",
+      "description": "台中銀（2812）大股東中國人造纖維股份有限公司持續調整資產配置。根據最新股權轉讓事前申報資料顯示，中纖於2日再度申報預定轉讓台中銀股票，申讓數量高達81,455,000股，將透過一般交易方式在市場上進行處分，處分後持股數量將減少到1,230,126,374股，持股比例降至20％水位以下，但仍為台中銀最大股東。",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_97ad3da395b60385f428",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729802",
+      "title": "台股短線操作難度高 法人點名可將2類股納入投資組合 | 市場焦點 | 證券 | 經濟日報",
+      "description": "受中東情勢再度惡化，油價大漲，推升美國公債殖利率，且使得聯準會升息預期攀高，進而壓低美股表現，台股2日難逃下跌走勢，指數開低走低收最低，終場收在46,164.72點，下跌784點；法人坦言，短線指數有回檔壓力，加上類股輪動快速，操作難度較高，若要因應短線波動，可在投資組合中納入兩大類股。",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f51a57810b724b2258e0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730770?from=edn_newest_index",
+      "title": "又來突襲? 日圓一度急升逾1% 交易員高度戒備當局再度干預 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日圓兌美元2日在紐約早盤突然大幅走強，交易員高度警惕東京當局可能再次干預外匯市場。",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_363f6c0c5bbea1899fd4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730763?from=edn_newest_index",
+      "title": "Google技術長來台開講 因應AI指數級成長 看懂TPU與資料中心設計邏輯 | 產業熱點 | 產業 | 經濟日報",
+      "description": "SEMICON Taiwan 2026國際半導體展今（2）日開展，Google技術長兼AI基礎建設資深副總裁Amin Vahdat擔任大師論壇的首位主題講者，這也是他首度在亞洲對外開講。對於人工智慧（AI）的演進發展，他認為，AI目前發展已從「生成式AI」進入「代理式AI」，但未來會進入到「Agent to Agent」時代，代理式AI彼此自動對話，AI應用會呈指數級成長，全球算力需求已無上限。",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d43ad2cfa0955ea5c429",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730762?from=edn_newest_index",
+      "title": "世台聯合基金會前進紐約 串聯台灣政商學界促國際永續合作 | 國際焦點 | 國際 | 經濟日報",
+      "description": "隨著全球對氣候永續與企業社會責任（ESG）的關注度不斷升高，世台聯合基金會（STUF United Fund）即將前進「...",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1c7a81f32ead8ef841d9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730761?from=edn_newest_index",
+      "title": "以色列防長稱美國若放行 將把巴勒斯坦人移出加薩 | 國際焦點 | 國際 | 經濟日報",
+      "description": "以色列國防部長卡茨（Israel Katz）今天表示，以色列已準備好執行將巴勒斯坦人移出加薩走廊的計畫，目前正等待美國確...",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a6393366fc055bec6985",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730757?from=edn_newest_index",
+      "title": "黃仁勳呼籲 G20 加速採用 AI 提振成長 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達執行長黃仁勳呼籲20國集團（G20）加速採用AI，以強化成長。他敦促這些全球最大經濟體，擴大資料中心等基礎建設，來支持此一新興科技。",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2fd2e52498dd70fe49d0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 | 產業熱點 | 產業 | 經濟日報",
+      "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
+      "publishedAt": "2026-09-02T14:28:45.565Z",
+      "discoveredAt": "2026-09-02T14:28:45.565Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1cb1fbba621caa153e38",
       "sourceLastModified": null,
@@ -10,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124921/9642027",
-      "title": "吃到飽新勢力2／飯店 Buffet 神話正在崩解？連鎖品牌、百貨商場如何改寫版圖 | 專題報導 | 專題 | 經濟日報",
+      "title": "22:04 吃到飽新勢力2／飯店 Buffet 神話正在崩解？連鎖品牌、百貨商場如何改寫版圖",
       "description": "在Buffet品牌快速崛起下，過去長期稱霸市場的飯店Buffet也面臨前所未有的挑戰。一名台北市星級飯店主管坦言，今年以來Buffet業績已較往年明顯下滑，高價客群正逐漸被連鎖Buffet品牌分食。市場都在問，連鎖吃到版餐飲品牌， 如何吃掉原本飯店業的金雞？",
       "publishedAt": "2026-09-02T14:09:48.188Z",
       "discoveredAt": "2026-09-02T14:09:48.188Z",
@@ -40,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124921/9642027?from=edn_maintab_index",
-      "title": "吃到飽新勢力2／飯店 Buffet 神話正在崩解？連鎖品牌、百貨商場如何改寫版圖 | 專題報導 | 專題 | 經濟日報",
+      "title": "吃到飽新勢力2／飯店 Buffet 神話正在崩解？連鎖品牌、百貨商場如何改寫版圖 在Buffet品牌快速崛起下，過去長期稱霸市場的飯店Buffet也面臨前所未有的挑戰。一名台北市星級飯店主管坦言，今年以來Buffet業績已較往年明顯下滑，高價客群正逐漸被連鎖Buffet品牌分食。...",
       "description": "在Buffet品牌快速崛起下，過去長期稱霸市場的飯店Buffet也面臨前所未有的挑戰。一名台北市星級飯店主管坦言，今年以來Buffet業績已較往年明顯下滑，高價客群正逐漸被連鎖Buffet品牌分食。市場都在問，連鎖吃到版餐飲品牌， 如何吃掉原本飯店業的金雞？",
       "publishedAt": "2026-09-02T14:09:48.188Z",
       "discoveredAt": "2026-09-02T14:09:48.188Z",
@@ -714,7 +954,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1090,7 +1330,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730124?from=edn_hottest_index",
-      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 7866",
+      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 9047",
       "description": "因市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，特定批次產品電容器可能有問題影響，台達電2日股價重挫逾7%。台達電回應，無法評論市場傳聞及客戶合作細節。但若供應商零組件出現問題，台達電會盡力協助客戶安排換貨，確保客戶需求不受影響。",
       "publishedAt": "2026-09-02T13:04:53.455Z",
       "discoveredAt": "2026-09-02T13:04:53.455Z",
@@ -2135,7 +2375,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 6943",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7069",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -2176,7 +2416,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -2266,7 +2506,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2296,7 +2536,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4892,7 +5132,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11162/9728371?from=edn_hottest_index",
-      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 8360",
+      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 8414",
       "description": "台積電啟動AI「冷革命」，昨（1）日首度證實，因應AI高能耗與散熱問題，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，並朝與先進封裝整合方向推進。",
       "publishedAt": "2026-09-02T08:05:41.859Z",
       "discoveredAt": "2026-09-02T08:05:41.859Z",
@@ -5150,246 +5390,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9cab7480386bd98594db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9729934?from=edn_newest_index",
-      "title": "6億珠寶齊聚麗晶！晶華總經理吳偉正揭搶高端客三大策略 | 產業熱點 | 產業 | 經濟日報",
-      "description": "麗晶精品搶攻高端消費市場，持續擴充精品與餐飲陣容。台北晶華酒店總經理吳偉正2日表示，面對電商、海外購物日益便利，高端消費市場結構已經改變，麗晶精品目前從品牌、餐飲及服務三大面向著手，分別創造消費者「前來、停留及再次消費」的理由；繼去年底勞力士開幕後，近期也有新品牌加入及既有品牌改裝，9月中旬還將迎來全新餐廳SAAKA。",
-      "publishedAt": "2026-09-02T07:36:10.146Z",
-      "discoveredAt": "2026-09-02T07:36:10.146Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b46c4f1d321a9294f272",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9729931?from=edn_newest_index",
-      "title": "麗晶之夜登場！麗晶精品今年營收拚破90億元 明年有望攻百億元 | 產業熱點 | 產業 | 經濟日報",
-      "description": "年度精品盛會「2026麗晶之夜」2日晚間於台北晶華酒店登場，今年集結四大頂級珠寶品牌、總價值逾6億元高級珠寶。台北晶華酒店總經理吳偉正表示，麗晶精品今年1至8月業績年增18%，全年有望突破90億元，若延續目前成長趨勢，市場推估明年有望進一步跨越百億元。",
-      "publishedAt": "2026-09-02T07:36:10.146Z",
-      "discoveredAt": "2026-09-02T07:36:10.146Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e3d977257827e1f873a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9729929?from=edn_newest_index",
-      "title": "SEMICON／Google 擴建基地 技術長談認購聯發科：投資優秀公司的機會 | 產業熱點 | 產業 | 經濟日報",
-      "description": "Google 技術長暨 AI 基礎建設資深副總裁Amin Vahdat首度來訪台灣，在SEMICON Taiwan 2026 發表專題演說。今年是Google台灣成立20周年，他也到訪剛啟用、Google位於台北士林的AI基礎建設研發中心，並宣布將在原基地提升60%的辦公空間。",
-      "publishedAt": "2026-09-02T07:36:10.146Z",
-      "discoveredAt": "2026-09-02T07:36:10.146Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_13c94a7beb669a98f8d4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9729891",
-      "title": "15:15 三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線",
-      "description": "美伊時隔逾1個月再爆軍事衝突，加劇全球股市震盪，台股2日遭權值電子股賣壓拖累，台積電（2330）、台達電（2308）等同步走弱，集中市場指數下挫784點、跌幅1.67%，收在全日最低點46,164.72點，跌破5日線，成交值降至9,183.93億元。加計集中市場與櫃買市場，上漲709家、下跌1,127家，漲停25家、跌停0家；三大法人更聯手賣超1,150.34億元，其中外資大砍逾910億元，市場呈現「指數下挫、法人大撤退」情勢。",
-      "publishedAt": "2026-09-02T07:20:16.958Z",
-      "discoveredAt": "2026-09-02T07:20:16.958Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f1d63fe928d222bf9705",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9729891?from=edn_maintab_index",
-      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 美伊時隔逾1個月再爆軍事衝突，加劇全球股市震盪，台股2日遭權值電子股賣壓拖累，台積電（2330）、台達電（2308）等同步走弱，集中市場指數下挫784點、跌幅1.67%，收在全日最低點46,164....",
-      "description": "美伊時隔逾1個月再爆軍事衝突，加劇全球股市震盪，台股2日遭權值電子股賣壓拖累，台積電（2330）、台達電（2308）等同步走弱，集中市場指數下挫784點、跌幅1.67%，收在全日最低點46,164.72點，跌破5日線，成交值降至9,183.93億元。加計集中市場與櫃買市場，上漲709家、下跌1,127家，漲停25家、跌停0家；三大法人更聯手賣超1,150.34億元，其中外資大砍逾910億元，市場呈現「指數下挫、法人大撤退」情勢。",
-      "publishedAt": "2026-09-02T07:20:16.958Z",
-      "discoveredAt": "2026-09-02T07:20:16.958Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c2b7c6486f11db226be0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9729902?from=edn_newest_index",
-      "title": "雨怎麼下這麼久？屏東8月狂灌1749毫米全台最高 1個月下全年8成雨 | 生活 | 要聞 | 經濟日報",
-      "description": "受強烈西南氣流及低壓帶影響，屏東縣從8月22日降雨以來迄今超過11天，「雨怎麼下這麼久？」成為鄉親疑問，縣府水利處今表示，據氣象署統計，8月單月屏東站累積雨量達1749.5毫米，全台最高，短短一個月所下的雨就接近屏東過去一整年平均雨量8成，相當驚人。",
-      "publishedAt": "2026-09-02T07:20:16.958Z",
-      "discoveredAt": "2026-09-02T07:20:16.958Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b60af5966be404242a47",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9729905?from=edn_newest_index",
-      "title": "工研院高爾夫AI機奪WITSA全球大獎 揮桿、球速一機掌握 | 產業熱點 | 產業 | 經濟日報",
-      "description": "工研院研發「HoleInOne全場域複合感知一體機系統方案」，整合多模態感知與邊緣AI技術，可即時分析球速、飛行軌跡及揮桿動作，並已導入高爾夫球場驗證，並獲2026 WITSA全球AI大獎「AI與數據類」肯定，盼推動台灣運動產業由硬體製造走向數據服務。",
-      "publishedAt": "2026-09-02T07:20:16.958Z",
-      "discoveredAt": "2026-09-02T07:20:16.958Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5dc24cdbe5e85e130481",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9729901?from=edn_newest_index",
-      "title": "大盤受國際情勢影響修正 光聖逆勢強攻漲停 | 市場焦點 | 證券 | 經濟日報",
-      "description": "今日大盤受到國際局勢影響，回檔修正，光通訊族群表現相對強勢，由光聖（6442）領頭，開盤略為震盪後便一路走高，10:30前就成功亮燈鎖死，兩大雷射代工廠商華星光（4979）、光環（3234）則分別大漲4%及5.5%，其餘個股也相對有撐。",
-      "publishedAt": "2026-09-02T07:20:16.958Z",
-      "discoveredAt": "2026-09-02T07:20:16.958Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

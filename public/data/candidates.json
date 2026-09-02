@@ -1,7 +1,272 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T12:29:31.229Z",
+  "updatedAt": "2026-09-02T12:50:07.644Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-09-02T12:50:07.644Z",
+      "discoveredAt": "2026-09-02T12:50:07.644Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_4e4ea625eaeae1824510",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9730351",
+      "title": "今日最夯ETF／貼息也要買！00406A 連三日爆量逾20萬張 規模增至334億元 | 基金天地 | 理財 | 經濟日報",
+      "description": "雖然台股2日下跌784點、跌幅1.67%，成交量縮至不到1兆元，不過主動中信台灣收益ETF（00406A）成交量連三日爆量超過20萬張，基金規模也一路成長達到334.2億元，較掛牌時的62.9億元大增431.3%。即使今日除息日貼息，人氣依然火爆。",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e94a8e6c4b8e552c7564",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730444",
+      "title": "輝達與 Google 母公司認購公司債 蔡力行：代表 AI 產業對聯發科的信心 | 產業熱點 | 產業 | 經濟日報",
+      "description": "針對輝達（NVIDIA）與Google母公司Alphabet都參與認購聯發科（2454）無擔保轉換公司債，聯發科執行長蔡力行於2日表示，這代表AI產業對於聯發科的信心，代表這兩家夥伴對該公司的興趣，他個人也認為公司未來會有很好的發展。",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3056ad2d7ee822638041",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9730530?from=edn_maintab_index",
+      "title": "國銀五大信賴放款要破5兆了！7月暴增逾3,000億元 近八成增量非行庫 | 金融脈動 | 金融 | 經濟日報",
+      "description": "據金管會統計，7月底國銀五大信賴產業放款餘額達4兆9,513億元，7月單月暴增3,061億元、首破3,000億元，寫上路以來單月最大增額，最快8月可望突破5兆元，目前以軍工、AI及安控需求最旺。",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f428c7e9465df8e0d2fe",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9730637?from=edn_newest_index",
+      "title": "五年70億美元 雪佛龍大手筆投資委內瑞拉 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國能源巨頭雪佛龍（Chevron）公司計劃未來五年投資70億美元，把在委內瑞拉的產油量提高一倍多，成為目前為止響應川普政府號召規模最大的委國投資案。",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e397bc7dbe28608a52ef",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730635?from=edn_newest_index",
+      "title": "玩真的？美商務部長：評估開徵新晶片關稅 赴美設廠可減免 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國商務部長盧特尼克2日表示，川普政府評估開徵新一輪半導體關稅，或許會提高外國製晶片的稅率，好吸引更多製造業回流。",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_796ff2326383ecf912cd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9730618?from=edn_newest_index",
+      "title": "食藥署長遭指與中聯總座關係良好 衛福部駁斥：蒐證追究責任 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "立委徐巧芯發文指出，致癌油含量未滿20%產品不必下架為賴清德總統授意，且食藥署長姜至剛與中聯公司總經理余凌沖關係良好。對此，衛福部食藥署嚴正聲明，貼文內容與事實不符，已啟動蒐證，不排除追究發文者法律責任。",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7b2819214c7e707f7c58",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730628?from=edn_newest_index",
+      "title": "艾爾段：土耳其將考慮成為上合組織正式成員國 | 國際焦點 | 國際 | 經濟日報",
+      "description": "北大西洋公約組織（NATO）成員國土耳其的總統艾爾段今天表示，土耳其將考慮把與上海合作組織的關係提升至更高層級。上合組織...",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_15264a193855157d1c06",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9729160?from=edn_newest_index",
+      "title": "美國加密貨幣交易所 Coinbase 聯合創始人尋求控制委內瑞拉三處油田 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 據知情人士透露，隨著華盛頓重塑委內瑞拉石油產業，並以美國總統唐納·川普陣營青睞的投資者取代部分馬杜洛時代的運營商，加密貨幣交易所Coinbase聯合創始人Fred Ehrsam正尋求控制至少三個委內瑞拉油田。",
+      "publishedAt": "2026-09-02T12:49:48.147Z",
+      "discoveredAt": "2026-09-02T12:49:48.147Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_11400c92a54789d00db9",
       "sourceLastModified": null,
@@ -10,7 +275,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9730239",
-      "title": "全球債券價格下挫 但跌勢遠不及2022年劇烈 | 國際焦點 | 國際 | 經濟日報",
+      "title": "20:14 【經濟x彭博】全球債券價格下挫 但跌勢遠不及2022年劇烈",
       "description": "全球債券市場當前這波拋售看起來劇烈，但與四年前相比並不算什麼……",
       "publishedAt": "2026-09-02T12:29:31.229Z",
       "discoveredAt": "2026-09-02T12:29:31.229Z",
@@ -414,7 +679,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -760,7 +1025,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 6310",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 6431",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -774,12 +1039,39 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7d7113e9ed7d016979c3",
+      "sourceLastModified": "2026-09-02T11:22:09.921Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "publishedAt": "2026-09-02T11:22:09.921Z",
+      "discoveredAt": "2026-09-01T17:07:01.813Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -2064,7 +2356,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2094,7 +2386,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3490,7 +3782,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11162/9728371?from=edn_hottest_index",
-      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 8115",
+      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 8162",
       "description": "台積電啟動AI「冷革命」，昨（1）日首度證實，因應AI高能耗與散熱問題，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，並朝與先進封裝整合方向推進。",
       "publishedAt": "2026-09-02T08:05:41.859Z",
       "discoveredAt": "2026-09-02T08:05:41.859Z",
@@ -4554,7 +4846,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4953,6 +5245,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_671b4d287ffab7489af7",
+      "sourceLastModified": "2026-09-02T05:44:22.986Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "publishedAt": "2026-09-02T05:44:22.986Z",
+      "discoveredAt": "2026-08-13T18:42:02.450Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 82,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0385aeff1a5d0823bb4b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -5069,331 +5388,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d0dfd6795e4f8704eb52",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9729591?from=edn_newest_index",
-      "title": "「8月以來加強巡查」 共軍今再赴黃岩島周邊海空戰備警巡 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "共軍南部戰區今（2）日宣布，組織海空兵力位「中國黃岩島」（我稱民主礁、菲律賓稱斯卡伯勒淺灘）領海、領空及周邊海空域展開戰備警巡，並稱自8月以來，戰區部隊組織持續加強黃岩島周邊海空域巡邏警戒，進一步強化相關海空域管控力度。",
-      "publishedAt": "2026-09-02T05:30:48.537Z",
-      "discoveredAt": "2026-09-02T05:30:48.537Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_285fce775029ceb6f8aa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9727944?from=edn_hottest_index",
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 9766",
-      "description": "皇翔（2545）1日公告，為提高資金運用效益，於8月3日至9月1日期間處分聯發科（2454）股票共175張，每股平均處分價格4,246.95元，交易總金額約7.43億元，處分損失約1,475萬元。此次處分後，皇翔仍持有聯發科股票共83張，總金額約3.57億元，持股比例約0.003%。",
-      "publishedAt": "2026-09-02T05:30:48.537Z",
-      "discoveredAt": "2026-09-02T05:30:48.537Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-09-02T05:08:23.210Z",
-      "discoveredAt": "2026-09-02T05:08:23.210Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_039396486be303c5da5b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9729459",
-      "title": "12:58 輝達為合約收入托底 GMI Cloud 算力融資案 超額認購逾一倍達約300億元",
-      "description": "輝達（NVIDIA）合作夥伴、總部在美國但在台灣布局資料中心的GMI Cloud，近期籌辦以先進晶片算力銷售收入為擔保的貸款案，獲得超過原定規模兩倍的承諾，凸顯亞洲首批同類AI硬體融資案需求強勁。",
-      "publishedAt": "2026-09-02T05:08:07.393Z",
-      "discoveredAt": "2026-09-02T05:08:07.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_43045f109f8373421f63",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9729540?from=edn_newest_index",
-      "title": "光大環境（00257.HK）中報深讀：科技創新底色走向「產業」 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "香港2026年9月2日 /美通社/ -- 在傳統環保行業告別大規模資本開支（CAPEX）驅動的重資產建造時代後，市場對環保企業的評價體系也發生根本性改變。過去評估一家環保企業看的是「資產規模與項目數量」，而未來決定企業上限的，則是「技術高度與成果產業化效率」。光大環境（00257.HK）早前在其2026年中期業績交出了一份亮眼的答卷：上半年歸母淨利潤同比升10%至24.31億港元，營運服務收益佔比由去年上半年的70%躍升至76%。更具深遠意義的是，公司科技創新的底色正完成從「實驗室研發」向「產業化變現」的關鍵跳躍，科技引領正成為其穿越行業週期、驅動長遠增長的核心引擎。 五大科技樣板間全面鋪開，從「試點」走向「標杆可複製」 科技創新的價值，最終體現在對營運質效的提升上。光大環境全面啟動「五大科技樣板間」建設，將數智技術深植於營運場景中。在已建成的山東濟南智慧水廠樣板間，通過智慧化監控與低碳工藝優化，單位污水處理成本可成功降低20%；在湖北鐘祥生物質智慧料場，堆取料效率提升20%，實現人工智能自動預警與常態化無人值守，每年節約人工與燃料成本超過400萬元人民幣；而江蘇蘇州智慧電廠、湖南益陽",
-      "publishedAt": "2026-09-02T05:08:07.393Z",
-      "discoveredAt": "2026-09-02T05:08:07.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eec91d48f9a1d1266ac3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9729538?from=edn_newest_index",
-      "title": "馬來西亞留台聯總拓展多元族群 培養台馬交流新種子 | 國際焦點 | 國際 | 經濟日報",
-      "description": "大馬赴台留學人數累計逾13萬人，過去多以獨立中學為主。留台聯總會長洪進興今天表示，未來將在華裔基礎上擴大到其他族群，讓馬...",
-      "publishedAt": "2026-09-02T05:08:07.393Z",
-      "discoveredAt": "2026-09-02T05:08:07.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a7b31dbfe22b0c61a8b2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6721/9729531?from=edn_newest_index",
-      "title": "黃之鋒被控勾結境外勢力 台灣民團聲援 | 港澳話題 | 兩岸 | 經濟日報",
-      "description": "台灣多個民團今天在立法院群賢樓外聲援香港民主運動人士黃之鋒，訴求撤銷對黃之鋒串謀勾結外國或者境外勢力危害國家安全罪等控罪...",
-      "publishedAt": "2026-09-02T05:08:07.393Z",
-      "discoveredAt": "2026-09-02T05:08:07.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_348bbf34882563979ee3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9729527?from=edn_newest_index",
-      "title": "桃機第三航廈拚116年底完工 廉政平台跨機關監督把關工程 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "桃機公司今天表示，第三航站區建設計畫預計116年底完工，機場公司於8月31日召開「第三航站區建設計畫廉政平台」聯繫會議，...",
-      "publishedAt": "2026-09-02T05:08:07.393Z",
-      "discoveredAt": "2026-09-02T05:08:07.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_71c55c82d5d75b56c53e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9729522?from=edn_newest_index",
-      "title": "連續出海超過250天創紀錄！林肯號航艦終於停靠泰國休整 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國海軍「林肯號」（USS Abraham Lincoln）航空母艦在海上創紀錄地連續航行超過250天、並結束中東艱苦部署任務後，2日終於停靠泰國東部林查班港。",
-      "publishedAt": "2026-09-02T05:08:07.393Z",
-      "discoveredAt": "2026-09-02T05:08:07.393Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c412a4a69bfaed642153",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9729444",
-      "title": "12:42 欣興遭搜索後股價首度翻紅！外資連17日買超6.6萬張 市場在押什麼？",
-      "description": "欣興（3037）產地標示爭議尚待釐清，桃園地檢署日前搜索公司龜山總公司及中壢廠，目前相關案情仍在偵辦中。不過，股價經歷連續重挫後，2日出現承接買盤，早盤以955元開出、一度走低至948元後翻紅，最高觸及988元，為檢調搜索後首度翻紅；反觀前一日受到「轉單」預期帶動而走強的PCB、載板股，今日反而普遍承壓，族群走勢明顯分化。",
-      "publishedAt": "2026-09-02T04:54:07.301Z",
-      "discoveredAt": "2026-09-02T04:54:07.301Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_87b52e30b4dac6633dbe",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9729501?from=edn_newest_index",
-      "title": "玉山009827今掛牌！一萬元搶當科技巨頭股東 | 基金天地 | 理財 | 經濟日報",
-      "description": "一萬元投資，也能搶當全球科技巨擘股東。國內首檔聚焦算力ETF—玉山未來全球算力ETF（009827） 2日正式掛牌。",
-      "publishedAt": "2026-09-02T04:54:07.301Z",
-      "discoveredAt": "2026-09-02T04:54:07.301Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

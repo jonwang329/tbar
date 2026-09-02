@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T15:49:09.557Z",
+  "updatedAt": "2026-09-02T16:05:26.500Z",
   "candidates": [
+    {
+      "id": "cand_d68d29ae832bcc3b3aee",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9730965?from=edn_newest_index",
+      "title": "九三軍人節優惠懶人包！全聯咖啡免費喝 超商買1送1、全店折扣一次看 | 生活 | 要聞 | 經濟日報",
+      "description": "迎接九三軍人節，超商、超市與量販通路紛紛推出專屬優惠，祭出折扣與免費好禮向辛勞的國軍致敬。",
+      "publishedAt": "2026-09-02T16:05:06.926Z",
+      "discoveredAt": "2026-09-02T16:05:06.926Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8316b6852929ef847d26",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9730890?from=edn_newest_index",
+      "title": "C肝群聚風暴 律師：診所難逃連帶賠償責任 籲患者做這事保權益 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "國內出現急性病毒性Ｃ型肝炎群聚事件，11名急性Ｃ肝病例曾於新北市板橋「安泰淞鶴診所」接受注射針劑，比對病毒核酸序列高度相似，研判存在共同感染源；疾管署會同新北市衛生局查出該診所涉及九大缺失，諸多環節未落實安全注射及感染管制措施，目前擴大召回118八人抽血檢驗，疾管署預估陽性率約5%至10%。",
+      "publishedAt": "2026-09-02T16:05:06.926Z",
+      "discoveredAt": "2026-09-02T16:05:06.926Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e1341df90a0b553fd707",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730978?from=edn_newest_index",
+      "title": "廣運集團半導體業務報佳音 盛新攻入歐洲設備供應鏈 | 產業熱點 | 產業 | 經濟日報",
+      "description": "廣運（6125）半導體業務傳兩喜訊，除自動化物料搬運系統今年接單比去年大增8成，明年挑戰翻倍成長，另外，專攻第三類半導體材料SiC（碳化矽）的盛新材料科技成軍7年，10月將登錄興櫃，與精密雷射業鼎極科技合作揮軍半導體關鍵製程機台供應鏈，半絕緣碳化矽也打入衛星供應鏈，微通道蓋板也送樣中，布局進入收割期。",
+      "publishedAt": "2026-09-02T16:05:06.926Z",
+      "discoveredAt": "2026-09-02T16:05:06.926Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_29c49ab1acbfdf88f829",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9730560?from=edn_newest_index",
+      "title": "南亞目標價 小摩喊350 | 市場焦點 | 證券 | 經濟日報",
+      "description": "摩根大通（J.P Morgan，小摩）1日發布報告指出，南亞（1303）受惠電子材料產品全面漲價效益，加上高階產品比重提升，更具備近期火熱的聚四氟乙烯（PTFE）銅箔基板（CCL）技術實力，給予南亞「優於大盤」評等，並將目標價大升至350元。",
+      "publishedAt": "2026-09-02T16:05:06.926Z",
+      "discoveredAt": "2026-09-02T16:05:06.926Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ffcb6d411cc26f2b7cae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9730578?from=edn_newest_index",
+      "title": "大銀接單 看到明年第2季 | 集中市場 | 證券 | 經濟日報",
+      "description": "國際半導體展昨（2）日開展，精密運動與控制元件廠大銀微系統（4576）釋出利多消息，執行副總經理游凱勝表示，矽光子檢測設備第3季起訂單「大爆發」，客戶目前已追加兩次訂單，規模達數百台，能見度看到明年第2季。",
+      "publishedAt": "2026-09-02T16:05:06.926Z",
+      "discoveredAt": "2026-09-02T16:05:06.926Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dbfce63667728becf70f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9729275?from=edn_bloomberg_index_side",
+      "title": "油價高企之際 川普敦促美國煉油企業增產汽柴油 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 美國總統唐納·川普周二在一次閉門會議上敦促美國煉油企業提高國內汽油和柴油產量。",
+      "publishedAt": "2026-09-02T16:05:06.926Z",
+      "discoveredAt": "2026-09-02T16:05:06.926Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2252620c25626f62feae",
       "sourceLastModified": null,
@@ -100,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124480/9729718?from=edn_VIP_index_side",
-      "title": "錢不夠用2／AI 新貴「賺多花多」 新竹消費支出緊追天龍國 | 深度報導 | 專題 | 經濟日報",
+      "title": "錢不夠用2／AI 新貴「賺多花多」 新竹消費支出緊追天龍國",
       "description": "114年每人消費支出暴增7%，花哪兒了？主計總處家庭收支調查顯示，主要花在「吃」跟「住」上。去年每月消費支出增加1,900元，約1,150元增加在吃跟住上，也就是基本消費。吃跟住的支出增幅都在7%以上。",
       "publishedAt": "2026-09-02T15:49:09.557Z",
       "discoveredAt": "2026-09-02T15:49:09.557Z",
@@ -460,7 +640,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 7587",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8022",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -1854,7 +2034,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2020,7 +2200,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730124?from=edn_hottest_index",
-      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 11400",
+      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 11684",
       "description": "因市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，特定批次產品電容器可能有問題影響，台達電2日股價重挫逾7%。台達電回應，無法評論市場傳聞及客戶合作細節。但若供應商零組件出現問題，台達電會盡力協助客戶安排換貨，確保客戶需求不受影響。",
       "publishedAt": "2026-09-02T13:04:53.455Z",
       "discoveredAt": "2026-09-02T13:04:53.455Z",
@@ -2034,7 +2214,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2059,7 +2239,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -2149,7 +2329,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3065,7 +3245,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7423",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7485",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -5210,186 +5390,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ea3c9285562d076feef7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9730065?from=edn_maintab_index",
-      "title": "新台幣貶9.5分 收31.728元 台北外匯市場新台幣兌美元今天收盤收31.728元，貶9.5分，成交金額28.58億美元。 新台幣兌美元今天開盤價為31.65元，最高31.65元、最低31.804元。...",
-      "description": "台北外匯市場新台幣兌美元今天收盤收31.728元，貶9.5分，成交金額28.58億美元",
-      "publishedAt": "2026-09-02T08:39:53.434Z",
-      "discoveredAt": "2026-09-02T08:39:53.434Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_490310cdce8146f88690",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9730110?from=edn_newest_index",
-      "title": "川普、習近平、普丁擬在APEC三方會晤？陸外交部回應了 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "俄方近日透露，中俄美三國領導人可能在今年大陸主辦的亞太經合組織（APEC）峰會期間舉行三方會晤。對此，大陸外交部發言人郭嘉昆今（2）日下午回應，目前沒有可以提供的信息。",
-      "publishedAt": "2026-09-02T08:39:53.434Z",
-      "discoveredAt": "2026-09-02T08:39:53.434Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8acd595f3e00a525547d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9730107?from=edn_newest_index",
-      "title": "期交所調高玉晶光、小型玉晶光、金居及精材期貨保證金 | 期貨市場 | 期貨 | 經濟日報",
-      "description": "台灣期貨交易所於9月3日調高玉晶光期貨（LEF）、小型玉晶光期貨（QJF）、金居期貨（PQF）及精材期貨（QLF）保證金為現行所屬級距適用比例的1.5倍。",
-      "publishedAt": "2026-09-02T08:39:53.434Z",
-      "discoveredAt": "2026-09-02T08:39:53.434Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ab3e54296df09ecbdfcb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12509/9730102?from=edn_newest_index",
-      "title": "新台幣收31.728元 貶9.6分 | AI 人機協作 | 證券 | 經濟日報",
-      "description": "2日新台幣兌美元匯率收在31.728元，較前一交易日收盤31.632元貶值9.6分。盤中最高價為31.650元、最低價為31.804元，開盤價31.650元，全日成交額為28.58億美元。 （此文章為AI人機協作，正確數據以主管機關為準。）",
-      "publishedAt": "2026-09-02T08:39:53.434Z",
-      "discoveredAt": "2026-09-02T08:39:53.434Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_01ccfc72809ae2248ef8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9730105?from=edn_newest_index",
-      "title": "台企銀法說會／上半年賺逾74億元、EPS 0.71元 配息以股票股利為主 | 金融脈動 | 金融 | 經濟日報",
-      "description": "臺企銀（2834）2日舉行2026年第2季法人說明會，上半年稅後純益74.1億元，較去年同期成長15.37%，每股盈餘（EPS）0.71元，副總經理曾國樑指出，股利政策仍以發放股票股利為主，至於現金股利則將審慎評估逐步提高，展望下半年台企銀將把握半導體及AI伺服器產業需求，持續拓展中小企業融資、消費金融及財富管理等業務，以達成全年盈餘成長目標。",
-      "publishedAt": "2026-09-02T08:39:53.434Z",
-      "discoveredAt": "2026-09-02T08:39:53.434Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9156a54f005505e01b63",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9730046?from=edn_newest_index",
-      "title": "iPhone 18系列新機登場倒數 舊機出清狂降 撿便宜現在買這款最划算 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "Apple新一代iPhone即將在下週正式亮相，台灣手機市場也提前掀起新舊機種換機潮。傑昇通信彙整市調機構與門市銷售數據指出，自2025年9月iPhone 17系列及iPhone Air上市至2026年6月，台灣累計售出超過206萬台iPhone，較去年同期189萬台成長9%。",
-      "publishedAt": "2026-09-02T08:39:53.434Z",
-      "discoveredAt": "2026-09-02T08:39:53.434Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

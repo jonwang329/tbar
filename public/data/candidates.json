@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T16:55:14.172Z",
+  "updatedAt": "2026-09-02T17:10:21.927Z",
   "candidates": [
+    {
+      "id": "cand_b7c07a570d1012198811",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9730826?from=edn_newest_index",
+      "title": "台電明年新編900萬核安經費 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "台電明年度預算新增編列900萬元，辦理核能電廠自主安全檢查耐震安全評估，並明載核二、核三廠具備換發運轉執照可能性，相關換照文件整備工作已展開。",
+      "publishedAt": "2026-09-02T17:10:21.927Z",
+      "discoveredAt": "2026-09-02T17:10:21.927Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_de0b77bc6aa801682113",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9731004?from=edn_newest_index",
+      "title": "美商務部長：擬加徵半導體關稅 在美生產可豁免 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國商務部長盧特尼克（Howard Lutnick）今天表示，川普政府正制定對半導體加徵新關稅的計畫，若企業在美國生產，...",
+      "publishedAt": "2026-09-02T17:10:21.927Z",
+      "discoveredAt": "2026-09-02T17:10:21.927Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4a4048a79a206130bcaa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9730825?from=edn_newest_index",
+      "title": "虛擬資產子法明年Q1落地 | 金融脈動 | 金融 | 經濟日報",
+      "description": "亞洲金融科技聯盟（AFA）與台灣金融科技協會昨（2）日舉辦高峰會，金管會主委彭金隆致詞表示，AI與區塊鏈正重塑金融生態，隨著《虛擬資產服務法》於6月底完成立法，相關九項子法正積極訂定中，預計最快明年第1季正式公布實施。金管會將在兼顧風險控管與鼓勵創新的前提下，加速推動AI金融應用，並引導虛擬資產與穩定幣邁向健全發展與監理新面貌。",
+      "publishedAt": "2026-09-02T17:10:21.927Z",
+      "discoveredAt": "2026-09-02T17:10:21.927Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dbeeb44be86d909aca3f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730884?from=edn_newest_index",
+      "title": "馬斯克：人形機器人上工 十年10億台 亞光、盟立等應聲漲停慶祝 | 產業熱點 | 產業 | 經濟日報",
+      "description": "特斯拉及SpaceX執行長馬斯克表示，人工智慧（AI）是帶動繁盛的工具，他並預言，未來十年將有10億台運作中的人形機器人，生產效率可達人類的五倍。",
+      "publishedAt": "2026-09-02T17:10:21.927Z",
+      "discoveredAt": "2026-09-02T17:10:21.927Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6d75bcaf06cd35e4c930",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730886?from=edn_newest_index",
+      "title": "馬斯克G20峰會上 示警人工智慧瓶頸…電力危機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "馬斯克2日在G20峰會上，除了預測AI及機器人將大幅提升生產力外，同時對AI發展將面臨的能源瓶頸發出警告，並宣稱一場相當嚴重的電力危機即將來臨。",
+      "publishedAt": "2026-09-02T17:10:21.927Z",
+      "discoveredAt": "2026-09-02T17:10:21.927Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d3b520aaacb20ef02b15",
       "sourceLastModified": null,
@@ -624,7 +774,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1090,7 +1240,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8817",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8937",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -1614,7 +1764,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2650,7 +2800,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730124?from=edn_hottest_index",
-      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 12111",
+      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 12189",
       "description": "因市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，特定批次產品電容器可能有問題影響，台達電2日股價重挫逾7%。台達電回應，無法評論市場傳聞及客戶合作細節。但若供應商零組件出現問題，台達電會盡力協助客戶安排換貨，確保客戶需求不受影響。",
       "publishedAt": "2026-09-02T13:04:53.455Z",
       "discoveredAt": "2026-09-02T13:04:53.455Z",
@@ -3695,7 +3845,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7620",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7635",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -3719,7 +3869,7 @@
     },
     {
       "id": "cand_7d7113e9ed7d016979c3",
-      "sourceLastModified": "2026-09-02T16:24:37.331Z",
+      "sourceLastModified": "2026-09-02T17:10:20.844Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -5241,156 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1823dbe376ae26b74ea1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9730129?from=edn_maintab_index",
-      "title": "南亞科營收／8月446.9億元 月增1.88%、年增560.85% 南亞科（2408）2日公布2026年8月合併營收為446.9億元，較上月增加1.88%，較去年同期增加560.85%，續創歷史新高；累計今年前8月合併營收為2,201.94億元，較去年同期增加638...",
-      "description": "南亞科（2408）2日公布2026年8月合併營收為446.9億元，較上月增加1.88%，較去年同期增加560.85%，續創歷史新高；累計今年前8月合併營收為2,201.94億元，較去年同期增加638.19%。",
-      "publishedAt": "2026-09-02T09:28:17.131Z",
-      "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f21068748218aed4617b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730232?from=edn_newest_index",
-      "title": "童子賢：AI 加持 ABF 精密度大幅提升 看好景碩長期營運動能 | 產業熱點 | 產業 | 經濟日報",
-      "description": "和碩（4938）董事長童子賢持續看好集團IC載板廠景碩（3189）長期營運發展，他表示，AI世代到來的同時，ABF精度需求也是過去4到5倍以上，且更是半導體等級的精密程度，同步帶動上下游合作供應鏈關係更加緊密，因此將持續看好景碩未來營運成長動能發展。",
-      "publishedAt": "2026-09-02T09:28:17.131Z",
-      "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a627d57f75a261b4fadc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9730220?from=edn_newest_index",
-      "title": "別再告訴孩子「下定決心就能做到」 心理學家：父母更該教這5句話 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "執業超過20年的心理學家芙拉加（Juli Fraga）表示，表達鼓勵與支持本身沒有問題，但告訴孩子「你什麼都做得到」，會讓他以為所有志向都在自己能力範圍內，也暗示只要努力，就足以達成少數人才辦得到的目標，例如成為流行歌巨星，或進入常春藤盟校。 芙拉加看過這種說法造成反效果。過度聚焦結果，可能強化「外在動機」，讓孩子努力或嘗試新事物的驅動力都來自稱讚、好成績或獎盃等外在報酬，但這些事情未必都在他們能控制的範圍內。 更好的做法是保持務實。她建議可以改對孩子說五句話：",
-      "publishedAt": "2026-09-02T09:28:17.131Z",
-      "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_95dfeed51cb6545ef891",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730223?from=edn_newest_index",
-      "title": "台灣虎航開航高雄往返石垣島、小松2條航線 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台灣虎航今天在高雄國際機場舉辦高雄-石垣島、高雄-小松雙航線開航慶祝儀式，這2條航線開航後，讓台灣虎航自高雄出發的航線由...",
-      "publishedAt": "2026-09-02T09:28:17.131Z",
-      "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_384494d51f3ceae6bf8d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9730218?from=edn_newest_index",
-      "title": "SEMICON／AI 帶動半導體擴產潮 卓揆：台灣備妥土地、能源、人才迎投資 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "AI浪潮帶動全球半導體產業快速成長，台灣如何接住國內外大廠投資成為關鍵。行政院長卓榮泰2日出席「SEMICON Taiwan 2026國際半導體展」開幕典禮表示，政府將從土地、能源、人才、人力及金融等面向做好準備，滿足國內外大廠在台投資需求；除持續推動「晶片驅動台灣產業創新方案」（晶創台灣）、「AI新十大建設」，也將透過中小微企業轉型升級政策，強化高科技產業供應鏈。",
-      "publishedAt": "2026-09-02T09:28:17.131Z",
-      "discoveredAt": "2026-09-02T09:28:17.131Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T10:46:17.991Z",
+  "updatedAt": "2026-09-02T10:57:20.470Z",
   "candidates": [
+    {
+      "id": "cand_fb780ef4a7411ff79ce3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9730218",
+      "title": "SEMICON／AI 帶動半導體擴產潮 卓揆：台灣備妥土地、能源、人才迎投資 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "AI浪潮帶動全球半導體產業快速成長，台灣如何接住國內外大廠投資成為關鍵。行政院長卓榮泰2日出席「SEMICON Taiwan 2026國際半導體展」開幕典禮表示，政府將從土地、能源、人才、人力及金融等面向做好準備，滿足國內外大廠在台投資需求；除持續推動「晶片驅動台灣產業創新方案」（晶創台灣）、「AI新十大建設」，也將透過中小微企業轉型升級政策，強化高科技產業供應鏈。",
+      "publishedAt": "2026-09-02T10:57:20.470Z",
+      "discoveredAt": "2026-09-02T10:57:20.470Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_67809b60cfeef6b9f4ea",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9730418?from=edn_newest_index",
+      "title": "挑戰博通！陸交換晶片龍頭定增募資超200億加碼下一代晶片 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸交換晶片龍頭盛科通信1日發布2026年度向特定對象發行A股股票預案，擬向不超過35名特定對象發行股票，募集資金總額預計不超過人民幣48億元（約新台幣227億），用於下一代高性能交換晶片研發和產業化等項目。該舉有望挑戰該領域被巨頭博通長期壟斷格局。",
+      "publishedAt": "2026-09-02T10:57:20.470Z",
+      "discoveredAt": "2026-09-02T10:57:20.470Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a667c68dc47945b27550",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9730417?from=edn_newest_index",
+      "title": "國台辦稱依「一中原則」處理台參會APEC事宜 陸委會：不存在此前提 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "勞動部長洪申翰將赴南京出席亞太經濟合作會議（APEC）人力資源發展部長會議。針對國台辦今（2）日上午稱，將按照「一個中國原則」和APEC有關諒解備忘錄規定及慣例處理台灣的參會事宜，陸委會傍晚回應，台灣是APEC的正式會員，具完整的會員資格，參與地位不容貶損，更不存在所謂「一中原則」的前提。",
+      "publishedAt": "2026-09-02T10:57:20.470Z",
+      "discoveredAt": "2026-09-02T10:57:20.470Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5550356e2338c987547e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9730410?from=edn_newest_index",
+      "title": "長鑫離挑戰韓系大廠還有多遠？ | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "大陸記憶體大廠長鑫存儲傳出在高頻寬記憶體（HBM）新進展。外電報導，長鑫已開始小量生產HBM3E，並計劃明年擴產；阿里巴巴旗下平頭哥、寒武紀等正測試搭配處理器，最快明年採用。不過，長鑫HBM技術仍落後三星、SK海力士及美光約3年至5年，從DRAM追趕到高階記憶體，長鑫距離韓系大廠還有多遠？",
+      "publishedAt": "2026-09-02T10:57:20.470Z",
+      "discoveredAt": "2026-09-02T10:57:20.470Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4e6658a9a0a3ade912f1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9730411?from=edn_newest_index",
+      "title": "櫃買中心修正興櫃股票買賣辦法 新增暫緩交易機制及強化價格穩定措施 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "為維護興櫃市場交易秩序及保障投資人權益，櫃買中心修正「興櫃股票買賣辦法」及「興櫃股票推薦證券商內部作業辦法應行記載事項要點」部分條文規定。因涉及電腦系統調整期程，本次修正規章採分階段施行。個股達暫停交易標準後發行公司揭露財務業務狀況及證券商申請改帳作業處理原則部分，自公告日起施行；登錄首五個營業日委託價格控管機制部分，自2026年9月21日起施行；新增暫緩交易機制及調整推薦證券商造市義務部分，自2027年2月22日起施行。",
+      "publishedAt": "2026-09-02T10:57:20.470Z",
+      "discoveredAt": "2026-09-02T10:57:20.470Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_eed71597458e0e64087c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5635/9729307?from=edn_newest_index",
+      "title": "扇子之外 候選人把政見裝進一杯咖啡裡 | 熱門亮點 | 商情 | 經濟日報",
+      "description": "115年地方公職人員選舉將於2026年11月28日舉行。隨著選戰升溫，候選人除了看板、傳單、面紙與扇子，也開始尋找更實用、更有記憶點的競選文宣品。桃園楊梅的紐法科技股份有限公司，近期推出候選人專屬客製化濾掛式咖啡，將候選人肖像、姓名、競選主訴求及代表性議題整合在單包咖啡包裝上，讓文宣不只被看見，也能被帶回家、實際使用。 從活動現場觀察，看見選舉文宣的記憶競爭 紐法科技表示，團隊曾在一場約一小時的活動中收到8支候選人扇子，也曾在兩場活動中收到7位候選人的扇子。扇子具有即時曝光與實用功能，但當同類型宣傳品大量出現時，候選人更需要思考：如何讓自己的理念在活動結束後，仍能留在選民生活裡。 「扇子負責現場曝光，咖啡負責留下記憶。」 客製化濾掛咖啡的差異，在於選民收到後通常會先看包裝、再帶回家，並在拆封與沖泡時再次接觸候選人訊息。從視覺辨識、咖啡香氣到實際飲用，形成比單次閱讀更長的互動路徑，也讓候選人的形象與關懷自然融入家庭、辦公室及社區生活。 不是公版換名字，而是替每位候選人重新定位 紐法科技指出，候選人客製化濾掛式咖啡並非把照片貼上公版包裝，而是先整理候選人的公開背景、核心形象、主",
+      "publishedAt": "2026-09-02T10:57:20.470Z",
+      "discoveredAt": "2026-09-02T10:57:20.470Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0536d9314b0a4613ac79",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9730129",
-      "title": "南亞科營收／8月446.9億元 月增1.88%、年增560.85% | 集中市場 | 證券 | 經濟日報",
+      "title": "18:32 南亞科營收／8月446.9億元 月增1.88%、年增560.85%",
       "description": "南亞科（2408）2日公布2026年8月合併營收為446.9億元，較上月增加1.88%，較去年同期增加560.85%，續創歷史新高；累計今年前8月合併營收為2,201.94億元，較去年同期增加638.19%。",
       "publishedAt": "2026-09-02T10:46:17.991Z",
       "discoveredAt": "2026-09-02T10:46:17.991Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9730351?from=edn_maintab_index",
-      "title": "今日最夯ETF／貼息也要買！00406A 連三日爆量逾20萬張 規模增至334億元 | 基金天地 | 理財 | 經濟日報",
+      "title": "今日最夯ETF／貼息也要買！00406A 連三日爆量逾20萬張 規模增至334億元 雖然台股2日下跌784點、跌幅1.67%，成交量縮至不到1兆元，不過主動中信台灣收益ETF（00406A）成交量連三日爆量超過20萬張，基金規模也一路成長達到334.2億元，較掛牌時的62.9億元大...",
       "description": "雖然台股2日下跌784點、跌幅1.67%，成交量縮至不到1兆元，不過主動中信台灣收益ETF（00406A）成交量連三日爆量超過20萬張，基金規模也一路成長達到334.2億元，較掛牌時的62.9億元大增431.3%。即使今日除息日貼息，人氣依然火爆。",
       "publishedAt": "2026-09-02T10:46:17.991Z",
       "discoveredAt": "2026-09-02T10:46:17.991Z",
@@ -2260,7 +2440,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11162/9728371?from=edn_hottest_index",
-      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 7890",
+      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 7914",
       "description": "台積電啟動AI「冷革命」，昨（1）日首度證實，因應AI高能耗與散熱問題，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，並朝與先進封裝整合方向推進。",
       "publishedAt": "2026-09-02T08:05:41.859Z",
       "discoveredAt": "2026-09-02T08:05:41.859Z",
@@ -3880,7 +4060,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727944?from=edn_hottest_index",
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 9726",
+      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 9735",
       "description": "皇翔（2545）1日公告，為提高資金運用效益，於8月3日至9月1日期間處分聯發科（2454）股票共175張，每股平均處分價格4,246.95元，交易總金額約7.43億元，處分損失約1,475萬元。此次處分後，皇翔仍持有聯發科股票共83張，總金額約3.57億元，持股比例約0.003%。",
       "publishedAt": "2026-09-02T05:30:48.537Z",
       "discoveredAt": "2026-09-02T05:30:48.537Z",
@@ -5208,186 +5388,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e9cd737740c10123739c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9729155",
-      "title": "11:03 美伊再開戰拖累台股！半導體展點火設備股 蔚華科、精測、均華飆漲停",
-      "description": "美伊時隔一個多月後再度爆發軍事衝突，推升原油價格持續上漲，也引爆全球股市震盪，台股2日早盤一度重挫逾720點，不過半導體產業年度盛會SEMICON Taiwan 2026正式登場，部分半導體設備概念股逆勢吸金，蔚華科（3055）、精測（6510）強攻漲停，均華（6640）也頻頻亮燈，穎崴（6515）、天虹（6937）等同步強攻。",
-      "publishedAt": "2026-09-02T03:20:57.044Z",
-      "discoveredAt": "2026-09-02T03:20:57.044Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f0d8a8af165d8264a02e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9729155?from=edn_maintab_index",
-      "title": "美伊再開戰拖累台股！半導體展點火設備股 蔚華科、精測、均華飆漲停 美伊時隔一個多月後再度爆發軍事衝突，推升原油價格持續上漲，也引爆全球股市震盪，台股2日早盤一度重挫逾720點，不過半導體產業年度盛會SEMICON Taiwan 2026正式登場，部分半導體設備...",
-      "description": "美伊時隔一個多月後再度爆發軍事衝突，推升原油價格持續上漲，也引爆全球股市震盪，台股2日早盤一度重挫逾720點，不過半導體產業年度盛會SEMICON Taiwan 2026正式登場，部分半導體設備概念股逆勢吸金，蔚華科（3055）、精測（6510）強攻漲停，均華（6640）也頻頻亮燈，穎崴（6515）、天虹（6937）等同步強攻。",
-      "publishedAt": "2026-09-02T03:20:57.044Z",
-      "discoveredAt": "2026-09-02T03:20:57.044Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3d4a927e8a275c422b95",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9729207?from=edn_newest_index",
-      "title": "陸網信辦再整頓AI亂象！魔改西遊記還造假災難…4.9萬帳號遭查 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "中共中央網信辦今（2）日公布「清朗·整治AI應用亂象」專項行動第2階段成果，稱截至目前已累計清理違法違規資訊561萬餘條，查處帳號4.9萬餘個，並處置違規網站、應用程式等2,400餘個。",
-      "publishedAt": "2026-09-02T03:20:57.044Z",
-      "discoveredAt": "2026-09-02T03:20:57.044Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3ebf2d701e7d60f4e894",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9729198?from=edn_newest_index",
-      "title": "不只有花蓮了！大陸新增3家雲林文旦柚果園、包裝場輸陸資格 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "中秋節將至，大陸海關總署上周新增註冊79家台灣文旦柚果園和包裝場，授予其將文旦柚銷往大陸的資格，但因業者全部位於花蓮縣瑞穗鄉，引發獨厚單一縣市、「統戰大禮包」質疑。不過，陸方1日再度新增一批註冊果園和包裝場註冊，共有3家，且為雲林業者。",
-      "publishedAt": "2026-09-02T03:20:57.044Z",
-      "discoveredAt": "2026-09-02T03:20:57.044Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_307916aea433ac1a597d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9729199?from=edn_newest_index",
-      "title": "尼泊爾山洪罹難者破千人 報告揭災前幾天至少2肉眼警訊 | 國際焦點 | 國際 | 經濟日報",
-      "description": "尼泊爾與中國西藏交界的喜馬拉雅地區上周發生嚴重山洪，兩地累計已1019人罹難、4462人失蹤。彭博報導，這起巨災徹底改變兩側河谷地形，尼泊爾政府甚至不知道從何開始重建。CNN引述專門監測山區環境風險的科學團隊HiRISK最新報告指出，其實災難發生前幾天已經出現一些肉眼可見的變化警訊，這些徵兆包括冰川融水明顯轉為褐色，以及崩塌前數天，周邊基岩坡面的裂縫已開始持續擴大。",
-      "publishedAt": "2026-09-02T03:20:57.044Z",
-      "discoveredAt": "2026-09-02T03:20:57.044Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3ac351bf565ba64ddeb5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9729195?from=edn_newest_index",
-      "title": "台積電盤中跌破2400元關卡 台股跌逾700點 | 市場焦點 | 證券 | 經濟日報",
-      "description": "受美國與伊朗敵對行動升高、美股齊跌影響，台股今天開低走低，台積電盤中下跌50元、失守2400元關卡，壓低台股下探至462...",
-      "publishedAt": "2026-09-02T03:20:57.044Z",
-      "discoveredAt": "2026-09-02T03:20:57.044Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

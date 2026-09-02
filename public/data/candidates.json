@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T20:56:34.903Z",
+  "updatedAt": "2026-09-02T21:12:53.972Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,182 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e983883191bdf100e41d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5638/9729883?from=edn_newest_index",
+      "title": "中悦建設機構 前瞻佈局 完美鐫刻新莊副都心理想聚落 | 房市情報 | 商情 | 經濟日報",
+      "description": "一座偉大的城市，商業賦予其繁華，而文化則決定其高度。縱觀全球頂尖都會，紐約第五大道的價值，因大都會美術館（The Met）與 MOMA 而深厚；東京六本木的魅力，來自 Tokyo Midtown 與 21_21 DESIGN SIGHT 藝術交會的質感。當商業繁榮發展至極致，唯有無法複製的國家級人文藝術底蘊，才是企業總部名揚國際的最尊榮名片。 【相映國家文藝殿堂・企業風格地標】 【中悦。栢TOWER】坐落於新莊副都心最珍貴的文化核心首排。窗前即是「國家電影及視聽文化中心」，與「文化部」所在的行政院聯合辦公大樓相鄰。這裡不只是政經決策的交會點，更是雙北最具藝術氣場與國際水準的首都人文水岸地標。 【名企匯聚・藝術與科技的完美對話】 深厚的人文底蘊，已吸引諸多跨國藝術、創新科技與數位資訊巨擘搶先卡位——包括國際藝術拍賣巨擘、潮流玩具推手、公仔博物館等文創指標企業指名進駐。連同周邊的中悦IFC、松TOWER、栢TOWER、寰宇一號等商辦群落，更有大亞集團、勤誠興業、崇越電通、互動資通、404科技、居家先生、騰勢TSA…等知名科技龍頭、新創企業進駐；這裡不僅是高效率辦公空間，更是思想碰撞、",
+      "publishedAt": "2026-09-02T21:12:53.972Z",
+      "discoveredAt": "2026-09-02T21:12:53.972Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bbde167c737e1b318900",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9731053?from=edn_newest_index",
+      "title": "今明強對流突襲 吳德榮：雙颱滯留打轉忽而變向 南部下周擺脫多雨天氣 | 生活 | 要聞 | 經濟日報",
+      "description": "今晨南部及東半部已有明顯降雨，中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，今明兩天沙德爾颱風及科羅旺颱風無直接影響，但台灣附近水氣多，時而有強對流發展，應慎防其所伴隨的雷擊、強風、瞬間強降雨。北部25至32度、中部24至33度、南部25至33度、東部24至32度。",
+      "publishedAt": "2026-09-02T21:12:53.972Z",
+      "discoveredAt": "2026-09-02T21:12:53.972Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2005d5b390509329d6c7",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/blog/3022368",
+      "title": "YOASOBI台北大巨蛋演唱會9/16開賣！遠大售票時間、票價、實名制規定一次看",
+      "description": "",
+      "publishedAt": "2026-09-02T21:12:53.972Z",
+      "discoveredAt": "2026-09-02T21:12:53.972Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_15c36fdcd9c032416d65",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/business/indep/1007030",
+      "title": "法遵&#215;智慧物管時代來了：社宅治理如何從管理走向信賴",
+      "description": "",
+      "publishedAt": "2026-09-02T21:12:53.972Z",
+      "discoveredAt": "2026-09-02T21:12:53.972Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6885f52caa4540ceb1b8",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/style/indep/1007021",
+      "title": "經典再定義！OMEGA 超霸系列 38 毫米腕錶全新進化，展現優雅與傳承的商業美學",
+      "description": "",
+      "publishedAt": "2026-09-02T21:12:53.972Z",
+      "discoveredAt": "2026-09-02T21:12:53.972Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7689c008709b02b24a92",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/business/blog/3022367",
+      "title": "一台估11萬元，輝達AI PC被預訂一空！華碩微星首批RTX Spark機種被搶光",
+      "description": "",
+      "publishedAt": "2026-09-02T21:12:53.972Z",
+      "discoveredAt": "2026-09-02T21:12:53.972Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -631,7 +807,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729891?from=edn_hottest_index",
-      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4749",
+      "title": "三大法人重砍1,150億元！外資大賣913億元 台股重挫784點失守5日線 4755",
       "description": "",
       "publishedAt": "2026-09-02T18:31:29.974Z",
       "discoveredAt": "2026-09-02T18:31:29.974Z",
@@ -805,7 +981,7 @@
     },
     {
       "id": "cand_e5086d2128376ecc58b0",
-      "sourceLastModified": "2026-09-02T19:40:41.394Z",
+      "sourceLastModified": "2026-09-02T21:03:25.606Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -822,7 +998,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -2602,7 +2778,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 10377",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 10441",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -2616,7 +2792,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3052,7 +3228,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 8305",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 8388",
       "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
       "publishedAt": "2026-09-02T14:28:45.565Z",
       "discoveredAt": "2026-09-02T14:28:45.565Z",
@@ -5175,183 +5351,6 @@
       "description": "台股今天下挫784點，外資賣超新台幣913.54億元，其中主動統一台股增長賣超5萬967張最多，聯電4萬5119張居次、...",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1f60269c62e163dca9a6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9730481?from=edn_newest_index",
-      "title": "習近平會晤埃及總統塞西 提中東安全4點倡議 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "大陸國家主席習近平2日在開羅與埃及總統塞西舉行會談。習近平表示，面對變亂交織的國際和地區形勢，兩國要相互支持、深化合作，不斷推進中埃命運共同體建設。雙方並就中東局勢深入溝通，習近平提出4點倡議，強調巴勒斯坦問題仍是中東問題的核心，任何時候都不應該被忽視和邊緣化。",
-      "publishedAt": "2026-09-02T11:36:20.964Z",
-      "discoveredAt": "2026-09-02T11:36:20.964Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c6562e0bce945d95566c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9730462?from=edn_newest_index",
-      "title": "為什麼剛認識一個人，最好別急著問對方做什麼工作？ | 熱門話題 | 要聞 | 經濟日報",
-      "description": "當一個人說出自己的職業後，我們得到的真的只是一項關於工作的資訊嗎？事實上，職業長久以來都與社會地位緊密相連，也因此很容易成為人們衡量一個人的標籤⋯⋯ 你是否曾經注意過，當我們第一次認識一個人時，才聊不到幾分鐘，話題往往很快就會來到：「你是做什麼工作的？」 從朋友聚會、飯局、婚禮，到各種社交場合，當兩個原本互不認識的人坐在一起，你我總得想辦法打破沉默。除了住在哪裡、興趣之外，「工作」似乎成了現代人最習以為常的聊天開場白。事實上，在英語社交場合中，「What do you do?」也是相當常見的寒暄方式，用來詢問一個人從事什麼工作。",
-      "publishedAt": "2026-09-02T11:36:20.964Z",
-      "discoveredAt": "2026-09-02T11:36:20.964Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3c05296de021f0340372",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7865",
-      "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
-      "publishedAt": "2026-09-02T11:36:20.964Z",
-      "discoveredAt": "2026-09-02T11:36:20.964Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7d7113e9ed7d016979c3",
-      "sourceLastModified": "2026-09-02T19:00:35.422Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "publishedAt": "2026-09-02T11:22:09.921Z",
-      "discoveredAt": "2026-09-01T17:07:01.813Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9ad873ca9093a8b498a8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730397",
-      "title": "19:05 友達新加坡廠將以約新台幣87.53億元出售",
-      "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
-      "publishedAt": "2026-09-02T11:20:14.890Z",
-      "discoveredAt": "2026-09-02T11:20:14.890Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_63cfefb4c34eb10011ee",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730165",
-      "title": "19:02 新台幣穩定幣不必搶做支付 童子賢：機會在 B2B 與 RWA",
-      "description": "FinTechOn 2026暨亞洲金融科技聯盟（AFA）高峰會2日在台北登場。和碩（4938）科技董事長童子賢表示，台灣今年6月通過《虛擬資產服務法》，但目前仍只是法律框架，後續關鍵在於子法能否在交易效率、金融安全、個人隱私與財產自由之間取得平衡。",
-      "publishedAt": "2026-09-02T11:20:14.890Z",
-      "discoveredAt": "2026-09-02T11:20:14.890Z",
       "topics": [
         "Taiwan business",
         "investment",

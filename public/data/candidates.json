@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T03:20:57.044Z",
+  "updatedAt": "2026-09-02T03:36:11.909Z",
   "candidates": [
+    {
+      "id": "cand_cb0d41105af561780dcc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9729181",
+      "title": "「富爸爸」作者清崎驚爆12億美元債務！本人竟稱：富人都這樣玩 | 國際焦點 | 國際 | 經濟日報",
+      "description": "暢銷書「富爸爸窮爸爸」作者羅伯特．清崎靠著宣揚財務成功祕訣賺進大筆財富，卻因龐大的房地產投資，累積驚人的12億美元（約381億元新台幣）債務。",
+      "publishedAt": "2026-09-02T03:36:11.909Z",
+      "discoveredAt": "2026-09-02T03:36:11.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_21bd72d2ca92273f93a9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729272?from=edn_newest_index",
+      "title": "舊金山和約75週年 本土社團：台灣未來應由人民決定 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "舊金山和約簽署將滿75週年，台灣獨立建國聯盟、台灣安保協會今天表示，中國近年除軍事威脅，也透過對歷史及國際文件的詮釋，企...",
+      "publishedAt": "2026-09-02T03:36:11.909Z",
+      "discoveredAt": "2026-09-02T03:36:11.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_16e73a0451f2106667e9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729259?from=edn_newest_index",
+      "title": "AI 需求火熱 台廠赴美投資規模衝上550億美元 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "AI、半導體需求持續火熱，加速台廠赴美布局。經濟部部長龔明鑫2日表示，原先盤點半導體、AI伺服器等20家企業，規劃或正在美國投資金額約350億美元；但短短三個月再度盤點，相關企業已決定額外追加200億美元投資，總共高達550億美元，反映台廠赴美投資熱度持續升高。",
+      "publishedAt": "2026-09-02T03:36:11.909Z",
+      "discoveredAt": "2026-09-02T03:36:11.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_54d8e56c6a7223d7d54f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9729253?from=edn_newest_index",
+      "title": "經部技術司攜手山太士、同欣電布局 CoPoS 封裝與功率半導體關鍵技術 | 產業熱點 | 產業 | 經濟日報",
+      "description": "半導體年度盛事「SEMICON TAIWAN 2026」經濟部產業技術司主題館2日盛大展開，集結29項創新技術，瞄準先進封裝、AI資料中心電源管理、半導體檢測或製造設備等關鍵領域，展現臺灣半導體深厚的研發能量及產業鏈實力。本次展出亮點包含：應用於CoPoS之雙面RDL關鍵製程整合技術，可使線路結構堆疊更精確，封裝設計彈性與良率更提升，已成功打入半導體龍頭供應鏈。另因應AI 資料中心 800 VDC 高壓直流架構需求，開發碳化矽功率模組，提升高壓電力轉換效率，協助建立國產功率半導體供應鏈。",
+      "publishedAt": "2026-09-02T03:36:11.909Z",
+      "discoveredAt": "2026-09-02T03:36:11.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_41690eb2303fdfe53081",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9729254?from=edn_newest_index",
+      "title": "台青曾在國際特赦組織工作赴上海被查 國台辦宣稱「合理合法」 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "針對有台灣民眾近日到中國上海通關時遭盤查6小時，原因是曾在國際特赦組織打工。中國大陸國台辦發言人張晗今天宣稱，國際特赦組...",
+      "publishedAt": "2026-09-02T03:36:11.909Z",
+      "discoveredAt": "2026-09-02T03:36:11.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_778cb7e2894f09ab5cd6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729245?from=edn_newest_index",
+      "title": "凱基證券隨身e策略 APP 再進化 打造一站式智慧選股新體驗 | 市場焦點 | 證券 | 經濟日報",
+      "description": "凱基證券「隨身e策略」APP全新升級，推出嶄新「選股」介面，整合台股、港股、滬深股等市場資訊及多元商品投資訊息，並結合凱基投顧研究團隊的專業觀點，打造從市場觀察、標的篩選到投資決策的一站式平台，協助投資人更快速掌握投資機會、提升決策效率。",
+      "publishedAt": "2026-09-02T03:36:11.909Z",
+      "discoveredAt": "2026-09-02T03:36:11.909Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e9cd737740c10123739c",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729155",
-      "title": "美伊再開戰拖累台股！半導體展點火設備股 蔚華科、精測、均華飆漲停 | 市場焦點 | 證券 | 經濟日報",
+      "title": "11:03 美伊再開戰拖累台股！半導體展點火設備股 蔚華科、精測、均華飆漲停",
       "description": "美伊時隔一個多月後再度爆發軍事衝突，推升原油價格持續上漲，也引爆全球股市震盪，台股2日早盤一度重挫逾720點，不過半導體產業年度盛會SEMICON Taiwan 2026正式登場，部分半導體設備概念股逆勢吸金，蔚華科（3055）、精測（6510）強攻漲停，均華（6640）也頻頻亮燈，穎崴（6515）、天虹（6937）等同步強攻。",
       "publishedAt": "2026-09-02T03:20:57.044Z",
       "discoveredAt": "2026-09-02T03:20:57.044Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9729155?from=edn_maintab_index",
-      "title": "美伊再開戰拖累台股！半導體展點火設備股 蔚華科、精測、均華飆漲停 | 市場焦點 | 證券 | 經濟日報",
+      "title": "美伊再開戰拖累台股！半導體展點火設備股 蔚華科、精測、均華飆漲停 美伊時隔一個多月後再度爆發軍事衝突，推升原油價格持續上漲，也引爆全球股市震盪，台股2日早盤一度重挫逾720點，不過半導體產業年度盛會SEMICON Taiwan 2026正式登場，部分半導體設備...",
       "description": "美伊時隔一個多月後再度爆發軍事衝突，推升原油價格持續上漲，也引爆全球股市震盪，台股2日早盤一度重挫逾720點，不過半導體產業年度盛會SEMICON Taiwan 2026正式登場，部分半導體設備概念股逆勢吸金，蔚華科（3055）、精測（6510）強攻漲停，均華（6640）也頻頻亮燈，穎崴（6515）、天虹（6937）等同步強攻。",
       "publishedAt": "2026-09-02T03:20:57.044Z",
       "discoveredAt": "2026-09-02T03:20:57.044Z",
@@ -564,7 +744,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -594,7 +774,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -624,7 +804,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2311,7 +2491,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 11578",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 11661",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -5146,186 +5326,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2b6c676a8577ca51cb16",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10871/9728348?from=edn_newest_index",
-      "title": "超商業者補充人力 瞄準多元族群 | 綜合產業 | 產業 | 經濟日報",
-      "description": "因應零售業缺工問題，超商業者從外籍生、新住民到中高齡族群，擴大多元人才招募。統一超目前外籍生、外籍配偶與新住民夥伴已突破1,300人，中高齡夥伴占比超過三成；全家的外籍員工突破700人投入第一線服務，任職店舖覆蓋率超過一成。",
-      "publishedAt": "2026-09-01T16:53:08.386Z",
-      "discoveredAt": "2026-09-01T16:53:08.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_50ffb424326aec901c61",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9728373?from=edn_newest_index",
-      "title": "台積電 AI 冷革命 散熱廠卡位 健策、一詮等研發微流道技術 | 科技產業 | 產業 | 經濟日報",
-      "description": "台積電啟動AI「冷革命」，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，業界指出，先前已傳出輝達有意導入微流道散熱技術，但礙於技術太難，一直無法成局，隨著台積電登高一呼，微流道散熱躍業界新寵，健策、一詮、奇鋐、雙鴻等台廠都已投入相關技術研發，後市看俏。",
-      "publishedAt": "2026-09-01T16:53:08.386Z",
-      "discoveredAt": "2026-09-01T16:53:08.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1482bfd27ed4d4bf0afc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9728367?from=edn_newest_index",
-      "title": "公主遊輪撤出台灣市場 | 產業熱點 | 產業 | 經濟日報",
-      "description": "公主遊輪（Princess Cruises）宣布自8月31日起停止台灣分公司網站、社群平台及在地銷售業務，引發退出台灣市場、衝擊旅行社營運的疑慮。",
-      "publishedAt": "2026-09-01T16:53:08.386Z",
-      "discoveredAt": "2026-09-01T16:53:08.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_922504ed9618927bb1d0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9728216?from=edn_newest_index",
-      "title": "捐贈宗教團體免稅 兩要件 | 稅務法規 | 金融 | 經濟日報",
-      "description": "個人捐贈財產給宗教團體，須符合兩大要件才能免計入贈與總額課稅。財政部高雄國稅局表示，首先受贈宗教團體必須是依法登記設立的財團法人組織，第二，受贈時須符合行政院訂定的「適用標準」，才能免課贈與稅。",
-      "publishedAt": "2026-09-01T16:53:08.386Z",
-      "discoveredAt": "2026-09-01T16:53:08.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_933078765de4a7ac4498",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9728212?from=edn_newest_index",
-      "title": "凱博觀點／越南投資 小心合規地雷 | 稅務法規 | 金融 | 經濟日報",
-      "description": "「公司已經設好了，為什麼還有這麼多事項要補辦？」",
-      "publishedAt": "2026-09-01T16:53:08.386Z",
-      "discoveredAt": "2026-09-01T16:53:08.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f44323f00edb3dbaab57",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9728271?from=edn_course_index",
-      "title": "陳冲 / 新世代金融基金會董事長 側席無緣 況乎主桌",
-      "description": "近年國際政治流行以飯桌比喻世局，先是2024年底美國國務卿布林肯在慕尼黑安全會議大剌剌地對盟友稱：If you&#039;re not at the table in the international system, you&#039;re going to be on the menu，表達我為刀俎你為魚肉的態勢。接著2026年1月21日加拿大總理卡尼，於WEF呼籲中級國家團結時，也表示：大夥要act together，否則不能上桌，就會在菜單上，任人宰割。此時不禁想起，介於at the table與menu的另種選擇，小時候家族聚餐，常見大人一桌，旁邊小孩一桌，然人數菜式均從簡略遜，不過坐在小桌的人，恐怕也有委屈。",
-      "publishedAt": "2026-09-01T16:53:08.386Z",
-      "discoveredAt": "2026-09-01T16:53:08.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

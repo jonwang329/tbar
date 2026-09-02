@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T05:30:48.537Z",
+  "updatedAt": "2026-09-02T05:46:03.635Z",
   "candidates": [
+    {
+      "id": "cand_552ea678f416a9342d5d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9729444?from=edn_maintab_index",
+      "title": "欣興遭搜索後股價首度翻紅！外資連17日買超6.6萬張 市場在押什麼？ | 集中市場 | 證券 | 經濟日報",
+      "description": "欣興（3037）產地標示爭議尚待釐清，桃園地檢署日前搜索公司龜山總公司及中壢廠，目前相關案情仍在偵辦中。不過，股價經歷連續重挫後，2日出現承接買盤，早盤以955元開出、一度走低至948元後翻紅，最高觸及988元，為檢調搜索後首度翻紅；反觀前一日受到「轉單」預期帶動而走強的PCB、載板股，今日反而普遍承壓，族群走勢明顯分化。",
+      "publishedAt": "2026-09-02T05:46:03.635Z",
+      "discoveredAt": "2026-09-02T05:46:03.635Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_32271fefb448a34680c9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729646?from=edn_newest_index",
+      "title": "擔心台積電變「美積電」？ 連賢明：台灣更該留意兩大風險 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "台企赴美投資持續擴大，規模上看550億美元，也讓台灣半導體供應鏈是否加速外移再受關注。中經院院長連賢明認為，台灣現在更需要關心兩大問題，一是快速擴大的對美貿易順差，恐在美國期中選舉期間再被放大；二是韓國三星正藉由AI與記憶體景氣復甦重新累積資本與競爭實力，這兩項風險，都比單純計算台積電（2330）在美國蓋多少廠更值得注意。",
+      "publishedAt": "2026-09-02T05:46:03.635Z",
+      "discoveredAt": "2026-09-02T05:46:03.635Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0ee1af277188b4b20689",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9729645?from=edn_newest_index",
+      "title": "獲國軍楷模 空軍防空連長：平時多準備戰時多勝算 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "總統賴清德今天主持「115年軍人節暨全民國防教育日表揚活動」，榮獲國軍楷模的空軍防空飛彈連長吳志謙表示，始終秉持平時多一...",
+      "publishedAt": "2026-09-02T05:46:03.635Z",
+      "discoveredAt": "2026-09-02T05:46:03.635Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a4a237c529bd86cbb51b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9729639?from=edn_newest_index",
+      "title": "台積電跌幅2.25% 台股開低走低下挫784點收46,164點 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股2日收盤下跌784點，終場以46,164.72點作收，成交量9,184億元，跌幅1.67%；台積電（2330）收盤價2,385元，下跌55元，跌幅2.25%。",
+      "publishedAt": "2026-09-02T05:46:03.635Z",
+      "discoveredAt": "2026-09-02T05:46:03.635Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_760051b5b9d4058759f8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9729634?from=edn_newest_index",
+      "title": "AI紅利加速擴散 渣打集團大幅上調台灣今年GDP至11.5% | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "渣打集團全球研究部發布最新經濟展望，將台灣2026年經濟成長率預測由9.5%大幅上調至11.5%，可望創下2010年以來最快增速；2027年經濟成長率預測亦由5%上調至6.5%，反映人工智慧（AI）需求持續帶動出口與科技投資，相關成長動能更逐步擴散至民間消費。",
+      "publishedAt": "2026-09-02T05:46:03.635Z",
+      "discoveredAt": "2026-09-02T05:46:03.635Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a5a15f8fdaaf9661f00",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9729628?from=edn_newest_index",
+      "title": "AIEC評測 雅婷智慧、亞太智能機器模型台灣價值觀滿分 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI產品與系統評測中心（AIEC）公布台灣主權AI最新評測結果，雅婷智慧Yating-FedGPT-1.10.18、亞太...",
+      "publishedAt": "2026-09-02T05:46:03.635Z",
+      "discoveredAt": "2026-09-02T05:46:03.635Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0385aeff1a5d0823bb4b",
       "sourceLastModified": null,
@@ -160,7 +340,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727944?from=edn_hottest_index",
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 | 集中市場 | 證券 | 經濟日報",
+      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 8901",
       "description": "皇翔（2545）1日公告，為提高資金運用效益，於8月3日至9月1日期間處分聯發科（2454）股票共175張，每股平均處分價格4,246.95元，交易總金額約7.43億元，處分損失約1,475萬元。此次處分後，皇翔仍持有聯發科股票共83張，總金額約3.57億元，持股比例約0.003%。",
       "publishedAt": "2026-09-02T05:30:48.537Z",
       "discoveredAt": "2026-09-02T05:30:48.537Z",
@@ -1259,7 +1439,7 @@
     },
     {
       "id": "cand_46c2b66add84406380ef",
-      "sourceLastModified": "2026-09-02T03:43:05.042Z",
+      "sourceLastModified": "2026-09-02T05:32:25.488Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1286,7 +1466,7 @@
     },
     {
       "id": "cand_518503f93a11b5bac200",
-      "sourceLastModified": "2026-09-02T03:43:04.692Z",
+      "sourceLastModified": "2026-09-02T05:32:25.365Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -2113,7 +2293,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2290,7 +2470,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -2317,7 +2497,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3881,7 +4061,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 12598",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 12741",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -3895,7 +4075,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4091,7 +4271,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9728195?from=edn_hottest_index",
-      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9364",
+      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9374",
       "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
       "publishedAt": "2026-09-01T23:23:53.398Z",
       "discoveredAt": "2026-09-01T23:23:53.398Z",
@@ -5146,180 +5326,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b6bd907d7578c10651b8",
-      "sourceLastModified": "2026-09-01T20:50:06.572Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/hibob",
-      "title": "https://openai.com/index/hibob",
-      "description": "",
-      "publishedAt": "2026-09-01T20:50:06.572Z",
-      "discoveredAt": "2026-09-01T20:53:40.360Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_47a9eabbc0da8ca63adb",
-      "sourceLastModified": "2026-09-01T20:50:06.551Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/dai-nippon-printing",
-      "title": "https://openai.com/index/dai-nippon-printing",
-      "description": "",
-      "publishedAt": "2026-09-01T20:50:06.551Z",
-      "discoveredAt": "2026-09-01T20:53:40.360Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a7740f8acf92f5a6656b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728559?from=edn_maintab_index",
-      "title": "G20 科技會議 美國敦促各國「少干預」 AI 規範 美國今天在北卡羅來納州一場產業巨擘與商務部長齊聚的會議上，敦促20國集團（G20）會員國對人工智慧（AI）監管採取少干預的做法，避免為這項技術制定新規。 路透社報導，美國的目標大致符合全球前幾大A...",
-      "description": "美國今天在北卡羅來納州一場產業巨擘與商務部長齊聚的會議上，敦促20國集團（G20）會員國對人工智慧（AI）監管採取少干預...",
-      "publishedAt": "2026-09-01T20:41:18.860Z",
-      "discoveredAt": "2026-09-01T20:41:18.860Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f6c80ee464f7785349ed",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728555?from=edn_maintab_index",
-      "title": "美軍反擊伊朗 川普警告德黑蘭若還手將遭受更大打擊 美伊近期再度交火，中東局勢升溫之際，美軍今天開始對伊朗境內的伊斯蘭革命衛隊（IRGC）目標發動打擊。美國總統川普也發文表示，這次打擊規模龐大且威力強大，若德黑蘭對此進行報復，他們將遭受規模更大的打擊...",
-      "description": "美伊近期再度交火，中東局勢升溫之際，美軍今天開始對伊朗境內的伊斯蘭革命衛隊（IRGC）目標發動打擊。美國總統川普也發文表...",
-      "publishedAt": "2026-09-01T20:27:03.459Z",
-      "discoveredAt": "2026-09-01T20:27:03.459Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aab1b8c8cb0583d54cd5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728570?from=edn_newest_index",
-      "title": "克里姆林宮：普丁、習近平與川普可能舉行三方會談 2026-09-02 04:12",
-      "description": "克里姆林宮發言人鄂夏柯夫今天表示，俄羅斯總統普丁、美國總統川普（Donald Trump）及中國國家主席習近平，可能在下...",
-      "publishedAt": "2026-09-01T20:27:03.459Z",
-      "discoveredAt": "2026-09-01T20:27:03.459Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_151bd8370945d216bc0c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9728561?from=edn_newest_index",
-      "title": "美國政府與 North American Blue Energy Partners (NABEP) 達成歷史性協議，共同發展委內瑞拉石油業 2026-09-02 04:01",
-      "description": "這項協議因委內瑞拉與美國的關係加強而達成，預計將涉及近 1000 億美元投資而商業化委內瑞拉超過 650 億桶 P1 原油儲存量 委內瑞拉加拉加斯2026年9月2日 /美通社/ -- 美國國務院、美國戰爭部與 North American Blue Energy Partners (NABEP) 達成一項大幅擴大委內瑞拉石油產量的歷史性協議。NABEP 將擁有該業務的營運控制權，而美國政府持有該公司 35% 股份，同時享有以成本價優先獲得該公司 20% 產量的權利，作為此交易的一部份。 特朗普總統於 Truth Social 宣佈這項協議是「全球史上最大石油交易」，並展示美國與委內瑞拉政府正在深化委內瑞拉石油界合作。這為委內瑞拉人民帶來就業機會和財政穩定，並為美國人帶來更低油價。 NABEP 行政總裁 Alejandro Betancourt 表示：「委內瑞拉擁有豐富天然資源、勤奮的人民，以及尚未開發的潛力。這項交易將釋放這潛力，並為委內瑞拉人與美國人帶來極大好處。我們感謝特朗普總統、魯比奧國務卿、赫格塞思部長、美國政府，並感謝羅德里格斯總統和委內瑞拉政府。他們對 NABEP 的信任，",
-      "publishedAt": "2026-09-01T20:11:11.054Z",
-      "discoveredAt": "2026-09-01T20:11:11.054Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

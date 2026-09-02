@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T16:05:26.500Z",
+  "updatedAt": "2026-09-02T16:23:51.782Z",
   "candidates": [
+    {
+      "id": "cand_f5258339aba5bfd009c8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9730557?from=edn_newest_index",
+      "title": "雷科奪大單 營運喊衝 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "半導體設備及材料廠雷科（6207）受惠先進封裝、自製設備及被動元件需求同步升溫，大單相繼落袋，總經理黃萌義昨（2）日看旺後市，伴隨自製設備進入放量期，2027年相關營收可望倍增，法人看好將助益產品組合，帶動毛利率向上。",
+      "publishedAt": "2026-09-02T16:23:51.782Z",
+      "discoveredAt": "2026-09-02T16:23:51.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_224ce9d88273224d5351",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9730538?from=edn_newest_index",
+      "title": "創泓卡位無人機商機 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "資安服務商創泓科技（7714）昨（2）日參加櫃買業績發表會，董事長黃健寧指出，營運維持高成長軌跡，目前前五大代理品牌合計貢獻營收87.8%，備受市場關注的AI與無人載具相關新興業務，已實質貢獻營收1.26億元，占比逾一成、達12.2%，成功形塑第二成長曲線。",
+      "publishedAt": "2026-09-02T16:23:51.782Z",
+      "discoveredAt": "2026-09-02T16:23:51.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ded7f4a40c89ce6311e2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9730540?from=edn_newest_index",
+      "title": "廣運半導體營收拚倍增 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "廣運（6125）總經理柯智鈞昨（2）日表示，持續擴大半導體自動化設備布局，在智慧製造、智慧物流之外，半導體已成為公司下一階段重要成長主軸，近兩年相關設備出貨逐步放量。",
+      "publishedAt": "2026-09-02T16:23:51.782Z",
+      "discoveredAt": "2026-09-02T16:23:51.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e1455419405ad204cb74",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9730542?from=edn_newest_index",
+      "title": "GIS 擴產 加碼資本支出 | 集中市場 | 證券 | 經濟日報",
+      "description": "觸控模組大廠GIS-KY（6456）昨（2）日公告，董事會通過代台灣子公司英特盛科技與越南子公司GIS Technology（Vietnam）新增資本支出預算，總計投入33.97億元，將用於新產品產能建置。",
+      "publishedAt": "2026-09-02T16:23:51.782Z",
+      "discoveredAt": "2026-09-02T16:23:51.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_837ef8b8360519801533",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9730548?from=edn_newest_index",
+      "title": "AMAX 7月每股賺2.36元 | 集中市場 | 證券 | 經濟日報",
+      "description": "AI伺服器軟硬整合商AMAX-KY（6933）遭列注意股票，昨（2）日應主管機關要求，公告自結7月稅後純益1億元，年增1,566.6%，每股純益2.36元。",
+      "publishedAt": "2026-09-02T16:23:51.782Z",
+      "discoveredAt": "2026-09-02T16:23:51.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d68d29ae832bcc3b3aee",
       "sourceLastModified": null,
@@ -160,7 +310,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9729275?from=edn_bloomberg_index_side",
-      "title": "油價高企之際 川普敦促美國煉油企業增產汽柴油 | 國際焦點 | 國際 | 經濟日報",
+      "title": "油價高企之際 川普敦促美國煉油企業增產汽柴油",
       "description": "【彭博】-- 美國總統唐納·川普周二在一次閉門會議上敦促美國煉油企業提高國內汽油和柴油產量。",
       "publishedAt": "2026-09-02T16:05:06.926Z",
       "discoveredAt": "2026-09-02T16:05:06.926Z",
@@ -474,7 +624,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -640,7 +790,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8022",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 8395",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -654,7 +804,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1824,7 +1974,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2200,7 +2350,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730124?from=edn_hottest_index",
-      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 11684",
+      "title": "台達電傳特定批次產品電容器出問題、股價重挫 公司：營運不受影響 11869",
       "description": "因市場流傳疑似「截取」台達電（2308）發文給客戶部分內容指出，特定批次產品電容器可能有問題影響，台達電2日股價重挫逾7%。台達電回應，無法評論市場傳聞及客戶合作細節。但若供應商零組件出現問題，台達電會盡力協助客戶安排換貨，確保客戶需求不受影響。",
       "publishedAt": "2026-09-02T13:04:53.455Z",
       "discoveredAt": "2026-09-02T13:04:53.455Z",
@@ -3245,7 +3395,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9729020?from=edn_hottest_index",
-      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7485",
+      "title": "精明爸「假分割、真移轉」避稅神操作 稅務局清查抓包補稅270萬 7543",
       "description": "土地分割明明符合免稅規定，為什麼最後還是被追稅？新竹市一名阿華（化名）先將名下部分建地及農地贈與兒子，當時建地部分僅繳納1萬元土地增值稅，沒想到2個月後，父子辦理共有土地分割，被稅務局認定整套安排實際上是在移轉建地，補徵土增稅270萬元。",
       "publishedAt": "2026-09-02T11:36:20.964Z",
       "discoveredAt": "2026-09-02T11:36:20.964Z",
@@ -3269,7 +3419,7 @@
     },
     {
       "id": "cand_7d7113e9ed7d016979c3",
-      "sourceLastModified": "2026-09-02T15:07:03.224Z",
+      "sourceLastModified": "2026-09-02T16:14:29.198Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -5240,156 +5390,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0b59fc568f78a40ceac7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9730150?from=edn_newest_index",
-      "title": "南亞科營收／8月446.9億元、年增560.85% 續創歷史新高 | 集中市場 | 證券 | 經濟日報",
-      "description": "動態隨機存取記憶體（DRAM）廠南亞科（2408）2日公告今年8月業績表現、持續攀高，達到446.9億元，較7月的高點紀錄438.68億元成長1.88%，年增560.85%，續創歷史新高。",
-      "publishedAt": "2026-09-02T08:54:27.940Z",
-      "discoveredAt": "2026-09-02T08:54:27.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ee190d89c48ee6d71ddc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9730149?from=edn_newest_index",
-      "title": "林昶佐任空氣吉他賽評審 藉賽事深耕芬蘭科技重鎮 | 國際焦點 | 國際 | 經濟日報",
-      "description": "駐芬蘭代表林昶佐近日受邀擔任「世界空氣吉他大賽」評審，藉由過往的音樂專業敲開芬蘭高科技重鎮奧盧（Oulu）大門，促成代表...",
-      "publishedAt": "2026-09-02T08:54:27.940Z",
-      "discoveredAt": "2026-09-02T08:54:27.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_804aca893e5e96f8c4e1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730146?from=edn_newest_index",
-      "title": "志聖、均華獲選2026外資精選台灣企業100強 | 產業熱點 | 產業 | 經濟日報",
-      "description": "志聖（2467）與均華（6640）2日獲選「2026外資精選台灣企業100強」，從全台2,283家上市、上櫃及興櫃企業中脫穎而出，最終僅100家企業入榜，入選率約4.4%，於市場面、基本面及永續面三大面向展現競爭力，獲得國際機構法人肯定。",
-      "publishedAt": "2026-09-02T08:54:27.940Z",
-      "discoveredAt": "2026-09-02T08:54:27.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_300935e1503a5dbbd75b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730145?from=edn_newest_index",
-      "title": "Google副總裁：若沒與台灣夥伴合作 無法打造AI基礎設施 | 產業熱點 | 產業 | 經濟日報",
-      "description": "Google AI與基礎架構資深副總裁瓦達特今天表示，Google與台灣的合作多年前就已不只是硬體採購，目前與台灣夥伴進...",
-      "publishedAt": "2026-09-02T08:54:27.940Z",
-      "discoveredAt": "2026-09-02T08:54:27.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0ae05608aafaa267583c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9727890",
-      "title": "整理包／卡友看過來！9張信用卡大洗牌 有的失效、有的改名換卡 相關權益一次看 2026-09-01 19:29",
-      "description": "國內信用卡市場再掀整併潮，中國信託、台新銀行、玉山銀行及華南銀行近期陸續調整旗下信用卡產品，共有9款信用卡受到影響，異動方式從聯名合作結束、停止發卡、更名，到換發其他卡片都有，《經濟日報》整理相關資訊供讀者參考。 其中中國信託MUJI無印良品聯名卡、勤美天地聯名卡將在合作終止後停止刷卡；台新旗下Woojii卡、全家Fish悠遊聯名卡及三商美邦聯名卡則轉入Richart系列；玉山雙北市牙醫師公會會員卡與華南兩款聯名卡原則上可繼續使用至原卡效期屆滿，玉山台灣黑熊認同卡則在換發的Unicard完成開卡後，原卡即會停用。 卡友除了注意「何時不能刷」，也要確認新卡是否需要重新開卡、原有點數如何處理，以及自動扣繳、電子票證等服務是否受到影響。 ※最新消息請以各銀行官方公告為準。 台新銀行：3款卡併入Richart體系 台新銀行此次調整Woojii卡、全家Fish悠遊聯名卡及三商美邦聯名卡，三款卡陸續改名並納入「台新信用卡切換刷平台」，持卡人可透過Richart Life APP自由切換7大方案，指定通路最高享3.8%台新Point回饋。 Woojii卡 台新銀行與台新證券的Woo",
-      "publishedAt": "2026-09-02T08:39:53.434Z",
-      "discoveredAt": "2026-09-02T08:39:53.434Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

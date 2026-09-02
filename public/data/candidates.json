@@ -1,7 +1,212 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T04:54:07.301Z",
+  "updatedAt": "2026-09-02T05:08:23.210Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-09-02T05:08:23.210Z",
+      "discoveredAt": "2026-09-02T05:08:23.210Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_039396486be303c5da5b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9729459",
+      "title": "輝達為合約收入托底 GMI Cloud 算力融資案 超額認購逾一倍達約300億元 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）合作夥伴、總部在美國但在台灣布局資料中心的GMI Cloud，近期籌辦以先進晶片算力銷售收入為擔保的貸款案，獲得超過原定規模兩倍的承諾，凸顯亞洲首批同類AI硬體融資案需求強勁。",
+      "publishedAt": "2026-09-02T05:08:07.393Z",
+      "discoveredAt": "2026-09-02T05:08:07.393Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_43045f109f8373421f63",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9729540?from=edn_newest_index",
+      "title": "光大環境（00257.HK）中報深讀：科技創新底色走向「產業」 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "香港2026年9月2日 /美通社/ -- 在傳統環保行業告別大規模資本開支（CAPEX）驅動的重資產建造時代後，市場對環保企業的評價體系也發生根本性改變。過去評估一家環保企業看的是「資產規模與項目數量」，而未來決定企業上限的，則是「技術高度與成果產業化效率」。光大環境（00257.HK）早前在其2026年中期業績交出了一份亮眼的答卷：上半年歸母淨利潤同比升10%至24.31億港元，營運服務收益佔比由去年上半年的70%躍升至76%。更具深遠意義的是，公司科技創新的底色正完成從「實驗室研發」向「產業化變現」的關鍵跳躍，科技引領正成為其穿越行業週期、驅動長遠增長的核心引擎。 五大科技樣板間全面鋪開，從「試點」走向「標杆可複製」 科技創新的價值，最終體現在對營運質效的提升上。光大環境全面啟動「五大科技樣板間」建設，將數智技術深植於營運場景中。在已建成的山東濟南智慧水廠樣板間，通過智慧化監控與低碳工藝優化，單位污水處理成本可成功降低20%；在湖北鐘祥生物質智慧料場，堆取料效率提升20%，實現人工智能自動預警與常態化無人值守，每年節約人工與燃料成本超過400萬元人民幣；而江蘇蘇州智慧電廠、湖南益陽",
+      "publishedAt": "2026-09-02T05:08:07.393Z",
+      "discoveredAt": "2026-09-02T05:08:07.393Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_eec91d48f9a1d1266ac3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9729538?from=edn_newest_index",
+      "title": "馬來西亞留台聯總拓展多元族群 培養台馬交流新種子 | 國際焦點 | 國際 | 經濟日報",
+      "description": "大馬赴台留學人數累計逾13萬人，過去多以獨立中學為主。留台聯總會長洪進興今天表示，未來將在華裔基礎上擴大到其他族群，讓馬...",
+      "publishedAt": "2026-09-02T05:08:07.393Z",
+      "discoveredAt": "2026-09-02T05:08:07.393Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a7b31dbfe22b0c61a8b2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6721/9729531?from=edn_newest_index",
+      "title": "黃之鋒被控勾結境外勢力 台灣民團聲援 | 港澳話題 | 兩岸 | 經濟日報",
+      "description": "台灣多個民團今天在立法院群賢樓外聲援香港民主運動人士黃之鋒，訴求撤銷對黃之鋒串謀勾結外國或者境外勢力危害國家安全罪等控罪...",
+      "publishedAt": "2026-09-02T05:08:07.393Z",
+      "discoveredAt": "2026-09-02T05:08:07.393Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_348bbf34882563979ee3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9729527?from=edn_newest_index",
+      "title": "桃機第三航廈拚116年底完工 廉政平台跨機關監督把關工程 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "桃機公司今天表示，第三航站區建設計畫預計116年底完工，機場公司於8月31日召開「第三航站區建設計畫廉政平台」聯繫會議，...",
+      "publishedAt": "2026-09-02T05:08:07.393Z",
+      "discoveredAt": "2026-09-02T05:08:07.393Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_71c55c82d5d75b56c53e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9729522?from=edn_newest_index",
+      "title": "連續出海超過250天創紀錄！林肯號航艦終於停靠泰國休整 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國海軍「林肯號」（USS Abraham Lincoln）航空母艦在海上創紀錄地連續航行超過250天、並結束中東艱苦部署任務後，2日終於停靠泰國東部林查班港。",
+      "publishedAt": "2026-09-02T05:08:07.393Z",
+      "discoveredAt": "2026-09-02T05:08:07.393Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c412a4a69bfaed642153",
       "sourceLastModified": null,
@@ -10,7 +215,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9729444",
-      "title": "欣興遭搜索後股價首度翻紅！外資連17日買超6.6萬張 市場在押什麼？ | 集中市場 | 證券 | 經濟日報",
+      "title": "12:42 欣興遭搜索後股價首度翻紅！外資連17日買超6.6萬張 市場在押什麼？",
       "description": "欣興（3037）產地標示爭議尚待釐清，桃園地檢署日前搜索公司龜山總公司及中壢廠，目前相關案情仍在偵辦中。不過，股價經歷連續重挫後，2日出現承接買盤，早盤以955元開出、一度走低至948元後翻紅，最高觸及988元，為檢調搜索後首度翻紅；反觀前一日受到「轉單」預期帶動而走強的PCB、載板股，今日反而普遍承壓，族群走勢明顯分化。",
       "publishedAt": "2026-09-02T04:54:07.301Z",
       "discoveredAt": "2026-09-02T04:54:07.301Z",
@@ -2019,7 +2224,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3496,7 +3701,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9727308?from=edn_hottest_index",
-      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 12351",
+      "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 12427",
       "description": "台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額，最後買進日、除昔日等相關資訊，供讀者參考比較。",
       "publishedAt": "2026-09-01T23:44:55.408Z",
       "discoveredAt": "2026-09-01T23:44:55.408Z",
@@ -3706,7 +3911,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9728195?from=edn_hottest_index",
-      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9346",
+      "title": "美股早盤／全球債市掀拋售潮 費半摔2% 四大指數盡墨 9352",
       "description": "布蘭特原油漲破每桶92美元，推升債券殖利率，全球公債出現拋售潮，並且強化外界的升息預期，美股1日早盤四大指數盡墨。",
       "publishedAt": "2026-09-01T23:23:53.398Z",
       "discoveredAt": "2026-09-01T23:23:53.398Z",
@@ -5111,211 +5316,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f48df7eb0b36990ed8f5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728541?from=edn_newest_index",
-      "title": "尼泊爾邊境洪災 聯合國初估留下逾240萬噸廢棄物 2026-09-02 02:54",
-      "description": "中國與尼泊爾邊境近日發生嚴重洪災，迄今死亡人數超過1000人，聯合國開發計畫署（UNDP）初步估算，洪災過後產生逾240...",
-      "publishedAt": "2026-09-01T19:04:24.086Z",
-      "discoveredAt": "2026-09-01T19:04:24.086Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-09-01T18:35:10.661Z",
-      "discoveredAt": "2026-09-01T18:35:10.661Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_d951e6b92621c9fac467",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728374?from=edn_maintab_index",
-      "title": "全球製造業 PMI 維持擴張 台韓中都在榮枯線上 美國53.9優於預期 全球AI硬體需求持續火熱，帶旺亞洲工廠8月生產活絡，台日韓中製造業景氣均維持擴張，為仰賴出口的亞洲經濟增添動能。歐元區更受惠於新訂單躍升，製造業活動站上逾四年來新高，但中東戰事久拖不決，也使成本上升...",
-      "description": "全球AI硬體需求持續火熱，帶旺亞洲工廠8月生產活絡，台日韓中製造業景氣均維持擴張，為仰賴出口的亞洲經濟增添動能。歐元區更受惠於新訂單躍升，製造業活動站上逾四年來新高，但中東戰事久拖不決，也使成本上升和前景不明的壓力加劇。",
-      "publishedAt": "2026-09-01T18:34:54.143Z",
-      "discoveredAt": "2026-09-01T18:34:54.143Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_27f669c944357299d631",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9728396?from=edn_maintab_index",
-      "title": "聯發科重磅利多 外資押寶 大摩列投資首選 花旗喊目標價6,800元 聯發科（2454）39億美元海外可轉換公司債引進輝達與Alphabet投資，有利深化特定應用晶片（ASIC）領域的廣泛合作，外資圈紛紛按讚；摩根士丹利證券（大摩）與花旗證券分別給予「優於大盤」及「買...",
-      "description": "聯發科39億美元海外可轉換公司債引進輝達與Alphabet投資，有利深化特定應用晶片（ASIC）領域的廣泛合作，外資圈紛紛按讚；摩根士丹利證券（大摩）與花旗證券分別給予「優於大盤」及「買進」評級，目標價各上看5,588元及6,800元，大摩更列為「首選」。",
-      "publishedAt": "2026-09-01T18:34:54.143Z",
-      "discoveredAt": "2026-09-01T18:34:54.143Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b298fd95a683d6a6f91c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9728370?from=edn_maintab_index",
-      "title": "機械、工具機業百家廠商集結 瞄準國產化商機 半導體展大搶單 國際半導體展（SEMICON Taiwan 2026）今（2）日開展，台灣工具機與機械業組大軍搶單。機械公會號召百家會員參展，工具機公會另率九家業者組成「TMBA SMART TEAM」，從精密加工...",
-      "description": "國際半導體展（SEMICON Taiwan 2026）今（2）日開展，台灣工具機與機械業組大軍搶單。機械公會號召百家會員參展，工具機公會另率九家業者組成「TMBA SMART TEAM」，從精密加工、智慧搬運、檢量測到先進封裝及晶圓製造，是兩大產業前進半導體展最大搶單行動。",
-      "publishedAt": "2026-09-01T18:34:54.143Z",
-      "discoveredAt": "2026-09-01T18:34:54.143Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5b7dde3dd9419bafb07",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9728373?from=edn_maintab_index",
-      "title": "台積電 AI 冷革命 散熱廠卡位 健策、一詮等研發微流道技術 台積電（2330）啟動AI「冷革命」，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，業界指出，先前已傳出輝達有意導入微流道散熱技術，但礙於技術太難，一直無法成局，隨著台積電登高...",
-      "description": "台積電啟動AI「冷革命」，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，業界指出，先前已傳出輝達有意導入微流道散熱技術，但礙於技術太難，一直無法成局，隨著台積電登高一呼，微流道散熱躍業界新寵，健策、一詮、奇鋐、雙鴻等台廠都已投入相關技術研發，後市看俏。",
-      "publishedAt": "2026-09-01T18:34:54.143Z",
-      "discoveredAt": "2026-09-01T18:34:54.143Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5bab3739927e9f4a0859",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9728300?from=edn_maintab_index",
-      "title": "賴總統：完善算力 開創下波成長 將續推晶創台灣方案...布局關鍵技術 賴清德總統昨（1）日表示，台灣已建立完整半導體聚落，有能力製造全世界最先進的晶片，政府將持續推動晶創台灣方案、AI新十大建設等政策，布局矽光子、量子科技、AI機器人等關鍵技術，並完善算力、水、電、土...",
-      "description": "賴清德總統昨（1）日表示，台灣已建立完整半導體聚落，有能力製造全世界最先進的晶片，政府將持續推動晶創台灣方案、AI新十大建設等政策，布局矽光子、量子科技、AI機器人等關鍵技術，並完善算力、水、電、土地、人才等基礎條件，開創下波產業成長。",
-      "publishedAt": "2026-09-01T18:34:54.143Z",
-      "discoveredAt": "2026-09-01T18:34:54.143Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

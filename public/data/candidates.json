@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-02T09:28:17.131Z",
+  "updatedAt": "2026-09-02T09:46:10.974Z",
   "candidates": [
+    {
+      "id": "cand_8cd93994766b11a00a1e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9730177?from=edn_maintab_index",
+      "title": "外資賣超913億元 大賣 ETF、聯電、國巨 但竟逆勢狂買這類股 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股2日開低走低收最低，終場以46,164.72點，下跌784點，三大法人聯手賣超1,150.34億元，其中外資大砍913.55億元，統計外資賣超前十名中，ETF占5檔，聯電（2303）、國巨*（2327）也遭大賣，但多檔金融股竟獲外資逆勢大買，在買超前十名中占了7檔。",
+      "publishedAt": "2026-09-02T09:46:10.974Z",
+      "discoveredAt": "2026-09-02T09:46:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4120bca3adcc4a718aee",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730162?from=edn_maintab_index",
+      "title": "SEMICON／侯永清：AI 需求劇增30年首見 台積電所需採購設備超預期 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積電（2330）資深副總經理暨副共同營運長 / 資訊安全長侯永清今日在SEMICON Taiwan 2026國際半導體指出，「AI 對產能有龐大且迫切的需求，相較於過去 30 年看到的模式，我們從未見過需求成長如此劇烈、變動頻率如此之高。以台積電為例客戶需求所需要採購的設備數量已遠超過先前預期」。",
+      "publishedAt": "2026-09-02T09:46:10.974Z",
+      "discoveredAt": "2026-09-02T09:46:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_39806219e9a920956ac1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730290?from=edn_newest_index",
+      "title": "宏碁攻 AI 商機 IFA 發表會秀自家輝達 RTX Spark 筆電 | 產業熱點 | 產業 | 經濟日報",
+      "description": "宏碁（2353）衝刺AI PC商機，2日於IFA 2026期間舉行「next@Acer」全球記者會中，由董事長陳俊聖親自展示Acer SFF RTX Spark精巧型桌上型電腦，搭載 NVIDIA RTX Spark 超級晶片，輝達（NVIDIA）高階主管亦出席宏碁發表會力挺。",
+      "publishedAt": "2026-09-02T09:46:10.974Z",
+      "discoveredAt": "2026-09-02T09:46:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_246d1645ed11ec1997b7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730287?from=edn_newest_index",
+      "title": "台企銀：股票股利為主 審慎評估提高現金股利比重 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台灣企銀今天舉行第2季線上法人說明會，公布上半年合併稅後淨利新台幣74.1億元，年增15.37%，每股稅後盈餘（EPS）...",
+      "publishedAt": "2026-09-02T09:46:10.974Z",
+      "discoveredAt": "2026-09-02T09:46:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_24523d701dca7bd5bfd9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730285?from=edn_newest_index",
+      "title": "三陽 SYM8月市占48.6%稱霸市場 迪爵、JET 雙車系撐盤 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台灣機車市場競爭升溫，三陽工業（2206）機車品牌SYM 8月持續展現龍頭氣勢，單月掛牌2萬9,228台，市占率達48.6%，大幅領先光陽、山葉及Gogoro；累計前八月總市場規模達49萬4,422台，三陽累計銷售21萬8,949台、市占44.3%，同樣穩居市場第一，顯示在產品競爭力與行銷策略雙軌推動下，市場領先優勢持續鞏固。",
+      "publishedAt": "2026-09-02T09:46:10.974Z",
+      "discoveredAt": "2026-09-02T09:46:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3458ab2d5b57013bca25",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9730281?from=edn_newest_index",
+      "title": "排碳少卻因洪災死傷慘重！尼泊爾向美、中、印度等碳排大戶索賠 | 國際焦點 | 國際 | 經濟日報",
+      "description": "尼泊爾在發生造成逾千人死亡、近4,000人仍然失蹤的嚴重山洪災害後，要求中國、美國和印度這些全球最大的溫室氣體排放國，要提供氣候賠償。",
+      "publishedAt": "2026-09-02T09:46:10.974Z",
+      "discoveredAt": "2026-09-02T09:46:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_12d944b7f4ae14619383",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9730276?from=edn_newest_index",
+      "title": "SEMICON／伊頓首度亮相大功率 UPS 新品和800V MV SST | 產業熱點 | 產業 | 經濟日報",
+      "description": "SEMICON Taiwan 2026 2日登場，全球智慧動力管理公司伊頓(Eaton)首度展出併購的Boyd Thermal(寶德熱能)液冷方案，呈現由供電、配電與電路保護延伸至晶片散熱的技術布局。伊頓「從電網到晶片」(From Grid to Chip)策略，打造涵蓋智慧配電、備用電源、儲能與數位化服務的完整電力管理生態系。",
+      "publishedAt": "2026-09-02T09:46:10.974Z",
+      "discoveredAt": "2026-09-02T09:46:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1bf94d871e9fc164b5c7",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9730177",
-      "title": "外資賣超913億元 大賣 ETF、聯電、國巨 但竟逆勢狂買這類股 | 市場焦點 | 證券 | 經濟日報",
+      "title": "17:26 外資賣超913億元 大賣 ETF、聯電、國巨 但竟逆勢狂買這類股",
       "description": "台股2日開低走低收最低，終場以46,164.72點，下跌784點，三大法人聯手賣超1,150.34億元，其中外資大砍913.55億元，統計外資賣超前十名中，ETF占5檔，聯電（2303）、國巨*（2327）也遭大賣，但多檔金融股竟獲外資逆勢大買，在買超前十名中占了7檔。",
       "publishedAt": "2026-09-02T09:28:17.131Z",
       "discoveredAt": "2026-09-02T09:28:17.131Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9730129?from=edn_maintab_index",
-      "title": "南亞科營收／8月446.9億元 月增1.88%、年增560.85% | 集中市場 | 證券 | 經濟日報",
+      "title": "南亞科營收／8月446.9億元 月增1.88%、年增560.85% 南亞科（2408）2日公布2026年8月合併營收為446.9億元，較上月增加1.88%，較去年同期增加560.85%，續創歷史新高；累計今年前8月合併營收為2,201.94億元，較去年同期增加638...",
       "description": "南亞科（2408）2日公布2026年8月合併營收為446.9億元，較上月增加1.88%，較去年同期增加560.85%，續創歷史新高；累計今年前8月合併營收為2,201.94億元，較去年同期增加638.19%。",
       "publishedAt": "2026-09-02T09:28:17.131Z",
       "discoveredAt": "2026-09-02T09:28:17.131Z",
@@ -654,7 +864,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1240,7 +1450,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11162/9728371?from=edn_hottest_index",
-      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 7643",
+      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 7720",
       "description": "台積電啟動AI「冷革命」，昨（1）日首度證實，因應AI高能耗與散熱問題，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，並朝與先進封裝整合方向推進。",
       "publishedAt": "2026-09-02T08:05:41.859Z",
       "discoveredAt": "2026-09-02T08:05:41.859Z",
@@ -2124,7 +2334,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2304,7 +2514,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2860,7 +3070,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9727944?from=edn_hottest_index",
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 9584",
+      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元 9624",
       "description": "皇翔（2545）1日公告，為提高資金運用效益，於8月3日至9月1日期間處分聯發科（2454）股票共175張，每股平均處分價格4,246.95元，交易總金額約7.43億元，處分損失約1,475萬元。此次處分後，皇翔仍持有聯發科股票共83張，總金額約3.57億元，持股比例約0.003%。",
       "publishedAt": "2026-09-02T05:30:48.537Z",
       "discoveredAt": "2026-09-02T05:30:48.537Z",
@@ -3976,7 +4186,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4003,7 +4213,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -5168,216 +5378,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_69f080fe61931a0a267b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9727780?from=edn_newest_index",
-      "title": "累積創新能量 建研所推動智慧建築從創意走向產業落地 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "建研所於智慧建築展出AI、IoT等創新技術，串聯第19屆創意競賽，呈現智慧建築從創意走向產業落地，競賽持續徵件中。",
-      "publishedAt": "2026-09-02T02:05:54.152Z",
-      "discoveredAt": "2026-09-02T02:05:54.152Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c92b6b7f1e35b88a6f9c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9727873?from=edn_newest_index",
-      "title": "2026 Meet Greater South 亞灣新創大南方圓滿落幕 1.3 萬人次不畏風雨力挺 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "南台灣最具指標性的創新創業盛會「2026 Meet Greater South 亞灣新創大南方」，於 8/29 圓滿閉幕！今年展會面臨強烈豪雨侵襲的考驗，卻依然阻擋不了南台灣企業尋求轉型解方的渴望，雙日展期累計吸引逾 1.3 萬觀展人次，展現出大南方產業強勁的轉型韌性。本屆展會集結高達 280 家創新解方展商，其中包括美國、日本、新加坡等全球 10 個國際城市、共計 30 組跨國新創團隊跨海對接，並偕同 15 家政府與企業生態系夥伴共襄盛舉。 開幕式上，經濟部部長龔明鑫除肯定高雄的轉型韌性外，也表示中央將持續以政策與資源全力灌注，支持大南方成為驅動台灣成長的核心引擎；高雄市市長陳其邁則強調，高雄深厚的製造業底蘊正是新創落地實戰的最佳試驗場。為加速參展商解決方案的落地與機會對接，今年大會媒合近 300 組，更有高達 167 組新創團隊登台簡報（Pitch），發表量能較去年翻倍成長，成為全場最耀眼的創新亮點。 40 場高密度內容激盪！從 AI 算力、傳產實戰到餐飲科技，全方位定錨大南方轉型趨勢 有別於傳統商展的靜態陳列，本屆大會展現了無比強大的內容策劃與議題引領實力。兩天展期內，多達",
-      "publishedAt": "2026-09-02T02:05:54.152Z",
-      "discoveredAt": "2026-09-02T02:05:54.152Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e87117359a66a9d202a6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9728739?from=edn_newest_index",
-      "title": "AI新賽局開打 五堂實戰課迎戰數位轉型 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "當旅客開始透過AI尋找景點、餐廳與住宿，觀光產業的競爭規則也正快速改變。為協助嘉義觀光、旅宿及餐飲業者掌握AI應用趨勢，嘉義縣文化觀光局推出「AI數位轉型學院×觀光產業學院」，，規劃「從AI行銷到AI管理的實戰課程」，透過五堂系列課程，帶領業者從品牌行銷、影音製作、商業模式、整合行銷到財務及營運自動化，讓AI不只是工具，更成為業者日常經營的實戰夥伴。 AI浪潮不只改變大型企業，也正在改寫地方觀光產業的競爭方式。過去，小農、民宿、餐廳及地方品牌往往受限於人力、預算與行銷資源；如今，只要善用生成式AI，便能快速完成品牌文案、社群素材、多語內容、短影音腳本、顧客服務及營運分析。AI讓微型業者用更少的時間完成更多工作，也讓小農與在地品牌有機會取得「十倍速」的競爭優勢。 AI數位轉型五堂課不只教「如何用AI行銷」，更進一步將AI導入管理流程。五堂課從初階打底到進階變現，9月29日「AI時代下的行銷思維及策略應用」，協助業者建立品牌資料庫、找出品牌核心DNA，運用AI產製具有情感與辨識度的行銷內容；10月6日「AI影片煉金術：電影感短影片實戰班」，從導演思維、分鏡、腳本到品牌配樂，帶領學員完成",
-      "publishedAt": "2026-09-02T02:05:54.152Z",
-      "discoveredAt": "2026-09-02T02:05:54.152Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b748f2c3e6afb41d9f02",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728853",
-      "title": "09:36 不只闖封鎖會挨打！川普發動報復伊朗新招 首度「以油輪換油輪」反擊",
-      "description": "政治新聞網站Axios報導，美國中央司令部證實1日打擊2艘隸屬伊朗政府的油輪，回應德黑蘭持續襲擊荷莫茲海峽船舶。這是美軍首度為海峽船舶遇襲，直接報復伊朗油輪，而非為阻止油輪突破海上封鎖，是美國總統川普新批准的「以油輪換油輪」（tanker for tanker）的策略。",
-      "publishedAt": "2026-09-02T01:44:22.690Z",
-      "discoveredAt": "2026-09-02T01:44:22.690Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ed6771435370b1544df9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9728891?from=edn_newest_index",
-      "title": "星宇航空「空山金」首飛布拉格 空山基藝術機進軍歐洲 | 產業熱點 | 產業 | 經濟日報",
-      "description": "星宇航空（2646）與日本殿堂級藝術家空山基合作的 STARLUX AIRSORAYAMA藝術機AIRSORAYAMA GOLD（B-58554）空山金於1日首飛歐洲布拉格，於布拉格時間上午8:59抵達捷克布拉格機場（PRG）。",
-      "publishedAt": "2026-09-02T01:44:22.690Z",
-      "discoveredAt": "2026-09-02T01:44:22.690Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a67da2d8768d7cbfc5a2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728882?from=edn_newest_index",
-      "title": "德國對陸貿易政策轉硬！擬數周內推加關稅等措施 | 國際焦點 | 國際 | 經濟日報",
-      "description": "過去擔心北京反制汽車等重要產業，德國對採取強硬對陸貿易措施始終有所顧忌，如今這一態度正在轉變。德國財長克林拜耳（Lars Klingbeil）表示，政府預計未來數周內敲定一系列對陸貿易措施，應對德方所稱大陸「不公平」的貿易行為，其中不排除對混合動力汽車等產品加徵額外關稅。",
-      "publishedAt": "2026-09-02T01:44:22.690Z",
-      "discoveredAt": "2026-09-02T01:44:22.690Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_57122a36660020f9beec",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9728881?from=edn_newest_index",
-      "title": "不在乎德黑蘭是否簽協議 川普：伊朗人民何時才要站起來反抗？ | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普2日在真實社群表示，他無意迫使伊朗回到談判桌，並稱美方目前幾乎完全控制荷莫茲海峽，伊朗經濟則正在徹底崩潰。",
-      "publishedAt": "2026-09-02T01:44:22.690Z",
-      "discoveredAt": "2026-09-02T01:44:22.690Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

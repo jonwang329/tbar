@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T21:55:44.413Z",
+  "updatedAt": "2026-09-03T22:11:54.402Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_52bc3d1b134cab48c967",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9733614?from=edn_newest_index",
+      "title": "今起至周末全台多雨 下周水氣減少 可望迎來好天氣 | 生活 | 要聞 | 經濟日報",
+      "description": "沙德爾颱風昨晚已經減弱為熱帶性低氣壓，輕度颱風科羅旺將在琉球群島附近滯留打轉，對台灣天氣沒有直接影響。民間氣象粉專「台灣颱風論壇｜天氣特急」表示，科羅旺颱風雖然不會直襲台灣，由於就在附近龜速，外圍水氣持續影響，未來3天各地仍然多雨。",
+      "publishedAt": "2026-09-03T22:11:43.219Z",
+      "discoveredAt": "2026-09-03T22:11:43.219Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_35b50888cf8ae230ee77",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9733621?from=edn_newest_index",
-      "title": "中國律師為錫安教會辯護遭施壓 逃抵台灣尋求協助 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "中國律師為錫安教會辯護遭施壓 逃抵台灣尋求協助 2026-09-04 05:54",
       "description": "美聯社獨家報導，曾為北京知名地下教會「錫安教會」辯護的中國律師王夏紅，在中國當局加強施壓其律師事務所及同事後，現已逃抵台...",
       "publishedAt": "2026-09-03T21:55:44.413Z",
       "discoveredAt": "2026-09-03T21:55:44.413Z",
@@ -124,7 +154,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9733620?from=edn_newest_index",
-      "title": "尼泊爾洪災增至1280死 失蹤暴增至5624人 | 國際焦點 | 國際 | 經濟日報",
+      "title": "尼泊爾洪災增至1280死 失蹤暴增至5624人 2026-09-04 05:54",
       "description": "尼泊爾與中國西藏邊境8月26日遭暴洪重創，尼泊爾災害管理當局今天表示，尼泊爾至少1259人喪命，失蹤人數攀至5083人；...",
       "publishedAt": "2026-09-03T21:55:44.413Z",
       "discoveredAt": "2026-09-03T21:55:44.413Z",
@@ -223,7 +253,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -342,7 +372,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -702,7 +732,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -732,7 +762,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -762,7 +792,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -792,7 +822,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -822,7 +852,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -852,7 +882,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -882,7 +912,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -912,7 +942,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2499,7 +2529,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4285,7 +4315,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13215",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13336",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -4495,7 +4525,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9594",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9706",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5348,36 +5378,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5b190c41db6103cedff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9732911?from=edn_newest_index",
-      "title": "全球債券跌勢放緩 數十年來最高殖利率令部分投資者難以抗拒 | 國際焦點 | 國際 | 經濟日報",
-      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
-      "publishedAt": "2026-09-03T11:47:27.675Z",
-      "discoveredAt": "2026-09-03T11:47:27.675Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

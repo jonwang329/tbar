@@ -1,7 +1,127 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T16:47:04.019Z",
+  "updatedAt": "2026-09-03T16:57:53.298Z",
   "candidates": [
+    {
+      "id": "cand_7218b4559c12f9722f04",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733377?from=edn_newest_index",
+      "title": "博通展望不如華爾街預期 載板自產將牽動南電 | 產業熱點 | 產業 | 經濟日報",
+      "description": "博通2日公布上季營收與獲利優於預期，並釋出AI半導體業務強勁成長的好消息，但本季營收展望低於分析師預估，投資人因而仍不滿意，拖累股價在美股3日早盤跌逾5％。",
+      "publishedAt": "2026-09-03T16:57:53.298Z",
+      "discoveredAt": "2026-09-03T16:57:53.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_db761b067c3b37c6dbf4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733536?from=edn_newest_index",
+      "title": "公債殖利率下滑激勵 歐股收高 | 國際焦點 | 國際 | 經濟日報",
+      "description": "公債殖利率下滑，帶動華爾街及歐股走揚，歐洲3大股市今天都收高",
+      "publishedAt": "2026-09-03T16:57:53.298Z",
+      "discoveredAt": "2026-09-03T16:57:53.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2810e308b1d7e1b88807",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733370?from=edn_newest_index",
+      "title": "Meta推最強模型 Muse Spark 1.3效能號稱更接近對手高階產品 台鏈樂 | 產業熱點 | 產業 | 經濟日報",
+      "description": "Meta宣布，推出該公司史上最強AI模型「Muse Spark 1.3」，效能更接近主流對手高階產品。Meta將更強大生成式AI技術推向市場，業界看好有望引爆更多AI算力需求，鴻海、廣達、緯穎等相關供應鏈吃補。",
+      "publishedAt": "2026-09-03T16:57:53.298Z",
+      "discoveredAt": "2026-09-03T16:57:53.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3c2a8ebbccdd4b7db732",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9732314?from=edn_bloomberg_index_side",
+      "title": "交易員嚴陣以待 日本或在央行決策會議前後及長假期間干預匯市 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 日圓交易員正高度戒備，日本可能在該國央行即將召開的政策會議前後干預匯市。",
+      "publishedAt": "2026-09-03T16:57:53.298Z",
+      "discoveredAt": "2026-09-03T16:57:53.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9b49ab07b3c854eef784",
       "sourceLastModified": null,
@@ -10,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9733379?from=edn_newest_index",
-      "title": "Google兩大更新 搶攻商機 | 產業熱點 | 產業 | 經濟日報",
+      "title": "Google兩大更新 搶攻商機 2026-09-04 00:47",
       "description": "AI模型市場大戰持續火熱，Meta端出該公司史上最強AI模型「Muse Spark 1.3」之際，Google也宣布推出最新一代「Gemini 3.8 Flash」，以及資安模型「Gemini 3.8 Flash Cyber」，大秀肌肉。",
       "publishedAt": "2026-09-03T16:47:04.019Z",
       "discoveredAt": "2026-09-03T16:47:04.019Z",
@@ -40,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5739/9733061?from=edn_newest_index",
-      "title": "台灣50反1認購聚焦 | 權證特區 | 證券 | 經濟日報",
+      "title": "台灣50反1認購聚焦 2026-09-04 00:44",
       "description": "台股近來在各項不確定變因干擾下短線承壓，指數拉回整理，盤面個股跌多於漲，使得市場買盤紛紛轉進如元大台灣50反1（00632R）、國泰臺灣加權反1等指數反向型ETF避險，帶動相關連動的認購權證勁揚。",
       "publishedAt": "2026-09-03T16:47:04.019Z",
       "discoveredAt": "2026-09-03T16:47:04.019Z",
@@ -561,7 +681,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1791,7 +1911,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2287,7 +2407,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12236",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12287",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -2497,7 +2617,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 8880",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 8904",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5250,126 +5370,6 @@
       "description": "大陸繼「甲酫大白菜」、廈門爆發滅蟲公司長期使用劇毒農藥「敵敵畏」為餐廳消毒滅蟲後，內蒙古牛肉龍頭企業「科爾沁牛業股份有限公司」旗下標榜「原切」的牛肉產品，遭檢出添加食用膠「瓜爾膠」，這種被用在合成肉、預製肉的食用膠可致腸阻塞，目前已被官方通報並立案調查。",
       "publishedAt": "2026-09-03T09:29:48.410Z",
       "discoveredAt": "2026-09-03T09:29:48.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3b5ddc8dd530a5fae762",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11799/9732010?from=edn_newest_index",
-      "title": "新竹市政府導入「LINE WORKS」並簽署MOU推動行政數位轉型 | 產業動態 | 商情 | 經濟日報",
-      "description": "提供通訊工具「LINE WORKS」及各類 AI 產品的 LINE WORKS 株式會社（總公司：日本東京都澀谷區；代表取締役社長：島岡岳史）宣布，新竹市政府自 2026 年 9 月 1 日起正式導入通訊工具「LINE WORKS」，此次導入為台灣行政機關首度大規模導入。 此外，配合此次導入，LINE WORKS 株式會社與新竹市政府亦簽署行政數位轉型交流合作備忘錄（MOU），以推動行政數位化、提升市民服務品質，並促進高效資訊共享及跨部門協作。 導入目的：透過「LINE WORKS」推動行政通訊數位轉型 新竹市位於台灣西北部，坐擁全球重要的半導體與 ICT 產業聚落「新竹科學園區」，是台灣具代表性的科技城市之一。作為支撐先進產業發展的重要城市，新竹市在行政領域亦積極運用數位科技，持續提升市民服務品質與行政作業效率。 新竹市政府將運用「LINE WORKS」強化市政府內部資訊共享及跨部門協作，並促進與里長之間的溝通，以進一步提升行政作業效率及資訊共享速度。 「LINE WORKS」導入重點 • 資安暨管理功能： 提供專為法人使用所設計的彈性管理功能，以及取得國際認證的高水準資安環境",
-      "publishedAt": "2026-09-03T09:29:48.410Z",
-      "discoveredAt": "2026-09-03T09:29:48.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cd56e0eb606de6e4aaee",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9732686?from=edn_newest_index",
-      "title": "外資賣超481億元 狂賣記憶體及 ETF 但逆勢大買金融股及面板股 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股3日震盪走弱，終場收45,857.66點，下跌307.06點，失守46,000點關卡，三大法人賣超637.12億元，其中外資賣超481.46億元，統計發現逆勢獲外資買超的類股有金融股及面板股，但記憶體及ETF則是外資狂賣標的，賣超主動統一台股增長（00981A）38,014張最多，其次是賣超南亞科（2408）34,399張。",
-      "publishedAt": "2026-09-03T09:29:48.410Z",
-      "discoveredAt": "2026-09-03T09:29:48.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2f958e8a671244f6e6d4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9732685?from=edn_newest_index",
-      "title": "中國抵制光州雙年展等活動 韓外交部：與政府立場無關 | 國際焦點 | 國際 | 經濟日報",
-      "description": "光州雙年展恢復「台灣館」名稱引起中國不滿，除了今天中國館宣布退展，據韓媒報導，中方也表示將不參加麗水世界島嶼博覽會；韓國...",
-      "publishedAt": "2026-09-03T09:29:48.410Z",
-      "discoveredAt": "2026-09-03T09:29:48.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_89dbd8220fa4b23c45c4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9732384",
-      "title": "17:00 興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張",
-      "description": "興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望賺進255.9萬元，報酬率113.74%，等於抽1張現賺1張多。",
-      "publishedAt": "2026-09-03T09:13:18.065Z",
-      "discoveredAt": "2026-09-03T09:13:18.065Z",
       "topics": [
         "Taiwan business",
         "investment",

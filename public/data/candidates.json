@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T09:13:18.065Z",
+  "updatedAt": "2026-09-03T09:29:48.410Z",
   "candidates": [
+    {
+      "id": "cand_ac8146891956d589b76c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9732658",
+      "title": "VASP 業者擴增至10家！金管會通過2家虛擬資產業者洗錢防制登記 | 金融脈動 | 金融 | 經濟日報",
+      "description": "虛擬通貨服務商（VASP）業者名單再更新！金管會3日公布新增2家VASP業者通過洗錢防制登記，業者總數由原本8家增至10家，新增業者分別是台鋼數位資產和優答台灣，業者在取得登記後即可正式開業。隨《虛擬資產服務法》6月底三讀通過，國內VASP市場持續擴大。",
+      "publishedAt": "2026-09-03T09:29:48.410Z",
+      "discoveredAt": "2026-09-03T09:29:48.410Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a9261909108385fbaee3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9732628?from=edn_maintab_index",
+      "title": "AI 代理將在毫秒內下單付款 緯穎董事長洪麗寗：金融體系準備好了嗎？ | 金融脈動 | 金融 | 經濟日報",
+      "description": "FinTechOn 2026暨亞洲金融科技聯盟（AFA）高峰會3日在台北登場，緯穎（6669）科技董事長暨策略長洪麗寗表示，AI正快速改變全球供應鏈，數據、生產與貨物流動速度不斷加快，資金卻未能同步跟上。未來當AI代理開始彼此交易，金融科技必須進一步融入供應鏈，成為AI經濟不可或缺的基礎設施。",
+      "publishedAt": "2026-09-03T09:29:48.410Z",
+      "discoveredAt": "2026-09-03T09:29:48.410Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3c129e01ccfc59a8e3f3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9732694?from=edn_newest_index",
+      "title": "光寶宣布策略投資液冷技術公司 DCX 整合電源管理、散熱關鍵技術 | 產業熱點 | 產業 | 經濟日報",
+      "description": "光寶科（2301）3日宣布策略投資波蘭液冷散熱解決方案公司 DCX POLSKA Sp. z o.o.。光寶表示，DCX Liquid Cooling Systems 專注於AI 與高效能運算（HPC）資料中心先進液冷系統開發，擁有完整產品組合及深厚技術基礎。交易完成後，光寶將持有 DCX Liquid Cooling Systems 約 25% 股權，交易總金額約1.76億美元。",
+      "publishedAt": "2026-09-03T09:29:48.410Z",
+      "discoveredAt": "2026-09-03T09:29:48.410Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_67b152b2543999cb1bea",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9732693?from=edn_newest_index",
+      "title": "內蒙牛肉檢出瓜爾膠、過量恐致腸阻塞 陸網嘆「被迫學新化學名詞」 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸繼「甲酫大白菜」、廈門爆發滅蟲公司長期使用劇毒農藥「敵敵畏」為餐廳消毒滅蟲後，內蒙古牛肉龍頭企業「科爾沁牛業股份有限公司」旗下標榜「原切」的牛肉產品，遭檢出添加食用膠「瓜爾膠」，這種被用在合成肉、預製肉的食用膠可致腸阻塞，目前已被官方通報並立案調查。",
+      "publishedAt": "2026-09-03T09:29:48.410Z",
+      "discoveredAt": "2026-09-03T09:29:48.410Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3b5ddc8dd530a5fae762",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11799/9732010?from=edn_newest_index",
+      "title": "新竹市政府導入「LINE WORKS」並簽署MOU推動行政數位轉型 | 產業動態 | 商情 | 經濟日報",
+      "description": "提供通訊工具「LINE WORKS」及各類 AI 產品的 LINE WORKS 株式會社（總公司：日本東京都澀谷區；代表取締役社長：島岡岳史）宣布，新竹市政府自 2026 年 9 月 1 日起正式導入通訊工具「LINE WORKS」，此次導入為台灣行政機關首度大規模導入。 此外，配合此次導入，LINE WORKS 株式會社與新竹市政府亦簽署行政數位轉型交流合作備忘錄（MOU），以推動行政數位化、提升市民服務品質，並促進高效資訊共享及跨部門協作。 導入目的：透過「LINE WORKS」推動行政通訊數位轉型 新竹市位於台灣西北部，坐擁全球重要的半導體與 ICT 產業聚落「新竹科學園區」，是台灣具代表性的科技城市之一。作為支撐先進產業發展的重要城市，新竹市在行政領域亦積極運用數位科技，持續提升市民服務品質與行政作業效率。 新竹市政府將運用「LINE WORKS」強化市政府內部資訊共享及跨部門協作，並促進與里長之間的溝通，以進一步提升行政作業效率及資訊共享速度。 「LINE WORKS」導入重點 • 資安暨管理功能： 提供專為法人使用所設計的彈性管理功能，以及取得國際認證的高水準資安環境",
+      "publishedAt": "2026-09-03T09:29:48.410Z",
+      "discoveredAt": "2026-09-03T09:29:48.410Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cd56e0eb606de6e4aaee",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9732686?from=edn_newest_index",
+      "title": "外資賣超481億元 狂賣記憶體及 ETF 但逆勢大買金融股及面板股 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股3日震盪走弱，終場收45,857.66點，下跌307.06點，失守46,000點關卡，三大法人賣超637.12億元，其中外資賣超481.46億元，統計發現逆勢獲外資買超的類股有金融股及面板股，但記憶體及ETF則是外資狂賣標的，賣超主動統一台股增長（00981A）38,014張最多，其次是賣超南亞科（2408）34,399張。",
+      "publishedAt": "2026-09-03T09:29:48.410Z",
+      "discoveredAt": "2026-09-03T09:29:48.410Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2f958e8a671244f6e6d4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9732685?from=edn_newest_index",
+      "title": "中國抵制光州雙年展等活動 韓外交部：與政府立場無關 | 國際焦點 | 國際 | 經濟日報",
+      "description": "光州雙年展恢復「台灣館」名稱引起中國不滿，除了今天中國館宣布退展，據韓媒報導，中方也表示將不參加麗水世界島嶼博覽會；韓國...",
+      "publishedAt": "2026-09-03T09:29:48.410Z",
+      "discoveredAt": "2026-09-03T09:29:48.410Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_89dbd8220fa4b23c45c4",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9732384",
-      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 | 櫃買動態 | 證券 | 經濟日報",
+      "title": "17:00 興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張",
       "description": "興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望賺進255.9萬元，報酬率113.74%，等於抽1張現賺1張多。",
       "publishedAt": "2026-09-03T09:13:18.065Z",
       "discoveredAt": "2026-09-03T09:13:18.065Z",
@@ -654,7 +864,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2050,7 +2260,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9731424?from=edn_hottest_index",
-      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 12186",
+      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 12240",
       "description": "",
       "publishedAt": "2026-09-03T06:37:35.057Z",
       "discoveredAt": "2026-09-03T06:37:35.057Z",
@@ -2800,7 +3010,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730365?from=edn_hottest_index",
-      "title": "宏碁發表概念性二合一掌機 50周年秘密藏其中 6677",
+      "title": "宏碁發表概念性二合一掌機 50周年秘密藏其中 6694",
       "description": "",
       "publishedAt": "2026-09-03T05:30:10.806Z",
       "discoveredAt": "2026-09-03T05:30:10.806Z",
@@ -5169,213 +5379,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_98bad8da8e932714d0ae",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9731047?from=edn_newest_index",
-      "title": "哈利王子夫婦搬回英國 川普酸：樂見他們離開美國 2026-09-03 04:45",
-      "description": "美國總統川普今天表示，他很高興英國哈利王子（Prince Harry）及其美國籍妻子梅根（Meghan Markle）已...",
-      "publishedAt": "2026-09-02T20:46:15.548Z",
-      "discoveredAt": "2026-09-02T20:46:15.548Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0ad387336f55e7767b06",
-      "sourceLastModified": "2026-09-02T19:11:21.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "publishedAt": "2026-09-02T19:11:21.000Z",
-      "discoveredAt": "2026-09-01T18:16:57.927Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e230475d7f7a35f30300",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730900?from=edn_maintab_index",
-      "title": "科技業：轉向思考 Made with Taiwan 與各國市場共同合作製造 AI浪潮正把台灣科技業推向前所未見的高度，鴻海（2317）、台積電（2330）、聯發科（2454）、日月光（3711）、欣興（3037）等國內科技業五巨頭高層昨（2）日喊話，要從「台灣製造」走向「G...",
-      "description": "AI浪潮正把台灣科技業推向前所未見的高度，鴻海、台積電、聯發科、日月光、欣興等國內科技業五巨頭高層昨（2）日喊話，要從「台灣製造」走向「Global Taiwan（全球的台灣）」，也必須轉向思考「Made with Taiwan（與台灣一起製造）」。",
-      "publishedAt": "2026-09-02T18:46:42.661Z",
-      "discoveredAt": "2026-09-02T18:46:42.661Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_09ed3089010648001ec2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9730849?from=edn_maintab_index",
-      "title": "台廠赴美投資衝550億美元 經部：三個月追加200億美元 集中半導體及 AI 領域 美國關稅壓力及AI需求爆發下，台廠加速赴美布局，經濟部長龔明鑫昨（2）日表示，根據最新盤點，規劃或正在美國投資的企業，投資金額在短短三個月內追加200億美元，已增至550億美元（約新台幣1.74兆元...",
-      "description": "美國關稅壓力及AI需求爆發下，台廠加速赴美布局，經濟部長龔明鑫昨（2）日表示，根據最新盤點，規劃或正在美國投資的企業，投資金額在短短三個月內追加200億美元，已增至550億美元（約新台幣1.74兆元），反映台廠赴美投資熱度持續升高。",
-      "publishedAt": "2026-09-02T18:46:42.661Z",
-      "discoveredAt": "2026-09-02T18:46:42.661Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_34fb2c9910c9575d1739",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730916?from=edn_maintab_index",
-      "title": "聯發科：創造 AI 時代三贏 CEO 蔡力行喊話「拜託多給一點產能」 聯發科（2454）執行長蔡力行昨（2）日表示，進入AI時代，台灣是少數可以與客戶及合作夥伴攜手，按照其期望的產能爬坡曲線、在要求的時程內實現大規模量產之處，最後形成客戶、合作夥伴與台灣的「三贏」。 ...",
-      "description": "聯發科執行長蔡力行昨（2）日表示，進入AI時代，台灣是少數可以與客戶及合作夥伴攜手，按照其期望的產能爬坡曲線、在要求的時程內實現大規模量產之處，最後形成客戶、合作夥伴與台灣的「三贏」。",
-      "publishedAt": "2026-09-02T18:46:42.661Z",
-      "discoveredAt": "2026-09-02T18:46:42.661Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_091b5ceb113c3a037292",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730920?from=edn_maintab_index",
-      "title": "欣興：載板供貨極度告急 客戶搶著要貨 未回應生產地爭議 ABF載板大廠欣興（3037）董事長兼策略長簡山傑昨（2）日表示，AI晶片推動載板朝大尺寸、高層數及高複雜度演進，目前ABF載板產能「極度告急」。 國際半導體展（SEMICON Taiwan 20...",
-      "description": "ABF載板大廠欣興董事長兼策略長簡山傑昨（2）日表示，AI晶片推動載板朝大尺寸、高層數及高複雜度演進，目前ABF載板產能「極度告急」。",
-      "publishedAt": "2026-09-02T18:46:42.661Z",
-      "discoveredAt": "2026-09-02T18:46:42.661Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fc281f82cad72d2385a7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9730827?from=edn_maintab_index",
-      "title": "因應中東戰事衝擊 政院將追加預算6,000億元 軍公教加薪採二階段調整 行政院今（3）日將於院會通過今年度中央政府總預算追加預算案，據了解，整體追加預算規模將超過6,000億元。其中因應中東戰事以來，中油、台電吸收部分油價漲幅，擬於追加預算中編列逾2,000億元增資中油...",
-      "description": "行政院今（3）日將於院會通過今年度中央政府總預算追加預算案，據了解，整體追加預算規模將超過6,000億元。其中因應中東戰事以來，中油、台電吸收部分油價漲幅，擬於追加預算中編列逾2,000億元增資中油，並且撥補台電700億元。",
-      "publishedAt": "2026-09-02T18:46:42.661Z",
-      "discoveredAt": "2026-09-02T18:46:42.661Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

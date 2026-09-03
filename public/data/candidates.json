@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T01:30:51.242Z",
+  "updatedAt": "2026-09-03T01:58:36.487Z",
   "candidates": [
+    {
+      "id": "cand_e0b9886579f0f0d65283",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9731290",
+      "title": "Dell、NVIDIA 把胃口養大了 HPE 財報創紀錄盤後仍大跌 | 美股動態 | 國際 | 經濟日報",
+      "description": "慧與（HPE）上季營收和獲利雙雙創新高，AI伺服器和網路設備需求持續火熱，並調高今、明兩年營收展望，但市場期待早已被戴爾（Dell）和輝達（NVIDIA）亮眼財報拉高，加上零組件短缺限制出貨，財報仍未能滿足投資人胃口，盤後股價一度重挫逾5%。",
+      "publishedAt": "2026-09-03T01:58:24.304Z",
+      "discoveredAt": "2026-09-03T01:58:24.304Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5fa3e2f49a53ba80989d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9731370?from=edn_newest_index",
+      "title": "台新 ETF 00989B 9月預估配發0.088元 連二月年化配息率逾10% | 基金天地 | 理財 | 經濟日報",
+      "description": "台新美國非投等債ETF（00989B）將迎來第三次配息，根據台新投信官網最新公布，00989B 9月每單位預估配發0.088元，以9月2日收盤價10.03元換算，年化配息率達10.53%，已連續二月突破10%，在同類型基金中名列前茅。台新美國非投等債ETF預計9月15日除息，9月14日為最後買進日，有參與此次除息的投資人，將在10月7日領息。",
+      "publishedAt": "2026-09-03T01:58:24.304Z",
+      "discoveredAt": "2026-09-03T01:58:24.304Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f063a546c7230d0b86bf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9731367?from=edn_newest_index",
+      "title": "決戰關鍵9月 00981T配息出爐 每受益權單位擬配0.082元 | 基金天地 | 理財 | 經濟日報",
+      "description": "凱基雙核收息債股平衡ETF基金（00981T），迎來掛牌上市以來第9次配息，期前公告出爐，每受益權單位擬配發0.082元，與前2期配息金額一致，預計9月16日除息，10月15日發放，有意參與除息的投資人，9月15日為最後買進日。",
+      "publishedAt": "2026-09-03T01:58:24.304Z",
+      "discoveredAt": "2026-09-03T01:58:24.304Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ed04da9fb89d738bc333",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9731362?from=edn_newest_index",
+      "title": "政院提6076億追加預算納國防 增資中油2338億 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "行政院會今天擬討論、通過今年度追加預算案，據了解，追加預算案歲出規模為新台幣6076.3億元，前3大項目分別為增資台灣中...",
+      "publishedAt": "2026-09-03T01:58:24.304Z",
+      "discoveredAt": "2026-09-03T01:58:24.304Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3b06f62f2a9541b7c508",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9731359?from=edn_newest_index",
+      "title": "南電 PCB 大陸廠區稼動率滿載 BT 載板第4季凍漲 ABF 續漲 | 產業熱點 | 產業 | 經濟日報",
+      "description": "在載板龍頭欣興（3037）率先喊出ABF載板持續供不應求與PCB受惠AI等趨勢，南電（8046）日前2日受邀參加法人線上電話會議也提到，由於南電受惠AI需求大增PCB大陸廠區稼動率逐步滿載，在無長約之下先前已陸續反應生產成本墊高調高報價，載板部分近期BT相關原物料價格上漲趨緩，目前無意自 2026 年第 4 季起進一步調漲 BT 載板價格，至於ABF載板部分相關原物料（如 T-glass）持續吃緊則仍有漲升空間。",
+      "publishedAt": "2026-09-03T01:58:24.304Z",
+      "discoveredAt": "2026-09-03T01:58:24.304Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2b38a5e56dcefd9510a5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9731352?from=edn_newest_index",
+      "title": "今年來9檔主動式台股 ETF 勝大盤 00992A超漲抗跌 漲84%登績效王 | 基金天地 | 理財 | 經濟日報",
+      "description": "受到美伊衝突反覆與市場擔憂聯準會9月可能升息，市場資金輪動快速，也讓台股延續高檔震盪行情，市場法人表示，雖然近日台股隨國際股市波動，不過整體來看，在基本面向好和AI熱潮所驅動的企業強勁獲利表現支持下，今年以來台股大盤累積漲幅接近6成，在全球主要股市中名列前茅。",
+      "publishedAt": "2026-09-03T01:58:24.304Z",
+      "discoveredAt": "2026-09-03T01:58:24.304Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0156196d16c050f53c39",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9730827?from=edn_hottest_index",
+      "title": "因應中東戰事衝擊 政院將追加預算6,000億元 軍公教加薪採二階段調整 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "行政院今（3）日將於院會通過今年度中央政府總預算追加預算案，據了解，整體追加預算規模將超過6,000億元。其中因應中東戰事以來，中油、台電吸收部分油價漲幅，擬於追加預算中編列逾2,000億元增資中油，並且撥補台電700億元。",
+      "publishedAt": "2026-09-03T01:58:24.304Z",
+      "discoveredAt": "2026-09-03T01:58:24.304Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e4a61d13167f085b1474",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9731281",
-      "title": "美股收紅助攻！聯發科領軍台股開高一度彈升逾300點 面板雙虎人氣旺 | 市場焦點 | 證券 | 經濟日報",
+      "title": "09:21 美股收紅助攻！聯發科領軍台股開高一度彈升逾300點 面板雙虎人氣旺",
       "description": "美股四大指數昨夜全面收高，帶動台股3日開盤上漲160.76點、報46,325.48點，隨後在聯發科（2454）領攻，奇鋐（3017）、南亞科（2408）、日月光投控（3711）、致茂（2360）等電子要角同步走強，加上台新新光金（2887）持續創高之下，帶動大盤漲點一度擴大至逾300點，指數觸及5日線，但台積電（2330）腳步未穩，大盤也隨之震盪。盤面上，友達（2409）、群創（3481）、華邦電（2344）等個股交投熱絡。",
       "publishedAt": "2026-09-03T01:30:51.242Z",
       "discoveredAt": "2026-09-03T01:30:51.242Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9731281?from=edn_maintab_index",
-      "title": "美股收紅助攻！聯發科領軍台股開高一度彈升逾300點 面板雙虎人氣旺 | 市場焦點 | 證券 | 經濟日報",
+      "title": "美股收紅助攻！聯發科領軍台股開高一度彈升逾300點 面板雙虎人氣旺 美股四大指數昨夜全面收高，帶動台股3日開盤上漲160.76點、報46,325.48點，隨後在聯發科（2454）領攻，奇鋐（3017）、南亞科（2408）、日月光投控（3711）、致茂（2360）等...",
       "description": "美股四大指數昨夜全面收高，帶動台股3日開盤上漲160.76點、報46,325.48點，隨後在聯發科（2454）領攻，奇鋐（3017）、南亞科（2408）、日月光投控（3711）、致茂（2360）等電子要角同步走強，加上台新新光金（2887）持續創高之下，帶動大盤漲點一度擴大至逾300點，指數觸及5日線，但台積電（2330）腳步未穩，大盤也隨之震盪。盤面上，友達（2409）、群創（3481）、華邦電（2344）等個股交投熱絡。",
       "publishedAt": "2026-09-03T01:30:51.242Z",
       "discoveredAt": "2026-09-03T01:30:51.242Z",
@@ -529,7 +739,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1300,7 +1510,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -4330,7 +4540,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 12021",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 12068",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -4780,7 +4990,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 11507",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 11799",
       "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
       "publishedAt": "2026-09-02T14:28:45.565Z",
       "discoveredAt": "2026-09-02T14:28:45.565Z",
@@ -5153,216 +5363,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a342fee3736447c953fb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9729161?from=edn_newest_index",
-      "title": "中東格局劇變十年後 習近平重訪埃及深化合作 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "【彭博】-- 中國大陸國家主席習近平本周訪問開羅時將發現，自十年前上次訪問這一中東人口最多的國家以來，埃及以及整個地區都已發生巨大變化。",
-      "publishedAt": "2026-09-02T13:54:34.350Z",
-      "discoveredAt": "2026-09-02T13:54:34.350Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c536320a7f4fa35b736f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9730722?from=edn_newest_index",
-      "title": "美股早盤／油價略為回落 四大指數漲跌互見 戴爾飆12% | 美股動態 | 國際 | 經濟日報",
-      "description": "美國長天期公債殖利率重回財長貝森特出手前的高點，但油價從高點略為回檔，美股2日早盤四大指數漲跌互見。",
-      "publishedAt": "2026-09-02T13:54:34.350Z",
-      "discoveredAt": "2026-09-02T13:54:34.350Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3340864811998ea5dd4b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9730720?from=edn_newest_index",
-      "title": "負責人不認診所是感染C肝主因 管藥有缺失今年已被罰過6萬 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "國內出現診所打營養針導致急性病毒性Ｃ型肝炎群聚事件，11名急性Ｃ肝病例曾於新北板橋「安泰淞鶴診所」接受注射，疾管署長羅一鈞說，初步了解該診所並無共用針頭，未落實無菌操作ＳＯＰ。診所負責人、醫師孫浩陽堅稱，雖然診所作業有些小缺失 但不至於是感染主因，強調「絕對從未使用同一個針頭施打在不同病人身上」。",
-      "publishedAt": "2026-09-02T13:54:34.350Z",
-      "discoveredAt": "2026-09-02T13:54:34.350Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0e2c372baac48f7491b2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9730696?from=edn_newest_index",
-      "title": "高雄2院所漏接！移工跨台南就醫才確診登革熱 衛生局要開罰 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "高雄登革熱防線再拉警報！高市衛生局今公布新增1例登革熱境外移入個案，阿蓮區38歲菲律賓籍男性移工8月26日從菲律賓入境，當天就出現發燒、忽冷忽熱、肌肉痠痛及關節痛的典型症狀，兩度前往岡山區的醫院、診所就醫都沒驗出，直到4天後跑到台南急診，才確診感染登革熱病毒第4型；衛生局認定2院所涉違法，將依法裁處。",
-      "publishedAt": "2026-09-02T13:54:34.350Z",
-      "discoveredAt": "2026-09-02T13:54:34.350Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3e9349a2b24f9799fba7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9728373?from=edn_hottest_index",
-      "title": "台積電 AI 冷革命 散熱廠卡位 健策、一詮等研發微流道技術 4780",
-      "description": "台積電啟動AI「冷革命」，將新世代「微流道（Microchannel）」散熱技術納入研發藍圖，業界指出，先前已傳出輝達有意導入微流道散熱技術，但礙於技術太難，一直無法成局，隨著台積電登高一呼，微流道散熱躍業界新寵，健策、一詮、奇鋐、雙鴻等台廠都已投入相關技術研發，後市看俏。",
-      "publishedAt": "2026-09-02T13:54:34.350Z",
-      "discoveredAt": "2026-09-02T13:54:34.350Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_22b3f84234ca26a4f12c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9730530",
-      "title": "21:38 國銀五大信賴放款要破5兆了！7月暴增逾3,000億元 近八成增量非行庫",
-      "description": "據金管會統計，7月底國銀五大信賴產業放款餘額達4兆9,513億元，7月單月暴增3,061億元、首破3,000億元，寫上路以來單月最大增額，最快8月可望突破5兆元，目前以軍工、AI及安控需求最旺。",
-      "publishedAt": "2026-09-02T13:38:31.114Z",
-      "discoveredAt": "2026-09-02T13:38:31.114Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_de1641f0b78dc2f010a6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9730712?from=edn_newest_index",
-      "title": "地緣政治動盪 荷蘭央行將86公噸黃金自美加移往英國 | 國際焦點 | 國際 | 經濟日報",
-      "description": "荷蘭中央銀行今天表示，由於「地緣政治動盪加劇」，該行已將86公噸的黃金儲備，從美國和加拿大移往英國",
-      "publishedAt": "2026-09-02T13:38:31.114Z",
-      "discoveredAt": "2026-09-02T13:38:31.114Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

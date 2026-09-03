@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T18:25:50.432Z",
+  "updatedAt": "2026-09-03T18:43:26.461Z",
   "candidates": [
+    {
+      "id": "cand_d5627d89281a5e608be8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733324?from=edn_newest_index",
+      "title": "美伊衝突加劇 油價上漲 以色列暗示擴大介入戰爭 | 國際焦點 | 國際 | 經濟日報",
+      "description": "伊朗發動新一輪報復性打擊，而以色列也暗示準備加大對這場戰爭的介入，進一步加劇了該地區能源供應風險，引發油價上漲。知情人士則透露，現在美國國防部長赫塞斯正悄悄延長美軍部署，顯示這場衝突很可能會一路延續至2027年。",
+      "publishedAt": "2026-09-03T18:43:26.461Z",
+      "discoveredAt": "2026-09-03T18:43:26.461Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1d61ea4bf2bee719aa8c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733340?from=edn_newest_index",
+      "title": "OpenAI、紐時訴訟 美司法部介入 | 國際焦點 | 國際 | 經濟日報",
+      "description": "川普政府介入OpenAI與紐約時報之間的版權訴訟。司法部在1日提交的法院文件中，主張OpenAI用大量網路文本訓練模型，受版權法「合理使用」原則的保護。",
+      "publishedAt": "2026-09-03T18:43:26.461Z",
+      "discoveredAt": "2026-09-03T18:43:26.461Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a05ccdf9b5b3b43eb9ca",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733342?from=edn_newest_index",
+      "title": "創投標的 轉向「抗 AI 衝擊」資產 | 國際焦點 | 國際 | 經濟日報",
+      "description": "創投家的投資標的，通常都跟遠在天邊、先進高端的科技相關，不過近來他們看著AI如此快速發展，反而轉向提供實際體驗的產業，像是運動、旅遊、賭場等能夠「抗AI衝擊」的資產，進行避險。",
+      "publishedAt": "2026-09-03T18:43:26.461Z",
+      "discoveredAt": "2026-09-03T18:43:26.461Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7f48696785625ae0d6bf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9733312?from=edn_newest_index",
+      "title": "輝達129億美元併購 AI 開源平台 Hugging Face 跨足非硬體領域 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達3日正式宣布，同意以129億美元收購開源人工智慧（AI）平台Hugging Face，跨足硬體以外領域，進一步壯大在AI各領域的版圖。",
+      "publishedAt": "2026-09-03T18:43:26.461Z",
+      "discoveredAt": "2026-09-03T18:43:26.461Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8fe92aa04be89ade2b3e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733318?from=edn_newest_index",
+      "title": "韓電力公司找 DRAM 雙雄籌錢 商談電費預繳方案 | 國際焦點 | 國際 | 經濟日報",
+      "description": "南韓半導體和人工智慧（AI）用電需求急增，電網建設資金卻跟不上。韓國電力公社（KEPCO，簡稱韓電）正和三星電子、SK海力士商談電費預繳方案，希望由兩大晶片業者提前支付未來數年電費，籌措興建半導體聚落輸電網和變電設施所需資金，同時確保新廠能及時取得電力。",
+      "publishedAt": "2026-09-03T18:43:26.461Z",
+      "discoveredAt": "2026-09-03T18:43:26.461Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6ff7a1233b274ba8c49a",
       "sourceLastModified": null,
@@ -3097,7 +3247,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12624",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12664",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -3307,7 +3457,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9047",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9086",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -3618,7 +3768,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3648,7 +3798,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3678,7 +3828,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4411,7 +4561,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9732384?from=edn_hottest_index",
-      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 8772",
+      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 8792",
       "description": "興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望賺進255.9萬元，報酬率113.74%，等於抽1張現賺1張多。",
       "publishedAt": "2026-09-03T11:35:37.962Z",
       "discoveredAt": "2026-09-03T11:35:37.962Z",
@@ -5235,156 +5385,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_784597b8967c613a3d9d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6722/9731865?from=edn_newest_index",
-      "title": "合庫深化氣候治理 連兩年獲評TCFD報告書績優銀行 | ESG | 商情 | 經濟日報",
-      "description": "合庫持續深化氣候治理與風險管理，再獲專業肯定。「氣候暨自然相關財務揭露報告書」連續兩年獲國立政治大學評鑑為績優銀行，展現合庫將氣候與自然相關風險納入經營決策及風險管理機制的具體成果，彰顯其推動永續金融及提升企業韌性的長期努力。",
-      "publishedAt": "2026-09-03T10:36:54.047Z",
-      "discoveredAt": "2026-09-03T10:36:54.047Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3576fd373b90e60b137e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9732476",
-      "title": "18:20 砸1,809億元穩油氣價格 經濟部：民生天然氣、桶裝瓦斯凍漲至年底",
-      "description": "中東局勢動盪推升國際油氣價格，政府出手穩物價。行政院院會3日通過經濟部所提4,217.69億元追加預算，用於補貼油氣價差、強化能源供應韌性、提升馬太鞍溪防汛能力；經濟部並宣布，民生用天然氣及桶裝瓦斯價格凍漲至年底。",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dae583531d25fd9fa61e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9732548",
-      "title": "18:04 成交值前十大僅2檔收高！南亞科589億奪冠卻重挫7.8% 失守500元關卡",
-      "description": "台股3日開高收低307.06點、報45857.66點，盤面反壓明顯，成交值前10大個股僅聯發科（2454）、台積電（2330）兩檔收高，其餘8檔全數走跌，成交量前10更僅友達（2409）單獨收高。其中，南亞科（2408）成交值衝上589.23億元居冠，並爆出11.75萬張大量，股價終場重挫7.82%至477.5元，失守500元大關及月線，成為今日盤面空方指標。",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c3894930025c4684e0d0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9732747?from=edn_maintab_index",
-      "title": "跌20%就叫熊市？AI 燃起的股市熱潮 讓傳統定義失靈 華爾街傳統上將主要指數下跌20%稱為熊市。如果主要指數幾乎每天都出現大幅上漲與下跌，而且時間區間拉長到今年以來，仍呈現上漲的話，又該怎麼稱呼呢？ 看到熊市訊號就出場？你可能少賺了 市場一會兒狂噴...",
-      "description": "華爾街傳統上將主要指數下跌20%稱為熊市。如果主要指數幾乎每天都出現大幅上漲與下跌，而且時間區間拉長到今年以來，仍呈現上漲的話，又該怎麼稱呼呢？",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_02c990a5a2023add0149",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9732686?from=edn_maintab_index",
-      "title": "外資賣超481億元 狂賣記憶體及 ETF 但逆勢大買金融股及面板股 台股3日震盪走弱，終場收45,857.66點，下跌307.06點，失守46,000點關卡，三大法人賣超637.12億元，其中外資賣超481.46億元，統計發現逆勢獲外資買超的類股有金融股及面板股...",
-      "description": "台股3日震盪走弱，終場收45,857.66點，下跌307.06點，失守46,000點關卡，三大法人賣超637.12億元，其中外資賣超481.46億元，統計發現逆勢獲外資買超的類股有金融股及面板股，但記憶體及ETF則是外資狂賣標的，賣超主動統一台股增長（00981A）38,014張最多，其次是賣超南亞科（2408）34,399張。",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

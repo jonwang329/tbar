@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T20:47:23.444Z",
+  "updatedAt": "2026-09-03T21:06:02.674Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,150 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-09-03T21:06:02.674Z",
+      "discoveredAt": "2026-09-03T21:06:02.674Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_d51246bc71f989f8e000",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9733602?from=edn_newest_index",
+      "title": "哥斯達黎加歡迎超過 400 位買家與投資者，參與該區最大國際商業盛會 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "為期三天的商業配對活動，將匯聚來自超過 40 個國家／地區的代表團與超過 1,000 間於哥斯達黎加營運的公司。 哥斯達黎加聖荷西2026年9月4日 /美通社/ -- 第二屆哥斯達黎加貿易與投資高峰會 (CRTIS) 已於週三正式開幕，匯聚哥斯達黎加的企業與尋求產品與服務的國際買家。同時，該高峰會為投資者提供潛在項目評估機會，以及探索於該國建立或擴大業務的機會。 2026 年哥斯達黎加貿易與投資高峰會 在為期三天的活動中，來自超過 40 個國家／地區的代表團將與 1,000 間於哥斯達黎加經營的出口商、跨國公司和供應商進行超過 3,600 場特設商務會議。哥斯達黎加貿易與投資促進局 (PROCOMER) 圍繞具體採購與投資重點而制定各項議程，協助參與者比較機會、評估能力，並推進他們的商業決定。 「哥斯達黎加提供專業人才、強大生產能力、進入全球市場渠道，以及滿足國際買家與投資者需要的供應商網絡。該國也已展示，自身支援複雜兼高價值營運的能力。哥斯達黎加貿易與投資高峰會 (CRTIS) 為決策者提供這些能力的第一手資料，以及評估哥斯達黎加為未來採購、投資和擴張決定一部份的機會。我們的目標是為",
+      "publishedAt": "2026-09-03T21:05:15.639Z",
+      "discoveredAt": "2026-09-03T21:05:15.639Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0b5bf3d8e9908d4d0c68",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733600?from=edn_newest_index",
+      "title": "債市拋售潮衝擊房市 美房貸利率近7%創2026年新高 | 國際焦點 | 國際 | 經濟日報",
+      "description": "全球債市的拋售潮正衝擊美國房市，美國房貸利率飆升至今年最高水準，為有意購屋的民眾與尋求轉貸的屋主帶來新一波壓力",
+      "publishedAt": "2026-09-03T21:05:15.639Z",
+      "discoveredAt": "2026-09-03T21:05:15.639Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a91550a02b752614297e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9733599?from=edn_newest_index",
+      "title": "科技股領漲、債券殖利率回落 美股收高 | 美股動態 | 國際 | 經濟日報",
+      "description": "華爾街股市主要指數今天收高，主因近來攀升的債券殖利率進一步回落，加上大型科技股表現強勁，協助美股收復本週稍早的部分失土",
+      "publishedAt": "2026-09-03T21:05:15.639Z",
+      "discoveredAt": "2026-09-03T21:05:15.639Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f7abab67aa83cf489a34",
+      "sourceLastModified": null,
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://www.businessweekly.com.tw/management/blog/3022374",
+      "title": "咖啡廳太吵、圖書館不能吃東西，小樹屋如何把「一張安靜的桌子」變新生意？",
+      "description": "",
+      "publishedAt": "2026-09-03T21:05:15.639Z",
+      "discoveredAt": "2026-09-03T21:05:15.639Z",
+      "topics": [
+        "Taiwan business",
+        "AI",
+        "management",
+        "industry"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_36a411821de7ee247f60",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +238,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9733596?from=edn_newest_index",
-      "title": "投資人評估中東及俄烏局勢 國際油價漲跌互見 | 國際焦點 | 國際 | 經濟日報",
+      "title": "投資人評估中東及俄烏局勢 國際油價漲跌互見 2026-09-04 04:45",
       "description": "國際油價今天漲跌互見。美國空襲伊朗且以色列再次威脅德黑蘭，重新引發市場對中東原油供應受阻的擔憂，油價因此獲支撐，但俄羅斯...",
       "publishedAt": "2026-09-03T20:47:23.444Z",
       "discoveredAt": "2026-09-03T20:47:23.444Z",
@@ -138,7 +282,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -4021,7 +4165,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12958",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13015",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -4231,7 +4375,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9324",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9371",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5236,151 +5380,6 @@
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
-    },
-    {
-      "id": "cand_5df0a67351371a23600d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9732957?from=edn_newest_index",
-      "title": "台青赴陸被盤查 陸委會：中共意在打造自我審查「小警總」 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "一名台青赴陸被盤查，原因與曾在國際特赦組織打工有關，中國大陸國台辦證實該案；陸委會今天表示，中共目的在於打造自我審查「小...",
-      "publishedAt": "2026-09-03T11:35:37.962Z",
-      "discoveredAt": "2026-09-03T11:35:37.962Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_25dce6fb04721f89ebc1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9731864?from=edn_newest_index",
-      "title": "全球投資者美元曝險異常之高 市場情緒若變恐加劇美元跌勢 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 翻查全球各地退休基金和保險公司的申報文件，有一點格外突出：一些持有美國資產最多的投資者，對美元走弱幾乎沒有多少防護。",
-      "publishedAt": "2026-09-03T11:35:37.962Z",
-      "discoveredAt": "2026-09-03T11:35:37.962Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bb75e4cc7ea8090801ca",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9732955?from=edn_newest_index",
-      "title": "台銀連三年榮獲政大 TCFD 評鑑績優 深化氣候風險管理 | 金融脈動 | 金融 | 經濟日報",
-      "description": "台灣銀行持續深化氣候風險管理及推動永續金融發展，再度獲得外部專業機構肯定，於國立政治大學辦理第三屆「金融業氣候相關財務揭露（TCFD）報告書評鑑」獲評鑑為績優，連續三屆獲獎，展現台灣銀行在氣候治理、風險管理及資訊揭露方面的具體成效。",
-      "publishedAt": "2026-09-03T11:35:37.962Z",
-      "discoveredAt": "2026-09-03T11:35:37.962Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_08449d2f8d1e7a009b17",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9732384?from=edn_hottest_index",
-      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 8870",
-      "description": "興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望賺進255.9萬元，報酬率113.74%，等於抽1張現賺1張多。",
-      "publishedAt": "2026-09-03T11:35:37.962Z",
-      "discoveredAt": "2026-09-03T11:35:37.962Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-09-03T11:20:40.008Z",
-      "discoveredAt": "2026-09-03T11:20:40.008Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
     }
   ]
 }

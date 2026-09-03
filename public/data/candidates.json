@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T15:04:35.844Z",
+  "updatedAt": "2026-09-03T15:25:00.835Z",
   "candidates": [
+    {
+      "id": "cand_819190dd6f175c6f9398",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733361",
+      "title": "AI狂潮不僅帶旺輝達 電力與散熱供應商也大啖7兆美元商機 | 國際焦點 | 國際 | 經濟日報",
+      "description": "最新一期的經濟學人雜誌在封面故事中探討輝達（Nvidia）執行長黃仁勳在「人工智慧（AI）熱潮的核心魔術師角色」，以及如何成為「AI界的泰勒絲」。但這股AI狂潮的最大受惠者不只有輝達，電力設備、散熱等供應商也在搶吃這個規模達7兆美元的商機。",
+      "publishedAt": "2026-09-03T15:25:00.835Z",
+      "discoveredAt": "2026-09-03T15:25:00.835Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7be472c75706733c6ea0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733361?from=edn_maintab_index",
+      "title": "AI狂潮不僅帶旺輝達 電力與散熱供應商也大啖7兆美元商機 | 國際焦點 | 國際 | 經濟日報",
+      "description": "最新一期的經濟學人雜誌在封面故事中探討輝達（Nvidia）執行長黃仁勳在「人工智慧（AI）熱潮的核心魔術師角色」，以及如何成為「AI界的泰勒絲」。但這股AI狂潮的最大受惠者不只有輝達，電力設備、散熱等供應商也在搶吃這個規模達7兆美元的商機。",
+      "publishedAt": "2026-09-03T15:25:00.835Z",
+      "discoveredAt": "2026-09-03T15:25:00.835Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d9d84f0d11c06d2bb98d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9733434?from=edn_newest_index",
+      "title": "韓味全開！台中大遠百韓國秋季物產展 帶消費者吃喝玩樂抽機票 | 生活 | 要聞 | 經濟日報",
+      "description": "台中大遠百「2026韓國秋季物產展」3日起至9日14日登場，同步於10樓、12樓展場盛大舉行開幕活動，現場集結人氣韓系商品、話題美食與多元互動體驗，搭配滿額贈與限定活動，吸引大批民眾參與。",
+      "publishedAt": "2026-09-03T15:25:00.835Z",
+      "discoveredAt": "2026-09-03T15:25:00.835Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0216463861296227cfa5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9732656?from=edn_newest_index",
+      "title": "過了第三季財報 世芯就進入成長年 | 市場焦點 | 證券 | 經濟日報",
+      "description": "特別是亞馬遜是Anthropic的核心投資者與算力託管方(推廣Trainium)，在輝達CUDA軟體護城河無法一夕取代，自研ASIC從設計、流片到軟體生態成熟需二至三年週期，且架構相對固化。 在演算法快速迭代的前沿大模型訓練上，亞馬遜等巨頭依然必須依賴輝達Blackwell、Rubin平台的靈活性與CUDA生態。如果AWS僅提供自研Trainium晶片，強迫客戶遷移軟體堆疊，不排除Anthropic會直接轉單到微軟Azure、Google Cloud或CoreWeave。 所以藉由採購200萬顆GPU搶下未來數年的算力軍備龍頭地位，同時讓Trainium在特定與推理解決方案中穩步放量。對外高價出租給需要最頂級算力的前沿實驗室(如Anthropic、政府專案與大型金融機構)，賺取高單價雲端服務費。對內用於亞馬遜自身電商推薦、Alexa、AWS Bedrock常規推理，以及對價格敏感度極高的中小型企業，藉由自研晶片大幅降低內部營運TCO(總擁有成本)。",
+      "publishedAt": "2026-09-03T15:25:00.835Z",
+      "discoveredAt": "2026-09-03T15:25:00.835Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cfaf0b6900dc611a1b56",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9733024?from=edn_newest_index",
+      "title": "盟立年營收拚重返百億 先進封裝需求大爆發 新接訂單暢旺 | 集中市場 | 證券 | 經濟日報",
+      "description": "盟立（2464）董事長林世東昨（3）日表示，AI帶動先進封裝對產能自動化需求大爆發，盟立新接訂單暢旺，下半年將進入交貨旺季，整體營運已走出2025年虧損谷底，2026年營收可望重回百億元大關，並衝刺機器人等新市場。",
+      "publishedAt": "2026-09-03T15:25:00.835Z",
+      "discoveredAt": "2026-09-03T15:25:00.835Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_993b263e1c056db80562",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733361?from=edn_newest_index",
+      "title": "AI狂潮不僅帶旺輝達 電力與散熱供應商也大啖7兆美元商機 | 國際焦點 | 國際 | 經濟日報",
+      "description": "最新一期的經濟學人雜誌在封面故事中探討輝達（Nvidia）執行長黃仁勳在「人工智慧（AI）熱潮的核心魔術師角色」，以及如何成為「AI界的泰勒絲」。但這股AI狂潮的最大受惠者不只有輝達，電力設備、散熱等供應商也在搶吃這個規模達7兆美元的商機。",
+      "publishedAt": "2026-09-03T15:25:00.835Z",
+      "discoveredAt": "2026-09-03T15:25:00.835Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b2baf8f2ed340e55fb02",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9733025?from=edn_newest_index",
+      "title": "雙鴻7月每股大賺6.47元 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "散熱模組大廠雙鴻（3324）遭列注意股票，昨（3）日應主管機關要求，公告自結7月稅後純益6億元，年增120%，每股純益6.47元。",
+      "publishedAt": "2026-09-03T15:25:00.835Z",
+      "discoveredAt": "2026-09-03T15:25:00.835Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_3cde5381cf3f13c6eb59",
       "sourceLastModified": null,
@@ -474,7 +684,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1210,7 +1420,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 11041",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 11388",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -1420,7 +1630,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 8403",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 8563",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5178,216 +5388,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e272df349ee42a1d5e35",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9732451?from=edn_newest_index",
-      "title": "精測8月營收創新高、南電同期次高 AI加持給力 | 集中市場 | 證券 | 經濟日報",
-      "description": "測試介面廠中華精測今天公布8月自結合併營收新台幣6.38億元，月增3.9%，較2025年同期成長54.3%，再創單月新高...",
-      "publishedAt": "2026-09-03T07:57:35.882Z",
-      "discoveredAt": "2026-09-03T07:57:35.882Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d9db4b5a1e66f7e3a2d9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9732443?from=edn_newest_index",
-      "title": "台肥80周年 台灣農業現代化科技展開展 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台肥（1722）3日於TFC南港經貿大樓舉辦80周年慶祝大會「沃土豐島 天地大美」，回顧台肥80年來以台灣農業發展為根本，從肥料事業出發，拓展資產活化、化工產業等多元事業布局的發展成果，賴清德總統特別親臨現場見證，並在台肥董事長張滄郎、總經理陳右欣陪同下，為台肥80年紀念特展揭幕，親自體驗展區科技互動設計，一同回顧台肥與台灣共同成長的歷程。",
-      "publishedAt": "2026-09-03T07:57:35.882Z",
-      "discoveredAt": "2026-09-03T07:57:35.882Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6ae077f7d4372c5b0473",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9732434?from=edn_newest_index",
-      "title": "沒帶現金沒關係 台鐵本月開放車上補票可刷行動支付 | 生活 | 要聞 | 經濟日報",
-      "description": "台鐵今年初才宣布，升級車站補票服務，開放除現金外的多元支付及刷卡功能。但列車上車長查票仍維持僅能以現金支付，不少旅客反映不便。如今台鐵宣布九月開放車上電子支付服務，目前正在測試系統中。",
-      "publishedAt": "2026-09-03T07:57:35.882Z",
-      "discoveredAt": "2026-09-03T07:57:35.882Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ecfd53796beb55218800",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/8805617",
-      "title": "15:36 整理包／9、10月連假接力！一個月爽放3波 上班族「請8休17」行事曆快看",
-      "description": "上班族準備排假！2026年從9月25日中秋節、教師節4天連假起，緊接著10月還有國慶日、光復節兩個3天連假，短短約一個月就有3波連假。若善用特休，中秋、教師節連假只要請4天就能休10天；若進一步串接國慶連假，9月29日至10月2日、10月5日至8日共請8天，更可從9月25日一路休到10月11日，連放17天。 這波假期增加與2025年通過的《紀念日及節日實施條例》有關，新增小年夜、5月1日勞動節、9月28日教師節、10月25日台灣光復暨金門古寧頭大捷紀念日，以及12月25日行憲紀念日等5個放假日。2026年全年總放假日數達120日，3天以上連續假期共有9個；接下來除了9、10月的連假外，年底還有12月25日至27日的行憲紀念日3天連假。 （行事曆下載處：中華民國一百一十五年政府行政機關辦公日曆表圖檔） 寒假解套方案 寒假+春節連著放 1月24日（六）-2月22日（日），共放30天 教育局先前公布的學校行事曆中，原定寒假為1月21日-2月10日，但寒假結束後，2月11日-2月13日還需上3天課，才會銜接農曆年假，影響學生家長假期安排。 因此，教育部邀請相關單位開會決議",
-      "publishedAt": "2026-09-03T07:46:50.081Z",
-      "discoveredAt": "2026-09-03T07:46:50.081Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90c5fda331d93ed04f98",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9732384?from=edn_maintab_index",
-      "title": "興櫃股王漢測寫史上最貴承銷價！每股2,250元 抽中1張現賺1張 興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望...",
-      "description": "興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望賺進255.9萬元，報酬率113.74%，等於抽1張現賺1張多。",
-      "publishedAt": "2026-09-03T07:46:50.081Z",
-      "discoveredAt": "2026-09-03T07:46:50.081Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fba982ce02a2b5f25ff3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5735/9732271?from=edn_newest_index",
-      "title": "AI資料中心高功率密度趨勢下 巴斯威爾以國際標準與安全驗證提升匯流排供電可靠度 | 光電半導體 | 商情 | 經濟日報",
-      "description": "隨著AI伺服器、高效能運算（HPC）與半導體先進製程快速推進，用電功率密度呈現爆發性成長，新世代資料中心與先進晶圓廠對電力傳輸系統的容量、散熱、空間效率及安全性提出更高標準的要求。如何在有限的機房空間內安全、有效率地傳輸龐大電力，已成為全球科技基礎建設的重要課題。看準高密度電力傳輸商機，台灣輸配電領導業者巴斯威爾（Taiwan Busway Co., Ltd.，簡稱TBC）攜手配電設備大廠建華機電，強勢進駐台北南港展覽館SEMICON Taiwan 2026半導體展（展位Q5530），全面展示新一代輸配電與高密度供電解決方案。",
-      "publishedAt": "2026-09-03T07:46:50.081Z",
-      "discoveredAt": "2026-09-03T07:46:50.081Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6006ae42472625eb0c72",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5735/9732212?from=edn_newest_index",
-      "title": "AI算力升溫也推升電力需求 建華以高可靠度配電技術布局AI資料中心 | 光電半導體 | 商情 | 經濟日報",
-      "description": "人工智慧（AI）、高效能運算（HPC）與先進半導體製程迅速崛起，帶動資料中心及高科技廠房對高容量、高可靠度電力系統的需求呈爆發式成長。在伺服器功率密度持續攀升的趨勢下，「穩定供電」已成為AI基礎設施能否順利擴充的核心命脈。深耕配電設備領域38年的建華機電股份有限公司，於9月2日至4日參加2026 SEMICON Taiwan國際半導體展（南港展覽館二館，攤位Q5530），展示高低壓配電盤實力，並宣布攜手模鑄匯流排大廠巴斯威爾（Taiwan Busway，TBC），跨界整合配電技術，全力搶攻AI與半導體配電市場。",
-      "publishedAt": "2026-09-03T07:46:50.081Z",
-      "discoveredAt": "2026-09-03T07:46:50.081Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

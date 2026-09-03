@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T23:05:27.313Z",
+  "updatedAt": "2026-09-03T23:19:05.128Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,126 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_5e6205618a811cde6414",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9733672?from=edn_maintab_index",
+      "title": "美股收盤／四大指數收紅 標普500上漲1% Fed 沃勒談話緩解升息擔憂 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市三大指數周四（3日）大幅上漲，都勁揚1%以上，標普500指數創一個月來最大單日漲幅，因聯準會理事沃勒表示，如果數據顯示通膨壓力正在減弱，他將支持維持基準利率不變。這一番話促使交易者降低了對9月升息的押注。",
+      "publishedAt": "2026-09-03T23:19:05.128Z",
+      "discoveredAt": "2026-09-03T23:19:05.128Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8daaafdad03ee1cec70c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9733672?from=edn_newest_index",
+      "title": "美股收盤／四大指數收紅 標普500上漲1% Fed 沃勒談話緩解升息擔憂 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市三大指數周四（3日）大幅上漲，都勁揚1%以上，標普500指數創一個月來最大單日漲幅，因聯準會理事沃勒表示，如果數據顯示通膨壓力正在減弱，他將支持維持基準利率不變。這一番話促使交易者降低了對9月升息的押注。",
+      "publishedAt": "2026-09-03T23:19:05.128Z",
+      "discoveredAt": "2026-09-03T23:19:05.128Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b49ad9b11ec3082c81c4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9733670?from=edn_newest_index",
+      "title": "9月4日重要財經行事曆 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台灣 立法院院會 央行公布8月外匯存底 金管會公布外資匯出入 法人說明會：中再保 國際 美國8月非農就業報告 中國大陸 第32次亞太經合組織中小企業部長會議在廣州舉行",
+      "publishedAt": "2026-09-03T23:19:05.128Z",
+      "discoveredAt": "2026-09-03T23:19:05.128Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_78028efacb9113a20607",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733669?from=edn_newest_index",
+      "title": "中國競爭及美國關稅夾擊 福斯汽車將裁減10萬人求生 | 國際焦點 | 國際 | 經濟日報",
+      "description": "面對中國車企競爭、美國關稅與電動車需求疲弱等壓力，德國福斯汽車集團（Volkswagen）管理階層與工會達成協議，將在1...",
+      "publishedAt": "2026-09-03T23:19:05.128Z",
+      "discoveredAt": "2026-09-03T23:19:05.128Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_c2841b37db7b9134bed6",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +214,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9733664?from=edn_newest_index",
-      "title": "普丁稱和平協議有望 澤倫斯基預告美代表將訪俄烏 | 國際焦點 | 國際 | 經濟日報",
+      "title": "普丁稱和平協議有望 澤倫斯基預告美代表將訪俄烏 2026-09-04 07:00",
       "description": "俄羅斯總統普丁今天表示，有機會達成結束烏克蘭戰爭的協議；烏克蘭總統澤倫斯基則表示，試圖促成協議的美國談判代表，很快就會訪...",
       "publishedAt": "2026-09-03T23:05:27.313Z",
       "discoveredAt": "2026-09-03T23:05:27.313Z",
@@ -4405,7 +4525,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13758",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13913",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -4615,7 +4735,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 10216",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 10337",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5260,123 +5380,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ac31f492da2602d5866a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9733005?from=edn_newest_index",
-      "title": "組團赴陸旅遊得先登錄？ 陸委會：不強迫 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "交通部觀光署日前發函旅行社，要求業者組織赴陸考察團、交流團或民眾自組團時，必須逐團協助旅客完成赴陸行前登錄等注意事項；陸...",
-      "publishedAt": "2026-09-03T12:06:47.188Z",
-      "discoveredAt": "2026-09-03T12:06:47.188Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5a2809f67c447f85b5fa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9733004?from=edn_newest_index",
-      "title": "南非本地收款能力上線！PhotonPay光子易助力企業高效連接南非市場 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "香港2026年9月3日 /美通社/ -- 隨著全球企業加速拓展新興市場，擁有超14億人口且數字經濟年均增長超18%的非洲，正成為越來越多企業佈局全球業務的重要增長極。 作為非洲第二大經濟體和南部非洲區域的商業與金融中心，南非憑藉接近80%的互聯網普及率、成熟的金融體系以及佔據南部非洲發展共同體近四成區域貿易額的樞紐地位，持續吸引跨境電商、B2B貿易、製造業及數字服務等企業深入佈局。 然而，BIS、World Bank等相關研究顯示，新興市場的傳統跨境清算成本高出全球平均水平近30%，且超過六成的當地買家更傾向於使用本地本幣結算。對於正在拓展南非市場的企業而言，傳統跨境匯款由於中間鏈路較長、到賬慢且被層層扣除手續費，直接拉低了資金周轉效率；而強推跨境SWIFT路徑不僅抬高了買家的買匯與操作門檻，更容易引發交易摩擦。 此外，面對多客戶、多筆併發的本地資金，企業在識別歸屬與對賬管理上也面臨著實際挑戰。因此，如何消除支付摩擦、提升資金回流效率，同時滿足本地交易與合規要求，仍是全球化經營過程中不可忽視的一環。 PhotonPay光子易南非本地收款帳戶正式上線 針對企業深耕南非市場的本地收款需求，",
-      "publishedAt": "2026-09-03T12:06:47.188Z",
-      "discoveredAt": "2026-09-03T12:06:47.188Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b1b889f74b82b0f0d59",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "title": "NVIDIA to Acquire Hugging Face",
-      "description": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "publishedAt": "Thu, 03 Sep 2026 11:59:49 GMT",
-      "discoveredAt": "2026-09-03T12:06:47.188Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_52b9454b07269af311f2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9732866",
-      "title": "19:40 股東電子投票暴增逾兩倍 關鍵竟是超商禮卡",
-      "description": "線上領超商、咖啡禮品卡，真的能讓小股東更願意投票了。據金管會統計，今年44家公發公司導入eGift後，手上有千股股東採用電子投票暴增215%，推升這44家公司電子投票占出席比率升至61.8%，年增1成。",
-      "publishedAt": "2026-09-03T11:47:27.675Z",
-      "discoveredAt": "2026-09-03T11:47:27.675Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

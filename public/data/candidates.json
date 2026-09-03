@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T22:38:03.954Z",
+  "updatedAt": "2026-09-03T22:52:35.606Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -84,6 +84,36 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c65a1e4d64d036f671c5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9733660?from=edn_newest_index",
+      "title": "【專家之眼】AI發展對兩岸關係的深遠影響 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "當前ＡＩ的發展迅猛，牽涉層面日益深廣，兩岸關係也難以自外。ＡＩ或可強化威懾、升高危機，或可降低誤判、化險為夷，其推陳出新的能力之強與速度之快，令人咋舌且值得關注。",
+      "publishedAt": "2026-09-03T22:52:35.606Z",
+      "discoveredAt": "2026-09-03T22:52:35.606Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -4345,7 +4375,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13478",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13655",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -4555,7 +4585,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9888",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 10092",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5348,36 +5378,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_41f686070f8575005bd3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9732317?from=edn_newest_index",
-      "title": "日本30年期公債拍賣面臨嚴峻考驗 若需求遇冷恐加劇債市拋售 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 日本周四將進行30年期公債拍賣。當前正值全球債券遭遇拋售，長期殖利率升至近20年來最高水準，此次拍賣將考驗投資者需求。此次債券拍賣若表現不佳，可能會波及全球市場，並進一步推高融資成本。",
-      "publishedAt": "2026-09-03T11:47:27.675Z",
-      "discoveredAt": "2026-09-03T11:47:27.675Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

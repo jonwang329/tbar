@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T18:05:55.971Z",
+  "updatedAt": "2026-09-03T18:25:50.432Z",
   "candidates": [
+    {
+      "id": "cand_6ff7a1233b274ba8c49a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9733422?from=edn_newest_index",
+      "title": "蘋果折疊機 陸企大啖商機 藍思、宜安等深度嵌入螢幕供應鏈 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "蘋果首款折疊手機預計將於美國時間9日秋季發表會亮相。大陸市場研究機構CINNO Research指出，大陸折疊螢幕產業鏈包括藍思科技、宜安科技、精研科技等多家企業，已參與蘋果折疊手機超薄柔性玻璃（UTG）、鉸鏈精密結構件等零組件供應。",
+      "publishedAt": "2026-09-03T18:25:50.432Z",
+      "discoveredAt": "2026-09-03T18:25:50.432Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_16f86088862dd4f846a9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9733435?from=edn_newest_index",
+      "title": "寒武紀進擊 招聘軟體人才 打造 AI 晶片護城河 | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "陸「AI晶片第一股」寒武紀近期擬為11個團隊招聘相關軟體人才，以搭建領先的AI軟體系統，其中包括驅動團隊、編譯器團隊、高性能通信團隊、計算庫團隊、深度學習框架及生態組件開發團隊、推理與訓練解決方案團隊等。外界認為其釋放產業重大訊號，未來軟體生態將成為AI晶片護城河。",
+      "publishedAt": "2026-09-03T18:25:50.432Z",
+      "discoveredAt": "2026-09-03T18:25:50.432Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a9e34d807687429b1af7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5604/9733437?from=edn_newest_index",
+      "title": "月之暗面傳啟動港股 IPO 最快第4季掛牌 | 陸股透視 | 兩岸 | 經濟日報",
+      "description": "大陸AI模型公司月之暗面傳出啟動港股首次公開發行（IPO）流程。陸媒報導，月之暗面本周已以保密形式向港交所遞交A1文件，募資金額約30億美元（約新台幣951億元）；月之暗面對此回應，對於市場傳聞不予置評，暫無可披露訊息。",
+      "publishedAt": "2026-09-03T18:25:50.432Z",
+      "discoveredAt": "2026-09-03T18:25:50.432Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1cb1b4390ae2a8139258",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9733441?from=edn_newest_index",
+      "title": "AI 需求旺 陸氬氣暴漲二倍 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "在AI算力需求大增下，製造晶片所需的工業氣體也跟著水漲船高。大陸國內氬氣市場近期走出一輪暴漲行情。自今年5月價格啟動上行後，7至8月間價格加速拉升，數據顯示，9月氬氣價格相較5月，僅四個月時間裡漲幅超過240%。分析認為，AI算力、記憶體晶片迭代，正在給電子氣體帶來乘數效應級別的需求增量。",
+      "publishedAt": "2026-09-03T18:25:50.432Z",
+      "discoveredAt": "2026-09-03T18:25:50.432Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7ad8f76257e322b0f12",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9733438?from=edn_newest_index",
+      "title": "字節跳動獲296億美元貸款 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "字節跳動據報獲得296億美元貸款，為今年亞洲規模第二大的美元計價貸款，資金將用於提高大陸國產AI晶片採購比重，公司也持續擴大海外布局，計畫在泰國及芬蘭投入大筆資金建設數位基礎設施。",
+      "publishedAt": "2026-09-03T18:25:50.432Z",
+      "discoveredAt": "2026-09-03T18:25:50.432Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_44797972ed37d66f80d8",
       "sourceLastModified": null,
@@ -1581,7 +1731,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2947,7 +3097,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12574",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12624",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -3157,7 +3307,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9022",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9047",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -4261,7 +4411,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9732384?from=edn_hottest_index",
-      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 8756",
+      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 8772",
       "description": "興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望賺進255.9萬元，報酬率113.74%，等於抽1張現賺1張多。",
       "publishedAt": "2026-09-03T11:35:37.962Z",
       "discoveredAt": "2026-09-03T11:35:37.962Z",
@@ -5231,156 +5381,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5b7d70608c544025c8c0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9732832?from=edn_newest_index",
-      "title": "台股二次崩盤 正式開始？ | 市場焦點 | 證券 | 經濟日報",
-      "description": "今天台股尾盤急殺307點，不少投資人看到又開始恐慌問我：台股是不是要二次破底、再次跌破4萬點大關？我可以明確告訴大家，大盤短線上跌幅還不到1%，純粹只是和國際股市相比，台股位階偏高導致短線震盪與籌碼清洗，完全不需要自己嚇自己。決定台股中長期命運的核心，永遠只有一個，那就是AI真實需求。",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8ee1a8bd93a61fde59af",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12040/9732819?from=edn_newest_index",
-      "title": "聯電Q2一季賺贏去年全年！拿掉一次性業外收益 真實本益比其實沒那麼便宜 | 個人理財 | 理財 | 經濟日報",
-      "description": "聯電第二季獲利大幅成長，自然也會影響到本益比河流圖的解讀。以近四季每股盈餘 7.13 元，目前 120 元會落在約 18 倍本益比的正常區間，看起來確實不貴。但 26Q2 的 3.39 元，有約 2.4 元是那筆一次性投資收益貢獻。如果把這塊拿掉，正常化的近四季 EPS 大概只剩 4.7～5 元左右，重算本益比約為 26.6 倍，已經逼近甚至超過近五年本益比河流圖的最上緣。換句話說，聯電回檔看似回到合理的本益比區間，但這個本益比本身，也是被業外收益灌水膨脹過後的標準。",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_caf0e6a71805d088835c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9732679?from=edn_newest_index",
-      "title": "連日豪雨菜價抗漲 北農釋出70噸平價蔬菜 9月4日起雙北超市開賣 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "受到颱風外圍環流等影響，中南部連日下雨，蔬菜生產及市場供應仍面臨波動，台北農產運銷公司啟動第五波平穩蔬菜措施，預計從9月4日到10日止，釋出16種平穩蔬菜，總供應量達70公噸，於雙北地區240家連鎖超市門市供應，持續充裕民生蔬菜需求。",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a8407a2ca6ca7969362d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9732830?from=edn_newest_index",
-      "title": "信紘科在手訂單衝230億元創高 美日大案第4季啟動 | 產業熱點 | 產業 | 經濟日報",
-      "description": "高科技廠務工程業者信紘科（6667）3日表示，受惠全球半導體及泛半導體建廠需求延續，目前在手訂單達230億元、持續改寫新高，專案能見度已延伸至2028年。隨美國、日本大型專案自今年第4季起陸續啟動，海外業務將成為下一階段成長重心。",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_10035367afdb77d6c600",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9732676?from=edn_newest_index",
-      "title": "「含糖飲料」是兒童肥胖主要元凶！ 醫：小時候胖恐一路超重到成年 2026-09-03 18:14",
-      "description": "",
-      "publishedAt": "2026-09-03T10:21:30.685Z",
-      "discoveredAt": "2026-09-03T10:21:30.685Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

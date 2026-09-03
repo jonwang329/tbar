@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T06:57:14.523Z",
+  "updatedAt": "2026-09-03T07:15:36.803Z",
   "candidates": [
+    {
+      "id": "cand_c175300b3eb11e4c64b2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9732025",
+      "title": "亞伯接棒續押日本 波克夏對五大商社不只將長抱數十年且還會加碼 | 國際焦點 | 國際 | 經濟日報",
+      "description": "波克夏公司（Berkshire Hathaway）新任執行長亞伯接棒巴菲特後，明確表態將延續對日本五大商社的長期押注，不僅打算持有數十年，還可能繼續加碼，並攜手商社在全球尋找投資及併購機會。儘管日本10年期公債殖利率升破3%、創30年新高，他也認為不足以動搖這項投資。",
+      "publishedAt": "2026-09-03T07:15:36.803Z",
+      "discoveredAt": "2026-09-03T07:15:36.803Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_49e66c1184751ad31248",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9732353?from=edn_newest_index",
+      "title": "三大法人賣超637億！台股失守46K 權值雙雄攜13金控難敵三大族群空襲 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股3日震盪走弱，儘管台積電（2330）、聯發科（2454）兩大權值股攜手13檔金控走強，仍難抵南亞科（2408）、南亞（1303）、大立光（3008）以及載板、PCB等電子股賣壓，集中市場指數終場下跌307.06點、收45,857.66點，失守46,000點關卡，但驚險守住10日線；盤中最高46,517.45點、最低45,839.36點，震盪達678.09點，成交值放大至9,462.71億元。三大法人合計賣超637.12億元，其中僅投信逆勢小幅回補11.42億元。",
+      "publishedAt": "2026-09-03T07:15:36.803Z",
+      "discoveredAt": "2026-09-03T07:15:36.803Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2b9be8b43dafc3943322",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9732346?from=edn_newest_index",
+      "title": "颱風外圍環流影響 全台多縣市發布大雨特報 | 生活 | 要聞 | 經濟日報",
+      "description": "受沙德爾颱風外圍環流影響，中央氣象署發布大雨特報，易有短延時強降雨。今天中南部、基隆北海岸、大台北山區、宜蘭、台東及離島（蘭嶼、綠島）等地區慎防局部大雨、雷擊與強陣風；低窪地區防積水，山區防坍方落石及溪水暴漲。",
+      "publishedAt": "2026-09-03T07:15:36.803Z",
+      "discoveredAt": "2026-09-03T07:15:36.803Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6edc8bdcfe7215e65a76",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9732347?from=edn_newest_index",
+      "title": "安泰淞鶴診所爆C型肝炎群聚 衛生局擴大擴大回溯1118人通知抽血檢測 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "板橋「安泰淞鶴診所」爆發11例急性C型肝炎確診個案，已遭新北衛生局勒令停業，並公告擴大回溯檢驗。衛生局表示，該診所C肝群聚事件擴大回溯1118人，已通知1062人，持續聯絡中。衛生局呼籲，請民眾儘速至新北市29區衛生所接受抽血檢查，以掌握自身健康狀況。",
+      "publishedAt": "2026-09-03T07:15:36.803Z",
+      "discoveredAt": "2026-09-03T07:15:36.803Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6b0916ef403bb563c399",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9732350?from=edn_newest_index",
+      "title": "三大法人賣超台股637.11億元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股今天跌307.06點，收在45857.66點，成交值新台幣9462.71億元。三大法人外資及陸資賣超、投信買超、自營...",
+      "publishedAt": "2026-09-03T07:15:36.803Z",
+      "discoveredAt": "2026-09-03T07:15:36.803Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0b4d66ae345a50686c7b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9732345?from=edn_newest_index",
+      "title": "中探針連接器切入無人機 開發MEMS探針和清針紙 | 產業熱點 | 產業 | 經濟日報",
+      "description": "SEMICON Taiwan國際半導體展今天持續登場，中探針總經理馮明欽今天表示，連接器產品切入無人機、人工智慧AI智慧...",
+      "publishedAt": "2026-09-03T07:15:36.803Z",
+      "discoveredAt": "2026-09-03T07:15:36.803Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7511d5247bd46425e571",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9731633",
-      "title": "Meta 最強 AI 模型出鞘 汪滔：追上 Anthropic、勝過 GPT-5.6 Sol | 國際焦點 | 國際 | 經濟日報",
+      "title": "14:51 Meta 最強 AI 模型出鞘 汪滔：追上 Anthropic、勝過 GPT-5.6 Sol",
       "description": "Meta推出迄今功能最強大的人工智慧（AI）模型，AI長汪滔（Alexandr Wang）表示，新模型效能大幅躍進，和頂尖競爭對手的差距也逐漸縮小。",
       "publishedAt": "2026-09-03T06:56:58.056Z",
       "discoveredAt": "2026-09-03T06:56:58.056Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732196?from=edn_maintab_index",
-      "title": "台灣也課15%！川普無人機關稅正式生效 執法單位喊吃不消 | 國際焦點 | 國際 | 經濟日報",
+      "title": "台灣也課15%！川普無人機關稅正式生效 執法單位喊吃不消 美國對無人機課徵的新關稅3日正式生效，重量超過25公斤或使用熱成像技術的無人機適用100%關稅，較小型無人機則適用25%關稅。此舉雖延續川普政府長期以來遏制中國無人機產業並促進美國國內製造的政策，...",
       "description": "美國對無人機課徵的新關稅3日正式生效，重量超過25公斤或使用熱成像技術的無人機適用100%關稅，較小型無人機則適用25%關稅。此舉雖延續川普政府長期以來遏制中國無人機產業並促進美國國內製造的政策，但批評者表示，美國國內無人機產業無法填補缺口，政府突然改變政策將弊大於利。",
       "publishedAt": "2026-09-03T06:56:58.056Z",
       "discoveredAt": "2026-09-03T06:56:58.056Z",
@@ -460,7 +640,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9731424?from=edn_hottest_index",
-      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 8566",
+      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 10041",
       "description": "",
       "publishedAt": "2026-09-03T06:37:35.057Z",
       "discoveredAt": "2026-09-03T06:37:35.057Z",
@@ -1720,7 +1900,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9730827?from=edn_hottest_index",
-      "title": "因應中東戰事衝擊 政院將追加預算6,000億元 軍公教加薪採二階段調整 14111",
+      "title": "因應中東戰事衝擊 政院將追加預算6,000億元 軍公教加薪採二階段調整 14270",
       "description": "行政院今（3）日將於院會通過今年度中央政府總預算追加預算案，據了解，整體追加預算規模將超過6,000億元。其中因應中東戰事以來，中油、台電吸收部分油價漲幅，擬於追加預算中編列逾2,000億元增資中油，並且撥補台電700億元。",
       "publishedAt": "2026-09-03T01:58:24.304Z",
       "discoveredAt": "2026-09-03T01:58:24.304Z",
@@ -2063,7 +2243,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3632,7 +3812,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -5188,186 +5368,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d69e0ff441a42d10cce1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730892?from=edn_newest_index",
-      "title": "友達新加坡廠87億賣了 | 產業熱點 | 產業 | 經濟日報",
-      "description": "友達昨（2）日董事會拍板以3.5億新加坡幣（約新台幣87.53億元）出售新加坡廠（L4B），以活化資產並優化財務結構，聚焦輕資產營運模式。",
-      "publishedAt": "2026-09-02T16:39:37.123Z",
-      "discoveredAt": "2026-09-02T16:39:37.123Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8e7b1a05b3a1c49fb408",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9730532?from=edn_newest_index",
-      "title": "穎崴深耕 CPO 擴增產能 | 集中市場 | 證券 | 經濟日報",
-      "description": "穎崴（6515）科技全球業務營運中心執行副總陳紹焜昨（2）日表示，公司率先提出共同封裝光學（CPO）看法，目前CPO Socket（測試座）耕耘已有十個專案，穎崴預期，明年第2季到第3季後，Socket產能再擴增50%，以因應客戶需求。",
-      "publishedAt": "2026-09-02T16:39:37.123Z",
-      "discoveredAt": "2026-09-02T16:39:37.123Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5d59948b98d3d39fccce",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9730533?from=edn_newest_index",
-      "title": "華立唱旺半導體、PCB | 集中市場 | 證券 | 經濟日報",
-      "description": "華立（3010）董事長張尊賢昨（2）日表示，半導體領域受惠AI高速成長，帶動半導體PCB不斷擴充，預期散熱材料精進、晶片擴產、製程升級等皆有利營運，其中，半導體部分材料能見度已達2028年底，甚至PCB設備交期已看到2030年。",
-      "publishedAt": "2026-09-02T16:39:37.123Z",
-      "discoveredAt": "2026-09-02T16:39:37.123Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6eea35f7827908b6b06e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9730529?from=edn_newest_index",
-      "title": "就市論勢／ABF 載板、散熱、CPO 聚光 | 市場焦點 | 證券 | 經濟日報",
-      "description": "美伊再度交火，刺激油價攀升，美股四大指數盡墨，台股昨（2）日開低，盤中跌勢擴大，終場跌784點，收46,164點。光電族群受惠CPO及蘋果發表會利多，領跑其餘電子類股。",
-      "publishedAt": "2026-09-02T16:39:37.123Z",
-      "discoveredAt": "2026-09-02T16:39:37.123Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f5258339aba5bfd009c8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9730557?from=edn_newest_index",
-      "title": "雷科奪大單 營運喊衝 | 櫃買動態 | 證券 | 經濟日報",
-      "description": "半導體設備及材料廠雷科（6207）受惠先進封裝、自製設備及被動元件需求同步升溫，大單相繼落袋，總經理黃萌義昨（2）日看旺後市，伴隨自製設備進入放量期，2027年相關營收可望倍增，法人看好將助益產品組合，帶動毛利率向上。",
-      "publishedAt": "2026-09-02T16:23:51.782Z",
-      "discoveredAt": "2026-09-02T16:23:51.782Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_224ce9d88273224d5351",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9730538?from=edn_newest_index",
-      "title": "創泓卡位無人機商機 | 櫃買動態 | 證券 | 經濟日報",
-      "description": "資安服務商創泓科技（7714）昨（2）日參加櫃買業績發表會，董事長黃健寧指出，營運維持高成長軌跡，目前前五大代理品牌合計貢獻營收87.8%，備受市場關注的AI與無人載具相關新興業務，已實質貢獻營收1.26億元，占比逾一成、達12.2%，成功形塑第二成長曲線。",
-      "publishedAt": "2026-09-02T16:23:51.782Z",
-      "discoveredAt": "2026-09-02T16:23:51.782Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

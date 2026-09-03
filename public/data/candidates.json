@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T12:49:59.335Z",
+  "updatedAt": "2026-09-03T13:05:04.989Z",
   "candidates": [
+    {
+      "id": "cand_0d62eb9480d200385b07",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9732219",
+      "title": "AI 吃電太兇又缺錢擴電網 韓電傳找三星、SK 海力士預繳150億美元電費 | 國際焦點 | 國際 | 經濟日報",
+      "description": "南韓半導體和人工智慧（AI）用電需求急增，電網建設資金卻跟不上。韓國電力公社（KEPCO，簡稱韓電）正和三星電子、SK海力士商談電費預繳方案，希望由兩大晶片業者提前支付未來數年電費，籌措興建半導體聚落輸電網和變電設施所需資金，同時確保新廠能及時取得電力。",
+      "publishedAt": "2026-09-03T13:05:04.989Z",
+      "discoveredAt": "2026-09-03T13:05:04.989Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e4f5e1a2f25f3d4d840b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9733132?from=edn_newest_index",
+      "title": "證交所攜半導體四新銳 進駐 SEMICON 2026 接軌半導體生態系整合浪潮 | 市場焦點 | 證券 | 經濟日報",
+      "description": "當全球 AI 半導體競爭由「單點製造代工」全面轉向「系統整合與關鍵前瞻技術爭奪戰」，台灣企業如何在產品驗證與擴產關鍵期快速取得國際資本能量，成為供應鏈升級的重大議題。對此，台灣證券交易所將於 9 月 2 日至 4 日登場的「SEMICON Taiwan 2026」重磅打造「台灣創新板（tib-創）」主題展區（台北南港展覽館 2 館 7 樓，攤位號碼：T9126），首度集結瑞宇（6842）、宇川精材（7887）、通寶半導體（7913）及 xMEMS 等四家跨材料、ASIC 設計服務、FPGA 與固態 MEMS 的關鍵創新企業共同進駐。證交所不僅展示台灣半導體供應鏈向高附加價值邁進的技術縱深，更宣示以「市值核心」上市制度開創新局，陪伴半導體新銳提前對接全球頂級策略資本，將台灣資本市場推向國際半導體生態系整合的最前線。",
+      "publishedAt": "2026-09-03T13:05:04.989Z",
+      "discoveredAt": "2026-09-03T13:05:04.989Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3dda5e175391eaa4c730",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733130?from=edn_newest_index",
+      "title": "SEMICON／佳世達集團羅昇、資騰與光陽光電聯合參展 | 產業熱點 | 產業 | 經濟日報",
+      "description": "佳世達集團羅昇（8374）及資騰科技（STC）與光陽光電，今年共同參展SEMICON Taiwan 2026，呼應集團「AI解決方案與智慧製造」事業布局，聚焦半導體先進材料與熱管理、精密清洗、後段防護，及共同封裝光學（CPO）與矽光子智慧封裝量產應用。",
+      "publishedAt": "2026-09-03T13:05:04.989Z",
+      "discoveredAt": "2026-09-03T13:05:04.989Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c6ffdb01525bcb13c8be",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733128?from=edn_newest_index",
+      "title": "美國無人機新關稅上路 業者：屬非紅供應鏈的無人機台廠中長期看好 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美國對無人機課徵的新關稅3日生效，無人機台廠供應鏈普遍認為，美國政策短期可能增加部分進口成本，但中長期將有利於具備非紅供應鏈、國際認證及量產能力的台灣廠商。",
+      "publishedAt": "2026-09-03T13:05:04.989Z",
+      "discoveredAt": "2026-09-03T13:05:04.989Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_83f1b9e477c0a7bbd8d3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9733125?from=edn_newest_index",
+      "title": "中國人權攝影記者杜斌遭判1年6個月 與評論時政有關 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "中國人權攝影記者與自由作家杜斌去年10月中旬被北京警方以涉嫌尋釁滋事罪帶走。根據維權網報導，法院日前宣判，杜斌被判刑1年...",
+      "publishedAt": "2026-09-03T13:05:04.989Z",
+      "discoveredAt": "2026-09-03T13:05:04.989Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_99c30e4928109fb64a48",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733123?from=edn_newest_index",
+      "title": "威力彩第115071期開獎 | 產業熱點 | 產業 | 經濟日報",
+      "description": "威力彩第115071期今晚開獎，第一區中獎號碼為33、01、06、07、19、30，第二區中獎號碼為08",
+      "publishedAt": "2026-09-03T13:05:04.989Z",
+      "discoveredAt": "2026-09-03T13:05:04.989Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ca0954d843641c253941",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 | 稅務法規 | 金融 | 經濟日報",
+      "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
+      "publishedAt": "2026-09-03T13:05:04.989Z",
+      "discoveredAt": "2026-09-03T13:05:04.989Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2c215878bad6f87c2305",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9732147",
-      "title": "整理包／蘋果新任 CEO 特納斯首場發表會來了！除了 iPhone 折疊機外 還有哪些驚喜？ | 整理包 | 專題 | 經濟日報",
+      "title": "20:37 整理包／蘋果新任 CEO 特納斯首場發表會來了！除了 iPhone 折疊機外 還有哪些驚喜？",
       "description": "蘋果秋季發表會將於美國時間9月9日上午10點（台灣時間9月10日凌晨1點）是新任CEO特納斯的首場大型發表會，活動主題是「驚喜閃耀」（Surprise and shine）。",
       "publishedAt": "2026-09-03T12:49:59.335Z",
       "discoveredAt": "2026-09-03T12:49:59.335Z",
@@ -681,7 +891,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -2236,7 +2446,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2582,7 +2792,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9729548?from=edn_hottest_index",
-      "title": "整理包／曾馨瑩美人配美包超吸睛！庫克退休宴上貴氣愛馬仕包有故事 還有哪些私藏愛包？ 12191",
+      "title": "整理包／曾馨瑩美人配美包超吸睛！庫克退休宴上貴氣愛馬仕包有故事 還有哪些私藏愛包？ 12866",
       "description": "鴻海創辦人郭台銘近日與妻子曾馨瑩一同赴美出席庫克晚宴，曾馨瑩一襲酒紅色禮服搭配白色西裝外套亮相，優雅氣場十足，手上愛馬仕亮面鱷魚皮手拿包也成為造型焦點。(延伸閱讀：蘋果庫克將卸任 CEO 曾馨瑩、郭台銘飛加州赴宴) 而除了這顆Egee，曾馨瑩過去還揹過哪些名包？從愛馬仕Mini Kelly、Constance，到Loro Piana、CHANEL與Louis Vuitton，她的愛包清單同樣很有看頭。 不是柏金包！曾馨瑩手上這顆愛馬仕什麼來頭？ 提到愛馬仕（Hermès），多數人第一時間想到的可能是柏金包（Birkin）或凱莉包（Kelly），但曾馨瑩這次手上的並不是這兩款，而是相對少見的 Egee clutch（Égée手拿包）。細長俐落的包身搭配亮面鱷魚皮，與她身上的酒紅色禮服相互呼應，沒有醒目的大Logo，反而更顯低調貴氣。 Egee clutch約於2011年前後推出，尺寸約25公分寬、10.5公分高，過去曾推出多種皮革版本，也包括身價較高的尼羅鱷魚皮款。包身中央最具辨識度的設計，則是以愛馬仕經典「錨鍊」元素打造的金屬扣件，簡潔輪廓中仍藏著品牌標誌性的設計語彙。",
       "publishedAt": "2026-09-03T09:46:48.128Z",
       "discoveredAt": "2026-09-03T09:46:48.128Z",
@@ -4862,7 +5072,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9731424?from=edn_hottest_index",
-      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 13286",
+      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 13404",
       "description": "",
       "publishedAt": "2026-09-03T06:37:35.057Z",
       "discoveredAt": "2026-09-03T06:37:35.057Z",
@@ -5181,216 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5c1ba9451213b467dac",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9732089?from=edn_newest_index",
-      "title": "台股尾盤挫跌 終場下跌307點失守46000點 | 產業熱點 | 產業 | 經濟日報",
-      "description": "美國和伊朗局勢緊張，國際油價高檔，台股今天開高震盪，盤中挫黑後反彈翻紅區間整理，上下波動近680點，聯發科、台達電、金融...",
-      "publishedAt": "2026-09-03T05:55:36.728Z",
-      "discoveredAt": "2026-09-03T05:55:36.728Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fc824ab87125981bf8cc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9732069?from=edn_newest_index",
-      "title": "高齡也需理解 AI 風險 逾八成長者擔心個資被挪作其他用途 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "人工智慧（AI）快速進入日常生活，但臺灣師範大學AI倫理與治理中心3日於高雄發布台灣首次針對65歲以上長者進行的全國性AI使用調查，調查顯示，全國僅28.1%的長者曾使用過AI相關應用或裝置。在實際使用情境中，以查資料、翻譯、找路導航及設定提醒等日常生活輔助最為常見，占86.4%；其次為查詢健康資訊、記錄運動或提醒吃藥等健康管理用途，占22.9%；另有16.7%的長者曾利用AI生成圖片，作為娛樂或與親友互動之用。",
-      "publishedAt": "2026-09-03T05:55:36.728Z",
-      "discoveredAt": "2026-09-03T05:55:36.728Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a65e899ebf2f35bb87a5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12509/9732062?from=edn_newest_index",
-      "title": "台股收盤／跌307點收45,857點 台積電收2,390元漲0.2% | AI 人機協作 | 證券 | 經濟日報",
-      "description": "台股3日震盪走低，加權指數開盤46,325.48點，盤中最高46,517.45點、最低45,839.36點，終場收在45,857.66點，下跌307.06點，跌幅0.66%，成交量9,463億元。上市股票上漲224家、下跌860家，漲停5家、跌停7家。 權值股台積電（2330）終場收2,390元，上漲5元，漲幅0.2%，盤中最高2,400元、最低2,380元。 盤面類股方面，半導體類股下跌0.15%、電子組件下跌2.82%、電腦週邊下跌2.43%、其他電子下跌1%、網通下跌0.83%、塑膠下跌5.45%、光電下跌5.23%；金融類股逆勢上漲2.19%、航運上漲1.41%、生技上漲0.41%。 個股方面，台達電（2308）上漲1.73%、聯發科（2454）上漲1.52%；鴻海（2317）下跌1.39%、南亞（1303）下跌6.94%、大立光（3008）下跌8.45%，表現相對疲弱。 （此文章為AI人機協作，正確數據以主管機關為準。）",
-      "publishedAt": "2026-09-03T05:55:36.728Z",
-      "discoveredAt": "2026-09-03T05:55:36.728Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a14df26603bfabef2e02",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9732064?from=edn_newest_index",
-      "title": "台肥80周年慶 總統：我國農產外銷中國占比逐年下降 展現台灣農業韌性 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "台肥（1722）今日舉行80周年慶祝大會。賴清德總統致詞表示，臺灣產業發展已逐步走向世界、不再依賴單一市場。2010年臺灣對外投資中，有83.8%投資在中國，但在去年已降到約3.7%，投資已轉移至日本、美國、歐洲及印太區域其他國家。",
-      "publishedAt": "2026-09-03T05:55:36.728Z",
-      "discoveredAt": "2026-09-03T05:55:36.728Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9756704b006d18109ec0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9731663",
-      "title": "13:25 半導體撐起近半出口是好事嗎？AI 潮退去後誰接棒？南韓經濟藏風險",
-      "description": "南韓半導體出口在AI熱潮推動下狂飆，撐起近半出口，但這波榮景最後會不會反而變成風險？市場開始追問：如果有一天AI晶片需求驟然降溫，經濟會摔得多慘，又有誰能接棒？",
-      "publishedAt": "2026-09-03T05:30:10.806Z",
-      "discoveredAt": "2026-09-03T05:30:10.806Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_37448f59a5b4b9123772",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9731943",
-      "title": "13:03 馬斯克加持效果僅一天？機器人大軍下挫 僅這檔漲停創高",
-      "description": "特斯拉及SpaceX執行長馬斯克2日在G20峰會發表視訊談話，人形機器人的實用性將隨AI軟體、晶片算力和機械靈巧性三項指標的指數級提升而爆發，預言未來十年將有10億台運作中的人形機器人，不過機器人概念股3日普遍下跌，但盟立（2464）仍衝上漲停板222元，創下歷史新高。",
-      "publishedAt": "2026-09-03T05:30:10.806Z",
-      "discoveredAt": "2026-09-03T05:30:10.806Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f4e4fb06dfa77d2bd69",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9731518",
-      "title": "日債3%殖利率改寫全球資金流 美債恐痛失日本大買家 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本公債殖利率急升，正悄悄改變全球資金流向。日本10年期公債殖利率升破睽違30年的3%，日本投資人把資金放在國內愈來愈划算，開始減碼海外債券。日本過去是美債等全球公債最穩定的買家之一，如今這股資金若持續回流，不只美債可能少了一個大買家，也可能推高全球長期利率。",
-      "publishedAt": "2026-09-03T05:30:10.806Z",
-      "discoveredAt": "2026-09-03T05:30:10.806Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

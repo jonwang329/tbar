@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T13:05:04.989Z",
+  "updatedAt": "2026-09-03T13:23:10.200Z",
   "candidates": [
+    {
+      "id": "cand_a71d67bad06cb9832ff0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9733016",
+      "title": "台股震盪惹禍？投資詐騙廣告量季增逼千件 金管會緊盯 | 金融脈動 | 金融 | 經濟日報",
+      "description": "投資詐騙廣告出現反轉警訊。據金管會統計，今年第2季Google、Meta投資詐騙廣告通報6,194件，季增近19%，終止連四季下降走勢；金管會正觀察，是否與第2季台股震盪、投資熱度升溫有關。",
+      "publishedAt": "2026-09-03T13:23:10.200Z",
+      "discoveredAt": "2026-09-03T13:23:10.200Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_72cc48580e5307ddc6e0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9732902?from=edn_newest_index",
+      "title": "今日最夯股／強茂價漲量增、一度漲停 外資認錯轉買 | 市場焦點 | 證券 | 經濟日報",
+      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
+      "publishedAt": "2026-09-03T13:23:10.200Z",
+      "discoveredAt": "2026-09-03T13:23:10.200Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1cc3b8cd8654b94ed0e4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733146?from=edn_newest_index",
+      "title": "升息預期降溫、Fed理事沃勒挺按兵不動 美債殖利率挫 | 國際焦點 | 國際 | 經濟日報",
+      "description": "聯準會（Fed）理事沃勒（Christopher Waller）3日表示，要是下周出爐的通膨數據沒有意外，他傾向於在本月會議上，支持利率按兵不動，美國公債殖利率聞訊跌至當日低點，市場也下砍升息預期。",
+      "publishedAt": "2026-09-03T13:23:10.200Z",
+      "discoveredAt": "2026-09-03T13:23:10.200Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d9e9ad8705ca2fac1df0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9733142?from=edn_newest_index",
+      "title": "櫃買重挫失守月線 資金轉進權值三雄與金融避險 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "台股盤面結構3日出現極端化的「拉大出小」與「拉權值、掩護中小型股撤退」的防守走勢。在市場整體賣壓沉重之際，權值三雄台積電、聯發科、台達電等逆勢走揚，展現強勁的撐盤力道，顯示國家隊與內資主導的資金明顯進場點火權值股以穩定大局。",
+      "publishedAt": "2026-09-03T13:23:10.200Z",
+      "discoveredAt": "2026-09-03T13:23:10.200Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_13382ee316a80bb8d845",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733135?from=edn_newest_index",
+      "title": "歐洲嚴防電網遭攻擊 法國籌備2027年危機演習 | 國際焦點 | 國際 | 經濟日報",
+      "description": "在與俄羅斯關係緊張的背景下，歐洲正嚴肅看待大規模斷電的風險，法國也規劃於2027年舉行危機模擬演習",
+      "publishedAt": "2026-09-03T13:23:10.200Z",
+      "discoveredAt": "2026-09-03T13:23:10.200Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cee9c7e2bcf780ad0eba",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 | 國際焦點 | 國際 | 經濟日報",
+      "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
+      "publishedAt": "2026-09-03T13:23:10.200Z",
+      "discoveredAt": "2026-09-03T13:23:10.200Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0d62eb9480d200385b07",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732219",
-      "title": "AI 吃電太兇又缺錢擴電網 韓電傳找三星、SK 海力士預繳150億美元電費 | 國際焦點 | 國際 | 經濟日報",
+      "title": "20:55 AI 吃電太兇又缺錢擴電網 韓電傳找三星、SK 海力士預繳150億美元電費",
       "description": "南韓半導體和人工智慧（AI）用電需求急增，電網建設資金卻跟不上。韓國電力公社（KEPCO，簡稱韓電）正和三星電子、SK海力士商談電費預繳方案，希望由兩大晶片業者提前支付未來數年電費，籌措興建半導體聚落輸電網和變電設施所需資金，同時確保新廠能及時取得電力。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9733132?from=edn_newest_index",
-      "title": "證交所攜半導體四新銳 進駐 SEMICON 2026 接軌半導體生態系整合浪潮 | 市場焦點 | 證券 | 經濟日報",
+      "title": "證交所攜半導體四新銳 進駐 SEMICON 2026 接軌半導體生態系整合浪潮 2026-09-03 21:05",
       "description": "當全球 AI 半導體競爭由「單點製造代工」全面轉向「系統整合與關鍵前瞻技術爭奪戰」，台灣企業如何在產品驗證與擴產關鍵期快速取得國際資本能量，成為供應鏈升級的重大議題。對此，台灣證券交易所將於 9 月 2 日至 4 日登場的「SEMICON Taiwan 2026」重磅打造「台灣創新板（tib-創）」主題展區（台北南港展覽館 2 館 7 樓，攤位號碼：T9126），首度集結瑞宇（6842）、宇川精材（7887）、通寶半導體（7913）及 xMEMS 等四家跨材料、ASIC 設計服務、FPGA 與固態 MEMS 的關鍵創新企業共同進駐。證交所不僅展示台灣半導體供應鏈向高附加價值邁進的技術縱深，更宣示以「市值核心」上市制度開創新局，陪伴半導體新銳提前對接全球頂級策略資本，將台灣資本市場推向國際半導體生態系整合的最前線。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -190,7 +370,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 | 稅務法規 | 金融 | 經濟日報",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 7072",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -210,6 +390,33 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6ae780255a3d688b4599",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "description": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+      "publishedAt": "Thu, 03 Sep 2026 13:00:35 GMT",
+      "discoveredAt": "2026-09-03T13:23:10.200Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -2206,7 +2413,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2236,7 +2443,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2792,7 +2999,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124512/9729548?from=edn_hottest_index",
-      "title": "整理包／曾馨瑩美人配美包超吸睛！庫克退休宴上貴氣愛馬仕包有故事 還有哪些私藏愛包？ 12866",
+      "title": "整理包／曾馨瑩美人配美包超吸睛！庫克退休宴上貴氣愛馬仕包有故事 還有哪些私藏愛包？ 13561",
       "description": "鴻海創辦人郭台銘近日與妻子曾馨瑩一同赴美出席庫克晚宴，曾馨瑩一襲酒紅色禮服搭配白色西裝外套亮相，優雅氣場十足，手上愛馬仕亮面鱷魚皮手拿包也成為造型焦點。(延伸閱讀：蘋果庫克將卸任 CEO 曾馨瑩、郭台銘飛加州赴宴) 而除了這顆Egee，曾馨瑩過去還揹過哪些名包？從愛馬仕Mini Kelly、Constance，到Loro Piana、CHANEL與Louis Vuitton，她的愛包清單同樣很有看頭。 不是柏金包！曾馨瑩手上這顆愛馬仕什麼來頭？ 提到愛馬仕（Hermès），多數人第一時間想到的可能是柏金包（Birkin）或凱莉包（Kelly），但曾馨瑩這次手上的並不是這兩款，而是相對少見的 Egee clutch（Égée手拿包）。細長俐落的包身搭配亮面鱷魚皮，與她身上的酒紅色禮服相互呼應，沒有醒目的大Logo，反而更顯低調貴氣。 Egee clutch約於2011年前後推出，尺寸約25公分寬、10.5公分高，過去曾推出多種皮革版本，也包括身價較高的尼羅鱷魚皮款。包身中央最具辨識度的設計，則是以愛馬仕經典「錨鍊」元素打造的金屬扣件，簡潔輪廓中仍藏著品牌標誌性的設計語彙。",
       "publishedAt": "2026-09-03T09:46:48.128Z",
       "discoveredAt": "2026-09-03T09:46:48.128Z",
@@ -5072,7 +5279,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122328/9731424?from=edn_hottest_index",
-      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 13404",
+      "title": "寵物食品違規17件、罰91.3萬元 新北動保處宣導法規提前布局 13523",
       "description": "",
       "publishedAt": "2026-09-03T06:37:35.057Z",
       "discoveredAt": "2026-09-03T06:37:35.057Z",
@@ -5181,216 +5388,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7d4c10c01a94b0dde709",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9732166?from=edn_newest_index",
-      "title": "鴻華推出「純電生活節」線上遊戲抽獎、車主聚會、預約試乘同步開跑 | 產業熱點 | 產業 | 經濟日報",
-      "description": "鴻華先進（2258）3日表示，關注車主在購車後的實際使用體驗，希望能與車主有更多交流與分享的機會，同時跟消費者介紹電動車的使用情境與FOXTRON品牌，即日起推出為期兩個月的「FOXTRON純電生活節」系列活動，內容涵蓋線上互動遊戲抽獎、南北兩場實體FOXTRON車主聚會，以及預約試乘即贈精美好禮，邀請車主與尚未體體驗過FOXTRON電動車的民眾，一起加入這場純電生活的交流盛會。",
-      "publishedAt": "2026-09-03T06:16:57.281Z",
-      "discoveredAt": "2026-09-03T06:16:57.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a7b54a450178d36a3f9e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9732163?from=edn_newest_index",
-      "title": "9月電子期跌 金融期漲 | 期貨市場 | 期貨 | 經濟日報",
-      "description": "台北股市今天下跌307.06點，收45857.66點。9月電子期收2888.90點，下跌38.70點，逆價差6.91點；...",
-      "publishedAt": "2026-09-03T06:16:57.281Z",
-      "discoveredAt": "2026-09-03T06:16:57.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_27c7081803ac4f2bfd4d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9732162?from=edn_newest_index",
-      "title": "美伊重啟交火 川普幕僚力阻期中選舉前戰況升級 | 國際焦點 | 國際 | 經濟日報",
-      "description": "科威特今表示正面臨來自伊朗的飛彈與無人機攻擊。美國總統川普2日說，美伊重燃的衝突「不會持續太久」；川普的高階幕僚正力圖避...",
-      "publishedAt": "2026-09-03T06:16:57.281Z",
-      "discoveredAt": "2026-09-03T06:16:57.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_08d9c2879bfd76a6a6f6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6721/9732159?from=edn_newest_index",
-      "title": "陳日君等人違反社團條例被定罪 上訴遭駁回 | 港澳話題 | 兩岸 | 經濟日報",
-      "description": "在香港「反送中」運動期間成立的「612人道支援基金」，其5名信託人包括天主教香港教區榮休主教陳日君樞機和歌手何韻詩，3年...",
-      "publishedAt": "2026-09-03T06:16:57.281Z",
-      "discoveredAt": "2026-09-03T06:16:57.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9e31cd82ef54f3d15254",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9729548",
-      "title": "整理包／曾馨瑩美人配美包超吸睛！庫克退休宴上貴氣愛馬仕包有故事 還有哪些私藏愛包？ 2026-09-03 13:23",
-      "description": "鴻海創辦人郭台銘近日與妻子曾馨瑩一同赴美出席庫克晚宴，曾馨瑩一襲酒紅色禮服搭配白色西裝外套亮相，優雅氣場十足，手上愛馬仕亮面鱷魚皮手拿包也成為造型焦點。(延伸閱讀：蘋果庫克將卸任 CEO 曾馨瑩、郭台銘飛加州赴宴) 而除了這顆Egee，曾馨瑩過去還揹過哪些名包？從愛馬仕Mini Kelly、Constance，到Loro Piana、CHANEL與Louis Vuitton，她的愛包清單同樣很有看頭。 不是柏金包！曾馨瑩手上這顆愛馬仕什麼來頭？ 提到愛馬仕（Hermès），多數人第一時間想到的可能是柏金包（Birkin）或凱莉包（Kelly），但曾馨瑩這次手上的並不是這兩款，而是相對少見的 Egee clutch（Égée手拿包）。細長俐落的包身搭配亮面鱷魚皮，與她身上的酒紅色禮服相互呼應，沒有醒目的大Logo，反而更顯低調貴氣。 Egee clutch約於2011年前後推出，尺寸約25公分寬、10.5公分高，過去曾推出多種皮革版本，也包括身價較高的尼羅鱷魚皮款。包身中央最具辨識度的設計，則是以愛馬仕經典「錨鍊」元素打造的金屬扣件，簡潔輪廓中仍藏著品牌標誌性的設計語彙。",
-      "publishedAt": "2026-09-03T05:55:36.728Z",
-      "discoveredAt": "2026-09-03T05:55:36.728Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c1fe87ea9ed005e66e54",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9732060?from=edn_maintab_index",
-      "title": "夫妻總所得一樣、稅額卻不同！30萬所得放錯人卻要補稅2萬 夫妻報稅原則上要合併申報，但同樣一筆30萬元薪資，算在先生或太太身上，真的會影響最後要繳多少稅嗎？一對夫妻就碰上這個問題，家庭總所得並未因此減少，國稅局查核後卻更正所得並補稅2萬286元，他們質...",
-      "description": "夫妻報稅原則上要合併申報，但同樣一筆30萬元薪資，算在先生或太太身上，真的會影響最後要繳多少稅嗎？一對夫妻就碰上這個問題，家庭總所得並未因此減少，國稅局查核後卻更正所得並補稅2萬286元，他們質疑為何夫妻間所得分配不同就出現不同稅負，因此提起訴願。",
-      "publishedAt": "2026-09-03T05:55:36.728Z",
-      "discoveredAt": "2026-09-03T05:55:36.728Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5d99b67867a569b2bb13",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9732088?from=edn_newest_index",
-      "title": "工研院小番茄採摘與場域保全機器人 智慧農漁周亮相 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "「2026 臺灣智慧農漁周」將於9月8日至10日登場，工研院在農業部指導與經濟部產業技術司的支持下，在「智慧農業館」展出已實際應用於高雄、屏東等地果園的「小番茄採摘機器人」。還有最新可全天巡檢的「畜牧場保全機器人」，以及國內農業機器人產業的關鍵模組，與AI科技結合機器人的解決方案，攜手產業共同邁向精準農業與智慧協作轉型的新市場。",
-      "publishedAt": "2026-09-03T05:55:36.728Z",
-      "discoveredAt": "2026-09-03T05:55:36.728Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

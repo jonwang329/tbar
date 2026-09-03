@@ -1,7 +1,121 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T20:36:12.780Z",
+  "updatedAt": "2026-09-03T20:47:23.444Z",
   "candidates": [
+    {
+      "id": "cand_e27de523feee15b7d83a",
+      "sourceLastModified": "2026-09-04",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/370",
+      "title": "News and Releases｜Ministry of Digital Affairs",
+      "description": "News and Releases",
+      "publishedAt": "2026-09-04",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f5362a66eb2493d02c4",
+      "sourceLastModified": "2026-09-04",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/370",
+      "title": "公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "公告訊息",
+      "publishedAt": "2026-09-04",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5ddaccf7d92a0019f0e",
+      "sourceLastModified": "2026-09-04",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/press/multimedia/1197",
+      "title": "多媒體專區 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "description": "多媒體專區",
+      "publishedAt": "2026-09-04",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_36a411821de7ee247f60",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733596?from=edn_newest_index",
+      "title": "投資人評估中東及俄烏局勢 國際油價漲跌互見 | 國際焦點 | 國際 | 經濟日報",
+      "description": "國際油價今天漲跌互見。美國空襲伊朗且以色列再次威脅德黑蘭，重新引發市場對中東原油供應受阻的擔憂，油價因此獲支撐，但俄羅斯...",
+      "publishedAt": "2026-09-03T20:47:23.444Z",
+      "discoveredAt": "2026-09-03T20:47:23.444Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_37386990e0a056dd6711",
       "sourceLastModified": null,
@@ -3907,7 +4021,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12925",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 12958",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -4117,7 +4231,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9295",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 9324",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5221,7 +5335,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11074/9732384?from=edn_hottest_index",
-      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 8866",
+      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張 8870",
       "description": "興櫃股王漢測（7856）將在9月22日掛牌上櫃，每股承銷價暫定2,250元，為史上最高承銷價，抽籤秀即將開演，預計9月10日至14日辦理公開申購，以3日興櫃日均價4,809.15元計算， 中籤可望賺進255.9萬元，報酬率113.74%，等於抽1張現賺1張多。",
       "publishedAt": "2026-09-03T11:35:37.962Z",
       "discoveredAt": "2026-09-03T11:35:37.962Z",
@@ -5267,126 +5381,6 @@
       "importanceScore": 82,
       "confidenceScore": 72,
       "leaderMatch": true
-    },
-    {
-      "id": "cand_b0ce198289e76be48f90",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9732196",
-      "title": "19:08 台灣也課15%！川普無人機關稅正式生效 執法單位喊吃不消",
-      "description": "美國對無人機課徵的新關稅3日正式生效，重量超過25公斤或使用熱成像技術的無人機適用100%關稅，較小型無人機則適用25%關稅。此舉雖延續川普政府長期以來遏制中國無人機產業並促進美國國內製造的政策，但批評者表示，美國國內無人機產業無法填補缺口，政府突然改變政策將弊大於利。",
-      "publishedAt": "2026-09-03T11:20:25.554Z",
-      "discoveredAt": "2026-09-03T11:20:25.554Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_32ea60797332a7324606",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9732866?from=edn_maintab_index",
-      "title": "股東電子投票暴增逾兩倍 關鍵竟是超商禮卡 線上領超商、咖啡禮品卡，真的能讓小股東更願意投票了。據金管會統計，今年44家公發公司導入eGift後，手上有千股股東採用電子投票暴增215%，推升這44家公司電子投票占出席比率升至61.8%，年...",
-      "description": "線上領超商、咖啡禮品卡，真的能讓小股東更願意投票了。據金管會統計，今年44家公發公司導入eGift後，手上有千股股東採用電子投票暴增215%，推升這44家公司電子投票占出席比率升至61.8%，年增1成。",
-      "publishedAt": "2026-09-03T11:20:25.554Z",
-      "discoveredAt": "2026-09-03T11:20:25.554Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fdfabbdeef76f51b9ffd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9732931?from=edn_newest_index",
-      "title": "這8種人吃「這一鍋」享單點66折！瓦城插旗台東 在地鄉親加碼送200 | 生活 | 要聞 | 經濟日報",
-      "description": "9月不僅有適合烤肉的中秋節，還有軍人節、教師節、記者節等活動。連鎖鍋物「這一鍋」即日起至9月30日，推出「TO HERO向日常英雄致敬」活動，針對軍警消、醫護、教師、記者、工程師、學生、百貨從業人員及外送員等八類身分，推出限時優惠。活動期間，符合資格者加入會員APP並下載「HERO券」，平日時段持本人指定證件來店用餐，單點食材即享66折。",
-      "publishedAt": "2026-09-03T11:20:25.554Z",
-      "discoveredAt": "2026-09-03T11:20:25.554Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6f78f42e73b1dd7ab747",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9732924?from=edn_newest_index",
-      "title": "這肯定是文青的菜！ZARA聯名巴黎獨立書店0fr. Paris日常風格單品開賣 | 生活 | 要聞 | 經濟日報",
-      "description": "ZARA攜手位於巴黎瑪黑區的知名獨立複合式藝文書店0fr. Paris推出全新跨界聯名系列，推出男女裝與家飾商品，將巴黎街道的書香氣息與獨立藝文風格融入時尚日常單品中，0fr. Paris聯名系列今日上市，於台北101門市與ZARA.com網路門市限定販售。",
-      "publishedAt": "2026-09-03T11:20:25.554Z",
-      "discoveredAt": "2026-09-03T11:20:25.554Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
     }
   ]
 }

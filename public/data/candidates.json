@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T01:11:52.896Z",
+  "updatedAt": "2026-09-03T01:30:51.242Z",
   "candidates": [
+    {
+      "id": "cand_e4a61d13167f085b1474",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9731281",
+      "title": "美股收紅助攻！聯發科領軍台股開高一度彈升逾300點 面板雙虎人氣旺 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股四大指數昨夜全面收高，帶動台股3日開盤上漲160.76點、報46,325.48點，隨後在聯發科（2454）領攻，奇鋐（3017）、南亞科（2408）、日月光投控（3711）、致茂（2360）等電子要角同步走強，加上台新新光金（2887）持續創高之下，帶動大盤漲點一度擴大至逾300點，指數觸及5日線，但台積電（2330）腳步未穩，大盤也隨之震盪。盤面上，友達（2409）、群創（3481）、華邦電（2344）等個股交投熱絡。",
+      "publishedAt": "2026-09-03T01:30:51.242Z",
+      "discoveredAt": "2026-09-03T01:30:51.242Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_61007399326638e5ff8d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9731281?from=edn_maintab_index",
+      "title": "美股收紅助攻！聯發科領軍台股開高一度彈升逾300點 面板雙虎人氣旺 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股四大指數昨夜全面收高，帶動台股3日開盤上漲160.76點、報46,325.48點，隨後在聯發科（2454）領攻，奇鋐（3017）、南亞科（2408）、日月光投控（3711）、致茂（2360）等電子要角同步走強，加上台新新光金（2887）持續創高之下，帶動大盤漲點一度擴大至逾300點，指數觸及5日線，但台積電（2330）腳步未穩，大盤也隨之震盪。盤面上，友達（2409）、群創（3481）、華邦電（2344）等個股交投熱絡。",
+      "publishedAt": "2026-09-03T01:30:51.242Z",
+      "discoveredAt": "2026-09-03T01:30:51.242Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c19b713a9dcdd48bdb67",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9731303?from=edn_newest_index",
+      "title": "台股早盤漲逾300點 拚站穩5日線 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美股揚升，台指期夜盤上漲，台股今天開盤反彈，早盤最高46517.45點，上漲352.73點，之後漲幅漸收斂，力拚站穩5日...",
+      "publishedAt": "2026-09-03T01:30:51.242Z",
+      "discoveredAt": "2026-09-03T01:30:51.242Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_185b6e48201ab8aec4ed",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9731301?from=edn_newest_index",
+      "title": "櫃買中心公告興櫃新制 漲跌逾3成將暫緩交易30分鐘 | 產業熱點 | 產業 | 經濟日報",
+      "description": "櫃買中心2日公告興櫃交易新制，興櫃個股盤中加權平均成交價，若較前一營業日加權平均成交價上漲或下跌達30%以上，將暫緩交易...",
+      "publishedAt": "2026-09-03T01:30:51.242Z",
+      "discoveredAt": "2026-09-03T01:30:51.242Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_608e3842da8fb89ec695",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9731299?from=edn_newest_index",
+      "title": "臻鼎落實「利人」精神 支持喜憨兒基金會年度公演 | 產業熱點 | 產業 | 經濟日報",
+      "description": "臻鼎-KY（4958）科技集團今日宣布攜手喜憨兒基金會推動劇團及樂團年度培訓與公演計畫，透過系統性的戲劇、音樂課程及成果展演，協助超過百位心智障礙學員培養溝通表達、團隊合作與自我展現能力，並在持續學習與舞台實踐中建立自信、發掘潛能，拓展社會參與機會。",
+      "publishedAt": "2026-09-03T01:30:51.242Z",
+      "discoveredAt": "2026-09-03T01:30:51.242Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2ef53c06ad6160b98995",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9731290?from=edn_newest_index",
+      "title": "Dell、NVIDIA把胃口養大了 HPE財報創紀錄盤後仍大跌 | 美股動態 | 國際 | 經濟日報",
+      "description": "慧與（HPE）上季營收和獲利雙雙創新高，AI伺服器和網路設備需求持續火熱，並調高今、明兩年營收展望，但市場期待早已被戴爾（Dell）和輝達（NVIDIA）亮眼財報拉高，加上零組件短缺限制出貨，財報仍未能滿足投資人胃口，盤後股價一度重挫逾5%。",
+      "publishedAt": "2026-09-03T01:30:51.242Z",
+      "discoveredAt": "2026-09-03T01:30:51.242Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c67ba3afa8ac1a39f357",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9731284?from=edn_newest_index",
+      "title": "南非青年馬泰可跨萬里赴台求學 盼成台灣南非交流橋梁 | 國際焦點 | 國際 | 經濟日報",
+      "description": "台灣大專院校迎來新學年，不少在南非成長的青年跨萬里赴台求學，馬泰可（Gagotheko Matsheka）從5歲接觸中文...",
+      "publishedAt": "2026-09-03T01:30:51.242Z",
+      "discoveredAt": "2026-09-03T01:30:51.242Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4a8d2f769060aa0f8907",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9731197",
-      "title": "貝森特：G20聯合公報難產 全因大陸扯後腿 不願面對龐大貿易逆差 | 國際焦點 | 國際 | 經濟日報",
+      "title": "09:05 貝森特：G20聯合公報難產 全因大陸扯後腿 不願面對龐大貿易逆差",
       "description": "美國財長貝森特表示，中國大陸因不滿G20對龐大貿易順差的立場，阻止本周財長和央行總裁會議發表聯合公報，也使全球貿易失衡再度成為美中交鋒焦點。",
       "publishedAt": "2026-09-03T01:11:52.896Z",
       "discoveredAt": "2026-09-03T01:11:52.896Z",
@@ -485,7 +695,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9730177?from=edn_hottest_index",
-      "title": "外資賣超913億元 大賣 ETF、聯電、國巨 但竟逆勢狂買這類股 5344",
+      "title": "外資賣超913億元 大賣 ETF、聯電、國巨 但竟逆勢狂買這類股 5378",
       "description": "台股2日開低走低收最低，終場以46,164.72點，下跌784點，三大法人聯手賣超1,150.34億元，其中外資大砍913.55億元，統計外資賣超前十名中，ETF占5檔，聯電（2303）、國巨*（2327）也遭大賣，但多檔金融股竟獲外資逆勢大買，在買超前十名中占了7檔。",
       "publishedAt": "2026-09-03T00:37:58.209Z",
       "discoveredAt": "2026-09-03T00:37:58.209Z",
@@ -4120,7 +4330,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9730670?from=edn_hottest_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 12007",
+      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 12021",
       "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
       "publishedAt": "2026-09-02T15:10:15.210Z",
       "discoveredAt": "2026-09-02T15:10:15.210Z",
@@ -4570,7 +4780,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9730397?from=edn_hottest_index",
-      "title": "友達新加坡廠將以約新台幣87.53億元出售 11365",
+      "title": "友達新加坡廠將以約新台幣87.53億元出售 11507",
       "description": "友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital (Singapore) Pte. Ltd.及/或其指定之人。",
       "publishedAt": "2026-09-02T14:28:45.565Z",
       "discoveredAt": "2026-09-02T14:28:45.565Z",
@@ -5149,216 +5359,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c072e94442a6d0a3a637",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9730697?from=edn_newest_index",
-      "title": "「我寧願去做冷氣！」建商喊3年不推案 造價衝30～40萬，老屋住戶恐等不到人敲門 | 房市話題 | 房市 | 經濟日報",
-      "description": "文/林喬慧、魏敬軒 責任編輯/謝曉菁 「我寧願去做冷氣！」一名不願具名的台北市建商無奈向本刊透露，他原本光是在北市，手上就有5、6個危老案，有些已經談到百分百同意，但現在卻決定全部暫緩，「我3年內都不推案了，第一個成本沒辦法確定，第二個售價也沒辦法確定，成本反映到售價至少1年半，我乾脆放棄繼續等，慢慢整合把基地放大，用時間換空間。」 「松山區就有案子整合好丟出來賣，誰接誰掛掉，大同區也有知名建商整合到接近8成，就不繼續推進，因為成本沒辦法履約，直接放在那邊讓合約自然過期，這種案例一大堆。」 該名建商算給《住展》聽，以他自己去年12月整合完成的北市中心危老案為例，今年2月送件，最近也決定暫緩。「光機電，原本預估1戶100萬就能做起來，現在發包出去要150萬，就連最基本的線材都在漲，國際銅價大漲，過去銅一捲最便宜1100元，現在要2100元，造價控制不了，根本吞不下去。」 不只如此，土方之亂、連續壁漲價、台北市要求鄰損自動化監測，每一項都讓造價再往上疊，他說，在房價約80萬元的區段，過去造價一坪15、16萬元撐得起來，整合時談五五分都做得下去，但現在估算造價已經來到一坪30~40萬元，房",
-      "publishedAt": "2026-09-02T13:38:31.114Z",
-      "discoveredAt": "2026-09-02T13:38:31.114Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_64a15270c9f2a7d6ee80",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9730702?from=edn_newest_index",
-      "title": "美國繼續對伊朗經濟施壓 劍指航空、海事及數位資產 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普（Donald Trump）的政府持續推動對伊朗經濟施壓的計畫，財政部長貝森特今天表示，航空公司、海事產業及...",
-      "publishedAt": "2026-09-02T13:38:31.114Z",
-      "discoveredAt": "2026-09-02T13:38:31.114Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ab8419754da64e57e7bd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9730694?from=edn_newest_index",
-      "title": "AI需求跑太快、產能追不上 穎崴：真正問題在供應 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI究竟有沒有泡沫？當市場還在爭論AI需求能否持續時，身為半導體供應鏈重要供應成員的穎崴（6515）執行副總陳紹焜今日直指是AI需求增加速度太快，產能反而快要跟不上。",
-      "publishedAt": "2026-09-02T13:38:31.114Z",
-      "discoveredAt": "2026-09-02T13:38:31.114Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_30173729d9a9d4f963b3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9730693?from=edn_newest_index",
-      "title": "怕豬油怕了幾十年，現在該重新認識？醫師揭飽和脂肪在人體的3大作用 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "我們常把脂肪分成「飽和」和「不飽和」，差別就在於它們的結構有沒有「雙鍵」。這種雙鍵是導致油脂變質，例如氧化、產生異味、營養下降的主因。多個雙鍵最不穩定，像植物油、魚油；一個雙鍵中等穩定，像橄欖油；沒有雙鍵最穩定，就是飽和脂肪。 為什麼穩定很重要？越多雙鍵，越容易氧化變質，這些雙鍵會被氧氣或高溫破壞，產生對健康不利的副產物，甚至變酸、發臭。某些植物油經過長時間高溫烹調或工業加工，原本的雙鍵可能會轉變為「反式脂肪」，這種脂肪已被證實對心血管有害。具有雙鍵的油還可能變得濃稠或產生其他有害物質，過度加熱會讓不飽和脂肪彼此結合或斷裂，影響油的品質與消化性。 簡單來說：飽和脂肪因為結構簡單、沒雙鍵，加熱後最穩定，變質最少。這就是為什麼像椰子油、酥油、奶油，在高溫烹調下其實比某些植物油還安全。 飽和脂肪終於一洗冤屈，被證明能夠提高血液中好膽固醇的量。2025年初，全美共有406家分店的「牛排與奶昔」（Steak &#039;n Shake）快餐連鎖品牌，也宣布恢復在炸薯條中使用牛油。該公司表示，顧客值得擁有最好的產品。",
-      "publishedAt": "2026-09-02T13:38:31.114Z",
-      "discoveredAt": "2026-09-02T13:38:31.114Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5c484b98465a768dedb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9730620",
-      "title": "21:21 今日最夯股／黃仁勳、馬斯克點名機器人產業 亞光開低走高收漲停",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-09-02T13:23:05.855Z",
-      "discoveredAt": "2026-09-02T13:23:05.855Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2b7c25bdb264e21d566c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9730670",
-      "title": "21:06 美長債殖利率轉跌 台指期夜盤伺機突圍",
-      "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
-      "publishedAt": "2026-09-02T13:23:05.855Z",
-      "discoveredAt": "2026-09-02T13:23:05.855Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_287868127e3c37d1a09a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9730670?from=edn_maintab_index",
-      "title": "美長債殖利率轉跌 台指期夜盤伺機突圍 台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑...",
-      "description": "台指期夜盤2日開盤時，在美股電子盤走勢回穩帶動，以46,200點、上漲35點開出後，雖一度上衝到46,252點、上漲87點，不過，在美長天期債券殖利率持續衝高、那斯達克電子盤跌勢擴大下，指數快速翻黑下跌，最低來到45,686點、下跌479點，但在國際油價由漲轉跌、美長債殖利率應聲轉跌，美股電子盤急拉激勵，截至晚間約21點，指數來到約46,065點、下跌100點。",
-      "publishedAt": "2026-09-02T13:23:05.855Z",
-      "discoveredAt": "2026-09-02T13:23:05.855Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-03T22:52:35.606Z",
+  "updatedAt": "2026-09-03T23:05:27.313Z",
   "candidates": [
     {
       "id": "cand_e27de523feee15b7d83a",
@@ -87,6 +87,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_c2841b37db7b9134bed6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733664?from=edn_newest_index",
+      "title": "普丁稱和平協議有望 澤倫斯基預告美代表將訪俄烏 | 國際焦點 | 國際 | 經濟日報",
+      "description": "俄羅斯總統普丁今天表示，有機會達成結束烏克蘭戰爭的協議；烏克蘭總統澤倫斯基則表示，試圖促成協議的美國談判代表，很快就會訪...",
+      "publishedAt": "2026-09-03T23:05:27.313Z",
+      "discoveredAt": "2026-09-03T23:05:27.313Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_c65a1e4d64d036f671c5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -94,7 +124,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9733660?from=edn_newest_index",
-      "title": "【專家之眼】AI發展對兩岸關係的深遠影響 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "【專家之眼】AI發展對兩岸關係的深遠影響 2026-09-04 06:42",
       "description": "當前ＡＩ的發展迅猛，牽涉層面日益深廣，兩岸關係也難以自外。ＡＩ或可強化威懾、升高危機，或可降低誤判、化險為夷，其推陳出新的能力之強與速度之快，令人咋舌且值得關注。",
       "publishedAt": "2026-09-03T22:52:35.606Z",
       "discoveredAt": "2026-09-03T22:52:35.606Z",
@@ -198,7 +228,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2082,7 +2112,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4375,7 +4405,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9732748?from=edn_hottest_index",
-      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13655",
+      "title": "主管剉咧等！ 11月19日的「這件事」 恐致當天無人想上班 13758",
       "description": "36歲的軟體工程師布瑞斯（Bud Burruss）打算在感恩節前那周休五天假，不過他並不打算遠行，或是準備感恩節大餐，而是窩在自己的「男人窩」，打算暢玩即將在11月19日發行的「俠盜獵車手6」（GTA6）。",
       "publishedAt": "2026-09-03T13:23:10.200Z",
       "discoveredAt": "2026-09-03T13:23:10.200Z",
@@ -4585,7 +4615,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/6710/9732185?from=edn_hottest_index",
-      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 10092",
+      "title": "他賣房5千萬尾款沒拿到 苦等5年解約拿回房子竟要吞罰單 10216",
       "description": "屏東一名男子阿明（化名）與另外2人共同持有一筆房地，各持分三分之一，3人在2017年以1.46億元賣出，不料買方後續只支付約6成價款，剩下5,500多萬元尾款遲遲拿不到。5年後雙方決定解除契約，房地也重新登記回原屋主名下，沒想到國稅局查核後仍認定，當年的財產交易所得已經成立，加計其他漏報所得後，最終補稅近500萬元、開罰近249萬元。",
       "publishedAt": "2026-09-03T13:05:04.989Z",
       "discoveredAt": "2026-09-03T13:05:04.989Z",
@@ -5331,36 +5361,6 @@
       "url": "https://money.udn.com/money/story/5613/9732866",
       "title": "19:40 股東電子投票暴增逾兩倍 關鍵竟是超商禮卡",
       "description": "線上領超商、咖啡禮品卡，真的能讓小股東更願意投票了。據金管會統計，今年44家公發公司導入eGift後，手上有千股股東採用電子投票暴增215%，推升這44家公司電子投票占出席比率升至61.8%，年增1成。",
-      "publishedAt": "2026-09-03T11:47:27.675Z",
-      "discoveredAt": "2026-09-03T11:47:27.675Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8c4ac727953ffa35ab47",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9732978?from=edn_newest_index",
-      "title": "大立光切入CPO比iPhone更令市場激情 股價直奔逾7,000元新天價 | 產業熱點 | 產業 | 經濟日報",
-      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
       "publishedAt": "2026-09-03T11:47:27.675Z",
       "discoveredAt": "2026-09-03T11:47:27.675Z",
       "topics": [

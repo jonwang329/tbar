@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T05:45:25.019Z",
+  "updatedAt": "2026-09-04T05:55:47.754Z",
   "candidates": [
+    {
+      "id": "cand_5974fdf0e158449ab843",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9734527",
+      "title": "台積電收高20元拉升台股收漲693點 周 K 連二紅 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股4日收盤上漲693.47點，終場以46,551.13點作收，成交量8,256億元，漲幅1.51%；單周上漲477.7點，周K線連二紅。台積電（2330）收盤價2,410元，上漲20元，漲幅0.84%。",
+      "publishedAt": "2026-09-04T05:55:47.754Z",
+      "discoveredAt": "2026-09-04T05:55:47.754Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2df085d45f80d14c2ba1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734556?from=edn_newest_index",
+      "title": "台股漲693.47點 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台北股市今天開高走高，收盤漲693.47點，為46551.13點，漲幅1.51%，成交金額新台幣8256.26億元",
+      "publishedAt": "2026-09-04T05:55:47.754Z",
+      "discoveredAt": "2026-09-04T05:55:47.754Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_712fdd9e1593c5b664fe",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9734553?from=edn_newest_index",
+      "title": "雲林縣政府：文旦今年產量減2成 甜度未受影響 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "中秋節將至，雲林縣政府今天由副縣長謝淑亞領軍，在立法院舉辦文旦推廣記者會。謝淑亞表示，雲林文旦今年產量約減少2成，但是品...",
+      "publishedAt": "2026-09-04T05:55:47.754Z",
+      "discoveredAt": "2026-09-04T05:55:47.754Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_568d4eeaca72f066edea",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9734550?from=edn_newest_index",
+      "title": "賴總統：我不隨便誇獎人 會給陳其邁7顆星 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "總統賴清德今天出席高雄市長陳其邁新書發表會時表示，他不隨便誇獎人，尤其自己也曾是「五顆星市長」，要讓他稱讚一名市長做得好...",
+      "publishedAt": "2026-09-04T05:55:47.754Z",
+      "discoveredAt": "2026-09-04T05:55:47.754Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_599a900bf89d62460ad9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9734548?from=edn_newest_index",
+      "title": "陳其邁：2018落選時曾以為政治生命走到終點 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "高雄市長陳其邁今天說，回想2018年落選時，連自己都不敢相信，想說政治生命應該走到終點；後來擔任2年行政院副院長、開啟番...",
+      "publishedAt": "2026-09-04T05:55:47.754Z",
+      "discoveredAt": "2026-09-04T05:55:47.754Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_019be932d3c708e48555",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734542?from=edn_newest_index",
+      "title": "彰化縣國際展覽中心啟用 每日租金最高11萬元 | 產業熱點 | 產業 | 經濟日報",
+      "description": "2025台灣設計展在彰化，作為田中展區的場館改造成彰化國際展覽中心，縣政政府今舉辦開幕啟用典禮，首檔「家具暨觀光旅展」帶進近80個攤位，預估4天展期可吸引3萬人次參觀。",
+      "publishedAt": "2026-09-04T05:55:47.754Z",
+      "discoveredAt": "2026-09-04T05:55:47.754Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b2a395ef6d79eb447d01",
       "sourceLastModified": null,
@@ -160,7 +340,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733177?from=edn_hottest_index",
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% | 美股動態 | 國際 | 經濟日報",
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6732",
       "description": "美股周四（3日）早盤三大指數走高，美國國債殖利率回落，聯準會（Fed）升息壓力減輕，交易員持續關注油價走勢，並等待本周稍晚公布最新的美國就業數據。",
       "publishedAt": "2026-09-04T05:45:25.019Z",
       "discoveredAt": "2026-09-04T05:45:25.019Z",
@@ -774,7 +954,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2557,7 +2737,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
-      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10133",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10182",
       "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
       "publishedAt": "2026-09-04T02:27:30.699Z",
       "discoveredAt": "2026-09-04T02:27:30.699Z",
@@ -5191,186 +5371,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_23ea0d908961711a684e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9733401?from=edn_newest_index",
-      "title": "牛肉pho王、班煎燒上桌！越式餐廳「Maison Viet 越舍」進駐大巨蛋 | 生活 | 要聞 | 經濟日報",
-      "description": "豐富的香料氣息以及殖民背景帶來的融合巧思，讓越南料理成為全球矚目的亞洲菜系。全新越式料理品牌「「Maison Viet 越舍」正式進駐台北大巨蛋遠東 Garden City，以精緻化的越南料理結合空間美學，提供「經典生春捲拼盤」、「招牌牛肉Pho王」等餐點，並有多款特色飲品，帶來異國情調的享受。",
-      "publishedAt": "2026-09-03T19:24:36.391Z",
-      "discoveredAt": "2026-09-03T19:24:36.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_668d058f36e5ba0e529a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733374?from=edn_maintab_index",
-      "title": "最高100%！美無人機關稅 生效 盟國建立非紅鏈期待受挫 美國對無人機課徵的新關稅3日生效，對重量超過25公斤或使用熱成像技術的無人機課徵100%關稅，中國大陸首當其衝。值得注意的是，歐盟、日本、南韓、瑞士與台灣等生產的無人機，適用15%關稅，從而打擊盟國...",
-      "description": "美國對無人機課徵的新關稅3日生效，對重量超過25公斤或使用熱成像技術的無人機課徵100%關稅，中國大陸首當其衝。值得注意的是，歐盟、日本、南韓、瑞士與台灣等生產的無人機，適用15%關稅，從而打擊盟國原本期待與美建立「非紅供應鏈」的希望。",
-      "publishedAt": "2026-09-03T19:10:34.289Z",
-      "discoveredAt": "2026-09-03T19:10:34.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3a8035cad9e076785097",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733398?from=edn_maintab_index",
-      "title": "史上新高！政院追加預算6,076億 挹注中油、台電共4,000億元 行政院會昨（3）日通過今年度中央政府總預算追加預算案，歲出追加6,076億元，寫史上最高，歲入則增加828億元。其中對中油補貼加上增資，合計超過3,300億元，亦編列711億元補貼台電凍漲電價。合計...",
-      "description": "行政院會昨（3）日通過今年度中央政府總預算追加預算案，歲出追加6,076億元，寫史上最高，歲入則增加828億元。其中對中油補貼加上增資，合計超過3,300億元，亦編列711億元補貼台電凍漲電價。合計中油、台電獲財務支持約4,000億元，占大宗。",
-      "publishedAt": "2026-09-03T19:10:34.289Z",
-      "discoveredAt": "2026-09-03T19:10:34.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_518e5440cca181b46ca4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733369?from=edn_maintab_index",
-      "title": "博通進擊 帶旺台灣協力廠營運 台積、日月光迎大單 博通2日於財報會議表示，來自Google、OpenAI、Anthropic與Meta等主要客戶訂單強勁，旗下AI半導體業務強勁成長，估本財年相關營收將大增1.86倍，未來兩個會計年度也會繼續翻倍成長...",
-      "description": "博通2日於財報會議表示，來自Google、OpenAI、Anthropic與Meta等主要客戶訂單強勁，旗下AI半導體業務強勁成長，估本財年相關營收將大增1.86倍，未來兩個會計年度也會繼續翻倍成長，接下來光是出貨Google TPU金額每年就達數百億美元。",
-      "publishedAt": "2026-09-03T19:10:34.289Z",
-      "discoveredAt": "2026-09-03T19:10:34.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_420777e67c348eb3e8e6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733390?from=edn_maintab_index",
-      "title": "數位地下經濟 財部盯上 明年啟動研究計畫 財政部盯上數位地下經濟。隨著共享經濟、虛擬通貨等新型態經濟活動日益活絡，地下經濟樣態也更複雜，財政部明年將啟動研究計畫，研議稅制、稅政解方。外界認為，虛擬貨幣、地下金融等沉痾許久的租稅「化外之地」，...",
-      "description": "財政部盯上數位地下經濟。隨著共享經濟、虛擬通貨等新型態經濟活動日益活絡，地下經濟樣態也更複雜，財政部明年將啟動研究計畫，研議稅制、稅政解方。外界認為，虛擬貨幣、地下金融等沉痾許久的租稅「化外之地」，將是首波緊盯對象。",
-      "publishedAt": "2026-09-03T19:10:34.289Z",
-      "discoveredAt": "2026-09-03T19:10:34.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a240d417dfdc40c606e6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733289?from=edn_maintab_index",
-      "title": "散裝航運大軍 迎漲價紅利 受惠貨量回升、航程拉長、船舶供給受限 散裝航運下半年旺季行情升溫，「貨量回升、航程拉長、船舶供給受限」三大利基同步發酵，帶動波羅的海乾散貨指數（BDI）強勢上攻現量兩日大漲，業內認為，短線應還有漲價紅利可期。 法人看好，隨市場有效運力...",
-      "description": "散裝航運下半年旺季行情升溫，「貨量回升、航程拉長、船舶供給受限」三大利基同步發酵，帶動波羅的海乾散貨指數（BDI）強勢上攻現量兩日大漲，業內認為，短線應還有漲價紅利可期。",
-      "publishedAt": "2026-09-03T19:10:34.289Z",
-      "discoveredAt": "2026-09-03T19:10:34.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,7 +1,307 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T09:37:34.132Z",
+  "updatedAt": "2026-09-04T09:54:38.379Z",
   "candidates": [
+    {
+      "id": "cand_1f8157ee4924c759107d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734908",
+      "title": "信驊2027訂單爆棚 林鴻明：下半年逐季成長、明年量價齊揚 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI伺服器需求持續強勁，信驊（5274）董事長林鴻明4日表示，目前公司2027年在手訂單（Backlog）已相當龐大，明年的訂單總量已經超過今年營收，這是過去從未發生過的情況，且在供應鏈瓶頸逐步紓解之下，下半年營運將維持逐季成長，明年除了出貨數量持續放大，也將受惠產品價格調升，營運呈現「量價齊揚」。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a162c111a931930cafa6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734296",
+      "title": "想投資馬斯克隧道公司？出錢之外還要出力：幫找人才、引見政府官員 | 國際焦點 | 國際 | 經濟日報",
+      "description": "億萬富豪馬斯克旗下隧道企業Boring Company剛完成最新一輪募資，該公司估值達約200億美元。知情人士透露，部分投資人這次被要求接受罕見條件，除了出錢，還要幫忙舉薦人才、拓展業務，例如在該公司有可能興建隧道的地區，牽線引見政府官員。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_16f0ec486125dad93389",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9735055?from=edn_maintab_index",
+      "title": "台電：累虧已達3,722億元 盼各界支持預算撥補 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "行政院拍板2026年度追加預算案撥補台電711億元，台電4日表示，近來中東局勢帶動天然氣價格大漲，政府攜手油電「頂住通膨」穩定國內物價，以追加預算撥補台電，就是補貼全民用電成本，穩定物價、照顧民生，同時兼顧產業競爭力。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_663c0bb3b981ef8f457e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9735049?from=edn_maintab_index",
+      "title": "量子人才畢業年薪250萬元起跳！產業熱度增 美商 OptiFab、漢民投入 | 產業熱點 | 產業 | 經濟日報",
+      "description": "量子技術正在加溫，台灣量子人才畢業後，有望找到年薪8~10萬美元起跳就業機會，為冷門已久的量子產業點亮契機，美商子公司台灣積光OptiFab也在國際半導體展宣布在楊梅投資數億元興建光子量子晶圓廠，隨電子五哥大老闆開始重視，讓量子圈氣氛為之一振。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_29e0b16e91d46409b721",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9735109?from=edn_newest_index",
+      "title": "美方稱習近平訪美將宣布農業安排 北京：沒有可提供訊息 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸國家主席習近平預計將於本月下旬應美國總統川普邀請訪美，美國貿易代表葛里爾表示，在習近平訪美期間，美中兩國將就農產品及相關的非關稅壁壘問題公布新安排。大陸外交部發言人則僅回應，沒有可提供的信息。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f62ef03a82acd32f0823",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9735106?from=edn_newest_index",
+      "title": "偉詮電營收／伺服器應用熱 8月業績創新高、年增32.1％ | 集中市場 | 證券 | 經濟日報",
+      "description": "IC設計廠偉詮電（2436）於4日公布8月業績，創單月歷史新高。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c3b0a551650791fef5c8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9735104?from=edn_newest_index",
+      "title": "上詮獲利／自結7月虧損3,300萬元 EPS -0.29元 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "上詮（3363）4日達公布注意交易資訊標準，公布2026年7月單月自結獲利，歸屬母公司業主淨損3,300萬元，較去年同期由盈轉虧，EPS -0.29元。2026年第2季歸屬母公司業主淨損2,500萬元，EPS -0.22元，同樣較去年同期由盈轉虧。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_262dd971001f83578dc4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11799/9734821?from=edn_newest_index",
+      "title": "基北北桃低碳技術媒合會登場 8大技術助製造業減碳 | 產業動態 | 商情 | 經濟日報",
+      "description": "桃園攜手臺北、新北、基隆舉辦低碳技術媒合會，吸引逾80位產業代表，聚焦四大淨零痛點，助企業省錢、省電、減碳，推動北臺灣產業轉型。",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ada6f35d51bd8b88aa4f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735099?from=edn_newest_index",
+      "title": "JR東日本將公布Suica企鵝接班3候選 網路投票決定 2026-09-04 17:45",
+      "description": "",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aafc659f93e9cd79a1f3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734772?from=edn_hottest_index",
+      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 3783",
+      "description": "",
+      "publishedAt": "2026-09-04T09:54:21.096Z",
+      "discoveredAt": "2026-09-04T09:54:21.096Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c199676c543954e7735b",
       "sourceLastModified": null,
@@ -624,7 +924,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -790,7 +1090,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9734823?from=edn_hottest_index",
-      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 5496",
+      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 6023",
       "description": "富時羅素公布下列有關臺灣50指數、臺灣中型100指數、臺灣資訊科技指數、臺灣發達指數及臺灣高股息指數審核結果。相關成分股納入及刪除變動將自2026年9月18日（星期五）交易結束後生效（亦即自2026年9月21日（星期一）起生效）。如有指數成分股在下次定期審核前之期間被刪除，將以本次候補名單遞補，候補名單自即日起生效。",
       "publishedAt": "2026-09-04T08:47:35.924Z",
       "discoveredAt": "2026-09-04T08:47:35.924Z",
@@ -804,7 +1104,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1600,7 +1900,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9733044?from=edn_hottest_index",
-      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4943",
+      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4949",
       "description": "台指期夜盤3日以45,902點開高，盤中走勢持續震盪。截至傍晚8點10分，台指期夜盤暫報45,843點、漲24點、漲幅0.05%。剛開盤多方試圖率先攻擊，最高達46,136點，隨後空頭賣壓再起由紅翻黑、最低暫達45,800點，高低點震盪336點，46K大關暫時得而復失，持續於45,800點附近震盪。",
       "publishedAt": "2026-09-04T07:37:34.580Z",
       "discoveredAt": "2026-09-04T07:37:34.580Z",
@@ -2029,7 +2329,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -3005,7 +3305,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733177?from=edn_hottest_index",
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6832",
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6837",
       "description": "美股周四（3日）早盤三大指數走高，美國國債殖利率回落，聯準會（Fed）升息壓力減輕，交易員持續關注油價走勢，並等待本周稍晚公布最新的美國就業數據。",
       "publishedAt": "2026-09-04T05:45:25.019Z",
       "discoveredAt": "2026-09-04T05:45:25.019Z",
@@ -5091,306 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1295326f0bc8bddb5895",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5721/9733283?from=edn_newest_index",
-      "title": "從整體衛浴到智慧生活 香尼歐帶領設計師走進 Panasonic 概念體驗館PoME 探索住宅設備整合新思維 | 建材新訊 | 商情 | 經濟日報",
-      "description": "香尼歐整合行銷持續推動室內設計產業交流，今年度第三場企業參訪於9月2日帶領室內設計師前往 Panasonic 概念體驗館PoME，透過整體衛浴與IoT智慧開關專題座談，以及實際展間導覽，讓設計師從住宅設備、智慧科技到生活場景，深入了解設備如何融入空間設計，將產品知識轉化為實際案場應用能力。",
-      "publishedAt": "2026-09-04T02:45:27.678Z",
-      "discoveredAt": "2026-09-04T02:45:27.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_df234af1c47af4493e5f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11799/9733534?from=edn_newest_index",
-      "title": "「雙東」各拓新局！東台工具機轉推半導體設備硬脆材料加工解方 | 產業動態 | 商情 | 經濟日報",
-      "description": "為了加速搶進半導體產業供應鏈，原本攜手合作的「雙東」——東台精機與東捷科技，決定分頭發展；東捷科技正式加入G2C+聯盟後訂單湧現，一躍成為媒體焦點；東台精機也積極布局，透過參股永進機械，深化合作；兩家公司在國際半導體展於不同展區亮相吸客。 東台精機董事長嚴瑞雄坦言，東台精機與東捷科技「雙東」數年來並未展現出強強聯手的預期效益，繼東台精機去（2025）年參股永進機械10%，東捷科技今年也獲志聖工業策略投資逾10%；均透過資本合作模式，各自找到新夥伴。 全新人事布局陸續登場，東捷科技董事長已由嚴瑞雄交棒予志聖工業總經理梁又文。原任東台精機副總經理嚴璐9月1日也正式卸任，專職東捷科技執行長兼總經理。嚴瑞雄透露，東台精機規畫延攬兩位工具機界的總經理級人馬，全力衝刺半導體產業的在地採購商機。 今年在國際半導體展（SEMICON Taiwan），東台精機首次結合電子設備與工具機兩大事業部參展，展出從晶圓製程設備到零組件加工解決方案，打造半導體一站式精密製造平台，對準半導體製程的精密化與供應鏈在地化的趨勢。 嚴瑞雄指出，工具機原本就適用汽車、航太等等多種產業，針對半導體設備中常見的硬脆難加工",
-      "publishedAt": "2026-09-04T02:45:27.678Z",
-      "discoveredAt": "2026-09-04T02:45:27.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7196993bfee5cbe47c9b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9733525?from=edn_newest_index",
-      "title": "豪勉科技秀高速光互連技術、可靠度測試解方 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "豪勉科技參加國際半導體展（SEMICON Taiwan）期間，以「高速光互連」與「記憶體可靠度測試」兩大技術成果，展現從先進光電量測、平行化檢測，到半導體可靠度驗證的完整技術布局。 在高速光互連領域，豪勉以「面向兆元級（Tera-bit） 高速光互連的巨量陣列光源量產檢測方案」為核心。隨著 AI、HPC 與高速資料傳輸持續推升頻寬需求，Micro LED、Micro VCSEL等陣列光源正朝更高密度與高速率發展，如何在量產階段快速掌握大量光源的高速響應與一致性，已成為產業重要課題。 豪勉延續多年光電量測與自動化檢測基礎，由傳統單晶、逐顆頻寬量測，進一步發展多晶平行高速響應量測，可同步取得多顆光源的暫態響應，辨識不同晶粒間的高速特性差異，並朝晶片上晶圓（CoW）、晶片上載板（CoC）及陣列製程的階段量產檢測發展。 從展會人士交流話題，也顯示市場焦點正由「能否量測」轉向如何兼顧精度、產出速度與成本，豪勉巨量頻寬檢測方案正是由單點精密量測走向巨量、平行化與量產檢測的重要布局，為下一世代「兆位元級光互連」建立規模化品質檢測基礎。 另一亮點是豪勉美國分公司所購併的半導體測試設備公司Nov",
-      "publishedAt": "2026-09-04T02:45:27.678Z",
-      "discoveredAt": "2026-09-04T02:45:27.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ab6609caaa1825b685c7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733867",
-      "title": "10:11 專訪／微軟攜台供應鏈拚 AI 資料中心效率 全面轉向液冷、回應4提問",
-      "description": "半導體供應鏈高喊應「系統技術協同研發」，微軟全球基礎建設總經理Alistair Speirs接受《經濟日報》專訪，指出微軟資料中心規劃亦採系統級方法（Systems approach），跟台灣供應鏈緊密合作，並披露微軟正全面轉向液冷而策略性使用Neo Cloud現成算力，強調客戶需求遠大於供給沒有泡沫化疑慮。",
-      "publishedAt": "2026-09-04T02:27:30.699Z",
-      "discoveredAt": "2026-09-04T02:27:30.699Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9c17e38d94e6588a17a6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9733875?from=edn_maintab_index",
-      "title": "有玄機！輝達129.303億美元收購 Hugging Face 金額竟藏兩幽默彩蛋 輝達3日正式宣布，同意以129億美元收購開源AI平台Hugging Face，藉此壯大整個AI生態系服務。不過仔細看看輝達收購Hugging Face的交易金額，別出心裁在數字裡面藏了「彩蛋」。 ...",
-      "description": "輝達3日正式宣布，同意以129億美元收購開源AI平台Hugging Face，藉此壯大整個AI生態系服務。不過仔細看看輝達收購Hugging Face的交易金額，別出心裁在數字裡面藏了「彩蛋」。",
-      "publishedAt": "2026-09-04T02:27:30.699Z",
-      "discoveredAt": "2026-09-04T02:27:30.699Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9aaed32b8cf646a81427",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9733966?from=edn_newest_index",
-      "title": "這檔 EV 充電股財報優預期 一天狂飆近75% 執行長喊：這只是起點 | 美股動態 | 國際 | 經濟日報",
-      "description": "電動車充電業者ChargePoint的股價周四一天暴漲近75%，創去年股票反分割以來最大漲幅。該公司第2季財報大幅優於華爾街預期，且財測樂觀，執行長威爾默（Rick Wilmer）表示，成長正開始加速，新產品與技術將推動業績攀高。",
-      "publishedAt": "2026-09-04T02:27:30.699Z",
-      "discoveredAt": "2026-09-04T02:27:30.699Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_02e8af4bbdcf58a23489",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733960?from=edn_newest_index",
-      "title": "支持率下探 阿根廷總統米雷伊炒作福克蘭群島主權 | 國際焦點 | 國際 | 經濟日報",
-      "description": "隨支持率持續滑落，阿根廷總統米雷伊開始利用聲索福克蘭群島主權凝聚支持者。在米雷伊發表全國演說前，美國總統川普暗示可能重新...",
-      "publishedAt": "2026-09-04T02:27:30.699Z",
-      "discoveredAt": "2026-09-04T02:27:30.699Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a11f8c0d30af7376fb64",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733957?from=edn_newest_index",
-      "title": "美軍強制篩檢低睪固酮惹議 五角大廈暫撤政策準則 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國官員今天告訴路透社，五角大廈暫時撤回近期發布的臨床準則。這項準則涉及一項新的強制性政策，要求年滿30歲的軍人接受睪固...",
-      "publishedAt": "2026-09-04T02:27:30.699Z",
-      "discoveredAt": "2026-09-04T02:27:30.699Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3961d0d11afad7ca7064",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733956?from=edn_newest_index",
-      "title": "上銀8月營收創49個月高點 下半年展望佳 | 產業熱點 | 產業 | 經濟日報",
-      "description": "傳動元件大廠上銀上午公布8月自結合併營收新台幣27.08億元，月增1%、年增42.3%，續創2022年8月以來高點；累計...",
-      "publishedAt": "2026-09-04T02:27:30.699Z",
-      "discoveredAt": "2026-09-04T02:27:30.699Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d7b9644a4863cf9078e8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733955?from=edn_newest_index",
-      "title": "川普促歐洲償還援烏款項 擬暫停向盟國出售軍火 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普今天表示，將要求歐洲國家償還美國在俄烏戰爭期間向烏克蘭提供的軍援與彈藥，並似乎釋出暫停對盟國出售軍火的訊號",
-      "publishedAt": "2026-09-04T02:27:30.699Z",
-      "discoveredAt": "2026-09-04T02:27:30.699Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T05:55:47.754Z",
+  "updatedAt": "2026-09-04T06:16:05.213Z",
   "candidates": [
+    {
+      "id": "cand_07676e1bf6dfcea88c34",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734141",
+      "title": "曾精準預言！傳奇經濟學家警告 美消費亮六大警訊 經濟一年內恐衰退 | 國際焦點 | 國際 | 經濟日報",
+      "description": "曾精準預測網路泡沫與2008年房市危機的重量級經濟學家席林（Gary Shilling）警告說，消費領域正發出警訊，可能預示美國經濟在未來一年陷入衰退。",
+      "publishedAt": "2026-09-04T06:16:05.213Z",
+      "discoveredAt": "2026-09-04T06:16:05.213Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7da7c5e892b6e61d6711",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9734640?from=edn_newest_index",
+      "title": "全台智慧建築突破2,450件 內政部選出8件優良案例 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "全台智慧建築持續增加，截至今年6月底，已有2,450件公私有建築取得智慧建築標章或候選證書。內政部4日舉辦「第5屆優良智慧建築作品頒獎典禮」，共選出8件獲獎作品，希望透過示範案例，帶動建築產業加快智慧化與節能減碳。",
+      "publishedAt": "2026-09-04T06:16:05.213Z",
+      "discoveredAt": "2026-09-04T06:16:05.213Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_eb242c1479ffa32e9a36",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9734612?from=edn_newest_index",
+      "title": "9月4日期交所日盤行情 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "臺指期收在46,704點，（較開盤參考價）上漲885點。 微臺指期收在46,701點，（較開盤參考價）上漲882點。 金融期收在3,525.2點，（較開盤參考價）上漲31.2點。 電子期收在2,947.8點，（較開盤參考價）上漲54.65點。 富櫃200期貨收在18,611點，（較開盤參考價）上漲321點。 臺灣永續期貨收在26,079點，（較開盤參考價）上漲436點。 半導體30期貨收在15,780點，（較開盤參考價）上漲63點。 航運期貨收在208.65點，（較開盤參考價）下跌2.6點。 臺灣中型100期貨收在36,260點，（較開盤參考價）上漲750點。 台積電期貨收在2,413點，（較開盤參考價）上漲23點。 聯發科期貨收在4,450點，（較開盤參考價）上漲120點。 鴻海期貨收在258點，（較開盤參考價）上漲10點。 緯創期貨收在197.5點，（較開盤參考價）上漲9.5點。 長榮期貨收在233點，（較開盤參考價）下跌6點。 美國費城半導體期貨收在11,443.5點，（較開盤參考價）上漲203.5點。 英國富時100期貨結算在10,780點，今日未",
+      "publishedAt": "2026-09-04T06:16:05.213Z",
+      "discoveredAt": "2026-09-04T06:16:05.213Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c2bd2c0ada1f655b61fc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734632?from=edn_newest_index",
+      "title": "TrendForce：CPU 供給改善 今年全球筆電出貨年減幅收斂至9.4% | 產業熱點 | 產業 | 經濟日報",
+      "description": "根據TrendForce最新筆電產業研究，2026年第2季起筆電CPU供應顯著改善，品牌廠採購、生產節奏逐步恢復，並考量DRAM和SSD成本持續上升，願意更積極提前備貨、鎖定零組件，帶動上半年出貨優於預期。然而，記憶體漲價趨勢不變，且CPU價格也上調，品牌面臨的成本壓力已進一步擴大。",
+      "publishedAt": "2026-09-04T06:16:05.213Z",
+      "discoveredAt": "2026-09-04T06:16:05.213Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e6508163ba0e8fdd831d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9734623?from=edn_newest_index",
+      "title": "「70後」朱忠明 任上海代理市長 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "上海市第16屆人大常委會第33次會議今天決定，接受龔正辭去上海市市長職務的請求，朱忠明任上海市副市長、代理市長。朱忠明1...",
+      "publishedAt": "2026-09-04T06:16:05.213Z",
+      "discoveredAt": "2026-09-04T06:16:05.213Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_27ce0014f855616c1221",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9734619?from=edn_newest_index",
+      "title": "群電營收／8月24.69億元 月減2.5% | 集中市場 | 證券 | 經濟日報",
+      "description": "電源廠群電（6412）4日公布8月營收24.69億元，月減2.5%。累計今年前八月合併營收212.28億元，年減9.9%。",
+      "publishedAt": "2026-09-04T06:16:05.213Z",
+      "discoveredAt": "2026-09-04T06:16:05.213Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5974fdf0e158449ab843",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9734527",
-      "title": "台積電收高20元拉升台股收漲693點 周 K 連二紅 | 市場焦點 | 證券 | 經濟日報",
+      "title": "13:49 台積電收高20元拉升台股收漲693點 周 K 連二紅",
       "description": "台股4日收盤上漲693.47點，終場以46,551.13點作收，成交量8,256億元，漲幅1.51%；單周上漲477.7點，周K線連二紅。台積電（2330）收盤價2,410元，上漲20元，漲幅0.84%。",
       "publishedAt": "2026-09-04T05:55:47.754Z",
       "discoveredAt": "2026-09-04T05:55:47.754Z",
@@ -340,7 +520,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733177?from=edn_hottest_index",
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6732",
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6740",
       "description": "美股周四（3日）早盤三大指數走高，美國國債殖利率回落，聯準會（Fed）升息壓力減輕，交易員持續關注油價走勢，並等待本周稍晚公布最新的美國就業數據。",
       "publishedAt": "2026-09-04T05:45:25.019Z",
       "discoveredAt": "2026-09-04T05:45:25.019Z",
@@ -2031,7 +2211,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2737,7 +2917,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
-      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10182",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10265",
       "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
       "publishedAt": "2026-09-04T02:27:30.699Z",
       "discoveredAt": "2026-09-04T02:27:30.699Z",
@@ -4219,7 +4399,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4247,7 +4427,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4275,7 +4455,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5191,186 +5371,6 @@
         "Taiwan"
       ],
       "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5c13f1ad5cf3d2e75da3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733402?from=edn_maintab_index",
-      "title": "緯穎：FinTech 應融入供應鏈 穩定幣跨境交易啟動試跑 緯穎科技（6669）董事長洪麗寗昨（3）日出席「FinTechOn2026暨亞洲金融科技（AFA）高峰會」時指出，進入AI時代，數據正以毫秒級速度流動，市場需求可在一夜之間翻轉，這讓科技業者生產排程...",
-      "description": "緯穎科技董事長洪麗寗昨（3）日出席「FinTechOn2026暨亞洲金融科技（AFA）高峰會」時指出，進入AI時代，數據正以毫秒級速度流動，市場需求可在一夜之間翻轉，這讓科技業者生產排程可以即時動態調整，實體產品也可迅速跨國界移動，然而卻有一個關鍵環節始終跟不上這個速度，那就是「資金」。",
-      "publishedAt": "2026-09-03T19:24:36.391Z",
-      "discoveredAt": "2026-09-03T19:24:36.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b86b34c02baef6d659dd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9733293?from=edn_maintab_index",
-      "title": "臻鼎砸大錢擴張載板布局 子公司禮鼎擬投資至少565億元 PCB龍頭臻鼎-KY（4958）積極拓展載板布局，昨（3）日代子公司禮鼎半導體科技（深圳）股份有限公司公告 ，董事會通過投資建設先進封裝載板基地廠，總金額不低於人民幣120億元（約新台幣565.7億...",
-      "description": "PCB龍頭臻鼎-KY積極拓展載板布局，昨（3）日代子公司禮鼎半導體科技（深圳）股份有限公司公告 ，董事會通過投資建設先進封裝載板基地廠，總金額不低於人民幣120億元（約新台幣565.7億元）。",
-      "publishedAt": "2026-09-03T19:24:36.391Z",
-      "discoveredAt": "2026-09-03T19:24:36.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_00aebf078bcec8d93dc8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733262?from=edn_newest_index",
-      "title": "海軍貨櫃式飛彈系統預算曝光 中科院執行維保 2026-09-04 03:21",
-      "description": "國防部軍備局曾與中科院研發「商用物流車、貨櫃式飛彈發射載台」，海軍在2027年預算案中編列3億5170萬餘元，由中科院執行「貨櫃式飛彈系統維保」委製案，外界據此推測系統可能業經海軍採用。",
-      "publishedAt": "2026-09-03T19:24:36.391Z",
-      "discoveredAt": "2026-09-03T19:24:36.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9c16ceb0bacd5c3b663d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733261?from=edn_newest_index",
-      "title": "空軍新年度公開預算案 披露高空高速巡弋飛彈服役戰備中 2026-09-04 03:21",
-      "description": "2027年度國防預算案披露空軍將執行新型飛彈維護，其一極可能是尚未解密的國造擎天極音速巡弋飛彈。",
-      "publishedAt": "2026-09-03T19:24:36.391Z",
-      "discoveredAt": "2026-09-03T19:24:36.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_34a22db67297a1531662",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9733392?from=edn_newest_index",
-      "title": "實用必看！IKEA公開「6大收納技巧」、精選10款收納好物快儲存 2026-09-04 03:19",
-      "description": "東西越買越多、收藏越積越豐富，收納不一定只能靠斷捨離，只要用對方法，即使空間有限，也能讓日常用品收得整齊，心愛物品好好留下。IKEA公開6大收納技巧，並精選10款收納好物，讓居家與生活空間更清爽。",
-      "publishedAt": "2026-09-03T19:24:36.391Z",
-      "discoveredAt": "2026-09-03T19:24:36.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8b7e434a88888a4de619",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9733521?from=edn_newest_index",
-      "title": "清心×咖波「聯名杯」會變色！龜記開賣霜淇淋、迷客夏全新系列上市 2026-09-04 03:19",
-      "description": "清心福全與貓貓蟲咖波「奇幻森林探險隊」聯名第二波紙杯即日起登場，將咖波獨有的迷因式語言搬上9款全新聯名紙杯，帶來「肉肉、啵啵、圓圓、多多、鮮鮮、啾啾、冏冏、QQ、飽飽」等單詞，忠實紀錄咖波探險小隊沿途遇見的各種情境。同步登場的「貓貓蟲咖波變色杯」採特殊材質設計，隨著飲品溫度在淺藍色與深藍色之間變化，預計9月14日11:00開放購買，加購價250元。",
-      "publishedAt": "2026-09-03T19:24:36.391Z",
-      "discoveredAt": "2026-09-03T19:24:36.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

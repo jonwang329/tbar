@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T02:07:08.593Z",
+  "updatedAt": "2026-09-04T02:27:30.699Z",
   "candidates": [
+    {
+      "id": "cand_ab6609caaa1825b685c7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733867",
+      "title": "專訪／微軟攜台供應鏈拚 AI 資料中心效率 全面轉向液冷、回應4提問 | 產業熱點 | 產業 | 經濟日報",
+      "description": "半導體供應鏈高喊應「系統技術協同研發」，微軟全球基礎建設總經理Alistair Speirs接受《經濟日報》專訪，指出微軟資料中心規劃亦採系統級方法（Systems approach），跟台灣供應鏈緊密合作，並披露微軟正全面轉向液冷而策略性使用Neo Cloud現成算力，強調客戶需求遠大於供給沒有泡沫化疑慮。",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9c17e38d94e6588a17a6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9733875?from=edn_maintab_index",
+      "title": "有玄機！輝達129.303億美元收購 Hugging Face 金額竟藏兩幽默彩蛋 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達3日正式宣布，同意以129億美元收購開源AI平台Hugging Face，藉此壯大整個AI生態系服務。不過仔細看看輝達收購Hugging Face的交易金額，別出心裁在數字裡面藏了「彩蛋」。",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9aaed32b8cf646a81427",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9733966?from=edn_newest_index",
+      "title": "這檔 EV 充電股財報優預期 一天狂飆近75% 執行長喊：這只是起點 | 美股動態 | 國際 | 經濟日報",
+      "description": "電動車充電業者ChargePoint的股價周四一天暴漲近75%，創去年股票反分割以來最大漲幅。該公司第2季財報大幅優於華爾街預期，且財測樂觀，執行長威爾默（Rick Wilmer）表示，成長正開始加速，新產品與技術將推動業績攀高。",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_02e8af4bbdcf58a23489",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733960?from=edn_newest_index",
+      "title": "支持率下探 阿根廷總統米雷伊炒作福克蘭群島主權 | 國際焦點 | 國際 | 經濟日報",
+      "description": "隨支持率持續滑落，阿根廷總統米雷伊開始利用聲索福克蘭群島主權凝聚支持者。在米雷伊發表全國演說前，美國總統川普暗示可能重新...",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a11f8c0d30af7376fb64",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733957?from=edn_newest_index",
+      "title": "美軍強制篩檢低睪固酮惹議 五角大廈暫撤政策準則 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國官員今天告訴路透社，五角大廈暫時撤回近期發布的臨床準則。這項準則涉及一項新的強制性政策，要求年滿30歲的軍人接受睪固...",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3961d0d11afad7ca7064",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733956?from=edn_newest_index",
+      "title": "上銀8月營收創49個月高點 下半年展望佳 | 產業熱點 | 產業 | 經濟日報",
+      "description": "傳動元件大廠上銀上午公布8月自結合併營收新台幣27.08億元，月增1%、年增42.3%，續創2022年8月以來高點；累計...",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d7b9644a4863cf9078e8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9733955?from=edn_newest_index",
+      "title": "川普促歐洲償還援烏款項 擬暫停向盟國出售軍火 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普今天表示，將要求歐洲國家償還美國在俄烏戰爭期間向烏克蘭提供的軍援與彈藥，並似乎釋出暫停對盟國出售軍火的訊號",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7084c2f32ca896be723e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 | 產業熱點 | 產業 | 經濟日報",
+      "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
+      "publishedAt": "2026-09-04T02:27:30.699Z",
+      "discoveredAt": "2026-09-04T02:27:30.699Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_52f73dba4e8cd9fc0315",
       "sourceLastModified": null,
@@ -10,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733875",
-      "title": "有玄機！輝達129.303億美元收購 Hugging Face 金額竟藏兩幽默彩蛋 | 美股動態 | 國際 | 經濟日報",
+      "title": "09:55 有玄機！輝達129.303億美元收購 Hugging Face 金額竟藏兩幽默彩蛋",
       "description": "輝達3日正式宣布，同意以129億美元收購開源AI平台Hugging Face，藉此壯大整個AI生態系服務。不過仔細看看輝達收購Hugging Face的交易金額，別出心裁在數字裡面藏了「彩蛋」。",
       "publishedAt": "2026-09-04T02:07:08.593Z",
       "discoveredAt": "2026-09-04T02:07:08.593Z",
@@ -1758,7 +1998,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5129,246 +5369,6 @@
       "description": "台籍女子蔡宜臻（藝名五熊）涉嫌向日本奈良藥師寺國寶「佛足石」潑油，8月22日遭日本警方逮捕。據日媒報導，蔡女昨天被簡易起...",
       "publishedAt": "2026-09-03T14:47:43.604Z",
       "discoveredAt": "2026-09-03T14:47:43.604Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c1496655da7cb2e867ed",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9733236?from=edn_newest_index",
-      "title": "木質生活展台中新光三越登場！12家特色木工坊＋6個小木器品牌齊聚 | 生活 | 要聞 | 經濟日報",
-      "description": "「2026木質生活展」今年首度移師台中。自3日起至9月20日於台中新光三越百貨10樓登場，精選12家台灣在地特色木工坊及6個小木器品牌，展出木製桌、椅、櫃體及各式生活器物，全展區免費開放參觀，邀請民眾走進木質工藝的世界，感受木材與生活美學交織出的溫度。",
-      "publishedAt": "2026-09-03T14:47:43.604Z",
-      "discoveredAt": "2026-09-03T14:47:43.604Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_921758f52149659810d4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9733158",
-      "title": "22:27 金管會公布 TISA 周年成績單 吸金升溫 第二年要闖兩關",
-      "description": "TISA上路滿一年，吸金升溫，但下一階段還得過兩關。據金管會統計，截至8月21日止，TISA開戶數達24萬4,218戶、整體基金申購量101.1億元、基金資產規模（AUM）達210.6億元；下一步要闖產品吸引力與政策誘因兩關。",
-      "publishedAt": "2026-09-03T14:30:07.355Z",
-      "discoveredAt": "2026-09-03T14:30:07.355Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_09dd04dcf6a4a4b0bb93",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9732157",
-      "title": "22:15 欣興捲入洗產地風波 經濟部：持續強化溯源、盡職調查",
-      "description": "PCB暨載板大廠欣興（3037）捲入產品生產地爭議，遭檢調搜索，引發外界對「洗產地」問題的關注。經濟部次長賴建信3日表示，針對個案將尊重司法調查結果。經濟部將持續要求並輔導業者落實盡職調查及產品溯源，協助廠商符合國內外相關法規，降低產地認定爭議。",
-      "publishedAt": "2026-09-03T14:30:07.355Z",
-      "discoveredAt": "2026-09-03T14:30:07.355Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_93bf6a219e1d243212fe",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733217?from=edn_newest_index",
-      "title": "本益比衝破百倍，台虹到底在漲什麼？元太加持＋PTFE新材料成市場兩大想像 2026-09-03 22:24",
-      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
-      "publishedAt": "2026-09-03T14:30:07.355Z",
-      "discoveredAt": "2026-09-03T14:30:07.355Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e834471bead66068986b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733185?from=edn_newest_index",
-      "title": "獨／中榮代刀風波再延燒 疑神外晨會錄音涉廠商開刀 衛生局約談將移送 2026-09-03 22:23",
-      "description": "台中榮總自神經外科部爆出「廠商代刀」風波，導致兩名科主任被法辦後，日前因網路流出該院廖姓網紅醫師與鄒姓主管在案例晨會上因脊椎手術爆發激烈口角的錄音，再度引起外界議論，風波再度延燒。台中市衛生局今天下午已前往台中榮總約談相關人，表示全案待告一段落，會再移送台中地檢署偵辦。",
-      "publishedAt": "2026-09-03T14:30:07.355Z",
-      "discoveredAt": "2026-09-03T14:30:07.355Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_058065045b6d22a6d223",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9733206?from=edn_newest_index",
-      "title": "中東局勢緊張再起 麗星公告燃油附加費10月1日起每人每晚300增為450元 2026-09-03 22:23",
-      "description": "麗星郵輪今天公告，因中東地區局勢緊張再起，燃油價格持續升高，加重相關營運成本，因此將燃油附加費每人每晚從300元調整至新台幣450元，適用於10月1日後新訂位基隆出發的「探索星號」航次。",
-      "publishedAt": "2026-09-03T14:30:07.355Z",
-      "discoveredAt": "2026-09-03T14:30:07.355Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fe2c4d5d3e1a2a5cce53",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9733218?from=edn_newest_index",
-      "title": "今日最夯股／盟立股價衝漲停 有何利多？ | 市場焦點 | 證券 | 經濟日報",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-09-03T14:30:07.355Z",
-      "discoveredAt": "2026-09-03T14:30:07.355Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1f582610a00821bf2a74",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12509/9733220?from=edn_newest_index",
-      "title": "新台幣收31.755元 貶2.7分 | AI 人機協作 | 證券 | 經濟日報",
-      "description": "3日新台幣兌美元匯率收在31.755元，較前一交易日收盤31.728元貶值2.7分。盤中最高價為31.695元、最低價為31.827元，開盤價31.750元，全日成交額為19.32億美元。 （此文章為AI人機協作，正確數據以主管機關為準。）",
-      "publishedAt": "2026-09-03T14:30:07.355Z",
-      "discoveredAt": "2026-09-03T14:30:07.355Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T16:36:50.691Z",
+  "updatedAt": "2026-09-04T16:48:08.958Z",
   "candidates": [
+    {
+      "id": "cand_3a5b0c720a70c56ee78c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/8543/9735589?from=edn_newest_index",
+      "title": "股海自由行／矽光子、輝達 VR 鏈 乘機押寶 | 證券達人 | 證券 | 經濟日報",
+      "description": "台股短線彈升後壓回整理，然可觀察俄烏戰事傳出和談契機，美國經濟數據降溫，壓低升息預期等因素變化，多方可待局勢明朗後，擇機操作。逢大盤整理之際，布局下半年業績成長股，如矽光子相關、輝達Vera Rubin供應鏈、人形機器人供應鏈等。",
+      "publishedAt": "2026-09-04T16:48:08.958Z",
+      "discoveredAt": "2026-09-04T16:48:08.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f4d6b15d6f96bb716004",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9735580?from=edn_newest_index",
+      "title": "信驊釋利多 明年訂單爆發 總量超過今年全年業績 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI伺服器需求持續強勁，遠端伺服器管理晶片（BMC）業者、股王信驊董事長暨總經理林鴻明昨（4）日表示，2027年在手訂單（Backlog）已相當龐大，明年訂單總量甚至超過今年全年營收，是過去從未發生過的情況。",
+      "publishedAt": "2026-09-04T16:48:08.958Z",
+      "discoveredAt": "2026-09-04T16:48:08.958Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c27137bc018073595d8e",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9735586?from=edn_newest_index",
-      "title": "信驊董座林鴻明：AI 助理提升設計生產力 | 產業熱點 | 產業 | 經濟日報",
+      "title": "信驊董座林鴻明：AI 助理提升設計生產力 2026-09-05 00:36",
       "description": "股王信驊董事長暨總經理林鴻明昨（4）日表示，信驊創立之初僅募集3,600萬元資金，如今市值逾7,000億元，這是公司長期經營所創造的價值。他指出，AI已正式進入IC設計流程，在晶片驗證領域帶來顯著效益，未來「AI助理」可望提升設計生產力，縮小晶片設計與製程生產力之間的落差。",
       "publishedAt": "2026-09-04T16:36:50.691Z",
       "discoveredAt": "2026-09-04T16:36:50.691Z",
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735588?from=edn_newest_index",
-      "title": "OpenAI 推「史上最聰明」模型 | 國際焦點 | 國際 | 經濟日報",
+      "title": "OpenAI 推「史上最聰明」模型 2026-09-05 00:35",
       "description": "OpenAI 3日宣布推出最新AI模型GPT-6 Astra，為公司歷來最強、「舉世最聰明的模型」，在軟體工程、科學與網路安全的表現都領先市場，宣示已從同業Anthropic手上奪回技術領先優勢，這也是超過一年以來OpenAI更新ChatGPT版本。",
       "publishedAt": "2026-09-04T16:36:50.691Z",
       "discoveredAt": "2026-09-04T16:36:50.691Z",
@@ -70,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9735584?from=edn_newest_index",
-      "title": "群聯：拿得到貨源才是關鍵 CEO 潘健成直言 NAND 缺貨是定局 | 產業熱點 | 產業 | 經濟日報",
+      "title": "群聯：拿得到貨源才是關鍵 CEO 潘健成直言 NAND 缺貨是定局 2026-09-05 00:33",
       "description": "AI帶動記憶體需求持續升溫，群聯執行長潘健成昨（4）日表示，近期才與兩家快閃記憶體（Flash）原廠開會，對方直言「明年缺口不知道有多大」，NAND Flash供給仍相當吃緊，市場不必再討論Flash會不會缺貨，真正的關鍵是供需緊張之際，「誰有能力拿到更多資源」。",
       "publishedAt": "2026-09-04T16:36:50.691Z",
       "discoveredAt": "2026-09-04T16:36:50.691Z",
@@ -130,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9734315?from=edn_bloomberg_index_side",
-      "title": "前澳洲央行官員確信9月會升息 並預計澳洲房價將下跌10% | 國際焦點 | 國際 | 經濟日報",
+      "title": "前澳洲央行官員確信9月會升息 並預計澳洲房價將下跌10%",
       "description": "【彭博】-- 澳洲央行一位前高級官員認為央行在本月末的政策會議上將再次升息，並預計澳洲房價可能下跌約10%。",
       "publishedAt": "2026-09-04T16:36:50.691Z",
       "discoveredAt": "2026-09-04T16:36:50.691Z",
@@ -564,7 +624,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -744,7 +804,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1625,7 +1685,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 17413",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 17706",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -1909,7 +1969,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1999,7 +2059,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2026,7 +2086,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -3272,7 +3332,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9734748?from=edn_hottest_index",
-      "title": "聯電營收／8月250.45億元創近四年新高 連6月走升 6578",
+      "title": "聯電營收／8月250.45億元創近四年新高 連6月走升 6607",
       "description": "晶圓代工大廠聯電（2303）4日公布8月合併營收250.45億元，月增5.03%、年增30.71%，連續6個月較前月成長，創近四年新高，也是歷史單月第三高。",
       "publishedAt": "2026-09-04T11:45:01.501Z",
       "discoveredAt": "2026-09-04T11:45:01.501Z",
@@ -4831,7 +4891,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9734772?from=edn_hottest_index",
-      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 7811",
+      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 7859",
       "description": "",
       "publishedAt": "2026-09-04T09:54:21.096Z",
       "discoveredAt": "2026-09-04T09:54:21.096Z",
@@ -5313,66 +5373,6 @@
       "url": "https://money.udn.com/money/story/123828/9735018?from=edn_newest_index",
       "title": "霸王茶姬攜手文學IP《小王子》登陸港澳市場 | 全球企業動態 | 商情 | 經濟日報",
       "description": "三款抹茶系列新品、聯名限定周邊及主題體驗門店同步亮相 上海2026年9月4日 /美通社/ -- 全球領先精品現製茶飲企業霸王茶姬（NASDAQ: CHA）今日宣佈，品牌與全球經典文學IP《小王子》的聯名合作將於9月10日正式登陸香港及澳門市場。屆時，三款抹茶系列新品及限定聯名周邊將於港澳門店同步推出；澳門威尼斯人及香港MOKO門店亦將同步打造聯名主題體驗空間，將《小王子》筆下的B-612星球、玫瑰與狐狸等經典意象融入茶飲及門店場景。 此次是霸王茶姬首次在港澳市場與經典文學IP展開聯名。不同於單純將IP形象置於產品或包裝之上，霸王茶姬此次以「純粹」為聯名核心，從抹茶原料、研磨工藝到產品風味，再延伸至視覺設計及門店體驗，將《小王子》所代表的純粹、真摯與連結融入一杯現代茶飲之中，將經典文學IP轉化為可被品嚐、體驗及帶入日常生活的茶飲場景。 三款抹茶系列新品登場 千目研磨呈現抹茶「純粹」風味 此次聯名推出三款抹茶系列新品：抹茶拿鐵、茉見青及星塵綠意。三款新品均以抹茶為核心風味基礎，並透過鮮奶、茉莉綠茶及巧克力曲奇等不同搭配，涵蓋原葉鮮奶茶、冰沙等不同產品形式，呈現抹茶風味的多元層次。 抹茶拿鐵",
-      "publishedAt": "2026-09-04T09:04:45.258Z",
-      "discoveredAt": "2026-09-04T09:04:45.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_88cb9b1a14571100383b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9735016?from=edn_newest_index",
-      "title": "ITP Media Group 完成亞太地區的 Heart Media Group 重大收購，而於亞洲開始國際擴張 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "這是中東總部企業 40 年歷史中的里程碑交易，締造世界領先獨立媒體集團之一——該公司正在著眼於進一步國際成長。 杜拜、阿聯酋、新加坡和馬來西亞吉隆坡2026年9月4日 /美通社/ -- ITP Media Group 是中東最大媒體公司之一，今天宣佈收購新加坡為總部的領先奢侈品與生活品味媒體公司 Heart Media Group。該已合併公司現時將於超過 20 億人口市場中營運，連結多個品牌與 GCC、印度和亞太地區的富裕消費者。 Ali Akawi, CEO - ITP Media Group ITP Media 收購 Heart Media 的營運，擴展業務至三個新國際市場：香港、馬來西亞和新加坡。Heart Media 旗下品牌與團隊將以 ITP Media 名義運營，並利用分階段整合，保護編輯身份、客戶關係和觀眾信任。它建基於 ITP Media 的現有印度、黎巴嫩、沙地阿拉伯、阿聯酋、英國、美國和卡達業務。 東南亞現代表為媒體與娛樂產業最迅速增長市場之一，每年增長 6%，部份市場甚至高達 8.4% (PwC Global E&M Outlook).。ITP Media 的投",
-      "publishedAt": "2026-09-04T09:04:45.258Z",
-      "discoveredAt": "2026-09-04T09:04:45.258Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bdb0157cf29e218e55d4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735014?from=edn_newest_index",
-      "title": "OpenAI 發布最先進模型 號稱超越 Anthropic 象徵 AGI 時代開端 | 國際焦點 | 國際 | 經濟日報",
-      "description": "OpenAI在3日發布最新款人工智慧（AI）模型「GPT-6 Astra」，為該公司歷來最強、並號稱為「舉世最聰明的模型」，在軟體工程、科學與網路安全的表現都領先市場，宣示已從同業Anthropic手上奪回技術領先優勢。",
       "publishedAt": "2026-09-04T09:04:45.258Z",
       "discoveredAt": "2026-09-04T09:04:45.258Z",
       "topics": [

@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T05:12:48.360Z",
+  "updatedAt": "2026-09-04T05:27:25.175Z",
   "candidates": [
+    {
+      "id": "cand_7bbddc946df77018cc62",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734360",
+      "title": "影／特斯拉 Cybercab 來了！沒有方向盤和踏板 助力擴張自駕計程車 | 國際焦點 | 國際 | 經濟日報",
+      "description": "特斯拉（Tesla）備受期待的兩人座自駕計程車Cybercab正式亮相，沒有方向盤或油門踏板，只有螢幕，採用上掀式蝶翼車門，並且在德州奧斯丁的「有限地區」提供服務，激勵特斯拉與SpaceX股價「雙漲」，SpaceX市值更重返2兆美元大關。",
+      "publishedAt": "2026-09-04T05:27:25.175Z",
+      "discoveredAt": "2026-09-04T05:27:25.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_040603b083e6b5268ae0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9734451?from=edn_newest_index",
+      "title": "台股高檔整理 法人揭三選股指標 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美國聯準會（FED）主席華許在全球央行年會上釋出鷹派言論，表明除非確定通膨明確且快速降至2%目標，否則仍有採取行動的必要，根據芝商所（CME）FedWatch最新數據，市場對9月升息的預期已上升逾六成。中國信託台灣活力基金經理人徐啟葳指出，短線台股將持續高檔震盪，市場靜待9月聯準會利率決議，若利率維持不變，加上NVIDIA第3季拉貨潮，相關概念股可望延續多頭走勢，反之，若聯準會決議升息，台股可能將出現一波估值修正。",
+      "publishedAt": "2026-09-04T05:27:25.175Z",
+      "discoveredAt": "2026-09-04T05:27:25.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_01eb2378b0faff03b8bb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9734446?from=edn_newest_index",
+      "title": "日大廠傳再漲 PCB 材料價格 法人按讚「這幾檔」台廠 | 市場焦點 | 證券 | 經濟日報",
+      "description": "日本Panasonic日前傳出再度調漲銅箔基板（CCL）、半固化片（PP）、IC載板等多項材料報價，投顧法人指出，除持續看好台光電（2383）、台燿（6274）、聯茂（6213）、南亞（1303）等CCL廠外，同時按讚欣興（3037）、南電（8046）、臻鼎-KY（4958）等載板廠。",
+      "publishedAt": "2026-09-04T05:27:25.175Z",
+      "discoveredAt": "2026-09-04T05:27:25.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_098ec565738645e3cfe0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734443?from=edn_newest_index",
+      "title": "林肯號鏽跡嚇壞人！專家揭除鏽保養流程 置之不理恐像傳染病擴散 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國海軍「林肯號」（USS Abraham Lincoln）航空母艦2日駛入泰國港口時，從艦艏到艦艉都布滿鏽跡，讓觀察人士大吃一驚。不過，專家表示，據美國海軍說法，林肯號自2025年11月離開母港聖地牙哥後，已在海上度過286天，期間還在中東參與數月針對伊朗的作戰及封鎖行動，出現這樣的鏽蝕並不意外。",
+      "publishedAt": "2026-09-04T05:27:25.175Z",
+      "discoveredAt": "2026-09-04T05:27:25.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f75ef2e5fe9f1c0cc420",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734442?from=edn_newest_index",
+      "title": "商研院：出口帶動台灣經濟外熱內溫 應防產業發展不均 | 產業熱點 | 產業 | 經濟日報",
+      "description": "商研院今天發布最新商業服務業景氣循環預測指出，AI帶動台灣製造業與出口強勁成長，使台灣經濟呈「外熱內溫」，同時擴大產業發...",
+      "publishedAt": "2026-09-04T05:27:25.175Z",
+      "discoveredAt": "2026-09-04T05:27:25.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e7c0dee739357e37b71e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734439?from=edn_newest_index",
+      "title": "餐飲業新品牌跨界搶客 豆府攻南洋、全家餐飲推麵食、金色三麥跨中式 | 產業熱點 | 產業 | 經濟日報",
+      "description": "餐飲業下半年掀起新品牌潮，豆府（2752）旗下全新南洋料理品牌「日日南洋」預計9月中下旬登場，全家餐飲（7708）也預告第4季將推出集團第四個品牌、首度跨足麵食市場；金色三麥（7757）、路易莎（2758）近期也分別推出中式餐飲品牌「三麥茶樓」及鍋物品牌「和牛鍋敘」。從韓式、日式定食、西歐式餐酒料理及咖啡起家的餐飲業者，紛紛跨出原本擅長的領域，透過新品類擴大客群，為營運尋找新動能。",
+      "publishedAt": "2026-09-04T05:27:25.175Z",
+      "discoveredAt": "2026-09-04T05:27:25.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_27101e800e0d95494e1d",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9734354",
-      "title": "被動元件多頭點火！華新科、禾伸堂、金山電亮燈漲停 | 市場焦點 | 證券 | 經濟日報",
+      "title": "13:09 被動元件多頭點火！華新科、禾伸堂、金山電亮燈漲停",
       "description": "台股今（4）日受到美股昨日走高表態大漲500點，其中，被動元件族群成為盤面焦點，華新科（2492）、禾伸堂（3026）及金山電（8042）三檔齊亮燈漲停，分別攻上298.5元、701元及110.5元，族群買氣全面升溫。",
       "publishedAt": "2026-09-04T05:12:48.360Z",
       "discoveredAt": "2026-09-04T05:12:48.360Z",
@@ -2197,7 +2377,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
-      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10025",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10056",
       "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
       "publishedAt": "2026-09-04T02:27:30.699Z",
       "discoveredAt": "2026-09-04T02:27:30.699Z",
@@ -3975,7 +4155,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5194,186 +5374,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2445bfab5f2f1ea2b330",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9733576?from=edn_newest_index",
-      "title": "FP Markets：全球債券市場警鐘敲響 2026-09-04 03:00",
-      "description": "",
-      "publishedAt": "2026-09-03T19:10:34.289Z",
-      "discoveredAt": "2026-09-03T19:10:34.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5627d89281a5e608be8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733324?from=edn_newest_index",
-      "title": "美伊衝突加劇 油價上漲 以色列暗示擴大介入戰爭 2026-09-04 02:41",
-      "description": "伊朗發動新一輪報復性打擊，而以色列也暗示準備加大對這場戰爭的介入，進一步加劇了該地區能源供應風險，引發油價上漲。知情人士則透露，現在美國國防部長赫塞斯正悄悄延長美軍部署，顯示這場衝突很可能會一路延續至2027年。",
-      "publishedAt": "2026-09-03T18:43:26.461Z",
-      "discoveredAt": "2026-09-03T18:43:26.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1d61ea4bf2bee719aa8c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733340?from=edn_newest_index",
-      "title": "OpenAI、紐時訴訟 美司法部介入 2026-09-04 02:40",
-      "description": "川普政府介入OpenAI與紐約時報之間的版權訴訟。司法部在1日提交的法院文件中，主張OpenAI用大量網路文本訓練模型，受版權法「合理使用」原則的保護。",
-      "publishedAt": "2026-09-03T18:43:26.461Z",
-      "discoveredAt": "2026-09-03T18:43:26.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a05ccdf9b5b3b43eb9ca",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733342?from=edn_newest_index",
-      "title": "創投標的 轉向「抗 AI 衝擊」資產 2026-09-04 02:39",
-      "description": "創投家的投資標的，通常都跟遠在天邊、先進高端的科技相關，不過近來他們看著AI如此快速發展，反而轉向提供實際體驗的產業，像是運動、旅遊、賭場等能夠「抗AI衝擊」的資產，進行避險。",
-      "publishedAt": "2026-09-03T18:43:26.461Z",
-      "discoveredAt": "2026-09-03T18:43:26.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7f48696785625ae0d6bf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9733312?from=edn_newest_index",
-      "title": "輝達129億美元併購 AI 開源平台 Hugging Face 跨足非硬體領域 2026-09-04 02:38",
-      "description": "輝達3日正式宣布，同意以129億美元收購開源人工智慧（AI）平台Hugging Face，跨足硬體以外領域，進一步壯大在AI各領域的版圖。",
-      "publishedAt": "2026-09-03T18:43:26.461Z",
-      "discoveredAt": "2026-09-03T18:43:26.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8fe92aa04be89ade2b3e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733318?from=edn_newest_index",
-      "title": "韓電力公司找 DRAM 雙雄籌錢 商談電費預繳方案 2026-09-04 02:37",
-      "description": "南韓半導體和人工智慧（AI）用電需求急增，電網建設資金卻跟不上。韓國電力公社（KEPCO，簡稱韓電）正和三星電子、SK海力士商談電費預繳方案，希望由兩大晶片業者提前支付未來數年電費，籌措興建半導體聚落輸電網和變電設施所需資金，同時確保新廠能及時取得電力。",
-      "publishedAt": "2026-09-03T18:43:26.461Z",
-      "discoveredAt": "2026-09-03T18:43:26.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

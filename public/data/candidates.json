@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T23:24:19.951Z",
+  "updatedAt": "2026-09-04T23:35:24.416Z",
   "candidates": [
+    {
+      "id": "cand_9c821f9140cec3942199",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735830?from=edn_newest_index",
+      "title": "盧比歐將訪哥倫比亞、厄瓜多與秘魯 討論震災、打擊毒品 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國國務卿盧比歐下週將訪問南美洲國家哥倫比亞、厄瓜多及秘魯，討論美國對哥倫比亞震災救援的支援、深化共同打擊威脅西半球的毒...",
+      "publishedAt": "2026-09-04T23:35:24.416Z",
+      "discoveredAt": "2026-09-04T23:35:24.416Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_15051c0be2eb5ff24c3d",
       "sourceLastModified": null,
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -114,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1284,7 +1314,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3275,7 +3305,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 22379",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 22507",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -3635,7 +3665,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 20087",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 20148",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5361,36 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e4bab1d5c9558785387a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9735174?from=edn_maintab_index",
-      "title": "外資資金大回血！8月狂掃台股2,206億元、淨匯入166億美元寫同期新高 金管會4日公布最新外資及陸資投資國內資金匯出入情形。受全球主要科技巨頭獲利強勁與AI題材帶動，外資於8月份「股匯雙回補」的趨勢，8月單月外資淨匯入達166.06億美元，終結7月份淨匯出局勢，累計今...",
-      "description": "金管會4日公布最新外資及陸資投資國內資金匯出入情形。受全球主要科技巨頭獲利強勁與AI題材帶動，外資於8月份「股匯雙回補」的趨勢，8月單月外資淨匯入達166.06億美元，終結7月份淨匯出局勢，累計今年前8月，外陸資累計淨匯入規模達903.31億美元，為史上同期第一大累計淨匯入；8月亦買超台股上市櫃股票達2,206.44億元。",
-      "publishedAt": "2026-09-04T10:56:53.624Z",
-      "discoveredAt": "2026-09-04T10:56:53.624Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

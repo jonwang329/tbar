@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T10:56:53.624Z",
+  "updatedAt": "2026-09-04T11:13:42.346Z",
   "candidates": [
+    {
+      "id": "cand_d83b99350c5132c6be38",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9734748",
+      "title": "聯電營收／8月250.45億元創近四年新高 連6月走升 | 集中市場 | 證券 | 經濟日報",
+      "description": "晶圓代工大廠聯電（2303）4日公布8月合併營收250.45億元，月增5.03%、年增30.71%，連續6個月較前月成長，創近四年新高，也是歷史單月第三高。",
+      "publishedAt": "2026-09-04T11:13:42.346Z",
+      "discoveredAt": "2026-09-04T11:13:42.346Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b194a6444a680214ce4f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9735254?from=edn_newest_index",
+      "title": "外資買超逾562億元 敲進電子股調節面板雙虎 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台股今天漲693.47點，收在46551.13點，三大法人合計買超628億元，外資買超逾562億元，敲進仁寶、聯電、鴻海...",
+      "publishedAt": "2026-09-04T11:13:42.346Z",
+      "discoveredAt": "2026-09-04T11:13:42.346Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_58d236fa12d7adc68a88",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735253?from=edn_newest_index",
+      "title": "賽普勒斯外海渡輪翻覆增至12死 仍有16人失蹤 | 國際焦點 | 國際 | 經濟日報",
+      "description": "賽普勒斯北方外海日前發生渡輪翻覆事故。官員表示，救難人員今天再發現兩具女性遺體，使得死亡人數上升至12人，仍有16人下落...",
+      "publishedAt": "2026-09-04T11:13:42.346Z",
+      "discoveredAt": "2026-09-04T11:13:42.346Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cb105dcdd461016ee72f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9735252?from=edn_newest_index",
+      "title": "中租控股：支持美台等地AI算力中心、供應鏈投融資 | 產業熱點 | 產業 | 經濟日報",
+      "description": "第2屆「中租創新論壇」以「AI x Energy2.0算力、能源驅動人工智慧」為題於今天登場，中租控股董事長陳鳳龍表示，...",
+      "publishedAt": "2026-09-04T11:13:42.346Z",
+      "discoveredAt": "2026-09-04T11:13:42.346Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_731d2e02cb38e22f0abf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9735249?from=edn_newest_index",
+      "title": "慧榮科技完成歐盟「網路韌性法案」合規計畫的初步階段 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "NAND晶片大廠慧榮科技4日宣布完成歐盟「網路韌性法案」（CRA）合規計畫的初步階段。慧榮表示，經公司內部全面評估後，公司已依據將於2026年9月11日生效的CRA事件通報要求，調整產品網路安全控管措施與相關流程，並針對CRA所規範的主要要求領域建立漏洞處理機制，持續為CRA合規做好準備。",
+      "publishedAt": "2026-09-04T11:13:42.346Z",
+      "discoveredAt": "2026-09-04T11:13:42.346Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0022c2cef0308949a891",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9735218?from=edn_newest_index",
+      "title": "影／基隆外木山沙灘大水切兩半縮時影像曝 大雨狂炸驚人威力 | 生活 | 要聞 | 經濟日報",
+      "description": "基隆市今天大雨狂炸，多處路段豪雨成災，基金一路、南榮路、麥金路、西定路、義一路、義二路等都淹水，甚至有淹到腰部，市府統計過去24小時降雨281毫米，最大時雨量破70毫米。其中外木山大武崙沙灘被大水切成兩半，約1小時大雨沖刷縮時影像曝光。",
+      "publishedAt": "2026-09-04T11:13:42.346Z",
+      "discoveredAt": "2026-09-04T11:13:42.346Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c518ba6fef25f100928f",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9734938",
-      "title": "央行：8月外匯存底金額為6,019.04億美元 月增76.33億美元 | 金融脈動 | 金融 | 經濟日報",
+      "title": "18:46 央行：8月外匯存底金額為6,019.04億美元 月增76.33億美元",
       "description": "央行今公布8月外匯存底金額為6,019.04億美元，月增76.33億美元，重新站回6,000億美元大關。",
       "publishedAt": "2026-09-04T10:56:53.624Z",
       "discoveredAt": "2026-09-04T10:56:53.624Z",
@@ -40,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9735174?from=edn_maintab_index",
-      "title": "外資資金大回血！8月狂掃台股2,206億元、淨匯入166億美元寫同期新高 | 金融脈動 | 金融 | 經濟日報",
+      "title": "外資資金大回血！8月狂掃台股2,206億元、淨匯入166億美元寫同期新高 金管會4日公布最新外資及陸資投資國內資金匯出入情形。受全球主要科技巨頭獲利強勁與AI題材帶動，外資於8月份「股匯雙回補」的趨勢，8月單月外資淨匯入達166.06億美元，終結7月份淨匯出局勢，累計今...",
       "description": "金管會4日公布最新外資及陸資投資國內資金匯出入情形。受全球主要科技巨頭獲利強勁與AI題材帶動，外資於8月份「股匯雙回補」的趨勢，8月單月外資淨匯入達166.06億美元，終結7月份淨匯出局勢，累計今年前8月，外陸資累計淨匯入規模達903.31億美元，為史上同期第一大累計淨匯入；8月亦買超台股上市櫃股票達2,206.44億元。",
       "publishedAt": "2026-09-04T10:56:53.624Z",
       "discoveredAt": "2026-09-04T10:56:53.624Z",
@@ -683,7 +863,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -713,7 +893,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1149,7 +1329,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9734772?from=edn_hottest_index",
-      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 4529",
+      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 4770",
       "description": "",
       "publishedAt": "2026-09-04T09:54:21.096Z",
       "discoveredAt": "2026-09-04T09:54:21.096Z",
@@ -1959,7 +2139,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9734823?from=edn_hottest_index",
-      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 6841",
+      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 6972",
       "description": "富時羅素公布下列有關臺灣50指數、臺灣中型100指數、臺灣資訊科技指數、臺灣發達指數及臺灣高股息指數審核結果。相關成分股納入及刪除變動將自2026年9月18日（星期五）交易結束後生效（亦即自2026年9月21日（星期一）起生效）。如有指數成分股在下次定期審核前之期間被刪除，將以本次候補名單遞補，候補名單自即日起生效。",
       "publishedAt": "2026-09-04T08:47:35.924Z",
       "discoveredAt": "2026-09-04T08:47:35.924Z",
@@ -2769,7 +2949,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9733044?from=edn_hottest_index",
-      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4962",
+      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4964",
       "description": "台指期夜盤3日以45,902點開高，盤中走勢持續震盪。截至傍晚8點10分，台指期夜盤暫報45,843點、漲24點、漲幅0.05%。剛開盤多方試圖率先攻擊，最高達46,136點，隨後空頭賣壓再起由紅翻黑、最低暫達45,800點，高低點震盪336點，46K大關暫時得而復失，持續於45,800點附近震盪。",
       "publishedAt": "2026-09-04T07:37:34.580Z",
       "discoveredAt": "2026-09-04T07:37:34.580Z",
@@ -4174,7 +4354,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733177?from=edn_hottest_index",
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6860",
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6864",
       "description": "美股周四（3日）早盤三大指數走高，美國國債殖利率回落，聯準會（Fed）升息壓力減輕，交易員持續關注油價走勢，並等待本周稍晚公布最新的美國就業數據。",
       "publishedAt": "2026-09-04T05:45:25.019Z",
       "discoveredAt": "2026-09-04T05:45:25.019Z",
@@ -5212,186 +5392,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e129a66b0620e7cfe3ae",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9734249?from=edn_newest_index",
-      "title": "習近平訪埃及 網友：埃及看板寫歡迎中華民國總統 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "大陸國家主席習近平日前訪問埃及，雙方合作關係大幅推進，不過有網友發現，埃及方面準備的歡迎看板，竟然寫成歡迎「中華民國」總統。",
-      "publishedAt": "2026-09-04T04:13:55.074Z",
-      "discoveredAt": "2026-09-04T04:13:55.074Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90cf9d96db8c9a27ff99",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9734247?from=edn_newest_index",
-      "title": "小米汽車宣布2027年進入歐洲市場 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "小米汽車宣布，2027年正式進入歐洲市場，該公司並與8家德國汽車經銷商簽署合作備忘錄",
-      "publishedAt": "2026-09-04T04:13:55.074Z",
-      "discoveredAt": "2026-09-04T04:13:55.074Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_88d53f0bf83cf47e8fe1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9734206?from=edn_newest_index",
-      "title": "伊朗婚禮遇襲釀4死68傷 專家研判疑遭美彈藥直擊 | 國際焦點 | 國際 | 經濟日報",
-      "description": "武器專家分析經路透社核實的照片與影像後指出，1日摧毀伊朗南部一場婚禮造成4死至少68傷的爆炸事件，很可能是遭美國彈藥直接...",
-      "publishedAt": "2026-09-04T03:56:28.652Z",
-      "discoveredAt": "2026-09-04T03:56:28.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5c05c10ad7bc842a5770",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9734205?from=edn_newest_index",
-      "title": "分享施政經驗勉沈伯洋 陳其邁：碰到問題不要迴避 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "高雄市長陳其邁今天出席新書發表會，媒體詢問有何施政治理經驗可以分享給民進黨提名台北市長參選人沈伯洋等人，陳其邁說，其實沒...",
-      "publishedAt": "2026-09-04T03:56:28.652Z",
-      "discoveredAt": "2026-09-04T03:56:28.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1a8410d29e7c46911220",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9734204?from=edn_newest_index",
-      "title": "布局半導體先進封裝雷射技術 台灣擴大與立陶宛合作 | 產業熱點 | 產業 | 經濟日報",
-      "description": "工研院今天與立陶宛雷射協會、立陶宛物理科學暨科技中心、台灣電子製造設備工業同業公會及台灣區電機電子工業同業公會簽署合作備...",
-      "publishedAt": "2026-09-04T03:56:28.652Z",
-      "discoveredAt": "2026-09-04T03:56:28.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74337cba825d666df67c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9734203?from=edn_newest_index",
-      "title": "川普「經濟 D-Day」見效？伊朗高層人士認了：愈來愈難承受 | 國際焦點 | 國際 | 經濟日報",
-      "description": "川普政府近來對伊朗發動新一波經濟攻勢，被形容為「經濟D-Day」，如今開始看出效果。3名伊朗高層消息人士告訴路透，美國透過封鎖石油出口、堵住規避制裁管道，正把伊朗逼入愈來愈難以承受的處境。",
-      "publishedAt": "2026-09-04T03:56:28.652Z",
-      "discoveredAt": "2026-09-04T03:56:28.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

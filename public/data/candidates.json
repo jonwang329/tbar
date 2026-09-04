@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T02:56:10.046Z",
+  "updatedAt": "2026-09-04T03:13:22.005Z",
   "candidates": [
+    {
+      "id": "cand_f3a99b7e5c3d7e749df5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9733991",
+      "title": "「二婚男」往生祖產怎麼分？他做一事避免大家搶遺產 | 房市話題 | 房市 | 經濟日報",
+      "description": "根據內政部統計，台灣離婚率高居亞洲第二位，每年約有5.2萬至5.3萬對夫妻離婚。資深地政士表示，離婚衍生的遺產繼承，常常比想像的還麻煩。",
+      "publishedAt": "2026-09-04T03:13:06.782Z",
+      "discoveredAt": "2026-09-04T03:13:06.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_86dde2e54f7df7411ad3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9733966?from=edn_maintab_index",
+      "title": "這檔 EV 充電股財報優預期 一天狂飆近75% 執行長喊：這只是起點 | 美股動態 | 國際 | 經濟日報",
+      "description": "電動車充電業者ChargePoint的股價周四一天暴漲近75%，創去年股票反分割以來最大漲幅。該公司第2季財報大幅優於華爾街預期，且財測樂觀，執行長威爾默（Rick Wilmer）表示，成長正開始加速，新產品與技術將推動業績攀高。",
+      "publishedAt": "2026-09-04T03:13:06.782Z",
+      "discoveredAt": "2026-09-04T03:13:06.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a3ab1beb1f16e71aae86",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9734097?from=edn_newest_index",
+      "title": "巨茂攜手富邦證啟動IPO輔導 發表智能氣櫃搶進晶圓廠商機 | 市場焦點 | 證券 | 經濟日報",
+      "description": "半導體全廠氣體系統供應商巨茂應用材料4日於台北生技園區與富邦證券舉行上市櫃輔導簽約儀式，正式邁向資本市場。巨茂同步於SEMICON 2026期間發表智能高安全氣櫃與智慧氣體管理方案，展示從全廠統包工程（Turnkey Solution）延伸至控制器升級、數據整合與預測維護的技術成果，全面搶進先進晶圓廠智慧化與安全管理商機。",
+      "publishedAt": "2026-09-04T03:13:06.782Z",
+      "discoveredAt": "2026-09-04T03:13:06.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_edfaba6b37f83e9a82ab",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11800/9732241?from=edn_newest_index",
+      "title": "手、腳多汗影響生活別再忍 諮詢醫師討論適合的治療方式 | 健康元氣 | 商情 | 經濟日報",
+      "description": "寫字總要先墊張紙、握手前總要悄悄把手往衣服上擦、鞋襪更是常常一整天濕黏不適——對手足多汗族群而言，這些不只是日常生活中的小困擾，更可能影響工作、學習、人際互動與自信，甚至增加皮膚問題。當排汗超出身體調節體溫所需，並反覆干擾日常生活，就須正視並尋求合適的改善方式。 林政賢皮膚科診所院長林政賢醫師指出，目前手足多汗已有多種治療選擇，包括外用止汗劑、口服藥物、肉毒桿菌素注射、離子電泳及交感神經手術等，各有不同的治療特色與考量。其中，離子電泳屬於非侵入性的局部治療方式之一，民眾可依自身出汗程度、生活型態及治療需求，與醫師討論適合的治療方式。 手足多汗治療不只一種 醫：影響生活應主動就醫評估 「很多人從小就比較容易流手汗、腳汗，久了甚至覺得只能習慣。」林政賢醫師表示，當出汗已需要反覆擦手、影響書寫或操作設備，甚至開始避開握手等社交情境，就代表多汗已干擾生活功能，建議主動至皮膚科評估，選擇合適的治療方式。目前針對手掌與足底多汗，已有多種不同的治療選擇，且手足多汗往往需要持續管理，並非一次治療就能永久改善。 「有人不介意打針，有人希望避免侵入性治療，也有人最大的限制其實是沒有時間頻繁往返醫療院所",
+      "publishedAt": "2026-09-04T03:13:06.782Z",
+      "discoveredAt": "2026-09-04T03:13:06.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e0b682215e83e87f00d2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734070?from=edn_newest_index",
+      "title": "企業導入 AI 怕失控？勤業眾信、和碩聯手推一站式解方 | 產業熱點 | 產業 | 經濟日報",
+      "description": "勤業眾信與和碩聯合科技（4938）宣布簽署合作備忘錄（MOU），雙方將整合AI策略、治理顧問能力與企業級AI數位雙生平台，為企業提供從策略規劃、平台導入到實際落地的一站式AI解決方案，並以「做得出、管得住、撐得住」三大方向，協助企業降低AI導入門檻。",
+      "publishedAt": "2026-09-04T03:13:06.782Z",
+      "discoveredAt": "2026-09-04T03:13:06.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_574644f87e1b1fbec1ec",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734062?from=edn_newest_index",
+      "title": "從液態肥研發到碳匯合作 台肥台大深化產學連結 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台灣肥料公司今天宣布3日與國立台灣大學生物資源暨農學院簽署合作備忘錄（MOU）。台肥總經理陳右欣表示，將以開發複合型液態...",
+      "publishedAt": "2026-09-04T03:13:06.782Z",
+      "discoveredAt": "2026-09-04T03:13:06.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3fe234ff6691bbf2ff26",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9734060?from=edn_newest_index",
+      "title": "銳珂醫療升級 DRX-LC 探測器，進一步提升長幅成像性能 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "上海2026年9月4日 /美通社/ -- 銳珂醫療（Carestream Healthcare International）推出最新版 DRX-LC 探測器，進一步提升長幅成像在多種檢查及臨床環境下的影像性能、檢查效率與圖像品質。 Carestream New DRX-LC Detector 傳統長幅成像往往流程耗時且操作複雜，通常需要進行多次曝光並完成圖像拼接。銳珂 DRX-LC 探測器透過單次曝光長幅成像簡化這一流程，使放射技師能夠透過一次曝光完成長骨和脊柱檢查。該方式有助於縮短患者保持體位的時間、減少重複攝影、提升患者舒適度，同時優化檢查流程。 最新版 DRX-LC 探測器在原有基礎上進一步整合先進技術，並藉助 AI 提升檢查一致性與圖像品質。 探測器曝光控制（Detector Exposure Control，DEC*）可自動調節成像參數，實現精準、一致的曝光，有助於減少不同檢查之間的差異、優化輻射劑量，並提升診斷準確性。 智能降噪（Smart Noise Cancellation，SNC）則透過降低圖像噪聲並保留細微結構，進一步提升圖像清晰度，在更低劑量條件下依然支援高品質影",
+      "publishedAt": "2026-09-04T03:13:06.782Z",
+      "discoveredAt": "2026-09-04T03:13:06.782Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_310717893daf52597ea8",
       "sourceLastModified": null,
@@ -550,7 +760,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
-      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 9366",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 9457",
       "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
       "publishedAt": "2026-09-04T02:27:30.699Z",
       "discoveredAt": "2026-09-04T02:27:30.699Z",
@@ -2032,7 +2242,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2060,7 +2270,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2088,7 +2298,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2683,7 +2893,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -4975,7 +5185,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://www.businessweekly.com.tw/business/indep/1007031",
-      "title": "聚焦智慧製造與材料創新 TaipeiPLAS 2026展現塑橡膠產業新動能｜商周",
+      "title": "聚焦智慧製造與材料創新 TaipeiPLAS 2026展現塑橡膠產業新動能",
       "description": "備受關注的「2026年台北國際塑橡膠工業展（TaipeiPLAS 2026）」將於九月十五至十九在南港展覽館一館登場，聚焦「智慧製造」、「創新材料」與「永續循環」三大主軸，吸引國內外買主與企業參與。",
       "publishedAt": "2026-09-04T00:00:00+08:00",
       "discoveredAt": "2026-09-04T02:56:10.046Z",
@@ -5173,216 +5383,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7553e9cfd13db6c6fab4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733462?from=edn_newest_index",
-      "title": "Fed本月會不會升息？周五就業報告是一大關鍵 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國聯準會（Fed）本月會不會升息？Fed主席華許已對日後升息持更開放的態度，市場預期9月升息機率已超過六成。分析師指出，周五（4日）出爐的8月就業報告，以及下周發布的通膨數據，將是關鍵。",
-      "publishedAt": "2026-09-03T15:55:06.598Z",
-      "discoveredAt": "2026-09-03T15:55:06.598Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a787ce9c6f606020d7c4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9732979?from=edn_newest_index",
-      "title": "直得接單暴衝 業績熱轉 | 集中市場 | 證券 | 經濟日報",
-      "description": "AI搶CPO設備，全球CPO設備龍頭廠包下直得產能，直得「線性滑軌」訂單爆量。直得科技（1597）線性馬達等相關產品接單「暴衝」，近期一口氣接獲國際CPO設備龍頭大廠數千套訂單，較去年全年訂單量成長近30倍，能見度直達明年第1季。",
-      "publishedAt": "2026-09-03T15:40:07.985Z",
-      "discoveredAt": "2026-09-03T15:40:07.985Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1239e8e23b8d8418ec6e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9733014?from=edn_newest_index",
-      "title": "鳳凰進軍航空代理商機 | 集中市場 | 證券 | 經濟日報",
-      "description": "旅行社搶進航空業地盤，鳳凰攜星悅攻北九州。鳳凰旅遊（5706）攜手日本星悅航空（STARFLYER），重啟台北（桃園）—北九州航線。",
-      "publishedAt": "2026-09-03T15:40:07.985Z",
-      "discoveredAt": "2026-09-03T15:40:07.985Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_22667e772eeb47cd1187",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9732982?from=edn_newest_index",
-      "title": "亞德客合併營收寫最強8月 | 集中市場 | 證券 | 經濟日報",
-      "description": "氣動元件龍頭亞德客-KY（1590）昨（3）日公布8月自結合併營收37.07億元，年增43.3%，創單月營收同期新高；累計前八月合併營收298.79億元、年增34.1%，也創歷年同期新高，整體氣動元件成長持續看旺。",
-      "publishedAt": "2026-09-03T15:40:07.985Z",
-      "discoveredAt": "2026-09-03T15:40:07.985Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a94cdad44d1f1dfe376e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9732983?from=edn_newest_index",
-      "title": "台肥下半年營運升溫 | 集中市場 | 證券 | 經濟日報",
-      "description": "台肥（1722）昨（3）日在80周年記者會後表示，在原料採購多元化、價格持穩，及政府補助增加，下半年營運有望優於上半年，全年力拚肥料本業虧損縮減5億元；不動產方面，2028、2029年預計南港C4、新竹D7b案陸續完工，滿租後每年可望新增6.7億元租金收入。",
-      "publishedAt": "2026-09-03T15:40:07.985Z",
-      "discoveredAt": "2026-09-03T15:40:07.985Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_121beffec19e6f092dc4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9732984?from=edn_newest_index",
-      "title": "安基新藥申請美三期臨床 | 櫃買動態 | 證券 | 經濟日報",
-      "description": "安基生技（7754）昨（3）日公告，該公司用於治療脊髓延髓肌肉萎縮症（SBMA,甘迺迪氏症）的開發中新藥AJ201，已向美國食品藥物管理局（FDA）提出三期臨床試驗審查申請（IND），公司的國際授權談判同步升溫。",
-      "publishedAt": "2026-09-03T15:40:07.985Z",
-      "discoveredAt": "2026-09-03T15:40:07.985Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_819190dd6f175c6f9398",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733361",
-      "title": "23:16 AI狂潮不僅帶旺輝達 電力與散熱供應商也大啖7兆美元商機",
-      "description": "最新一期的經濟學人雜誌在封面故事中探討輝達（Nvidia）執行長黃仁勳在「人工智慧（AI）熱潮的核心魔術師角色」，以及如何成為「AI界的泰勒絲」。但這股AI狂潮的最大受惠者不只有輝達，電力設備、散熱等供應商也在搶吃這個規模達7兆美元的商機。",
-      "publishedAt": "2026-09-03T15:25:00.835Z",
-      "discoveredAt": "2026-09-03T15:25:00.835Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

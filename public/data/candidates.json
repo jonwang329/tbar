@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T09:04:45.258Z",
+  "updatedAt": "2026-09-04T09:22:27.493Z",
   "candidates": [
+    {
+      "id": "cand_861708175ce2fedcabc4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9734647",
+      "title": "國巨飆漲停 華新科、禾伸堂也亮燈 被動元件股同步狂飆 | 市場焦點 | 證券 | 經濟日報",
+      "description": "國巨*（2327）受邀參加4日盤後由Citi舉辦的Citi 2026 Semicon Tour投資人說明會，將針對公司營運及產業概況向投資機構做說明，買盤則是提早卡位法說會行情，股價衝上漲停562元收盤，龍頭股大漲領軍被動元件族群狂飆，華新科（2492）、禾伸堂（3026）、大毅（2478）、金山電（8042）等同步亮燈漲停，信昌電（6173）也一度亮燈，終場收漲8.09%。",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_655d78e71177af579507",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734999",
+      "title": "巴拿馬運河限航壓力升溫 SCFI 運價連六漲、美西線續揚4.4% | 產業熱點 | 產業 | 經濟日報",
+      "description": "巴拿馬運河受到降雨不足加劇乾旱影響，推升運價指數連六漲，最新一期上海集裝箱出口(SCFI)運價指數於4日出爐，指數上漲80.52點至3,590.05點，周漲幅2.3%，北美線依舊表現強勁，美西線漲幅達4.4%；近洋線則以東南亞線漲勢最突出，周漲幅達12%。",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bad18d1c8badb0edcb3b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734999?from=edn_maintab_index",
+      "title": "巴拿馬運河限航壓力升溫 SCFI 運價連六漲、美西線續揚4.4% | 產業熱點 | 產業 | 經濟日報",
+      "description": "巴拿馬運河受到降雨不足加劇乾旱影響，推升運價指數連六漲，最新一期上海集裝箱出口(SCFI)運價指數於4日出爐，指數上漲80.52點至3,590.05點，周漲幅2.3%，北美線依舊表現強勁，美西線漲幅達4.4%；近洋線則以東南亞線漲勢最突出，周漲幅達12%。",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0309ff1f459f700c2e6e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9735055?from=edn_newest_index",
+      "title": "台電：累虧已達3,722億元 盼各界支持預算撥補 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "行政院拍板2026年度追加預算案撥補台電711億元，台電4日表示，近來中東局勢帶動天然氣價格大漲，政府攜手油電「頂住通膨」穩定國內物價，以追加預算撥補台電，就是補貼全民用電成本，穩定物價、照顧民生，同時兼顧產業競爭力。",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b5bc9fd2ed5bcb58ffa2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9735049?from=edn_newest_index",
+      "title": "量子人才畢業年薪250萬元起跳！產業熱度增 美商 OptiFab、漢民投入 | 產業熱點 | 產業 | 經濟日報",
+      "description": "量子技術正在加溫，台灣量子人才畢業後，有望找到年薪8~10萬美元起跳就業機會，為冷門已久的量子產業點亮契機，美商子公司台灣積光OptiFab也在國際半導體展宣布在楊梅投資數億元興建光子量子晶圓廠，隨電子五哥大老闆開始重視，讓量子圈氣氛為之一振。",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_18a1a5160cc3cc34a98c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9735048?from=edn_newest_index",
+      "title": "黃國昌指控民進黨圖利聯合再生 經濟部回應了 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "民眾黨主席黃國昌在臉書發文指控聯合再生取得彰濱工業區潮間帶國有地違法出售套利2.63億元，東窗事發後還找柯建銘喬事，用特別股濫竽充數的綠能弊案；儘管經濟部全部知情，但去年7月還是發給電業執照，所發電力全部賣給台電，電業營收超過13億元，獲利驚人。經濟部回應表示，依法核發電業執照，如遇不法情事，可提報「打擊妨害綠能產業發展犯罪聯繫平台」，以嚇阻綠能犯罪。",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_42a50162b0f6ea9e59a1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5944/9735040?from=edn_newest_index",
+      "title": "Euronews 精選：黑海再遭封鎖恐釀全球糧荒！歐洲擔心同時引爆三重危機 | 國際專欄 | 專欄 | 經濟日報",
+      "description": "隨著俄羅斯加強對烏克蘭黑海港口實施新的封鎖，重要糧食出口航線幾近受阻，歐洲國家擔憂穀物供應若進一步中斷，不僅可能推升全球食品價格，也可能加劇非洲、中東地區的不滿情緒，進而引發新一波移民潮。",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7f3f119612216e1ea791",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9735039?from=edn_newest_index",
+      "title": "彰濱光電股權轉移惹議 經部：已要求聯合再生買回60%股份 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "民眾黨主席黃國昌質疑，政府於彰濱光電案協助聯合再生解套。經濟部今天說明，聯合再生工程曾於彰濱產業園區崙尾東太陽光電專區承...",
+      "publishedAt": "2026-09-04T09:22:27.493Z",
+      "discoveredAt": "2026-09-04T09:22:27.493Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c8a2b1b51a2c55ec1b27",
       "sourceLastModified": null,
@@ -10,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9734372",
-      "title": "全球首例！諾貝爾獎得主瓦謝爾獲台灣就業金卡 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "16:48 全球首例！諾貝爾獎得主瓦謝爾獲台灣就業金卡",
       "description": "台灣攬才再添重量級代表。國發會4日宣布，頒發就業金卡給2013年諾貝爾化學獎得主瓦謝爾（Arieh Warshel），成為全球首位以諾貝爾獎得主身分取得我國就業金卡的學者，為台灣延攬國際頂尖科研人才寫下新里程碑。",
       "publishedAt": "2026-09-04T09:04:45.258Z",
       "discoveredAt": "2026-09-04T09:04:45.258Z",
@@ -400,7 +640,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9734823?from=edn_hottest_index",
-      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 4116",
+      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 5155",
       "description": "富時羅素公布下列有關臺灣50指數、臺灣中型100指數、臺灣資訊科技指數、臺灣發達指數及臺灣高股息指數審核結果。相關成分股納入及刪除變動將自2026年9月18日（星期五）交易結束後生效（亦即自2026年9月21日（星期一）起生效）。如有指數成分股在下次定期審核前之期間被刪除，將以本次候補名單遞補，候補名單自即日起生效。",
       "publishedAt": "2026-09-04T08:47:35.924Z",
       "discoveredAt": "2026-09-04T08:47:35.924Z",
@@ -1210,7 +1450,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9733044?from=edn_hottest_index",
-      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4928",
+      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4936",
       "description": "台指期夜盤3日以45,902點開高，盤中走勢持續震盪。截至傍晚8點10分，台指期夜盤暫報45,843點、漲24點、漲幅0.05%。剛開盤多方試圖率先攻擊，最高達46,136點，隨後空頭賣壓再起由紅翻黑、最低暫達45,800點，高低點震盪336點，46K大關暫時得而復失，持續於45,800點附近震盪。",
       "publishedAt": "2026-09-04T07:37:34.580Z",
       "discoveredAt": "2026-09-04T07:37:34.580Z",
@@ -2615,7 +2855,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733177?from=edn_hottest_index",
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6816",
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6822",
       "description": "美股周四（3日）早盤三大指數走高，美國國債殖利率回落，聯準會（Fed）升息壓力減輕，交易員持續關注油價走勢，並等待本周稍晚公布最新的美國就業數據。",
       "publishedAt": "2026-09-04T05:45:25.019Z",
       "discoveredAt": "2026-09-04T05:45:25.019Z",
@@ -4306,7 +4546,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5012,7 +5252,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
-      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10893",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10970",
       "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
       "publishedAt": "2026-09-04T02:27:30.699Z",
       "discoveredAt": "2026-09-04T02:27:30.699Z",
@@ -5136,246 +5376,6 @@
       "description": "近年林口在產業、交通與生活機能同步發展下，逐步躍升為北台灣重要的新興宜居城市。隨著林口國際媒體園區、新北國際AI+智慧園區等產業聚落持續成形，吸引科技企業、高階主管與專業人才陸續進駐，也帶動區域居住需求穩定成長。 除了產業動能持續升溫，林口更擁有完善的都市規劃與豐富綠地資源。從仁愛路商圈、三井Outlet到國際學區與大型公園，兼具便利機能與舒適生活環境，演然成為雙北自住客與科技菁英家庭青睞移居置產的首選。 公園綠意環繞 打造城市裡難得的舒適日常 深耕北台灣逾30年竹城建設機構，於林口佳林路推出全新住宅「竹城世田谷」，以東京世田谷低密度住宅區為靈感，融合靜巷尺度、自然綠意與人文美學，打造更貼近生活本質的居住環境。 基地鄰近仁愛路寶雅商圈、樂家康超市，既享有成熟機能，也保有難得的寧靜氛圍。周邊座擁林口社區運動公園、林口足夢運動公園與四維公園等綠意環境，讓每天回家，更像走進一處能慢下腳步的生活風景。 國際學區加持 成就理想家庭生活圈 「竹城世田谷」規劃2至3房自住產品，重視採光、通風與空間坪效，滿足首購族、換屋家庭的居住需求。周邊鄰近東湖國小、佳林國中及林口高中，且康橋國際",
       "publishedAt": "2026-09-04T02:07:08.593Z",
       "discoveredAt": "2026-09-04T02:07:08.593Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5261644f6a8c3ca25df",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9733743?from=edn_newest_index",
-      "title": "四大AI防護齊發 打造桃園數位韌性交通 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "為落實「人本交通」理念，打造友善通學與通勤環境，桃園市政府積極推動「人車路交通安全路口路段防護網」。針對全市 24 處人車交織頻繁、視線盲區及易肇事的高風險路段，全面導入 AI 視覺偵測與即時預警機制，從路口安全、行人通行防護到車輛減速提醒多管齊下，以智慧科技為市民築起安全防線。 統計數據顯示，各項防護系統上線後成效顯著。智慧路口平均車速普遍下降 4 至 7 公里，降幅達 11% 至 18%，車輛超速比例最高更銳減 22%。實測成果展現 AI 智慧預警技術能有效引導駕駛減速、化解潛在人車衝突，大幅提升道路安全與交通管理效能。 市府交通局因地制宜，依各路段特性建置「車速偵測提醒」、「非號誌化路口防護」、「行人穿越警示」及「彎道來車預警」四大系統。全案導入邊緣運算與深度學習影像辨識技術，即時追蹤人車動態軌跡，一旦偵測到碰撞風險便透過路側資訊標誌（CMS）主動警示減速禮讓；後端同步打造物聯網平台，即時匯流路口影像與風險數據，不僅助力管理單位精準掌握路況，更作為未來交通工程改善的決策依據。 邁向數位交通新時代，市府全面強化系統穩定與運作韌性。針對路側 AI 設備與時俱進配置「號誌不斷電系",
-      "publishedAt": "2026-09-04T02:07:08.593Z",
-      "discoveredAt": "2026-09-04T02:07:08.593Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cd97506ca1496c659d95",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9733739?from=edn_newest_index",
-      "title": "新開幕京都祇園職人精神進駐台北大安 「祇園．禪院壽喜燒專門店」以關西風頂級壽喜燒演繹和牛 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "台北壽喜燒市場再添新選擇「祇園．禪院壽喜燒專門店」座落於台北市大安區樂利路靜巷，延續京都祇園的飲食文化與職人精神，以關西風壽喜燒為料理核心，從食材挑選、糖品運用、醬汁調製到桌邊烹調，重新詮釋日本壽喜燒的細膩層次。餐廳為台北壽喜燒名店「橋山」姐妹店，空間全面採包廂設計，搭配專人桌邊服務，提供兼具私密性與完整餐飲體驗的用餐環境。 「祇園．禪院」外觀以低調日式建築語彙呈現，門前兩尊日式風格獅爺成為辨識度十足的入口意象，室內則運用木質元素、自然光與留白設計，營造簡約沉靜的用餐氛圍。入夜後，柔和燈光映照空間，更凸顯餐廳以「禪院」為名所強調的靜謐感。全店以包廂為主要座席形式，每間包廂皆配置專人服務，讓料理能依照完整餐期節奏逐道呈現。 不同於將醬汁一次倒入鍋中的常見作法，「祇園．禪院」以關西風壽喜燒手法展開料理。高溫鑄鐵鍋上桌後，先以和牛油潤鍋，再放入日本大蔥煸出香氣，撒上糖品後加熱焦化，最後放入日本A5和牛煎烤，使肉品表面形成薄脆糖衣，同時鎖住肉汁與油脂香氣。食用時可搭配現打蛋液，透過蛋香柔化肉品與醬汁的濃郁感。餐廳更以糖品選擇作為壽喜燒風味設計的一環，提供中雙糖、三溫糖及白雙糖三種選擇。中雙",
-      "publishedAt": "2026-09-04T02:07:08.593Z",
-      "discoveredAt": "2026-09-04T02:07:08.593Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f95035cf959fdc6f5a3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9733875?from=edn_newest_index",
-      "title": "有玄機！輝達129.303億美元收購 Hugging Face 金額竟藏兩幽默彩蛋 | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達3日正式宣布，同意以129億美元收購開源AI平台Hugging Face，藉此壯大整個AI生態系服務。不過仔細看看輝達收購Hugging Face的交易金額，別出心裁在數字裡面藏了「彩蛋」。",
-      "publishedAt": "2026-09-04T01:53:23.316Z",
-      "discoveredAt": "2026-09-04T01:53:23.316Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c8d2a097b879a2891ab4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9733870?from=edn_newest_index",
-      "title": "群益期「2026人機交易對決」9月1日開戰！獎金衝上近200萬元史上新高 | 基金天地 | 理財 | 經濟日報",
-      "description": "台股加權指數在46K附近高檔震盪，不少投資人透過個股期貨、海外期貨積極尋找波段財。",
-      "publishedAt": "2026-09-04T01:53:23.316Z",
-      "discoveredAt": "2026-09-04T01:53:23.316Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e3743e8d0d288fe1d648",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733867?from=edn_newest_index",
-      "title": "專訪／微軟攜台供應鏈拚 AI 資料中心效率 全面轉向液冷、回應4提問 | 產業熱點 | 產業 | 經濟日報",
-      "description": "半導體供應鏈高喊應「系統技術協同研發」，微軟全球基礎建設總經理Alistair Speirs接受《經濟日報》專訪，指出微軟資料中心規劃亦採系統級方法（Systems approach），跟台灣供應鏈緊密合作，並披露微軟正全面轉向液冷而策略性使用Neo Cloud現成算力，強調客戶需求遠大於供給沒有泡沫化疑慮。",
-      "publishedAt": "2026-09-04T01:53:23.316Z",
-      "discoveredAt": "2026-09-04T01:53:23.316Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_338ea5a2e8bb99fa73a2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733865?from=edn_newest_index",
-      "title": "拓展全球 AI 智慧眼鏡版圖 宏達電VIVE Eagle 正式進軍歐美澳市場 | 產業熱點 | 產業 | 經濟日報",
-      "description": "宏達電（2498）旗下 AI 智慧眼鏡 VIVE Eagle 推出全新圓框款並同步迎來重大軟體升級，正式在歐洲、北美及澳洲市場全面上市，進一步擴大全球市場布局。",
-      "publishedAt": "2026-09-04T01:53:23.316Z",
-      "discoveredAt": "2026-09-04T01:53:23.316Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3c8186b9a232614f504b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9733864?from=edn_newest_index",
-      "title": "聯準會官員釋鴿 升息預期降、美債殖利率下滑 | 美股動態 | 國際 | 經濟日報",
-      "description": "聯準會理事華勒說，如果8月通膨數據過得去，他會支持維持利率不變。美國貨幣市場預期聯準會本月升息機率降為56%，低於原本的...",
-      "publishedAt": "2026-09-04T01:53:23.316Z",
-      "discoveredAt": "2026-09-04T01:53:23.316Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f60f88cd2a4480e35ba1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733724",
-      "title": "09:31 尾牙旺季提前開打！這些飯店集團桌價喊漲 有飯店訂單排到2028年",
-      "description": "台股今年以來屢創新高，財富效果也延燒至企業尾牙市場，科技、電子及AI相關企業成為今年最積極訂席的客群，不只五星飯店尾牙桌價最高較去年上漲25%，千桌級大型外燴也接連出籠，熱門日期更提前上演卡位戰。台北漢來甚至有企業一次連訂三年，目前最遠已接到2028年尾牙訂單，反映企業尾牙需求持續升溫。",
-      "publishedAt": "2026-09-04T01:38:37.591Z",
-      "discoveredAt": "2026-09-04T01:38:37.591Z",
       "topics": [
         "Taiwan business",
         "investment",

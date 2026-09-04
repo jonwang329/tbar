@@ -1,7 +1,247 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T08:29:52.371Z",
+  "updatedAt": "2026-09-04T08:47:35.924Z",
   "candidates": [
+    {
+      "id": "cand_e04578471612683422e9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734772",
+      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 | 國際焦點 | 國際 | 經濟日報",
+      "description": "10年前，也就是2016年，三名法國青年創立Hugging Face，原本只想打造一款給青少年使用的聊天機器人。就連公司名稱，也只是取自表情符號🤗的「暫時名字」。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f05ac25e25a63d1c4398",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9734938?from=edn_maintab_index",
+      "title": "央行：8月外匯存底金額為6,019.04億美元 月增76.33億美元 | 金融脈動 | 金融 | 經濟日報",
+      "description": "央行今公布8月外匯存底金額為6,019.04億美元，月增76.33億美元，重新站回6,000億美元大關。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9465eeefda341b535dec",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9734963?from=edn_newest_index",
+      "title": "室內裝修契約管愈多就愈安全？沒完整配套，最後恐還是消費者埋單 | 房市話題 | 房市 | 經濟日報",
+      "description": "在AI時代，要讓室裝申請發揮效果，建議改為線上申請，由裝修公司提出完整設計圖後，再將建築物使用執照圖及平面配合圖、消防設備圖等相關重要設計圖說，在線上於主管機關登入申請備查。取得許可證後，下載即可進行開工，後續工程階段，由主管機關委任當地建築師實地會勘查核，以落實政府對於民眾住宅公共安全的保障。 而最後，則由裝修業者在線上提供完工照片申請竣工，佐以科技輔助，降低人力應用。如此費用有調降空間，增進民眾申請室裝意願，對政府、民眾、建築師與裝修業者，都是能達到多方共好的永續發展機制。 另外，政府的定型化契約加上應記載不得記載事項的相關規範，基於契約自由原則，也不是全然受用。契約是約定，有助於發生糾紛時作為雙方依據，但實務上仍建議透過住保履約，讓價金有保障，才是真正的重點。 人人都希望安居樂業。從住保履約數字上的成長來看，多數消費者是知道該如何預防被騙的，而裝修業者也大多尊重自己專業，彼此避免糾紛。畢竟對於消費者，裝修築的是自己的家，而業者則是付出專業獲取報酬，本就應該是彼此互惠的。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b553d530c2ffff969ba9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734967?from=edn_newest_index",
+      "title": "全球公債拋售潮恐持續 伊爾艾朗：供需失衡是主因 | 國際焦點 | 國際 | 經濟日報",
+      "description": "安聯集團首席經濟顧問伊爾艾朗表示，全球政府公債拋售潮預料還會持續。他提到，美債「可靠的買家和債券持有者」承受壓力，並批評，美國財政部近期介入市場的舉措「做得太過頭」。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7d2ef732c66100d5e1e3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9734910?from=edn_newest_index",
+      "title": "科羅旺發威到周末 下周迎今年首波東北季風 | 生活 | 要聞 | 經濟日報",
+      "description": "科羅旺颱風跟低壓帶西南風在桃園以北地區形成強烈輻合效應，明天西南風減弱，但颱風外圍雲系更往台灣靠近一些，大台北、基隆北海岸及宜蘭地區需留意局部大雨。這波迎風面降雨將持續到周六，只是隨著時節漸漸入秋，下周三至五則將迎來今年首波東北季風。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6f88c017c43280ff68ce",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9734903?from=edn_newest_index",
+      "title": "北市豪雨南港車站B3停車場淹水 台鐵：連日豪大雨宣洩不及 | 生活 | 要聞 | 經濟日報",
+      "description": "西南風及科羅旺颱風帶來的強輻合效應，為北部地區今天帶來短延時豪雨，台鐵平溪線下午4時前全面停駛，南港火車站地下停車場也傳出淹水了，汽車停車場如今只能停遊艇。台鐵公司表示，因排水不及導致積水，已通知停車場業者，防止民眾進入。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5249403492fd9e663df9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9734959?from=edn_newest_index",
+      "title": "國發會攜中興新村地方創生團隊赴日本熊本 聚焦四大重點 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "台日地方創生合作再往前一步，從政策交流逐步走向通路與市場實證。國發會副主委高仙桂4日拜會熊本縣知事木村敬，雙方就地方創生、青年培力及區域產業升級等議題交換意見，木村敬並允諾建立雙邊交流機制；中興新村地方創生育成村也與日本企業簽署合作意向書（MOU），協助台灣地方創生產品拓展日本市場。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f5f67d6f10276d9d3ab9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9734823?from=edn_hottest_index",
+      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY | 市場焦點 | 證券 | 經濟日報",
+      "description": "富時羅素公布下列有關臺灣50指數、臺灣中型100指數、臺灣資訊科技指數、臺灣發達指數及臺灣高股息指數審核結果。相關成分股納入及刪除變動將自2026年9月18日（星期五）交易結束後生效（亦即自2026年9月21日（星期一）起生效）。如有指數成分股在下次定期審核前之期間被刪除，將以本次候補名單遞補，候補名單自即日起生效。",
+      "publishedAt": "2026-09-04T08:47:35.924Z",
+      "discoveredAt": "2026-09-04T08:47:35.924Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7705f0218966428a86dc",
       "sourceLastModified": null,
@@ -10,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5616/9734905",
-      "title": "新台幣大升1.25角 收31.63元 | 外匯市場 | 金融 | 經濟日報",
+      "title": "16:15 新台幣大升1.25角 收31.63元",
       "description": "台北外匯市場新台幣兌美元今天收盤收31.63元，大升1.25角，成交金額18.75億美元",
       "publishedAt": "2026-09-04T08:29:52.371Z",
       "discoveredAt": "2026-09-04T08:29:52.371Z",
@@ -40,7 +280,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5616/9734905?from=edn_maintab_index",
-      "title": "新台幣大升1.25角 收31.63元 | 外匯市場 | 金融 | 經濟日報",
+      "title": "新台幣大升1.25角 收31.63元 台北外匯市場新台幣兌美元今天收盤收31.63元，大升1.25角，成交金額18.75億美元。 新台幣兌美元今天開盤價為31.72元，最高31.627元、最低31.766元。...",
       "description": "台北外匯市場新台幣兌美元今天收盤收31.63元，大升1.25角，成交金額18.75億美元",
       "publishedAt": "2026-09-04T08:29:52.371Z",
       "discoveredAt": "2026-09-04T08:29:52.371Z",
@@ -624,7 +864,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -790,7 +1030,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9733044?from=edn_hottest_index",
-      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4912",
+      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4919",
       "description": "台指期夜盤3日以45,902點開高，盤中走勢持續震盪。截至傍晚8點10分，台指期夜盤暫報45,843點、漲24點、漲幅0.05%。剛開盤多方試圖率先攻擊，最高達46,136點，隨後空頭賣壓再起由紅翻黑、最低暫達45,800點，高低點震盪336點，46K大關暫時得而復失，持續於45,800點附近震盪。",
       "publishedAt": "2026-09-04T07:37:34.580Z",
       "discoveredAt": "2026-09-04T07:37:34.580Z",
@@ -804,7 +1044,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2195,7 +2435,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733177?from=edn_hottest_index",
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6800",
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6806",
       "description": "美股周四（3日）早盤三大指數走高，美國國債殖利率回落，聯準會（Fed）升息壓力減輕，交易員持續關注油價走勢，並等待本周稍晚公布最新的美國就業數據。",
       "publishedAt": "2026-09-04T05:45:25.019Z",
       "discoveredAt": "2026-09-04T05:45:25.019Z",
@@ -2209,7 +2449,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4592,7 +4832,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
-      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10758",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10831",
       "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
       "publishedAt": "2026-09-04T02:27:30.699Z",
       "discoveredAt": "2026-09-04T02:27:30.699Z",
@@ -5151,246 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f15d9d24d6926fe3238e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9733808",
-      "title": "09:14 沃勒談話降升息疑慮！台股開高一度強彈近750點 台積電領軍搶回5日線",
-      "description": "聯準會理事沃勒談話緩解升息疑慮，美股四大指數昨夜全面收高，帶動台指期盤後大漲668點。台股4日開盤上漲133.62點、報45,991.28點，隨後在台積電（2330）領軍、五大權值股整齊走高，加上奇鋐（3017）、台光電（2383）、川湖（2059）、致茂（2360）、智邦（2345）等電子要角同步助攻，大盤漲點一度急拉至近750點、觸及46,603.11點，強勢收復5日線。盤面上，群創（3481）、友達（2409）、群益臺灣加權正2（00685L）等交投熱絡。",
-      "publishedAt": "2026-09-04T01:24:49.923Z",
-      "discoveredAt": "2026-09-04T01:24:49.923Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5f04b8df40e2fadf5ff2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9733812?from=edn_newest_index",
-      "title": "股匯雙響炮 國際匯市變動有利於新台幣緩升 | 外匯市場 | 金融 | 經濟日報",
-      "description": "台北股匯今早同步回升，台股開盤站回5日線，新台幣匯價以31.72開出，小升3.5分。",
-      "publishedAt": "2026-09-04T01:24:49.923Z",
-      "discoveredAt": "2026-09-04T01:24:49.923Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3c64d6b693c01f967a02",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9733811?from=edn_newest_index",
-      "title": "G20財長央行行長會議公報破局 玉淵譚天控美國「夾帶私貨」 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "8月底至9月初在美國舉行的G20財長與央行行長會議，最後未能產出公報，美方指責是大陸反對，而大陸官媒玉淵譚天則披露稱，大陸提出了三個關切，涉及美方「夾帶私貨」、案文對全球經濟形勢的描述是否客觀、全面等。",
-      "publishedAt": "2026-09-04T01:24:49.923Z",
-      "discoveredAt": "2026-09-04T01:24:49.923Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4deaf0fac6f96036bf1f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9733808?from=edn_newest_index",
-      "title": "沃勒談話降升息疑慮！台股開高一度強彈近750點 台積電領軍搶回5日線 | 市場焦點 | 證券 | 經濟日報",
-      "description": "聯準會理事沃勒談話緩解升息疑慮，美股四大指數昨夜全面收高，帶動台指期盤後大漲668點。台股4日開盤上漲133.62點、報45,991.28點，隨後在台積電（2330）領軍、五大權值股整齊走高，加上奇鋐（3017）、台光電（2383）、川湖（2059）、致茂（2360）、智邦（2345）等電子要角同步助攻，大盤漲點一度急拉至近750點、觸及46,603.11點，強勢收復5日線。盤面上，群創（3481）、友達（2409）、群益臺灣加權正2（00685L）等交投熱絡。",
-      "publishedAt": "2026-09-04T01:24:49.923Z",
-      "discoveredAt": "2026-09-04T01:24:49.923Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_be9427a389d95d7a8a55",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9733804?from=edn_newest_index",
-      "title": "美貿易代表：習近平訪美期間美中將宣布農業相關安排 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "據路透社報導，美國貿易代表葛里爾週四表示，中國國家主席習近平本月訪問華盛頓期間，美國和中國將就農業和非關稅壁壘問題發表一些聲明。",
-      "publishedAt": "2026-09-04T01:24:49.923Z",
-      "discoveredAt": "2026-09-04T01:24:49.923Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8fac58ec30c17a507383",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9733805?from=edn_newest_index",
-      "title": "台股開盤漲133.62點 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台北股市今天開盤漲133.62點，加權股價指數為45991.28點，成交金額新台幣89.79億元。",
-      "publishedAt": "2026-09-04T01:24:49.923Z",
-      "discoveredAt": "2026-09-04T01:24:49.923Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f0949cfb9fca3d3d2d7c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9733775",
-      "title": "09:05 Lululemon 緊身褲賣不動、再砍財測 盤後股價崩18% 新 CEO 將接燙手山芋",
-      "description": "運動服飾大廠Lululemon Athletica連續第二季下修全年業績展望，加上第2季營收與同店銷售均不如預期，盤後股價一度重摔18%，自2025年初以來累計暴跌近七成。這讓即將在下周接尚兵符的新執行長歐尼爾（Heidi O’Neill）面臨嚴峻考驗，她必須設法扭轉產品創新不足、市占持續流失的困境。",
-      "publishedAt": "2026-09-04T01:09:33.501Z",
-      "discoveredAt": "2026-09-04T01:09:33.501Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_32987fe775624c24d1cc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733792?from=edn_newest_index",
-      "title": "伊朗婚禮遭炸4死68傷！專家：很可能遭美軍500磅炸彈直擊 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國中央司令部（CENTCOM）先前宣布，1日在伊朗南部各地發動多次攻擊，但當地一場婚禮卻發生爆炸。武器專家分析路透查證的影像後表示，爆炸很可能是美國彈藥直接命中造成，而不是彈藥擊中另一個目標後反彈所致。",
-      "publishedAt": "2026-09-04T01:09:33.501Z",
-      "discoveredAt": "2026-09-04T01:09:33.501Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

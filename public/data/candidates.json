@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T01:24:49.923Z",
+  "updatedAt": "2026-09-04T01:38:37.591Z",
   "candidates": [
+    {
+      "id": "cand_f60f88cd2a4480e35ba1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733724",
+      "title": "尾牙旺季提前開打！這些飯店集團桌價喊漲 有飯店訂單排到2028年 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台股今年以來屢創新高，財富效果也延燒至企業尾牙市場，科技、電子及AI相關企業成為今年最積極訂席的客群，不只五星飯店尾牙桌價最高較去年上漲25%，千桌級大型外燴也接連出籠，熱門日期更提前上演卡位戰。台北漢來甚至有企業一次連訂三年，目前最遠已接到2028年尾牙訂單，反映企業尾牙需求持續升溫。",
+      "publishedAt": "2026-09-04T01:38:37.591Z",
+      "discoveredAt": "2026-09-04T01:38:37.591Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0c2f55cfaef6854841cd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9733808?from=edn_maintab_index",
+      "title": "沃勒談話降升息疑慮！台股開高一度強彈近750點 台積電領軍搶回5日線 | 市場焦點 | 證券 | 經濟日報",
+      "description": "聯準會理事沃勒談話緩解升息疑慮，美股四大指數昨夜全面收高，帶動台指期盤後大漲668點。台股4日開盤上漲133.62點、報45,991.28點，隨後在台積電（2330）領軍、五大權值股整齊走高，加上奇鋐（3017）、台光電（2383）、川湖（2059）、致茂（2360）、智邦（2345）等電子要角同步助攻，大盤漲點一度急拉至近750點、觸及46,603.11點，強勢收復5日線。盤面上，群創（3481）、友達（2409）、群益臺灣加權正2（00685L）等交投熱絡。",
+      "publishedAt": "2026-09-04T01:38:37.591Z",
+      "discoveredAt": "2026-09-04T01:38:37.591Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b990e15aaddbe347c947",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9733855?from=edn_newest_index",
+      "title": "宏碁：記憶體漲幅減緩 低價庫存與AI地端商機支撐PC買氣 | 產業熱點 | 產業 | 經濟日報",
+      "description": "電腦品牌廠宏碁董事長暨執行長陳俊聖表示，市調機構預測下半年個人電腦（PC）市場下滑，主要受關鍵零組件漲價影響，宏碁已提前...",
+      "publishedAt": "2026-09-04T01:38:37.591Z",
+      "discoveredAt": "2026-09-04T01:38:37.591Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4708b8a84b4b4cd2ef8e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5636/9733110?from=edn_newest_index",
+      "title": "法巴人壽推出價值大師 投資型保險專案 | 財富管理 | 商情 | 經濟日報",
+      "description": "全球市場變動加速，利率環境、AI應用擴散及產業輪動，帶動投資人對兼顧成長機會與風險控管的資產配置需求升溫。法商法國巴黎人壽台灣分公司（法巴人壽）攜手永豐銀行推出「價值大師」投資型保險專案，即日起於永豐銀行及永豐金證券銷售，連結委託中國信託投信操作的「Shiller全球多元配置策略投資帳戶」，結合諾貝爾經濟學獎得主席勒（R. J. Shiller）價值投資概念CAPE比率與股債多元配置策略，展現法巴人壽持續以創新保險與資產配置方案，協助客戶建立長期財務韌性的承諾。",
+      "publishedAt": "2026-09-04T01:38:37.591Z",
+      "discoveredAt": "2026-09-04T01:38:37.591Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_671fe62fd464a71b3f6d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5636/9733221?from=edn_newest_index",
+      "title": "00984D 台灣首檔破百億主動式債券ETF | 財富管理 | 商情 | 經濟日報",
+      "description": "2026年台股在AI題材帶動下行情熱絡，主動式台股ETF成為市場焦點；不過，主動式債券ETF也悄悄寫下新紀錄。依臺灣證券交易所資料，截至8月28日，主動聯博全球非投資等級債券ETF（00984D）基金規模達101.24億元、受益人數約1.32萬人，成為台灣規模最大的主動式債券ETF，也是首檔規模突破百億元的主動式債券ETF。",
+      "publishedAt": "2026-09-04T01:38:37.591Z",
+      "discoveredAt": "2026-09-04T01:38:37.591Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f6ca657d2604fdf9d06",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/6721/9733839?from=edn_newest_index",
+      "title": "港警追兇30年 嫌犯被捕後因罹癌無法在庭上答辯 | 港澳話題 | 兩岸 | 經濟日報",
+      "description": "中國大陸一名搶劫殺人嫌犯被香港警方追捕超過30年後，於2023年落網，案件昨天起在法院進行審訊，但由於嫌犯目前處於肺癌四...",
+      "publishedAt": "2026-09-04T01:38:37.591Z",
+      "discoveredAt": "2026-09-04T01:38:37.591Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d29114bb48bc5d3d1a71",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9733838?from=edn_newest_index",
+      "title": "台股早盤漲逾700點 權值股強勢AI股雀躍 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股今天開高走高，早盤漲逾700點，至46600點之上，權值股強勢，台達電漲逾4%，聯發科上揚逾3%，台積電小漲20元，...",
+      "publishedAt": "2026-09-04T01:38:37.591Z",
+      "discoveredAt": "2026-09-04T01:38:37.591Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_f15d9d24d6926fe3238e",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9733808",
-      "title": "沃勒談話降升息疑慮！台股開高一度強彈近750點 台積電領軍搶回5日線 | 市場焦點 | 證券 | 經濟日報",
+      "title": "09:14 沃勒談話降升息疑慮！台股開高一度強彈近750點 台積電領軍搶回5日線",
       "description": "聯準會理事沃勒談話緩解升息疑慮，美股四大指數昨夜全面收高，帶動台指期盤後大漲668點。台股4日開盤上漲133.62點、報45,991.28點，隨後在台積電（2330）領軍、五大權值股整齊走高，加上奇鋐（3017）、台光電（2383）、川湖（2059）、致茂（2360）、智邦（2345）等電子要角同步助攻，大盤漲點一度急拉至近750點、觸及46,603.11點，強勢收復5日線。盤面上，群創（3481）、友達（2409）、群益臺灣加權正2（00685L）等交投熱絡。",
       "publishedAt": "2026-09-04T01:24:49.923Z",
       "discoveredAt": "2026-09-04T01:24:49.923Z",
@@ -5174,216 +5384,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_958405271c11f0e35b0d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733173?from=edn_newest_index",
-      "title": "鄭照新率17家業者登陸 赴東莞開拓市場「把訂單帶回來」 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "「2026東莞台灣名品博覽會」今（3）日至6日在廣東現代國際展覽中心登場。面對美國關稅、地緣政治等外部經貿環境變化，台中市政府副市長鄭照新首次率17家台中企業赴東莞參展，設置「台中形象館」，盼透過展覽及產業交流直接接觸買主、爭取訂單。",
-      "publishedAt": "2026-09-03T13:54:56.381Z",
-      "discoveredAt": "2026-09-03T13:54:56.381Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7164fce4ef8abd198d89",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733163?from=edn_newest_index",
-      "title": "卓揆明視察中火 盧秀燕喊話「增氣拆煤」：別只增燃氣不拆燃煤 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "行政院長卓榮泰明天將赴台中火力發電廠視察，台中市長盧秀燕今天先在臉書喊話中央，指多年來台中市民持續爭取減少燃煤，中央過去也曾承諾燃氣機組完成後要拆除燃煤機組，如今新燃氣機組陸續完工、進入試車階段，中央應「說到做到」，盡速公布燃煤機組及煙囪的精確拆除時程，並提出下一階段減煤的明確目標。",
-      "publishedAt": "2026-09-03T13:54:56.381Z",
-      "discoveredAt": "2026-09-03T13:54:56.381Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_75803e47304cab0f1822",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9733155?from=edn_newest_index",
-      "title": "擅用已凍結經費？行政院：經費動支都合乎法規及法定程序 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "行政院遭在野質疑擅用已凍結經費，自行支用5億元，藐視國會。行政院今日說明，尊重立法院預算決議，所有預算經費動支都合乎法規及法定程序辦理，當時遭提案凍結的5億元未指定科目，因此將凍結額度配置在人事費，避免其他經費缺口，但人事費必須依法支用，藉以辦理必要人事支出。",
-      "publishedAt": "2026-09-03T13:54:56.381Z",
-      "discoveredAt": "2026-09-03T13:54:56.381Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_69012fd4740f66ddeee3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733174?from=edn_newest_index",
-      "title": "從世界級精品咖啡到產地公益！台灣黑金號召讓好咖啡成為支持產地力量 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台灣精品咖啡市場持續成長，業者也將採購目光從風味與稀有度，延伸至產地公益。「台灣黑金」今年邀請衣索比亞TESTI Coffee創辦人Faysel Abdosh Yonis來台交流，分享精品咖啡產業如何透過國際競標，將收益投入教育、醫療及潔淨用水，並號召台灣咖啡業者共同參與，讓咖啡交易也能改善產區生活。",
-      "publishedAt": "2026-09-03T13:54:56.381Z",
-      "discoveredAt": "2026-09-03T13:54:56.381Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3185f1fabc723eb3d82f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9733045",
-      "title": "21:28 今日最夯股／玉山金併購三商壽邁入新階段 股價創新高",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-09-03T13:38:11.613Z",
-      "discoveredAt": "2026-09-03T13:38:11.613Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9eab352bcb246de67771",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9733164?from=edn_newest_index",
-      "title": "人類若活到120歲，真的是好事嗎？抗老科技恐讓「長壽」也變成富人特權 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "我現在的歲數和我祖父母去世時差不多，但身體仍然保持活躍，這樣的生活方式，是我祖父母在人生最後十年難以想像的。如今，人們愈來愈常活到90 歲或更年長才過世。我的個人經驗不過反映了全球人口在過去數十年的變化。幾乎在世界上每個地區，65 歲以上人口的規模與比例都在增長。高收入國家老年人口的比例目前接近20%，而且預計到了2050 年，世界許多地區的老年人口都將加倍。 同時，新生兒數量正在下降。這個現象最早在已開發國家發生，如今在全球各地愈來愈常見。這代表勞動者日益減少，卻要支撐未來愈來愈多的退休人口。亞洲某些國家日後的退休人口，可能高達勞動人口的兩倍。很多老年人還需要10 年、甚至20年昂貴的醫療照護。在社會安全網薄弱的國家，老年人要不是只能依賴家人，就只得自立自強，因此需要維持身心健康。即使是在老年福利比較健全的國家，人口老化對退休金與社會安全計畫也將造成巨大的壓力。 壽命延長將給社會帶來巨大影響。目前各國的退休計畫，幾乎都設定人民在65 歲左右停止工作。這些措施推行的當下，人們在退休年齡後一般只能再活幾年，現在卻能再活20 年。從社會和經濟角度來看，這是一顆正在滴答倒數的定時炸彈，因此不",
-      "publishedAt": "2026-09-03T13:38:11.613Z",
-      "discoveredAt": "2026-09-03T13:38:11.613Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ad29c1814e3d61eced5d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733162?from=edn_newest_index",
-      "title": "AI建廠潮燒到2030 帆宣董座高新明：提前囤料、全球調兵遣將 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI帶動全球半導體進入新一波建廠高峰，廠務工程大廠帆宣（6196）訂單同步衝上成立以來最高峰。帆宣董事長高新明今日在歡慶與合作夥伴聯手合作20周年慶會後受訪表示，帆宣目前在手訂單已達1351億元，寫下公司成立以來最高紀錄，且訂單能見度至少到2028年，2029年至2030年相關專案也陸續進入規畫階段。面對未來五年龐大的建廠需求，帆宣已提前「搶料、搶人」，從關鍵材料預訂、人力分流到海外在地施工團隊培訓全面展開，為客戶全球擴產預作準備。",
-      "publishedAt": "2026-09-03T13:38:11.613Z",
-      "discoveredAt": "2026-09-03T13:38:11.613Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

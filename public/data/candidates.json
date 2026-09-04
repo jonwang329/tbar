@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T19:56:50.283Z",
+  "updatedAt": "2026-09-04T20:14:34.759Z",
   "candidates": [
+    {
+      "id": "cand_bbc110718908ca4215ec",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9735752?from=edn_newest_index",
+      "title": "生活賦靈感，AI煥新力：TCL於IFA 2026重新定義日常體驗 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "柏林2026年9月5日 /美通社/ -- 全球消費電子領軍企業、世界Mini LED及超大尺寸¹電視第一品牌TCL，今日在IFA 2026（2026年柏林國際消費電子展）的TCL Inspiration Habitat展區，正式發佈其「AI Inspired Life」（AI智享生活）願景。 Inspired by Life, Powered by AI: TCL Redefines Everyday Experiences at IFA 2026 依托其在全尺寸顯示、家電及智能生活解決方案領域的技術領先地位，TCL展示了AI如何融入日常生活的不同場景，打造真正一體化的體驗，而非僅僅局限於單一產品。從影院級大屏到掌上小屏，從空調、洗衣機到入戶安防和家庭陪伴產品，Inspiration Habitat將多項技術融為一體，帶來更貼合使用者需求、適配居家空間的自然交互體驗。 啟創視界：拓寬感知世界的方式 作為AI的主要交互入口，屏幕是TCL「AI Inspired Life」願景的起點。在IFA 2026上，TCL展出了陣容擴容的顯示技術產品矩陣，覆蓋家用巨幕影院電視、智能手機、平板電腦以及",
+      "publishedAt": "2026-09-04T20:13:49.976Z",
+      "discoveredAt": "2026-09-04T20:13:49.976Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4c7f9c05b1ffcd64931d",
       "sourceLastModified": null,
@@ -850,7 +880,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735569?from=edn_hottest_index",
-      "title": "海上苦撐286天 「林肯號」水兵上岸不分男女先做這些事 11270",
+      "title": "海上苦撐286天 「林肯號」水兵上岸不分男女先做這些事 11904",
       "description": "美國海軍「林肯號」（USS Abraham Lincoln）航空母艦自去年11月離開母港聖地牙哥後，在海上度過286天，周三（2日）抵達泰國東部林查班港，預計停留七天。許多船員藉上岸休息的機會，買買襪子、吃點像樣的食物，或做足部護理。",
       "publishedAt": "2026-09-04T17:33:39.267Z",
       "discoveredAt": "2026-09-04T17:33:39.267Z",
@@ -2629,7 +2659,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -2869,7 +2899,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -3215,7 +3245,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 19029",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 19082",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5361,36 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_21268d6aaaf83f7f4580",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9735082?from=edn_newest_index",
-      "title": "永康奇美醫院緊急通知！資訊系統異常今晚暫停夜診、急診照常 | 生活 | 要聞 | 經濟日報",
-      "description": "永康奇美醫院資訊系統發生異常，為確保醫療服務安全與病人就醫品質，經評估後決定今天夜診暫停門診及慢箋領藥服務。注射室、急診、透析及放射科均正常運作，民眾可依原醫療安排安心就醫。",
-      "publishedAt": "2026-09-04T10:28:45.115Z",
-      "discoveredAt": "2026-09-04T10:28:45.115Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

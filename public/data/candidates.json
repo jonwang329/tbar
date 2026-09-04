@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T14:27:54.511Z",
+  "updatedAt": "2026-09-04T14:46:08.290Z",
   "candidates": [
+    {
+      "id": "cand_6aa4417521744da2073f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735510",
+      "title": "川普施壓 Fed 出新招 揚言不降息 就與貿易逆差國停止貿易 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普4日在自家社群平台Truth Social發文，呼籲聯準會降低利率，否則他將停止與美國存在貿易逆差的國家進行貿易。",
+      "publishedAt": "2026-09-04T14:46:08.290Z",
+      "discoveredAt": "2026-09-04T14:46:08.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_eb5ad3f9303606ecdd9a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735510?from=edn_maintab_index",
+      "title": "川普施壓 Fed 出新招 揚言不降息 就與貿易逆差國停止貿易 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普4日在自家社群平台Truth Social發文，呼籲聯準會降低利率，否則他將停止與美國存在貿易逆差的國家進行貿易。",
+      "publishedAt": "2026-09-04T14:46:08.290Z",
+      "discoveredAt": "2026-09-04T14:46:08.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_530eb7dafe6f5aa96745",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9734315?from=edn_newest_index",
+      "title": "前澳洲央行官員確信9月會升息 並預計澳洲房價將下跌10% | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 澳洲央行一位前高級官員認為央行在本月末的政策會議上將再次升息，並預計澳洲房價可能下跌約10%。",
+      "publishedAt": "2026-09-04T14:46:08.290Z",
+      "discoveredAt": "2026-09-04T14:46:08.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e259b26dcf2a577b1168",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735513?from=edn_newest_index",
+      "title": "路透：AI代理「集體越獄」 繞過限制劫持德國網站 | 國際焦點 | 國際 | 經濟日報",
+      "description": "根據今天發布的新研究以及兩位知情人士透露，今年春天一群失控的OpenAI人工智慧代理（AI Agent）劫持一個德國網站...",
+      "publishedAt": "2026-09-04T14:46:08.290Z",
+      "discoveredAt": "2026-09-04T14:46:08.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_474a7063f1516f70e367",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735510?from=edn_newest_index",
+      "title": "川普施壓 Fed 出新招 揚言不降息 就與貿易逆差國停止貿易 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普4日在自家社群平台Truth Social發文，呼籲聯準會降低利率，否則他將停止與美國存在貿易逆差的國家進行貿易。",
+      "publishedAt": "2026-09-04T14:46:08.290Z",
+      "discoveredAt": "2026-09-04T14:46:08.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_053d69a0e96f27a2788f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9735502?from=edn_newest_index",
+      "title": "「台中工作、彰化居住」更明顯？會展＋產業雙引擎啟動 中彰生活圈再往前一步 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
+      "publishedAt": "2026-09-04T14:46:08.290Z",
+      "discoveredAt": "2026-09-04T14:46:08.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fbe30595498c2fbb2d4d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9735507?from=edn_newest_index",
+      "title": "嘉楠風華酒店八周年慶滿千折百、搶國旅下猛藥第二晚0元 | 生活 | 要聞 | 經濟日報",
+      "description": "嘉義市指標飯店「嘉楠風華酒店」舉辦八周年慶，祭出官網指定專案「來嘉七逃」滿千折百大優惠，民眾身分證字號與西元出生年月日數字中含有8個「8」，可免費入住價值萬元頂級VIP套房，還有館內高人氣空中酒吧與奇幻魔法堡88折同慶優惠。",
+      "publishedAt": "2026-09-04T14:46:08.290Z",
+      "discoveredAt": "2026-09-04T14:46:08.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_83557b1329af33fa2201",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735014",
-      "title": "OpenAI 發布最先進模型 號稱超越 Anthropic 象徵 AGI 時代開端 | 國際焦點 | 國際 | 經濟日報",
+      "title": "22:25 OpenAI 發布最先進模型 號稱超越 Anthropic 象徵 AGI 時代開端",
       "description": "OpenAI在3日發布最新款人工智慧（AI）模型「GPT-6 Astra」，為該公司歷來最強、並號稱為「舉世最聰明的模型」，在軟體工程、科學與網路安全的表現都領先市場，宣示已從同業Anthropic手上奪回技術領先優勢。",
       "publishedAt": "2026-09-04T14:27:54.511Z",
       "discoveredAt": "2026-09-04T14:27:54.511Z",
@@ -40,7 +250,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9735391",
-      "title": "今日最夯 ETF／韓股強勢吸金 009829 大漲4.69% | 基金天地 | 理財 | 經濟日報",
+      "title": "22:10 今日最夯 ETF／韓股強勢吸金 009829 大漲4.69%",
       "description": "韓股近期強勢吸金、後市爆發力十足，韓國KOSPI指數4日收漲1.6%，進而帶動大華韓國KOSPI50（009829）同步走強，單日大漲4.69%，成交量逾1.9萬張，呈現價漲量增格局，成為市場人氣火熱的最夯ETF之一。",
       "publishedAt": "2026-09-04T14:27:54.511Z",
       "discoveredAt": "2026-09-04T14:27:54.511Z",
@@ -455,7 +665,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 8420",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 11168",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -739,7 +949,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -829,7 +1039,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -856,7 +1066,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -2056,7 +2266,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -2102,7 +2312,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9734748?from=edn_hottest_index",
-      "title": "聯電營收／8月250.45億元創近四年新高 連6月走升 5840",
+      "title": "聯電營收／8月250.45億元創近四年新高 連6月走升 5978",
       "description": "晶圓代工大廠聯電（2303）4日公布8月合併營收250.45億元，月增5.03%、年增30.71%，連續6個月較前月成長，創近四年新高，也是歷史單月第三高。",
       "publishedAt": "2026-09-04T11:45:01.501Z",
       "discoveredAt": "2026-09-04T11:45:01.501Z",
@@ -2116,7 +2326,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -2176,7 +2386,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3661,7 +3871,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9734772?from=edn_hottest_index",
-      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 6708",
+      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 6868",
       "description": "",
       "publishedAt": "2026-09-04T09:54:21.096Z",
       "discoveredAt": "2026-09-04T09:54:21.096Z",
@@ -4471,7 +4681,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9734823?from=edn_hottest_index",
-      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 8112",
+      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 8302",
       "description": "富時羅素公布下列有關臺灣50指數、臺灣中型100指數、臺灣資訊科技指數、臺灣發達指數及臺灣高股息指數審核結果。相關成分股納入及刪除變動將自2026年9月18日（星期五）交易結束後生效（亦即自2026年9月21日（星期一）起生效）。如有指數成分股在下次定期審核前之期間被刪除，將以本次候補名單遞補，候補名單自即日起生效。",
       "publishedAt": "2026-09-04T08:47:35.924Z",
       "discoveredAt": "2026-09-04T08:47:35.924Z",
@@ -5165,216 +5375,6 @@
       "description": "知情人士向「日經亞洲」透露，蘋果備受矚目的首款摺疊iPhone目前每天僅能生產「數百支」，主要原因是公司對品質控管標準極...",
       "publishedAt": "2026-09-04T07:37:34.580Z",
       "discoveredAt": "2026-09-04T07:37:34.580Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0e8d2aa76c0e52296f2d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9734839?from=edn_newest_index",
-      "title": "日本總預算申請額創新高 市場憂擴張性財政政策 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本政府各部會已向財務省提出2027年度預算概算需求，財務省今天宣布，一般會計總額達143兆656億日圓（約新台幣28....",
-      "publishedAt": "2026-09-04T07:37:34.580Z",
-      "discoveredAt": "2026-09-04T07:37:34.580Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bcd9875b5f321fcf9c8c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9734836?from=edn_newest_index",
-      "title": "外界籲納外國人解決自衛隊人力荒 日防衛相：不考慮 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本防衛大臣小泉進次郎今天在記者會上表示，為確保自衛隊人力，不考慮任用外國人，今後仍將把自衛隊報考資格限定為持有日本國籍...",
-      "publishedAt": "2026-09-04T07:37:34.580Z",
-      "discoveredAt": "2026-09-04T07:37:34.580Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_efd477b6459962964b8f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9734837?from=edn_newest_index",
-      "title": "預售屋還沒交屋他先做這件事 後來賣房「重購退稅」全飛了 | 稅務法規 | 金融 | 經濟日報",
-      "description": "換屋族如果買的是預售屋，要特別注意房屋最後的「所有權登記日」。高雄國稅局提醒，房地合一稅重購退稅優惠，是提供給「賣舊屋、買新屋」的自住換屋族，如果最後變成「買新屋、賣新屋」，即使兩間房子都符合自住條件，也可能無法適用優惠。",
-      "publishedAt": "2026-09-04T07:37:34.580Z",
-      "discoveredAt": "2026-09-04T07:37:34.580Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_53d9d6417dd549c90a16",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9733044?from=edn_hottest_index",
-      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4978",
-      "description": "台指期夜盤3日以45,902點開高，盤中走勢持續震盪。截至傍晚8點10分，台指期夜盤暫報45,843點、漲24點、漲幅0.05%。剛開盤多方試圖率先攻擊，最高達46,136點，隨後空頭賣壓再起由紅翻黑、最低暫達45,800點，高低點震盪336點，46K大關暫時得而復失，持續於45,800點附近震盪。",
-      "publishedAt": "2026-09-04T07:37:34.580Z",
-      "discoveredAt": "2026-09-04T07:37:34.580Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8bb8fa10f21af5fd7aae",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9734212",
-      "title": "15:09 TISA 資產規模逾210億元 董瑞斌籲增租稅誘因擴大參與",
-      "description": "台股4日盤中重返4.6萬點，投資熱潮讓許多民眾加入市場，台灣金融服務業聯合總會理事長董瑞斌4日於「金融發展與前瞻研討會」致詞表示，TISA制度自去年推出後，資產總值逾210億元，他建議未來進一步納入租稅誘因，擴大全民參與「台灣個人投資儲蓄帳戶」（TISA）制度，共享中長期投資成果。",
-      "publishedAt": "2026-09-04T07:22:48.551Z",
-      "discoveredAt": "2026-09-04T07:22:48.551Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6ceda0300017e99f5d21",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9734798?from=edn_newest_index",
-      "title": "為什麼AI晶片需要「光」？拯救超貴晶片的「矽光子眼科醫生」大解密！ | 科技產業 | 產業 | 經濟日報",
-      "description": "前言：在AI時代，傳統靠「電」傳輸的技術遭遇瓶頸，導致GPU效能發揮不到兩成。科技界為此祭出「矽光子與 CPO」黑科技，將晶片的「大腦（運算晶片）」與「眼睛（光學元件）」完美結合。然而，若封裝後才發現這些「光學眼睛」出現故障，恐讓價值數千美金的晶片大腦直接陪葬報廢！ 本文將帶您輕鬆讀懂這項引領未來的技術，看工程師克服重重困難，打通AI量產的最後一哩路！ 本文改編自宜特小學堂〈別讓昂貴ASIC陪葬！掌握矽光子KGD驗證關鍵，打通CPO量產最後一哩路〉 NVIDIA黃仁勳預期 2027 年 AI 基礎設施將達兆元規模，但傳輸瓶頸導致 GPU 使用率低於 20%。為突破限制，NVIDIA 與台積電積極佈局 CPO（共同封裝光學），透過 COUPE 技術實現光電 3D 異質整合，預計 2026 年邁入量產元年。 然而，從「電」轉「光」是全新的戰場。工程師面臨的不只是漏電，更是漏光、光耦合偏差與訊號衰減等棘手失效。當設計走向實體產品，最關鍵的挑戰，便是如何透過嚴謹的驗證，確保這項高價值技術的可靠度與壽命。 本文將繼續帶領IC工程師轉換視角，從看診電性晶片的「神經內科醫生」變身為治療矽光",
-      "publishedAt": "2026-09-04T07:22:48.551Z",
-      "discoveredAt": "2026-09-04T07:22:48.551Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_750f04e5cd60acaffa48",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9734803?from=edn_newest_index",
-      "title": "群聯執行長潘健成：地端 AI 最大門檻是費用 中小企業成新機會 | 產業熱點 | 產業 | 經濟日報",
-      "description": "群聯（8299）執行長潘健成4日出席科技大師論壇時表示，AI走向地端與邊緣端，最大問題不是技術，而是費用。相較一次投入3,000萬元、5,000萬元甚至1億元，群聯方案可從300萬元至700萬元起步，讓中小企業也有機會導入AI。",
-      "publishedAt": "2026-09-04T07:22:48.551Z",
-      "discoveredAt": "2026-09-04T07:22:48.551Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T23:35:24.416Z",
+  "updatedAt": "2026-09-04T23:45:56.762Z",
   "candidates": [
+    {
+      "id": "cand_1944379f7303107f099d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735835?from=edn_newest_index",
+      "title": "不算戰爭？川普稱美伊衝突「小事一樁」 又揚言轟鎬山 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國與伊朗衝突已持續超過6個月，造成18名美軍官兵死亡及汽油價格飆升。不過，美國總統川普4日再度淡化戰事，稱這場戰爭對美國只是「小事一樁」，並暗示可能攻擊伊朗地下設施「鎬山」（Pickaxe Mountain）。",
+      "publishedAt": "2026-09-04T23:45:56.762Z",
+      "discoveredAt": "2026-09-04T23:45:56.762Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9c821f9140cec3942199",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735830?from=edn_newest_index",
-      "title": "盧比歐將訪哥倫比亞、厄瓜多與秘魯 討論震災、打擊毒品 | 國際焦點 | 國際 | 經濟日報",
+      "title": "盧比歐將訪哥倫比亞、厄瓜多與秘魯 討論震災、打擊毒品 2026-09-05 07:30",
       "description": "美國國務卿盧比歐下週將訪問南美洲國家哥倫比亞、厄瓜多及秘魯，討論美國對哥倫比亞震災救援的支援、深化共同打擊威脅西半球的毒...",
       "publishedAt": "2026-09-04T23:35:24.416Z",
       "discoveredAt": "2026-09-04T23:35:24.416Z",
@@ -3305,7 +3335,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 22507",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 22646",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -3665,7 +3695,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 20148",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 20218",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5346,36 +5376,6 @@
       "description": "基隆市今天大雨狂炸，多處路段豪雨成災，基金一路、南榮路、麥金路、西定路、義一路、義二路等都淹水，甚至有淹到腰部，市府統計過去24小時降雨281毫米，最大時雨量破70毫米。其中外木山大武崙沙灘被大水切成兩半，約1小時大雨沖刷縮時影像曝光。",
       "publishedAt": "2026-09-04T11:13:42.346Z",
       "discoveredAt": "2026-09-04T11:13:42.346Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c518ba6fef25f100928f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9734938",
-      "title": "18:46 央行：8月外匯存底金額為6,019.04億美元 月增76.33億美元",
-      "description": "央行今公布8月外匯存底金額為6,019.04億美元，月增76.33億美元，重新站回6,000億美元大關。",
-      "publishedAt": "2026-09-04T10:56:53.624Z",
-      "discoveredAt": "2026-09-04T10:56:53.624Z",
       "topics": [
         "Taiwan business",
         "investment",

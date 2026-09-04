@@ -1,7 +1,272 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T13:55:18.190Z",
+  "updatedAt": "2026-09-04T14:10:52.574Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-09-04T14:10:52.574Z",
+      "discoveredAt": "2026-09-04T14:10:52.574Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_ef911bf1bcecd42c19d3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9735463",
+      "title": "美股早盤／非農就業超強 但科技股沒在怕 費半揚升近3% 台積電 ADR 漲2% | 美股動態 | 國際 | 經濟日報",
+      "description": "美股道瓊指數4日早盤走跌，主因是新出爐的美國8月非農就業報告比預期強勁，提高了美國聯準會（Fed）本月升息的可能性。",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_252420afbe63c03278a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9735463?from=edn_maintab_index",
+      "title": "美股早盤／非農就業超強 但科技股沒在怕 費半揚升近3% 台積電 ADR 漲2% | 美股動態 | 國際 | 經濟日報",
+      "description": "美股道瓊指數4日早盤走跌，主因是新出爐的美國8月非農就業報告比預期強勁，提高了美國聯準會（Fed）本月升息的可能性。",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a81c32f209db329d8328",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9735486?from=edn_newest_index",
+      "title": "HOYA BIT 奪下 Asia FinTech Awards「Best ESG Campaign」 | 金融脈動 | 金融 | 經濟日報",
+      "description": "台灣加密貨幣交易所 HOYA BIT 首度參與 Asia FinTech Awards，即一舉入圍三項決賽，並拿下「Best ESG Campaign」大獎。依 Asia FinTech Awards 官網歷屆公開得獎名單，HOYA BIT 成為首家獲得該獎項肯定的台灣加密貨幣交易所。",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_91ebb7c127606fb35cf0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9735480?from=edn_newest_index",
+      "title": "美就業報告強化Fed升息預期 美股開盤走勢不一 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國最新公布的8月非農就業人數經季節調整後新增16萬2000人，遠超市場預估值，強化美國聯邦準備理事會（Fed）於本月稍...",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ff15a10aa7faf569c067",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735479?from=edn_newest_index",
+      "title": "路透：習近平擬率領大型商業代表團隨同訪美 | 國際焦點 | 國際 | 經濟日報",
+      "description": "路透社引述兩名消息人士透露，中國國家主席習近平準備率領一個大型商業代表團隨同訪問華府。鑑於美國對中國投資抱持懷疑態度，以...",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8b1c69c1bafa609fcfbd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9735477?from=edn_newest_index",
+      "title": "磊山保經榮獲2026傑出公關獎 品牌整合傳播實力獲專業肯定 | 金融脈動 | 金融 | 經濟日報",
+      "description": "擁有保經業模範生稱號的磊山保經，不僅在保險專業、保戶服務、公益落實及人文關懷上備受肯定，在品牌整合傳播成果上，也獲得專業機構肯定！以「磊山保經十五周年品牌破圈計畫」榮獲財團法人公共關係基金會舉辦的2026傑出公關獎「私部門品牌傳播獎優異獎」。",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_82cc8a85efad7c090660",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9735476?from=edn_newest_index",
+      "title": "Dimerix獲得3400萬澳元非稀釋性融資，為關鍵臨床裡程碑提供資金支持 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "Dimerix已成功與多家澳大利亞和美國獨立貸款機構簽訂非稀釋性融資協議，可獲得3400萬澳元[1]的融資額度，其中包括此前公布的1000萬澳元初始融資[2] 所有貸款機構的融資條款與此前公布的貸款融資協議基本一致[2]，SKIPTAN協議僅作小幅修改，以統一所有貸款機構的關鍵條款（擔保相關條款除外，詳見附錄1） Dimerix已選擇初始僅提取承諾金額的50%，該金額被認為足以完成當前所有計劃中的活動，包括完成DMX-200的ACTION3三期試驗，以及持續推進DMX-652用於治療急性腎損傷的二期試驗[3] 該融資安排提供了在2027年3月31日或之前將承諾總額增至最高5000萬澳元的選擇權（若Dimerix決定行使），但公司目前尚無獲取此額外資金的計劃 該融資安排為Dimerix提供了相當大的財務靈活性，且不會稀釋股東權益 澳大利亞墨爾本2026年9月4日 /美通社/ -- 開發腎病治療方案的臨床階段生物制藥公司Dimerix Limited（ASX: DXB，以下簡稱「Dimerix」）欣然宣布，公司已成功與多家澳大利亞和美國貸款機構簽署非稀釋性貸款融資協議（「貸款協議」），可獲",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_11d7be193b07163c6acb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
+      "publishedAt": "2026-09-04T14:10:36.760Z",
+      "discoveredAt": "2026-09-04T14:10:36.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d33dc49695240b288b47",
       "sourceLastModified": null,
@@ -10,7 +275,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735217",
-      "title": "「末日博士」變樂觀？羅比尼：全球公債殖利率竄升無須過慮 | 國際焦點 | 國際 | 經濟日報",
+      "title": "21:53 「末日博士」變樂觀？羅比尼：全球公債殖利率竄升無須過慮",
       "description": "有「末日博士」之稱的紐約大學教授羅比尼（Nouriel Roubini）表示，最近全球公債大跌、殖利率竄升，其實無須過慮，因為觸動這波債市賣壓的最大驅動力，是市場樂觀預期人工智慧（AI）投資熱潮將產生豐碩果實。",
       "publishedAt": "2026-09-04T13:55:18.190Z",
       "discoveredAt": "2026-09-04T13:55:18.190Z",
@@ -40,7 +305,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9735403",
-      "title": "DeepSeek 傳部署16萬顆華為 AI 晶片 為新資料中心提供算力 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "21:45 DeepSeek 傳部署16萬顆華為 AI 晶片 為新資料中心提供算力",
       "description": "DeepSeek計劃在內蒙古建設的一座大型資料中心，部署至少16萬顆華為最先進的AI加速晶片。這可能打造出目前已知規模最大的華為AI晶片集群之一，並推動大陸進一步減少對輝達晶片的依賴。",
       "publishedAt": "2026-09-04T13:55:18.190Z",
       "discoveredAt": "2026-09-04T13:55:18.190Z",
@@ -771,7 +1036,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1627,7 +1892,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9734748?from=edn_hottest_index",
-      "title": "聯電營收／8月250.45億元創近四年新高 連6月走升 5583",
+      "title": "聯電營收／8月250.45億元創近四年新高 連6月走升 5673",
       "description": "晶圓代工大廠聯電（2303）4日公布8月合併營收250.45億元，月增5.03%、年增30.71%，連續6個月較前月成長，創近四年新高，也是歷史單月第三高。",
       "publishedAt": "2026-09-04T11:45:01.501Z",
       "discoveredAt": "2026-09-04T11:45:01.501Z",
@@ -2091,7 +2356,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -3186,7 +3451,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9734772?from=edn_hottest_index",
-      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 6418",
+      "title": "原想做聊天機器人 Hugging Face 被黃仁勳買下 創辦人身價各飆570億元 6521",
       "description": "",
       "publishedAt": "2026-09-04T09:54:21.096Z",
       "discoveredAt": "2026-09-04T09:54:21.096Z",
@@ -3996,7 +4261,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9734823?from=edn_hottest_index",
-      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 7625",
+      "title": "臺灣50指數成分股新增藥華藥、刪除世芯-KY 7844",
       "description": "富時羅素公布下列有關臺灣50指數、臺灣中型100指數、臺灣資訊科技指數、臺灣發達指數及臺灣高股息指數審核結果。相關成分股納入及刪除變動將自2026年9月18日（星期五）交易結束後生效（亦即自2026年9月21日（星期一）起生效）。如有指數成分股在下次定期審核前之期間被刪除，將以本次候補名單遞補，候補名單自即日起生效。",
       "publishedAt": "2026-09-04T08:47:35.924Z",
       "discoveredAt": "2026-09-04T08:47:35.924Z",
@@ -5124,271 +5389,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_803d332a9ce3dc69c16f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124067/9734768?from=edn_newest_index",
-      "title": "彰化萬美園藝專業供應雀舌黃楊金柳與園藝資材服務全台 | 本地店商焦點 | 商情 | 經濟日報",
-      "description": "彰化萬美園藝資材專業提供台灣雀舌黃楊與金柳批發，並供應美植袋、移植袋、防草布、阻根導板、椰纖毯及各式園藝資材，全台服務，滿足苗木栽培與景觀工程需求。萬美園藝資材位於彰化縣田尾鄉，專業經營台灣雀舌黃楊、雀舌黃楊批發、金柳批發及園藝資材批發，提供美植袋、移植袋、園藝不織布、防草布、雜草抑制蓆、椰纖毯、阻根導板、檔土板、排水板、透水管、培養土、人工草皮、植生袋、土包袋等苗木栽培與園藝工程用品，服務範圍遍及全省、全台地區，滿足各類園藝及景觀工程需求。◎ 台灣雀舌黃楊綠意新選擇 萬美園藝資材以專業資材打造植栽穩定成長環境在城市綠化、庭園造景與景觀工程逐漸受到重視的今日，植物不只是空間中的裝飾，更肩負美化環境、營造綠意與提升景觀質感的重要角色。其中，台灣雀舌黃楊以枝葉細緻、株型優美及適合搭配多元景觀設計等特色，常被運用於庭園、造景、綠籬及盆栽等場域。對於需要長期維護的景觀植栽而言，除了植物本身的選擇，移植、根系保護、土壤介質、排水與抑草等相關資材同樣是影響栽植品質的重要環節。萬美園藝資材有限公司長期專注於園藝及土地工程資材，擁有自家工廠，從原材料選擇、生產製程到產品品質進行全面把關，提供移植袋、美",
-      "publishedAt": "2026-09-04T07:06:12.063Z",
-      "discoveredAt": "2026-09-04T07:06:12.063Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_23a8772acfb457f9ad9a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124067/9734767?from=edn_newest_index",
-      "title": "睡眠呼吸中止症治療打呼門診 客製化止鼾器評估睡眠品質 | 本地店商焦點 | 商情 | 經濟日報",
-      "description": "圖／上誠齒顎矯正中心提供許多人認識上誠齒顎矯正中心唐瑋勗醫師，是因為他在齒顎矯正領域的專業背景，而他投入睡眠醫學與裝置設計的起點，源自十多年前一位患者家屬的求助，這段經歷也讓睡眠呼吸中止症治療打呼門診與客製化止鼾器，逐漸成為他延伸專業的重要方向。一位家屬的求助，成為專業方向的轉折當時，一位正在接受齒顎矯正治療的患者，向唐瑋勗醫師提起父親長期受到睡眠呼吸中止症困擾，除了夜間鼾聲影響家人作息，患者父親的睡眠品質也逐漸下降，白天開始出現精神不濟、注意力下降與健忘等情況。為了處理睡眠問題，患者父親曾嘗試醫師建議的CPAP正壓呼吸器，但始終無法適應配戴時的壓迫感與不適，最後停止使用。經過多方詢問後，家屬得知唐醫師能夠製作口腔止鼾裝置，因此前來尋求協助。這次求助讓唐醫師看見，部分患者明明知道睡眠問題需要處理，卻可能因為無法適應原有設備而放棄，促使他投入睡眠呼吸中止症治療相關研究。圖／上誠齒顎矯正中心提供打呼原因有哪些？可能與顎骨、牙弓與呼吸道結構有關當時剛從美國完成專業訓練返台的唐醫師，原本將工作重心放在齒顎矯正領域，患者家屬提出的問題，讓他開始進一步關注顱顏結構、呼吸道空間、下顎位置、牙弓寬度與",
-      "publishedAt": "2026-09-04T07:06:12.063Z",
-      "discoveredAt": "2026-09-04T07:06:12.063Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0944671d5f288b76ba32",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124067/9734766?from=edn_newest_index",
-      "title": "彼德旺文理補習班 關注孩子數位時代的學習力與成長力 | 本地店商焦點 | 商情 | 經濟日報",
-      "description": "彼德旺深耕台北市大安區小學教育，提供全科數學英文補習與課後安親，小班制教學搭配專業師資，陪伴孩子扎實學習建立自信，讓家長安心放心，孩子快樂成長迎向未來。隨著手機、平板與電腦深入日常生活，孩子接觸數位產品的年齡越來越早，如何在科技便利與兒童學習發展之間取得平衡，也逐漸成為現代家長關注的重要課題。近期一段由認知神經科學博士 Jared Cooney Horvath談論兒童螢幕使用與認知發展的影片，引發許多家長對數位學習的重新思考。Horvath博士長期關注大腦、認知與學習之間的關係，並曾向美國參議會作證，針對數位科技大量進入教育環境後可能帶來的學習與認知影響提出相關觀察。影片中提到，跨國教育資料顯示，在學校大量導入數位科技後，學生的學習表現可能出現下降現象；其中，影片引用的資料指出，每天在學校使用電腦學習時間較長的孩子，測驗表現與極少接觸科技的孩子存在明顯差距。Horvath博士也從認知發展與人類學習機制的角度提出提醒，兒童的學習並不只是接收螢幕上的資訊，更需要透過閱讀、書寫、思考，以及與老師、家長和同儕之間的真實互動來建構理解。這些觀察也讓「孩子是否使用太多螢幕」不再只是家庭管教問題，而",
-      "publishedAt": "2026-09-04T07:06:12.063Z",
-      "discoveredAt": "2026-09-04T07:06:12.063Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-09-04T06:53:12.649Z",
-      "discoveredAt": "2026-09-04T06:53:12.649Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_b41708d25b0a5a48d20f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9734246",
-      "title": "14:37 日圓連日升值 市場押注日銀9月加大升息力道",
-      "description": "日圓近期持續走強，日圓兌美元4日升至156日圓，市場對日本銀行（BOJ）升息預期升溫，帶動日圓快速走升，國銀分析認為，短期日圓走勢仍然偏升，反映日銀在9月升息的機率高達75%，部分投資人更預期單次升息幅度可能超越25個基點，且後續將維持緊縮步調。",
-      "publishedAt": "2026-09-04T06:52:54.940Z",
-      "discoveredAt": "2026-09-04T06:52:54.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cf418d1b60a235f37084",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9734527?from=edn_maintab_index",
-      "title": "台積電收高20元拉升台股收漲693點 周 K 連二紅 台股4日收盤上漲693.47點，終場以46,551.13點作收，成交量8,256億元，漲幅1.51%；單周上漲219點，周K線連二紅。台積電（2330）收盤價2,410元，上漲20元，漲幅0.84%...",
-      "description": "台股4日收盤上漲693.47點，終場以46,551.13點作收，成交量8,256億元，漲幅1.51%；單周上漲477.7點，周K線連二紅。台積電（2330）收盤價2,410元，上漲20元，漲幅0.84%。",
-      "publishedAt": "2026-09-04T06:52:54.940Z",
-      "discoveredAt": "2026-09-04T06:52:54.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aeacec36422f7e388017",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9734734?from=edn_newest_index",
-      "title": "離婚後孩子扶養誰能報？爸陪182天、媽184天 財政部揭認定順序 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "離婚後夫妻輪流照顧孩子，一年下來爸爸陪182天、媽媽184天，只差2天，報稅時孩子的扶養免稅額到底歸誰？一對離婚夫妻因113年度都申報扶養同一名未成年子女，引發國稅局查核，爸爸認為自己支付較多保險、教育等費用，也實際照顧孩子，至少應該能分一半免稅額，但國稅局最後仍不買單。",
-      "publishedAt": "2026-09-04T06:52:54.940Z",
-      "discoveredAt": "2026-09-04T06:52:54.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2bc1b530e75e76f3ca4e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9734731?from=edn_newest_index",
-      "title": "尖點營收／8月7.71億元連6月創高 前8月營收46.7億元、年增76% | 集中市場 | 證券 | 經濟日報",
-      "description": "PCB鑽針廠尖點（8021）4日公布8月合併營收7.71億元，月增5.51%、年增97.75%，自今年3月以來連續6個月改寫單月歷史新高；累計前8月營收46.67億元，年增76.07%。",
-      "publishedAt": "2026-09-04T06:52:54.940Z",
-      "discoveredAt": "2026-09-04T06:52:54.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3a8c19fb768698ff0061",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9734728?from=edn_newest_index",
-      "title": "八貫營收／連續六個月逾3億元 累計前八月25.6億元、年增37％ | 集中市場 | 證券 | 經濟日報",
-      "description": "八貫（1342）企業4日公告8月營收3.07億元，已連續六個月單月營收維持逾3億元高檔水平，亦較去年同期高度成長62.83％，帶動累計前八月營收達25.57億元，年增率37.04％。",
-      "publishedAt": "2026-09-04T06:52:54.940Z",
-      "discoveredAt": "2026-09-04T06:52:54.940Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

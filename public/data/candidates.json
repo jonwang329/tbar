@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T22:05:42.137Z",
+  "updatedAt": "2026-09-04T22:20:57.736Z",
   "candidates": [
+    {
+      "id": "cand_9666c70cff133f7e1e60",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735804?from=edn_newest_index",
+      "title": "美假期前交易清淡 油價震盪收高 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國長週末假期前交易清淡，一方面美國與伊朗近期恢復交火加深供應憂慮，同時俄羅斯與烏克蘭則出現罕見的終戰曙光，削弱地緣政治...",
+      "publishedAt": "2026-09-04T22:20:57.736Z",
+      "discoveredAt": "2026-09-04T22:20:57.736Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_97f9182de204a9dc6545",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9735765",
-      "title": "美就業數據強勁加深升息預期 美股多數收黑 | 美股動態 | 國際 | 經濟日報",
+      "title": "06:00 美就業數據強勁加深升息預期 美股多數收黑",
       "description": "美國公布8月新增就業人數遠高於預期，讓外界對聯準會（Fed）將升息以抑制通膨的預期升高，美股今天多數收黑",
       "publishedAt": "2026-09-04T22:05:42.137Z",
       "discoveredAt": "2026-09-04T22:05:42.137Z",
@@ -1120,7 +1150,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735569?from=edn_hottest_index",
-      "title": "海上苦撐286天 「林肯號」水兵上岸不分男女先做這些事 17482",
+      "title": "海上苦撐286天 「林肯號」水兵上岸不分男女先做這些事 18418",
       "description": "美國海軍「林肯號」（USS Abraham Lincoln）航空母艦自去年11月離開母港聖地牙哥後，在海上度過286天，周三（2日）抵達泰國東部林查班港，預計停留七天。許多船員藉上岸休息的機會，買買襪子、吃點像樣的食物，或做足部護理。",
       "publishedAt": "2026-09-04T17:33:39.267Z",
       "discoveredAt": "2026-09-04T17:33:39.267Z",
@@ -3485,7 +3515,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 19586",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 19632",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5361,36 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9fdef2f84ae11193a1d9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735217?from=edn_newest_index",
-      "title": "「末日博士」變樂觀？羅比尼：全球公債殖利率竄升無須過慮 | 國際焦點 | 國際 | 經濟日報",
-      "description": "有「末日博士」之稱的紐約大學教授羅比尼（Nouriel Roubini）表示，最近全球公債大跌、殖利率竄升，其實無須過慮，因為觸動這波債市賣壓的最大驅動力，是市場樂觀預期人工智慧（AI）投資熱潮將產生豐碩果實。",
-      "publishedAt": "2026-09-04T10:56:53.624Z",
-      "discoveredAt": "2026-09-04T10:56:53.624Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

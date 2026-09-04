@@ -1,7 +1,67 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T22:44:40.568Z",
+  "updatedAt": "2026-09-04T22:55:24.100Z",
   "candidates": [
+    {
+      "id": "cand_15051c0be2eb5ff24c3d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735811?from=edn_newest_index",
+      "title": "川普：習近平攜彭麗媛9/24訪華府 將設國宴接待 | 國際焦點 | 國際 | 經濟日報",
+      "description": "中國國家主席習近平預計本月稍晚訪美，會晤美國總統川普（Donald Trump）。川普今天表示，習近平與妻子彭麗媛將於2...",
+      "publishedAt": "2026-09-04T22:55:24.100Z",
+      "discoveredAt": "2026-09-04T22:55:24.100Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_782143aba6d61ad298af",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735810?from=edn_newest_index",
+      "title": "選前淡化伊朗戰事 川普：對美國而言僅「小菜一碟」 | 國際焦點 | 國際 | 經濟日報",
+      "description": "隨著期中選舉愈來愈近，美國總統川普今天表示，伊朗戰爭對美國而言只是「小菜一碟」，這是他的政府在選前試圖淡化這場衝突的最新...",
+      "publishedAt": "2026-09-04T22:55:24.100Z",
+      "discoveredAt": "2026-09-04T22:55:24.100Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_af3d26f3ef6a340497e0",
       "sourceLastModified": null,
@@ -144,7 +204,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1210,7 +1270,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735569?from=edn_hottest_index",
-      "title": "海上苦撐286天 「林肯號」水兵上岸不分男女先做這些事 21617",
+      "title": "海上苦撐286天 「林肯號」水兵上岸不分男女先做這些事 2026-09-04 23:07",
       "description": "美國海軍「林肯號」（USS Abraham Lincoln）航空母艦自去年11月離開母港聖地牙哥後，在海上度過286天，周三（2日）抵達泰國東部林查班港，預計停留七天。許多船員藉上岸休息的機會，買買襪子、吃點像樣的食物，或做足部護理。",
       "publishedAt": "2026-09-04T17:33:39.267Z",
       "discoveredAt": "2026-09-04T17:33:39.267Z",
@@ -3215,7 +3275,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 2026-09-04 21:03",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 21941",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -3575,7 +3635,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 19840",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 19911",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5327,66 +5387,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_51f2779025dd6a6a7c83",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9735226?from=edn_newest_index",
-      "title": "揚智遭起訴延遲重訊 證交所開罰 | 集中市場 | 證券 | 經濟日報",
-      "description": "台灣證券交易所表示，針對揚智（3041）違反重大訊息規定，處以新台幣5萬元違約金。",
-      "publishedAt": "2026-09-04T10:56:53.624Z",
-      "discoveredAt": "2026-09-04T10:56:53.624Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_870ca35cd3e02711eba8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9735225?from=edn_newest_index",
-      "title": "證交所前進倫敦推廣亞資中心 深化全球資金鏈結 | 市場焦點 | 證券 | 經濟日報",
-      "description": "近年國際資金對台股參與持續提升，外資持有上市股票市值占比由2022年的39.56%，大幅成長至2026年第2季的48.61%，已逼近五成，顯示國際資金不僅是台股重要參與者，也日益成為台灣企業連結全球資本市場的重要力量。為進一步提升台灣市場國際能見度並深化全球資金鏈結，台灣證券交易所持續辦理海外市場推廣與引資活動，協助國際投資人深入掌握台灣企業、產業及資本市場的發展機會。",
-      "publishedAt": "2026-09-04T10:56:53.624Z",
-      "discoveredAt": "2026-09-04T10:56:53.624Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

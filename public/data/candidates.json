@@ -1,7 +1,217 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-04T08:11:05.647Z",
+  "updatedAt": "2026-09-04T08:29:52.371Z",
   "candidates": [
+    {
+      "id": "cand_7705f0218966428a86dc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5616/9734905",
+      "title": "新台幣大升1.25角 收31.63元 | 外匯市場 | 金融 | 經濟日報",
+      "description": "台北外匯市場新台幣兌美元今天收盤收31.63元，大升1.25角，成交金額18.75億美元",
+      "publishedAt": "2026-09-04T08:29:52.371Z",
+      "discoveredAt": "2026-09-04T08:29:52.371Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_38eb3dc78bcdd598d986",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5616/9734905?from=edn_maintab_index",
+      "title": "新台幣大升1.25角 收31.63元 | 外匯市場 | 金融 | 經濟日報",
+      "description": "台北外匯市場新台幣兌美元今天收盤收31.63元，大升1.25角，成交金額18.75億美元",
+      "publishedAt": "2026-09-04T08:29:52.371Z",
+      "discoveredAt": "2026-09-04T08:29:52.371Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5878dd7ad72384d9aa39",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/12040/9734935?from=edn_newest_index",
+      "title": "遺囑不是寫了就有效！高齡家庭最常踩的3大盲點 不動產最容易引爆爭議 | 個人理財 | 理財 | 經濟日報",
+      "description": "高齡化社會下，越來越多家庭面臨不動產繼承的難題。遺囑，是許多長輩希望用來保護家人的方式，卻也常因程序疏漏或安排不完整，反而成為家族衝突的導火線。釐清遺囑的法定要件與常見盲點，是降低家庭衝突風險的第一步。 近來，長榮集團創辦人家族遺產爭議，再次引發關注。整起事件不僅牽涉龐大資產，更凸顯高資產家族在遺囑、死因贈與、基金會安排與不動產繼承上的複雜法律問題。筆者常接觸一類案件：長輩累積不少土地、房屋、店面或祖產，但卻擔心過世後，家族因遺產分配而產生衝突。 許多家庭的不動產結構本就高度複雜。除了自住房屋，還有出租住宅、農地、祖厝、共有土地，甚至早年以家族名義購置、但未完整辦理分割的不動產。現代家庭關係多元，許多長輩對照顧者有不同安排，情感與財產交錯，使「不動產繼承」成為最容易引發家族爭議的領域之一。",
+      "publishedAt": "2026-09-04T08:29:52.371Z",
+      "discoveredAt": "2026-09-04T08:29:52.371Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_af8435fb4f43f8750ff1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9734942?from=edn_newest_index",
+      "title": "高雄銀行助豪雨受災戶取得災後復原貸款資金 減輕還款壓力 | 金融脈動 | 金融 | 經濟日報",
+      "description": "0822豪雨重創南台灣，造成多地淹水及農財損，高雄銀行為協助南台灣居民能夠迅速恢復正常生活，自即日起凡為高雄銀行的房屋貸款及廠房貸款既有客戶，因此次水災造成生活或企業營運受影響者，提供一年寬限期，寬限期間暫緩償還本金，對之前已辦理過寬限期者，高銀亦提供再延長一年寬限期措施，以助民眾減輕壓力、安心度過災後復原期。",
+      "publishedAt": "2026-09-04T08:29:52.371Z",
+      "discoveredAt": "2026-09-04T08:29:52.371Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0fbf87e1ea36d742bf4a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734941?from=edn_newest_index",
+      "title": "台泥旗下達和航運獲 ISO 50001驗證 船隊能源管理接軌國際標準 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台泥（1101）4日宣布，旗下達和航運公司通過英國標準協會（BSI）ISO 50001:2018能源管理系統驗證，成為全亞洲地區首家取得BSI ISO 50001驗證的航運業者，並由達和航運董事長蔡立文代表接受驗證證書，共有11艘涵蓋水泥專用船與散裝船的營運船舶納入驗證範圍。",
+      "publishedAt": "2026-09-04T08:29:52.371Z",
+      "discoveredAt": "2026-09-04T08:29:52.371Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b4b2c52bd5981027f545",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9734938?from=edn_newest_index",
+      "title": "央行：8月外匯存底金額為6,019.04億美元 月增76.33億美元 | 金融脈動 | 金融 | 經濟日報",
+      "description": "央行今公布8月外匯存底金額為6,019.04億美元，月增76.33億美元，重新站回6,000億美元大關。",
+      "publishedAt": "2026-09-04T08:29:52.371Z",
+      "discoveredAt": "2026-09-04T08:29:52.371Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_14bd6f863b7cdfac916c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734936?from=edn_newest_index",
+      "title": "搶開學季商機 中華電信網路門市指定方案抽 iPad Pro、MacBook Neo | 產業熱點 | 產業 | 經濟日報",
+      "description": "迎接新學期，中華電（2412）表示，網路門市推出「聰明開學，精采接棒」活動，整合行動、寬頻、影音及購物優惠，打造一站式開學數位生活體驗；新申請/攜碼任一行動方案，加碼抽SONY WF-C510藍牙耳機；新申請/升速HiNet光世代100M（含）以上方案，則享MacBook Neo抽獎機會；申請上述指定方案還可抽iPad Pro。",
+      "publishedAt": "2026-09-04T08:29:52.371Z",
+      "discoveredAt": "2026-09-04T08:29:52.371Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6882accf41a62add8f3c",
       "sourceLastModified": null,
@@ -10,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9734477",
-      "title": "減碼800億美元美國公債？全球最大主權基金擬轉買這項資產 | 國際焦點 | 國際 | 經濟日報",
+      "title": "15:58 減碼800億美元美國公債？全球最大主權基金擬轉買這項資產",
       "description": "全球最大主權基金之一、規模2.3兆美元的挪威政府全球養老基金，可能減持約800億美元美國公債。如果該基金管理機構的提案獲准，大型國家投資人重新配置美債的重要訊號。在美國政府債務攀升、美債殖利率處於多年高點之際，相關的賣盤可能加重市場壓力，並牽動全球固定收益資產定價。",
       "publishedAt": "2026-09-04T08:11:05.647Z",
       "discoveredAt": "2026-09-04T08:11:05.647Z",
@@ -580,7 +790,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9733044?from=edn_hottest_index",
-      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4904",
+      "title": "台指期夜盤多空激戰！上半場46K 大關得而復失 4912",
       "description": "台指期夜盤3日以45,902點開高，盤中走勢持續震盪。截至傍晚8點10分，台指期夜盤暫報45,843點、漲24點、漲幅0.05%。剛開盤多方試圖率先攻擊，最高達46,136點，隨後空頭賣壓再起由紅翻黑、最低暫達45,800點，高低點震盪336點，46K大關暫時得而復失，持續於45,800點附近震盪。",
       "publishedAt": "2026-09-04T07:37:34.580Z",
       "discoveredAt": "2026-09-04T07:37:34.580Z",
@@ -1445,7 +1655,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9732536?from=edn_hottest_index",
-      "title": "「你不懂力旺就買台積電」董事陳莉菁超直白談股價 網友：率真到想買股票 5736",
+      "title": "「你不懂力旺就買台積電」董事陳莉菁超直白談股價 網友：率真到想買股票 5776",
       "description": "矽智財（IP）廠商力旺（3529）日前受邀參與櫃買中心舉辦業績發表會，其中，董事「陳姐」陳莉菁先前在會中表示，公司後市只會越來越好，為何股價會跌自己也很「無言」，甚至脫口，「你不知道怎麼買股票就去買台積電（2330）」，率真的發言意外受到網友關注，引發熱議。",
       "publishedAt": "2026-09-04T06:36:31.417Z",
       "discoveredAt": "2026-09-04T06:36:31.417Z",
@@ -1985,7 +2195,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9733177?from=edn_hottest_index",
-      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6795",
+      "title": "美股早盤／Fed升息預期下降 道瓊漲400點 博通跌5% 台積電ADR跌1% 6800",
       "description": "美股周四（3日）早盤三大指數走高，美國國債殖利率回落，聯準會（Fed）升息壓力減輕，交易員持續關注油價走勢，並等待本周稍晚公布最新的美國就業數據。",
       "publishedAt": "2026-09-04T05:45:25.019Z",
       "discoveredAt": "2026-09-04T05:45:25.019Z",
@@ -4216,7 +4426,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4382,7 +4592,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9732972?from=edn_hottest_index",
-      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10684",
+      "title": "彭博：星宇過去三個月只收到一架A330neo 品質問題導致空巴產量放緩 10758",
       "description": "彭博新聞3日報導，知情人士透露，空中巴士（Airbus）在6和7月沒有向星宇航空交付任何A330neo飛機，8月也只交付了一架。報導指出，空巴發現A330neo的尾翼有品質缺陷，導致過去三個月來交機幾乎停擺。",
       "publishedAt": "2026-09-04T02:27:30.699Z",
       "discoveredAt": "2026-09-04T02:27:30.699Z",
@@ -4396,7 +4606,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -5181,216 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_77f9dd6fdd24fadd572b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9733791?from=edn_newest_index",
-      "title": "中華化營收／8月年月雙增 法人看好第3季、第4季成長加速 | 集中市場 | 證券 | 經濟日報",
-      "description": "中華化（1727）8月營收月增9%、年增62.6%，累計前八月營收年增26.3%；法人機構表示，主要受惠於電子級硫酸需求爬坡與半導體客戶拉貨力道擴大，自第2季投產後逐漸放量。",
-      "publishedAt": "2026-09-04T01:09:33.501Z",
-      "discoveredAt": "2026-09-04T01:09:33.501Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_35b2305d5f9fee9e9029",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9733789?from=edn_newest_index",
-      "title": "科技巨頭投資聯發科 宏碁陳俊聖：台廠成全球AI資本根基 | 產業熱點 | 產業 | 經濟日報",
-      "description": "科技巨頭輝達（NVIDIA）與Google日前宣布投資認購聯發科海外可轉換公司債（ECB）。電腦品牌廠宏碁董事長暨執行長...",
-      "publishedAt": "2026-09-04T01:09:33.501Z",
-      "discoveredAt": "2026-09-04T01:09:33.501Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_16e641c64318e3159935",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9733784?from=edn_newest_index",
-      "title": "精星10月1日起終止櫃檯買賣 | 櫃買動態 | 證券 | 經濟日報",
-      "description": "櫃買中心（Taipei Exchange）表示，台灣精星科技（8183）以股份轉換方式，成為精成科技（6191）百分之百持股子公司，核有櫃買中心業務規則應終止有價證券櫃檯買賣情事，自2026年9月23日起停止精星有價證券交易，並自10月1日起終止其有價證券櫃檯買賣。",
-      "publishedAt": "2026-09-04T01:09:33.501Z",
-      "discoveredAt": "2026-09-04T01:09:33.501Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_861ddfc2bab49f704b08",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9733778?from=edn_newest_index",
-      "title": "2026秋季韓國宮中文化慶典門票將於9月4日開售 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "秋色滿宮，佳期有約：2026韓國宮中文化慶典 - 活動於10月7日-11日在四大王宮及宗廟舉辦，將增加國際訪客參與機會 - 全新項目首次亮相，包括「奎章閣抄啟文臣研習工坊」與「探尋朝鮮空間」 韓國首爾2026年9月4日 /美通社/ -- 2026秋季韓國宮中文化慶典由韓國國家遺產廳(Korea Heritage Service)宮陵遺址本部（Royal Palaces and Tombs Center,部長Jo Gyu-hyeong）主辦，國家遺產廳下屬機構韓國遺產振興院（Korea Heritage Agency，院長Lee Gui-young）承辦，將於10月7日（周三）至10月11日（周日），在景福宮、昌德宮、德壽宮、昌慶宮四大王宮及宗廟，舉行為期五天的活動。 Hanbok Royal Banquet (Yeonhyang) 韓國宮中文化慶典是韓國最具代表性的國家遺產節慶，在首爾各王宮與宗廟推出一系列演出、展覽、手作體驗以及歷史情景復原項目。2026年春季慶典共吸引約72.5萬人次參觀，創下歷史新高。秋季慶典將帶來與春季截然不同的全新體驗，夜間觀覽、導覽解說與手作體驗項目全面擴充",
-      "publishedAt": "2026-09-04T01:09:33.501Z",
-      "discoveredAt": "2026-09-04T01:09:33.501Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6e131db27dd81c64f729",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733742",
-      "title": "08:40 美國7月對台灣貿易逆差創歷史新高 今年來逆差暴增逾80% 因 AI 採購熱",
-      "description": "美國7月貿易逆差大幅擴大，創2025年初以來最高，主要反映電腦及其他科技設備進口激增。尤其值得注意的是，美國上月對台灣貿易逆差達到207億美元，創下歷史新高。",
-      "publishedAt": "2026-09-04T00:55:39.187Z",
-      "discoveredAt": "2026-09-04T00:55:39.187Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d9bceddf370f31e95c20",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9733772?from=edn_newest_index",
-      "title": "白宮推出驅逐移民遊戲 人權團體怒轟 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普的白宮今天推出一個網站，提供融入「讓美國再次偉大」（MAGA）元素的經典街機遊戲，玩家能在遊戲中驅逐移民並建...",
-      "publishedAt": "2026-09-04T00:55:39.187Z",
-      "discoveredAt": "2026-09-04T00:55:39.187Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_27c62ded7574447f56fb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9733771?from=edn_newest_index",
-      "title": "基隆北海岸及北市山區防豪雨 桃園以北宜蘭局部大雨 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "中央氣象署發布豪雨特報，低壓帶影響，易有短延時強降雨，今日基隆北海岸及台北市山區有局部大雨或豪雨，桃園以北及宜蘭地區有局...",
-      "publishedAt": "2026-09-04T00:55:39.187Z",
-      "discoveredAt": "2026-09-04T00:55:39.187Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

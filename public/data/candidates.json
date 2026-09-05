@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T07:55:33.897Z",
+  "updatedAt": "2026-09-05T08:12:01.480Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T07:55:33.897Z",
+      "discoveredAt": "2026-09-05T08:12:01.480Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T07:55:33.897Z",
+      "discoveredAt": "2026-09-05T08:12:01.480Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_bc439467b3fd2bb3b516",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9736498?from=edn_newest_index",
+      "title": "Minor Hotels攜手Checkout.com為全球酒店業務提供高性能支付服務 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "Checkout.com將通過其全球收單網絡支持Minor Hotels的全球擴張，為其國際市場提供高性能支付服務 AI驅動的支付優化將幫助Minor Hotels提高支付成功率，為賓客帶來更加順暢、安全的結賬體驗 具備本地收單能力和專業經驗的全球支付合作夥伴將幫助簡化運營，並減少支付失敗造成的收入損失 新加坡2026年9月5日 /美通社/ -- 全球領先的數字支付公司Checkout.com昨日宣佈與全球酒店集團Minor Hotels達成合作。Minor Hotels目前在67個國家和地區擁有超過640家酒店。 Minor Hotels旗下擁有多元化的酒店及度假村組合，同時經營餐飲業務和豪華交通服務。隨著集團持續拓展全球市場，Minor Hotels正在整合其支付基礎設施，為業務增長建立統一、穩定的基礎，並確保為賓客提供高品質的數字支付體驗。 通過此次合作，Checkout.com將為Minor Hotels在全球多個市場的度假村物業提供全球收單及支付優化能力。Minor Hotels選擇Checkout.com，是因為其具備全球覆蓋能力和本地專業經驗，能夠在多個國際市場提供高性能",
+      "publishedAt": "2026-09-05T08:11:52.452Z",
+      "discoveredAt": "2026-09-05T08:11:52.452Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_1e7a56e127e6ac219e77",
@@ -217,6 +247,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_03a3668f623238bc1f55",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9736481",
+      "title": "鴻海營收／8月9,218億元為歷史次高、同期新高 受惠 AI 強勁拉貨 | 集中市場 | 證券 | 經濟日報",
+      "description": "鴻海（2317）5日公布8月營收為9,218億元，創歷史次高、同期新高，月減2.61%，年增51.98%。今年累計前八月營收為6.51兆元，創同期新高，年增39.73%。",
+      "publishedAt": "2026-09-05T08:11:52.452Z",
+      "discoveredAt": "2026-09-05T08:11:52.452Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_36a4914ad1031aed88e3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -224,7 +284,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9736481?from=edn_maintab_index",
-      "title": "鴻海營收／8月9,218億元為歷史次高、同期新高 受惠 AI 強勁拉貨 | 集中市場 | 證券 | 經濟日報",
+      "title": "鴻海營收／8月9,218億元為歷史次高、同期新高 受惠 AI 強勁拉貨 鴻海（2317）5日公布8月營收為9,218億元，創歷史次高、同期新高，月減2.61%，年增51.98%。今年累計前八月營收為6.51兆元，創同期新高，年增39.73%。 展望第3季，鴻海表示，第...",
       "description": "鴻海（2317）5日公布8月營收為9,218億元，創歷史次高、同期新高，月減2.61%，年增51.98%。今年累計前八月營收為6.51兆元，創同期新高，年增39.73%。",
       "publishedAt": "2026-09-05T07:55:25.714Z",
       "discoveredAt": "2026-09-05T07:55:25.714Z",
@@ -718,6 +778,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_fa1214231aa9357e74f7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9736499?from=edn_newest_index",
+      "title": "CHiQ榮獲AI家居生態品牌獎，以AI創新探索智慧生活新體驗 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "柏林2026年9月5日 /美通社/ -- 在2026年國際消費電子及家電展覽會（IFA）期間，全球智能家居品牌CHiQ憑借在人工智能技術及智能家居生態領域的持續創新，榮獲AI家居生態品牌獎（AI Home Ecosystem Brand Award）。此次獲獎，進一步彰顯了CHiQ在AI智能家居領域的創新實踐，也體現了品牌持續以技術創新推動用戶體驗升級的探索。 作為IFA期間備受全球消費電子與家電行業關注的技術創新評選之一，該獎項由IDG與IFA官方頒發，聚焦消費電子與家電領域具有代表性的前沿AI技術創新成果，旨在關注推動行業發展的技術實踐與創新應用。 長虹國際區品牌業務中心副總經理范偉文（Vinson Fan）表示，\"獲得AI家居生態品牌獎，是對CHiQ持續探索AI智能家居的肯定。AI的價值不應只體現在單一產品的智能功能上，更應體現在對用戶需求的理解，以及不同設備、場景之間的自然協同。CHiQ將持續推動AI技術與家居生活深度融合，讓智能家居更加貼近用戶、服務用戶，並為全球消費者帶來更加便捷、自然和個性化的生活體驗。\" 本屆IFA展會，CHiQ帶來多款AI智能家居旗艦新品，覆蓋電視、冰",
+      "publishedAt": "2026-09-05T08:11:52.452Z",
+      "discoveredAt": "2026-09-05T08:11:52.452Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_ab6aea3d323510806f80",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -725,7 +815,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9735232?from=edn_hottest_index",
-      "title": "信驊破天荒招畢業生吸千人報考！林鴻明喊話：快帶徒弟！預告二度漲價 6776",
+      "title": "信驊破天荒招畢業生吸千人報考！林鴻明喊話：快帶徒弟！預告二度漲價 6864",
       "description": "台股股王信驊（5274）創業22年採取精兵制，員工人數僅100多人(未計入子公司)，過去一向只用資深人才，董事長林鴻明4日表示，今年破天荒招募20幾位碩博士應屆畢業生，人力增幅創歷年之最，原因是傳承及AI。他也透露今年將二度調高晶片售價，員工平均獲利貢獻將僅次於輝達（NVIDIA）。",
       "publishedAt": "2026-09-05T07:34:11.993Z",
       "discoveredAt": "2026-09-05T07:34:11.993Z",

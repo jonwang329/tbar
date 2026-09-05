@@ -18,7 +18,7 @@ export function readableTitle(item) {
 
 export function canonicalKey(item) {
   try {
-    const url = new URL(item.url);
+    const url = new URL(item.url || item.sourceUrl);
     const host = url.hostname.replace(/^www\./, '').toLowerCase();
     const path = url.pathname.replace(/\/+$/, '') || '/';
     if (host === 'moda.gov.tw') {
@@ -28,7 +28,7 @@ export function canonicalKey(item) {
     }
     return `${host}:${path}`;
   } catch {
-    return clean(item.url).toLowerCase();
+    return clean(item.url || item.sourceUrl || item.storyId).toLowerCase();
   }
 }
 
@@ -46,20 +46,30 @@ function evidenceReasons(item) {
 function qualityPenalty(item) {
   const title = readableTitle(item);
   let penalty = 0;
-  if (!clean(item.description)) penalty += 5;
+  if (!clean(item.description || item.executiveSummary)) penalty += 5;
   if (title.length < 8) penalty += 6;
   if (/^(news and releases|background information|公告訊息|多媒體專區)$/i.test(title)) penalty += 12;
   return penalty;
 }
 
+function executiveRelevant(item) {
+  if (item.contentType && ['interview','podcast','speech','keynote','fireside chat','q&a'].includes(String(item.contentType).toLowerCase())) return true;
+  if (item.leaderMatch) return true;
+  if ((item.importanceScore || 0) >= 88 && (item.businessScore || 0) >= 75) return true;
+  if ((item.businessScore || 0) < 75) return false;
+  const text = `${item.title || ''} ${item.description || ''} ${(item.topics || []).join(' ')}`.toLowerCase();
+  return /(\bai\b|gpu|semiconductor|chip|data\s*center|datacenter|cloud|network|model|agent|inference|training|compute|capex|earnings|infrastructure|sovereign ai|power|cooling|open source|open model)/i.test(text);
+}
+
 export function toReviewCandidate(item) {
   const normalized = {
     ...item,
+    url: item.url || item.sourceUrl,
     title: readableTitle(item),
     noveltyScore: Number.isFinite(item.noveltyScore) ? item.noveltyScore : 70
   };
   normalized.tbarScore = Math.max(0, calculateTbarScore(normalized) - qualityPenalty(normalized));
-  normalized.lane = selectLane(normalized);
+  normalized.lane = item.lane || selectLane(normalized);
   normalized.reviewStatus = 'pending';
   normalized.needsHumanReview = true;
   normalized.reviewReason = evidenceReasons(normalized).join(' · ') || 'monitor';
@@ -70,8 +80,8 @@ export function toReviewCandidate(item) {
 function preferCandidate(a, b) {
   const aTitleQuality = /^https?:\/\//i.test(clean(a.title)) ? 0 : 1;
   const bTitleQuality = /^https?:\/\//i.test(clean(b.title)) ? 0 : 1;
-  const aDescription = clean(a.description).length;
-  const bDescription = clean(b.description).length;
+  const aDescription = clean(a.description || a.executiveSummary).length;
+  const bDescription = clean(b.description || b.executiveSummary).length;
   const aEnglishPenalty = /\/en\//.test(a.url || '') ? 1 : 0;
   const bEnglishPenalty = /\/en\//.test(b.url || '') ? 1 : 0;
   const aScore = a.tbarScore * 1000 + aTitleQuality * 100 + Math.min(aDescription, 99) - aEnglishPenalty;
@@ -83,6 +93,7 @@ export function buildReviewQueue(candidates, generatedAt = new Date().toISOStrin
   const byKey = new Map();
   for (const raw of candidates || []) {
     const item = toReviewCandidate(raw);
+    if (!executiveRelevant(item)) continue;
     const existing = byKey.get(item.canonicalKey);
     byKey.set(item.canonicalKey, existing ? preferCandidate(existing, item) : item);
   }
@@ -90,7 +101,7 @@ export function buildReviewQueue(candidates, generatedAt = new Date().toISOStrin
   const ranked = [...byKey.values()].sort((a, b) => b.tbarScore - a.tbarScore || new Date(b.publishedAt) - new Date(a.publishedAt));
   const take = (lane, limit) => ranked.filter(item => item.lane === lane).slice(0, limit);
   const queue = {
-    version: 3,
+    version: 4,
     generatedAt,
     publishStatus: 'human_review_required',
     mustKnow: take('must_know', 3),

@@ -1,7 +1,97 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-05T05:34:35.669Z",
+  "updatedAt": "2026-09-05T05:44:56.794Z",
   "candidates": [
+    {
+      "id": "cand_6983686787a92d740058",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9736341?from=edn_newest_index",
+      "title": "勞動部接見美方訪團 深化台美勞動事務合作 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "美國工會及勞工團體領袖於8月29日至9月4日來台。勞動部政務次長黃玲娜於8月31日上午接見訪團拜會時指出，美國是台灣重要的國際夥伴，雙方共享民主、自由及人權等普世價值，在勞動事務上長期保持密切交流與合作。",
+      "publishedAt": "2026-09-05T05:44:56.794Z",
+      "discoveredAt": "2026-09-05T05:44:56.794Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_389cbf5e0ca37cac6891",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736333?from=edn_newest_index",
+      "title": "路透：白宮審查人選 傳可能撤換副戰爭部長費恩柏格 | 國際焦點 | 國際 | 經濟日報",
+      "description": "數名消息人士告訴路透社，白宮已審查可能接替戰爭部副部長費恩柏格（Steve Feinberg）的人選。這顯示五角大廈面臨...",
+      "publishedAt": "2026-09-05T05:44:56.794Z",
+      "discoveredAt": "2026-09-05T05:44:56.794Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f1dfd04540b10aa34357",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736331?from=edn_newest_index",
+      "title": "鹿兒島屋久島24小時雨量破紀錄 一度發布最高級土石災害警報 | 國際焦點 | 國際 | 經濟日報",
+      "description": "受颱風及秋雨鋒面影響，日本鹿兒島縣種子島、屋久島地區降下創紀錄大雨，日本氣象廳一度對屋久島町發布第5級土石災害特別警報，...",
+      "publishedAt": "2026-09-05T05:44:56.794Z",
+      "discoveredAt": "2026-09-05T05:44:56.794Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_221a1226ff24d918cc28",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9736277",
-      "title": "美股升息陰霾罩頂 費半卻逆勢漲3.4% 下周 CPI 定方向 | 美股動態 | 國際 | 經濟日報",
+      "title": "13:20 美股升息陰霾罩頂 費半卻逆勢漲3.4% 下周 CPI 定方向",
       "description": "美股下周焦點將從就業轉向通膨。美國8月就業遠優於預期，使聯準會（Fed）本月升息機率直逼六成，周四、周五接連公布的生產者物價指數（PPI）和消費者物價指數（CPI），可能成為Fed 9月15至16日開會是否升息的最後關鍵。與此同時，美國10年期公債殖利也逼向市場警戒的5%，也可能成為美股另一道壓力。",
       "publishedAt": "2026-09-05T05:34:35.669Z",
       "discoveredAt": "2026-09-05T05:34:35.669Z",
@@ -40,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9736326?from=edn_newest_index",
-      "title": "內政部公告發錢了！「這些津貼」都調高 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "內政部公告發錢了！「這些津貼」都調高 2026-09-05 13:33",
       "description": "行政院會日前通過「2026年度中央政府總預算追加預算案」，內政部表示，配合軍公教待遇調整，村里長事務補助費及議員助理補助費將溯自2026年7月1日起調增。今年7月至12月所需新增經費約3億元，預計全國7,781名村里長及約3,328名議員助理受惠。",
       "publishedAt": "2026-09-05T05:34:35.669Z",
       "discoveredAt": "2026-09-05T05:34:35.669Z",
@@ -70,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9736307?from=edn_newest_index",
-      "title": "損失近9.4億！「大陸白茶第一鎮」遭颱風重創 茶商百萬庫存一夜泡湯 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "損失近9.4億！「大陸白茶第一鎮」遭颱風重創 茶商百萬庫存一夜泡湯 2026-09-05 13:21",
       "description": "受颱風「沙德爾」外圍氣流及冷空氣共同影響，福鼎市自8月31日夜間起連降特大暴雨，點頭鎮最大小時雨量高達127毫米，昔日繁華的「大陸白茶第一街」迅速淪為混濁河道。沿街茶舖首層幾乎無一倖免，店內平均水位達1.2公尺，大量白茶茶餅、散茶及包裝漂浮在淤泥與污水中，茶商百萬庫存全數一夜泡湯。",
       "publishedAt": "2026-09-05T05:34:35.669Z",
       "discoveredAt": "2026-09-05T05:34:35.669Z",
@@ -1729,7 +1819,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5284,96 +5374,6 @@
       "url": "https://money.udn.com/money/story/5599/9735513?from=edn_newest_index",
       "title": "路透：AI代理「集體越獄」 繞過限制劫持德國網站 2026-09-04 22:36",
       "description": "根據今天發布的新研究以及兩位知情人士透露，今年春天一群失控的OpenAI人工智慧代理（AI Agent）劫持一個德國網站...",
-      "publishedAt": "2026-09-04T14:46:08.290Z",
-      "discoveredAt": "2026-09-04T14:46:08.290Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_474a7063f1516f70e367",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735510?from=edn_newest_index",
-      "title": "川普施壓 Fed 出新招 揚言不降息 就與貿易逆差國停止貿易 2026-09-04 22:35",
-      "description": "美國總統川普4日在自家社群平台Truth Social發文，呼籲聯準會降低利率，否則他將停止與美國存在貿易逆差的國家進行貿易。",
-      "publishedAt": "2026-09-04T14:46:08.290Z",
-      "discoveredAt": "2026-09-04T14:46:08.290Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_053d69a0e96f27a2788f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9735502?from=edn_newest_index",
-      "title": "「台中工作、彰化居住」更明顯？會展＋產業雙引擎啟動 中彰生活圈再往前一步 2026-09-04 22:31",
-      "description": "經濟日報每日提供除產業、股市、金融、國際、彭博及專欄等即時財經新聞，並針對重要議題製作去碎片、有脈絡的深度內容，提供解讀、分析、整理、精選專題、專家觀點等，幫助讀者擺脫資訊碎片化的困擾。",
-      "publishedAt": "2026-09-04T14:46:08.290Z",
-      "discoveredAt": "2026-09-04T14:46:08.290Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fbe30595498c2fbb2d4d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9735507?from=edn_newest_index",
-      "title": "嘉楠風華酒店八周年慶滿千折百、搶國旅下猛藥第二晚0元 | 生活 | 要聞 | 經濟日報",
-      "description": "嘉義市指標飯店「嘉楠風華酒店」舉辦八周年慶，祭出官網指定專案「來嘉七逃」滿千折百大優惠，民眾身分證字號與西元出生年月日數字中含有8個「8」，可免費入住價值萬元頂級VIP套房，還有館內高人氣空中酒吧與奇幻魔法堡88折同慶優惠。",
       "publishedAt": "2026-09-04T14:46:08.290Z",
       "discoveredAt": "2026-09-04T14:46:08.290Z",
       "topics": [

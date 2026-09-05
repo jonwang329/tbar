@@ -1,7 +1,187 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-05T04:35:18.452Z",
+  "updatedAt": "2026-09-05T04:46:35.351Z",
   "candidates": [
+    {
+      "id": "cand_1e4e609c8c2dcb09cd6e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9735569",
+      "title": "海上苦撐286天 「林肯號」水兵上岸不分男女先做這些事 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國海軍「林肯號」（USS Abraham Lincoln）航空母艦自去年11月離開母港聖地牙哥後，在海上度過286天，周三（2日）抵達泰國東部林查班港，預計停留七天。許多船員藉上岸休息的機會，買買襪子、吃點像樣的食物，或做足部護理。",
+      "publishedAt": "2026-09-05T04:46:35.351Z",
+      "discoveredAt": "2026-09-05T04:46:35.351Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bf751ef134bbcec7dc83",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9736258?from=edn_newest_index",
+      "title": "徐欣瑩稱沒承諾禮讓竹北 黃國昌：繼續公然說謊只會越來越難看 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "竹北市長選戰藍白合破局，國民黨新竹縣長參選人徐欣瑩稱藍白從未達成禮讓竹北市長的協議，她也未給白承諾。民眾黨主席黃國昌今天...",
+      "publishedAt": "2026-09-05T04:46:35.351Z",
+      "discoveredAt": "2026-09-05T04:46:35.351Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aca8872ba52765084758",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9736256?from=edn_newest_index",
+      "title": "中國房地產業新政 房企龍頭碧桂園：短期陣痛難免 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "中國於8月底發布3份有關房地產新政的文件，重點之一是推動預售制轉為成屋銷售。房企龍頭碧桂園董事會主席楊惠妍表示，過去資金...",
+      "publishedAt": "2026-09-05T04:46:35.351Z",
+      "discoveredAt": "2026-09-05T04:46:35.351Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c9f3c44216fed663f5d7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736253?from=edn_newest_index",
+      "title": "飆歧視言論又動粗！美航乘客制伏滋事男子 用束帶膠帶五花大綁 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國航空4日證實，一架從達拉斯—沃斯堡飛往紐瓦克的班機因乘客滋事，3日深夜轉降巴爾的摩。挺身而出的乘客指出，這名乘客的行為讓所有人都面臨風險，迫使他們介入。",
+      "publishedAt": "2026-09-05T04:46:35.351Z",
+      "discoveredAt": "2026-09-05T04:46:35.351Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c917e9e83b7f1dc88b10",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9736247?from=edn_newest_index",
+      "title": "路透：中國金融機構增持美債 有助緩解人民幣升值壓力 | 美股動態 | 國際 | 經濟日報",
+      "description": "路透社報導，中國6月以來允許部份中資銀行上調部分存戶的美元存款利率後，中國金融機構最近幾個月一直買入美國國債，這可能有助...",
+      "publishedAt": "2026-09-05T04:46:35.351Z",
+      "discoveredAt": "2026-09-05T04:46:35.351Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ddcc816618e55b6938d4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9736246?from=edn_newest_index",
+      "title": "大立光8月營收50.12億元月增3% 看好9月拉貨動能向上 | 產業熱點 | 產業 | 經濟日報",
+      "description": "光學鏡頭廠大立光自結8月合併營收新台幣50.12億元，月增3%、年減16%，大立光表示，受到新機拉貨帶動，9月拉貨動能將...",
+      "publishedAt": "2026-09-05T04:46:35.351Z",
+      "discoveredAt": "2026-09-05T04:46:35.351Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6314d1a2dc9b00a776d3",
       "sourceLastModified": null,
@@ -10,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735564",
-      "title": "挪威主權基金擬砍美債 減持金額估800億美元 | 國際焦點 | 國際 | 經濟日報",
+      "title": "12:20 挪威主權基金擬砍美債 減持金額估800億美元",
       "description": "全球最大主權財富基金挪威主權基金已提案，降低持有的公債占比，可能減碼美國公債約800億美元，轉為尋求其他類型債券以提高報酬率，在美債殖利率處於多年高點之際，相關的賣盤可能加重市場壓力，並牽動全球固定收益資產定價。",
       "publishedAt": "2026-09-05T04:35:18.452Z",
       "discoveredAt": "2026-09-05T04:35:18.452Z",
@@ -414,7 +594,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -5211,186 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_11d7be193b07163c6acb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 25119",
-      "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
-      "publishedAt": "2026-09-04T14:10:36.760Z",
-      "discoveredAt": "2026-09-04T14:10:36.760Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d33dc49695240b288b47",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735217",
-      "title": "21:53 「末日博士」變樂觀？羅比尼：全球公債殖利率竄升無須過慮",
-      "description": "有「末日博士」之稱的紐約大學教授羅比尼（Nouriel Roubini）表示，最近全球公債大跌、殖利率竄升，其實無須過慮，因為觸動這波債市賣壓的最大驅動力，是市場樂觀預期人工智慧（AI）投資熱潮將產生豐碩果實。",
-      "publishedAt": "2026-09-04T13:55:18.190Z",
-      "discoveredAt": "2026-09-04T13:55:18.190Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a6f16d631cac2d44ccd6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9735403",
-      "title": "21:45 DeepSeek 傳部署16萬顆華為 AI 晶片 為新資料中心提供算力",
-      "description": "DeepSeek計劃在內蒙古建設的一座大型資料中心，部署至少16萬顆華為最先進的AI加速晶片。這可能打造出目前已知規模最大的華為AI晶片集群之一，並推動大陸進一步減少對輝達晶片的依賴。",
-      "publishedAt": "2026-09-04T13:55:18.190Z",
-      "discoveredAt": "2026-09-04T13:55:18.190Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_21e5c48add42cb5063d2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735465?from=edn_newest_index",
-      "title": "「共時的星叢」重現台日文化交會 台灣近代藝術展東京登場 | 國際焦點 | 國際 | 經濟日報",
-      "description": "匯集約200件台灣展品、約500件文獻資料及約100件日本作品的大型展覽「共時的星叢」，今天在東京都現代美術館舉行開展儀...",
-      "publishedAt": "2026-09-04T13:55:18.190Z",
-      "discoveredAt": "2026-09-04T13:55:18.190Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_30d7d833981c0e4707af",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9735463?from=edn_newest_index",
-      "title": "美股早盤／非農就業超強 但科技股沒在怕 費半揚升近3% 台積電ADR漲2% | 美股動態 | 國際 | 經濟日報",
-      "description": "美股道瓊指數4日早盤走跌，主因是新出爐的美國8月非農就業報告比預期強勁，提高了美國聯準會（Fed）本月升息的可能性。",
-      "publishedAt": "2026-09-04T13:55:18.190Z",
-      "discoveredAt": "2026-09-04T13:55:18.190Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c699bd41be8e6cdceff4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9735462?from=edn_newest_index",
-      "title": "長科營收／8月16.5億元續創新高 年增逾四成 | 櫃買動態 | 證券 | 經濟日報",
-      "description": "導線架大廠長科*（6548）4日公布8月合併營收16.5億元，月增6.1%、年增43.66%，連續改寫單月歷史新高；累計前8月營收111.93億元，年增28.26%，同步創下歷年同期新高。",
-      "publishedAt": "2026-09-04T13:55:18.190Z",
-      "discoveredAt": "2026-09-04T13:55:18.190Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

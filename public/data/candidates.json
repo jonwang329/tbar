@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T10:53:18.973Z",
+  "updatedAt": "2026-09-05T11:05:57.900Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T10:53:18.973Z",
+      "discoveredAt": "2026-09-05T11:05:57.900Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T10:53:18.973Z",
+      "discoveredAt": "2026-09-05T11:05:57.900Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -298,7 +298,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -751,30 +751,33 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_ad7fa2b6a44cd150989f",
-      "sourceLastModified": "2026-08-29T10:57:56.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
+      "id": "cand_503a6bf71ac92465aba3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "title": "Previewing the Model Hardware Standard",
-      "description": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-      "publishedAt": "2026-08-29T10:57:56.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
+      "url": "https://money.udn.com/money/story/7307/9736668?from=edn_newest_index",
+      "title": "AIT在台首辦教育展 涵蓋人工智慧、STEM領域 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "美國在台協會（AIT） 今天首度在台灣主辦教育展，主軸涵蓋人工智慧（AI）以及科學、科技、工程與數學（STEM）領域。A...",
+      "publishedAt": "2026-09-05T11:05:49.484Z",
+      "discoveredAt": "2026-09-05T11:05:49.484Z",
       "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
         "AI",
-        "models",
-        "agents",
-        "enterprise"
+        "data center"
       ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -905,7 +908,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9735232?from=edn_hottest_index",
-      "title": "信驊破天荒招畢業生吸千人報考！林鴻明喊話：快帶徒弟！預告二度漲價 7740",
+      "title": "信驊破天荒招畢業生吸千人報考！林鴻明喊話：快帶徒弟！預告二度漲價 7793",
       "description": "台股股王信驊（5274）創業22年採取精兵制，員工人數僅100多人(未計入子公司)，過去一向只用資深人才，董事長林鴻明4日表示，今年破天荒招募20幾位碩博士應屆畢業生，人力增幅創歷年之最，原因是傳承及AI。他也透露今年將二度調高晶片售價，員工平均獲利貢獻將僅次於輝達（NVIDIA）。",
       "publishedAt": "2026-09-05T07:34:11.993Z",
       "discoveredAt": "2026-09-05T07:34:11.993Z",

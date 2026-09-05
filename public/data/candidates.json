@@ -1,7 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-05T01:25:14.408Z",
+  "updatedAt": "2026-09-05T01:38:25.366Z",
   "candidates": [
+    {
+      "id": "cand_cf698bce7e30f4d19755",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9735909?from=edn_newest_index",
+      "title": "路透：Anthropic延後IPO時程 最快10月中啟動推廣 | 美股動態 | 國際 | 經濟日報",
+      "description": "知情人士今天透露，人工智慧（AI）公司Anthropic最快10月中展開首次公開發行（IPO）的行銷活動，預計11月美國...",
+      "publishedAt": "2026-09-05T01:38:25.366Z",
+      "discoveredAt": "2026-09-05T01:38:25.366Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b3c4792004b8177b5d83",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735888?from=edn_newest_index",
-      "title": "等積投影地圖獲聯大支持 非洲比例放大歐美縮小 | 國際焦點 | 國際 | 經濟日報",
+      "title": "等積投影地圖獲聯大支持 非洲比例放大歐美縮小 2026-09-05 09:12",
       "description": "聯合國大會今天表決通過1項由數個非洲國家主導的決議，支持採用能讓非洲大陸看起來更大、北美洲和歐洲相對縮小的世界地圖，目的...",
       "publishedAt": "2026-09-05T01:25:14.408Z",
       "discoveredAt": "2026-09-05T01:25:14.408Z",
@@ -3662,7 +3692,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 23843",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 23919",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -4022,7 +4052,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 20812",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 20881",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -4036,7 +4066,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4063,7 +4093,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -5354,36 +5384,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e573030bbb88b4e82752",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735217?from=edn_maintab_index",
-      "title": "「末日博士」變樂觀？羅比尼：全球公債殖利率竄升無須過慮 有「末日博士」之稱的紐約大學教授羅比尼（Nouriel Roubini）表示，最近全球公債大跌、殖利率竄升，其實無須過慮，因為觸動這波債市賣壓的最大驅動力，是市場樂觀預期人工智慧（AI）投資熱潮將產...",
-      "description": "有「末日博士」之稱的紐約大學教授羅比尼（Nouriel Roubini）表示，最近全球公債大跌、殖利率竄升，其實無須過慮，因為觸動這波債市賣壓的最大驅動力，是市場樂觀預期人工智慧（AI）投資熱潮將產生豐碩果實。",
-      "publishedAt": "2026-09-04T11:28:44.744Z",
-      "discoveredAt": "2026-09-04T11:28:44.744Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

@@ -1,7 +1,212 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-05T04:57:26.005Z",
+  "updatedAt": "2026-09-05T05:18:32.919Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceLastModified": null,
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-09-05T05:18:32.919Z",
+      "discoveredAt": "2026-09-05T05:18:32.919Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_6d88c2650731323fce74",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9736039",
+      "title": "Anthropic 拚期中選舉前掛牌 華爾街搶食2兆美元估值 IPO 大餅 | 美股動態 | 國際 | 經濟日報",
+      "description": "Anthropic正加速推進首次公開募股（IPO），但掛牌時程晚於原先預期。路透引述知情人士報導，這家Claude開發商最快可能9月底公開招股書，10月中旬開始向投資人推介，並力拚在11月美國期中選舉前完成掛牌。有投資人估計，Anthropic上市估值可能達2兆美元以上，勢將超越SpaceX，成為史上規模最大的IPO。",
+      "publishedAt": "2026-09-05T05:18:21.027Z",
+      "discoveredAt": "2026-09-05T05:18:21.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d13e54cb74852e5f657c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9736293?from=edn_newest_index",
+      "title": "獨家／鳳凰河輪獎旅團夯 明年10航次企業包下 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台灣經濟成長動能強勁，2027年高規格獎旅需求明顯前置，鳳凰旅遊（5706）河輪產品2027年銷售傳出「價量齊揚」，明年規劃航次較今年增加二成，且首度有十個航次提前被企業獎旅團包下，創歷來新高。",
+      "publishedAt": "2026-09-05T05:18:21.027Z",
+      "discoveredAt": "2026-09-05T05:18:21.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_df38dfa44f7b7e579f3e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736291?from=edn_newest_index",
+      "title": "菲律賓披索持續走弱 恐牽動商家成本與民眾購買力 | 國際焦點 | 國際 | 經濟日報",
+      "description": "菲律賓披索兌美元匯率持續走弱，雖然海外菲勞家庭和出口產業可能受惠，但經濟官員及業界警告，若貶勢持續，進口燃料、原物料成本...",
+      "publishedAt": "2026-09-05T05:18:21.027Z",
+      "discoveredAt": "2026-09-05T05:18:21.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_012276e0e457e785a7b4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9736283?from=edn_newest_index",
+      "title": "農業淨零轉型 持續推動循環跨域發展 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "農業部4日舉辦「農業淨零：從科研創新到永續實踐」活動，由部長陳駿季主持，並邀集產官學研各界交流農業淨零科研成果及未來推動方向，期能加速科研成果落地與產業擴散，並透過產官學研跨域合作，共同推動台灣農業淨零轉型。",
+      "publishedAt": "2026-09-05T05:18:21.027Z",
+      "discoveredAt": "2026-09-05T05:18:21.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a3464460905f92600674",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9736277?from=edn_newest_index",
+      "title": "美股升息陰霾罩頂 費半卻逆勢漲3.4% 下周CPI定方向 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股下周焦點將從就業轉向通膨。美國8月就業遠優於預期，使聯準會（Fed）本月升息機率直逼六成，周四、周五接連公布的生產者物價指數（PPI）和消費者物價指數（CPI），可能成為Fed 9月15至16日開會是否升息的最後關鍵。與此同時，美國10年期公債殖利也逼向市場警戒的5%，也可能成為美股另一道壓力。",
+      "publishedAt": "2026-09-05T05:18:21.027Z",
+      "discoveredAt": "2026-09-05T05:18:21.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_979a42acc09dadd08d1e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9736274?from=edn_newest_index",
+      "title": "環境部淨零綠領人才培訓 近千名學員應試、到考率九成 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "「環境部淨零綠領人才培育課程」今年第二次全國集中測驗5日在全國12個考區同步舉行，近1,000名完成48小時課程的學員應試，到考率超過92%。",
+      "publishedAt": "2026-09-05T05:18:21.027Z",
+      "discoveredAt": "2026-09-05T05:18:21.027Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_cba1c2bad79a455f5aa7",
       "sourceLastModified": null,
@@ -5186,211 +5391,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b0d7c62e1d2e5193003",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735496?from=edn_newest_index",
-      "title": "太平洋島國論壇領袖會議公報僅關切中射彈 未譴責也未達成一致決 | 國際焦點 | 國際 | 經濟日報",
-      "description": "今年在帛琉舉行的太平洋島國論壇（PIF）領袖會議3日閉幕。同日深夜發布的聯合公報雖「關切」中國大陸射彈，但主要屬象徵性表態，且PIF成員未能就「譴責」中方相關行為達成一致。",
-      "publishedAt": "2026-09-04T14:27:54.511Z",
-      "discoveredAt": "2026-09-04T14:27:54.511Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceLastModified": null,
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-09-04T14:10:52.574Z",
-      "discoveredAt": "2026-09-04T14:10:52.574Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_ef911bf1bcecd42c19d3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9735463",
-      "title": "21:54 美股早盤／非農就業超強 但科技股沒在怕 費半揚升近3% 台積電 ADR 漲2%",
-      "description": "美股道瓊指數4日早盤走跌，主因是新出爐的美國8月非農就業報告比預期強勁，提高了美國聯準會（Fed）本月升息的可能性。",
-      "publishedAt": "2026-09-04T14:10:36.760Z",
-      "discoveredAt": "2026-09-04T14:10:36.760Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_252420afbe63c03278a0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9735463?from=edn_maintab_index",
-      "title": "美股早盤／非農就業超強 但科技股沒在怕 費半揚升近3% 台積電 ADR 漲2% 美股道瓊指數4日早盤走跌，主因是新出爐的美國8月非農就業報告比預期強勁，提高了美國聯準會（Fed）本月升息的可能性。 道瓊工業指數4日早盤下跌97點，或0.2%；標普500和那斯達克指數則接近平...",
-      "description": "美股道瓊指數4日早盤走跌，主因是新出爐的美國8月非農就業報告比預期強勁，提高了美國聯準會（Fed）本月升息的可能性。",
-      "publishedAt": "2026-09-04T14:10:36.760Z",
-      "discoveredAt": "2026-09-04T14:10:36.760Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a81c32f209db329d8328",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9735486?from=edn_newest_index",
-      "title": "HOYA BIT 奪下 Asia FinTech Awards「Best ESG Campaign」 | 金融脈動 | 金融 | 經濟日報",
-      "description": "台灣加密貨幣交易所 HOYA BIT 首度參與 Asia FinTech Awards，即一舉入圍三項決賽，並拿下「Best ESG Campaign」大獎。依 Asia FinTech Awards 官網歷屆公開得獎名單，HOYA BIT 成為首家獲得該獎項肯定的台灣加密貨幣交易所。",
-      "publishedAt": "2026-09-04T14:10:36.760Z",
-      "discoveredAt": "2026-09-04T14:10:36.760Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_91ebb7c127606fb35cf0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9735480?from=edn_newest_index",
-      "title": "美就業報告強化Fed升息預期 美股開盤走勢不一 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國最新公布的8月非農就業人數經季節調整後新增16萬2000人，遠超市場預估值，強化美國聯邦準備理事會（Fed）於本月稍...",
-      "publishedAt": "2026-09-04T14:10:36.760Z",
-      "discoveredAt": "2026-09-04T14:10:36.760Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ff15a10aa7faf569c067",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735479?from=edn_newest_index",
-      "title": "路透：習近平擬率領大型商業代表團隨同訪美 | 國際焦點 | 國際 | 經濟日報",
-      "description": "路透社引述兩名消息人士透露，中國國家主席習近平準備率領一個大型商業代表團隨同訪問華府。鑑於美國對中國投資抱持懷疑態度，以...",
-      "publishedAt": "2026-09-04T14:10:36.760Z",
-      "discoveredAt": "2026-09-04T14:10:36.760Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

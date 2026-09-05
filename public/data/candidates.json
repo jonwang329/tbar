@@ -1,7 +1,157 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-05T03:04:56.364Z",
+  "updatedAt": "2026-09-05T03:20:51.776Z",
   "candidates": [
+    {
+      "id": "cand_8cdd0ae0678b3fe800cd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9735993",
+      "title": "法人不玩了 散戶接棒？台股資金暗中換手 這10檔一周狂飆逾兩成 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股本周震盪收高，集中市場指數終場上漲219.68點、漲幅0.47%，週線順利收下連2紅。值得注意的是，儘管三大法人單周合計賣超857.4億元，市場資金依然聚焦個股題材，強勢標的表現明顯優於大盤，周漲幅前10強個股全數大漲逾2成。",
+      "publishedAt": "2026-09-05T03:20:51.776Z",
+      "discoveredAt": "2026-09-05T03:20:51.776Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ce320e276543e0d77a18",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5616/9736108?from=edn_newest_index",
+      "title": "日圓谷底翻身、日銀升息逼近 央行解讀對新台幣衝擊 | 外匯市場 | 金融 | 經濟日報",
+      "description": "日圓近期谷底翻身，4日一度升到155.30。資金回流日本、套利交易減緩和美國政治壓力等利多因素，促使日圓回升。而台灣央行又是如何看這波日圓走升及日央可能升息對新台幣的影響？",
+      "publishedAt": "2026-09-05T03:20:51.776Z",
+      "discoveredAt": "2026-09-05T03:20:51.776Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2c9cb6fcacab98c80122",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736099?from=edn_newest_index",
+      "title": "美婦女疑產後精神病弒子案 法官宣布審判無效 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國女子克蘭西（Lindsay Clancy）涉嫌殺害3名年幼子女案，法官今天宣布審判無效。克蘭西的辯護律師表示，這起悲...",
+      "publishedAt": "2026-09-05T03:20:51.776Z",
+      "discoveredAt": "2026-09-05T03:20:51.776Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a6341202c49f896a4e8c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736089?from=edn_newest_index",
+      "title": "美斡旋亞美尼亞亞塞拜然和平協議 輝達晶片成要角 | 國際焦點 | 國際 | 經濟日報",
+      "description": "「華爾街日報」報導，根據參與談判的人士說法，美國談判人員以承諾讓亞美尼亞取得輝達（NVIDIA）人工智慧（AI）晶片，協...",
+      "publishedAt": "2026-09-05T03:20:51.776Z",
+      "discoveredAt": "2026-09-05T03:20:51.776Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b06d8cd72eeb2fb10f97",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9736088?from=edn_newest_index",
+      "title": "藥華藥營收／8月26.17億元、年增105.43% 美日 ET 藥證將挹注新動能 | 產業熱點 | 產業 | 經濟日報",
+      "description": "藥華藥（6446）5日公告8月營收26.17億元，月增4.38%、年增105.43%，再創單月營收歷史新高，新藥Ropeg（P1101）的注射筆型成為8月營收成長新動能，隨著Ropeg於日、美相繼取得原發性血小板過多症（ET）藥證，公司治療版圖正式由真性紅血球增多症（PV）拓展至ET市場。",
+      "publishedAt": "2026-09-05T03:20:51.776Z",
+      "discoveredAt": "2026-09-05T03:20:51.776Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1b19ab8cb25a062cf2f8",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9735991",
-      "title": "台股9月「多看少做」！五大變數壓盤 法人曝最佳進場買點 | 市場焦點 | 證券 | 經濟日報",
+      "title": "11:00 台股9月「多看少做」！五大變數壓盤 法人曝最佳進場買點",
       "description": "台股4日收46,551.13點，上漲693.47點，周指數上漲219.68點，法人坦言，預期台股9月將呈現橫盤區間整理格局，「漲不動也跌不下」，在五大干擾因素下，指數區間約落在季線上下2,000點，操作上宜「多看少做」， 忍耐是為了迎接後續的大多頭行情， 屆時可由防禦型的操作改為攻擊型投資策略。",
       "publishedAt": "2026-09-05T03:04:56.364Z",
       "discoveredAt": "2026-09-05T03:04:56.364Z",
@@ -40,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735953?from=edn_maintab_index",
-      "title": "就業太強 Fed 升息聲起 川普卻撂狠話：不降息 就不跟貿易逆差國做生意 | 國際焦點 | 國際 | 經濟日報",
+      "title": "就業太強 Fed 升息聲起 川普卻撂狠話：不降息 就不跟貿易逆差國做生意 美國8月就業意外強勁，使聯準會（Fed）9月升息的理由更加充分，總統川普卻反向施壓，要求Fed降息，甚至揚言若不降息，就停止和美國有貿易逆差的國家往來。Fed主席華許如今面臨兩難：升息可能招致川普...",
       "description": "美國8月就業意外強勁，使聯準會（Fed）9月升息的理由更加充分，總統川普卻反向施壓，要求Fed降息，甚至揚言若不降息，就停止和美國有貿易逆差的國家往來。Fed主席華許如今面臨兩難：升息可能招致川普不滿，按兵不動又可能和自己近日的鷹派談話牴觸，損及Fed公信力。",
       "publishedAt": "2026-09-05T03:04:56.364Z",
       "discoveredAt": "2026-09-05T03:04:56.364Z",
@@ -70,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9736076?from=edn_newest_index",
-      "title": "路透：美中AI風險對話擬於9月中旬舉行 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "路透：美中AI風險對話擬於9月中旬舉行 2026-09-05 11:01",
       "description": "美中準備就人工智慧（AI）安全風險展開討論。據報導，雙方計劃在9月中旬舉行這場對話，這將是美國總統川普第二次執政以來，美...",
       "publishedAt": "2026-09-05T03:04:56.364Z",
       "discoveredAt": "2026-09-05T03:04:56.364Z",
@@ -923,7 +1073,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4532,7 +4682,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 24610",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 24677",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -4892,7 +5042,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 21284",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 21323",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5223,156 +5373,6 @@
       "description": "",
       "publishedAt": "2026-09-04T13:20:47.410Z",
       "discoveredAt": "2026-09-04T13:20:47.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e393daa52b6f9d095dff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735372",
-      "title": "20:44 美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌",
-      "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
-      "publishedAt": "2026-09-04T12:57:19.036Z",
-      "discoveredAt": "2026-09-04T12:57:19.036Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ebaa3be35f16c0527c64",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9735330",
-      "title": "美就業報告將出爐... 這種結果將擊中市場甜蜜點、激勵美股攻頂 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國8月非農就業報告即將出爐，金融市場屏息以待。分析師認為，如果上月就業數據能擊中「不冷也不熱」的甜蜜點，美股標普500指數可望再度上測歷史新高。",
-      "publishedAt": "2026-09-04T12:57:19.036Z",
-      "discoveredAt": "2026-09-04T12:57:19.036Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_62e0b0e0693c75d90b08",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9735372?from=edn_maintab_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed）...",
-      "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
-      "publishedAt": "2026-09-04T12:57:19.036Z",
-      "discoveredAt": "2026-09-04T12:57:19.036Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a49680f0ed7db3ca9cfc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9735391?from=edn_newest_index",
-      "title": "今日最夯 ETF／韓股強勢吸金 009829 大漲4.69% | 基金天地 | 理財 | 經濟日報",
-      "description": "韓股近期強勢吸金、後市爆發力十足，韓國KOSPI指數4日收漲1.6%，進而帶動大華韓國KOSPI50（009829）同步走強，單日大漲4.69%，成交量逾1.9萬張，呈現價漲量增格局，成為市場人氣火熱的最夯ETF之一。",
-      "publishedAt": "2026-09-04T12:57:19.036Z",
-      "discoveredAt": "2026-09-04T12:57:19.036Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_65167928d40db27d9169",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9735392?from=edn_newest_index",
-      "title": "「我宣誓2.0」串聯政府、企業力量 共同守護中台灣生活圈安全回家路 | 生活 | 要聞 | 經濟日報",
-      "description": "社團法人台灣酒與社會責任促進會(TBAF)4日舉辦「酒駕防制跨縣市聯合倡議暨『我宣誓 2.0』十周年」活動，邀集中台灣區域治理平台八縣市政府、酒品產業鏈及跨領域產業共襄盛舉。展現地方政府對交通安全議題的重視。",
-      "publishedAt": "2026-09-04T12:57:19.036Z",
-      "discoveredAt": "2026-09-04T12:57:19.036Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -18,12 +18,10 @@ export const SECONDARY_EXECUTIVE_WATCH = [
   { name:'Andy Jassy', company:'Amazon', role:'President & CEO', reason:'Amazon/AWS capital allocation and AI strategy' }
 ];
 
-// High-value people who interpret, translate, synthesize or contextualize primary interviews.
-// They are not treated as primary truth sources; they are a privileged discovery/interpretation layer.
 export const TOP_INTERPRETERS = [
   { name:'Dylan Patel', affiliation:'SemiAnalysis', focus:['AI compute','semiconductors','AI infrastructure','lab economics'] },
   { name:'Dwarkesh Patel', affiliation:'Dwarkesh Podcast', focus:['AI leaders','long-form interviews','AI economics','AGI'] },
-  { name:'WeChat curated interpreter — pending identity', affiliation:'WeChat / 视频号', focus:['Chinese translation','AI leader interviews','AI economics','investment interpretation'], status:'identify-and-track' }
+  { name:'AI 智能体研习社', affiliation:'WeChat / 视频号', priority:'P1', focus:['Chinese interpretation','AI leader interviews','AI economics','compute economics','investment interpretation'], status:'track-recurring-posts' }
 ];
 
 export const INTERVIEW_PIPELINE = [

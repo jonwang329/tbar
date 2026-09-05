@@ -28,16 +28,28 @@ function leaderSection(items){
 function render(brief,{live=false,updatedAt=null}={}){
   const strongest=brief.mustKnow?.[0]||brief.importantSignals?.[0]||brief.deepDive?.[0]||brief.watchlist?.[0];
   const leaderInterviews=collectLeaderInterviews(brief);
-  document.querySelector('#root').innerHTML=`<main class="app-shell"><header class="topbar"><div><div class="brand">TBAR</div><div class="subtitle">Taiwan Business & AI Radar</div></div><div class="live-dot"><i></i>${live?'LIVE':'DEMO'}</div></header><section class="hero"><span class="eyebrow">${live?'LIVE · '+fmtTime(updatedAt):'TODAY'}</span><h1>What matters.<br>Nothing more.</h1><p>AI + business intelligence filtered through a Taiwan lens — designed for a fast executive read, not another news feed.</p><div class="daily-line">${esc(strongest?.title || 'No strong signal right now.')}</div></section>${section('must-know',1,'Must Know','≤ 3',brief.mustKnow)}${section('signals',2,'Important Signals','≤ 5',brief.importantSignals,true)}${leaderSection(leaderInterviews)}${section('deep-dive',3,'Deep Dive','0–2',brief.deepDive)}<div class="country-row">${COUNTRY_DEEP_DIVE.map(c=>`<span>${c}</span>`).join('')}</div>${section('watchlist',4,'Watchlist','living signals',brief.watchlist,true)}<footer>TBAR V0.4 · ${live?'Live candidates + judgment':'Demo fallback'} · Human review remains the publishing boundary</footer></main>`;
+  document.querySelector('#root').innerHTML=`<main class="app-shell"><header class="topbar"><div><div class="brand">TBAR</div><div class="subtitle">Taiwan Business & AI Radar</div></div><div class="live-dot"><i></i>${live?'LIVE':'DEMO'}</div></header><section class="hero"><span class="eyebrow">${live?'LIVE · '+fmtTime(updatedAt):'TODAY'}</span><h1>What matters.<br>Nothing more.</h1><p>AI + business intelligence filtered through a Taiwan lens — designed for a fast executive read, not another news feed.</p><div class="daily-line">${esc(strongest?.title || 'No strong signal right now.')}</div></section>${section('must-know',1,'Must Know','≤ 3',brief.mustKnow)}${section('signals',2,'Important Signals','≤ 5',brief.importantSignals,true)}${leaderSection(leaderInterviews)}${section('deep-dive',3,'Deep Dive','0–2',brief.deepDive)}<div class="country-row">${COUNTRY_DEEP_DIVE.map(c=>`<span>${c}</span>`).join('')}</div>${section('watchlist',4,'Watchlist','living signals',brief.watchlist,true)}<footer>TBAR V0.5 · ${live?'Live + curated intelligence':'Demo fallback'} · Content quality before feed volume</footer></main>`;
+}
+
+async function loadJson(path){
+  try {
+    const response=await fetch(path,{cache:'no-store'});
+    if(!response.ok) return null;
+    return await response.json();
+  } catch { return null; }
 }
 
 async function loadLive(){
   try{
-    const response=await fetch('./public/data/candidates.json',{cache:'no-store'});
-    if(!response.ok)throw new Error(`${response.status} ${response.statusText}`);
-    const data=await response.json();
-    const queue=buildReviewQueue(data.candidates||[],data.updatedAt||new Date().toISOString());
-    render(queue,{live:true,updatedAt:data.updatedAt});
+    const [liveData,curatedData]=await Promise.all([
+      loadJson('./public/data/candidates.json'),
+      loadJson('./public/data/curated-intelligence.json')
+    ]);
+    if(!liveData) throw new Error('live candidates unavailable');
+    const combined=[...(curatedData?.items||[]),...(liveData.candidates||[])];
+    const updatedAt=curatedData?.updatedAt || liveData.updatedAt || new Date().toISOString();
+    const queue=buildReviewQueue(combined,updatedAt);
+    render(queue,{live:true,updatedAt});
   }catch(error){
     console.error('TBAR live data unavailable; using demo fallback.',error);
     render(buildDailyBrief(DEMO_STORIES),{live:false});

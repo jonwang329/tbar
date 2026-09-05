@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T07:44:45.947Z",
+  "updatedAt": "2026-09-05T07:55:33.897Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T07:44:45.947Z",
+      "discoveredAt": "2026-09-05T07:55:33.897Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T07:44:45.947Z",
+      "discoveredAt": "2026-09-05T07:55:33.897Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -214,6 +214,66 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_36a4914ad1031aed88e3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9736481?from=edn_maintab_index",
+      "title": "鴻海營收／8月9,218億元為歷史次高、同期新高 受惠 AI 強勁拉貨 | 集中市場 | 證券 | 經濟日報",
+      "description": "鴻海（2317）5日公布8月營收為9,218億元，創歷史次高、同期新高，月減2.61%，年增51.98%。今年累計前八月營收為6.51兆元，創同期新高，年增39.73%。",
+      "publishedAt": "2026-09-05T07:55:25.714Z",
+      "discoveredAt": "2026-09-05T07:55:25.714Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_004d06db685273faa63d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9736481?from=edn_newest_index",
+      "title": "鴻海營收／8月9,218億元為歷史次高、同期新高 受惠 AI 強勁拉貨 | 集中市場 | 證券 | 經濟日報",
+      "description": "鴻海（2317）5日公布8月營收為9,218億元，創歷史次高、同期新高，月減2.61%，年增51.98%。今年累計前八月營收為6.51兆元，創同期新高，年增39.73%。",
+      "publishedAt": "2026-09-05T07:55:25.714Z",
+      "discoveredAt": "2026-09-05T07:55:25.714Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -665,7 +725,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9735232?from=edn_hottest_index",
-      "title": "信驊破天荒招畢業生吸千人報考！林鴻明喊話：快帶徒弟！預告二度漲價 6725",
+      "title": "信驊破天荒招畢業生吸千人報考！林鴻明喊話：快帶徒弟！預告二度漲價 6776",
       "description": "台股股王信驊（5274）創業22年採取精兵制，員工人數僅100多人(未計入子公司)，過去一向只用資深人才，董事長林鴻明4日表示，今年破天荒招募20幾位碩博士應屆畢業生，人力增幅創歷年之最，原因是傳承及AI。他也透露今年將二度調高晶片售價，員工平均獲利貢獻將僅次於輝達（NVIDIA）。",
       "publishedAt": "2026-09-05T07:34:11.993Z",
       "discoveredAt": "2026-09-05T07:34:11.993Z",

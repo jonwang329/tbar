@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T18:46:49.851Z",
+  "updatedAt": "2026-09-05T18:57:08.025Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T18:46:49.851Z",
+      "discoveredAt": "2026-09-05T18:57:08.025Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T18:46:49.851Z",
+      "discoveredAt": "2026-09-05T18:57:08.025Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9736907?from=edn_maintab_index",
-      "title": "輝達拚 AI 股權投資年增13倍 有助強化產業版圖 | 美股動態 | 國際 | 經濟日報",
+      "title": "輝達拚 AI 股權投資年增13倍 有助強化產業版圖 輝達（NVIDIA）在截至7月26日的過去一年裡，投資的股權價值增加逾13倍，達到990億美元，已經成為全球最大的科技公司支持者之一。輝達為強化人工智慧（AI）產業，顯然愈來愈增加運用它的巨大資本儲...",
       "description": "輝達（NVIDIA）在截至7月26日的過去一年裡，投資的股權價值增加逾13倍，達到990億美元，已經成為全球最大的科技公司支持者之一。輝達為強化人工智慧（AI）產業，顯然愈來愈增加運用它的巨大資本儲備。",
       "publishedAt": "2026-09-05T18:46:35.731Z",
       "discoveredAt": "2026-09-05T18:46:35.731Z",
@@ -1111,6 +1111,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_6e7e525f44b3a9b8dbfa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9736912?from=edn_maintab_index",
+      "title": "勞動部研擬勞資 AI 指南 5大原則預計年底出爐 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "AI取代人力時代成為全球矚目議題，勞動部正在研議勞資AI指南，擬訂五大原則，預計年底出爐，將關注公開透明、保護勞工個資、人為監督決策、AI需與勞工協商、就業權益維護等面向。",
+      "publishedAt": "2026-09-05T18:56:58.981Z",
+      "discoveredAt": "2026-09-05T18:56:58.981Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0d34d6c48bddd1278a61",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1725,36 +1755,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_033a8f1086ed462d81be",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9725856?from=edn_course_index",
-      "title": "盧希鵬 / 台灣科技大學資訊管理系專任特聘教授 當 AI 鑽出沙盒，治理不能再等",
-      "description": "人工智慧的風險，未必來自它「想做壞事」，更可能來自它「太認真把事情做好」。",
-      "publishedAt": "2026-08-31T17:14:31.727Z",
-      "discoveredAt": "2026-08-31T17:14:31.727Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

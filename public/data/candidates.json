@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T12:30:59.342Z",
+  "updatedAt": "2026-09-05T12:47:33.747Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T12:30:59.342Z",
+      "discoveredAt": "2026-09-05T12:47:33.747Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T12:30:59.342Z",
+      "discoveredAt": "2026-09-05T12:47:33.747Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_f1d0edb9633c24977efa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9732588?from=edn_newest_index",
+      "title": "千金ASIC股漲一輪，下一棒看封測？輝達投資聯發科 這檔成市場新焦點 | 市場焦點 | 證券 | 經濟日報",
+      "description": "輝達於8／31宣布將投資聯發科（2454）35億美元，加強雙方在AI基礎建設合作，其中聯發科將導入NVLink Fusion平台，協助CSP廠商開發客製化XPU，而且隨著CSP自研晶片比重提升，ASIC設計服務開始從「單晶片」向「晶片到機櫃」延伸，進一步協助CSP廠商把自研晶片導入完整AI系統，這對於ASIC廠商與聯發科供應鏈將大舉受惠，同時輝達也能鞏固GPU與客製化的廠商。包括聯發科（2454）、世芯-KY（3661）、創意（3443）等將受惠。世芯-KY已是輝達NVLink Fusion首批客製化晶片合作夥伴之一，近年除深耕大型AI／HPC ASIC，也持續布局2.5D／3D封裝等。至於創意與緯穎合作開發下一代Hyperscale AI基礎設施，結合創意在先進ASIC、2.5D／3D封裝及光學I／O能力，故目前世芯-KY股價位階偏低，是留意焦點之一。",
+      "publishedAt": "2026-09-05T12:47:25.138Z",
+      "discoveredAt": "2026-09-05T12:47:25.138Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_485055257b705a167d4d",
@@ -89,7 +119,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9732600?from=edn_newest_index",
-      "title": "從精密沖壓做到AI高階散熱！它切入Rubin、Trainium3 法人一路上修EPS | 市場焦點 | 證券 | 經濟日報",
+      "title": "從精密沖壓做到AI高階散熱！它切入Rubin、Trainium3 法人一路上修EPS 2026-09-05 20:17",
       "description": "AI算力競賽持續升溫，GPU與ASIC晶片功耗不斷提高，散熱已從伺服器的周邊零組件，提升為決定AI晶片效能與穩定度的關鍵技術。健策（3653）正站在這波產業升級的核心位置，憑藉均熱片(Vapor Chamber)、Lid與Stiffener等高階散熱及封裝零組件，切入NVIDIA Rubin GPU與AWS Trainium3等新世代AI晶片供應鏈，營運成長也正式進入加速階段。",
       "publishedAt": "2026-09-05T12:30:49.490Z",
       "discoveredAt": "2026-09-05T12:30:49.490Z",
@@ -425,7 +455,7 @@
     },
     {
       "id": "cand_bda32a3263f7eea86fdb",
-      "sourceLastModified": "2026-09-04T19:09:03.443Z",
+      "sourceLastModified": "2026-09-05T12:45:19.343Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -772,7 +802,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

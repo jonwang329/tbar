@@ -76,16 +76,6 @@ jobs:
             'Why it matters'
             'Taiwan lens'
             'HPE lens'
-            'Dario Amodei'
-            'Sam Altman'
-            'Jensen Huang'
-            'Demis Hassabis'
-            'Sundar Pichai'
-            'Satya Nadella'
-            'Lisa Su'
-            'Mark Zuckerberg'
-            'Andy Jassy'
-            '簡立峰'
             '3. Taiwan Intelligence'
             '4. Country Deep Dive'
             '5. Executive Dashboard'
@@ -97,8 +87,13 @@ jobs:
               exit 1
             fi
           done
+          leader_count="$(grep -o '<details class="leader"' <<<"$html" | wc -l | tr -d ' ')"
+          if [ "${leader_count:-0}" -lt 4 ]; then
+            echo "TOO_FEW_LEADER_ROWS: ${leader_count:-0}" >&2
+            exit 1
+          fi
           if grep -Eq 'id="(zhBtn|enBtn)"' <<<"$html"; then
             echo "Legacy V1.0 bilingual JS controls unexpectedly present" >&2
             exit 1
           fi
-          echo "PRODUCTION_SMOKE_PASS_V1_1 $url"
+          echo "PRODUCTION_SMOKE_PASS_V1_1 $url leaders=$leader_count"

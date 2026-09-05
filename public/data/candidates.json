@@ -1,7 +1,127 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-05T03:35:21.559Z",
+  "updatedAt": "2026-09-05T03:57:22.779Z",
   "candidates": [
+    {
+      "id": "cand_61f2debb54b39fd11d16",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734931",
+      "title": "輝達砸千億元投資聯發科、聯準會9月升息機率過半……本周不可不知的五件財經大事 | 產業熱點 | 產業 | 經濟日報",
+      "description": "本周聯發科完成台灣資本市場歷來最大規模海外可轉債發行案，其中輝達包辦了約九成額度；美國商務部長盧特尼克預告可能會開徵新一輪半導體關稅，好吸引製作液回流美國；華許傑克森洞談話讓聯準會9月更難不升息……以下是本周最值得回顧的五件財經要聞： 1. 輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 聯發科（2454）31日公告完成39億美元（近新台幣1,250億元）海外可轉債（ECB）訂價，引進輝達和Google母公司字母（Alphabet）兩大AI巨頭資金，輝達更大手筆包辦35億美元（約新台幣1,100億元）、約九成額度，並宣布兩家公司後續將深化合作。 聯發科此次39億美元海外可轉債，是台灣資本市場歷來最大規模海外可轉債發行案，並找來兩大重磅科技大咖參與。這是輝達首度投資台灣企業。 業界分析，這樁跨國投資案，聯發科是檯面上最大贏家，並且將深度影響台灣半導體產業鏈與AI發展，台積電（2330）無庸置疑是另一受惠大廠，主因輝達GPU、Google的TPU，以及聯發科主要晶片絕大多數都是台積電生產。 日月光投控（3711）、矽格（6257）則是「隱藏版贏家」，這兩家封測廠長期與輝達、聯發科、",
+      "publishedAt": "2026-09-05T03:57:22.779Z",
+      "discoveredAt": "2026-09-05T03:57:22.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1da7709a40ea269a5637",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736174?from=edn_newest_index",
+      "title": "媒體揭美軍彈藥庫存告急 川普政府大動作測謊軍方高層抓洩密 | 國際焦點 | 國際 | 經濟日報",
+      "description": "紐約時報與CBS新聞4日報導，知情官員透露，媒體披露美國精密武器庫存的高度敏感機密細節後，政府啟動大規模洩密調查，更罕見針對美伊戰爭造成關鍵彈藥短缺等資訊外洩，對美軍聯合參謀部（Joint Staff）約50名成員進行測謊。",
+      "publishedAt": "2026-09-05T03:57:22.779Z",
+      "discoveredAt": "2026-09-05T03:57:22.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7ec41b750bd3f04b1781",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736168?from=edn_newest_index",
+      "title": "電動車普及降低石油需求 中國第二季碳排年減1% | 國際焦點 | 國際 | 經濟日報",
+      "description": "伊朗戰爭爆發後，中國逐漸適應「低油耗」模式，碳排量隨之走低。一份最新分析指出，電動車日趨普及讓中國減少1/3石油需求，今...",
+      "publishedAt": "2026-09-05T03:57:22.779Z",
+      "discoveredAt": "2026-09-05T03:57:22.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4d9d6758fce492990676",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736151?from=edn_newest_index",
+      "title": "美制裁土耳其投資銀行及2家子公司 施壓伊朗 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財政部今天對土耳其一家小型投資銀行及兩家子公司實施制裁，這是川普政府加大對伊朗施加經濟壓力行動的一環",
+      "publishedAt": "2026-09-05T03:57:22.779Z",
+      "discoveredAt": "2026-09-05T03:57:22.779Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ef5b03ea615d1f9af5f0",
       "sourceLastModified": null,
@@ -10,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9734931?from=edn_maintab_index",
-      "title": "輝達砸千億元投資聯發科、聯準會9月升息機率過半……本周不可不知的五件財經大事 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達砸千億元投資聯發科、聯準會9月升息機率過半……本周不可不知的五件財經大事 本周聯發科完成台灣資本市場歷來最大規模海外可轉債發行案，其中輝達包辦了約九成額度；美國商務部長盧特尼克預告可能會開徵新一輪半導體關稅，好吸引製作液回流美國；華許傑克森洞談話讓聯準會9月更難不升息……...",
       "description": "本周聯發科完成台灣資本市場歷來最大規模海外可轉債發行案，其中輝達包辦了約九成額度；美國商務部長盧特尼克預告可能會開徵新一輪半導體關稅，好吸引製作液回流美國；華許傑克森洞談話讓聯準會9月更難不升息……以下是本周最值得回顧的五件財經要聞： 1. 輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 聯發科（2454）31日公告完成39億美元（近新台幣1,250億元）海外可轉債（ECB）訂價，引進輝達和Google母公司字母（Alphabet）兩大AI巨頭資金，輝達更大手筆包辦35億美元（約新台幣1,100億元）、約九成額度，並宣布兩家公司後續將深化合作。 聯發科此次39億美元海外可轉債，是台灣資本市場歷來最大規模海外可轉債發行案，並找來兩大重磅科技大咖參與。這是輝達首度投資台灣企業。 業界分析，這樁跨國投資案，聯發科是檯面上最大贏家，並且將深度影響台灣半導體產業鏈與AI發展，台積電（2330）無庸置疑是另一受惠大廠，主因輝達GPU、Google的TPU，以及聯發科主要晶片絕大多數都是台積電生產。 日月光投控（3711）、矽格（6257）則是「隱藏版贏家」，這兩家封測廠長期與輝達、聯發科、",
       "publishedAt": "2026-09-05T03:35:21.559Z",
       "discoveredAt": "2026-09-05T03:35:21.559Z",
@@ -40,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9736147?from=edn_newest_index",
-      "title": "韜定律論文再更新！麒麟2026實測：電晶體密度暴漲55% GPU功耗降58% | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "韜定律論文再更新！麒麟2026實測：電晶體密度暴漲55% GPU功耗降58% 2026-09-05 11:34",
       "description": "華為半導體業務部總裁何庭波有關「韜定律」的論文再次更新，並首次披露麒麟 2026 更多實測數據，提到麒麟2026 在電晶體密度提升55%的同時，在等性能條件下，NPU 功耗降低66%、GPU降低58%、CPU性能核降低41%。原因是在晶片內部，能量的主要消耗並非來自計算本身，而是來自數據傳輸。",
       "publishedAt": "2026-09-05T03:35:21.559Z",
       "discoveredAt": "2026-09-05T03:35:21.559Z",
@@ -70,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9736142?from=edn_newest_index",
-      "title": "台新黃文清：美國8月非農就業高於預期 是否升息看下周 CPI | 市場焦點 | 證券 | 經濟日報",
+      "title": "台新黃文清：美國8月非農就業高於預期 是否升息看下周 CPI 2026-09-05 11:31",
       "description": "美國8月非農新增16.2萬人，遠高於市場預期的5.5萬人，失業率維持4.1%；6、7月合計再上修5.5萬，其中7月由減2.3萬修正為增2.1萬。台新投顧總經理黃文清指出，這份報告不會直接決定9月要不要升息，但它拿掉了反對升息最有力的一個理由，也就是勞動市場已經失去動能，決定權因此完全交回下周的CPI。",
       "publishedAt": "2026-09-05T03:35:21.559Z",
       "discoveredAt": "2026-09-05T03:35:21.559Z",
@@ -714,7 +834,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1761,7 +1881,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4832,7 +4952,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 24812",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 24928",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -5192,7 +5312,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 21378",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 21433",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5264,126 +5384,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4618429ca6ce5f05c2cd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9735402",
-      "title": "21:04 美國8月非農數據遠高於預期 台指期夜盤豬羊變色",
-      "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
-      "publishedAt": "2026-09-04T13:20:47.410Z",
-      "discoveredAt": "2026-09-04T13:20:47.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a31f9fab8ddfaa7963f9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9734657",
-      "title": "21:00 總編推薦／輝達與聯發科親上加親 黃仁勳砸35億美元究竟看上了什麼？還有哪些台鏈受惠",
-      "description": "這世界瞬息萬變，資訊太多太紛亂，什麼是錯過可惜的？總編輯每周精選，推薦必看的內容給您！ 輝達與 Google 母公司認購公司債 蔡力行：代表 AI 產業對聯發科的信心 針對輝達（NVIDIA）與Google母公司Alphabet都參與認購聯發科（2454）無擔保轉換公司債，聯發科執行長蔡力行於2日表示，這代表AI產業對於聯發科的信心，代表這兩家夥伴對該公司的興趣......看全文 延伸閱讀 輝達與聯發科親上加親 黃仁勳砸35億美元看上了什麼？ 輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 輝達千億投資聯發科！黃仁勳否認循環融資 強調十年期戰略合作 整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看 台股9月有多檔ETF準備除息，對此，《經濟日報》整理各檔基金包含配息金額、最後買進日、除息日等相關資訊，供讀者參考比較。...看全文 延伸閱讀 金融護體 七檔台股 ETF 含金湯匙逆勢創高 高含「金」量 ETF 績效放閃 00919、00918等近一個月打敗大盤",
-      "publishedAt": "2026-09-04T13:20:47.410Z",
-      "discoveredAt": "2026-09-04T13:20:47.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c0636d45354bce06a578",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9735402?from=edn_maintab_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快...",
-      "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
-      "publishedAt": "2026-09-04T13:20:47.410Z",
-      "discoveredAt": "2026-09-04T13:20:47.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_777e7ef829ec582f59c4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9735391?from=edn_maintab_index",
-      "title": "今日最夯 ETF／韓股強勢吸金 009829 大漲4.69% 韓股近期強勢吸金、後市爆發力十足，韓國KOSPI指數4日收漲1.6%，進而帶動大華韓國KOSPI50（009829）同步走強，單日大漲4.69%，成交量逾1.9萬張，呈現價漲量增格局，成為市場人氣火...",
-      "description": "韓股近期強勢吸金、後市爆發力十足，韓國KOSPI指數4日收漲1.6%，進而帶動大華韓國KOSPI50（009829）同步走強，單日大漲4.69%，成交量逾1.9萬張，呈現價漲量增格局，成為市場人氣火熱的最夯ETF之一。",
-      "publishedAt": "2026-09-04T13:20:47.410Z",
-      "discoveredAt": "2026-09-04T13:20:47.410Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

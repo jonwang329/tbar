@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-05T15:05:00+08:00",
+  "items": [
+    {
+      "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
+      "title": "Why frontier AI labs may capture most new compute — and why the economics can work",
+      "sourceName": "Dwarkesh Podcast / Chinese interpreter signal",
+      "sourceUrl": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "contentType": "podcast",
+      "people": ["Dylan Patel"],
+      "topics": ["AI compute", "Anthropic", "OpenAI", "AI economics", "infrastructure"],
+      "publishedAt": "2026-08-25T00:00:00Z",
+      "executiveSummary": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger.",
+      "whyItMatters": "This reframes AI infrastructure from a cost-center story into a value-capture story. It helps explain why frontier labs can keep bidding up compute and why infrastructure concentration may continue.",
+      "taiwanImpact": "Taiwan should look beyond chip shipment volume toward where value is captured in systems, networking, power, cloud operations and AI services.",
+      "hpeLens": "The opportunity is not only servers: AI factories require networking, systems integration, observability, power/cooling and enterprise deployment architecture.",
+      "investmentLens": "Watch who can convert compute into revenue fastest; compute ownership alone is less important than downstream value capture.",
+      "keyNumbers": ["OpenAI + Anthropic roughly 30% of new compute now", "potentially 40–50% next year", "historical frontier-lab allocation roughly 60% training/research vs 40% inference"],
+      "importanceScore": 95,
+      "businessScore": 95,
+      "taiwanScore": 90,
+      "sourceQualityScore": 90,
+      "confidenceScore": 88,
+      "freshnessScore": 80,
+      "leaderMatch": false,
+      "lane": "must_know"
+    },
+    {
+      "storyId": "curated-jensen-huggingface-2026-09-03",
+      "title": "Jensen Huang: open models matter strategically to NVIDIA",
+      "sourceName": "CNBC transcript",
+      "sourceUrl": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
+      "contentType": "interview",
+      "people": ["Jensen Huang"],
+      "topics": ["open models", "NVIDIA", "Hugging Face", "AI infrastructure", "developers"],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "executiveSummary": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure.",
+      "whyItMatters": "NVIDIA is signaling that its long-term moat is broader than GPUs. It wants influence over the developer and model ecosystem that drives future infrastructure demand.",
+      "taiwanImpact": "A broader open-model ecosystem can expand AI infrastructure demand across Taiwan ODMs, networking, storage and data-center supply chains.",
+      "hpeLens": "Open-model adoption increases demand for enterprise-grade AI infrastructure, hybrid deployment, networking and lifecycle operations — areas where HPE can compete above the silicon layer.",
+      "investmentLens": "NVIDIA is extending vertically into ecosystem control while still preserving demand for its core infrastructure platform.",
+      "importanceScore": 93,
+      "businessScore": 94,
+      "taiwanScore": 88,
+      "sourceQualityScore": 96,
+      "confidenceScore": 94,
+      "freshnessScore": 98,
+      "leaderMatch": true,
+      "lane": "important_signal"
+    }
+  ]
+}

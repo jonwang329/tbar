@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T12:10:08.273Z",
+  "updatedAt": "2026-09-05T12:30:59.342Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T12:10:08.273Z",
+      "discoveredAt": "2026-09-05T12:30:59.342Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T12:10:08.273Z",
+      "discoveredAt": "2026-09-05T12:30:59.342Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_485055257b705a167d4d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9732600?from=edn_newest_index",
+      "title": "從精密沖壓做到AI高階散熱！它切入Rubin、Trainium3 法人一路上修EPS | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI算力競賽持續升溫，GPU與ASIC晶片功耗不斷提高，散熱已從伺服器的周邊零組件，提升為決定AI晶片效能與穩定度的關鍵技術。健策（3653）正站在這波產業升級的核心位置，憑藉均熱片(Vapor Chamber)、Lid與Stiffener等高階散熱及封裝零組件，切入NVIDIA Rubin GPU與AWS Trainium3等新世代AI晶片供應鏈，營運成長也正式進入加速階段。",
+      "publishedAt": "2026-09-05T12:30:49.490Z",
+      "discoveredAt": "2026-09-05T12:30:49.490Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_bc439467b3fd2bb3b516",

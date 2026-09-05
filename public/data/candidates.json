@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T13:54:37.345Z",
+  "updatedAt": "2026-09-05T14:08:53.873Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T13:54:37.345Z",
+      "discoveredAt": "2026-09-05T14:08:53.873Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T13:54:37.345Z",
+      "discoveredAt": "2026-09-05T14:08:53.873Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -307,6 +307,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_9d743dfdc021bd38844f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9735584?from=edn_hottest_index",
+      "title": "群聯：拿得到貨源才是關鍵 CEO 潘健成直言 NAND 缺貨是定局 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI帶動記憶體需求持續升溫，群聯執行長潘健成昨（4）日表示，近期才與兩家快閃記憶體（Flash）原廠開會，對方直言「明年缺口不知道有多大」，NAND Flash供給仍相當吃緊，市場不必再討論Flash會不會缺貨，真正的關鍵是供需緊張之際，「誰有能力拿到更多資源」。",
+      "publishedAt": "2026-09-05T14:08:44.101Z",
+      "discoveredAt": "2026-09-05T14:08:44.101Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_96b2c73d129843a75605",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -314,7 +344,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9736798?from=edn_newest_index",
-      "title": "從台中阻霾害到新竹抗九降風 風光集團風光 Ai 窗前進新竹市場 | 產業熱點 | 產業 | 經濟日報",
+      "title": "從台中阻霾害到新竹抗九降風 風光集團風光 Ai 窗前進新竹市場 2026-09-05 21:51",
       "description": "台中火力發電廠空汙議題持續受到關注，民間建材業者也積極從居住環境端提出解決方案。風光集團創辦人吳律謙以「人類宜居方案的提供者」為理念，從門窗、節能到空氣品質整合研發，推出「風光Ai窗」及「AIS風光防霾網」，其中防霾網可阻隔PM2.5達90.5％以上，同時兼顧採光、景觀、通風及防蚊蟲等功能。",
       "publishedAt": "2026-09-05T13:54:28.427Z",
       "discoveredAt": "2026-09-05T13:54:28.427Z",
@@ -388,7 +418,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

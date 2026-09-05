@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T17:55:10.346Z",
+  "updatedAt": "2026-09-05T18:11:44.393Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T17:55:10.346Z",
+      "discoveredAt": "2026-09-05T18:11:44.393Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T17:55:10.346Z",
+      "discoveredAt": "2026-09-05T18:11:44.393Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -424,6 +424,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_650c222485803c5ccd87",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5628/9736858?from=edn_newest_index",
+      "title": "AI 矽島背後的生態治理新考題 | 社論 | 專欄 | 經濟日報",
+      "description": "全球競逐人工智慧（AI）產能與技術之際，台灣因掌握半導體業製造優勢，居於關鍵地位，但在台灣逐步從「矽島」升級為「AI矽島」的過程中，支撐這場科技革命的能源與生態韌性從何而來？我們要面對的現實是：未來競逐的不只是晶片與演算法，更是穩定可靠的基礎能源供應，與足以支撐開發決策的效率調度與生態治理能力。",
+      "publishedAt": "2026-09-05T18:11:34.291Z",
+      "discoveredAt": "2026-09-05T18:11:34.291Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1015,7 +1045,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

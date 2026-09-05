@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T17:05:45.816Z",
+  "updatedAt": "2026-09-05T17:19:34.800Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T17:05:45.816Z",
+      "discoveredAt": "2026-09-05T17:19:34.800Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T17:05:45.816Z",
+      "discoveredAt": "2026-09-05T17:19:34.800Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -397,6 +397,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_3a663f0a400950e70af2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9736902?from=edn_newest_index",
+      "title": "中美 AI 風險對話 聚焦網攻 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "中美兩國正準備在9月中旬舉行的對話中討論AI安全風險，此次會談是美國總統川普第二次任期以來，兩國首次專門就AI問題舉行的正式雙邊會談，將聚焦AI網路攻擊及大模型「蒸餾」。",
+      "publishedAt": "2026-09-05T17:19:23.017Z",
+      "discoveredAt": "2026-09-05T17:19:23.017Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_43da0fab2454879ecad3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -635,7 +665,7 @@
     },
     {
       "id": "cand_bda32a3263f7eea86fdb",
-      "sourceLastModified": "2026-09-05T12:45:19.343Z",
+      "sourceLastModified": "2026-09-05T17:10:00.738Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -988,6 +1018,36 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ef4508f9e70e9f44e902",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9736840?from=edn_newest_index",
+      "title": "1分鐘看世界／美國兩報社控告 OpenAI、微軟 擅自複製內容訓練模型 | 國際焦點 | 國際 | 經濟日報",
+      "description": "西雅圖時報與新聞日報4日控告OpenAI和微軟擅自複製其新聞內容，用於訓練AI模型，並繞過付費牆重現報導段落，降低使用者造訪報社網站或付費訂閱必要性。OpenAI發言人說，旗下模型是取得公開資料，微軟則說願意協商這類爭議。",
+      "publishedAt": "2026-09-05T17:19:23.017Z",
+      "discoveredAt": "2026-09-05T17:19:23.017Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {

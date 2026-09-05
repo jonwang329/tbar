@@ -1,7 +1,97 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-05T02:22:29.475Z",
+  "updatedAt": "2026-09-05T02:35:51.373Z",
   "candidates": [
+    {
+      "id": "cand_6773c57ff6ff975ba9ae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9735990",
+      "title": "大立光營收／8月50億元 月增3% 為4個月來最佳 看好9月拉貨動能向上 | 集中市場 | 證券 | 經濟日報",
+      "description": "大立光（3008）今（5）日公布今年8月營收50.12億元，月成長3%，年減16%，為四個月來最佳。大立光表示，受傳統旺季激勵，9月拉貨動能優於8月。",
+      "publishedAt": "2026-09-05T02:35:51.373Z",
+      "discoveredAt": "2026-09-05T02:35:51.373Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_900fcfa05a4fc8b20ae5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9735990?from=edn_maintab_index",
+      "title": "大立光營收／8月50億元 月增3% 為4個月來最佳 看好9月拉貨動能向上 | 集中市場 | 證券 | 經濟日報",
+      "description": "大立光（3008）今（5）日公布今年8月營收50.12億元，月成長3%，年減16%，為四個月來最佳。大立光表示，受傳統旺季激勵，9月拉貨動能優於8月。",
+      "publishedAt": "2026-09-05T02:35:51.373Z",
+      "discoveredAt": "2026-09-05T02:35:51.373Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_534720ae3c4e00ae7d9f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9734931?from=edn_newest_index",
+      "title": "輝達砸千億元投資聯發科、聯準會9月升息機率過半……本周不可不知的五件財經大事 | 產業熱點 | 產業 | 經濟日報",
+      "description": "本周聯發科完成台灣資本市場歷來最大規模海外可轉債發行案，其中輝達包辦了約九成額度；美國商務部長盧特尼克預告可能會開徵新一輪半導體關稅，好吸引製作液回流美國；華許傑克森洞談話讓聯準會9月更難不升息……以下是本周最值得回顧的五件財經要聞： 1. 輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 聯發科（2454）31日公告完成39億美元（近新台幣1,250億元）海外可轉債（ECB）訂價，引進輝達和Google母公司字母（Alphabet）兩大AI巨頭資金，輝達更大手筆包辦35億美元（約新台幣1,100億元）、約九成額度，並宣布兩家公司後續將深化合作。 聯發科此次39億美元海外可轉債，是台灣資本市場歷來最大規模海外可轉債發行案，並找來兩大重磅科技大咖參與。這是輝達首度投資台灣企業。 業界分析，這樁跨國投資案，聯發科是檯面上最大贏家，並且將深度影響台灣半導體產業鏈與AI發展，台積電（2330）無庸置疑是另一受惠大廠，主因輝達GPU、Google的TPU，以及聯發科主要晶片絕大多數都是台積電生產。 日月光投控（3711）、矽格（6257）則是「隱藏版贏家」，這兩家封測廠長期與輝達、聯發科、",
+      "publishedAt": "2026-09-05T02:35:51.373Z",
+      "discoveredAt": "2026-09-05T02:35:51.373Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_44cc5fee30c577f06b46",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9736000?from=edn_newest_index",
-      "title": "從「每日一字」寫進日本首相官邸 張炳煌用毛筆牽起台日情誼 | 國際焦點 | 國際 | 經濟日報",
+      "title": "從「每日一字」寫進日本首相官邸 張炳煌用毛筆牽起台日情誼 2026-09-05 10:21",
       "description": "從電視節目「每日一字」，到為日本政治人物揮毫，再結合人工智慧研發數位書法工具「e筆」，書法家張炳煌用一支毛筆走過一甲子台...",
       "publishedAt": "2026-09-05T02:22:18.455Z",
       "discoveredAt": "2026-09-05T02:22:18.455Z",
@@ -40,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5621/9735996?from=edn_newest_index",
-      "title": "全地產攜手樂居推「安心認證」 中古屋先驗後售、最高50萬漏水保障 | 房市話題 | 房市 | 經濟日報",
+      "title": "全地產攜手樂居推「安心認證」 中古屋先驗後售、最高50萬漏水保障 2026-09-05 10:17",
       "description": "高房價時代，中古屋也動輒上千萬元，但漏水、給排水或電路等潛在問題，往往難以僅憑看屋過程充分判斷。消費者花費大錢買房，卻像開盲盒一樣，一不小心就可能買到有問題的房子。",
       "publishedAt": "2026-09-05T02:22:18.455Z",
       "discoveredAt": "2026-09-05T02:22:18.455Z",
@@ -70,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9735993?from=edn_newest_index",
-      "title": "法人不玩了 散戶接棒？台股資金暗中換手 這10檔一周狂飆逾2成 | 市場焦點 | 證券 | 經濟日報",
+      "title": "法人不玩了 散戶接棒？台股資金暗中換手 這10檔一周狂飆逾兩成 2026-09-05 10:15",
       "description": "台股本周震盪收高，集中市場指數終場上漲219.68點、漲幅0.47%，週線順利收下連2紅。值得注意的是，儘管三大法人單周合計賣超857.4億元，市場資金依然聚焦個股題材，強勢標的表現明顯優於大盤，周漲幅前10強個股全數大漲逾2成。",
       "publishedAt": "2026-09-05T02:22:18.455Z",
       "discoveredAt": "2026-09-05T02:22:18.455Z",
@@ -100,7 +190,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9735991?from=edn_newest_index",
-      "title": "台股9月「多看少做」！五大變數壓盤 法人曝最佳進場買點 | 市場焦點 | 證券 | 經濟日報",
+      "title": "台股9月「多看少做」！五大變數壓盤 法人曝最佳進場買點 2026-09-05 10:15",
       "description": "台股4日收46,551.13點，上漲693.47點，周指數上漲219.68點，法人坦言，預期台股9月將呈現橫盤區間整理格局，「漲不動也跌不下」，在五大干擾因素下，指數區間約落在季線上下2,000點，操作上宜「多看少做」， 忍耐是為了迎接後續的大多頭行情， 屆時可由防禦型的操作改為攻擊型投資策略。",
       "publishedAt": "2026-09-05T02:22:18.455Z",
       "discoveredAt": "2026-09-05T02:22:18.455Z",
@@ -502,7 +592,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -531,7 +621,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -4082,7 +4172,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11112/9735402?from=edn_hottest_index",
-      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 24332",
+      "title": "美國8月非農數據遠高於預期 台指期夜盤豬羊變色 24406",
       "description": "台指期夜盤4日開盤時，在美股電子盤漲勢一度收斂中，以46,622點、下跌87點開出後，雖在日盤漲多後，獲利了結賣壓出拖累下，一度干擾人氣，不過，在國際油價由紅翻黑、那斯達克電子盤漲勢擴大下，指數快速翻紅，最高來到46,985點、上漲276點，但在晚間20點30分公布的非農就業遠高於市場預期中，行情急殺翻黑，截至晚間約21點，指數來到約46,615點、下跌94點。",
       "publishedAt": "2026-09-04T14:10:36.760Z",
       "discoveredAt": "2026-09-04T14:10:36.760Z",
@@ -4442,7 +4532,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9735372?from=edn_hottest_index",
-      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 21113",
+      "title": "美國8月非農就業暴增16.2萬人 強化 Fed 升息展望！美股、美債同步下跌 21162",
       "description": "美國勞工部統計局4日公布，美國8月非農就業大增16.2萬人，就業成長遠高於經濟學家預期的5.3萬人，且前兩月數據也上修，失業率則持穩於4.1%。這顯示勞動市場動能比預期強，可能強化聯準會（Fed） 本月升息展望。",
       "publishedAt": "2026-09-04T13:37:23.548Z",
       "discoveredAt": "2026-09-04T13:37:23.548Z",
@@ -5281,96 +5371,6 @@
       "url": "https://money.udn.com/money/story/5599/9735240",
       "title": "20:08 【經濟x彭博】不願離開首爾 韓國銀行業爆發一年來最大的抗議活動",
       "description": "【彭博】-- 韓國銀行業和金融業從業者舉行了一年來規模最大的抗議活動，反對將公共金融機構遷出首爾的計畫，對總統李在明推動經濟活動走出首都圈的政策發起更強烈抵制。",
-      "publishedAt": "2026-09-04T12:16:22.916Z",
-      "discoveredAt": "2026-09-04T12:16:22.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bcb445c839311eb98397",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9734950?from=edn_newest_index",
-      "title": "日本超長期公債殖利率全面走低 至少下跌0.1個百分點 | 國際焦點 | 國際 | 經濟日報",
-      "description": "【彭博】-- 市場猜測日本政府養老基金可能會購買更多國內債券，日本超長期公債殖利率全面下跌。",
-      "publishedAt": "2026-09-04T12:16:22.916Z",
-      "discoveredAt": "2026-09-04T12:16:22.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ad5f916c6b23bc8862c3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9735091?from=edn_newest_index",
-      "title": "今日最夯股／華星光受惠光通訊熱潮 股價跳空爆量收漲停 | 市場焦點 | 證券 | 經濟日報",
-      "description": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
-      "publishedAt": "2026-09-04T12:16:22.916Z",
-      "discoveredAt": "2026-09-04T12:16:22.916Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_986ba4ae25eea5a0d971",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9735326?from=edn_newest_index",
-      "title": "國泰人壽「步步攻億走」五年累積4000億步 走出健康 x 永續新模式 | 金融脈動 | 金融 | 經濟日報",
-      "description": "國泰人壽永續行動榮獲國際肯定，以「國泰步步攻億走」榮獲2026保險業亞洲獎（Insurance Asia Awards；IAA）年度ESG倡議獎（ESG Initiative of the Year - Taiwan），為台灣唯一獲獎保險公司。自2022年起，國泰人壽推動「國泰步步攻億走」，以「走路做公益」串聯全民健康與社會參與，民眾透過走路累積步數，達標後由國壽提撥公益金支持永續行動。截至2026年，已累積逾156萬人次參與、突破4,100億步，並投入近3,800萬元支持全台9項永續公益計畫，讓每一個日常步伐不僅累積健康，也為環境與社會創造正向影響。",
       "publishedAt": "2026-09-04T12:16:22.916Z",
       "discoveredAt": "2026-09-04T12:16:22.916Z",
       "topics": [

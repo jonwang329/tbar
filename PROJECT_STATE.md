@@ -1,95 +1,100 @@
 # TBAR — Project State Contract
 
-> This file is the canonical session-recovery and version-control state for TBAR.
+> Canonical Project OS state for TBAR. Read this first when resuming the project.
 
 ## Identity
 - Project: TBAR — Taiwan Business & AI Radar
 - Repository: jonwang329/tbar
 - Canonical branch: main
-- State status: 🟢 GREEN — Project OS documentation integration complete
+- Production: https://jonwang329.github.io/tbar/
+- Time zone: Asia/Taipei
 
-## Version Truth
-- CURRENT_APPROVED_VERSION: TBAR Frozen V1 output structure
-- GOLDEN_BASELINE: Existing production/working baseline prior to Project OS integration
-- LATEST_COMMIT: cf6bf003b8b4ad495eca976768d9e5534b8074cf
-- PRODUCTION_VERSION: verify before claiming
-- EXPERIMENTAL_VERSION: none recorded
-- Last state update: 2026-08-30 Asia/Taipei
+## Current Status
+- Product status: 🟢 GREEN baseline preserved
+- Locked stable release: **TBAR V1.1**
+- Stable date: **2026-09-05**
+- Stable verification window: **2026-09-05 20:58 Asia/Taipei**
+- Stable UI/content commit: **d19c900a3ba2b04525aec50fa1f5f540c58c1721**
+- Stable smoke-gate lineage: **e77c0c1f6782e2dd9d42b91d05f6ea9cc86b956a → d25770a59ce24f51e639ab4a09c6a7460a5eb75b**
+- Do not overwrite or silently roll back the V1.1 stable baseline.
 
-## Current Objective
-Pilot the reusable Project OS system in TBAR without changing TBAR product behavior.
+## 2026-09-05 User Decision Log
+The user explicitly approved the current V1.1 experience and requested that it be retained in Project OS with version, time, and discussion context. The project may pause here after bilingual separation is saved.
 
-## Approved Product Core
-TBAR is a phone-first intelligence filter, not a news feed.
+Approved product principles from the discussion:
+1. Keep the current V1.1 layout and behavior as the known-good baseline.
+2. Executive Snapshot must contain four genuinely different decision questions; duplicated summary content is a regression.
+3. Important People / Video Intelligence must use mobile-safe native expand/collapse and must not depend on fragile JavaScript click handlers.
+4. Harvard Lao Xu / Xu Bin is an interpreter/curator, not the sole primary source for material facts. Entries need what was said, evidence/numbers where available, why it matters, Taiwan lens, HPE lens, video/source, and original-source separation.
+5. Preserve Dario / Sam / Jensen / Elon as P0 global leaders and maintain the full tracked leader set plus Taiwan priority figures such as 簡立峰.
+6. TBAR is an executive intelligence filter, not a high-volume news feed.
+7. Mobile-first remains mandatory.
+8. Chinese and English must be separated into distinct language deliverables rather than mixed in one content file.
+9. Language switching should use robust static links rather than JavaScript-dependent state.
 
-Frozen V1 output:
-1. Must Know — max 3
-2. Important Signals — max 5
-3. Deep Dive — 0–2
-4. Watchlist — living signals
+## Language Architecture — saved 2026-09-05
+- Traditional Chinese canonical source: `index.html`
+- Published Traditional Chinese alias: `index-zh.html` (generated during build from the locked Chinese source)
+- English source: `index-en.html`
+- Default production page remains Traditional Chinese.
+- The build publishes both language pages and adds a static 中文 / EN switch to the Chinese output.
+- English contains a static link back to the Chinese page.
+- The bilingual implementation is intentionally separated so future translation edits cannot silently alter the other language.
 
-Core pipeline:
-SOURCE → COLLECT → TIMESTAMP → NORMALIZE → STORY CLUSTER → SCORE → AI JUDGMENT → 1/2/3/4 OUTPUT
+### Bilingual implementation commits
+- English page added: `7f9ef2ed9d2cb424b22d4f62ca052203441c112a`
+- Build/publish split added: `2183116ca0797bfec55ab7dd3ca1264bd5b9cbc6`
 
-## Stable Core / Do Not Change During Project OS Integration
-- Frozen V1 output structure
-- Phone-first orientation
-- Existing source/data principles
-- Existing collector behavior
-- Current application UI and runtime behavior
+## Protected V1.1 Regression Surface
+- Executive Snapshot — four different questions, not repeated stories
+- Must Know — no repetition of snapshot stories
+- Important People / Video Intelligence — native mobile-safe `<details>/<summary>` drilldown
+- Harvard Lao Xu / Xu Bin — source/video + synthesis + Why/Taiwan/HPE lenses
+- Taiwan Intelligence
+- Country Deep Dive — Taiwan / Korea / Japan / Singapore
+- Executive Dashboard
+- HPE Opportunity
+- Mobile phone usability
+- Chinese/English separation must not break the V1.1 Chinese baseline
 
-## Current Change — Delta Contract
-- Change request: Add Project OS management structure and reusable skill.
-- Why: improve PM, SA, session recovery, version control, regression protection, execution discipline, and cross-project continuity.
-- Acceptance criteria:
-  - reusable Project OS skill exists — PASS
-  - project state contract exists — PASS
-  - portfolio dashboard contract exists — PASS
-  - AGENTS references the system — PASS
-  - no TBAR application/product behavior changes — PASS by documentation-only change scope
-- Protected behavior: all existing TBAR product behavior.
-- Deployment required: no product deployment required for documentation-only integration.
+## Release Discipline
+CHECK → FIX → DEPLOY → TESTING → README / Project OS → READY TO TEST
 
-## Feature Manifest — Protected Core
-| Feature | Expected behavior | Regression check | Status |
-|---|---|---|---|
-| Frozen V1 output | 3/5/0–2/watchlist structure preserved | README/product structure unchanged | Protected |
-| Phone-first design | mobile orientation preserved | no app code changed | Protected |
-| Core pipeline | collection/judgment pipeline preserved | no runtime code changed | Protected |
-| Source principles | primary-source truth hierarchy preserved | README unchanged unless explicitly documented | Protected |
+Every testable release must record:
+- Version
+- Date
+- Exact Asia/Taipei time
+- Commit SHA
+- Production URL
+- Regression result
 
-## PM Status
-### Done
-- Existing execution standard in AGENTS.md
-- Project OS architecture defined
-- Reusable `skills/project-os/SKILL.md` added
-- `PORTFOLIO_DASHBOARD.md` added
-- AGENTS.md linked to Project OS
-- Documentation integration verified
+`READY TO TEST` is forbidden until the deployed production page itself passes the release gate.
 
-### In Progress
-- None for TBAR pilot documentation integration
+## Stable vs Working
+### STABLE
+- **TBAR V1.1 Chinese baseline** — locked and preserved.
 
-### Next
-- Register other active projects under the same Project OS contract
-- Map production version explicitly for TBAR during the next product/deployment cycle
-- Package Project OS as an installable ChatGPT Plugin if desired
+### WORKING DELTA
+- Separate Traditional Chinese and English deliverables with static language switching.
+- This delta must not be promoted as a new stable release until production verification passes.
 
-## Risks / Blockers
-- Repository-local skill is not automatically an @-mentionable ChatGPT Plugin.
-- Production version is not yet explicitly mapped in this state file and must not be guessed.
+## Next Safe Action
+1. Verify the production deploy generated by the bilingual commits.
+2. Confirm `/index-zh.html` and `/index-en.html` both load on iPhone.
+3. Confirm 中文 ↔ EN links work without JavaScript.
+4. Re-run V1.1 regression checks on the default Chinese page.
+5. If all pass, record the bilingual delta as the next green release while retaining V1.1 as rollback baseline.
 
 ## Session Recovery Checklist
 When resuming TBAR:
 1. Read this file.
-2. Read `skills/project-os/SKILL.md`.
-3. Read README.md and AGENTS.md.
-4. Check repo head and production separately.
-5. Confirm current Delta Contract.
-6. Continue from Next, not from conversation memory alone.
+2. Read `README.md` and `AGENTS.md`.
+3. Treat TBAR V1.1 as the locked rollback baseline.
+4. Check repository head and production separately.
+5. Continue only from the Working Delta above; do not reconstruct requirements from memory alone.
 
 ## Handoff
-- What changed: reusable Project OS skill, project state contract, portfolio dashboard, and AGENTS linkage were added.
-- What did not change: TBAR product/runtime behavior.
-- Known issues: production version mapping still needs explicit verification.
-- Next safe action: onboard the next project or package Project OS as a true ChatGPT Plugin.
+- Current approved product: TBAR V1.1.
+- Current project phase: bilingual separation, then pause.
+- Original good version is preserved and must remain recoverable.
+- No future session should require the user to repeat the 2026-09-05 decisions above.

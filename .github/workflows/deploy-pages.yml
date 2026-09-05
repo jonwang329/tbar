@@ -62,35 +62,43 @@ jobs:
             sleep 5
           done
           test -n "$html"
-          grep -q 'TBAR V1.1' <<<"$html"
-          grep -q 'Executive Snapshot' <<<"$html"
-          grep -q 'four different questions — not repeated stories' <<<"$html"
-          grep -q '1. Must Know' <<<"$html"
-          grep -q '2. Important People / Video Intelligence' <<<"$html"
-          grep -q '<details class="leader"' <<<"$html"
-          grep -q '<summary>' <<<"$html"
-          grep -q '哈佛老徐 / 徐彬' <<<"$html"
-          grep -q '不是只收「影片連結」，而是收「他到底講了什麼」' <<<"$html"
-          grep -q 'Watch / latest feed' <<<"$html"
-          grep -q 'Why it matters' <<<"$html"
-          grep -q 'Taiwan lens' <<<"$html"
-          grep -q 'HPE lens' <<<"$html"
-          grep -q 'Dario Amodei' <<<"$html"
-          grep -q 'Sam Altman' <<<"$html"
-          grep -q 'Jensen Huang' <<<"$html"
-          grep -q 'Elon Musk' <<<"$html"
-          grep -q 'Demis Hassabis' <<<"$html"
-          grep -q 'Sundar Pichai' <<<"$html"
-          grep -q 'Satya Nadella' <<<"$html"
-          grep -q 'Lisa Su' <<<"$html"
-          grep -q 'Mark Zuckerberg' <<<"$html"
-          grep -q 'Andy Jassy' <<<"$html"
-          grep -q '簡立峰' <<<"$html"
-          grep -q 'Taiwan Intelligence' <<<"$html"
-          grep -q 'Country Deep Dive' <<<"$html"
-          grep -q 'Executive Dashboard / Trend Analysis' <<<"$html"
-          grep -q 'HPE Opportunity' <<<"$html"
-          if grep -q 'id="zhBtn"\|id="enBtn"' <<<"$html"; then
+          required=(
+            'TBAR V1.1'
+            'Executive Snapshot'
+            'four different questions — not repeated stories'
+            '1. Must Know'
+            '2. Important People / Video Intelligence'
+            '<details class="leader"'
+            '<summary>'
+            '哈佛老徐 / 徐彬'
+            '不是只收「影片連結」，而是收「他到底講了什麼」'
+            'Watch / latest feed'
+            'Why it matters'
+            'Taiwan lens'
+            'HPE lens'
+            'Dario Amodei'
+            'Sam Altman'
+            'Jensen Huang'
+            'Elon Musk'
+            'Demis Hassabis'
+            'Sundar Pichai'
+            'Satya Nadella'
+            'Lisa Su'
+            'Mark Zuckerberg'
+            'Andy Jassy'
+            '簡立峰'
+            '3. Taiwan Intelligence'
+            '4. Country Deep Dive'
+            '5. Executive Dashboard'
+            'HPE Opportunity'
+          )
+          for marker in "${required[@]}"; do
+            if ! grep -Fq "$marker" <<<"$html"; then
+              echo "MISSING_PRODUCTION_MARKER: $marker" >&2
+              exit 1
+            fi
+          done
+          if grep -Eq 'id="(zhBtn|enBtn)"' <<<"$html"; then
             echo "Legacy V1.0 bilingual JS controls unexpectedly present" >&2
             exit 1
           fi

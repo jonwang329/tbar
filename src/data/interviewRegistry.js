@@ -1,10 +1,21 @@
 // TBAR Interview Intelligence Registry
-// Purpose: long-form interviews/speeches are first-class intelligence, not ordinary news.
-// Keep the core 10 AI leaders stable. Analysts/interpreters are a separate discovery layer.
+// Long-form interviews and speeches are first-class intelligence, not decorative watchlist names.
 
 export const INTERVIEW_LEADERS = [
-  'Jensen Huang','Sam Altman','Dario Amodei','Demis Hassabis','Elon Musk',
-  'Sundar Pichai','Satya Nadella','Lisa Su','Mark Zuckerberg','Andy Jassy'
+  { name:'Jensen Huang', company:'NVIDIA', role:'Founder & CEO', priority:'P1' },
+  { name:'Sam Altman', company:'OpenAI', role:'CEO', priority:'P1' },
+  { name:'Dario Amodei', company:'Anthropic', role:'Co-founder & CEO', priority:'P1' },
+  { name:'Demis Hassabis', company:'Google DeepMind', role:'Co-founder & CEO', priority:'P1' },
+  { name:'Sundar Pichai', company:'Google / Alphabet', role:'CEO', priority:'P1' },
+  { name:'Satya Nadella', company:'Microsoft', role:'Chairman & CEO', priority:'P1' },
+  { name:'Matt Garman', company:'AWS', role:'CEO', priority:'P1' },
+  { name:'Lisa Su', company:'AMD', role:'Chair & CEO', priority:'P1' },
+  { name:'Elon Musk', company:'xAI / Tesla / SpaceX', role:'Founder / CEO', priority:'P1' },
+  { name:'Mark Zuckerberg', company:'Meta', role:'Founder & CEO', priority:'P1' }
+];
+
+export const SECONDARY_EXECUTIVE_WATCH = [
+  { name:'Andy Jassy', company:'Amazon', role:'President & CEO', reason:'Amazon/AWS capital allocation and AI strategy' }
 ];
 
 // High-value people who interpret, translate, synthesize or contextualize primary interviews.
@@ -16,10 +27,30 @@ export const TOP_INTERPRETERS = [
 ];
 
 export const INTERVIEW_PIPELINE = [
-  'PRIMARY_INTERVIEW',
-  'CURATED_INTERPRETER',
-  'TBAR_EXECUTIVE_INTELLIGENCE'
+  'DISCOVER_NEW_LONG_FORM_CONTENT',
+  'IDENTIFY_PRIMARY_SPEAKER_AND_SOURCE',
+  'READ_OR_EXTRACT_TRANSCRIPT',
+  'SEPARATE_PRIMARY_VIEW_FROM_INTERPRETER_VIEW',
+  'EXTRACT_EXECUTIVE_INTELLIGENCE',
+  'VERIFY_MATERIAL_NUMBERS',
+  'PUBLISH_ONLY_IF_HIGH_VALUE'
 ];
+
+export const LEADER_RADAR_POLICY = {
+  purpose:'Surface what important AI leaders are actually saying now, not merely list their names.',
+  discoveryTargets:['interview','podcast','keynote','fireside chat','earnings discussion','conference talk','long-form Q&A'],
+  minimumUsefulOutput:[
+    'speaker','company','publishedAt','originalSource','executiveSummary','keyTheses','keyNumbers',
+    'whyItMatters','taiwanLens','hpeLens','investmentLens','verification'
+  ],
+  displayRules:[
+    'Never render a leader name as a substitute for intelligence.',
+    'If there is no meaningful new interview or speech, show no card for that leader.',
+    'Prefer 1-3 high-value leader items over a complete ten-person checklist.',
+    'A new interview should be promoted when it reveals strategy, economics, infrastructure constraints, model direction, enterprise adoption, capital allocation or competitive structure.',
+    'Store source and publication date so old interviews are not mistaken for new signals.'
+  ]
+};
 
 export const CURATED_INTERPRETER_REQUIREMENTS = {
   capture:[

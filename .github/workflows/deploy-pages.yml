@@ -43,3 +43,42 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  smoke:
+    runs-on: ubuntu-latest
+    needs: deploy
+    steps:
+      - name: Verify live production TBAR V1.0
+        shell: bash
+        run: |
+          set -euo pipefail
+          url="https://jonwang329.github.io/tbar/"
+          html=""
+          for i in {1..18}; do
+            html="$(curl -fsSL "$url" || true)"
+            if grep -q 'TBAR V1.0' <<<"$html"; then
+              break
+            fi
+            sleep 5
+          done
+          test -n "$html"
+          grep -q 'TBAR V1.0' <<<"$html"
+          grep -q '四個不重複的 Summary' <<<"$html"
+          grep -q '2. Important Signals' <<<"$html"
+          grep -q 'Key AI Voices' <<<"$html"
+          grep -q 'Dario Amodei' <<<"$html"
+          grep -q 'Sam Altman' <<<"$html"
+          grep -q 'Jensen Huang' <<<"$html"
+          grep -q 'Elon Musk' <<<"$html"
+          grep -q 'Sundar Pichai' <<<"$html"
+          grep -q '哈佛老徐 / 徐彬' <<<"$html"
+          grep -q 'Original-speaker source trail' <<<"$html"
+          grep -q '簡立峰' <<<"$html"
+          grep -q 'MOEA · AI Data Center' <<<"$html"
+          grep -q 'Public Procurement' <<<"$html"
+          grep -q 'Country Deep Dive' <<<"$html"
+          grep -q 'Executive Dashboard / Trend Analysis' <<<"$html"
+          grep -q 'HPE Opportunity' <<<"$html"
+          grep -q 'id="zhBtn"' <<<"$html"
+          grep -q 'id="enBtn"' <<<"$html"
+          echo "PRODUCTION_SMOKE_PASS $url"

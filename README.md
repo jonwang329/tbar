@@ -16,6 +16,12 @@ This rule is mandatory before every user test and applies to every release, hotf
 - If any prior fixed behavior regresses, status is **FAIL / NOT READY TO TEST**.
 - When returning to the project in a later session, start from the latest locked stable baseline, never from a guessed or merely recent commit.
 
+## LOCKED STABLE BASELINE
+- Version: **TBAR V1.0**
+- Date: **2026-09-05**
+- UI commit: **48f73b66a8814774bc29ab0eb53bda6ac98cd2c1**
+- Mandatory regression surface: bilingual toggle; four non-duplicated summaries; Must Know; Important Signals; list-style Key AI Voices with drill-in; Dario/Sam/Jensen/Elon P0; 哈佛老徐 interpreter/source separation; 簡立峰; all 10 tracked global leaders; Taiwan Intelligence; Taiwan/Korea/Japan/Singapore Country Deep Dive; final Executive Dashboard/HPE opportunity.
+
 ## Frozen V1 output
 1. Must Know — max 3
 2. Important Signals — max 5
@@ -27,9 +33,15 @@ SOURCE → COLLECT → TIMESTAMP → NORMALIZE → STORY CLUSTER → SCORE → A
 
 ## Data principles
 - Timeliness is a ranking input, with published/discovered/processed/updated timestamps.
-- Primary sources are truth sources; curated sources such as WeChat are discovery/interpretation sources.
+- Primary sources are truth sources; curated sources such as WeChat/哈佛老徐 are discovery/interpretation sources.
 - One event becomes one Story with multiple evidence sources, not duplicate headlines.
 - Taiwan relevance and business impact are first-class scoring dimensions.
+
+## Leader Intelligence
+Track 10 global leaders: Dario Amodei, Sam Altman, Jensen Huang, Elon Musk, Demis Hassabis, Sundar Pichai, Satya Nadella, Lisa Su, Mark Zuckerberg, Andy Jassy. P0 priority is Dario / Sam / Jensen / Elon. Taiwan priority includes 簡立峰. 哈佛老徐 / 徐彬 is an Interpreter / Curator, never a primary source; original-speaker/source trail must remain separate from his interpretation.
+
+## Taiwan Intelligence
+Keep active official and high-value discovery sources including MODA/ADI, NCHC, MOEA, NDC, public procurement, major enterprise AI investment, 天下/CommonWealth, 遠見/Global Views, 商業周刊. Material claims should route back to primary evidence when available.
 
 ## Country Deep Dive
 Taiwan / Korea / Japan / Singapore across GPU compute, AI data-center capacity, sovereign AI, cloud, near/middle-tier cloud, utilization/sharing, networking, power/cooling, enterprise adoption, policy/investment, and Taiwan opportunity gap.

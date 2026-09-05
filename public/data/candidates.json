@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-05T15:55:43.582Z",
+  "updatedAt": "2026-09-05T16:11:28.181Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T15:55:43.582Z",
+      "discoveredAt": "2026-09-05T16:11:28.181Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-05T15:55:43.582Z",
+      "discoveredAt": "2026-09-05T16:11:28.181Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_756a7b996f8c83bb3149",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9736748?from=edn_newest_index",
+      "title": "鴻海國泰66購01 活跳跳 | 權證特區 | 證券 | 經濟日報",
+      "description": "AI需求持續以超乎過往的速度與規模擴張，帶動鴻海加速全球產能布局，並推動製造基地向美國、墨西哥等地分散。法人指出，鴻海資本支出擴張且訂單能見度已延伸至2027至2028年，可利用相關權證伺機布局。",
+      "publishedAt": "2026-09-05T16:11:19.587Z",
+      "discoveredAt": "2026-09-05T16:11:19.587Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a0a755d72b8e14f89557",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9736677?from=edn_newest_index",
+      "title": "華通台新67購02 馬力足 | 權證特區 | 證券 | 經濟日報",
+      "description": "華通受益資料中心相關業務成長動能強勁，緩解傳統淡季逆風，第2季獲利改寫歷年同期新高，法人預期，隨消費性電子旺季效應、光模塊逐步放量、衛星業務持續成長，第3季營運可望締造歷史新猷，近日股價強勢整理。",
+      "publishedAt": "2026-09-05T16:11:19.587Z",
+      "discoveredAt": "2026-09-05T16:11:19.587Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_f867a653a7ba324f0a7b",
@@ -337,6 +397,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_43da0fab2454879ecad3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9736749?from=edn_newest_index",
+      "title": "微星統一64購01 有看頭 | 權證特區 | 證券 | 經濟日報",
+      "description": "全球電競硬體與AI伺服器大廠微星近期繳出令市場驚豔的財報成績單。受惠於中高階產品比重持續提高，帶動毛利率顯著回升，加上伺服器與AI應用動能強勁，推動整體獲利表現大幅躍進，吸引資金高度關注。",
+      "publishedAt": "2026-09-05T16:11:19.587Z",
+      "discoveredAt": "2026-09-05T16:11:19.587Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_9d743dfdc021bd38844f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -344,7 +434,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9735584?from=edn_hottest_index",
-      "title": "群聯：拿得到貨源才是關鍵 CEO 潘健成直言 NAND 缺貨是定局 3496",
+      "title": "群聯：拿得到貨源才是關鍵 CEO 潘健成直言 NAND 缺貨是定局 3519",
       "description": "AI帶動記憶體需求持續升溫，群聯執行長潘健成昨（4）日表示，近期才與兩家快閃記憶體（Flash）原廠開會，對方直言「明年缺口不知道有多大」，NAND Flash供給仍相當吃緊，市場不必再討論Flash會不會缺貨，真正的關鍵是供需緊張之際，「誰有能力拿到更多資源」。",
       "publishedAt": "2026-09-05T14:08:44.101Z",
       "discoveredAt": "2026-09-05T14:08:44.101Z",
@@ -1305,7 +1395,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

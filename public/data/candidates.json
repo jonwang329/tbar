@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T15:35:16.760Z",
+  "updatedAt": "2026-09-06T15:45:53.589Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T15:35:16.760Z",
+      "discoveredAt": "2026-09-06T15:45:53.589Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T15:35:16.760Z",
+      "discoveredAt": "2026-09-06T15:45:53.589Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_7ad537e53a37497b9218",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9738305?from=edn_newest_index",
+      "title": "海外交易熱度升溫 AI 時代國人為何轉向「全球化投資」？ | 基金天地 | 理財 | 經濟日報",
+      "description": "根據券商公會統計，截至2026年前七月，複委託累計金額已達11.3兆元，超越2025年全年的10.7兆元，國人投資海外動作更為積極，投資力道也加大。法人表示，這趨勢可能跟AI產業趨勢有關，國人開始往美國為主的市場尋找相關標的投資，這現象應會持續下去。",
+      "publishedAt": "2026-09-06T15:45:44.309Z",
+      "discoveredAt": "2026-09-06T15:45:44.309Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_2e4efbd5f2ea938303dd",
@@ -544,6 +574,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cd5c5b9893a796a90e4c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11162/9738209?from=edn_newest_index",
+      "title": "AI 產業發展競速 雲端巨頭 Google、微軟、AWS 加速布局系統整合 | 科技產業 | 產業 | 經濟日報",
+      "description": "在AI產業的競速賽道上，「時間與速度」正顛覆傳統科技軟體的生命周期。",
+      "publishedAt": "2026-09-06T15:45:44.309Z",
+      "discoveredAt": "2026-09-06T15:45:44.309Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1321,6 +1381,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_c0c96bc954b1b14df10d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9738278?from=edn_newest_index",
+      "title": "興櫃股王漢測要掛牌 股價衝上4,820元的大絕招是甚麼？ | 產業熱點 | 產業 | 經濟日報",
+      "description": "興櫃股王漢測（7856）預計9月22日掛牌上櫃，暫定承銷價每股2,250元，刷新台股IPO最高承銷價紀錄，9月4日在興櫃參考價更衝上4,820元。市場看好漢測的關鍵，在於公司掌握高階晶圓測試技術，從工程服務延伸至熱管理、晶圓載台及先進封裝等高附加價值產品，搭上AI與高效能運算（HPC）晶片測試需求爆發商機。",
+      "publishedAt": "2026-09-06T15:45:44.309Z",
+      "discoveredAt": "2026-09-06T15:45:44.309Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_b8c5d2b10f43dbf004f0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1662,96 +1752,6 @@
       "description": "針對美中正計劃9月中旬舉行人工智慧（AI）對話，有學者分析，AI能力突飛猛進，但失控風險上升，為美中之間帶來「超越地緣政...",
       "publishedAt": "2026-09-06T04:04:51.943Z",
       "discoveredAt": "2026-09-06T04:04:51.943Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f41449138d625ee45880",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9737394?from=edn_newest_index",
-      "title": "台股震盪不改基本面 AI 供應鏈續迎升級商機 2026-09-06 11:34",
-      "description": "美國聯準會官員釋出對通膨數據偏向樂觀談話影響，市場對升息擔憂降溫，激勵美股走揚。台股同步受到提振；法人表示，近期台股走勢受到市場對利率政策預期反覆調整影響，情緒面波動加大，指數呈現震盪格局。",
-      "publishedAt": "2026-09-06T03:36:21.317Z",
-      "discoveredAt": "2026-09-06T03:36:21.317Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6e7e525f44b3a9b8dbfa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9736912?from=edn_maintab_index",
-      "title": "勞動部研擬勞資 AI 指南 5大原則預計年底出爐 AI取代人力時代成為全球矚目議題，勞動部正在研議勞資AI指南，擬訂五大原則，預計年底出爐，將關注公開透明、保護勞工個資、人為監督決策、AI需與勞工協商、就業權益維護等面向。 微軟創辦人比爾・蓋茲近...",
-      "description": "AI取代人力時代成為全球矚目議題，勞動部正在研議勞資AI指南，擬訂五大原則，預計年底出爐，將關注公開透明、保護勞工個資、人為監督決策、AI需與勞工協商、就業權益維護等面向。",
-      "publishedAt": "2026-09-05T18:56:58.981Z",
-      "discoveredAt": "2026-09-05T18:56:58.981Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d34d6c48bddd1278a61",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9736920?from=edn_newest_index",
-      "title": "AI 技術突飛猛進 學者籲勞工強化跨域能力 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI技術突飛猛進，引發AI取代人類工作擔憂，學者指出，目前AI主要衝擊白領文職與電腦相關工作，面對AI浪潮，勞工不應恐懼，應積極學習並培養跨領域整合能力，確保職場競爭力。",
-      "publishedAt": "2026-09-05T17:44:07.805Z",
-      "discoveredAt": "2026-09-05T17:44:07.805Z",
       "topics": [
         "Taiwan business",
         "investment",

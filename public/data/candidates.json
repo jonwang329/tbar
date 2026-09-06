@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T10:54:56.795Z",
+  "updatedAt": "2026-09-06T11:09:38.040Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T10:54:56.795Z",
+      "discoveredAt": "2026-09-06T11:09:38.040Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T10:54:56.795Z",
+      "discoveredAt": "2026-09-06T11:09:38.040Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1261,6 +1261,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_d3c45d56d37196c9e4ce",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9737917?from=edn_newest_index",
+      "title": "正式跨進銀髮運動！全國首創「銀髮族 AI 體適能指導員」台中首發 | 生活 | 要聞 | 經濟日報",
+      "description": "面對台灣正式進入超高齡社會，銀髮健康、運動指導與科技應用逐漸成為未來重要課題。長期投入運動人才培訓、銀髮健康及AI應用發展的蔡良慶，近期進一步將人工智慧導入銀髮族體適能領域，推動全國首創「銀髮族AI體適能指導員」，並於6日在台中軟體園區藝術廣場3樓舉行首映發表暨開訓典禮。",
+      "publishedAt": "2026-09-06T11:09:28.306Z",
+      "discoveredAt": "2026-09-06T11:09:28.306Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_90f6951e2439c537df72",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1402,7 +1432,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1722,36 +1752,6 @@
       "description": "西雅圖時報與新聞日報4日控告OpenAI和微軟擅自複製其新聞內容，用於訓練AI模型，並繞過付費牆重現報導段落，降低使用者造訪報社網站或付費訂閱必要性。OpenAI發言人說，旗下模型是取得公開資料，微軟則說願意協商這類爭議。",
       "publishedAt": "2026-09-05T17:19:23.017Z",
       "discoveredAt": "2026-09-05T17:19:23.017Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d6d1335c8bfea0c4bf77",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9736682?from=edn_newest_index",
-      "title": "元大台灣50 謹慎操作 | 基金天地 | 理財 | 經濟日報",
-      "description": "元大台灣50（0050）周漲0.8%，需提防高檔解套賣壓出籠。短線盤勢將回歸個股表現，法人看好具實質業績支撐的AI供應鏈；因台股近來震盪幅度大，區間操作需遵守紀律。",
-      "publishedAt": "2026-09-05T15:55:30.375Z",
-      "discoveredAt": "2026-09-05T15:55:30.375Z",
       "topics": [
         "Taiwan business",
         "investment",

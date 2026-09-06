@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T05:34:59.548Z",
+  "updatedAt": "2026-09-06T05:45:49.711Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T05:34:59.548Z",
+      "discoveredAt": "2026-09-06T05:45:49.711Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T05:34:59.548Z",
+      "discoveredAt": "2026-09-06T05:45:49.711Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_a8db1e4191948a5ec47d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9737578?from=edn_newest_index",
+      "title": "資金分散日韓AI風險 大陸股市衍生品需求升溫 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "日韓人工智慧（AI）投資交易日益擁擠，尋求分散投資風險的資金開始轉向大陸股票衍生品。外媒指出，近幾周巴克萊、瑞銀等銀行交易部門看到客戶對掛鉤大陸主要股市指數的看漲選擇權及掉期合約需求增加，越來越多策略師也開始建議透過衍生品布局大陸股市，尤其是中小型股。",
+      "publishedAt": "2026-09-06T05:45:41.519Z",
+      "discoveredAt": "2026-09-06T05:45:41.519Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_29b88328657effd2c819",
@@ -1027,7 +1057,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1168,6 +1198,36 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_11432ad01b07f4aa1b1b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9737570?from=edn_newest_index",
+      "title": "DeepSeek傳採購16萬顆華為昇騰950DT 劍指AI推理算力 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸AI模型公司DeepSeek近日傳出大手筆採購國產AI晶片。彭博報導，DeepSeek計劃在內蒙古建設的大型數據中心部署至少16萬顆華為下一代昇騰950DT晶片，用於模型推理。若按計劃完成，將成目前已知規模最大的大陸國產AI晶片集群之一。",
+      "publishedAt": "2026-09-06T05:45:41.519Z",
+      "discoveredAt": "2026-09-06T05:45:41.519Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1703,65 +1763,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ab6aea3d323510806f80",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9735232?from=edn_hottest_index",
-      "title": "信驊破天荒招畢業生吸千人報考！林鴻明喊話：快帶徒弟！預告二度漲價 7793",
-      "description": "台股股王信驊（5274）創業22年採取精兵制，員工人數僅100多人(未計入子公司)，過去一向只用資深人才，董事長林鴻明4日表示，今年破天荒招募20幾位碩博士應屆畢業生，人力增幅創歷年之最，原因是傳承及AI。他也透露今年將二度調高晶片售價，員工平均獲利貢獻將僅次於輝達（NVIDIA）。",
-      "publishedAt": "2026-09-05T07:34:11.993Z",
-      "discoveredAt": "2026-09-05T07:34:11.993Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_01c27ec352738162e93e",
-      "sourceLastModified": null,
-      "sourceId": "businessweekly",
-      "sourceName": "商業周刊",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://www.businessweekly.com.tw/business/blog/3022389",
-      "title": "不只看得到牙結石，還能幫你洗牙！Dyson花6年打造1.6萬元「AI牙刷」",
-      "description": "",
-      "publishedAt": "2026-09-05T01:25:14.408Z",
-      "discoveredAt": "2026-09-05T01:25:14.408Z",
-      "topics": [
-        "Taiwan business",
-        "AI",
-        "management",
-        "industry"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T18:07:09.732Z",
+  "updatedAt": "2026-09-06T18:24:06.607Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T18:07:09.732Z",
+      "discoveredAt": "2026-09-06T18:24:06.607Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T18:07:09.732Z",
+      "discoveredAt": "2026-09-06T18:24:06.607Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1255,36 +1255,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_70923116eee7c10987f2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9723421?from=edn_course_index",
-      "title": "王鳳生 AI 創富 考驗企業家精神",
-      "description": "人工智慧正在創造人類歷史上最快速的財富累積。過去幾年，全球科技公司的市值以驚人的速度攀升，人工智慧晶片、雲端算力與大型語言模型，重新改寫了全球產業競爭的版圖。每當黃仁勳回到台灣，媒體追逐的不只是他的演講，也包括他的餐敘、美食、穿著與一言一行。人們欣賞他的成功，也羨慕他的財富。然而，在這股AI熱潮背後，真正值得思考的問題並不是又誕生了一位新的世界級富豪，而是：AI時代究竟需要什麼樣的企業家？",
-      "publishedAt": "2026-08-30T18:12:39.819Z",
-      "discoveredAt": "2026-08-30T18:12:39.819Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_a9788525fbee12f3cb99",
       "sourceLastModified": "2026-09-04T03:24:16.000Z",
       "sourceId": "anthropic-news",
@@ -1498,6 +1468,36 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4471aba7dbf3a9de88f6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9738228?from=edn_newest_index",
+      "title": "「記憶體末日」FT：消費電子將延續漲勢 | 國際焦點 | 國際 | 經濟日報",
+      "description": "英國金融時報（FT）分析，人工智慧（AI）熱潮引發記憶體晶片短缺，形成所謂的「記憶體末日」（RAMageddon），帶動晶片價格上漲，並扭轉消費電子裝置長年來的跌價趨勢，在可預見的未來，日常電子產品可能會持續漲價。",
+      "publishedAt": "2026-09-06T18:23:55.610Z",
+      "discoveredAt": "2026-09-06T18:23:55.610Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {

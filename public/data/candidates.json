@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T19:06:37.955Z",
+  "updatedAt": "2026-09-06T19:20:08.908Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T19:06:37.955Z",
+      "discoveredAt": "2026-09-06T19:20:08.908Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T19:06:37.955Z",
+      "discoveredAt": "2026-09-06T19:20:08.908Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -697,6 +697,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_dc0dc22e8ee6066ae7b6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9738249?from=edn_maintab_index",
+      "title": "台積電3奈米衝鋒 產值躍升Q3突破4,000億元創新高 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI與高速運算（HPC）多元應用需求飆升，台積電應廣大的客戶群要求，3奈米以下先進製程加開更多產能。法人看好，台積電下半年3奈米貢獻可望首度超越5奈米，估計第3季單季產值首度超過4,000億元，創新高，占營收比重逾三成，更可挹注毛利率表現。",
+      "publishedAt": "2026-09-06T19:19:56.018Z",
+      "discoveredAt": "2026-09-06T19:19:56.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d4c1428f8badbd6aca42",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9738201?from=edn_maintab_index",
+      "title": "CSP 龍頭亞馬遜搶 AI 機櫃 世芯、緯穎、鴻海等協力廠出貨動能強勁 | 產業熱點 | 產業 | 經濟日報",
+      "description": "供應鏈傳出，北美雲端服務供應商（CSP）龍頭亞馬遜旗下雲端服務（AWS）近期擴大AI伺服器機櫃拉貨力道，包括台積電、世芯-KY、緯穎、鴻海等主要協力廠全面動起來，出貨動能強勁，本季營運火熱。",
+      "publishedAt": "2026-09-06T19:19:56.018Z",
+      "discoveredAt": "2026-09-06T19:19:56.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_df20c19907ec8e0f7965",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1225,7 +1285,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1568,7 +1628,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9738250?from=edn_newest_index",
-      "title": "科技論壇10月14日登場 透視 AI 代理新賽局 | 熱門話題 | 要聞 | 經濟日報",
+      "title": "科技論壇10月14日登場 透視 AI 代理新賽局 2026-09-07 02:58",
       "description": "AI熱潮從生成式AI，逐步邁向具備自主判斷、協作與執行任務的AI Agent（AI代理）時代，2026年是「AI Agent規模化元年」，正重新定義企業營運模式、商業流程與市場競爭規則，開啟新一波產業轉型契機。",
       "publishedAt": "2026-09-06T19:06:29.126Z",
       "discoveredAt": "2026-09-06T19:06:29.126Z",
@@ -1703,66 +1763,6 @@
         "Taiwan"
       ],
       "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c0c96bc954b1b14df10d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9738278?from=edn_newest_index",
-      "title": "興櫃股王漢測要掛牌 股價衝上4,820元的大絕招是甚麼？ | 產業熱點 | 產業 | 經濟日報",
-      "description": "興櫃股王漢測（7856）預計9月22日掛牌上櫃，暫定承銷價每股2,250元，刷新台股IPO最高承銷價紀錄，9月4日在興櫃參考價更衝上4,820元。市場看好漢測的關鍵，在於公司掌握高階晶圓測試技術，從工程服務延伸至熱管理、晶圓載台及先進封裝等高附加價值產品，搭上AI與高效能運算（HPC）晶片測試需求爆發商機。",
-      "publishedAt": "2026-09-06T15:45:44.309Z",
-      "discoveredAt": "2026-09-06T15:45:44.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b8c5d2b10f43dbf004f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9738043?from=edn_newest_index",
-      "title": "支持AI中小企業創業 中國推新政涵蓋一人公司 2026-09-06 20:54",
-      "description": "中國工業和信息化部日前公布新政支持人工智慧（AI）中小企業創業，將「一人公司」、「超級個體」等AI時代的新型創業主體納入...",
-      "publishedAt": "2026-09-06T13:04:33.813Z",
-      "discoveredAt": "2026-09-06T13:04:33.813Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

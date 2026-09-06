@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T15:06:23.598Z",
+  "updatedAt": "2026-09-06T15:21:37.718Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T15:06:23.598Z",
+      "discoveredAt": "2026-09-06T15:21:37.718Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T15:06:23.598Z",
+      "discoveredAt": "2026-09-06T15:21:37.718Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_2e4efbd5f2ea938303dd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9738269?from=edn_newest_index",
+      "title": "半導體廠務工程五強訂單塞爆 在手訂單衝8,800億 後續有望叩關兆元 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI帶動晶片需求激增，台積電（2330）、美光等指標企業大舉加碼資本支出，全球半導體業迎來史上最強擴產潮，半導體廠務工程五強漢唐（2404）、亞翔（6139）、帆宣（6196）、洋基（6691）、聖暉（5536）訂單塞爆，合計在手訂單已逾8,800億元，創新高，確立迎向黃金三年業績榮景。",
+      "publishedAt": "2026-09-06T15:21:29.360Z",
+      "discoveredAt": "2026-09-06T15:21:29.360Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_503d4446d1e35f07bb88",
@@ -1722,36 +1752,6 @@
       "description": "AI紅利加持，愈來愈多高階經理人身價水漲船高，高資產傳承需求大幅成長；另外隨社會變遷，單身姑姑、頂客族這類的高資產人士也更加常見。同時，民法特留分、遺贈稅法「大老婆條款」、百年信託制度等法規陸續端上桌，一場傳承思維的大翻轉，正悄悄發生。",
       "publishedAt": "2026-09-05T17:44:07.805Z",
       "discoveredAt": "2026-09-05T17:44:07.805Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_170b03509613a417e44c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5944/9736923?from=edn_newest_index",
-      "title": "AI 展開黑箱競賽 暗藏風險 | 國際專欄 | 專欄 | 經濟日報",
-      "description": "這一年來，人工智慧（AI）研究人員一直在琢磨一個動聽的構想：如果AI模型少讓人知道自己如何運作，或許能變得更強大，運算成本也更低，在帶來商業優勢的同時，代價是人類更難監控AI是否做出有害行為。",
-      "publishedAt": "2026-09-05T17:33:17.883Z",
-      "discoveredAt": "2026-09-05T17:33:17.883Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T16:29:15.479Z",
+  "updatedAt": "2026-09-06T16:44:05.300Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T16:29:15.479Z",
+      "discoveredAt": "2026-09-06T16:44:05.300Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T16:29:15.479Z",
+      "discoveredAt": "2026-09-06T16:44:05.300Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_17756900a4caca24161f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9737961?from=edn_newest_index",
+      "title": "澳洲資料中心用電量 十年估增六倍 | 外媒解析 | 國際 | 經濟日報",
+      "description": "澳洲資料中心需要的電力，未來十年將增加近六倍。由於老舊的燃煤電廠陸續退場，必須加緊投資於發電與電力儲存。",
+      "publishedAt": "2026-09-06T16:43:55.536Z",
+      "discoveredAt": "2026-09-06T16:43:55.536Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_7ad537e53a37497b9218",
@@ -1722,36 +1752,6 @@
       "description": "大陸AI模型公司DeepSeek近日傳出大手筆採購國產AI晶片。彭博報導，DeepSeek計劃在內蒙古建設的大型數據中心部署至少16萬顆華為下一代昇騰950DT晶片，用於模型推理。若按計劃完成，將成目前已知規模最大的大陸國產AI晶片集群之一。",
       "publishedAt": "2026-09-06T05:45:41.519Z",
       "discoveredAt": "2026-09-06T05:45:41.519Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bfd8e6b022de1a964f6d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9737436?from=edn_newest_index",
-      "title": "川習會前美中擬AI對話 學者：尋有限共識達初步成果 2026-09-06 12:00",
-      "description": "針對美中正計劃9月中旬舉行人工智慧（AI）對話，有學者分析，AI能力突飛猛進，但失控風險上升，為美中之間帶來「超越地緣政...",
-      "publishedAt": "2026-09-06T04:04:51.943Z",
-      "discoveredAt": "2026-09-06T04:04:51.943Z",
       "topics": [
         "Taiwan business",
         "investment",

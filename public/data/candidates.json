@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T02:35:46.303Z",
+  "updatedAt": "2026-09-06T02:48:02.638Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T02:35:46.303Z",
+      "discoveredAt": "2026-09-06T02:48:02.638Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T02:35:46.303Z",
+      "discoveredAt": "2026-09-06T02:48:02.638Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -454,6 +454,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a30c0d861f592b6ef59",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9737314?from=edn_newest_index",
+      "title": "半導體大廠受惠 AI 需求擴廠積極 這家在地供應鏈能見度達2030年 | 產業熱點 | 產業 | 經濟日報",
+      "description": "全球半導體大廠受惠AI需求擴廠積極，帶動周邊耗材設備能見度大增，在地供應鏈的半導體系統設備整合服務廠商垚鋐也積極搶食商機，垚鋐系統科技董事長余鉦鋒受訪提到，看好市場需求成長公司積極引進專業人才，訂單能見度與成長可望持續跟隨產業成長達2030年。",
+      "publishedAt": "2026-09-06T02:47:52.511Z",
+      "discoveredAt": "2026-09-06T02:47:52.511Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1725,33 +1755,6 @@
       "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8355ca3cc15b95c4fa4e",
-      "sourceLastModified": "2026-09-01T20:50:08.791Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/podium",
-      "title": "How Podium is arming 10,000+ SMBs with AI agents",
-      "description": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
-      "publishedAt": "2026-09-01T20:50:08.791Z",
-      "discoveredAt": "2026-09-01T20:53:40.360Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T17:37:35.305Z",
+  "updatedAt": "2026-09-06T17:53:02.252Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T17:37:35.305Z",
+      "discoveredAt": "2026-09-06T17:53:02.252Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T17:37:35.305Z",
+      "discoveredAt": "2026-09-06T17:53:02.252Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1441,6 +1441,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_ef3108c46be4b29725e5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/8543/9737965?from=edn_newest_index",
+      "title": "AI 鏈伺機布局 | 證券達人 | 證券 | 經濟日報",
+      "description": "台股自6月下旬的48,218點回檔後，於7月底自39,384點反彈，最高達46,948點，一度收復7月跌幅，不過近期隨美伊緊張局勢再升溫、油價上漲、美債殖利率走揚，10年期美債殖利率一度達4.816%為2023年末以來新高，30年期美債殖利率一度達5.286%為2007年6月以來新高，加上短線漲多等因素下，指數轉為震盪整理。",
+      "publishedAt": "2026-09-06T17:52:53.598Z",
+      "discoveredAt": "2026-09-06T17:52:53.598Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_f858c06f842912e55d45",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1722,36 +1752,6 @@
       "description": "【彭博】-- 美國總統川普對人工智能數據中心的大力支持，使他與越來越多反對建設數據中心的選民站到了對立面，而他採取這一立場之際，已經有人直接警告，這可能會加劇共和黨在11月中期選舉中面臨的困境。",
       "publishedAt": "2026-09-06T09:54:32.445Z",
       "discoveredAt": "2026-09-06T09:54:32.445Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_26ff0405bed9ea8ee1d9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9737631?from=edn_maintab_index",
-      "title": "主動式 ETF 不只買 AI 了！上周緯穎加碼近萬張奪冠 傳產5檔殺進前十 主動式ETF規模今年來大幅成長，其中光是台股主動式ETF規模已經逾8,000億元，主動式ETF加碼標的也成為市場焦點。統計上周主動式ETF加碼前十名台股，緯穎（6669）獲得9,840張加碼榮登第...",
-      "description": "主動式ETF規模今年來大幅成長，其中光是台股主動式ETF規模已經逾8,000億元，主動式ETF加碼標的也成為市場焦點。統計上周主動式ETF加碼前十名台股，緯穎（6669）獲得9,840張加碼榮登第一，其次是遠東新（1402）7,040張，第三名的長榮航（2618）有5,919張。",
-      "publishedAt": "2026-09-06T07:56:39.003Z",
-      "discoveredAt": "2026-09-06T07:56:39.003Z",
       "topics": [
         "Taiwan business",
         "investment",

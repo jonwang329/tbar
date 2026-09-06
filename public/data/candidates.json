@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T16:44:05.300Z",
+  "updatedAt": "2026-09-06T16:54:44.586Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T16:44:05.300Z",
+      "discoveredAt": "2026-09-06T16:54:44.586Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T16:44:05.300Z",
+      "discoveredAt": "2026-09-06T16:54:44.586Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_d8f339855ef73b55d93a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9738020?from=edn_newest_index",
+      "title": "微軟 AI 優先 大砍碳移除相關投資 | 外媒解析 | 國際 | 經濟日報",
+      "description": "微軟因AI支出不斷提高，今年上半年大幅削減「碳移除」（carbon removals）相關投資。根據彭博計算，今年到7月中旬為止，微軟購買了855萬公噸的碳移除碳權（carbon removal credits），較2025年同期購買量減少約80%，可能是2023年來首次減少採購碳權。",
+      "publishedAt": "2026-09-06T16:54:31.264Z",
+      "discoveredAt": "2026-09-06T16:54:31.264Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_17756900a4caca24161f",
@@ -1411,6 +1441,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_f858c06f842912e55d45",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9738012?from=edn_newest_index",
+      "title": "散戶靠 AI 大神 打造交易利器 | 外媒解析 | 國際 | 經濟日報",
+      "description": "軟體銷售主管李格（Joel Rieger）下班後的夜晚和周末，多半窩在洛杉磯家中書房，花了一年多時間，想打造一套自動化選擇權交易程式，仿效華爾街頂尖避險基金靠博士團隊所打造用來賺錢的系統。",
+      "publishedAt": "2026-09-06T16:54:31.264Z",
+      "discoveredAt": "2026-09-06T16:54:31.264Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_928a4b5794a68dae1fe8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9738012?from=edn_bloomberg_index_side",
+      "title": "散戶靠 AI 大神 打造交易利器 | 外媒解析 | 國際 | 經濟日報",
+      "description": "軟體銷售主管李格（Joel Rieger）下班後的夜晚和周末，多半窩在洛杉磯家中書房，花了一年多時間，想打造一套自動化選擇權交易程式，仿效華爾街頂尖避險基金靠博士團隊所打造用來賺錢的系統。",
+      "publishedAt": "2026-09-06T16:54:31.264Z",
+      "discoveredAt": "2026-09-06T16:54:31.264Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_c0c96bc954b1b14df10d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1552,7 +1642,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1673,96 +1763,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3856a0bc9fddbf20c5db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9737650?from=edn_newest_index",
-      "title": "臻鼎秀肌肉 法人估今年 EPS 上看11.8元 2026-09-06 14:48",
-      "description": "臻鼎-KY（4958）於SEMICON Taiwan展出800G、1.6T高階光模組PCB，以及最高34層AIServer高階板，法人機構表示，顯示該公司產品組合持續朝高層數、高頻高速及高精密製程升級，與近期法說會釋出的AI業務展望一致。",
-      "publishedAt": "2026-09-06T06:50:19.563Z",
-      "discoveredAt": "2026-09-06T06:50:19.563Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_440025d72ccb0ce5e473",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9737631?from=edn_newest_index",
-      "title": "主動式 ETF 不只買 AI 了！上周緯穎加碼近萬張奪冠 傳產5檔殺進前十 2026-09-06 14:26",
-      "description": "主動式ETF規模今年來大幅成長，其中光是台股主動式ETF規模已經逾8,000億元，主動式ETF加碼標的也成為市場焦點。統計上周主動式ETF加碼前十名台股，緯穎（6669）獲得9,840張加碼榮登第一，其次是遠東新（1402）7,040張，第三名的長榮航（2618）有5,919張。",
-      "publishedAt": "2026-09-06T06:35:02.498Z",
-      "discoveredAt": "2026-09-06T06:35:02.498Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_11432ad01b07f4aa1b1b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9737570?from=edn_newest_index",
-      "title": "DeepSeek傳採購16萬顆華為昇騰950DT 劍指AI推理算力 2026-09-06 13:42",
-      "description": "大陸AI模型公司DeepSeek近日傳出大手筆採購國產AI晶片。彭博報導，DeepSeek計劃在內蒙古建設的大型數據中心部署至少16萬顆華為下一代昇騰950DT晶片，用於模型推理。若按計劃完成，將成目前已知規模最大的大陸國產AI晶片集群之一。",
-      "publishedAt": "2026-09-06T05:45:41.519Z",
-      "discoveredAt": "2026-09-06T05:45:41.519Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

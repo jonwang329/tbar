@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T15:21:37.718Z",
+  "updatedAt": "2026-09-06T15:35:16.760Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T15:21:37.718Z",
+      "discoveredAt": "2026-09-06T15:35:16.760Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T15:21:37.718Z",
+      "discoveredAt": "2026-09-06T15:35:16.760Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9738269?from=edn_newest_index",
-      "title": "半導體廠務工程五強訂單塞爆 在手訂單衝8,800億 後續有望叩關兆元 | 產業熱點 | 產業 | 經濟日報",
+      "title": "半導體廠務工程五強訂單塞爆 在手訂單衝8,800億 後續有望叩關兆元 2026-09-06 23:13",
       "description": "AI帶動晶片需求激增，台積電（2330）、美光等指標企業大舉加碼資本支出，全球半導體業迎來史上最強擴產潮，半導體廠務工程五強漢唐（2404）、亞翔（6139）、帆宣（6196）、洋基（6691）、聖暉（5536）訂單塞爆，合計在手訂單已逾8,800億元，創新高，確立迎向黃金三年業績榮景。",
       "publishedAt": "2026-09-06T15:21:29.360Z",
       "discoveredAt": "2026-09-06T15:21:29.360Z",
@@ -547,6 +547,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_4e57e6097f0b88a50167",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9738145?from=edn_newest_index",
+      "title": "台股高檔不追高法人點名三大題材 盟立、微星等可伺機切入 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股目前技術面雖呈高檔漲多整理，然受惠美股上漲，搭配AI族群8月營收看俏及蘋果新品發表會等利多，可望支撐買盤。惟美伊地緣政治衝突未歇，仍須提防行情波動，操作建議低接不追高，可留意機器人、NB／PC、塑化石化等題材與營運挹注族群，相關如盟立（2464）、微星（2377）、台化（1326）等個股，可伺機切入。",
+      "publishedAt": "2026-09-06T15:35:06.215Z",
+      "discoveredAt": "2026-09-06T15:35:06.215Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_ca024f80fb189bb0f984",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -935,7 +965,7 @@
     },
     {
       "id": "cand_bda32a3263f7eea86fdb",
-      "sourceLastModified": "2026-09-06T12:47:23.122Z",
+      "sourceLastModified": "2026-09-06T15:23:00.631Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1720,36 +1750,6 @@
       "url": "https://money.udn.com/money/story/5612/9736920?from=edn_newest_index",
       "title": "AI 技術突飛猛進 學者籲勞工強化跨域能力 | 產業熱點 | 產業 | 經濟日報",
       "description": "AI技術突飛猛進，引發AI取代人類工作擔憂，學者指出，目前AI主要衝擊白領文職與電腦相關工作，面對AI浪潮，勞工不應恐懼，應積極學習並培養跨領域整合能力，確保職場競爭力。",
-      "publishedAt": "2026-09-05T17:44:07.805Z",
-      "discoveredAt": "2026-09-05T17:44:07.805Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3822349ea81050023bcd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124921/9736764?from=edn_newest_index",
-      "title": "傳承新布局1／法規變革 傳承資產 快校正回歸 | 專題報導 | 專題 | 經濟日報",
-      "description": "AI紅利加持，愈來愈多高階經理人身價水漲船高，高資產傳承需求大幅成長；另外隨社會變遷，單身姑姑、頂客族這類的高資產人士也更加常見。同時，民法特留分、遺贈稅法「大老婆條款」、百年信託制度等法規陸續端上桌，一場傳承思維的大翻轉，正悄悄發生。",
       "publishedAt": "2026-09-05T17:44:07.805Z",
       "discoveredAt": "2026-09-05T17:44:07.805Z",
       "topics": [

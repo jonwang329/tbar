@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T16:28:51.798Z",
+  "updatedAt": "2026-09-07T16:46:56.158Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T16:28:51.798Z",
+      "discoveredAt": "2026-09-07T16:46:56.158Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T16:28:51.798Z",
+      "discoveredAt": "2026-09-07T16:46:56.158Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/122381/9739204?from=edn_VIP_index_side",
-      "title": "亞洲與歐美對 AI 接受度截然不同 答案或許在「原子小金剛」身上 | 外媒解析 | 國際 | 經濟日報",
+      "title": "亞洲與歐美對 AI 接受度截然不同 答案或許在「原子小金剛」身上",
       "description": "如何才能化解美國民眾對資料中心的反感？這是目前投資人面臨的關鍵問題。巴克萊銀行在最新報告中警告，「今天的政治格局將決定明天人工智慧（AI）的發展」。換句話說，民眾對資料中心的敵意，可能削弱科技的榮景。",
       "publishedAt": "2026-09-07T16:28:40.648Z",
       "discoveredAt": "2026-09-07T16:28:40.648Z",
@@ -223,7 +223,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1270,6 +1270,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_7febb36efc30ed4b7894",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9740050?from=edn_newest_index",
+      "title": "就市論勢／半導體、伺服器鏈 有戲 | 市場焦點 | 證券 | 經濟日報",
+      "description": "上周半導體界大事是輝達認購聯發科ECB，代表台灣半導體廠商，不僅只是代工關係，更是深入邊緣AI、實體AI與車用電子領域。AI商機大爆發，為台廠半導體鏈，迎來未來數年獲利成長榮景，吸引資金重回AI硬體股淘金。",
+      "publishedAt": "2026-09-07T16:46:45.200Z",
+      "discoveredAt": "2026-09-07T16:46:45.200Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_6439197fe30f36589caf",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1277,7 +1307,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5603/9740348?from=edn_VIP_index_side",
-      "title": "大陸 AI 短劇成本暴跌90% 誰在賺？真正被重新定價的是流量 | 大陸政經 | 兩岸 | 經濟日報",
+      "title": "大陸 AI 短劇成本暴跌90% 誰在賺？真正被重新定價的是流量",
       "description": "大陸AI短劇市場今年快速擴張，製作門檻下降帶動產能暴增，價格戰持續升溫。陸媒報導，AI大模型與智慧工作流持續迭代，帶動AI短劇製作成本大幅下降，標準化短劇報價半年內從每分鐘約人民幣5,000元（單位下同）降至數百元，跌幅超過90%；與此同時，大陸市場供給快速增加，從「缺產能」轉向「產能過剩」。當製作門檻與價格同步下探，省下的成本能否轉化為利潤？產能爆發後，大陸AI短劇業者下一場競爭又將拚什麼？",
       "publishedAt": "2026-09-07T16:28:40.648Z",
       "discoveredAt": "2026-09-07T16:28:40.648Z",
@@ -1761,36 +1791,6 @@
       "description": "AI帶動全球科技產業進入新一輪成長周期，半導體產業正站上新一波發展浪頭。根據國際半導體產業協會（SEMI）最新預測，全球半導體市場規模有望於2030年突破2兆美元，較過去以智慧型手機與個人電腦需求為基礎所推估的1兆美元規模大幅提升，顯示AI正成為下一個十年推動產業成長的關鍵力量。",
       "publishedAt": "2026-09-07T04:55:21.549Z",
       "discoveredAt": "2026-09-07T04:55:21.549Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a9f7fecca0039485acb2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9739046?from=edn_newest_index",
-      "title": "AI、無人系統、太空科技重塑未來 賴總統勉國軍接觸新知 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "賴清德總統7日前往國防大學主持「國軍軍官深造教育2027年班開訓典禮」。他提到，AI、無人系統與太空科技正重新塑造未來世界與戰爭的樣貌，盼國軍主動接觸AI、無人載具、資通電整合等新知。政府將持續投入必要資源、改善官兵待遇與服役環境。",
-      "publishedAt": "2026-09-07T04:39:53.579Z",
-      "discoveredAt": "2026-09-07T04:39:53.579Z",
       "topics": [
         "Taiwan business",
         "investment",

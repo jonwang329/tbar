@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T16:57:53.117Z",
+  "updatedAt": "2026-09-07T17:19:24.318Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T16:57:53.117Z",
+      "discoveredAt": "2026-09-07T17:19:24.318Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T16:57:53.117Z",
+      "discoveredAt": "2026-09-07T17:19:24.318Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_17027eefccdef237f894",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9740178?from=edn_newest_index",
+      "title": "AI＋電力基建 投資熱點 | 基金天地 | 理財 | 經濟日報",
+      "description": "標普道瓊指數公司於美股4日收盤後公布季度調整，固體氧化物燃料電池（SOFC）業者Bloom Energy獲納入標普500指數，成分股調整將於21日開盤前生效。隨AI資料中心快速擴建推升用電需求，市場對發電、輸配電及電力設備關注度升高，「AI＋電力基建」可望持續成為中長期投資主軸。",
+      "publishedAt": "2026-09-07T17:19:15.570Z",
+      "discoveredAt": "2026-09-07T17:19:15.570Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_66f6112ebbb04630489b",
@@ -1441,7 +1471,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1761,36 +1791,6 @@
       "description": "文化部、高雄市政府共同主辦「2026 TTXC台灣文化科技大會（Taiwan Technology × Culture Expo）」，將於10月9日至26日在高雄駁二藝術特區登場。官網7日上線，以「All in AI．AI次元：共生時代」為主題，規劃六大主題展、25場國際觀點論壇，以及超過百場產業媒合、交流活動。",
       "publishedAt": "2026-09-07T05:11:06.505Z",
       "discoveredAt": "2026-09-07T05:11:06.505Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9ceadcf115c24712af23",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9739087?from=edn_newest_index",
-      "title": "AI 驅動半導體新黃金十年 安聯00412A 看好亞洲供應鏈長線契機 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI帶動全球科技產業進入新一輪成長周期，半導體產業正站上新一波發展浪頭。根據國際半導體產業協會（SEMI）最新預測，全球半導體市場規模有望於2030年突破2兆美元，較過去以智慧型手機與個人電腦需求為基礎所推估的1兆美元規模大幅提升，顯示AI正成為下一個十年推動產業成長的關鍵力量。",
-      "publishedAt": "2026-09-07T04:55:21.549Z",
-      "discoveredAt": "2026-09-07T04:55:21.549Z",
       "topics": [
         "Taiwan business",
         "investment",

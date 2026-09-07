@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T14:47:46.295Z",
+  "updatedAt": "2026-09-07T15:05:03.444Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T14:47:46.295Z",
+      "discoveredAt": "2026-09-07T15:05:03.444Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T14:47:46.295Z",
+      "discoveredAt": "2026-09-07T15:05:03.444Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_1f3da7a220e465bf50ac",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9740243?from=edn_newest_index",
+      "title": "普發現金之前…政府推的健康幣、文化幣、運動幣如何領？相關資訊一次看 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "台灣去年經濟成長率達8.76%，今年可望超過11%。隨著政府稅收增加，賴清德總統宣布，明年普發每人1萬元現金，讓全民共享AI紅利。在等待普發現金到來之前，其實今年政府已經推出健康幣、文化幣、運動幣等活動，讓民眾以點值兌換方式，搶先享受現金優惠。",
+      "publishedAt": "2026-09-07T15:04:54.489Z",
+      "discoveredAt": "2026-09-07T15:04:54.489Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_78a0400cbea6e540429a",
@@ -1761,36 +1791,6 @@
       "description": "股王信驊（5274）7日開盤直接跳空漲停，以19,215元開出，雖然漲停一度遭打開，但追價買盤持續湧入，股價盤中多次重新亮燈，離歷史最高價19,880元僅差665元。市場聚焦AI伺服器需求續強，董事長暨總經理林鴻明透露，2027年在手訂單已超過今年全年營收，搭配出貨放大與漲價效應，明年營運可望「量價齊揚」。",
       "publishedAt": "2026-09-07T01:49:54.165Z",
       "discoveredAt": "2026-09-07T01:49:54.165Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_41be7934d5c29fcaf8e8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9734179?from=edn_newest_index",
-      "title": "中科新廠完工在即 正水湳極品兩房搶市 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "台積電於中科園區的1.4奈米先進製程新廠，目前正在大肚山頭如火如荼興建中，第一座廠房預定明年4月前完工，全區量產進入倒數計時，周邊新案近期也感受到科技業客群陸續出現，尤其正水湳園區、容易入手的2房，更是炙手可熱，有建案甚至在公開前即有銷售2成佳績。 因AI與高效能運算需求強勁，先進製程與先進封裝訂單嚴重供不應求，台積電訂單目前已一路排到2028年，擴廠計畫也遍地開花。其中在台中園區的擴張規模達89公頃，規劃興建4座超大型晶圓廠，並全面升級為1.4奈米先進製程，8,000個高科技就業已近在眼前。 中科新廠的鄰近區域，隨著量產時間的逼近，部分新案逐漸開始接收到科技業客群，亦不乏上下游協力廠商族群。在地業者表示，這以地理位置鄰近中科的西屯區最明顯，在20分鐘通勤圈內，是多數科技族最青睞的距離，在這圈內西屯租賃需求高，產品的選擇性又足夠多，是多數人的優先考量。 據實價登錄觀察，西屯區預售屋自去年第一季至今年第二季，始終維持每季200戶左右交易量，穩定性高於外圍市郊，印證在自住為主的趨勢下，蛋黃核心的買氣依舊不墜，而近年迅速崛起的水湳經貿園區，除滿足短程通勤需求，又兼顧機能佳、近市區、",
-      "publishedAt": "2026-09-07T00:09:52.460Z",
-      "discoveredAt": "2026-09-07T00:09:52.460Z",
       "topics": [
         "Taiwan business",
         "investment",

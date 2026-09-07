@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T09:23:07.520Z",
+  "updatedAt": "2026-09-07T09:40:11.200Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T09:23:07.520Z",
+      "discoveredAt": "2026-09-07T09:40:11.200Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T09:23:07.520Z",
+      "discoveredAt": "2026-09-07T09:40:11.200Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_519622974c0a33ef0e7f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9739735?from=edn_maintab_index",
+      "title": "AI 沒泡沫！外資喊話 聯電鎖漲停、台積電喊漲準備飛 | 市場焦點 | 證券 | 經濟日報",
+      "description": "半導體展後，隨市場確認資本支出保持強勁，訂單需求也堅挺不墜，加上代工價格調漲趨勢成型，激勵市場買盤重新聚焦晶圓代工股，帶動台積電（2330）7日股價上漲1.6%，聯電（2303）更是亮燈強鎖漲停，表現均相當強勢。",
+      "publishedAt": "2026-09-07T09:40:00.202Z",
+      "discoveredAt": "2026-09-07T09:40:00.202Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0edd99b767394ccb1350",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9739780?from=edn_newest_index",
+      "title": "瑞銀要求應徵者展現AI能力 科技重塑銀行招募方式 | 國際焦點 | 國際 | 經濟日報",
+      "description": "瑞士銀行集團（UBS）將人工智慧（AI）能力視為招募條件，要求初階投資銀行職位的應徵者必須展現相關能力，此舉顯示科技正重...",
+      "publishedAt": "2026-09-07T09:40:00.202Z",
+      "discoveredAt": "2026-09-07T09:40:00.202Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_188a6f6a6526cfad30d7",
@@ -1728,66 +1788,6 @@
       "description": "全球半導體大廠受惠AI需求擴廠積極，帶動周邊耗材設備能見度大增，在地供應鏈的半導體系統設備整合服務廠商垚鋐也積極搶食商機，垚鋐系統科技董事長余鉦鋒受訪提到，看好市場需求成長公司積極引進專業人才，訂單能見度與成長可望持續跟隨產業成長達2030年。",
       "publishedAt": "2026-09-06T02:47:52.511Z",
       "discoveredAt": "2026-09-06T02:47:52.511Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_650c222485803c5ccd87",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5628/9736858?from=edn_newest_index",
-      "title": "AI 矽島背後的生態治理新考題 2026-09-06 02:08",
-      "description": "全球競逐人工智慧（AI）產能與技術之際，台灣因掌握半導體業製造優勢，居於關鍵地位，但在台灣逐步從「矽島」升級為「AI矽島」的過程中，支撐這場科技革命的能源與生態韌性從何而來？我們要面對的現實是：未來競逐的不只是晶片與演算法，更是穩定可靠的基礎能源供應，與足以支撐開發決策的效率調度與生態治理能力。",
-      "publishedAt": "2026-09-05T18:11:34.291Z",
-      "discoveredAt": "2026-09-05T18:11:34.291Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3a663f0a400950e70af2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9736902?from=edn_newest_index",
-      "title": "中美 AI 風險對話 聚焦網攻 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "中美兩國正準備在9月中旬舉行的對話中討論AI安全風險，此次會談是美國總統川普第二次任期以來，兩國首次專門就AI問題舉行的正式雙邊會談，將聚焦AI網路攻擊及大模型「蒸餾」。",
-      "publishedAt": "2026-09-05T17:19:23.017Z",
-      "discoveredAt": "2026-09-05T17:19:23.017Z",
       "topics": [
         "Taiwan business",
         "investment",

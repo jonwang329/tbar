@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T12:16:05.679Z",
+  "updatedAt": "2026-09-07T12:39:06.392Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T12:16:05.679Z",
+      "discoveredAt": "2026-09-07T12:39:06.392Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T12:16:05.679Z",
+      "discoveredAt": "2026-09-07T12:39:06.392Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1060,33 +1060,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_190104f6d7d8c7360db7",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "description": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive.",
-      "publishedAt": "Mon, 31 Aug 2026 12:30:00 GMT",
-      "discoveredAt": "2026-08-31T12:43:25.904Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_dac3d013023ebd8d9469",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1804,6 +1777,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0ad387336f55e7767b06",
+      "sourceLastModified": "2026-09-02T19:11:21.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "publishedAt": "2026-09-02T19:11:21.000Z",
+      "discoveredAt": "2026-09-01T18:16:57.927Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

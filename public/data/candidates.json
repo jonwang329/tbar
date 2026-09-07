@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T05:28:09.749Z",
+  "updatedAt": "2026-09-07T05:46:53.802Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T05:28:09.749Z",
+      "discoveredAt": "2026-09-07T05:46:53.802Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T05:28:09.749Z",
+      "discoveredAt": "2026-09-07T05:46:53.802Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -844,6 +844,66 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b48d22a672ec5616a297",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9739215?from=edn_newest_index",
+      "title": "受惠於AI車載系統及軟硬體整合 擷發科營收連五個月成長 | 產業熱點 | 產業 | 經濟日報",
+      "description": "專注ASIC設計服務與 AI 軟體設計服務的擷發科今日公告，8月合併營收達399.6萬元，月增10.85％，較去年同期大幅成長58.89％，單月營收連續第五個月營收成長。",
+      "publishedAt": "2026-09-07T05:46:44.289Z",
+      "discoveredAt": "2026-09-07T05:46:44.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7b0bcd98d26272326ec4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/12509/9739206?from=edn_newest_index",
+      "title": "台股收盤／大漲775.14點收47,326.27點 台積電收2,460元漲2.07% | AI 人機協作 | 證券 | 經濟日報",
+      "description": "台股7日強勢走高，加權指數開盤46,724點，盤中最高47,429.58點、最低46,724點，終場收在47,326.27點，大漲775.14點，漲幅1.66%，成交量9,399億元。上市股票上漲475家、下跌604家，漲停11家、跌停3家。 權值股台積電（2330）終場收2,460元，上漲50元，漲幅2.07%，盤中最高2,460元、最低2,410元。 盤面類股方面，半導體類股上漲2.78%、電子組件上漲1.64%、其他電子上漲1.11%、塑膠上漲1.89%；金融類股下跌0.36%、電腦週邊下跌2.67%、網通下跌0.52%、光電下跌3.3%。 個股方面，聯發科（2454）上漲7.81%、聯電（2303）上漲10%、鴻海（2317）上漲9.78%、日月光投控（3711）上漲5.61%；大立光（3008）則下跌10%。 （此文章為AI人機協作，正確數據以主管機關為準。）",
+      "publishedAt": "2026-09-07T05:46:44.289Z",
+      "discoveredAt": "2026-09-07T05:46:44.289Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1725,63 +1785,6 @@
       "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "publishedAt": "2026-09-02T17:54:21.775Z",
       "discoveredAt": "2026-09-02T01:09:40.245Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_565722363b2e4c0389d2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9730818?from=edn_course_index",
-      "title": "劉佩真 / 台經院產經資料庫總監、APIAA院士 台積電與英特爾的競合新常態",
-      "description": "這場由AI與高效能運算所引爆的全球算力軍備競賽，正以前所未有的力道重塑半導體產業的既有版圖，更讓長期以來的競爭邏輯發生根本性的質變。在過去的傳統視角中，台積電與英特爾在先進晶圓代工與技術節點的競逐上，始終處於王不見王的零和博弈狀態。然而，當前市場傳出台積電因自家CoWoS先進封裝產能嚴重吃緊，進而將部分後段封裝工序委由英特爾馬來西亞廠協助分擔，以共同服務指標性AI大客戶，不僅代表產能調度的現象，更象徵著全球半導體供應鏈正邁入一個高度務實、以大局為重的全新競合時代。",
-      "publishedAt": "2026-09-02T17:26:09.807Z",
-      "discoveredAt": "2026-09-02T17:26:09.807Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7d7113e9ed7d016979c3",
-      "sourceLastModified": "2026-09-04T19:20:19.844Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "publishedAt": "2026-09-02T11:22:09.921Z",
-      "discoveredAt": "2026-09-01T17:07:01.813Z",
       "topics": [
         "AI",
         "models",

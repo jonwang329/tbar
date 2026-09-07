@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T04:23:12.649Z",
+  "updatedAt": "2026-09-07T04:40:03.627Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T04:23:12.649Z",
+      "discoveredAt": "2026-09-07T04:40:03.627Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T04:23:12.649Z",
+      "discoveredAt": "2026-09-07T04:40:03.627Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -844,6 +844,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a9f7fecca0039485acb2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9739046?from=edn_newest_index",
+      "title": "AI、無人系統、太空科技重塑未來 賴總統勉國軍接觸新知 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "賴清德總統7日前往國防大學主持「國軍軍官深造教育2027年班開訓典禮」。他提到，AI、無人系統與太空科技正重新塑造未來世界與戰爭的樣貌，盼國軍主動接觸AI、無人載具、資通電整合等新知。政府將持續投入必要資源、改善官兵待遇與服役環境。",
+      "publishedAt": "2026-09-07T04:39:53.579Z",
+      "discoveredAt": "2026-09-07T04:39:53.579Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1754,33 +1784,6 @@
       ],
       "countries": [],
       "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_76cd712ec4364b931629",
-      "sourceLastModified": "2026-09-02T14:23:45.007Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "title": "Introducing the ChatGPT for small business program",
-      "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "publishedAt": "2026-09-02T14:23:45.007Z",
-      "discoveredAt": "2026-08-14T21:02:18.973Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

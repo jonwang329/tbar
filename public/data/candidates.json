@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T03:30:01.633Z",
+  "updatedAt": "2026-09-07T03:47:34.815Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T03:30:01.633Z",
+      "discoveredAt": "2026-09-07T03:47:34.815Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T03:30:01.633Z",
+      "discoveredAt": "2026-09-07T03:47:34.815Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_f08d88e3845ea8e581b5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9738558?from=edn_maintab_index",
+      "title": "黃仁勳看 Astra：AGI 已經到來 下一步40萬顆 GPU 上線 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳周日透過X平台，恭喜OpenAI團隊推出最新、也是目前最強大的模型Astra，更引人矚目的是，他直言「通用人工智慧（AGI）已經到來」。",
+      "publishedAt": "2026-09-07T03:47:22.322Z",
+      "discoveredAt": "2026-09-07T03:47:22.322Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_05344d2adf4dbc85efb4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9738921?from=edn_newest_index",
+      "title": "AI熱潮也帶旺債市！外資39億美元湧入馬來西亞債券 創新高 | 國際焦點 | 國際 | 經濟日報",
+      "description": "馬來西亞債券8月吸引創紀錄資金流入，主因是市場看好AI熱潮將帶動這個東南亞國家的經濟。AI帶來的利多，已從資料中心投資擴散至債券與匯市。",
+      "publishedAt": "2026-09-07T03:47:22.322Z",
+      "discoveredAt": "2026-09-07T03:47:22.322Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_c4ca81c9b7a81be594e3",
@@ -794,7 +854,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9738859",
-      "title": "貢獻台股逾200點！聯發科觸漲停4,855元 輝達重金押 AI ASIC 再攻機櫃級 | 集中市場 | 證券 | 經濟日報",
+      "title": "11:25 貢獻台股逾200點！聯發科觸漲停4,855元 輝達重金押 AI ASIC 再攻機櫃級",
       "description": "台股7日開高衝過47,000點大關，一度飆升近880點，權值股成為多頭主攻部隊，其中聯發科（2454）盤中一度亮燈漲停、衝上4,855元，單檔貢獻大盤逾200點，與台積電（2330）聯手擔綱推升指數的雙引擎。市場聚焦聯發科AI布局再升級，輝達（NVIDIA）此次斥資35億美元認購聯發科海外可轉換公司債，合作更從AI ASIC延伸至機櫃級AI系統。",
       "publishedAt": "2026-09-07T03:29:51.932Z",
       "discoveredAt": "2026-09-07T03:29:51.932Z",
@@ -1723,60 +1783,6 @@
       "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_671b4d287ffab7489af7",
-      "sourceLastModified": "2026-09-02T05:44:22.986Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "title": "The builder’s guide to GPT‑5.6",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "publishedAt": "2026-09-02T05:44:22.986Z",
-      "discoveredAt": "2026-08-13T18:42:02.450Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a179e5763ea2887fe9a6",
-      "sourceLastModified": "2026-09-02T14:23:47.539Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "publishedAt": "2026-09-02T02:32:46.725Z",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,

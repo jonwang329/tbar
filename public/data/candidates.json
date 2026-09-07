@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T01:19:16.677Z",
+  "updatedAt": "2026-09-07T01:36:35.320Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T01:19:16.677Z",
+      "discoveredAt": "2026-09-07T01:36:35.320Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T01:19:16.677Z",
+      "discoveredAt": "2026-09-07T01:36:35.320Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_20760094979bc5dc5280",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9738558?from=edn_newest_index",
+      "title": "黃仁勳看 Astra：AGI 已經到來 下一步40萬顆 GPU 上線 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳周日透過X平台，恭喜OpenAI團隊推出最新、也是目前最強大的模型Astra，更引人矚目的是，他直言「通用人工智慧（AGI）已經到來」。",
+      "publishedAt": "2026-09-07T01:36:24.477Z",
+      "discoveredAt": "2026-09-07T01:36:24.477Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aa94f8ec3e49526f8c6d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9738481?from=edn_newest_index",
+      "title": "高盛策略師料韓股還有80%上漲空間 看好記憶體榮景延續 | 國際焦點 | 國際 | 經濟日報",
+      "description": "【彭博】-- 高盛一位策略師仍然維持其對韓國股市的看漲目標，並稱投資人低估了AI熱潮對韓國記憶體晶片製造商的提振作用能持續多久。",
+      "publishedAt": "2026-09-07T01:36:24.477Z",
+      "discoveredAt": "2026-09-07T01:36:24.477Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_c06a2882250dd17aad5e",
@@ -748,7 +808,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -778,7 +838,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1692,66 +1752,6 @@
       "description": "英國金融時報（FT）分析，人工智慧（AI）熱潮引發記憶體晶片短缺，形成所謂的「記憶體末日」（RAMageddon），帶動晶片價格上漲，並扭轉消費電子裝置長年來的跌價趨勢，在可預見的未來，日常電子產品可能會持續漲價。",
       "publishedAt": "2026-09-06T18:23:55.610Z",
       "discoveredAt": "2026-09-06T18:23:55.610Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ef3108c46be4b29725e5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/8543/9737965?from=edn_newest_index",
-      "title": "AI 鏈伺機布局 | 證券達人 | 證券 | 經濟日報",
-      "description": "台股自6月下旬的48,218點回檔後，於7月底自39,384點反彈，最高達46,948點，一度收復7月跌幅，不過近期隨美伊緊張局勢再升溫、油價上漲、美債殖利率走揚，10年期美債殖利率一度達4.816%為2023年末以來新高，30年期美債殖利率一度達5.286%為2007年6月以來新高，加上短線漲多等因素下，指數轉為震盪整理。",
-      "publishedAt": "2026-09-06T17:52:53.598Z",
-      "discoveredAt": "2026-09-06T17:52:53.598Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f858c06f842912e55d45",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9738012?from=edn_newest_index",
-      "title": "散戶靠 AI 大神 打造交易利器 2026-09-07 00:53",
-      "description": "軟體銷售主管李格（Joel Rieger）下班後的夜晚和周末，多半窩在洛杉磯家中書房，花了一年多時間，想打造一套自動化選擇權交易程式，仿效華爾街頂尖避險基金靠博士團隊所打造用來賺錢的系統。",
-      "publishedAt": "2026-09-06T16:54:31.264Z",
-      "discoveredAt": "2026-09-06T16:54:31.264Z",
       "topics": [
         "Taiwan business",
         "investment",

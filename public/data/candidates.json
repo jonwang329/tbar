@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T02:05:11.332Z",
+  "updatedAt": "2026-09-07T02:22:36.674Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T02:05:11.332Z",
+      "discoveredAt": "2026-09-07T02:22:36.674Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T02:05:11.332Z",
+      "discoveredAt": "2026-09-07T02:22:36.674Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -754,6 +754,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d04707d104b3ede63cf5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9738612",
+      "title": "股王信驊飆漲停！離天價只差665元 2027在手訂單超車今年全年營收 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "股王信驊（5274）7日開盤直接跳空漲停，以19,215元開出，雖然漲停一度遭打開，但追價買盤持續湧入，股價盤中多次重新亮燈，離歷史最高價19,880元僅差665元。市場聚焦AI伺服器需求續強，董事長暨總經理林鴻明透露，2027年在手訂單已超過今年全年營收，搭配出貨放大與漲價效應，明年營運可望「量價齊揚」。",
+      "publishedAt": "2026-09-07T02:22:26.701Z",
+      "discoveredAt": "2026-09-07T02:22:26.701Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1738,36 +1768,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dfa76e53ed2de727a383",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9738496?from=edn_newest_index",
-      "title": "「潮臺北 × 潮首爾」特展北流亮相 直擊 K-POP 席捲全球創意核心 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "2026年「潮臺北 TRENDY TAIPEI」重點企劃「潮臺北 × 潮首爾」文化展覽《Return to Reality：Why Do We Gather Again？AI 時代，為什麼我們再次聚首現場？》４日於臺北流行音樂中心文化館二樓特展廳正式開展。9 大展區將世界級 K-POP 現場重新拆解，也讓觀眾第一次以不同於演唱會的距離，看見韓流席捲全球背後的創意與製作能量。韓國 YOUJAM STUDIO 社長暨資深導演柳在憲也特別來臺出席開展記者會，親揭此次海外首展完整面貌。從曾存在於萬人演唱會聚光燈下的舞台實品，到聲音、影像、科技藝術與幕後創作軌跡。",
-      "publishedAt": "2026-09-07T02:05:01.966Z",
-      "discoveredAt": "2026-09-07T02:05:01.966Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

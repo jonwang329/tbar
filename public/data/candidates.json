@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T03:11:27.629Z",
+  "updatedAt": "2026-09-07T03:30:01.633Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T03:11:27.629Z",
+      "discoveredAt": "2026-09-07T03:30:01.633Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T03:11:27.629Z",
+      "discoveredAt": "2026-09-07T03:30:01.633Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -784,6 +784,66 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_27296481ac2a2b75ebdb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9738859",
+      "title": "貢獻台股逾200點！聯發科觸漲停4,855元 輝達重金押 AI ASIC 再攻機櫃級 | 集中市場 | 證券 | 經濟日報",
+      "description": "台股7日開高衝過47,000點大關，一度飆升近880點，權值股成為多頭主攻部隊，其中聯發科（2454）盤中一度亮燈漲停、衝上4,855元，單檔貢獻大盤逾200點，與台積電（2330）聯手擔綱推升指數的雙引擎。市場聚焦聯發科AI布局再升級，輝達（NVIDIA）此次斥資35億美元認購聯發科海外可轉換公司債，合作更從AI ASIC延伸至機櫃級AI系統。",
+      "publishedAt": "2026-09-07T03:29:51.932Z",
+      "discoveredAt": "2026-09-07T03:29:51.932Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_617cc48425f57317de24",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9738890?from=edn_newest_index",
+      "title": "犯罪經濟威脅關鍵基礎設施：親俄駭客組織將台灣列為攻擊目標之一 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "趨勢科技旗下全球企業AI資安領導品牌TrendAI最新威脅研究《犯罪經濟威脅關鍵基礎設施：暗網市場全景》揭示了針對全球工業、能源與製造(IE&M)組織的大規模犯罪經濟。研究表明，仲介者、勒索軟體團隊與地緣政治駭客主義者正在同一地下論壇與市場中共享入侵技術與目標，而其中最值得關注的是：親俄駭客組織Z-Pentest將台灣列為持續的攻擊目標。",
+      "publishedAt": "2026-09-07T03:29:51.932Z",
+      "discoveredAt": "2026-09-07T03:29:51.932Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1717,60 +1777,6 @@
       "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ef505dd48b5b06f3a67f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
-      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "description": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
-      "publishedAt": "Tue, 01 Sep 2026 21:19:20 GMT",
-      "discoveredAt": "2026-09-01T21:27:06.558Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_97a7de76b46e8c980e71",
-      "sourceLastModified": "2026-09-01T20:50:08.528Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/preply",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "publishedAt": "2026-09-01T20:50:08.528Z",
-      "discoveredAt": "2026-09-01T20:53:40.360Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,

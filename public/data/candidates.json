@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T16:09:59.029Z",
+  "updatedAt": "2026-09-07T16:28:51.798Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T16:09:59.029Z",
+      "discoveredAt": "2026-09-07T16:28:51.798Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T16:09:59.029Z",
+      "discoveredAt": "2026-09-07T16:28:51.798Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_66f6112ebbb04630489b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9739204?from=edn_VIP_index_side",
+      "title": "亞洲與歐美對 AI 接受度截然不同 答案或許在「原子小金剛」身上 | 外媒解析 | 國際 | 經濟日報",
+      "description": "如何才能化解美國民眾對資料中心的反感？這是目前投資人面臨的關鍵問題。巴克萊銀行在最新報告中警告，「今天的政治格局將決定明天人工智慧（AI）的發展」。換句話說，民眾對資料中心的敵意，可能削弱科技的榮景。",
+      "publishedAt": "2026-09-07T16:28:40.648Z",
+      "discoveredAt": "2026-09-07T16:28:40.648Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_6cb711bd93e7c71956a2",
@@ -1240,6 +1270,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_6439197fe30f36589caf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5603/9740348?from=edn_VIP_index_side",
+      "title": "大陸 AI 短劇成本暴跌90% 誰在賺？真正被重新定價的是流量 | 大陸政經 | 兩岸 | 經濟日報",
+      "description": "大陸AI短劇市場今年快速擴張，製作門檻下降帶動產能暴增，價格戰持續升溫。陸媒報導，AI大模型與智慧工作流持續迭代，帶動AI短劇製作成本大幅下降，標準化短劇報價半年內從每分鐘約人民幣5,000元（單位下同）降至數百元，跌幅超過90%；與此同時，大陸市場供給快速增加，從「缺產能」轉向「產能過剩」。當製作門檻與價格同步下探，省下的成本能否轉化為利潤？產能爆發後，大陸AI短劇業者下一場競爭又將拚什麼？",
+      "publishedAt": "2026-09-07T16:28:40.648Z",
+      "discoveredAt": "2026-09-07T16:28:40.648Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_2ae50dffd153f19f90bd",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1731,66 +1791,6 @@
       "description": "賴清德總統7日前往國防大學主持「國軍軍官深造教育2027年班開訓典禮」。他提到，AI、無人系統與太空科技正重新塑造未來世界與戰爭的樣貌，盼國軍主動接觸AI、無人載具、資通電整合等新知。政府將持續投入必要資源、改善官兵待遇與服役環境。",
       "publishedAt": "2026-09-07T04:39:53.579Z",
       "discoveredAt": "2026-09-07T04:39:53.579Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_27296481ac2a2b75ebdb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9738859",
-      "title": "11:25 貢獻台股逾200點！聯發科觸漲停4,855元 輝達重金押 AI ASIC 再攻機櫃級",
-      "description": "台股7日開高衝過47,000點大關，一度飆升近880點，權值股成為多頭主攻部隊，其中聯發科（2454）盤中一度亮燈漲停、衝上4,855元，單檔貢獻大盤逾200點，與台積電（2330）聯手擔綱推升指數的雙引擎。市場聚焦聯發科AI布局再升級，輝達（NVIDIA）此次斥資35億美元認購聯發科海外可轉換公司債，合作更從AI ASIC延伸至機櫃級AI系統。",
-      "publishedAt": "2026-09-07T03:29:51.932Z",
-      "discoveredAt": "2026-09-07T03:29:51.932Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_617cc48425f57317de24",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9738890?from=edn_newest_index",
-      "title": "犯罪經濟威脅關鍵基礎設施：親俄駭客組織將台灣列為攻擊目標之一 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "趨勢科技旗下全球企業AI資安領導品牌TrendAI最新威脅研究《犯罪經濟威脅關鍵基礎設施：暗網市場全景》揭示了針對全球工業、能源與製造(IE&M)組織的大規模犯罪經濟。研究表明，仲介者、勒索軟體團隊與地緣政治駭客主義者正在同一地下論壇與市場中共享入侵技術與目標，而其中最值得關注的是：親俄駭客組織Z-Pentest將台灣列為持續的攻擊目標。",
-      "publishedAt": "2026-09-07T03:29:51.932Z",
-      "discoveredAt": "2026-09-07T03:29:51.932Z",
       "topics": [
         "Taiwan business",
         "investment",

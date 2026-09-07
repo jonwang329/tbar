@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T17:49:02.405Z",
+  "updatedAt": "2026-09-07T18:06:17.001Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T17:49:02.405Z",
+      "discoveredAt": "2026-09-07T18:06:17.001Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T17:49:02.405Z",
+      "discoveredAt": "2026-09-07T18:06:17.001Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1330,6 +1330,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_421aab98f3fbf4a76414",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9740143?from=edn_newest_index",
+      "title": "國泰金技術年會9月15日登場 | 金融脈動 | 金融 | 經濟日報",
+      "description": "「2026國泰金控技術年會」將於15日盛大登場。今年適逢國泰金控數位轉型十周年，特別邀請到OpenAI與Google Cloud等國際級專家及產學領袖齊聚，聚焦「Agentic AI與數位同事」、「AI驅動IT升級」和「數位資產與 Web3」三大議題。今年將首度公開以AI Agent探索「數位同事」概念的創新試驗，聚焦專案管理、科技治理審查及法務作業三大場景的試驗成果，以及推動人機協作所需的管理與技術基礎。",
+      "publishedAt": "2026-09-07T18:06:08.612Z",
+      "discoveredAt": "2026-09-07T18:06:08.612Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_7febb36efc30ed4b7894",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1759,36 +1789,6 @@
       "url": "https://money.udn.com/money/story/5612/9739215?from=edn_newest_index",
       "title": "受惠於AI車載系統及軟硬體整合 擷發科營收連五個月成長 | 產業熱點 | 產業 | 經濟日報",
       "description": "專注ASIC設計服務與 AI 軟體設計服務的擷發科今日公告，8月合併營收達399.6萬元，月增10.85％，較去年同期大幅成長58.89％，單月營收連續第五個月營收成長。",
-      "publishedAt": "2026-09-07T05:46:44.289Z",
-      "discoveredAt": "2026-09-07T05:46:44.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b0bcd98d26272326ec4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12509/9739206?from=edn_newest_index",
-      "title": "台股收盤／大漲775.14點收47,326.27點 台積電收2,460元漲2.07% | AI 人機協作 | 證券 | 經濟日報",
-      "description": "台股7日強勢走高，加權指數開盤46,724點，盤中最高47,429.58點、最低46,724點，終場收在47,326.27點，大漲775.14點，漲幅1.66%，成交量9,399億元。上市股票上漲475家、下跌604家，漲停11家、跌停3家。 權值股台積電（2330）終場收2,460元，上漲50元，漲幅2.07%，盤中最高2,460元、最低2,410元。 盤面類股方面，半導體類股上漲2.78%、電子組件上漲1.64%、其他電子上漲1.11%、塑膠上漲1.89%；金融類股下跌0.36%、電腦週邊下跌2.67%、網通下跌0.52%、光電下跌3.3%。 個股方面，聯發科（2454）上漲7.81%、聯電（2303）上漲10%、鴻海（2317）上漲9.78%、日月光投控（3711）上漲5.61%；大立光（3008）則下跌10%。 （此文章為AI人機協作，正確數據以主管機關為準。）",
       "publishedAt": "2026-09-07T05:46:44.289Z",
       "discoveredAt": "2026-09-07T05:46:44.289Z",
       "topics": [

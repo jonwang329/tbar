@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T18:25:41.936Z",
+  "updatedAt": "2026-09-07T18:43:42.847Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T18:25:41.936Z",
+      "discoveredAt": "2026-09-07T18:43:42.847Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T18:25:41.936Z",
+      "discoveredAt": "2026-09-07T18:43:42.847Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_b5b9dc85da72f3be5dc2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9740307?from=edn_newest_index",
+      "title": "1分鐘看世界／馬來西亞主權 AI 擬用華為晶片 將寫全球政府首例 | 國際焦點 | 國際 | 經濟日報",
+      "description": "消息人士透露，馬國主權AI評估使用華為AI晶片「昇騰910C」。川普當局去年警告，使用這款晶片可能違反美國出口管制，以防堵中國主導AI資料中心。若馬國用華為晶片，將寫全球政府首例，也給予中國AI科技一大勝利。",
+      "publishedAt": "2026-09-07T18:43:34.925Z",
+      "discoveredAt": "2026-09-07T18:43:34.925Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_95b1c90b60e1a5414ac8",
@@ -1761,36 +1791,6 @@
       "description": "安聯投信看好AI驅動全球半導體產業進入新一輪成長循環，重磅推出安聯亞洲半導體主動式ETF（00412A）。安聯亞洲半導體主動式ETF（00412A）經理人蕭惠中表示，亞洲不僅掌握全球半導體產業最重要的製造能力，更擁有完整供應鏈聚落優勢。",
       "publishedAt": "2026-09-07T05:58:04.291Z",
       "discoveredAt": "2026-09-07T05:58:04.291Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b48d22a672ec5616a297",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9739215?from=edn_newest_index",
-      "title": "受惠於AI車載系統及軟硬體整合 擷發科營收連五個月成長 | 產業熱點 | 產業 | 經濟日報",
-      "description": "專注ASIC設計服務與 AI 軟體設計服務的擷發科今日公告，8月合併營收達399.6萬元，月增10.85％，較去年同期大幅成長58.89％，單月營收連續第五個月營收成長。",
-      "publishedAt": "2026-09-07T05:46:44.289Z",
-      "discoveredAt": "2026-09-07T05:46:44.289Z",
       "topics": [
         "Taiwan business",
         "investment",

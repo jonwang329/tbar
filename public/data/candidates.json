@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T06:28:41.928Z",
+  "updatedAt": "2026-09-07T06:52:14.237Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T06:28:41.928Z",
+      "discoveredAt": "2026-09-07T06:52:14.237Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T06:28:41.928Z",
+      "discoveredAt": "2026-09-07T06:52:14.237Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -133,7 +133,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -874,6 +874,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aedc16d570fc281f73b5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9739374?from=edn_newest_index",
+      "title": "鎧俠入列 統一亞洲半導體 ETN 補足 AI 記憶體關鍵拼圖 | 基金天地 | 理財 | 經濟日報",
+      "description": "統一亞洲半導體ETN（020025）指數成分股調整於9月8日生效，日本記憶體大廠鎧俠（Kioxia Holdings Corp., 285A）正式納入成分股，約6.4%的權重躍居指數第七大成分股，並成為記憶體類股中僅次於SK海力士（SK Hynix）、三星電子（Samsung）的第三大權重成分股。統一證券金融商品部表示，統一亞洲半導體ETN今年報酬已逾100%，鎧俠的加入如虎添翼，讓指數在AI記憶體的布局上，補齊NAND Flash這塊過去相對缺席的拼圖，大幅提升產業代表性的完整度。",
+      "publishedAt": "2026-09-07T06:52:03.402Z",
+      "discoveredAt": "2026-09-07T06:52:03.402Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1769,36 +1799,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8e2c61024f8ae47148bc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9735580?from=edn_maintab_index",
-      "title": "信驊釋利多 明年訂單爆發 總量超過今年全年業績 AI伺服器需求持續強勁，遠端伺服器管理晶片（BMC）業者、股王信驊（5274）董事長暨總經理林鴻明昨（4）日表示，2027年在手訂單（Backlog）已相當龐大，明年訂單總量甚至超過今年全年營收，...",
-      "description": "AI伺服器需求持續強勁，遠端伺服器管理晶片（BMC）業者、股王信驊董事長暨總經理林鴻明昨（4）日表示，2027年在手訂單（Backlog）已相當龐大，明年訂單總量甚至超過今年全年營收，是過去從未發生過的情況。",
-      "publishedAt": "2026-09-04T18:28:49.478Z",
-      "discoveredAt": "2026-09-04T18:28:49.478Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

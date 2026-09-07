@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T04:55:41.521Z",
+  "updatedAt": "2026-09-07T05:11:16.732Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T04:55:41.521Z",
+      "discoveredAt": "2026-09-07T05:11:16.732Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T04:55:41.521Z",
+      "discoveredAt": "2026-09-07T05:11:16.732Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -844,6 +844,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_77ed30112874c2f03ecd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9739139?from=edn_newest_index",
+      "title": "台灣文化科技大會 百場產業活動引領邁入 AI 次元 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "文化部、高雄市政府共同主辦「2026 TTXC台灣文化科技大會（Taiwan Technology × Culture Expo）」，將於10月9日至26日在高雄駁二藝術特區登場。官網7日上線，以「All in AI．AI次元：共生時代」為主題，規劃六大主題展、25場國際觀點論壇，以及超過百場產業媒合、交流活動。",
+      "publishedAt": "2026-09-07T05:11:06.505Z",
+      "discoveredAt": "2026-09-07T05:11:06.505Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1752,33 +1782,6 @@
       "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "publishedAt": "2026-09-02T11:22:09.921Z",
       "discoveredAt": "2026-09-01T17:07:01.813Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_54d8345162ec45bb6574",
-      "sourceLastModified": "2026-09-01T20:50:07.640Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/bny",
-      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
-      "description": "BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
-      "publishedAt": "2026-09-01T20:50:07.640Z",
-      "discoveredAt": "2026-09-01T20:53:40.360Z",
       "topics": [
         "AI",
         "models",

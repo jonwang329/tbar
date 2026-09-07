@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T07:48:34.655Z",
+  "updatedAt": "2026-09-07T08:06:14.514Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T07:48:34.655Z",
+      "discoveredAt": "2026-09-07T08:06:14.514Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T07:48:34.655Z",
+      "discoveredAt": "2026-09-07T08:06:14.514Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_72247470ea91c5bfb41b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9739567?from=edn_newest_index",
+      "title": "沙迦政府傳訊獎現正接受報名，進一步聚焦人工智能 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "阿聯酋沙迦2026年9月7日 /美通社/ -- 沙迦政府現正向全球徵集第 13 屆沙迦政府傳訊獎參賽作品，並擴大獎項涵蓋範圍，進一步凸顯人工智能在傳訊中的作用。 機構及個人可於 2026 年 9 月 22 日前提交參賽作品，角逐逾 35 個獎項；獎項涵蓋政府及國際組織、私營機構、個人成就、智能傳訊競賽、評審團獎項及合作夥伴獎項。 獎項涵蓋範圍擴大，是因應 2025 年國際參與度持續上升；當年共收到來自 37 個國家的逾 2,600 份參賽作品。逾 600 份作品通過初步篩選，當中 170 份進入最終評審階段。 過往參賽作品包括圖瓦盧因應氣候變化、致力成為全球首個數碼國家的願景，尼日利亞的青年創業計劃，以及連繫非洲及美國專家的人工智能平台。 由沙迦政府傳媒局推出的第 13 屆獎項，將更著重人工智能及可量化成果。今屆獎項首次增設「政府及機構傳訊最佳人工智能應用獎」。其他組別的參賽作品如能有效運用人工智能，亦可獲最多 10% 的額外分數。 評審團將評估人工智能在規劃、執行及成果評估中的應用，包括其是否改善內容、加深受眾理解或提升傳訊效率。其他改動包括新增「推廣阿聯酋身份認同的最佳宣傳活動獎」",
+      "publishedAt": "2026-09-07T08:06:04.576Z",
+      "discoveredAt": "2026-09-07T08:06:04.576Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_9d4124bbe3d2c8fc1bc2",
@@ -1769,36 +1799,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_004d06db685273faa63d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9736481?from=edn_newest_index",
-      "title": "鴻海營收／8月9,218億元為歷史次高、同期新高 受惠 AI 強勁拉貨 | 集中市場 | 證券 | 經濟日報",
-      "description": "鴻海（2317）5日公布8月營收為9,218億元，創歷史次高、同期新高，月減2.61%，年增51.98%。今年累計前八月營收為6.51兆元，創同期新高，年增39.73%。",
-      "publishedAt": "2026-09-05T07:55:25.714Z",
-      "discoveredAt": "2026-09-05T07:55:25.714Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

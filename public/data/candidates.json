@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-06T23:52:47.136Z",
+  "updatedAt": "2026-09-07T00:09:59.982Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T23:52:47.136Z",
+      "discoveredAt": "2026-09-07T00:09:59.982Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-06T23:52:47.136Z",
+      "discoveredAt": "2026-09-07T00:09:59.982Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -694,6 +694,36 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_41be7934d5c29fcaf8e8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5635/9734179?from=edn_newest_index",
+      "title": "中科新廠完工在即 正水湳極品兩房搶市 | 熱門亮點 | 商情 | 經濟日報",
+      "description": "台積電於中科園區的1.4奈米先進製程新廠，目前正在大肚山頭如火如荼興建中，第一座廠房預定明年4月前完工，全區量產進入倒數計時，周邊新案近期也感受到科技業客群陸續出現，尤其正水湳園區、容易入手的2房，更是炙手可熱，有建案甚至在公開前即有銷售2成佳績。 因AI與高效能運算需求強勁，先進製程與先進封裝訂單嚴重供不應求，台積電訂單目前已一路排到2028年，擴廠計畫也遍地開花。其中在台中園區的擴張規模達89公頃，規劃興建4座超大型晶圓廠，並全面升級為1.4奈米先進製程，8,000個高科技就業已近在眼前。 中科新廠的鄰近區域，隨著量產時間的逼近，部分新案逐漸開始接收到科技業客群，亦不乏上下游協力廠商族群。在地業者表示，這以地理位置鄰近中科的西屯區最明顯，在20分鐘通勤圈內，是多數科技族最青睞的距離，在這圈內西屯租賃需求高，產品的選擇性又足夠多，是多數人的優先考量。 據實價登錄觀察，西屯區預售屋自去年第一季至今年第二季，始終維持每季200戶左右交易量，穩定性高於外圍市郊，印證在自住為主的趨勢下，蛋黃核心的買氣依舊不墜，而近年迅速崛起的水湳經貿園區，除滿足短程通勤需求，又兼顧機能佳、近市區、",
+      "publishedAt": "2026-09-07T00:09:52.460Z",
+      "discoveredAt": "2026-09-07T00:09:52.460Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1733,36 +1763,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_928a4b5794a68dae1fe8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9738012?from=edn_bloomberg_index_side",
-      "title": "散戶靠 AI 大神 打造交易利器",
-      "description": "軟體銷售主管李格（Joel Rieger）下班後的夜晚和周末，多半窩在洛杉磯家中書房，花了一年多時間，想打造一套自動化選擇權交易程式，仿效華爾街頂尖避險基金靠博士團隊所打造用來賺錢的系統。",
-      "publishedAt": "2026-09-06T16:54:31.264Z",
-      "discoveredAt": "2026-09-06T16:54:31.264Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

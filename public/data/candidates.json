@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T13:39:35.014Z",
+  "updatedAt": "2026-09-07T13:55:36.356Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T13:39:35.014Z",
+      "discoveredAt": "2026-09-07T13:55:36.356Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T13:39:35.014Z",
+      "discoveredAt": "2026-09-07T13:55:36.356Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5604/9740121",
-      "title": "陸上半年 AI 融資市占近五成 投資界：不快做決策 機會就沒了 | 陸股透視 | 兩岸 | 經濟日報",
+      "title": "21:25 陸上半年 AI 融資市占近五成 投資界：不快做決策 機會就沒了",
       "description": "IT桔子數據顯示，大陸2026年上半年AI領域融資總額已突破人民幣3,000億元，體量已超過去年全年。AI融資金額占市場約48.6%，接近一半。投資界人士稱，目前的投資決策過程正加速。「如果不迅速決策，機會就沒有了。」",
       "publishedAt": "2026-09-07T13:39:22.781Z",
       "discoveredAt": "2026-09-07T13:39:22.781Z",
@@ -119,7 +119,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5604/9740121?from=edn_maintab_index",
-      "title": "陸上半年 AI 融資市占近五成 投資界：不快做決策 機會就沒了 | 陸股透視 | 兩岸 | 經濟日報",
+      "title": "陸上半年 AI 融資市占近五成 投資界：不快做決策 機會就沒了 IT桔子數據顯示，大陸2026年上半年AI領域融資總額已突破人民幣3,000億元，體量已超過去年全年。AI融資金額占市場約48.6%，接近一半。投資界人士稱，目前的投資決策過程正加速。「如果不迅速決...",
       "description": "IT桔子數據顯示，大陸2026年上半年AI領域融資總額已突破人民幣3,000億元，體量已超過去年全年。AI融資金額占市場約48.6%，接近一半。投資界人士稱，目前的投資決策過程正加速。「如果不迅速決策，機會就沒有了。」",
       "publishedAt": "2026-09-07T13:39:22.781Z",
       "discoveredAt": "2026-09-07T13:39:22.781Z",
@@ -1180,6 +1180,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_1424765da2715a0e7d6b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9740162?from=edn_newest_index",
+      "title": "今日最夯 ETF／台股強勢攻高 00878飆出新高價 | 基金天地 | 理財 | 經濟日報",
+      "description": "台股7日多頭氣勢再起，受上周五費城半導體指數大漲3.3%激勵，AI及半導體族群領軍上攻，加權指數盤中最高衝上47,429點，終場大漲775點或1.67%，收在47,326點，再度展現強勁多頭氣勢，帶動台股高股息ETF中人氣最高的國泰永續高股息（00878）率先收上新高價。",
+      "publishedAt": "2026-09-07T13:55:23.485Z",
+      "discoveredAt": "2026-09-07T13:55:23.485Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_3892483708fe0ae9b30f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1772,36 +1802,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_df20c19907ec8e0f7965",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9738249?from=edn_newest_index",
-      "title": "台積電3奈米衝鋒 產值躍升Q3突破4,000億元創新高 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI與高速運算（HPC）多元應用需求飆升，台積電應廣大的客戶群要求，3奈米以下先進製程加開更多產能。法人看好，台積電下半年3奈米貢獻可望首度超越5奈米，估計第3季單季產值首度超過4,000億元，創新高，占營收比重逾三成，更可挹注毛利率表現。",
-      "publishedAt": "2026-09-06T18:53:29.177Z",
-      "discoveredAt": "2026-09-06T18:53:29.177Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T12:58:22.160Z",
+  "updatedAt": "2026-09-07T13:22:57.552Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T12:58:22.160Z",
+      "discoveredAt": "2026-09-07T13:22:57.552Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T12:58:22.160Z",
+      "discoveredAt": "2026-09-07T13:22:57.552Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1090,6 +1090,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_3892483708fe0ae9b30f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9739652",
+      "title": "宏達電營收／8月2.46億元回暖 月增37% | 集中市場 | 證券 | 經濟日報",
+      "description": "XR暨AI眼鏡品牌廠宏達電（2498）7日公告8月營收2.46億元，月增37.7%、年減7.7%；累計今年前八月營收16.91億元，年減6.9%。",
+      "publishedAt": "2026-09-07T13:22:48.309Z",
+      "discoveredAt": "2026-09-07T13:22:48.309Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_dac3d013023ebd8d9469",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1761,36 +1791,6 @@
       "description": "在AI產業的競速賽道上，「時間與速度」正顛覆傳統科技軟體的生命周期。",
       "publishedAt": "2026-09-06T15:45:44.309Z",
       "discoveredAt": "2026-09-06T15:45:44.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4e57e6097f0b88a50167",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9738145?from=edn_newest_index",
-      "title": "台股高檔不追高法人點名三大題材 盟立、微星等可伺機切入 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股目前技術面雖呈高檔漲多整理，然受惠美股上漲，搭配AI族群8月營收看俏及蘋果新品發表會等利多，可望支撐買盤。惟美伊地緣政治衝突未歇，仍須提防行情波動，操作建議低接不追高，可留意機器人、NB／PC、塑化石化等題材與營運挹注族群，相關如盟立（2464）、微星（2377）、台化（1326）等個股，可伺機切入。",
-      "publishedAt": "2026-09-06T15:35:06.215Z",
-      "discoveredAt": "2026-09-06T15:35:06.215Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T17:19:24.318Z",
+  "updatedAt": "2026-09-07T17:36:25.800Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T17:19:24.318Z",
+      "discoveredAt": "2026-09-07T17:36:25.800Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T17:19:24.318Z",
+      "discoveredAt": "2026-09-07T17:36:25.800Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_95b1c90b60e1a5414ac8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9740263?from=edn_newest_index",
+      "title": "賴清德總統：產學研合作鏈結全球 台灣要看得遠走得快 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "賴清德總統昨（7）日表示，面對AI浪潮、淨零轉型及全球供應鏈重組等挑戰，台灣要看得更遠、走得更快。政府積極推動五大信賴產業及AI新十大建設，期盼工研院持續布局前瞻技術，促成產學研及新創合作，讓產業更強、國家更有韌性，台灣成為世界不可或缺、值得信賴的力量。",
+      "publishedAt": "2026-09-07T17:36:18.177Z",
+      "discoveredAt": "2026-09-07T17:36:18.177Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_17027eefccdef237f894",
@@ -133,7 +163,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1351,7 +1381,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1761,36 +1791,6 @@
       "description": "台股7日強勢走高，加權指數開盤46,724點，盤中最高47,429.58點、最低46,724點，終場收在47,326.27點，大漲775.14點，漲幅1.66%，成交量9,399億元。上市股票上漲475家、下跌604家，漲停11家、跌停3家。 權值股台積電（2330）終場收2,460元，上漲50元，漲幅2.07%，盤中最高2,460元、最低2,410元。 盤面類股方面，半導體類股上漲2.78%、電子組件上漲1.64%、其他電子上漲1.11%、塑膠上漲1.89%；金融類股下跌0.36%、電腦週邊下跌2.67%、網通下跌0.52%、光電下跌3.3%。 個股方面，聯發科（2454）上漲7.81%、聯電（2303）上漲10%、鴻海（2317）上漲9.78%、日月光投控（3711）上漲5.61%；大立光（3008）則下跌10%。 （此文章為AI人機協作，正確數據以主管機關為準。）",
       "publishedAt": "2026-09-07T05:46:44.289Z",
       "discoveredAt": "2026-09-07T05:46:44.289Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_77ed30112874c2f03ecd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9739139?from=edn_newest_index",
-      "title": "台灣文化科技大會 百場產業活動引領邁入 AI 次元 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "文化部、高雄市政府共同主辦「2026 TTXC台灣文化科技大會（Taiwan Technology × Culture Expo）」，將於10月9日至26日在高雄駁二藝術特區登場。官網7日上線，以「All in AI．AI次元：共生時代」為主題，規劃六大主題展、25場國際觀點論壇，以及超過百場產業媒合、交流活動。",
-      "publishedAt": "2026-09-07T05:11:06.505Z",
-      "discoveredAt": "2026-09-07T05:11:06.505Z",
       "topics": [
         "Taiwan business",
         "investment",

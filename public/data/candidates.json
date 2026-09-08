@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T16:56:43.370Z",
+  "updatedAt": "2026-09-08T17:14:04.768Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T16:56:43.370Z",
+      "discoveredAt": "2026-09-08T17:14:04.768Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T16:56:43.370Z",
+      "discoveredAt": "2026-09-08T17:14:04.768Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_48508d8afcd802529102",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9742308?from=edn_newest_index",
+      "title": "大立光、玉晶光 四檔靚 | 權證特區 | 證券 | 經濟日報",
+      "description": "蘋果秋季新品即將登場，市場聚焦AI功能、鏡頭與硬體升級，帶動台系供應鏈迎接新一波拉貨潮。法人看好大立光（3008）、玉晶光等鏡頭廠下半年營運升溫，投資人可留意受惠個股，並搭配相關權證掌握波段行情。",
+      "publishedAt": "2026-09-08T17:10:41.500Z",
+      "discoveredAt": "2026-09-08T17:10:41.500Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_58d85d7a38f3a2c439ce",
@@ -269,7 +299,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9740330?from=edn_hottest_index",
-      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 5894",
+      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 5899",
       "description": "輝達執行長黃仁勳6日透過X平台發文指出，OpenAI最強模型GPT-6版本Astra問世，宣告通用人工智慧（AGI）時代來臨。因應AGI世代強大算力需求，後續將有40萬顆GPU上線，為AI發展提供更多運算資源。",
       "publishedAt": "2026-09-08T07:55:46.748Z",
       "discoveredAt": "2026-09-08T07:55:46.748Z",
@@ -1784,36 +1814,6 @@
       "importanceScore": 82,
       "confidenceScore": 72,
       "leaderMatch": true
-    },
-    {
-      "id": "cand_ef5b03ea615d1f9af5f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9734931?from=edn_maintab_index",
-      "title": "輝達砸千億元投資聯發科、聯準會9月升息機率過半……本周不可不知的五件財經大事 本周聯發科完成台灣資本市場歷來最大規模海外可轉債發行案，其中輝達包辦了約九成額度；美國商務部長盧特尼克預告可能會開徵新一輪半導體關稅，好吸引製作液回流美國；華許傑克森洞談話讓聯準會9月更難不升息……...",
-      "description": "本周聯發科完成台灣資本市場歷來最大規模海外可轉債發行案，其中輝達包辦了約九成額度；美國商務部長盧特尼克預告可能會開徵新一輪半導體關稅，好吸引製作液回流美國；華許傑克森洞談話讓聯準會9月更難不升息……以下是本周最值得回顧的五件財經要聞： 1. 輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 聯發科（2454）31日公告完成39億美元（近新台幣1,250億元）海外可轉債（ECB）訂價，引進輝達和Google母公司字母（Alphabet）兩大AI巨頭資金，輝達更大手筆包辦35億美元（約新台幣1,100億元）、約九成額度，並宣布兩家公司後續將深化合作。 聯發科此次39億美元海外可轉債，是台灣資本市場歷來最大規模海外可轉債發行案，並找來兩大重磅科技大咖參與。這是輝達首度投資台灣企業。 業界分析，這樁跨國投資案，聯發科是檯面上最大贏家，並且將深度影響台灣半導體產業鏈與AI發展，台積電（2330）無庸置疑是另一受惠大廠，主因輝達GPU、Google的TPU，以及聯發科主要晶片絕大多數都是台積電生產。 日月光投控（3711）、矽格（6257）則是「隱藏版贏家」，這兩家封測廠長期與輝達、聯發科、",
-      "publishedAt": "2026-09-05T03:35:21.559Z",
-      "discoveredAt": "2026-09-05T03:35:21.559Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
     }
   ]
 }

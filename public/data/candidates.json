@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T05:11:45.879Z",
+  "updatedAt": "2026-09-08T05:28:39.122Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T05:11:45.879Z",
+      "discoveredAt": "2026-09-08T05:28:39.122Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T05:11:45.879Z",
+      "discoveredAt": "2026-09-08T05:28:39.122Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_392bc6d18101c4a53fb8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9741341?from=edn_newest_index",
+      "title": "產業趨勢向上、能見度逾三年 法人喊買這檔廠務工程股 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "聖暉*（5536）隨人工智慧（AI）趨勢帶動電子業擴廠潮，法人觀察，艾司摩爾、應用材料等前段設備商均提到無塵室空間是目前半導體擴產主要瓶頸，加上建廠能見度至少達三年，廠務族群評價明顯低估，給予「買進」評等。",
+      "publishedAt": "2026-09-08T05:28:30.317Z",
+      "discoveredAt": "2026-09-08T05:28:30.317Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_1deeeb72e578c62716ce",
@@ -1761,36 +1791,6 @@
       "description": "昨日盤勢 美國8月非農數據意外強勁，然上週五費半逆勢走揚，帶動昨日台股開高走高，再創波段新高。大型股以台積電領軍，聯電、聯發科亦為重要支柱，盤面因資金排擠，整體下跌家數高於上漲家數。 台積電OIP生態系論壇將於9/23登場，先進製程、3D IC技術備受矚目，相關概念股買盤增溫；另外，日韓廠MLCC高階產能排擠，台廠成為中高電容外溢訂單受惠者，同時，國巨上週五外資論壇釋出正向展望，被動元件展現大幅反彈。反觀大立光，受UBS降評利空衝擊，CPO+光學股同步走弱。 權值股方面，台積電上漲2.07%、鴻海收平盤、聯發科上漲7.81%、廣達上漲0.72%，台達電上漲1.37%。 盤面強勢股，信驊、聯電、致茂、禾伸堂、台虹、統新、大量等共31檔漲停；東捷、精材、臻鼎-KY、華新科、聯發科、力旺等漲幅7%以上。盤面弱勢股，大立光等4檔跌停；先進光、聯一光、康控-KY、華星光、巧新、邁科等跌幅6%以上。 終場台灣加權指數上漲775.14點，以47326.27點作收，成交量9399.26億元。三大類股漲跌互見，電子上漲2.06%、傳產上漲0.21%、金融下跌0.23%。在次族群部份以綠環、玻璃、塑膠表現",
       "publishedAt": "2026-09-08T00:39:19.382Z",
       "discoveredAt": "2026-09-08T00:39:19.382Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7805c0522ec2ae34ba44",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9740578?from=edn_newest_index",
-      "title": "環鴻科技發表AI視覺檢測解決方案，加速智慧製造升級 2026-09-08 08:00",
-      "description": "南投2026年9月8日 /美通社/ -- 環鴻科技今日發表新一代 AI視覺檢測方案，以完整的邊緣運算平台及軟體能力，賦能製造業加速推動數位轉型。透過 AI 驅動智慧工廠在品質檢測、製程自動化、物流優化等方面，協助企業提升營運效率、強化產品生產品質，打造高競爭力的智慧製造場域。 環鴻科技 AI視覺檢測方案整合了高效能、低功耗的邊緣運算平台、高解析度成像技術，以及自主研發的AI軟體平台，可在邊緣端即時完成影像分析與判讀。在智慧製造應用方面，此解決方案能協助企業實現檢測自動化、及早發現產品瑕疵，並進行更快速且一致的品質判斷。透過降低檢測成本、提升生產效率與產品品質，協助製造業加速邁向更智慧化、自主化的先進製造模式。 對製造業而言，AI 視覺系統導入的關鍵不只是實現單一的物件辨識或瑕疵檢測，更在於能否將AI專案從概念驗證快速轉化為可實際落地的解決方案，並且兼具高效能以及客製化能力，因應工業生產特殊需求。 環鴻科技提供完整AI專案開發流程軟體平台，提供涵蓋資料蒐集、資料集建置、模型訓練到邊緣部署的完整開發流程。搭配自主研發的無程式碼（No-Code）與低程式碼（Low-Code）模型開發及訓練平",
-      "publishedAt": "2026-09-08T00:10:53.019Z",
-      "discoveredAt": "2026-09-08T00:10:53.019Z",
       "topics": [
         "Taiwan business",
         "investment",

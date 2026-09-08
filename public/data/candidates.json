@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T09:05:45.274Z",
+  "updatedAt": "2026-09-08T09:24:23.287Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T09:05:45.274Z",
+      "discoveredAt": "2026-09-08T09:24:23.287Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T09:05:45.274Z",
+      "discoveredAt": "2026-09-08T09:24:23.287Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_46cb2276dee067ecdc09",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9741992?from=edn_newest_index",
+      "title": "慧友宣布加入「Arm 實體 AI 全面設計」生態系 成為首批合作夥伴 | 產業熱點 | 產業 | 經濟日報",
+      "description": "慧友（5484）8日宣布加入「Arm實體AI全面設計（Arm Total Design for Physical AI）」生態系，成為全球首批合作夥伴之一。",
+      "publishedAt": "2026-09-08T09:24:14.141Z",
+      "discoveredAt": "2026-09-08T09:24:14.141Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_2a4b40f9efe1ba0b0f76",
@@ -133,7 +163,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -179,7 +209,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9740330?from=edn_hottest_index",
-      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 5400",
+      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 5438",
       "description": "輝達執行長黃仁勳6日透過X平台發文指出，OpenAI最強模型GPT-6版本Astra問世，宣告通用人工智慧（AGI）時代來臨。因應AGI世代強大算力需求，後續將有40萬顆GPU上線，為AI發展提供更多運算資源。",
       "publishedAt": "2026-09-08T07:55:46.748Z",
       "discoveredAt": "2026-09-08T07:55:46.748Z",
@@ -1777,36 +1807,6 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8c3cc26feaa6a45a121d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9741608",
-      "title": "16:21 廣達營收／8月4,239億元、年增177% 再創歷史新高",
-      "description": "廣達（2382）8日公告8月營收4,239.71億元，月增15.8%，年增177.5%，首度突破4,000億元大關，並改寫單月營收歷史新高紀錄；前8月累計營收2.64兆元，較去年同期成長102.6%。廣達先前於法說會上指出，第3季AI伺服器營收將維持季增趨勢，全年營收倍增；筆電部分則預計季減20%，全年較去年雙位數下滑。",
-      "publishedAt": "2026-09-08T08:33:14.652Z",
-      "discoveredAt": "2026-09-08T08:33:14.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

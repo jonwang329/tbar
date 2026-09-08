@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T03:29:34.894Z",
+  "updatedAt": "2026-09-08T03:47:27.187Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T03:29:34.894Z",
+      "discoveredAt": "2026-09-08T03:47:27.187Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T03:29:34.894Z",
+      "discoveredAt": "2026-09-08T03:47:27.187Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1570,6 +1570,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_eb7c8895f1d9255c24da",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9740938",
+      "title": "千金股唯二亮燈！穎崴飆漲停7,700元 探針卡三雄各搶 AI 測試與 CPO 商機 | 集中市場 | 證券 | 經濟日報",
+      "description": "人工智慧（AI）與雲端服務供應商（CSP）加速自研晶片，帶動高階測試需求升溫。台股8日由台積電（2330）領軍震盪站上47,500點之際，探針卡三雄同步走強，穎崴（6515）、旺矽（6223）、精測（6510）各擁營收、矽光子與AI測試題材，成為盤面焦點，穎崴盤中更亮燈漲停，與力旺（3529）成為今日48千金中，唯二亮燈個股。",
+      "publishedAt": "2026-09-08T03:47:15.877Z",
+      "discoveredAt": "2026-09-08T03:47:15.877Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_8eb1c995ec25629cceee",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1761,36 +1791,6 @@
       "description": "「2026國泰金控技術年會」將於15日盛大登場。今年適逢國泰金控數位轉型十周年，特別邀請到OpenAI與Google Cloud等國際級專家及產學領袖齊聚，聚焦「Agentic AI與數位同事」、「AI驅動IT升級」和「數位資產與 Web3」三大議題。今年將首度公開以AI Agent探索「數位同事」概念的創新試驗，聚焦專案管理、科技治理審查及法務作業三大場景的試驗成果，以及推動人機協作所需的管理與技術基礎。",
       "publishedAt": "2026-09-07T18:06:08.612Z",
       "discoveredAt": "2026-09-07T18:06:08.612Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7febb36efc30ed4b7894",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9740050?from=edn_newest_index",
-      "title": "就市論勢／半導體、伺服器鏈 有戲 | 市場焦點 | 證券 | 經濟日報",
-      "description": "上周半導體界大事是輝達認購聯發科ECB，代表台灣半導體廠商，不僅只是代工關係，更是深入邊緣AI、實體AI與車用電子領域。AI商機大爆發，為台廠半導體鏈，迎來未來數年獲利成長榮景，吸引資金重回AI硬體股淘金。",
-      "publishedAt": "2026-09-07T16:46:45.200Z",
-      "discoveredAt": "2026-09-07T16:46:45.200Z",
       "topics": [
         "Taiwan business",
         "investment",

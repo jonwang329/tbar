@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T04:40:17.593Z",
+  "updatedAt": "2026-09-08T04:55:44.057Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T04:40:17.593Z",
+      "discoveredAt": "2026-09-08T04:55:44.057Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T04:40:17.593Z",
+      "discoveredAt": "2026-09-08T04:55:44.057Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1570,6 +1570,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_455b6d75bbdb9165a8c3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9741270?from=edn_newest_index",
+      "title": "台灣第4季經就業展望升溫26% 通訊媒體、建築房地產最缺人 | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "AI落地、科技建廠與物流自動化持續推升企業用人需求。萬寶華（ManpowerGroup）8日發布最新全球就業展望調查，台灣第4季經季節調整後就業展望淨值為26%，較第3季上升9個百分點；十大行業中，以通訊媒體業最為熱絡，建築與房地產業居次。",
+      "publishedAt": "2026-09-08T04:55:36.005Z",
+      "discoveredAt": "2026-09-08T04:55:36.005Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_768682b5eeef53782338",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1772,36 +1802,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_708840a5f6728e9d4d17",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9740352?from=edn_maintab_index",
-      "title": "AGI 時代來了 AI 推理、創作等能力進化 記憶體鏈歡呼 OpenAI推出新一代模型GPT-6 Astra，展現強大的推理、創作及自主執行任務能力，輝達執行長黃仁勳看好Astra為通用人工智慧（AGI）時代揭開序幕。業界預期，AGI時代來臨後，原本就已熱鬧...",
-      "description": "OpenAI推出新一代模型GPT-6 Astra，展現強大的推理、創作及自主執行任務能力，輝達執行長黃仁勳看好Astra為通用人工智慧（AGI）時代揭開序幕。業界預期，AGI時代來臨後，原本就已熱鬧滾滾的儲存裝置市場需求將更進一步大爆發，群聯、威剛、宜鼎等台廠受惠大。",
-      "publishedAt": "2026-09-07T20:28:19.957Z",
-      "discoveredAt": "2026-09-07T20:28:19.957Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

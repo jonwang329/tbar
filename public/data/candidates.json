@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T23:26:24.770Z",
+  "updatedAt": "2026-09-08T23:40:00.040Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T23:26:24.770Z",
+      "discoveredAt": "2026-09-08T23:40:00.040Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T23:26:24.770Z",
+      "discoveredAt": "2026-09-08T23:40:00.040Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_fadf4f7938911fb7bb57",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9742905?from=edn_newest_index",
+      "title": "高通AI晶片攻進亞馬遜 AWS下單又入股 十年採購上看600億美元 | 美股動態 | 國際 | 經濟日報",
+      "description": "高通（Qualcomm）爭取到亞馬遜這個重量級客戶，搶攻AI資料中心市場取得重大突破，不僅將為亞馬遜雲端服務（AWS）客製化AI晶片，亞馬遜同時也取得最高40億美元的高通股票認購權。這項合作可望加快高通擺脫對低迷智慧手機市場的依賴，開拓新的成長動能。",
+      "publishedAt": "2026-09-08T23:39:51.282Z",
+      "discoveredAt": "2026-09-08T23:39:51.282Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_650982d377953bd6058b",
@@ -1765,36 +1795,6 @@
       "url": "https://money.udn.com/money/story/5739/9736748?from=edn_newest_index",
       "title": "鴻海國泰66購01 活跳跳 | 權證特區 | 證券 | 經濟日報",
       "description": "AI需求持續以超乎過往的速度與規模擴張，帶動鴻海加速全球產能布局，並推動製造基地向美國、墨西哥等地分散。法人指出，鴻海資本支出擴張且訂單能見度已延伸至2027至2028年，可利用相關權證伺機布局。",
-      "publishedAt": "2026-09-05T16:11:19.587Z",
-      "discoveredAt": "2026-09-05T16:11:19.587Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a0a755d72b8e14f89557",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5739/9736677?from=edn_newest_index",
-      "title": "華通台新67購02 馬力足 | 權證特區 | 證券 | 經濟日報",
-      "description": "華通受益資料中心相關業務成長動能強勁，緩解傳統淡季逆風，第2季獲利改寫歷年同期新高，法人預期，隨消費性電子旺季效應、光模塊逐步放量、衛星業務持續成長，第3季營運可望締造歷史新猷，近日股價強勢整理。",
       "publishedAt": "2026-09-05T16:11:19.587Z",
       "discoveredAt": "2026-09-05T16:11:19.587Z",
       "topics": [

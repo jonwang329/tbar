@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T04:04:56.693Z",
+  "updatedAt": "2026-09-08T04:23:21.789Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T04:04:56.693Z",
+      "discoveredAt": "2026-09-08T04:23:21.789Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T04:04:56.693Z",
+      "discoveredAt": "2026-09-08T04:23:21.789Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1570,6 +1570,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_768682b5eeef53782338",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9741206?from=edn_newest_index",
+      "title": "陸製自製DUV首度進自家產線測試 華為扮演統籌者角色 | 國際焦點 | 國際 | 經濟日報",
+      "description": "英國金融時報報導，華為扮演中國國產深紫外光（DUV）曝光機發展的統籌者，從曝光機、鏡頭到光源全面布局，並協助國產設備打進中芯國際（SMIC）等晶圓廠。上海業者宇量昇共同開發的頭一台中國自製先進DUV曝光機，更已在中芯和華為自家生產線測試，最終目標是用來生產先進AI晶片。",
+      "publishedAt": "2026-09-08T04:23:09.868Z",
+      "discoveredAt": "2026-09-08T04:23:09.868Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_eb7c8895f1d9255c24da",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1621,7 +1651,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1772,36 +1802,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_421aab98f3fbf4a76414",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9740143?from=edn_newest_index",
-      "title": "國泰金技術年會9月15日登場 | 金融脈動 | 金融 | 經濟日報",
-      "description": "「2026國泰金控技術年會」將於15日盛大登場。今年適逢國泰金控數位轉型十周年，特別邀請到OpenAI與Google Cloud等國際級專家及產學領袖齊聚，聚焦「Agentic AI與數位同事」、「AI驅動IT升級」和「數位資產與 Web3」三大議題。今年將首度公開以AI Agent探索「數位同事」概念的創新試驗，聚焦專案管理、科技治理審查及法務作業三大場景的試驗成果，以及推動人機協作所需的管理與技術基礎。",
-      "publishedAt": "2026-09-07T18:06:08.612Z",
-      "discoveredAt": "2026-09-07T18:06:08.612Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

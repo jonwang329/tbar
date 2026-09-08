@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T03:12:08.555Z",
+  "updatedAt": "2026-09-08T03:29:34.894Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T03:12:08.555Z",
+      "discoveredAt": "2026-09-08T03:29:34.894Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T03:12:08.555Z",
+      "discoveredAt": "2026-09-08T03:29:34.894Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_5bbf15847d922e1ccbbd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9741011?from=edn_newest_index",
+      "title": "雙路進擊 Arm 搶占雲端資料中心商機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "安謀（Arm）已經推出自家AGI CPU晶片，各種採用Arm基礎架構平台的裝置滲透率也持續擴增，該公司提到，根據IDC的資料，以Arm為基礎的機櫃級伺服器已超越x86，成為加速運算的主流平台。透過全新的Neoverse 運算子系統（CSS）N4，客戶可打造針對最高吞吐量效率進行最佳化的晶片；而Arm AGI CPU則提供量產就緒、專為需要即時回應的代理式AI所設計的晶片。",
+      "publishedAt": "2026-09-08T03:29:24.144Z",
+      "discoveredAt": "2026-09-08T03:29:24.144Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_cded7f470c8abb7d7226",
@@ -1547,7 +1577,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5710/9740938?from=edn_maintab_index",
-      "title": "千金股唯二亮燈！穎崴飆漲停7,700元 探針卡三雄各搶 AI 測試與 CPO 商機 | 集中市場 | 證券 | 經濟日報",
+      "title": "千金股唯二亮燈！穎崴飆漲停7,700元 探針卡三雄各搶 AI 測試與 CPO 商機 人工智慧（AI）與雲端服務供應商（CSP）加速自研晶片，帶動高階測試需求升溫。台股8日由台積電（2330）領軍震盪站上47,500點之際，探針卡三雄同步走強，穎崴（6515）、旺矽（6223）、精測...",
       "description": "人工智慧（AI）與雲端服務供應商（CSP）加速自研晶片，帶動高階測試需求升溫。台股8日由台積電（2330）領軍震盪站上47,500點之際，探針卡三雄同步走強，穎崴（6515）、旺矽（6223）、精測（6510）各擁營收、矽光子與AI測試題材，成為盤面焦點，穎崴盤中更亮燈漲停，與力旺（3529）成為今日48千金中，唯二亮燈個股。",
       "publishedAt": "2026-09-08T03:11:57.287Z",
       "discoveredAt": "2026-09-08T03:11:57.287Z",
@@ -1772,36 +1802,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6439197fe30f36589caf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9740348?from=edn_VIP_index_side",
-      "title": "大陸 AI 短劇成本暴跌90% 誰在賺？真正被重新定價的是流量",
-      "description": "大陸AI短劇市場今年快速擴張，製作門檻下降帶動產能暴增，價格戰持續升溫。陸媒報導，AI大模型與智慧工作流持續迭代，帶動AI短劇製作成本大幅下降，標準化短劇報價半年內從每分鐘約人民幣5,000元（單位下同）降至數百元，跌幅超過90%；與此同時，大陸市場供給快速增加，從「缺產能」轉向「產能過剩」。當製作門檻與價格同步下探，省下的成本能否轉化為利潤？產能爆發後，大陸AI短劇業者下一場競爭又將拚什麼？",
-      "publishedAt": "2026-09-07T16:28:40.648Z",
-      "discoveredAt": "2026-09-07T16:28:40.648Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

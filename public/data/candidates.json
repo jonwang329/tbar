@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T05:58:01.649Z",
+  "updatedAt": "2026-09-08T06:26:19.124Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T05:58:01.649Z",
+      "discoveredAt": "2026-09-08T06:26:19.124Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T05:58:01.649Z",
+      "discoveredAt": "2026-09-08T06:26:19.124Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1630,6 +1630,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e7ce3f0bb06081fadd59",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9741522?from=edn_newest_index",
+      "title": "上詮 FAU 出貨將持續增速 高盛喊買進 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "高盛於報告中指出，上詮（3363）光纖陣列元件（FAU）已於第3季開始出貨，帶動營收成長，公司對相關業務保持樂觀，並預期在AI伺服器機櫃需求攀升以及FAU規格升級的推動下，未來將迎來強勁的獲利成長。高盛則預估營收成長力道將會在2027年下半年進一步加速。",
+      "publishedAt": "2026-09-08T06:26:10.264Z",
+      "discoveredAt": "2026-09-08T06:26:10.264Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_455b6d75bbdb9165a8c3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1741,7 +1771,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1761,36 +1791,6 @@
       "description": "英國晶片設計大廠安謀執行長表示，人工智慧（AI）將能找到人類終其一生都無法找到的癌症解方，但礙於各類晶片短缺，已拖累AI...",
       "publishedAt": "2026-09-08T02:05:08.319Z",
       "discoveredAt": "2026-09-08T02:05:08.319Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c83e24d85f54ef571ab9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9740614?from=edn_newest_index",
-      "title": "9月8日盤前／AI 基本面佳 台股指數穩上攻 聚焦8月營收及蘋果新品發表 | 市場焦點 | 證券 | 經濟日報",
-      "description": "昨日盤勢 美國8月非農數據意外強勁，然上週五費半逆勢走揚，帶動昨日台股開高走高，再創波段新高。大型股以台積電領軍，聯電、聯發科亦為重要支柱，盤面因資金排擠，整體下跌家數高於上漲家數。 台積電OIP生態系論壇將於9/23登場，先進製程、3D IC技術備受矚目，相關概念股買盤增溫；另外，日韓廠MLCC高階產能排擠，台廠成為中高電容外溢訂單受惠者，同時，國巨上週五外資論壇釋出正向展望，被動元件展現大幅反彈。反觀大立光，受UBS降評利空衝擊，CPO+光學股同步走弱。 權值股方面，台積電上漲2.07%、鴻海收平盤、聯發科上漲7.81%、廣達上漲0.72%，台達電上漲1.37%。 盤面強勢股，信驊、聯電、致茂、禾伸堂、台虹、統新、大量等共31檔漲停；東捷、精材、臻鼎-KY、華新科、聯發科、力旺等漲幅7%以上。盤面弱勢股，大立光等4檔跌停；先進光、聯一光、康控-KY、華星光、巧新、邁科等跌幅6%以上。 終場台灣加權指數上漲775.14點，以47326.27點作收，成交量9399.26億元。三大類股漲跌互見，電子上漲2.06%、傳產上漲0.21%、金融下跌0.23%。在次族群部份以綠環、玻璃、塑膠表現",
-      "publishedAt": "2026-09-08T00:39:19.382Z",
-      "discoveredAt": "2026-09-08T00:39:19.382Z",
       "topics": [
         "Taiwan business",
         "investment",

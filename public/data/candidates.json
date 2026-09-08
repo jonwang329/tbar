@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T06:46:40.898Z",
+  "updatedAt": "2026-09-08T07:00:48.900Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T06:46:40.898Z",
+      "discoveredAt": "2026-09-08T07:00:48.900Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T06:46:40.898Z",
+      "discoveredAt": "2026-09-08T07:00:48.900Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -283,7 +283,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1660,6 +1660,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_0f46470bd2aa1b565d17",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9741559",
+      "title": "台積電和三星轉向擁抱最先進 High NA 機台 並攜 ASML 押注12吋光罩 | 國際焦點 | 國際 | 經濟日報",
+      "description": "艾司摩爾（ASML）已獲全球主要晶片製造商承諾採用最新半導體製造設備，同時和客戶展開更廣泛合作，以因應人工智慧（AI）技術快速發展帶來的龐大需求。",
+      "publishedAt": "2026-09-08T07:00:40.576Z",
+      "discoveredAt": "2026-09-08T07:00:40.576Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_652b06605c5149c9b63d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9741608?from=edn_newest_index",
+      "title": "廣達營收／8月4,239億元、年增177% 再創歷史新高 | 集中市場 | 證券 | 經濟日報",
+      "description": "廣達（2382）8日公告8月營收4,239.71億元，月增15.8%，年增177.5%，首度突破4,000億元大關，並改寫單月營收歷史新高紀錄；前8月累計營收2.64兆元，較去年同期成長102.6%。廣達先前於法說會上指出，第3季AI伺服器營收將維持季增趨勢，全年營收倍增；筆電部分則預計季減20%，全年較去年雙位數下滑。",
+      "publishedAt": "2026-09-08T07:00:40.576Z",
+      "discoveredAt": "2026-09-08T07:00:40.576Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_e7ce3f0bb06081fadd59",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1742,66 +1802,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eb7c8895f1d9255c24da",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9740938",
-      "title": "11:29 千金股唯二亮燈！穎崴飆漲停7,700元 探針卡三雄各搶 AI 測試與 CPO 商機",
-      "description": "人工智慧（AI）與雲端服務供應商（CSP）加速自研晶片，帶動高階測試需求升溫。台股8日由台積電（2330）領軍震盪站上47,500點之際，探針卡三雄同步走強，穎崴（6515）、旺矽（6223）、精測（6510）各擁營收、矽光子與AI測試題材，成為盤面焦點，穎崴盤中更亮燈漲停，與力旺（3529）成為今日48千金中，唯二亮燈個股。",
-      "publishedAt": "2026-09-08T03:47:15.877Z",
-      "discoveredAt": "2026-09-08T03:47:15.877Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8eb1c995ec25629cceee",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9740938?from=edn_maintab_index",
-      "title": "千金股唯二亮燈！穎崴飆漲停7,700元 探針卡三雄各搶 AI 測試與 CPO 商機 人工智慧（AI）與雲端服務供應商（CSP）加速自研晶片，帶動高階測試需求升溫。台股8日由台積電（2330）領軍震盪站上47,500點之際，探針卡三雄同步走強，穎崴（6515）、旺矽（6223）、精測...",
-      "description": "人工智慧（AI）與雲端服務供應商（CSP）加速自研晶片，帶動高階測試需求升溫。台股8日由台積電（2330）領軍震盪站上47,500點之際，探針卡三雄同步走強，穎崴（6515）、旺矽（6223）、精測（6510）各擁營收、矽光子與AI測試題材，成為盤面焦點，穎崴盤中更亮燈漲停，與力旺（3529）成為今日48千金中，唯二亮燈個股。",
-      "publishedAt": "2026-09-08T03:11:57.287Z",
-      "discoveredAt": "2026-09-08T03:11:57.287Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

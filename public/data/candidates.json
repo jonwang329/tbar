@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-07T23:53:04.369Z",
+  "updatedAt": "2026-09-08T00:11:04.198Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T23:53:04.369Z",
+      "discoveredAt": "2026-09-08T00:11:04.198Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-07T23:53:04.369Z",
+      "discoveredAt": "2026-09-08T00:11:04.198Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1420,6 +1420,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_7805c0522ec2ae34ba44",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9740578?from=edn_newest_index",
+      "title": "環鴻科技發表AI視覺檢測解決方案，加速智慧製造升級 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "南投2026年9月8日 /美通社/ -- 環鴻科技今日發表新一代 AI視覺檢測方案，以完整的邊緣運算平台及軟體能力，賦能製造業加速推動數位轉型。透過 AI 驅動智慧工廠在品質檢測、製程自動化、物流優化等方面，協助企業提升營運效率、強化產品生產品質，打造高競爭力的智慧製造場域。 環鴻科技 AI視覺檢測方案整合了高效能、低功耗的邊緣運算平台、高解析度成像技術，以及自主研發的AI軟體平台，可在邊緣端即時完成影像分析與判讀。在智慧製造應用方面，此解決方案能協助企業實現檢測自動化、及早發現產品瑕疵，並進行更快速且一致的品質判斷。透過降低檢測成本、提升生產效率與產品品質，協助製造業加速邁向更智慧化、自主化的先進製造模式。 對製造業而言，AI 視覺系統導入的關鍵不只是實現單一的物件辨識或瑕疵檢測，更在於能否將AI專案從概念驗證快速轉化為可實際落地的解決方案，並且兼具高效能以及客製化能力，因應工業生產特殊需求。 環鴻科技提供完整AI專案開發流程軟體平台，提供涵蓋資料蒐集、資料集建置、模型訓練到邊緣部署的完整開發流程。搭配自主研發的無程式碼（No-Code）與低程式碼（Low-Code）模型開發及訓練平",
+      "publishedAt": "2026-09-08T00:10:53.019Z",
+      "discoveredAt": "2026-09-08T00:10:53.019Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_638c1ca56197326aeb8a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1761,36 +1791,6 @@
       "description": "宏達電今天公布8月自結合併營收新台幣2.46億元，月增38.2%，年減7.71%，受惠AI智慧眼鏡VIVE Eagle升...",
       "publishedAt": "2026-09-07T10:58:00.548Z",
       "discoveredAt": "2026-09-07T10:58:00.548Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e78b15f5d98ca622f9e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9739858?from=edn_newest_index",
-      "title": "國泰金控技術年會15日登場 首度公開 AI「數位同事」創新試驗成果 | 金融脈動 | 金融 | 經濟日報",
-      "description": "台灣金融業指標性科技盛會「2026國泰金控技術年會」將於9月15日盛大登場。今年適逢國泰金控（2882）數位轉型十周年，特別邀請到OpenAI與Google Cloud等國際級專家及產學領袖齊聚，聚焦「Agentic AI與數位同事」、「AI驅動IT升級」和「數位資產與 Web3」三大議題。國泰金控繼去年分享「GAIA 2.0技術框架」，讓AI從知識助理進化為能自主推理、規劃與協作的夥伴後，今年將首度公開以AI Agent探索「數位同事」概念的創新試驗，聚焦專案管理、科技治理審查及法務作業三大場景的試驗成果，以及推動人機協作所需的管理與技術基礎。同時，年會也將揭示集團 IT 現代化策略，並深入探討數位資產主流化議題，年會熱烈開放報名中，已吸引超過6,000人搶先報名。",
-      "publishedAt": "2026-09-07T10:12:52.951Z",
-      "discoveredAt": "2026-09-07T10:12:52.951Z",
       "topics": [
         "Taiwan business",
         "investment",

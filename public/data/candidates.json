@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T08:49:19.232Z",
+  "updatedAt": "2026-09-08T09:05:45.274Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T08:49:19.232Z",
+      "discoveredAt": "2026-09-08T09:05:45.274Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T08:49:19.232Z",
+      "discoveredAt": "2026-09-08T09:05:45.274Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_2a4b40f9efe1ba0b0f76",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9741943?from=edn_newest_index",
+      "title": "嘉利國際首批 Vera Rubin 平台產品出貨 ASIC伺服器持續放量 雙動能挹注第四季營運可望創新高 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "香港2026年9月8日 /美通社/ -- 全球領先的伺服器結構工程解決方案供應商 – 嘉利國際控股有限公司（「嘉利國際」或「公司」，連同其附屬公司統稱「集團」；股份代號：1050.HK）宣布，首批 NVIDIA Vera Rubin 平台相關產品已陸續出貨，相關系列產品亦已正式進入量產階段。隨著新一代 AI 平台產品逐步放量，加上 ASIC 伺服器相關產品持續擴產及交付，雙重成長動能可望進一步挹注集團營運，預期第四季度業績有望創下新高。 嘉利國際持續深化 AI 伺服器及資料中心基礎設施布局，並支持客戶推進基於NVIDIA MGX 架構及 Vera Rubin 平台的相關專案。目前集團已推出多項支援 Vera Rubin NVL72 及 Rubin NVL8 等新一代平台的產品，涵蓋不同規格的伺服器機殼及機櫃相關產品，產品布局由伺服器層級進一步延伸至機櫃級應用。 另一方面，ASIC 伺服器相關業務持續成長。根據集團日前公布的季度業務更新，受惠於 ASIC 等 AI 伺服器產品出貨增加，第一季度伺服器機殼－通用及 AI 分部收入較去年同期成長約 63%。隨著現有世代 ASIC 產品逐步進入",
+      "publishedAt": "2026-09-08T09:05:34.756Z",
+      "discoveredAt": "2026-09-08T09:05:34.756Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_4b4ddcbb492452d46c40",
@@ -149,7 +179,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9740330?from=edn_hottest_index",
-      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 5366",
+      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 5400",
       "description": "輝達執行長黃仁勳6日透過X平台發文指出，OpenAI最強模型GPT-6版本Astra問世，宣告通用人工智慧（AGI）時代來臨。因應AGI世代強大算力需求，後續將有40萬顆GPU上線，為AI發展提供更多運算資源。",
       "publishedAt": "2026-09-08T07:55:46.748Z",
       "discoveredAt": "2026-09-08T07:55:46.748Z",
@@ -163,7 +193,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1761,36 +1791,6 @@
       "description": "廣達（2382）8日公告8月營收4,239.71億元，月增15.8%，年增177.5%，首度突破4,000億元大關，並改寫單月營收歷史新高紀錄；前8月累計營收2.64兆元，較去年同期成長102.6%。廣達先前於法說會上指出，第3季AI伺服器營收將維持季增趨勢，全年營收倍增；筆電部分則預計季減20%，全年較去年雙位數下滑。",
       "publishedAt": "2026-09-08T08:33:14.652Z",
       "discoveredAt": "2026-09-08T08:33:14.652Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1f93c030db1e00984fd4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9741719?from=edn_newest_index",
-      "title": "國巨8月營收續創新高 AI 應用帶動產能利用率 | 集中市場 | 證券 | 經濟日報",
-      "description": "被動元件大廠國巨今天公布8月自結合併營收新台幣163.32億元，月增1.2%，較2025年同期增加51.8%，再創單月新...",
-      "publishedAt": "2026-09-08T07:38:22.680Z",
-      "discoveredAt": "2026-09-08T07:38:22.680Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T07:00:48.900Z",
+  "updatedAt": "2026-09-08T07:21:57.609Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T07:00:48.900Z",
+      "discoveredAt": "2026-09-08T07:21:57.609Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T07:00:48.900Z",
+      "discoveredAt": "2026-09-08T07:21:57.609Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1660,6 +1660,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_1aa183776d7567a8696a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9741559?from=edn_maintab_index",
+      "title": "台積電和三星轉向擁抱最先進 High NA 機台 並攜 ASML 押注12吋光罩 | 國際焦點 | 國際 | 經濟日報",
+      "description": "艾司摩爾（ASML）已獲全球主要晶片製造商承諾採用最新半導體製造設備，同時和客戶展開更廣泛合作，以因應人工智慧（AI）技術快速發展帶來的龐大需求。",
+      "publishedAt": "2026-09-08T07:21:46.983Z",
+      "discoveredAt": "2026-09-08T07:21:46.983Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7970f121b19c945efb63",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9741661?from=edn_newest_index",
+      "title": "閎康營收／8月5.65億元連六月創高 北美 CSP 自研 AI 晶片需求升溫 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "半導體檢測大廠閎康（3587）8日公布8月合併營收5.65億元，月增0.38%、年增17.78%，連續六個月改寫單月歷史新高；累計前八月營收41.96億元，年增17.66%，同創歷年同期新高。",
+      "publishedAt": "2026-09-08T07:21:46.983Z",
+      "discoveredAt": "2026-09-08T07:21:46.983Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0f46470bd2aa1b565d17",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1667,7 +1727,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9741559",
-      "title": "台積電和三星轉向擁抱最先進 High NA 機台 並攜 ASML 押注12吋光罩 | 國際焦點 | 國際 | 經濟日報",
+      "title": "14:54 台積電和三星轉向擁抱最先進 High NA 機台 並攜 ASML 押注12吋光罩",
       "description": "艾司摩爾（ASML）已獲全球主要晶片製造商承諾採用最新半導體製造設備，同時和客戶展開更廣泛合作，以因應人工智慧（AI）技術快速發展帶來的龐大需求。",
       "publishedAt": "2026-09-08T07:00:40.576Z",
       "discoveredAt": "2026-09-08T07:00:40.576Z",
@@ -1731,66 +1791,6 @@
       "description": "高盛於報告中指出，上詮（3363）光纖陣列元件（FAU）已於第3季開始出貨，帶動營收成長，公司對相關業務保持樂觀，並預期在AI伺服器機櫃需求攀升以及FAU規格升級的推動下，未來將迎來強勁的獲利成長。高盛則預估營收成長力道將會在2027年下半年進一步加速。",
       "publishedAt": "2026-09-08T06:26:10.264Z",
       "discoveredAt": "2026-09-08T06:26:10.264Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_455b6d75bbdb9165a8c3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9741270?from=edn_newest_index",
-      "title": "台灣第4季經就業展望升溫26% 通訊媒體、建築房地產最缺人 | 總經趨勢 | 要聞 | 經濟日報",
-      "description": "AI落地、科技建廠與物流自動化持續推升企業用人需求。萬寶華（ManpowerGroup）8日發布最新全球就業展望調查，台灣第4季經季節調整後就業展望淨值為26%，較第3季上升9個百分點；十大行業中，以通訊媒體業最為熱絡，建築與房地產業居次。",
-      "publishedAt": "2026-09-08T04:55:36.005Z",
-      "discoveredAt": "2026-09-08T04:55:36.005Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_768682b5eeef53782338",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9741206?from=edn_newest_index",
-      "title": "陸製自製DUV首度進自家產線測試 華為扮演統籌者角色 | 國際焦點 | 國際 | 經濟日報",
-      "description": "英國金融時報報導，華為扮演中國國產深紫外光（DUV）曝光機發展的統籌者，從曝光機、鏡頭到光源全面布局，並協助國產設備打進中芯國際（SMIC）等晶圓廠。上海業者宇量昇共同開發的頭一台中國自製先進DUV曝光機，更已在中芯和華為自家生產線測試，最終目標是用來生產先進AI晶片。",
-      "publishedAt": "2026-09-08T04:23:09.868Z",
-      "discoveredAt": "2026-09-08T04:23:09.868Z",
       "topics": [
         "Taiwan business",
         "investment",

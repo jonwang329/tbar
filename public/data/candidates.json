@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T00:39:27.067Z",
+  "updatedAt": "2026-09-08T00:58:33.837Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T00:39:27.067Z",
+      "discoveredAt": "2026-09-08T00:58:33.837Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T00:39:27.067Z",
+      "discoveredAt": "2026-09-08T00:58:33.837Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_c2791a1a5371e2c9b40c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9740634?from=edn_maintab_index",
+      "title": "南韓只是前兆？亞洲恐正醞釀下一場槓桿股災 費半也得小心 | 外媒解析 | 國際 | 經濟日報",
+      "description": "南韓今年夏季股災可能不只是單一市場事件，而是亞洲股市槓桿升高、AI資金開始退潮的一記警鐘。路透專欄作家、Emmer Capital Partners創辦人兼執行長Manishi Raychaudhuri指出，南韓散戶大量融資押注AI和科技股，一旦行情反轉，追繳保證金和強制平倉便形成「愈跌愈賣」的惡性循環。如今中國大陸、日本和印度融資餘額也快速攀升；另一方面，韓元隨南韓升息大幅走強，南韓投資人的美股部位從高峰回落，也讓市場開始懷疑，先前流入美國AI和晶片股的資金是否正在撤回。",
+      "publishedAt": "2026-09-08T00:58:23.978Z",
+      "discoveredAt": "2026-09-08T00:58:23.978Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2f047f57497b2e13a390",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9740634?from=edn_newest_index",
+      "title": "南韓只是前兆？亞洲恐正醞釀下一場槓桿股災 費半也得小心 | 外媒解析 | 國際 | 經濟日報",
+      "description": "南韓今年夏季股災可能不只是單一市場事件，而是亞洲股市槓桿升高、AI資金開始退潮的一記警鐘。路透專欄作家、Emmer Capital Partners創辦人兼執行長Manishi Raychaudhuri指出，南韓散戶大量融資押注AI和科技股，一旦行情反轉，追繳保證金和強制平倉便形成「愈跌愈賣」的惡性循環。如今中國大陸、日本和印度融資餘額也快速攀升；另一方面，韓元隨南韓升息大幅走強，南韓投資人的美股部位從高峰回落，也讓市場開始懷疑，先前流入美國AI和晶片股的資金是否正在撤回。",
+      "publishedAt": "2026-09-08T00:58:23.978Z",
+      "discoveredAt": "2026-09-08T00:58:23.978Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_24c1f59d80f6485b0354",
@@ -1742,66 +1802,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1424765da2715a0e7d6b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9740162?from=edn_newest_index",
-      "title": "今日最夯 ETF／台股強勢攻高 00878飆出新高價 | 基金天地 | 理財 | 經濟日報",
-      "description": "台股7日多頭氣勢再起，受上周五費城半導體指數大漲3.3%激勵，AI及半導體族群領軍上攻，加權指數盤中最高衝上47,429點，終場大漲775點或1.67%，收在47,326點，再度展現強勁多頭氣勢，帶動台股高股息ETF中人氣最高的國泰永續高股息（00878）率先收上新高價。",
-      "publishedAt": "2026-09-07T13:55:23.485Z",
-      "discoveredAt": "2026-09-07T13:55:23.485Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3892483708fe0ae9b30f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9739652",
-      "title": "21:07 宏達電營收／8月2.46億元回暖 月增37%",
-      "description": "XR暨AI眼鏡品牌廠宏達電（2498）7日公告8月營收2.46億元，月增37.7%、年減7.7%；累計今年前八月營收16.91億元，年減6.9%。",
-      "publishedAt": "2026-09-07T13:22:48.309Z",
-      "discoveredAt": "2026-09-07T13:22:48.309Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

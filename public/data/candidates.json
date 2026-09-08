@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-08T02:55:35.668Z",
+  "updatedAt": "2026-09-08T03:12:08.555Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T02:55:35.668Z",
+      "discoveredAt": "2026-09-08T03:12:08.555Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-08T02:55:35.668Z",
+      "discoveredAt": "2026-09-08T03:12:08.555Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_cded7f470c8abb7d7226",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9740973?from=edn_newest_index",
+      "title": "揪團搶占機器人商機 安謀宣布推出 Arm 實體 AI 全面設計 | 產業熱點 | 產業 | 經濟日報",
+      "description": "安謀(Arm)串聯生態系，搶占實體AI商機，宣布Arm全面設計（Arm Total Design）生態系倡議拓展至實體 AI，將整合技術堆疊中各層合作夥伴的專業能力，降低整合複雜度，加速自主系統開發。",
+      "publishedAt": "2026-09-08T03:11:57.287Z",
+      "discoveredAt": "2026-09-08T03:11:57.287Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5b17d2298ada6e77790f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9740971?from=edn_newest_index",
+      "title": "半導體職缺年增逾兩成 104《半導體業人才報告書》揭五大趨勢 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI投資熱潮持續推升半導體產能，人才需求也跟著全面擴張。104人力銀行8日發布《2026半導體業人才報告書》，今年半導體業每月徵才達4.7萬人，年增逾兩成；且AI相關職缺持續成長，每四個半導體職缺，就有一個與AI相關。",
+      "publishedAt": "2026-09-08T03:11:57.287Z",
+      "discoveredAt": "2026-09-08T03:11:57.287Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_c2791a1a5371e2c9b40c",
@@ -1480,6 +1540,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_8eb1c995ec25629cceee",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9740938?from=edn_maintab_index",
+      "title": "千金股唯二亮燈！穎崴飆漲停7,700元 探針卡三雄各搶 AI 測試與 CPO 商機 | 集中市場 | 證券 | 經濟日報",
+      "description": "人工智慧（AI）與雲端服務供應商（CSP）加速自研晶片，帶動高階測試需求升溫。台股8日由台積電（2330）領軍震盪站上47,500點之際，探針卡三雄同步走強，穎崴（6515）、旺矽（6223）、精測（6510）各擁營收、矽光子與AI測試題材，成為盤面焦點，穎崴盤中更亮燈漲停，與力旺（3529）成為今日48千金中，唯二亮燈個股。",
+      "publishedAt": "2026-09-08T03:11:57.287Z",
+      "discoveredAt": "2026-09-08T03:11:57.287Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_e8fef50ddc9008f45e27",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1712,96 +1802,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2ae50dffd153f19f90bd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9740348?from=edn_newest_index",
-      "title": "大陸 AI 短劇成本暴跌90% 誰在賺？真正被重新定價的是流量 2026-09-07 23:32",
-      "description": "大陸AI短劇市場今年快速擴張，製作門檻下降帶動產能暴增，價格戰持續升溫。陸媒報導，AI大模型與智慧工作流持續迭代，帶動AI短劇製作成本大幅下降，標準化短劇報價半年內從每分鐘約人民幣5,000元（單位下同）降至數百元，跌幅超過90%；與此同時，大陸市場供給快速增加，從「缺產能」轉向「產能過剩」。當製作門檻與價格同步下探，省下的成本能否轉化為利潤？產能爆發後，大陸AI短劇業者下一場競爭又將拚什麼？",
-      "publishedAt": "2026-09-07T15:38:09.637Z",
-      "discoveredAt": "2026-09-07T15:38:09.637Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f5b7bd7400930d1cf3f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124480/9726871?from=edn_VIP_index_side",
-      "title": "流氓 AI 來了？2／AI 不是叛變竟是太聽話！為拿高分竟「逃出沙盒」駭進真實世界",
-      "description": "OpenAI、Anthropic、Meta近期接連傳出AI Agent在資安測試中越界。原本應該在封閉環境裡接受測驗的AI，竟然連上真實網路，進入未經授權的系統，甚至駭進知名AI開源平台Hugging Face，只為取得一場考試的「答案」。這聽起來像科幻片，難道，AI有自己的心靈，也出現自我意識了嗎？",
-      "publishedAt": "2026-09-07T15:22:29.422Z",
-      "discoveredAt": "2026-09-07T15:22:29.422Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ddad8bbc5403e25f3519",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9740162",
-      "title": "22:06 今日最夯 ETF／台股強勢攻高 00878飆出新高價",
-      "description": "台股7日多頭氣勢再起，受上周五費城半導體指數大漲3.3%激勵，AI及半導體族群領軍上攻，加權指數盤中最高衝上47,429點，終場大漲775點或1.67%，收在47,326點，再度展現強勁多頭氣勢，帶動台股高股息ETF中人氣最高的國泰永續高股息（00878）率先收上新高價。",
-      "publishedAt": "2026-09-07T14:12:33.920Z",
-      "discoveredAt": "2026-09-07T14:12:33.920Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

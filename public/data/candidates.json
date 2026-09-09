@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-09T01:55:40.232Z",
+  "updatedAt": "2026-09-09T02:11:31.054Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T01:55:40.232Z",
+      "discoveredAt": "2026-09-09T02:11:31.054Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T01:55:40.232Z",
+      "discoveredAt": "2026-09-09T02:11:31.054Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_60bf0779d7e858a48025",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9743175?from=edn_newest_index",
+      "title": "美國安機構點名DeepSeek等6陸企 惡意抄襲美AI模型 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國國家安全局（NSA）、網路安全和基礎設施安全局（CISA）及聯邦調查局（FBI），8日聯合發布資安警告，指控DeepSeek等6家大陸人工智慧（AI）企業，利用「蒸餾」（distillation）技術，大規模擷取美國先進AI模型的專有功能與能力，用來加速訓練自家產品。",
+      "publishedAt": "2026-09-09T02:11:22.818Z",
+      "discoveredAt": "2026-09-09T02:11:22.818Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_d7121400d181707d768c",
@@ -1778,36 +1808,6 @@
         "Taiwan"
       ],
       "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_33c764ed0d1a92e3415a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9736907?from=edn_newest_index",
-      "title": "輝達拚 AI 股權投資年增13倍 有助強化產業版圖 | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）在截至7月26日的過去一年裡，投資的股權價值增加逾13倍，達到990億美元，已經成為全球最大的科技公司支持者之一。輝達為強化人工智慧（AI）產業，顯然愈來愈增加運用它的巨大資本儲備。",
-      "publishedAt": "2026-09-05T17:55:02.623Z",
-      "discoveredAt": "2026-09-05T17:55:02.623Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

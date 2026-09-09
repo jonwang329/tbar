@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-09T04:58:47.109Z",
+  "updatedAt": "2026-09-09T05:19:54.729Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T04:58:47.109Z",
+      "discoveredAt": "2026-09-09T05:19:54.729Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T04:58:47.109Z",
+      "discoveredAt": "2026-09-09T05:19:54.729Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_625943ff0647228602ee",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9743719?from=edn_newest_index",
+      "title": "AI 產業鏈「黃金坑」浮現！安聯00412A 押寶亞洲半導體 | 基金天地 | 理財 | 經濟日報",
+      "description": "全球AI投資熱潮持續推進，儘管近期半導體及科技硬體類股因市場獲利了結及殖利率走勢而出現波動，但產業長期成長趨勢並未改變。法人表示，目前市場過度聚焦短期成長放緩疑慮，反而忽略AI基礎建設需求持續擴張的事實。尤其高頻寬記憶體（HBM）、先進封裝及高速傳輸等關鍵技術，已逐漸成為AI發展的重要瓶頸，也為亞洲半導體供應鏈帶來長期成長契機。",
+      "publishedAt": "2026-09-09T05:19:47.126Z",
+      "discoveredAt": "2026-09-09T05:19:47.126Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_0213474bafa5aa082724",
@@ -89,7 +119,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9742648?from=edn_hottest_index",
-      "title": "安謀衝刺實體 AI 商機強攻機器人 台積電、瑞昱等「九條好漢」助陣 5977",
+      "title": "安謀衝刺實體 AI 商機強攻機器人 台積電、瑞昱等「九條好漢」助陣 6058",
       "description": "全球半導體矽智財（IP）龍頭安謀（Arm）昨（8）日宣布，號召全球逾80家夥伴攜手衝刺實體AI商機，強攻機器人，台廠共有台積電、瑞昱、雅特力-KY、慧友、系微、慧榮、新漢旗下NEXCOBOT、研揚、光程研創等至少「九條好漢」入列安謀首批「機器人軍團」。",
       "publishedAt": "2026-09-09T03:55:23.250Z",
       "discoveredAt": "2026-09-09T03:55:23.250Z",
@@ -1767,36 +1797,6 @@
       "description": "AI帶動晶片需求激增，台積電（2330）、美光等指標企業大舉加碼資本支出，全球半導體業迎來史上最強擴產潮，半導體廠務工程五強漢唐（2404）、亞翔（6139）、帆宣（6196）、洋基（6691）、聖暉（5536）訂單塞爆，合計在手訂單已逾8,800億元，創新高，確立迎向黃金三年業績榮景。",
       "publishedAt": "2026-09-06T15:21:29.360Z",
       "discoveredAt": "2026-09-06T15:21:29.360Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_503d4446d1e35f07bb88",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9737649?from=edn_newest_index",
-      "title": "永豐金證券看好 AI 供應鏈與景氣回升 第3季聚焦三大產業布局 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台灣外銷訂單正式站上900億美元新常態，AI帶動的出口榮景已從短期爆發轉向結構性成長。永豐金證券與證券櫃檯買賣中心共同舉辦「2026半導體展高峰論壇」，邀請精測（6510）、旺矽（6223）、漢測、聖暉（5536）及德鑫半導體聯盟等，共計逾20家企業與國內外機構投資人現場交流，聚焦AI浪潮下的半導體產業發展趨勢與未來投資機會。",
-      "publishedAt": "2026-09-06T06:50:19.563Z",
-      "discoveredAt": "2026-09-06T06:50:19.563Z",
       "topics": [
         "Taiwan business",
         "investment",

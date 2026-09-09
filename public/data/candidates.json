@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-09T03:38:40.236Z",
+  "updatedAt": "2026-09-09T03:55:30.473Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T03:38:40.236Z",
+      "discoveredAt": "2026-09-09T03:55:30.473Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T03:38:40.236Z",
+      "discoveredAt": "2026-09-09T03:55:30.473Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_0213474bafa5aa082724",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9742648?from=edn_hottest_index",
+      "title": "安謀衝刺實體 AI 商機強攻機器人 台積電、瑞昱等「九條好漢」助陣 | 產業熱點 | 產業 | 經濟日報",
+      "description": "全球半導體矽智財（IP）龍頭安謀（Arm）昨（8）日宣布，號召全球逾80家夥伴攜手衝刺實體AI商機，強攻機器人，台廠共有台積電、瑞昱、雅特力-KY、慧友、系微、慧榮、新漢旗下NEXCOBOT、研揚、光程研創等至少「九條好漢」入列安謀首批「機器人軍團」。",
+      "publishedAt": "2026-09-09T03:55:23.250Z",
+      "discoveredAt": "2026-09-09T03:55:23.250Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_0c8101be23805889d889",
@@ -1767,36 +1797,6 @@
       "description": "台灣外銷訂單正式站上900億美元新常態，AI帶動的出口榮景已從短期爆發轉向結構性成長。永豐金證券與證券櫃檯買賣中心共同舉辦「2026半導體展高峰論壇」，邀請精測（6510）、旺矽（6223）、漢測、聖暉（5536）及德鑫半導體聯盟等，共計逾20家企業與國內外機構投資人現場交流，聚焦AI浪潮下的半導體產業發展趨勢與未來投資機會。",
       "publishedAt": "2026-09-06T06:50:19.563Z",
       "discoveredAt": "2026-09-06T06:50:19.563Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a8db1e4191948a5ec47d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9737578?from=edn_newest_index",
-      "title": "資金分散日韓AI風險 大陸股市衍生品需求升溫 2026-09-06 13:44",
-      "description": "日韓人工智慧（AI）投資交易日益擁擠，尋求分散投資風險的資金開始轉向大陸股票衍生品。外媒指出，近幾周巴克萊、瑞銀等銀行交易部門看到客戶對掛鉤大陸主要股市指數的看漲選擇權及掉期合約需求增加，越來越多策略師也開始建議透過衍生品布局大陸股市，尤其是中小型股。",
-      "publishedAt": "2026-09-06T05:45:41.519Z",
-      "discoveredAt": "2026-09-06T05:45:41.519Z",
       "topics": [
         "Taiwan business",
         "investment",

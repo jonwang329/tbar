@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-09T00:39:22.859Z",
+  "updatedAt": "2026-09-09T00:57:28.994Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T00:39:22.859Z",
+      "discoveredAt": "2026-09-09T00:57:28.994Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T00:39:22.859Z",
+      "discoveredAt": "2026-09-09T00:57:28.994Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_d7121400d181707d768c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9742988?from=edn_newest_index",
+      "title": "南韓對美投資終於動了 傳220億美元押注德州AI電力 | 國際焦點 | 國際 | 經濟日報",
+      "description": "南韓已選定德州一項天然氣發電計畫，做為去年和美國達成貿易協議後的頭一個對美投資案。此舉可望緩和美韓近幾個月來的緊張關係，南韓遲遲未能落實對美投資承諾，已成為這兩個盟國之間摩擦的焦點。",
+      "publishedAt": "2026-09-09T00:57:19.503Z",
+      "discoveredAt": "2026-09-09T00:57:19.503Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_fadf4f7938911fb7bb57",
@@ -133,7 +163,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -163,7 +193,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1767,36 +1797,6 @@
       "description": "輝達（NVIDIA）在截至7月26日的過去一年裡，投資的股權價值增加逾13倍，達到990億美元，已經成為全球最大的科技公司支持者之一。輝達為強化人工智慧（AI）產業，顯然愈來愈增加運用它的巨大資本儲備。",
       "publishedAt": "2026-09-05T17:55:02.623Z",
       "discoveredAt": "2026-09-05T17:55:02.623Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_756a7b996f8c83bb3149",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5739/9736748?from=edn_newest_index",
-      "title": "鴻海國泰66購01 活跳跳 | 權證特區 | 證券 | 經濟日報",
-      "description": "AI需求持續以超乎過往的速度與規模擴張，帶動鴻海加速全球產能布局，並推動製造基地向美國、墨西哥等地分散。法人指出，鴻海資本支出擴張且訂單能見度已延伸至2027至2028年，可利用相關權證伺機布局。",
-      "publishedAt": "2026-09-05T16:11:19.587Z",
-      "discoveredAt": "2026-09-05T16:11:19.587Z",
       "topics": [
         "Taiwan business",
         "investment",

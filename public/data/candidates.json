@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-09T02:29:13.886Z",
+  "updatedAt": "2026-09-09T02:46:52.522Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T02:29:13.886Z",
+      "discoveredAt": "2026-09-09T02:46:52.522Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-09T02:29:13.886Z",
+      "discoveredAt": "2026-09-09T02:46:52.522Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_0c8101be23805889d889",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9743266?from=edn_newest_index",
+      "title": "國泰證券9月：AI 投資占美國 GDP 比重續升 三大資源牽動下一波成長 | 金融脈動 | 金融 | 經濟日報",
+      "description": "延續8月企業獲利與AI落地應用的市場焦點，國泰證券9月進一步將目光轉向AI基礎建設的承載能力。依目前已發布的資本支出預估推算，AI投資占美國GDP比重將持續增加，顯示本輪成長動能仍有延伸空間；台韓半導體設備進口、PMI、記憶體採購與GPU租賃價格等領先指標，也仍處於2022年以來高位。",
+      "publishedAt": "2026-09-09T02:46:45.576Z",
+      "discoveredAt": "2026-09-09T02:46:45.576Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_60bf0779d7e858a48025",
@@ -1778,36 +1808,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_29b88328657effd2c819",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9736907?from=edn_maintab_index",
-      "title": "輝達拚 AI 股權投資年增13倍 有助強化產業版圖 輝達（NVIDIA）在截至7月26日的過去一年裡，投資的股權價值增加逾13倍，達到990億美元，已經成為全球最大的科技公司支持者之一。輝達為強化人工智慧（AI）產業，顯然愈來愈增加運用它的巨大資本儲...",
-      "description": "輝達（NVIDIA）在截至7月26日的過去一年裡，投資的股權價值增加逾13倍，達到990億美元，已經成為全球最大的科技公司支持者之一。輝達為強化人工智慧（AI）產業，顯然愈來愈增加運用它的巨大資本儲備。",
-      "publishedAt": "2026-09-05T18:46:35.731Z",
-      "discoveredAt": "2026-09-05T18:46:35.731Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

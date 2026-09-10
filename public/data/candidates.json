@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-10T20:03:49.382Z",
+  "updatedAt": "2026-09-10T22:31:04.374Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-10T20:03:49.382Z",
+      "discoveredAt": "2026-09-10T22:31:04.374Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,35 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-10T20:03:49.382Z",
+      "discoveredAt": "2026-09-10T22:31:04.374Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_206cdfaaaccdf61ed954",
+      "sourceLastModified": "2026-09-10T20:11:55.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
+      "title": "Developing nuclear safeguards for AI through public-private partnership",
+      "description": "With the NNSA and DOE national labs, we co-developed a classifier that distinguishes concerning from benign nuclear conversations with 96% accuracy.",
+      "publishedAt": "2026-09-10T20:11:55.000Z",
+      "discoveredAt": "2026-09-10T22:30:47.916Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
     },
     {
       "id": "cand_06275bba9b67253cfdc2",
@@ -89,7 +116,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9747492?from=edn_maintab_index",
-      "title": "蘋果軟體大進擊 協力廠沾光 鴻海、廣達有望進補 | 產業熱點 | 產業 | 經濟日報",
+      "title": "蘋果軟體大進擊 協力廠沾光 鴻海、廣達有望進補 蘋果本次秋季新品發表會不僅硬體推陳出新，也在軟體與AI下足功夫，包括隨最新作業系統iOS 27登場的次世代AI（Apple Intelligence），模型能力更強，並推出新版獨立Siri AI。底...",
       "description": "蘋果本次秋季新品發表會不僅硬體推陳出新，也在軟體與AI下足功夫，包括隨最新作業系統iOS 27登場的次世代AI（Apple Intelligence），模型能力更強，並推出新版獨立Siri AI。底層由Apple Foundation Models結合Google Gemini技術驅動聯網強化，可協作支援超過30萬款App。",
       "publishedAt": "2026-09-10T20:03:36.617Z",
       "discoveredAt": "2026-09-10T20:03:36.617Z",
@@ -103,12 +130,39 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3ab6f8d70eb433cffe3e",
+      "sourceLastModified": "2026-09-10T18:26:26.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+      "title": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+      "description": "",
+      "publishedAt": "2026-09-10T18:26:26.000Z",
+      "discoveredAt": "2026-09-10T20:03:36.617Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1731,66 +1785,6 @@
       "description": "馬來西亞債券8月吸引創紀錄資金流入，主因是市場看好AI熱潮將帶動這個東南亞國家的經濟。AI帶來的利多，已從資料中心投資擴散至債券與匯市。",
       "publishedAt": "2026-09-07T03:47:22.322Z",
       "discoveredAt": "2026-09-07T03:47:22.322Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c4ca81c9b7a81be594e3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9738558",
-      "title": "10:53 黃仁勳看 Astra：AGI 已經到來 下一步40萬顆 GPU 上線",
-      "description": "輝達（NVIDIA）執行長黃仁勳周日透過X平台，恭喜OpenAI團隊推出最新、也是目前最強大的模型Astra，更引人矚目的是，他直言「通用人工智慧（AGI）已經到來」。",
-      "publishedAt": "2026-09-07T02:55:02.020Z",
-      "discoveredAt": "2026-09-07T02:55:02.020Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_20760094979bc5dc5280",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9738558?from=edn_newest_index",
-      "title": "黃仁勳看 Astra：AGI 已經到來 下一步40萬顆 GPU 上線 | 國際焦點 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）執行長黃仁勳周日透過X平台，恭喜OpenAI團隊推出最新、也是目前最強大的模型Astra，更引人矚目的是，他直言「通用人工智慧（AGI）已經到來」。",
-      "publishedAt": "2026-09-07T01:36:24.477Z",
-      "discoveredAt": "2026-09-07T01:36:24.477Z",
       "topics": [
         "Taiwan business",
         "investment",

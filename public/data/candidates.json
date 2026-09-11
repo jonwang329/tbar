@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-11T13:52:04.511Z",
+  "updatedAt": "2026-09-11T17:26:14.683Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-11T13:52:04.511Z",
+      "discoveredAt": "2026-09-11T17:26:14.683Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-11T13:52:04.511Z",
+      "discoveredAt": "2026-09-11T17:26:14.683Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_d637cc985757f75fbd6b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9749626?from=edn_newest_index",
+      "title": "輝達 CEO 駁循環交易疑慮 黃仁勳：我投資的都不糟 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳10日出席高盛在舊金山舉行的科技大會表示，隨著人工智慧（AI）科技持續進步，「資安很可能成為AI下一個重大應用領域」。他也駁斥外界對輝達循環交易的疑慮，強調他在動用公司資金之前，需要先看到「十拿九穩的機會」。",
+      "publishedAt": "2026-09-11T17:26:01.710Z",
+      "discoveredAt": "2026-09-11T17:26:01.710Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_206cdfaaaccdf61ed954",
@@ -1766,36 +1796,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_05344d2adf4dbc85efb4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9738921?from=edn_newest_index",
-      "title": "AI熱潮也帶旺債市！外資39億美元湧入馬來西亞債券 創新高 | 國際焦點 | 國際 | 經濟日報",
-      "description": "馬來西亞債券8月吸引創紀錄資金流入，主因是市場看好AI熱潮將帶動這個東南亞國家的經濟。AI帶來的利多，已從資料中心投資擴散至債券與匯市。",
-      "publishedAt": "2026-09-07T03:47:22.322Z",
-      "discoveredAt": "2026-09-07T03:47:22.322Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

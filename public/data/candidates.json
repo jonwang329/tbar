@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-11T19:56:48.600Z",
+  "updatedAt": "2026-09-11T22:21:37.639Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-11T19:56:48.600Z",
+      "discoveredAt": "2026-09-11T22:21:37.639Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-11T19:56:48.600Z",
+      "discoveredAt": "2026-09-11T22:21:37.639Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9749626?from=edn_maintab_index",
-      "title": "輝達 CEO 駁循環交易疑慮 黃仁勳：我投資的都不糟 | 國際焦點 | 國際 | 經濟日報",
+      "title": "輝達 CEO 駁循環交易疑慮 黃仁勳：我投資的都不糟 輝達（NVIDIA）執行長黃仁勳10日出席高盛在舊金山舉行的科技大會表示，隨著人工智慧（AI）科技持續進步，「資安很可能成為AI下一個重大應用領域」。他也駁斥外界對輝達循環交易的疑慮，強調他在動用公...",
       "description": "輝達（NVIDIA）執行長黃仁勳10日出席高盛在舊金山舉行的科技大會表示，隨著人工智慧（AI）科技持續進步，「資安很可能成為AI下一個重大應用領域」。他也駁斥外界對輝達循環交易的疑慮，強調他在動用公司資金之前，需要先看到「十拿九穩的機會」。",
       "publishedAt": "2026-09-11T19:56:39.321Z",
       "discoveredAt": "2026-09-11T19:56:39.321Z",
@@ -103,7 +103,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -119,7 +119,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9749599?from=edn_maintab_index",
-      "title": "微軟算力大擴張 資料中心容量將增逾兩倍 台廠喜訊 | 產業熱點 | 產業 | 經濟日報",
+      "title": "微軟算力大擴張 資料中心容量將增逾兩倍 台廠喜訊 彭博資訊引述知情人報導，微軟（Microsoft）計劃在2032年前擴增全球資料中心容量兩倍以上，從目前的約12GW（百萬瓩）提高至逾38GW，涵蓋微軟自有及租賃設施，但不包括向CoreWeave等...",
       "description": "彭博資訊引述知情人報導，微軟（Microsoft）計劃在2032年前擴增全球資料中心容量兩倍以上，從目前的約12GW（百萬瓩）提高至逾38GW，涵蓋微軟自有及租賃設施，但不包括向CoreWeave等新型雲端業者租用的運算資源，以解決運算能力不足，客戶轉向甲骨文等競爭對手的問題。",
       "publishedAt": "2026-09-11T19:56:39.321Z",
       "discoveredAt": "2026-09-11T19:56:39.321Z",
@@ -133,7 +133,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -190,7 +190,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

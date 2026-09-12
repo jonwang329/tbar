@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-12T00:25:24.739Z",
+  "updatedAt": "2026-09-12T04:52:17.439Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-12T00:25:24.739Z",
+      "discoveredAt": "2026-09-12T04:52:17.439Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,98 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-12T00:25:24.739Z",
+      "discoveredAt": "2026-09-12T04:52:17.439Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_3a50a8d5584d04c60465",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9750016",
+      "title": "幾十年幾乎不賣股 艾里森突然要套現75億美元 甲骨文正為 AI 大燒錢 | 美股動態 | 國際 | 經濟日報",
+      "description": "甲骨文（Oracle）共同創辦人艾里森（Larry Ellison）罕見準備大舉賣股，最多套現約75億美元。甲骨文正為AI資料中心大舉燒錢，舉債籌資之餘還擴大裁員，艾里森本人也砸下鉅資支持兒子擴張媒體版圖。",
+      "publishedAt": "2026-09-12T04:52:08.456Z",
+      "discoveredAt": "2026-09-12T04:52:08.456Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_751224f31a63f7617529",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9750016?from=edn_maintab_index",
+      "title": "幾十年幾乎不賣股 艾里森突然要套現75億美元 甲骨文正為 AI 大燒錢 | 美股動態 | 國際 | 經濟日報",
+      "description": "甲骨文（Oracle）共同創辦人艾里森（Larry Ellison）罕見準備大舉賣股，最多套現約75億美元。甲骨文正為AI資料中心大舉燒錢，舉債籌資之餘還擴大裁員，艾里森本人也砸下鉅資支持兒子擴張媒體版圖。",
+      "publishedAt": "2026-09-12T04:52:08.456Z",
+      "discoveredAt": "2026-09-12T04:52:08.456Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_925fa211a8463b59fd09",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9749895?from=edn_maintab_index",
+      "title": "輝達擬砸100億美元挺 Anthropic IPO 1,000億美元籌資額將是史上最高 | 美股動態 | 國際 | 經濟日報",
+      "description": "Anthropic正籌備可能改寫史上紀錄的IPO，尋求募資最高1,000億美元、估值上看2兆美元，並洽談由輝達（NVIDIA）擔任基石投資人，輝達考慮砸下最高100億美元認購。這樁交易不只可能超越SpaceX成為史上最大IPO，也將讓全球最大AI晶片商和主要客戶Anthropic的關係更為緊密。",
+      "publishedAt": "2026-09-12T04:52:08.456Z",
+      "discoveredAt": "2026-09-12T04:52:08.456Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_523f3892bd81c092c2ff",
@@ -103,7 +193,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1695,96 +1785,6 @@
       "description": "半導體展後，隨市場確認資本支出保持強勁，訂單需求也堅挺不墜，加上代工價格調漲趨勢成型，激勵市場買盤重新聚焦晶圓代工股，帶動台積電（2330）7日股價上漲1.6%，聯電（2303）更是亮燈強鎖漲停，表現均相當強勢。",
       "publishedAt": "2026-09-07T09:22:57.021Z",
       "discoveredAt": "2026-09-07T09:22:57.021Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_11b441ab6cbb32df8ee6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9739652?from=edn_maintab_index",
-      "title": "宏達電營收／8月2.46億元回暖 月增37% XR暨AI眼鏡品牌廠宏達電（2498）7日公告8月營收2.46億元，月增37.7%、年減7.7%；累計今年前八月營收16.91億元，年減6.9%。 宏達電日前宣布旗下AI眼鏡VIVE EAGLE全...",
-      "description": "XR暨AI眼鏡品牌廠宏達電（2498）7日公告8月營收2.46億元，月增37.7%、年減7.7%；累計今年前八月營收16.91億元，年減6.9%。",
-      "publishedAt": "2026-09-07T08:57:31.208Z",
-      "discoveredAt": "2026-09-07T08:57:31.208Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dfebe7c655435754df9d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6092/9734970?from=edn_newest_index",
-      "title": "AI設備投資升溫 工具機公會引領對接半導體設備供應鏈 | 工具機 | 商情 | 經濟日報",
-      "description": "台灣工具機暨零組件工業同業公會（TMBA）連續第三年帶隊參展SEMICON TAIWAN，今年集結9家會員籌組TMBA SMART TEAM，包括大詠城、心得科技、元駿、協鴻、威士頓、普發、普森、鍵和及精機中心（PMC），以「晶片背後，精密製造相挺」為主軸，鎖定半導體設備所需的精密加工、關鍵零組件與設備製造需求，把台灣工具機既有的製造能力，帶往高附加價值的半導體設備市場推進。 根據國際半導體產業協會（SEMI）預估，2026年全球半導體製造設備銷售額將達1,659億美元、年增23.2%，AI帶動的先進製程、記憶體、測試及封裝投資仍是主要成長動能，AI半導體設備投資升溫，台灣工具機業往半導體設備供應鏈延伸。 工具機公會觀察，隨著先進製程與先進封裝快速發展，設備端對加工精度、材料處理、熱穩定、可靠度與製程控制的要求持續提高。從精密加工、關鍵零組件、運動控制、機械結構到設備模組，都是台灣工具機產業可直接對接的環節，也讓工具機業者逐步從傳統加工市場走向半導體設備供應鏈。 TMBA SMART TEAM於展期間透過技術發表、產業交流及MTB2B線上媒合，讓會員與半導體設備商、工程人員交",
-      "publishedAt": "2026-09-07T08:26:26.841Z",
-      "discoveredAt": "2026-09-07T08:26:26.841Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_72247470ea91c5bfb41b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9739567?from=edn_newest_index",
-      "title": "沙迦政府傳訊獎現正接受報名，進一步聚焦人工智能 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "阿聯酋沙迦2026年9月7日 /美通社/ -- 沙迦政府現正向全球徵集第 13 屆沙迦政府傳訊獎參賽作品，並擴大獎項涵蓋範圍，進一步凸顯人工智能在傳訊中的作用。 機構及個人可於 2026 年 9 月 22 日前提交參賽作品，角逐逾 35 個獎項；獎項涵蓋政府及國際組織、私營機構、個人成就、智能傳訊競賽、評審團獎項及合作夥伴獎項。 獎項涵蓋範圍擴大，是因應 2025 年國際參與度持續上升；當年共收到來自 37 個國家的逾 2,600 份參賽作品。逾 600 份作品通過初步篩選，當中 170 份進入最終評審階段。 過往參賽作品包括圖瓦盧因應氣候變化、致力成為全球首個數碼國家的願景，尼日利亞的青年創業計劃，以及連繫非洲及美國專家的人工智能平台。 由沙迦政府傳媒局推出的第 13 屆獎項，將更著重人工智能及可量化成果。今屆獎項首次增設「政府及機構傳訊最佳人工智能應用獎」。其他組別的參賽作品如能有效運用人工智能，亦可獲最多 10% 的額外分數。 評審團將評估人工智能在規劃、執行及成果評估中的應用，包括其是否改善內容、加深受眾理解或提升傳訊效率。其他改動包括新增「推廣阿聯酋身份認同的最佳宣傳活動獎」",
-      "publishedAt": "2026-09-07T08:06:04.576Z",
-      "discoveredAt": "2026-09-07T08:06:04.576Z",
       "topics": [
         "Taiwan business",
         "investment",

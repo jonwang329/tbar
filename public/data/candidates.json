@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-13T14:16:58.880Z",
+  "updatedAt": "2026-09-13T17:27:26.701Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T14:16:58.880Z",
+      "discoveredAt": "2026-09-13T17:27:26.701Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T14:16:58.880Z",
+      "discoveredAt": "2026-09-13T17:27:26.701Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -119,7 +119,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9752236?from=edn_maintab_index",
-      "title": "大摩：2028年 AI 半導體支出增幅將高於 CSP 資本支出增幅 看好二台廠 | 市場焦點 | 證券 | 經濟日報",
+      "title": "大摩：2028年 AI 半導體支出增幅將高於 CSP 資本支出增幅 看好二台廠 投資人對AI半導體成長動能有疑慮，摩根士丹利證券（大摩）釋出報告指出，雲端服務供應商（CSP）在 2028 年的資本支出預估成長約 12%，但 AI 半導體的支出增幅更高。台積電（2330）、英特...",
       "description": "投資人對AI半導體成長動能有疑慮，摩根士丹利證券（大摩）釋出報告指出，雲端服務供應商（CSP）在 2028 年的資本支出預估成長約 12%，但 AI 半導體的支出增幅更高。台積電（2330）、英特爾、輝達、超微等關鍵廠商將持續受惠，聯發科（2454）透過與輝達NVLink Fusion合作，也有望受惠。",
       "publishedAt": "2026-09-13T14:16:49.186Z",
       "discoveredAt": "2026-09-13T14:16:49.186Z",
@@ -133,7 +133,67 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f2c669ea6afe5da44e10",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9752001?from=edn_maintab_index",
+      "title": "AI 巨頭齊倡「放緩」投資 台股怎麼走？阮慕驊曝這2族群最敏感 Anthropic首席執行官阿莫戴（Dario Amodei）、特斯拉執行長馬斯克（Elon Musk）與Open AI 執行長奧特曼（Sam Altman）公開背書，籲放緩前沿模型開發節奏。奧...",
+      "description": "Anthropic首席執行官阿莫戴（Dario Amodei）、特斯拉執行長馬斯克（Elon Musk）與Open AI 執行長奧特曼（Sam Altman）公開背書，籲放緩前沿模型開發節奏。奧特曼同時向《財富》雜誌表示，OpenAI今年不會推進IPO計劃，消息引發科技界震撼，同時擔憂AI前景出現問題。",
+      "publishedAt": "2026-09-13T14:16:49.186Z",
+      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_497a82dbcabec1935315",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9752001?from=edn_hottest_index",
+      "title": "AI 巨頭齊倡「放緩」投資 台股怎麼走？阮慕驊曝這2族群最敏感 2026-09-13 18:49",
+      "description": "",
+      "publishedAt": "2026-09-13T14:16:49.186Z",
+      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1736,66 +1796,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b08acd35ef0266e71210",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9739735",
-      "title": "18:02 AI 沒泡沫！外資喊話 聯電鎖漲停、台積電喊漲準備飛",
-      "description": "半導體展後，隨市場確認資本支出保持強勁，訂單需求也堅挺不墜，加上代工價格調漲趨勢成型，激勵市場買盤重新聚焦晶圓代工股，帶動台積電（2330）7日股價上漲1.6%，聯電（2303）更是亮燈強鎖漲停，表現均相當強勢。",
-      "publishedAt": "2026-09-07T10:12:52.951Z",
-      "discoveredAt": "2026-09-07T10:12:52.951Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_519622974c0a33ef0e7f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9739735?from=edn_maintab_index",
-      "title": "AI 沒泡沫！外資喊話 聯電鎖漲停、台積電喊漲準備飛 半導體展後，隨市場確認資本支出保持強勁，訂單需求也堅挺不墜，加上代工價格調漲趨勢成型，激勵市場買盤重新聚焦晶圓代工股，帶動台積電（2330）7日股價上漲1.6%，聯電（2303）更是亮燈強鎖漲停，表...",
-      "description": "半導體展後，隨市場確認資本支出保持強勁，訂單需求也堅挺不墜，加上代工價格調漲趨勢成型，激勵市場買盤重新聚焦晶圓代工股，帶動台積電（2330）7日股價上漲1.6%，聯電（2303）更是亮燈強鎖漲停，表現均相當強勢。",
-      "publishedAt": "2026-09-07T09:40:00.202Z",
-      "discoveredAt": "2026-09-07T09:40:00.202Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

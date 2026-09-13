@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-13T21:45:42.759Z",
+  "updatedAt": "2026-09-13T23:38:40.222Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T21:45:42.759Z",
+      "discoveredAt": "2026-09-13T23:38:40.222Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,128 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T21:45:42.759Z",
+      "discoveredAt": "2026-09-13T23:38:40.222Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_7f2d9afc7a6dd141f912",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9752583",
+      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
+      "publishedAt": "2026-09-13T23:38:31.681Z",
+      "discoveredAt": "2026-09-13T23:38:31.681Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_928ac8541c65efc45830",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9752583?from=edn_maintab_index",
+      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
+      "publishedAt": "2026-09-13T23:38:31.681Z",
+      "discoveredAt": "2026-09-13T23:38:31.681Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2669924c7898d090629a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9752599?from=edn_newest_index",
+      "title": "美股期貨開盤跳水 那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股三大期貨指數今天（14日）開盤後下跌、國際油價勁揚，投資人一方面重新評估AI發展速度的疑慮，另一方面則消化高於預期的美國通膨數據，因數據進一步強化市場對聯準會（Fed）可能在周三升息的押注。",
+      "publishedAt": "2026-09-13T23:38:31.681Z",
+      "discoveredAt": "2026-09-13T23:38:31.681Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fab83c247d7f7d5211dc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9752583?from=edn_newest_index",
+      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
+      "publishedAt": "2026-09-13T23:38:31.681Z",
+      "discoveredAt": "2026-09-13T23:38:31.681Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_b15ec600c4fe1a46a9c9",
@@ -1665,126 +1785,6 @@
       "description": "台灣去年經濟成長率達8.76%，今年可望超過11%。隨著政府稅收增加，賴清德總統宣布，明年普發每人1萬元現金，讓全民共享AI紅利。在等待普發現金到來之前，其實今年政府已經推出健康幣、文化幣、運動幣等活動，讓民眾以點值兌換方式，搶先享受現金優惠。",
       "publishedAt": "2026-09-07T15:04:54.489Z",
       "discoveredAt": "2026-09-07T15:04:54.489Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_78a0400cbea6e540429a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9740121",
-      "title": "21:25 陸上半年 AI 融資市占近五成 投資界：不快做決策 機會就沒了",
-      "description": "IT桔子數據顯示，大陸2026年上半年AI領域融資總額已突破人民幣3,000億元，體量已超過去年全年。AI融資金額占市場約48.6%，接近一半。投資界人士稱，目前的投資決策過程正加速。「如果不迅速決策，機會就沒有了。」",
-      "publishedAt": "2026-09-07T13:39:22.781Z",
-      "discoveredAt": "2026-09-07T13:39:22.781Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_78ad63599591966560f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9740121?from=edn_maintab_index",
-      "title": "陸上半年 AI 融資市占近五成 投資界：不快做決策 機會就沒了 IT桔子數據顯示，大陸2026年上半年AI領域融資總額已突破人民幣3,000億元，體量已超過去年全年。AI融資金額占市場約48.6%，接近一半。投資界人士稱，目前的投資決策過程正加速。「如果不迅速決...",
-      "description": "IT桔子數據顯示，大陸2026年上半年AI領域融資總額已突破人民幣3,000億元，體量已超過去年全年。AI融資金額占市場約48.6%，接近一半。投資界人士稱，目前的投資決策過程正加速。「如果不迅速決策，機會就沒有了。」",
-      "publishedAt": "2026-09-07T13:39:22.781Z",
-      "discoveredAt": "2026-09-07T13:39:22.781Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6edfed28b35355f1aecb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9738818?from=edn_newest_index",
-      "title": "尋找 AI 交易替代品 投資者湧向中國大陸股票看漲押注 | 陸股透視 | 兩岸 | 經濟日報",
-      "description": "【彭博】-- 鑒於韓國和日本股市中的AI交易已然擁擠，尋求拓寬選擇面的投資者日益轉向了中國大陸股票衍生品。",
-      "publishedAt": "2026-09-07T13:39:22.781Z",
-      "discoveredAt": "2026-09-07T13:39:22.781Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f8ac82aa330b60428886",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9740121?from=edn_newest_index",
-      "title": "陸上半年AI融資市佔近五成 投資界：不快做決策 機會就沒了 | 大陸政經 | 兩岸 | 經濟日報",
-      "description": "IT桔子數據顯示，大陸2026年上半年AI領域融資總額已突破人民幣3,000億元，體量已超過去年全年。AI融資金額佔市場約48.6%，接近一半。投資界人士稱，目前的投資決策過程正加速。「如果不迅速決策，機會就沒有了。」",
-      "publishedAt": "2026-09-07T12:58:12.698Z",
-      "discoveredAt": "2026-09-07T12:58:12.698Z",
       "topics": [
         "Taiwan business",
         "investment",

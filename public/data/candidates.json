@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-13T10:01:54.391Z",
+  "updatedAt": "2026-09-13T14:16:58.880Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T10:01:54.391Z",
+      "discoveredAt": "2026-09-13T14:16:58.880Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T10:01:54.391Z",
+      "discoveredAt": "2026-09-13T14:16:58.880Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_b15ec600c4fe1a46a9c9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9752236",
+      "title": "大摩：2028年 AI 半導體支出增幅將高於 CSP 資本支出增幅 看好二台廠 | 市場焦點 | 證券 | 經濟日報",
+      "description": "投資人對AI半導體成長動能有疑慮，摩根士丹利證券（大摩）釋出報告指出，雲端服務供應商（CSP）在 2028 年的資本支出預估成長約 12%，但 AI 半導體的支出增幅更高。台積電（2330）、英特爾、輝達、超微等關鍵廠商將持續受惠，聯發科（2454）透過與輝達NVLink Fusion合作，也有望受惠。",
+      "publishedAt": "2026-09-13T14:16:49.186Z",
+      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_794dda504ddfebd5fd51",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9752236?from=edn_maintab_index",
+      "title": "大摩：2028年 AI 半導體支出增幅將高於 CSP 資本支出增幅 看好二台廠 | 市場焦點 | 證券 | 經濟日報",
+      "description": "投資人對AI半導體成長動能有疑慮，摩根士丹利證券（大摩）釋出報告指出，雲端服務供應商（CSP）在 2028 年的資本支出預估成長約 12%，但 AI 半導體的支出增幅更高。台積電（2330）、英特爾、輝達、超微等關鍵廠商將持續受惠，聯發科（2454）透過與輝達NVLink Fusion合作，也有望受惠。",
+      "publishedAt": "2026-09-13T14:16:49.186Z",
+      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_3a50a8d5584d04c60465",
@@ -1736,66 +1796,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0edd99b767394ccb1350",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9739780?from=edn_newest_index",
-      "title": "瑞銀要求應徵者展現AI能力 科技重塑銀行招募方式 | 國際焦點 | 國際 | 經濟日報",
-      "description": "瑞士銀行集團（UBS）將人工智慧（AI）能力視為招募條件，要求初階投資銀行職位的應徵者必須展現相關能力，此舉顯示科技正重...",
-      "publishedAt": "2026-09-07T09:40:00.202Z",
-      "discoveredAt": "2026-09-07T09:40:00.202Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_188a6f6a6526cfad30d7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9739735?from=edn_newest_index",
-      "title": "AI 沒泡沫！外資喊話 聯電鎖漲停、台積電喊漲準備飛 | 市場焦點 | 證券 | 經濟日報",
-      "description": "半導體展後，隨市場確認資本支出保持強勁，訂單需求也堅挺不墜，加上代工價格調漲趨勢成型，激勵市場買盤重新聚焦晶圓代工股，帶動台積電（2330）7日股價上漲1.6%，聯電（2303）更是亮燈強鎖漲停，表現均相當強勢。",
-      "publishedAt": "2026-09-07T09:22:57.021Z",
-      "discoveredAt": "2026-09-07T09:22:57.021Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-14T01:43:39.989Z",
+  "updatedAt": "2026-09-14T07:09:51.867Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-14T01:43:39.989Z",
+      "discoveredAt": "2026-09-14T07:09:51.867Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-14T01:43:39.989Z",
+      "discoveredAt": "2026-09-14T07:09:51.867Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_aefe059061b8349c0523",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9752840?from=edn_maintab_index",
+      "title": "孫正義豪賭 OpenAI 再加槓桿 軟銀借到118.7億美元 軟銀集團（SoftBank Group）已取得118.7億美元貸款，用來支應對美國AI公司OpenAI的投資，規模高於原先設定的目標100億美元。 彭博引述知情人士報導，軟銀上周敲定這筆兩年期貸款...",
+      "description": "",
+      "publishedAt": "2026-09-14T07:09:41.786Z",
+      "discoveredAt": "2026-09-14T07:09:41.786Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_1f3366aaf9a1672f7d74",
@@ -119,7 +149,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9752649?from=edn_maintab_index",
-      "title": "馬斯克稱有把握明年實現軌道 AI 資料中心 把輝達 AI 送上太空 | 國際焦點 | 國際 | 經濟日報",
+      "title": "馬斯克稱有把握明年實現軌道 AI 資料中心 把輝達 AI 送上太空 SpaceX執行長馬斯克在X平台回覆網友時說：「我非常有把握，SpaceX明年就會把輝達VR NLV72 AI電腦送上太空。」 I am highly confident that SpaceX ...",
       "description": "SpaceX執行長馬斯克在X平台回覆網友時說：「我非常有把握，SpaceX明年就會把輝達VR NLV72 AI電腦送上太空。」",
       "publishedAt": "2026-09-14T01:43:29.864Z",
       "discoveredAt": "2026-09-14T01:43:29.864Z",
@@ -133,7 +163,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -479,7 +509,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9752001?from=edn_hottest_index",
-      "title": "AI 巨頭齊倡「放緩」投資 台股怎麼走？阮慕驊曝這2族群最敏感 2026-09-13 18:49",
+      "title": "AI 巨頭齊倡「放緩」投資 台股怎麼走？阮慕驊曝這2族群最敏感 17617",
       "description": "",
       "publishedAt": "2026-09-13T14:16:49.186Z",
       "discoveredAt": "2026-09-13T14:16:49.186Z",
@@ -493,7 +523,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1766,36 +1796,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c02b0723aca3944d173f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9740330?from=edn_maintab_index",
-      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 輝達執行長黃仁勳6日透過X平台發文指出，OpenAI最強模型GPT-6版本Astra問世，宣告通用人工智慧（AGI）時代來臨。因應AGI世代強大算力需求，後續將有40萬顆GPU上線，為AI發展提供更...",
-      "description": "輝達執行長黃仁勳6日透過X平台發文指出，OpenAI最強模型GPT-6版本Astra問世，宣告通用人工智慧（AGI）時代來臨。因應AGI世代強大算力需求，後續將有40萬顆GPU上線，為AI發展提供更多運算資源。",
-      "publishedAt": "2026-09-07T20:07:34.839Z",
-      "discoveredAt": "2026-09-07T20:07:34.839Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-13T23:38:40.222Z",
+  "updatedAt": "2026-09-14T01:43:39.989Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T23:38:40.222Z",
+      "discoveredAt": "2026-09-14T01:43:39.989Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,188 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-13T23:38:40.222Z",
+      "discoveredAt": "2026-09-14T01:43:39.989Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_1f3366aaf9a1672f7d74",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9752649",
+      "title": "馬斯克稱有把握明年實現軌道 AI 資料中心 把輝達 AI 送上太空 | 國際焦點 | 國際 | 經濟日報",
+      "description": "SpaceX執行長馬斯克在X平台回覆網友時說：「我非常有把握，SpaceX明年就會把輝達VR NLV72 AI電腦送上太空。」",
+      "publishedAt": "2026-09-14T01:43:29.864Z",
+      "discoveredAt": "2026-09-14T01:43:29.864Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6208cf362533a40e0b02",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9752649?from=edn_maintab_index",
+      "title": "馬斯克稱有把握明年實現軌道 AI 資料中心 把輝達 AI 送上太空 | 國際焦點 | 國際 | 經濟日報",
+      "description": "SpaceX執行長馬斯克在X平台回覆網友時說：「我非常有把握，SpaceX明年就會把輝達VR NLV72 AI電腦送上太空。」",
+      "publishedAt": "2026-09-14T01:43:29.864Z",
+      "discoveredAt": "2026-09-14T01:43:29.864Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dc96404f893906514ac5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9752599?from=edn_maintab_index",
+      "title": "美股期貨開盤跳水 那指急跌逾1% AI 巨頭齊喊放慢 + Fed 升息機率高漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股三大期貨指數今天（14日）開盤後下跌、國際油價勁揚，投資人一方面重新評估AI發展速度的疑慮，另一方面則消化高於預期的美國通膨數據，因數據進一步強化市場對聯準會（Fed）可能在周三升息的押注。",
+      "publishedAt": "2026-09-14T01:43:29.864Z",
+      "discoveredAt": "2026-09-14T01:43:29.864Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8c47e738aa83b9fd383c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9752648?from=edn_maintab_index",
+      "title": "甩 AI 只會燒錢疑慮！Anthropic 傳告知投資人邁向連續兩季獲利 Anthropic已告知投資人本季將會獲利，此時正值該公司準備進行備受矚目的首次公開發行股票（IPO），並試圖舒緩投資人對頂尖AI公司大舉燒錢的疑慮。 英國金融時報引述多名知情人士消息報導，Ant...",
+      "description": "",
+      "publishedAt": "2026-09-14T01:43:29.864Z",
+      "discoveredAt": "2026-09-14T01:43:29.864Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_19f42f11a27ce62a4a34",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9752660?from=edn_maintab_index",
+      "title": "北台灣有條件開放！大同、華碩擬建置桃園 AI 算力中心 台電有條件開放桃園以北地區增設契約容量達5MW以上資料中心，桃園及基隆電廠周邊興建AI資料中心（AIDC）數量大增，據了解，大同及華碩等集團都有在桃園建置資料中心計畫，台電則強調AI DC需建表後微...",
+      "description": "",
+      "publishedAt": "2026-09-14T01:43:29.864Z",
+      "discoveredAt": "2026-09-14T01:43:29.864Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d0d06016664a67436bef",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9752756?from=edn_newest_index",
+      "title": "AI、內需兩大投資主軸具潛力 這檔基金布局亞股紅利 2026-09-14 09:36",
+      "description": "",
+      "publishedAt": "2026-09-14T01:43:29.864Z",
+      "discoveredAt": "2026-09-14T01:43:29.864Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_7f2d9afc7a6dd141f912",
@@ -119,7 +299,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9752583?from=edn_maintab_index",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "title": "本周開盤前 五件國際事不可不知 美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞： 阿莫戴喊A...",
       "description": "美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
       "publishedAt": "2026-09-13T23:38:31.681Z",
       "discoveredAt": "2026-09-13T23:38:31.681Z",
@@ -133,7 +313,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -751,7 +931,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1616,186 +1796,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b5b9dc85da72f3be5dc2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9740307?from=edn_newest_index",
-      "title": "1分鐘看世界／馬來西亞主權 AI 擬用華為晶片 將寫全球政府首例 | 國際焦點 | 國際 | 經濟日報",
-      "description": "消息人士透露，馬國主權AI評估使用華為AI晶片「昇騰910C」。川普當局去年警告，使用這款晶片可能違反美國出口管制，以防堵中國主導AI資料中心。若馬國用華為晶片，將寫全球政府首例，也給予中國AI科技一大勝利。",
-      "publishedAt": "2026-09-07T18:43:34.925Z",
-      "discoveredAt": "2026-09-07T18:43:34.925Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_95b1c90b60e1a5414ac8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9740263?from=edn_newest_index",
-      "title": "賴清德總統：產學研合作鏈結全球 台灣要看得遠走得快 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "賴清德總統昨（7）日表示，面對AI浪潮、淨零轉型及全球供應鏈重組等挑戰，台灣要看得更遠、走得更快。政府積極推動五大信賴產業及AI新十大建設，期盼工研院持續布局前瞻技術，促成產學研及新創合作，讓產業更強、國家更有韌性，台灣成為世界不可或缺、值得信賴的力量。",
-      "publishedAt": "2026-09-07T17:36:18.177Z",
-      "discoveredAt": "2026-09-07T17:36:18.177Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_17027eefccdef237f894",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9740178?from=edn_newest_index",
-      "title": "AI＋電力基建 投資熱點 | 基金天地 | 理財 | 經濟日報",
-      "description": "標普道瓊指數公司於美股4日收盤後公布季度調整，固體氧化物燃料電池（SOFC）業者Bloom Energy獲納入標普500指數，成分股調整將於21日開盤前生效。隨AI資料中心快速擴建推升用電需求，市場對發電、輸配電及電力設備關注度升高，「AI＋電力基建」可望持續成為中長期投資主軸。",
-      "publishedAt": "2026-09-07T17:19:15.570Z",
-      "discoveredAt": "2026-09-07T17:19:15.570Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_66f6112ebbb04630489b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9739204?from=edn_VIP_index_side",
-      "title": "亞洲與歐美對 AI 接受度截然不同 答案或許在「原子小金剛」身上",
-      "description": "如何才能化解美國民眾對資料中心的反感？這是目前投資人面臨的關鍵問題。巴克萊銀行在最新報告中警告，「今天的政治格局將決定明天人工智慧（AI）的發展」。換句話說，民眾對資料中心的敵意，可能削弱科技的榮景。",
-      "publishedAt": "2026-09-07T16:28:40.648Z",
-      "discoveredAt": "2026-09-07T16:28:40.648Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 30,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6cb711bd93e7c71956a2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9740399?from=edn_newest_index",
-      "title": "AI 邁向新里程碑？OpenAI 最強模型 Astra 問世 預示 AGI 時代來臨 | 科技產業 | 產業 | 經濟日報",
-      "description": "史上最強模型Astra問世，黃仁勳直言「通用人工智慧（AGI）已經到來」，並透露接下來將會有40萬顆GPU上線，AI基礎建設規模仍持續擴大。OpenAI總裁布羅克曼（Greg Brockman）指出，AI已跨越「電腦使用」的應用門檻，未來AI不再需要藉助API，就能夠直接操作電腦。",
-      "publishedAt": "2026-09-07T15:54:22.209Z",
-      "discoveredAt": "2026-09-07T15:54:22.209Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1f3da7a220e465bf50ac",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9740243?from=edn_newest_index",
-      "title": "普發現金之前…政府推的健康幣、文化幣、運動幣如何領？相關資訊一次看 2026-09-07 23:02",
-      "description": "台灣去年經濟成長率達8.76%，今年可望超過11%。隨著政府稅收增加，賴清德總統宣布，明年普發每人1萬元現金，讓全民共享AI紅利。在等待普發現金到來之前，其實今年政府已經推出健康幣、文化幣、運動幣等活動，讓民眾以點值兌換方式，搶先享受現金優惠。",
-      "publishedAt": "2026-09-07T15:04:54.489Z",
-      "discoveredAt": "2026-09-07T15:04:54.489Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-14T19:19:55.947Z",
+  "updatedAt": "2026-09-14T22:36:53.045Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-14T19:19:55.947Z",
+      "discoveredAt": "2026-09-14T22:36:53.045Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-14T19:19:55.947Z",
+      "discoveredAt": "2026-09-14T22:36:53.045Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11162/9754443?from=edn_maintab_index",
-      "title": "村田：大膽評估擴產 MLCC 產能有望提高逾兩成 | 科技產業 | 產業 | 經濟日報",
+      "title": "村田：大膽評估擴產 MLCC 產能有望提高逾兩成 日媒報導，全球積層陶瓷電容（MLCC）龍頭村田製作所準備擴大AI產能布局。副社長南出雅範表示，著眼未來三至五年，研議包含新廠房在內的產能擴充計畫，評估幅度可能比過去更加「大膽」。 此前，被動元件龍...",
       "description": "日媒報導，全球積層陶瓷電容（MLCC）龍頭村田製作所準備擴大AI產能布局。副社長南出雅範表示，著眼未來三至五年，研議包含新廠房在內的產能擴充計畫，評估幅度可能比過去更加「大膽」。",
       "publishedAt": "2026-09-14T19:19:43.848Z",
       "discoveredAt": "2026-09-14T19:19:43.848Z",
@@ -103,7 +103,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -130,7 +130,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -787,7 +787,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

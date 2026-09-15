@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-15T00:53:59.335Z",
+  "updatedAt": "2026-09-15T05:45:52.942Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T00:53:59.335Z",
+      "discoveredAt": "2026-09-15T05:45:52.942Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T00:53:59.335Z",
+      "discoveredAt": "2026-09-15T05:45:52.942Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9754776?from=edn_maintab_index",
-      "title": "美股收盤／AI 踩煞車重擊晶片股 費半大跌5.9%、輝達跌3.4% | 美股動態 | 國際 | 經濟日報",
+      "title": "美股收盤／AI 踩煞車重擊晶片股 費半大跌5.9%、輝達跌3.4% AI產業三大領袖罕見同聲呼籲放慢最先進模型開發，引發市場擔心AI投資和資料中心需求受到影響，晶片股周一首當其衝，費城半導體指數重挫5.9%。國際油價持續站在每桶100美元以上、美國10年期公債殖利率...",
       "description": "AI產業三大領袖罕見同聲呼籲放慢最先進模型開發，引發市場擔心AI投資和資料中心需求受到影響，晶片股周一首當其衝，費城半導體指數重挫5.9%。國際油價持續站在每桶100美元以上、美國10年期公債殖利率盤中突破5%，升息疑慮升高，美股三大指數全面收黑。",
       "publishedAt": "2026-09-15T00:53:49.192Z",
       "discoveredAt": "2026-09-15T00:53:49.192Z",
@@ -103,7 +103,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -143,7 +143,7 @@
     },
     {
       "id": "cand_8eab3659a1c19af574be",
-      "sourceLastModified": "2026-09-14T21:47:52.205Z",
+      "sourceLastModified": "2026-09-15T05:41:43.101Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -160,7 +160,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -217,7 +217,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1708,17 +1708,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_392bc6d18101c4a53fb8",
+      "id": "cand_47e4ad8c58f6da56155e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9741341?from=edn_newest_index",
-      "title": "產業趨勢向上、能見度逾三年 法人喊買這檔廠務工程股 | 櫃買動態 | 證券 | 經濟日報",
-      "description": "聖暉*（5536）隨人工智慧（AI）趨勢帶動電子業擴廠潮，法人觀察，艾司摩爾、應用材料等前段設備商均提到無塵室空間是目前半導體擴產主要瓶頸，加上建廠能見度至少達三年，廠務族群評價明顯低估，給予「買進」評等。",
-      "publishedAt": "2026-09-08T05:28:30.317Z",
-      "discoveredAt": "2026-09-08T05:28:30.317Z",
+      "url": "https://money.udn.com/money/story/5607/9755582",
+      "title": "不跌了？台達電營收公布後的跌勢反轉 逆勢收復5日線 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台達電（2308）8月營收645.86億元，月減3.7%，年增35%，為歷年最強8月，但在營收公布後股價竟然再向下探底，短短3個交易日跌幅約13%，15日則是反轉止跌，股價開低走高，收復5日線，盤中漲幅逾4%，表現較大盤及多數AI股強勢。",
+      "publishedAt": "2026-09-15T05:45:44.207Z",
+      "discoveredAt": "2026-09-15T05:45:44.207Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1733,22 +1733,22 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_1deeeb72e578c62716ce",
+      "id": "cand_416dc936bea5af0bdef8",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9741301?from=edn_newest_index",
-      "title": "AI 電力需求大爆發 資料中心模組化、重電族群迎商機 | 產業熱點 | 產業 | 經濟日報",
-      "description": "生成式AI帶動全球資料中心耗電量快速攀升，國際能源署（IEA）預估，2030年全球資料中心耗電量將突破1,000TWh，年複合成長率（CAGR）達15%；台灣資料中心電力容量亦可望由2025年的303MW，倍增至2030年的900MW。",
-      "publishedAt": "2026-09-08T05:11:36.160Z",
-      "discoveredAt": "2026-09-08T05:11:36.160Z",
+      "url": "https://money.udn.com/money/story/5607/9755582?from=edn_maintab_index",
+      "title": "不跌了？台達電營收公布後的跌勢反轉 逆勢收復5日線 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台達電（2308）8月營收645.86億元，月減3.7%，年增35%，為歷年最強8月，但在營收公布後股價竟然再向下探底，短短3個交易日跌幅約13%，15日則是反轉止跌，股價開低走高，收復5日線，盤中漲幅逾4%，表現較大盤及多數AI股強勢。",
+      "publishedAt": "2026-09-15T05:45:44.207Z",
+      "discoveredAt": "2026-09-15T05:45:44.207Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1763,22 +1763,22 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_5bbf15847d922e1ccbbd",
+      "id": "cand_126daaf90a9199d51fc2",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9741011?from=edn_newest_index",
-      "title": "雙路進擊 Arm 搶占雲端資料中心商機 | 產業熱點 | 產業 | 經濟日報",
-      "description": "安謀（Arm）已經推出自家AGI CPU晶片，各種採用Arm基礎架構平台的裝置滲透率也持續擴增，該公司提到，根據IDC的資料，以Arm為基礎的機櫃級伺服器已超越x86，成為加速運算的主流平台。透過全新的Neoverse 運算子系統（CSS）N4，客戶可打造針對最高吞吐量效率進行最佳化的晶片；而Arm AGI CPU則提供量產就緒、專為需要即時回應的代理式AI所設計的晶片。",
-      "publishedAt": "2026-09-08T03:29:24.144Z",
-      "discoveredAt": "2026-09-08T03:29:24.144Z",
+      "url": "https://money.udn.com/money/story/5618/9755308?from=edn_maintab_index",
+      "title": "費半大跌但資安股逆勢大漲！這檔 ETF 飆逾6% | 基金天地 | 理財 | 經濟日報",
+      "description": "AI產業三大領袖罕見同聲呼籲放慢最先進模型開發，晶片股周一首當其衝，費城半導體指數重挫5.9%。不過資安類股逆勢大漲，Qualys、Netskope大漲15%，Palo Alto Networks、CrowdStrike上漲13%、Cloudflare上漲逾7%。國泰網路資安ETF（00875）因含有這些成分股，15日股價盤中飆逾6%，一度衝上58元。",
+      "publishedAt": "2026-09-15T05:45:44.207Z",
+      "discoveredAt": "2026-09-15T05:45:44.207Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1793,7 +1793,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

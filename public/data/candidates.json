@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-15T05:45:52.942Z",
+  "updatedAt": "2026-09-15T10:29:39.217Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T05:45:52.942Z",
+      "discoveredAt": "2026-09-15T10:29:39.217Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T05:45:52.942Z",
+      "discoveredAt": "2026-09-15T10:29:39.217Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -160,7 +160,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1528,17 +1528,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_46cb2276dee067ecdc09",
+      "id": "cand_81be575ca99052f41db7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9741992?from=edn_newest_index",
-      "title": "慧友宣布加入「Arm 實體 AI 全面設計」生態系 成為首批合作夥伴 | 產業熱點 | 產業 | 經濟日報",
-      "description": "慧友（5484）8日宣布加入「Arm實體AI全面設計（Arm Total Design for Physical AI）」生態系，成為全球首批合作夥伴之一。",
-      "publishedAt": "2026-09-08T09:24:14.141Z",
-      "discoveredAt": "2026-09-08T09:24:14.141Z",
+      "url": "https://money.udn.com/money/story/123398/9755443",
+      "title": "彭博：DRAM缺貨恐拖到2030年 HBM4還會漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "全球DRAM供應吃緊可能比市場原先預期拖得更久。彭博行業研究（BI）分析師認為，只要大型雲端業者持續加碼人工智慧（AI），DRAM供需緊俏局面預料至少延續至2027年，甚至可能拖到2029至2030年；其中HBM4明年價格還可能進一步上漲，三星電子、SK海力士和美光可望持續受惠。",
+      "publishedAt": "2026-09-15T10:29:26.943Z",
+      "discoveredAt": "2026-09-15T10:29:26.943Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1553,157 +1553,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2a4b40f9efe1ba0b0f76",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9741943?from=edn_newest_index",
-      "title": "嘉利國際首批 Vera Rubin 平台產品出貨 ASIC伺服器持續放量 雙動能挹注第四季營運可望創新高 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "香港2026年9月8日 /美通社/ -- 全球領先的伺服器結構工程解決方案供應商 – 嘉利國際控股有限公司（「嘉利國際」或「公司」，連同其附屬公司統稱「集團」；股份代號：1050.HK）宣布，首批 NVIDIA Vera Rubin 平台相關產品已陸續出貨，相關系列產品亦已正式進入量產階段。隨著新一代 AI 平台產品逐步放量，加上 ASIC 伺服器相關產品持續擴產及交付，雙重成長動能可望進一步挹注集團營運，預期第四季度業績有望創下新高。 嘉利國際持續深化 AI 伺服器及資料中心基礎設施布局，並支持客戶推進基於NVIDIA MGX 架構及 Vera Rubin 平台的相關專案。目前集團已推出多項支援 Vera Rubin NVL72 及 Rubin NVL8 等新一代平台的產品，涵蓋不同規格的伺服器機殼及機櫃相關產品，產品布局由伺服器層級進一步延伸至機櫃級應用。 另一方面，ASIC 伺服器相關業務持續成長。根據集團日前公布的季度業務更新，受惠於 ASIC 等 AI 伺服器產品出貨增加，第一季度伺服器機殼－通用及 AI 分部收入較去年同期成長約 63%。隨著現有世代 ASIC 產品逐步進入",
-      "publishedAt": "2026-09-08T09:05:34.756Z",
-      "discoveredAt": "2026-09-08T09:05:34.756Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4b4ddcbb492452d46c40",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9741753?from=edn_maintab_index",
-      "title": "緯穎營收／8月1,443億元、年增50.4% 再創歷史新高 AI伺服器大廠緯穎（6669）8日公告8月營收1,443.12億元，月增22.6%，年增50.4%，再創單月歷史新高紀錄；前八月累計營收8,166.58億元，較去年同期成長42.8%。外資指出，預計...",
-      "description": "AI伺服器大廠緯穎（6669）8日公告8月營收1,443.12億元，月增22.6%，年增50.4%，再創單月歷史新高紀錄；前八月累計營收8,166.58億元，較去年同期成長42.8%。外資指出，預計第3季營收季增將達22%，第4季更將加速成長，動能包含新款 AI 伺服器放量以及產品線從 ASIC 擴展至 GPU AI 伺服器。",
-      "publishedAt": "2026-09-08T08:14:23.240Z",
-      "discoveredAt": "2026-09-08T08:14:23.240Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3a34040e1dd048ad2d0d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9741753?from=edn_newest_index",
-      "title": "緯穎營收／8月1,443億元、年增50.4% 再創歷史新高 | 集中市場 | 證券 | 經濟日報",
-      "description": "AI伺服器大廠緯穎（6669）8日公告8月營收1,443.12億元，月增22.6%，年增50.4%，再創單月歷史新高紀錄；前八月累計營收8,166.58億元，較去年同期成長42.8%。外資指出，預計第3季營收季增將達22%，第4季更將加速成長，動能包含新款 AI 伺服器放量以及產品線從 ASIC 擴展至 GPU AI 伺服器。",
-      "publishedAt": "2026-09-08T07:55:46.748Z",
-      "discoveredAt": "2026-09-08T07:55:46.748Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_20bdae954c29f61b06e2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9740330?from=edn_hottest_index",
-      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 5899",
-      "description": "輝達執行長黃仁勳6日透過X平台發文指出，OpenAI最強模型GPT-6版本Astra問世，宣告通用人工智慧（AGI）時代來臨。因應AGI世代強大算力需求，後續將有40萬顆GPU上線，為AI發展提供更多運算資源。",
-      "publishedAt": "2026-09-08T07:55:46.748Z",
-      "discoveredAt": "2026-09-08T07:55:46.748Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c651dea731cd55c75b14",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9741569?from=edn_newest_index",
-      "title": "AI 改寫中東未來經濟版圖貿協 為台灣開啟合作新契機 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI改寫中東未來經濟版圖，貿協為台灣開啟合作新契機，外貿協會董事長黃志芳率團續訪卡達、阿聯酋推動AI產業策略合作，繼日前率COMPUTEX團隊訪問沙烏地阿拉伯後，黃志芳於九月上旬續訪卡達及阿拉伯聯合大公國杜拜、阿布達比，拜會當地主權基金、國家級人工智慧公司及大型電信業者，就主權 AI及AI基礎建設相關合作等議題深入交流，進一步掌握海灣國家快速成形的 AI 國家戰略及台灣產業合作機會。",
-      "publishedAt": "2026-09-08T06:46:31.806Z",
-      "discoveredAt": "2026-09-08T06:46:31.806Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1745,7 +1595,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9755582?from=edn_maintab_index",
-      "title": "不跌了？台達電營收公布後的跌勢反轉 逆勢收復5日線 | 市場焦點 | 證券 | 經濟日報",
+      "title": "不跌了？台達電營收公布後的跌勢反轉 逆勢收復5日線 台達電（2308）8月營收645.86億元，月減3.7%，年增35%，為歷年最強8月，但在營收公布後股價竟然再向下探底，短短3個交易日跌幅約13%，15日則是反轉止跌，股價開低走高，收復5日線，盤中...",
       "description": "台達電（2308）8月營收645.86億元，月減3.7%，年增35%，為歷年最強8月，但在營收公布後股價竟然再向下探底，短短3個交易日跌幅約13%，15日則是反轉止跌，股價開低走高，收復5日線，盤中漲幅逾4%，表現較大盤及多數AI股強勢。",
       "publishedAt": "2026-09-15T05:45:44.207Z",
       "discoveredAt": "2026-09-15T05:45:44.207Z",
@@ -1759,7 +1609,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1795,6 +1645,142 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_420ee4b592bef5a95dea",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+      "description": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.",
+      "publishedAt": "Mon, 14 Sep 2026 13:00:00 GMT",
+      "discoveredAt": "2026-09-14T14:06:48.080Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d485926ae9c8c4e1c379",
+      "sourceLastModified": "2026-09-14",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/12616",
+      "title": "Meeting with international AI companies on information integrity alignment assembly｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with international AI companies on information integrity alignment assembly",
+      "publishedAt": "2026-09-13",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ce184c9f7fd71991693c",
+      "sourceLastModified": "2026-09-11T02:45:01.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "title": "Introducing Claude Corps",
+      "description": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America.",
+      "publishedAt": "2026-09-11T02:45:01.000Z",
+      "discoveredAt": "2026-08-28T00:57:10.239Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_eb14a52ecfaf9b3ac6d3",
+      "sourceLastModified": "2026-09-10T20:10:33.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
+      "title": "Higher education advisory board and AI Fluency courses",
+      "description": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions.",
+      "publishedAt": "2026-09-10T20:10:33.000Z",
+      "discoveredAt": "2026-09-10T22:30:47.916Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b4f13589721b23a48410",
+      "sourceLastModified": "2026-09-10T20:08:57.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
+      "title": "National Security and Public Sector Advisory Council",
+      "description": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security.",
+      "publishedAt": "2026-09-10T20:08:57.000Z",
+      "discoveredAt": "2026-09-10T22:30:47.916Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

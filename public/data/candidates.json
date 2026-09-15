@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-15T19:04:15.190Z",
+  "updatedAt": "2026-09-15T22:10:12.654Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T19:04:15.190Z",
+      "discoveredAt": "2026-09-15T22:10:12.654Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T19:04:15.190Z",
+      "discoveredAt": "2026-09-15T22:10:12.654Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -97,7 +97,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -113,7 +113,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9756935?from=edn_maintab_index",
-      "title": "微軟畫紅線立下「AI 憲法」影響全球基礎建設投資 牽動廣達、鴻海 | 產業熱點 | 產業 | 經濟日報",
+      "title": "微軟畫紅線立下「AI 憲法」影響全球基礎建設投資 牽動廣達、鴻海 繼Anthropic、OpenAI、SpaceX等大咖喊出AI發展過快，應放慢精進AI模型效能的速度之後，微軟也畫「AI紅線」，喊出「人本AI」（Humanist AI）概念，立下自家「AI憲法」。...",
       "description": "繼Anthropic、OpenAI、SpaceX等大咖喊出AI發展過快，應放慢精進AI模型效能的速度之後，微軟也畫「AI紅線」，喊出「人本AI」（Humanist AI）概念，立下自家「AI憲法」。",
       "publishedAt": "2026-09-15T19:04:03.461Z",
       "discoveredAt": "2026-09-15T19:04:03.461Z",
@@ -127,7 +127,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -184,7 +184,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1405,6 +1405,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_ab4d3794ac168242d597",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9756833?from=edn_maintab_index",
+      "title": "國發會：今年 GDP 成長衝12% 大廠訂單能見度至少看到明年 國發會主委葉俊顯昨（15）日表示，從台積電及國內伺服器大廠接單來看，訂單能見度至少看到明年，今年經濟成長目標「應該早已達成」，若出口持續暢旺，今年經濟成長率有機會逐步向12%靠近。 針對AI巨頭釋...",
+      "description": "國發會主委葉俊顯昨（15）日表示，從台積電及國內伺服器大廠接單來看，訂單能見度至少看到明年，今年經濟成長目標「應該早已達成」，若出口持續暢旺，今年經濟成長率有機會逐步向12%靠近。",
+      "publishedAt": "2026-09-15T19:04:03.461Z",
+      "discoveredAt": "2026-09-15T19:04:03.461Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_aebc709c1f226f55c4fd",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1423,7 +1453,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1453,7 +1483,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1582,6 +1612,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_6841ccd456ad6623b799",
+      "sourceLastModified": "2026-09-15T21:47:07.219Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "publishedAt": "2026-09-11T13:30:45.191Z",
+      "discoveredAt": "2026-09-10T14:04:25.575Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_420ee4b592bef5a95dea",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1610,7 +1667,7 @@
     },
     {
       "id": "cand_d485926ae9c8c4e1c379",
-      "sourceLastModified": "2026-09-14",
+      "sourceLastModified": "2026-09-15",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1631,6 +1688,33 @@
       "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9d2900dfeefde0d428f5",
+      "sourceLastModified": "2026-09-15T21:47:05.251Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "publishedAt": "2026-09-11T13:30:41.744Z",
+      "discoveredAt": "2026-09-09T22:52:01.880Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
@@ -1675,87 +1759,6 @@
       "description": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions.",
       "publishedAt": "2026-09-10T20:10:33.000Z",
       "discoveredAt": "2026-09-10T22:30:47.916Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b4f13589721b23a48410",
-      "sourceLastModified": "2026-09-10T20:08:57.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
-      "title": "National Security and Public Sector Advisory Council",
-      "description": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security.",
-      "publishedAt": "2026-09-10T20:08:57.000Z",
-      "discoveredAt": "2026-09-10T22:30:47.916Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e14b643a4bc6303f396d",
-      "sourceLastModified": "2026-09-10T18:59:30.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
-      "title": "Updates to Consumer Terms and Privacy Policy",
-      "description": "Claude Free, Pro, and Max users can now opt in to having conversations used to improve models, with a five-year retention period for participants.",
-      "publishedAt": "2026-09-10T18:59:30.000Z",
-      "discoveredAt": "2026-09-10T20:03:36.617Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aec7a34eccb95be4de29",
-      "sourceLastModified": "2026-09-10T18:29:02.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
-      "title": "Iceland launches a national AI education pilot",
-      "description": "Anthropic and Iceland announce one of the world&#x27;s first national AI education pilots.",
-      "publishedAt": "2026-09-10T18:29:02.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
       "topics": [
         "AI",
         "models",

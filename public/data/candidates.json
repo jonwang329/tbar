@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-15T10:29:39.217Z",
+  "updatedAt": "2026-09-15T15:15:12.323Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T10:29:39.217Z",
+      "discoveredAt": "2026-09-15T15:15:12.323Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-15T10:29:39.217Z",
+      "discoveredAt": "2026-09-15T15:15:12.323Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -217,7 +217,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1498,17 +1498,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_056c74bdf4a864bad5da",
+      "id": "cand_4a93042a99fc28aa45a8",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9742340?from=edn_newest_index",
-      "title": "台積電攜ASML開發12吋光罩 專家：輝達GPU尺寸驅動 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台積電今天宣布，與ASML合作，共同推動轉移升級至12吋光罩，目標於2031年之前建立12吋光罩試產線。半導體產業專家表...",
-      "publishedAt": "2026-09-08T12:14:10.309Z",
-      "discoveredAt": "2026-09-08T12:14:10.309Z",
+      "url": "https://money.udn.com/money/story/124480/9752820?from=edn_maintab_index",
+      "title": "AI 為何背叛1／AI 代理買了商務艙機票害你無法報帳 這3件事情先認清 | 深度報導 | 專題 | 經濟日報",
+      "description": "「AI本身沒有道德邊界，它不一定會有『我一定要合規』的直覺，如果真的要使用AI Agent，就必須把規則講清楚。」OpenAI、Anthropic和Meta等全球知名AI公司，近期陸續發生AI Agent透過網路駭入其他公司的「越界」事件，備受矚目。",
+      "publishedAt": "2026-09-15T15:15:00.465Z",
+      "discoveredAt": "2026-09-15T15:15:00.465Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1523,7 +1523,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1666,7 +1666,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

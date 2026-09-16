@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-16T05:03:21.166Z",
+  "updatedAt": "2026-09-16T09:52:29.965Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T05:03:21.166Z",
+      "discoveredAt": "2026-09-16T09:52:29.965Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T05:03:21.166Z",
+      "discoveredAt": "2026-09-16T09:52:29.965Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -127,7 +127,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1255,17 +1255,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_625943ff0647228602ee",
+      "id": "cand_e8de8ad8aeaf0cfb0478",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9743719?from=edn_newest_index",
-      "title": "AI 產業鏈「黃金坑」浮現！安聯00412A 押寶亞洲半導體 | 基金天地 | 理財 | 經濟日報",
-      "description": "全球AI投資熱潮持續推進，儘管近期半導體及科技硬體類股因市場獲利了結及殖利率走勢而出現波動，但產業長期成長趨勢並未改變。法人表示，目前市場過度聚焦短期成長放緩疑慮，反而忽略AI基礎建設需求持續擴張的事實。尤其高頻寬記憶體（HBM）、先進封裝及高速傳輸等關鍵技術，已逐漸成為AI發展的重要瓶頸，也為亞洲半導體供應鏈帶來長期成長契機。",
-      "publishedAt": "2026-09-09T05:19:47.126Z",
-      "discoveredAt": "2026-09-09T05:19:47.126Z",
+      "url": "https://money.udn.com/money/story/5607/9758718",
+      "title": "量價榜揭資金轉向！緯穎爆量觸跌停、成交值衝第三 記憶體獲外資回補 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股16日終止連4日跌勢，集中市場指數反彈337.41點、收45,848.9點，成交值增至6,438億元；不過三大法人仍賣超213.81億元。從今日成交量與成交值前10名觀察，盤面資金明顯轉向記憶體與半導體，台積電（2330）再上演一日填息、穩住權值股軍心，記憶體族群則在美股AI族群回穩及供需緊俏預期帶動下強勢走高；反觀緯穎（6669）午盤突遭賣壓摜至跌停，成為量價榜中最醒目的弱勢焦點。",
+      "publishedAt": "2026-09-16T09:52:10.409Z",
+      "discoveredAt": "2026-09-16T09:52:10.409Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1280,7 +1280,67 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6a54410178b74f16144a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9758718?from=edn_maintab_index",
+      "title": "量價榜揭資金轉向！緯穎爆量觸跌停、成交值衝第三 記憶體獲外資回補 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股16日終止連4日跌勢，集中市場指數反彈337.41點、收45,848.9點，成交值增至6,438億元；不過三大法人仍賣超213.81億元。從今日成交量與成交值前10名觀察，盤面資金明顯轉向記憶體與半導體，台積電（2330）再上演一日填息、穩住權值股軍心，記憶體族群則在美股AI族群回穩及供需緊俏預期帶動下強勢走高；反觀緯穎（6669）午盤突遭賣壓摜至跌停，成為量價榜中最醒目的弱勢焦點。",
+      "publishedAt": "2026-09-16T09:52:10.409Z",
+      "discoveredAt": "2026-09-16T09:52:10.409Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a223daa18a7071dae040",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9757611?from=edn_hottest_index",
+      "title": "美國施壓墨西哥堵 AI 硬體關稅漏洞 台廠恐受衝擊 9442",
+      "description": "",
+      "publishedAt": "2026-09-16T09:52:10.409Z",
+      "discoveredAt": "2026-09-16T09:52:10.409Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1549,6 +1609,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_4c3e9196060447b9125e",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
+      "discoveredAt": "2026-09-16T09:52:10.409Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_281ad00329af399f6489",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1669,87 +1756,6 @@
       "description": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America.",
       "publishedAt": "2026-09-11T02:45:01.000Z",
       "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eb14a52ecfaf9b3ac6d3",
-      "sourceLastModified": "2026-09-10T20:10:33.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
-      "title": "Higher education advisory board and AI Fluency courses",
-      "description": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions.",
-      "publishedAt": "2026-09-10T20:10:33.000Z",
-      "discoveredAt": "2026-09-10T22:30:47.916Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b4f13589721b23a48410",
-      "sourceLastModified": "2026-09-10T20:08:57.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
-      "title": "National Security and Public Sector Advisory Council",
-      "description": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security.",
-      "publishedAt": "2026-09-10T20:08:57.000Z",
-      "discoveredAt": "2026-09-10T22:30:47.916Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e14b643a4bc6303f396d",
-      "sourceLastModified": "2026-09-10T18:59:30.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
-      "title": "Updates to Consumer Terms and Privacy Policy",
-      "description": "Claude Free, Pro, and Max users can now opt in to having conversations used to improve models, with a five-year retention period for participants.",
-      "publishedAt": "2026-09-10T18:59:30.000Z",
-      "discoveredAt": "2026-09-10T20:03:36.617Z",
       "topics": [
         "AI",
         "models",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-16T09:52:29.965Z",
+  "updatedAt": "2026-09-16T14:29:39.407Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T09:52:29.965Z",
+      "discoveredAt": "2026-09-16T14:29:39.407Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,35 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T09:52:29.965Z",
+      "discoveredAt": "2026-09-16T14:29:39.407Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_798a07a13f664422644a",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "description": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
+      "publishedAt": "Wed, 16 Sep 2026 13:00:33 GMT",
+      "discoveredAt": "2026-09-16T14:29:26.320Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
     },
     {
       "id": "cand_078dc679c3a9a366de56",
@@ -1292,7 +1319,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9758718?from=edn_maintab_index",
-      "title": "量價榜揭資金轉向！緯穎爆量觸跌停、成交值衝第三 記憶體獲外資回補 | 市場焦點 | 證券 | 經濟日報",
+      "title": "量價榜揭資金轉向！緯穎爆量觸跌停、成交值衝第三 記憶體獲外資回補 台股16日終止連4日跌勢，集中市場指數反彈337.41點、收45,848.9點，成交值增至6,438億元；不過三大法人仍賣超213.81億元。從今日成交量與成交值前10名觀察，盤面資金明顯轉向記憶體...",
       "description": "台股16日終止連4日跌勢，集中市場指數反彈337.41點、收45,848.9點，成交值增至6,438億元；不過三大法人仍賣超213.81億元。從今日成交量與成交值前10名觀察，盤面資金明顯轉向記憶體與半導體，台積電（2330）再上演一日填息、穩住權值股軍心，記憶體族群則在美股AI族群回穩及供需緊俏預期帶動下強勢走高；反觀緯穎（6669）午盤突遭賣壓摜至跌停，成為量價榜中最醒目的弱勢焦點。",
       "publishedAt": "2026-09-16T09:52:10.409Z",
       "discoveredAt": "2026-09-16T09:52:10.409Z",
@@ -1306,7 +1333,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1583,7 +1610,7 @@
     },
     {
       "id": "cand_6841ccd456ad6623b799",
-      "sourceLastModified": "2026-09-15T21:47:07.219Z",
+      "sourceLastModified": "2026-09-16T12:50:44.941Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1627,7 +1654,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1654,7 +1681,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1681,7 +1708,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1719,7 +1746,7 @@
     },
     {
       "id": "cand_9d2900dfeefde0d428f5",
-      "sourceLastModified": "2026-09-15T21:47:05.251Z",
+      "sourceLastModified": "2026-09-16T12:50:41.983Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1734,33 +1761,6 @@
         "models",
         "enterprise",
         "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ce184c9f7fd71991693c",
-      "sourceLastModified": "2026-09-11T02:45:01.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "title": "Introducing Claude Corps",
-      "description": "Claude Corps is a national fellowship for early-career people passionate about extending the benefits of AI to communities across America.",
-      "publishedAt": "2026-09-11T02:45:01.000Z",
-      "discoveredAt": "2026-08-28T00:57:10.239Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
       ],
       "countries": [],
       "freshnessScore": 10,

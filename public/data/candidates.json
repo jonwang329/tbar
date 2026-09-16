@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-16T18:23:40.696Z",
+  "updatedAt": "2026-09-16T21:30:16.745Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T18:23:40.696Z",
+      "discoveredAt": "2026-09-16T21:30:16.745Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T18:23:40.696Z",
+      "discoveredAt": "2026-09-16T21:30:16.745Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_26e8cbd95e0bc1c0e3d2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9759459?from=edn_maintab_index",
+      "title": "Meta 衝自研 AI 晶片 台積電進補 晶心科同步受惠 Meta正加快自研AI晶片腳步，規劃明年上半年起在旗下資料中心部署新一代自研AI晶片，並於一年內完成高達1GW（10億瓦）算力建置。Meta自研AI晶片量能喊衝，法人看好將帶旺台積電（2330）、晶...",
+      "description": "",
+      "publishedAt": "2026-09-16T21:30:02.391Z",
+      "discoveredAt": "2026-09-16T21:30:02.391Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_3eb823f66c209555874f",
@@ -103,7 +133,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -130,7 +160,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -157,7 +187,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -211,7 +241,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1339,6 +1369,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_b545b7db37c8002c6c45",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9759472?from=edn_maintab_index",
+      "title": "美對墨國施壓 要求對 AI 硬體製造訂定新原產地規則 恐掃到台鏈 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美國傳出施壓墨西哥，要求對AI晶片、伺服器等硬體製造訂定新原產地規則，限制使用北美以外零組件比重，同時防止陸企及其他外國公司規避關稅。外界憂心，恐衝擊緯穎、緯創、鴻海、英業達、仁寶等在墨國有設廠的台灣科技大廠。",
+      "publishedAt": "2026-09-16T21:30:02.391Z",
+      "discoveredAt": "2026-09-16T21:30:02.391Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_24db77d893490adbbecc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9759458?from=edn_maintab_index",
+      "title": "英特爾：CPU 只能滿足50%需求 考驗華碩、宏碁等 PC 品牌廠調度力 外電報導，英特爾執行長陳立武受訪時指出，CPU需求正快速增長，導致出現供需吃緊，且隨著AI應用發展，短缺問題可能將持續存在，目前該公司供貨量僅能滿足客戶需求的50％，「我每天只能和客戶的CEO們道歉...",
+      "description": "",
+      "publishedAt": "2026-09-16T21:30:02.391Z",
+      "discoveredAt": "2026-09-16T21:30:02.391Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_e8de8ad8aeaf0cfb0478",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1667,7 +1757,7 @@
     },
     {
       "id": "cand_6841ccd456ad6623b799",
-      "sourceLastModified": "2026-09-16T12:50:44.941Z",
+      "sourceLastModified": "2026-09-16T21:07:44.602Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1689,87 +1779,6 @@
       "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4c3e9196060447b9125e",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
-      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
-      "discoveredAt": "2026-09-16T09:52:10.409Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_281ad00329af399f6489",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
-      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "description": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
-      "publishedAt": "Tue, 15 Sep 2026 22:24:34 GMT",
-      "discoveredAt": "2026-09-16T00:23:48.861Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_420ee4b592bef5a95dea",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "description": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.",
-      "publishedAt": "Mon, 14 Sep 2026 13:00:00 GMT",
-      "discoveredAt": "2026-09-14T14:06:48.080Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

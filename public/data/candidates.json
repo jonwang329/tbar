@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-16T00:24:00.430Z",
+  "updatedAt": "2026-09-16T05:03:21.166Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T00:24:00.430Z",
+      "discoveredAt": "2026-09-16T05:03:21.166Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-16T00:24:00.430Z",
+      "discoveredAt": "2026-09-16T05:03:21.166Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_078dc679c3a9a366de56",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9757327?from=edn_maintab_index",
+      "title": "Meta 自製 AI 晶片明年上陣 祖克柏拒全業界一起踩煞車 Meta正加快自製人工智慧（AI）晶片腳步，計劃明年上半年開始在資料中心部署新一代晶片，希望降低AI模型運算的成本和耗電量，減少對輝達（NVIDIA）的依賴。執行長祖克柏同時加入近日延燒的AI安...",
+      "description": "",
+      "publishedAt": "2026-09-16T05:03:12.153Z",
+      "discoveredAt": "2026-09-16T05:03:12.153Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_1e7a56e127e6ac219e77",
@@ -97,7 +127,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -184,7 +214,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1255,47 +1285,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_0213474bafa5aa082724",
+      "id": "cand_d5cdb90816b1d7776b2e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9742648?from=edn_hottest_index",
-      "title": "安謀衝刺實體 AI 商機強攻機器人 台積電、瑞昱等「九條好漢」助陣 7129",
-      "description": "全球半導體矽智財（IP）龍頭安謀（Arm）昨（8）日宣布，號召全球逾80家夥伴攜手衝刺實體AI商機，強攻機器人，台廠共有台積電、瑞昱、雅特力-KY、慧友、系微、慧榮、新漢旗下NEXCOBOT、研揚、光程研創等至少「九條好漢」入列安謀首批「機器人軍團」。",
-      "publishedAt": "2026-09-09T03:55:23.250Z",
-      "discoveredAt": "2026-09-09T03:55:23.250Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0c8101be23805889d889",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9743266?from=edn_newest_index",
-      "title": "國泰證券9月：AI 投資占美國 GDP 比重續升 三大資源牽動下一波成長 | 金融脈動 | 金融 | 經濟日報",
-      "description": "延續8月企業獲利與AI落地應用的市場焦點，國泰證券9月進一步將目光轉向AI基礎建設的承載能力。依目前已發布的資本支出預估推算，AI投資占美國GDP比重將持續增加，顯示本輪成長動能仍有延伸空間；台韓半導體設備進口、PMI、記憶體採購與GPU租賃價格等領先指標，也仍處於2022年以來高位。",
-      "publishedAt": "2026-09-09T02:46:45.576Z",
-      "discoveredAt": "2026-09-09T02:46:45.576Z",
+      "url": "https://money.udn.com/money/story/5710/9757370?from=edn_maintab_index",
+      "title": "外資預期 MCLL 營收成長正迎來拐點 為何國巨卻遭降目標價？ 美系大行對MLCC該產業維持正向看法不變，預期營收成長正迎來轉折點，主要受到AI相關MLCC單機含量結構性變化的推動。產品組合轉向利潤率更高的AI產品，認為urata & SEMCO是最大受惠者。美...",
+      "description": "",
+      "publishedAt": "2026-09-16T05:03:12.153Z",
+      "discoveredAt": "2026-09-16T05:03:12.153Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1310,67 +1310,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_60bf0779d7e858a48025",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9743175?from=edn_newest_index",
-      "title": "美國安機構點名DeepSeek等6陸企 惡意抄襲美AI模型 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國國家安全局（NSA）、網路安全和基礎設施安全局（CISA）及聯邦調查局（FBI），8日聯合發布資安警告，指控DeepSeek等6家大陸人工智慧（AI）企業，利用「蒸餾」（distillation）技術，大規模擷取美國先進AI模型的專有功能與能力，用來加速訓練自家產品。",
-      "publishedAt": "2026-09-09T02:11:22.818Z",
-      "discoveredAt": "2026-09-09T02:11:22.818Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d7121400d181707d768c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9742988?from=edn_newest_index",
-      "title": "南韓對美投資終於動了 傳220億美元押注德州AI電力 | 國際焦點 | 國際 | 經濟日報",
-      "description": "南韓已選定德州一項天然氣發電計畫，做為去年和美國達成貿易協議後的頭一個對美投資案。此舉可望緩和美韓近幾個月來的緊張關係，南韓遲遲未能落實對美投資承諾，已成為這兩個盟國之間摩擦的焦點。",
-      "publishedAt": "2026-09-09T00:57:19.503Z",
-      "discoveredAt": "2026-09-09T00:57:19.503Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1423,7 +1363,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1453,7 +1393,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1627,7 +1567,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1756,6 +1696,60 @@
       "description": "Anthropic announces a Higher Education Advisory Board chaired by Rick Levin and three Creative Commons AI Fluency courses for institutions.",
       "publishedAt": "2026-09-10T20:10:33.000Z",
       "discoveredAt": "2026-09-10T22:30:47.916Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b4f13589721b23a48410",
+      "sourceLastModified": "2026-09-10T20:08:57.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
+      "title": "National Security and Public Sector Advisory Council",
+      "description": "Eleven former senators and senior defense, intelligence, and energy officials will help identify high-impact AI applications for US security.",
+      "publishedAt": "2026-09-10T20:08:57.000Z",
+      "discoveredAt": "2026-09-10T22:30:47.916Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e14b643a4bc6303f396d",
+      "sourceLastModified": "2026-09-10T18:59:30.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
+      "title": "Updates to Consumer Terms and Privacy Policy",
+      "description": "Claude Free, Pro, and Max users can now opt in to having conversations used to improve models, with a five-year retention period for participants.",
+      "publishedAt": "2026-09-10T18:59:30.000Z",
+      "discoveredAt": "2026-09-10T20:03:36.617Z",
       "topics": [
         "AI",
         "models",

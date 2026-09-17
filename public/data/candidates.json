@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-17T02:40:53.420Z",
+  "updatedAt": "2026-09-17T07:59:14.347Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T02:40:53.420Z",
+      "discoveredAt": "2026-09-17T07:59:14.347Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T02:40:53.420Z",
+      "discoveredAt": "2026-09-17T07:59:14.347Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -160,7 +160,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1252,17 +1252,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_cbe052f1724821ee7e44",
+      "id": "cand_58414134a0ca6bacf7ff",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9745879?from=edn_maintab_index",
-      "title": "鎧俠為報價漲勢踩煞車、記憶體多下跌 這檔逆勢大漲站回千元 | 集中市場 | 證券 | 經濟日報",
-      "description": "日本儲存型快閃記憶體（NAND Flash）大廠鎧俠（Kioxia）執行長太田裕雄9日表示，記憶體價格已經漲得夠多了，價格再漲可能打擊AI產業投資意願。記憶體族群10日普遍下跌，但跌勢不重，多下跌3%以內，群聯（8299）維持平盤，而愛普*（6531）逆勢大漲，盤中漲幅逾5%，重回千元之上。",
-      "publishedAt": "2026-09-10T05:21:23.845Z",
-      "discoveredAt": "2026-09-10T05:21:23.845Z",
+      "url": "https://money.udn.com/money/story/5710/9760443?from=edn_maintab_index",
+      "title": "創意衝6,610元天價躍居第三大千金！聯發科站回10日線 ASIC 再獲矚目 | 集中市場 | 證券 | 經濟日報",
+      "description": "受到聯準會升息一碼塵埃落定、短期不確定因素消除影響，台股17日一度強彈逾千點，盤中則維持逾600點漲點表現，AI族群再度成為資金焦點，而在雲端服務供應商（CSP）專案放量及AI強勁需求護航下，ASIC概念股也躍升為盤面最吸金的焦點之一。",
+      "publishedAt": "2026-09-17T07:59:04.286Z",
+      "discoveredAt": "2026-09-17T07:59:04.286Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1277,7 +1277,37 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7b144afd986e372634d3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9760107?from=edn_maintab_index",
+      "title": "馬斯克突點名台灣！憂晶片「運不到美國」自建晶圓廠避險 全球首富馬斯克14日突然點名台灣，示警未來某個時候，晶片可能因故「無法再繼續從台灣運到美國」，一旦供應中斷，將讓特斯拉、SpaceX的AI、人形機器人及汽車布局面臨困境。他直言，加上AI快速擴張恐讓...",
+      "description": "",
+      "publishedAt": "2026-09-17T07:59:04.286Z",
+      "discoveredAt": "2026-09-17T07:59:04.286Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1752,33 +1782,6 @@
       "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4c3e9196060447b9125e",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
-      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
-      "discoveredAt": "2026-09-16T09:52:10.409Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

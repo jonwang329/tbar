@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-17T17:40:50.583Z",
+  "updatedAt": "2026-09-17T20:34:25.493Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T17:40:50.583Z",
+      "discoveredAt": "2026-09-17T20:34:25.493Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T17:40:50.583Z",
+      "discoveredAt": "2026-09-17T20:34:25.493Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_505ba05db2a931871ca2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9761847?from=edn_maintab_index",
+      "title": "輝達衝 AI 能源管理 台鏈補 台達電、光寶新商機來了 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI用電大增之際，輝達、Google揪團組AI能源管理聯盟（AEMA），推動AI資料中心從「用電大戶」，轉型為可由電網調度的彈性資源，緩解AI基礎設施快速擴張面臨的供電瓶頸，並擺脫「AI吃電怪獸」惡名。",
+      "publishedAt": "2026-09-17T20:34:15.435Z",
+      "discoveredAt": "2026-09-17T20:34:15.435Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_23b48d691a308bdf50f1",
@@ -271,7 +301,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1141,90 +1171,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_206cdfaaaccdf61ed954",
-      "sourceLastModified": "2026-09-10T20:11:55.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
-      "title": "Developing nuclear safeguards for AI through public-private partnership",
-      "description": "With the NNSA and DOE national labs, we co-developed a classifier that distinguishes concerning from benign nuclear conversations with 96% accuracy.",
-      "publishedAt": "2026-09-10T20:11:55.000Z",
-      "discoveredAt": "2026-09-10T22:30:47.916Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_06275bba9b67253cfdc2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9747492?from=edn_maintab_index",
-      "title": "蘋果軟體大進擊 協力廠沾光 鴻海、廣達有望進補 蘋果本次秋季新品發表會不僅硬體推陳出新，也在軟體與AI下足功夫，包括隨最新作業系統iOS 27登場的次世代AI（Apple Intelligence），模型能力更強，並推出新版獨立Siri AI。底...",
-      "description": "蘋果本次秋季新品發表會不僅硬體推陳出新，也在軟體與AI下足功夫，包括隨最新作業系統iOS 27登場的次世代AI（Apple Intelligence），模型能力更強，並推出新版獨立Siri AI。底層由Apple Foundation Models結合Google Gemini技術驅動聯網強化，可協作支援超過30萬款App。",
-      "publishedAt": "2026-09-10T20:03:36.617Z",
-      "discoveredAt": "2026-09-10T20:03:36.617Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3ab6f8d70eb433cffe3e",
-      "sourceLastModified": "2026-09-10T18:26:26.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
-      "title": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
-      "description": "",
-      "publishedAt": "2026-09-10T18:26:26.000Z",
-      "discoveredAt": "2026-09-10T20:03:36.617Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_227b47b1436327565583",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1785,6 +1731,60 @@
       "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_daba4357c241c1297cef",
+      "sourceLastModified": "2026-09-17T20:15:21.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "publishedAt": "2026-09-17T20:15:21.000Z",
+      "discoveredAt": "2026-09-17T17:40:40.141Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4c3e9196060447b9125e",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
+      "discoveredAt": "2026-09-16T09:52:10.409Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

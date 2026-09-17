@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-17T13:22:47.308Z",
+  "updatedAt": "2026-09-17T17:40:50.583Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T13:22:47.308Z",
+      "discoveredAt": "2026-09-17T17:40:50.583Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T13:22:47.308Z",
+      "discoveredAt": "2026-09-17T17:40:50.583Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9761486?from=edn_maintab_index",
-      "title": "不折舊還愈用愈值錢！輝達 B200 GPU 目前殘值竟比原價高58% | 美股動態 | 國際 | 經濟日報",
+      "title": "不折舊還愈用愈值錢！輝達 B200 GPU 目前殘值竟比原價高58% 自從大型語言模型（LLM）時代來襲，人工智慧（AI）晶片輝達（NVIDIA）繪圖處理器（GPU）的殘值，便成為AI超級循環的景氣指標。根據最新的Silicon Data數據，AI的景氣從未如此暢旺，...",
       "description": "自從大型語言模型（LLM）時代來襲，人工智慧（AI）晶片輝達（NVIDIA）繪圖處理器（GPU）的殘值，便成為AI超級循環的景氣指標。根據最新的Silicon Data數據，AI的景氣從未如此暢旺，無懼Anthropic執行長阿莫戴與OpenAI的執行長奧特曼，都齊聲呼籲應放慢發展前沿AI模型。",
       "publishedAt": "2026-09-17T13:22:36.942Z",
       "discoveredAt": "2026-09-17T13:22:36.942Z",
@@ -103,7 +103,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -190,7 +190,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -358,7 +358,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1225,36 +1225,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_490f6726591a725d633f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9746962?from=edn_maintab_index",
-      "title": "NVIDIA 攜 Palantir 打造主權 AI 黃仁勳：AI 供應鏈牽動數兆美元經濟 輝達（NVIDIA）與美國大數據分析與AI 軟體大廠Palantir Technologies 10日宣布合作，將主權 AI 導入關鍵供應鏈，並率先從NVIDIA自身營運開始部署。雙方將整合NVI...",
-      "description": "",
-      "publishedAt": "2026-09-10T14:04:25.575Z",
-      "discoveredAt": "2026-09-10T14:04:25.575Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_227b47b1436327565583",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1292,7 +1262,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9761399?from=edn_maintab_index",
-      "title": "載板缺貨風暴才剛開始！外資高喊快「買」這二檔 ABF 載板廠 | 市場焦點 | 證券 | 經濟日報",
+      "title": "載板缺貨風暴才剛開始！外資高喊快「買」這二檔 ABF 載板廠 高盛證券指出，隨AI需求不斷暴增，預期 ABF 載板的供不應求缺口將持續擴大，2026下半年、2027年、2028年將分別達到14%、34%、51%。台廠中，喊「買」南電（8046）、景碩（3189...",
       "description": "高盛證券指出，隨AI需求不斷暴增，預期 ABF 載板的供不應求缺口將持續擴大，2026下半年、2027年、2028年將分別達到14%、34%、51%。台廠中，喊「買」南電（8046）、景碩（3189），目標價分別上看2,500元及1,125元。",
       "publishedAt": "2026-09-17T13:22:36.942Z",
       "discoveredAt": "2026-09-17T13:22:36.942Z",
@@ -1306,7 +1276,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1663,7 +1633,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1789,6 +1759,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6841ccd456ad6623b799",
+      "sourceLastModified": "2026-09-17T11:33:56.722Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "publishedAt": "2026-09-11T13:30:45.191Z",
+      "discoveredAt": "2026-09-10T14:04:25.575Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

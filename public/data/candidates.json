@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-17T23:04:16.773Z",
+  "updatedAt": "2026-09-18T01:15:18.872Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T23:04:16.773Z",
+      "discoveredAt": "2026-09-18T01:15:18.872Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-17T23:04:16.773Z",
+      "discoveredAt": "2026-09-18T01:15:18.872Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_180325ac0d9aec0c9412",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9762219",
+      "title": "債券天王警告：美下波衰退將引爆債務危機 自曝投資組合全抽離AI | 國際焦點 | 國際 | 經濟日報",
+      "description": "有「債券天王」稱號的雙線資本公司執行長岡雷克（Jeffrey Gundlach）警告，下一次美國經濟衰退可能引發債務危機，推升美國長天期公債殖利率大幅走高。這代表將打破數十年來認為債券在經濟混沌時總能扮演避風港的傳統觀念。他還對AI交易發出警訊，表示他想要遠離這數十年來最熱門的投資主題。",
+      "publishedAt": "2026-09-18T01:15:09.540Z",
+      "discoveredAt": "2026-09-18T01:15:09.540Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c7f54a48cbe35d2d4d28",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9762219?from=edn_maintab_index",
+      "title": "債券天王警告：美下波衰退將引爆債務危機 自曝投資組合全抽離AI | 國際焦點 | 國際 | 經濟日報",
+      "description": "有「債券天王」稱號的雙線資本公司執行長岡雷克（Jeffrey Gundlach）警告，下一次美國經濟衰退可能引發債務危機，推升美國長天期公債殖利率大幅走高。這代表將打破數十年來認為債券在經濟混沌時總能扮演避風港的傳統觀念。他還對AI交易發出警訊，表示他想要遠離這數十年來最熱門的投資主題。",
+      "publishedAt": "2026-09-18T01:15:09.540Z",
+      "discoveredAt": "2026-09-18T01:15:09.540Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_505ba05db2a931871ca2",
@@ -103,7 +163,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1731,60 +1791,6 @@
       "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_daba4357c241c1297cef",
-      "sourceLastModified": "2026-09-17T20:15:21.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "title": "Introducing the Life Sciences Verification Program",
-      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "publishedAt": "2026-09-17T20:15:21.000Z",
-      "discoveredAt": "2026-09-17T17:40:40.141Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 95,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4c3e9196060447b9125e",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
-      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
-      "discoveredAt": "2026-09-16T09:52:10.409Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

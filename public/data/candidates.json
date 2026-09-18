@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-18T20:56:44.019Z",
+  "updatedAt": "2026-09-18T23:07:56.655Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T20:56:44.019Z",
+      "discoveredAt": "2026-09-18T23:07:56.655Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T20:56:44.019Z",
+      "discoveredAt": "2026-09-18T23:07:56.655Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1231,6 +1231,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_33e3a243429c2b6a3098",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5635/9763510?from=edn_newest_index",
+      "title": "TIE鏈結國際AI 展智慧醫療與關鍵技術 | 熱門亮點 | 商情 | 經濟日報",
+      "description": "AI應用快速擴展，除了讓技術走進醫療、零售等生活場域，如何提升算力效率、降低能源消耗，並讓AI延伸至邊緣裝置，也成為下一階段發展的重要課題。 亞矽暨AI政策執行中心此次於2026台灣創新技術博覽會（TIE），除展出台灣AI場域應用成果，也鏈結南韓、波蘭前瞻AI新創，從智慧醫療、AI晶片到Edge AI，呈現AI應用與關鍵技術的多元發展。 配合「AI新十大建設」推動方向，亞矽暨AI政策執行中心持續串聯國內外創新能量，一方面推動AI進入實際應用場域，另一方面鏈結AI晶片、邊緣運算等關鍵技術，從應用端到技術端擴大產業交流與合作。 在智慧醫療應用方面，明基健康生活攜手亞旭電腦、丁丁藥局與全家便利商店，展出「5G AI Pharmacy + Drone」方案。該案為「AI＋產業智慧共創實證計畫」成果之一，鎖定偏鄉醫療資源與藥事服務需求。 室內智慧藥局導入AI虛擬助手、AI眼鏡及DSS決策支援系統，提供衛教、導購與盤點；室外則結合5G與無人機配送，探索緊急醫療物資快速送達偏鄉的應用模式，展現AI、5G與無人機跨域整合的智慧醫療情境。 在AI關鍵技術方面，南韓AI半導體新創HyperAccel",
+      "publishedAt": "2026-09-18T23:07:46.400Z",
+      "discoveredAt": "2026-09-18T23:07:46.400Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_4e99e151a38dfef76bba",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1279,7 +1309,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1309,7 +1339,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1765,33 +1795,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aebc709c1f226f55c4fd",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
-      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "description": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
-      "publishedAt": "Tue, 15 Sep 2026 16:55:59 GMT",
-      "discoveredAt": "2026-09-15T19:04:03.461Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

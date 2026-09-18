@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-18T11:05:42.893Z",
+  "updatedAt": "2026-09-18T14:57:09.604Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T11:05:42.893Z",
+      "discoveredAt": "2026-09-18T14:57:09.604Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T11:05:42.893Z",
+      "discoveredAt": "2026-09-18T14:57:09.604Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_2dbd59cb39b26668ea18",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9763750",
+      "title": "特斯拉 Model Y 全球最低價在日本 每輛不到新台幣73萬元 | 國際焦點 | 國際 | 經濟日報",
+      "description": "在日圓貶值和日本政府今年慷慨補助帶動下，特斯拉最受歡迎的電動車Model Y在日本創下全球最低價，每輛僅要不到2.3萬美元（約新台幣73萬元），甚至比在東京買一只勞力士Datejust手表還便宜。",
+      "publishedAt": "2026-09-18T14:56:59.203Z",
+      "discoveredAt": "2026-09-18T14:56:59.203Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e97666421ae887297a44",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9763709?from=edn_maintab_index",
+      "title": "仁寶宣布百分之百收購鋐寶、溢價18.21％ 強化 AI 市場布局 代工大廠仁寶（2324）與鋐寶（6674）於18日分別召開董事會，通過以現金為對價之股份轉換案，由仁寶電腦取得鋐寶科技百分之百股份。 未來雙邊將會整合彼此網通技術資源，進攻Edge AI、Phys...",
+      "description": "",
+      "publishedAt": "2026-09-18T14:56:59.203Z",
+      "discoveredAt": "2026-09-18T14:56:59.203Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_b1433ea3519532834130",
@@ -337,7 +397,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1735,66 +1795,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4a93042a99fc28aa45a8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124480/9752820?from=edn_maintab_index",
-      "title": "AI 為何背叛1／AI 代理買了商務艙機票害你無法報帳 這3件事情先認清 「AI本身沒有道德邊界，它不一定會有『我一定要合規』的直覺，如果真的要使用AI Agent，就必須把規則講清楚。」OpenAI、Anthropic和Meta等全球知名AI公司，近期陸續發生AI A...",
-      "description": "「AI本身沒有道德邊界，它不一定會有『我一定要合規』的直覺，如果真的要使用AI Agent，就必須把規則講清楚。」OpenAI、Anthropic和Meta等全球知名AI公司，近期陸續發生AI Agent透過網路駭入其他公司的「越界」事件，備受矚目。",
-      "publishedAt": "2026-09-15T15:15:00.465Z",
-      "discoveredAt": "2026-09-15T15:15:00.465Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_81be575ca99052f41db7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9755443",
-      "title": "彭博：DRAM缺貨恐拖到2030年 HBM4還會漲 | 美股動態 | 國際 | 經濟日報",
-      "description": "全球DRAM供應吃緊可能比市場原先預期拖得更久。彭博行業研究（BI）分析師認為，只要大型雲端業者持續加碼人工智慧（AI），DRAM供需緊俏局面預料至少延續至2027年，甚至可能拖到2029至2030年；其中HBM4明年價格還可能進一步上漲，三星電子、SK海力士和美光可望持續受惠。",
-      "publishedAt": "2026-09-15T10:29:26.943Z",
-      "discoveredAt": "2026-09-15T10:29:26.943Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

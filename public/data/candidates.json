@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-18T06:00:45.711Z",
+  "updatedAt": "2026-09-18T11:05:42.893Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T06:00:45.711Z",
+      "discoveredAt": "2026-09-18T11:05:42.893Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T06:00:45.711Z",
+      "discoveredAt": "2026-09-18T11:05:42.893Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_b1433ea3519532834130",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9763263?from=edn_maintab_index",
+      "title": "緯創林憲銘籲：算力投資納入企業投資抵減 將 AI 紅利轉成核心競爭力 緯創（3231）董事長林憲銘指出，他不斷提醒內部員工要不自滿，不斷思考磨練改變，台灣目前雖處於 AI 關鍵位置，但其實只是賺取 AI 機會財，仍需要把這一波紅利轉換為未來核心競爭力，布局 AI 應...",
+      "description": "",
+      "publishedAt": "2026-09-18T11:05:33.281Z",
+      "discoveredAt": "2026-09-18T11:05:33.281Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_180325ac0d9aec0c9412",
@@ -1231,6 +1261,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_85443c20d781219060c1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9763453",
+      "title": "AI 大廠喊技術放慢 童子賢比喻：三部跑車飆車、呼籲大家減速 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI再曝資安風險，引發OpenAI、Anthropic、SpaceX等三大AI巨頭高喊放慢AI模型開發腳步。對此，和碩（4938）董事長童子賢指出，這就好像三部跑車飆車，一面高速競逐、一面呼籲外界減速，簡而言之就是目前仍未見AI發展有放慢跡象，長期仍舊看好AI發展。",
+      "publishedAt": "2026-09-18T11:05:33.281Z",
+      "discoveredAt": "2026-09-18T11:05:33.281Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2052bcda83427676d635",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9763453?from=edn_maintab_index",
+      "title": "AI 大廠喊技術放慢 童子賢比喻：三部跑車飆車、呼籲大家減速 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI再曝資安風險，引發OpenAI、Anthropic、SpaceX等三大AI巨頭高喊放慢AI模型開發腳步。對此，和碩（4938）董事長童子賢指出，這就好像三部跑車飆車，一面高速競逐、一面呼籲外界減速，簡而言之就是目前仍未見AI發展有放慢跡象，長期仍舊看好AI發展。",
+      "publishedAt": "2026-09-18T11:05:33.281Z",
+      "discoveredAt": "2026-09-18T11:05:33.281Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_227b47b1436327565583",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1705,93 +1795,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_47e4ad8c58f6da56155e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9755582",
-      "title": "不跌了？台達電營收公布後的跌勢反轉 逆勢收復5日線 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台達電（2308）8月營收645.86億元，月減3.7%，年增35%，為歷年最強8月，但在營收公布後股價竟然再向下探底，短短3個交易日跌幅約13%，15日則是反轉止跌，股價開低走高，收復5日線，盤中漲幅逾4%，表現較大盤及多數AI股強勢。",
-      "publishedAt": "2026-09-15T05:45:44.207Z",
-      "discoveredAt": "2026-09-15T05:45:44.207Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_416dc936bea5af0bdef8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9755582?from=edn_maintab_index",
-      "title": "不跌了？台達電營收公布後的跌勢反轉 逆勢收復5日線 台達電（2308）8月營收645.86億元，月減3.7%，年增35%，為歷年最強8月，但在營收公布後股價竟然再向下探底，短短3個交易日跌幅約13%，15日則是反轉止跌，股價開低走高，收復5日線，盤中...",
-      "description": "台達電（2308）8月營收645.86億元，月減3.7%，年增35%，為歷年最強8月，但在營收公布後股價竟然再向下探底，短短3個交易日跌幅約13%，15日則是反轉止跌，股價開低走高，收復5日線，盤中漲幅逾4%，表現較大盤及多數AI股強勢。",
-      "publishedAt": "2026-09-15T05:45:44.207Z",
-      "discoveredAt": "2026-09-15T05:45:44.207Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6841ccd456ad6623b799",
-      "sourceLastModified": "2026-09-17T11:33:56.722Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "publishedAt": "2026-09-11T13:30:45.191Z",
-      "discoveredAt": "2026-09-10T14:04:25.575Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-18T18:12:53.800Z",
+  "updatedAt": "2026-09-18T20:56:44.019Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T18:12:53.800Z",
+      "discoveredAt": "2026-09-18T20:56:44.019Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-18T18:12:53.800Z",
+      "discoveredAt": "2026-09-18T20:56:44.019Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1231,17 +1231,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_523f3892bd81c092c2ff",
+      "id": "cand_4e99e151a38dfef76bba",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9749626?from=edn_maintab_index",
-      "title": "輝達 CEO 駁循環交易疑慮 黃仁勳：我投資的都不糟 輝達（NVIDIA）執行長黃仁勳10日出席高盛在舊金山舉行的科技大會表示，隨著人工智慧（AI）科技持續進步，「資安很可能成為AI下一個重大應用領域」。他也駁斥外界對輝達循環交易的疑慮，強調他在動用公...",
-      "description": "輝達（NVIDIA）執行長黃仁勳10日出席高盛在舊金山舉行的科技大會表示，隨著人工智慧（AI）科技持續進步，「資安很可能成為AI下一個重大應用領域」。他也駁斥外界對輝達循環交易的疑慮，強調他在動用公司資金之前，需要先看到「十拿九穩的機會」。",
-      "publishedAt": "2026-09-11T19:56:39.321Z",
-      "discoveredAt": "2026-09-11T19:56:39.321Z",
+      "url": "https://money.udn.com/money/story/123828/9764135?from=edn_newest_index",
+      "title": "DXC Engineering 與 LOXO 攜手合作，加速企業級自動駕駛商用車的部署 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "DXC Engineering 與 LOXO 正展開合作，以加速用於中尾里程物流的 Level 4 自動駕駛商用車部署。 是次合作結合了 LOXO 經市場驗證的自動駕駛技術，以及 DXC 在工程、人工智能、數據和系統整合方面的專業實力，以協助實現大規模的自動駕駛物流產業化。 兩家公司旨在攜手推動自動駕駛物流突破試點階段，邁向可複製的企業級營運，以應對司機短缺、成本壓力以及日益增長的配送需求。 維珍尼亞州阿什本2026年9月19日 /美通社/ -- DXC Technology（紐約證券交易所股票代號：DXC）作為領先的企業技術與創新夥伴，宣佈與總部位於瑞士的商用車 Level 4 自動駕駛軟件開發商 LOXO 建立戰略合作夥伴關係，以加速大規模自動駕駛物流解決方案的部署。兩家公司將憑藉 LOXO 經市場驗證的自動駕駛平台，結合 DXC Engineering 在數據和人工智能 (AI) 方面的專業實力，協助物流客戶更快速、更可靠地部署新一代自動駕駛解決方案。 DXC and LOXO 自動駕駛物流（即提供全自動端到端貨物運輸的系統）正迅速突破單一的試點階段，邁向規模化的現實營運。由於行",
+      "publishedAt": "2026-09-18T20:56:34.761Z",
+      "discoveredAt": "2026-09-18T20:56:34.761Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1252,42 +1252,39 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_244fdde00b6745aa6781",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "id": "cand_697b712b72708f85a93f",
+      "sourceLastModified": "2026-09-18T20:02:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9749599?from=edn_maintab_index",
-      "title": "微軟算力大擴張 資料中心容量將增逾兩倍 台廠喜訊 彭博資訊引述知情人報導，微軟（Microsoft）計劃在2032年前擴增全球資料中心容量兩倍以上，從目前的約12GW（百萬瓩）提高至逾38GW，涵蓋微軟自有及租賃設施，但不包括向CoreWeave等...",
-      "description": "彭博資訊引述知情人報導，微軟（Microsoft）計劃在2032年前擴增全球資料中心容量兩倍以上，從目前的約12GW（百萬瓩）提高至逾38GW，涵蓋微軟自有及租賃設施，但不包括向CoreWeave等新型雲端業者租用的運算資源，以解決運算能力不足，客戶轉向甲骨文等競爭對手的問題。",
-      "publishedAt": "2026-09-11T19:56:39.321Z",
-      "discoveredAt": "2026-09-11T19:56:39.321Z",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "description": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+      "publishedAt": "2026-09-18T20:02:00.000Z",
+      "discoveredAt": "2026-09-18T20:56:34.761Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
         "AI",
-        "data center"
+        "models",
+        "agents",
+        "enterprise"
       ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1298,7 +1295,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9764003?from=edn_maintab_index",
-      "title": "台積先進封裝優勢 看到2028 日月光投控、欣興、家登等沾光 | 產業熱點 | 產業 | 經濟日報",
+      "title": "台積先進封裝優勢 看到2028 日月光投控、欣興、家登等沾光 晶圓代工競爭從前段代工延燒到後段封裝，競逐一條龍服務。研調機構集邦科技（TrendForce）最新半導體先進封裝產業研究預期，台積電（2330）CoWoS-L儘管面臨英特爾EMIB-T的競爭，但憑藉...",
       "description": "晶圓代工競爭從前段代工延燒到後段封裝，競逐一條龍服務。研調機構集邦科技（TrendForce）最新半導體先進封裝產業研究預期，台積電CoWoS-L儘管面臨英特爾EMIB-T的競爭，但憑藉技術成熟度與良率優勢，直至2028年仍將是AI晶片的主流封裝方案。",
       "publishedAt": "2026-09-18T18:12:44.239Z",
       "discoveredAt": "2026-09-18T18:12:44.239Z",
@@ -1312,7 +1309,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

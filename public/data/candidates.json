@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-19T19:20:11.546Z",
+  "updatedAt": "2026-09-19T21:33:47.024Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-19T19:20:11.546Z",
+      "discoveredAt": "2026-09-19T21:33:47.024Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-19T19:20:11.546Z",
+      "discoveredAt": "2026-09-19T21:33:47.024Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1208,7 +1208,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9765426?from=edn_maintab_index",
-      "title": "美晶片股連四紅 本周 Fed 官員談話及川習會牽動盤勢 | 美股動態 | 國際 | 經濟日報",
+      "title": "美晶片股連四紅 本周 Fed 官員談話及川習會牽動盤勢 美國晶片股連四日走強，帶動標普500和那斯達克指數收紅，但美國10年期公債殖利率再度觸及5%，通膨和中東戰事疑慮仍壓抑買氣。本周市場將關注Fed官員談話及川習會，尤其是美中之間AI發展競賽和半導體相...",
       "description": "美國晶片股連四日走強，帶動標普500和那斯達克指數收紅，但美國10年期公債殖利率再度觸及5%，通膨和中東戰事疑慮仍壓抑買氣。本周市場將關注Fed官員談話及川習會，尤其是美中之間AI發展競賽和半導體相關管制能否有進展，將牽動科技股能否帶領大盤再創新高。",
       "publishedAt": "2026-09-19T19:20:03.084Z",
       "discoveredAt": "2026-09-19T19:20:03.084Z",
@@ -1222,7 +1222,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1429,7 +1429,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

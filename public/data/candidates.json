@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-20T16:10:26.876Z",
+  "updatedAt": "2026-09-20T18:50:21.805Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T16:10:26.876Z",
+      "discoveredAt": "2026-09-20T18:50:21.805Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T16:10:26.876Z",
+      "discoveredAt": "2026-09-20T18:50:21.805Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -89,7 +89,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9766731?from=edn_maintab_index",
-      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 | 市場焦點 | 證券 | 經濟日報",
+      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 摩根士丹利證券（大摩）釋出報告指出，全球前14大上市雲端服務供應商（CSP）2028年的總資本支出成長將放慢至12%，AI半導體年複合增長率（CAGR）則高達30%。在供應鏈中，AI、記憶體、封測...",
       "description": "摩根士丹利證券（大摩）釋出報告指出，全球前14大上市雲端服務供應商（CSP）2028年的總資本支出成長將放慢至12%，AI半導體年複合增長率（CAGR）則高達30%。在供應鏈中，AI、記憶體、封測、半導體設備及成熟製程都將受惠，看好台積電、聯發科等23檔台股。",
       "publishedAt": "2026-09-20T16:10:16.990Z",
       "discoveredAt": "2026-09-20T16:10:16.990Z",
@@ -103,7 +103,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1141,6 +1141,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e28dad158b6ffa34a654",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9766834?from=edn_newest_index",
+      "title": "科技論壇10月14日登場 中華電董座簡志誠：助百工百業導入 AI | 熱門話題 | 要聞 | 經濟日報",
+      "description": "2026年是「AI Agent（AI代理）規模化元年」，重新定義企業營運模式、商業流程與市場競爭規則，開啟產業新一波轉型契機。中華電信董事長簡志誠表示，中華電信除基礎網路及AIDC建設，針對百工百業不同營運場景導入AI，更強調AI治理，以AI建構資安防線。",
+      "publishedAt": "2026-09-20T18:50:13.288Z",
+      "discoveredAt": "2026-09-20T18:50:13.288Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_27fdbb5e66af434f31ce",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1148,7 +1178,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9766599?from=edn_maintab_index",
-      "title": "AI 狂潮擋不住！今年全球半導體市場估衝1.6兆美元 記憶體恐缺到明年 | 國際焦點 | 國際 | 經濟日報",
+      "title": "AI 狂潮擋不住！今年全球半導體市場估衝1.6兆美元 記憶體恐缺到明年 南韓當局在分析各產研機構預測後所發布的報告預期，今年全球半導體市場規模有望攀抵1.6兆美元，比去年勁增一倍，2030年將續增至約2兆美元，反映儘管近來各界呼籲放緩人工智慧（AI）發展的呼聲升高，依...",
       "description": "南韓當局在分析各產研機構預測後所發布的報告預期，今年全球半導體市場規模有望攀抵1.6兆美元，比去年勁增一倍，2030年將續增至約2兆美元，反映儘管近來各界呼籲放緩人工智慧（AI）發展的呼聲升高，依然擋不住AI基建熱潮。",
       "publishedAt": "2026-09-20T16:10:16.990Z",
       "discoveredAt": "2026-09-20T16:10:16.990Z",
@@ -1162,7 +1192,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1238,7 +1268,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9766731?from=edn_hottest_index",
-      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 2679",
+      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 4305",
       "description": "",
       "publishedAt": "2026-09-20T16:10:16.990Z",
       "discoveredAt": "2026-09-20T16:10:16.990Z",
@@ -1252,7 +1282,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1747,36 +1777,6 @@
       "url": "https://money.udn.com/money/story/5599/9759918",
       "title": "白宮 AI 內鬥曝光！黃仁勳等人直接找上川普遊說 屢擋監管惹不滿 | 國際焦點 | 國際 | 經濟日報",
       "description": "華爾街日報16日披露川普政府AI政策內鬥，隨著AI失控風險讓白宮高層拉響警報，川普身邊也分成兩派。財長貝森特、幕僚長威爾斯等人近幾個月幾乎天天開會研商防範措施，試圖說服川普加強政府介入；另一邊則有白宮科技顧問薩克斯、輝達執行長黃仁勳及Meta執行長祖克柏等人，頻頻向川普進言，力主政府少管。知情人士透露，目前看來，後者正占上風。",
-      "publishedAt": "2026-09-17T02:40:41.720Z",
-      "discoveredAt": "2026-09-17T02:40:41.720Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e13a9ae019475fc50668",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9760046?from=edn_newest_index",
-      "title": "安謀新AI晶片已搶到足夠產能？執行長哈斯自信喊：20億美元營收穩了 2026-09-17 10:32",
-      "description": "",
       "publishedAt": "2026-09-17T02:40:41.720Z",
       "discoveredAt": "2026-09-17T02:40:41.720Z",
       "topics": [

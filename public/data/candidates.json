@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-20T06:56:50.056Z",
+  "updatedAt": "2026-09-20T12:08:41.599Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T06:56:50.056Z",
+      "discoveredAt": "2026-09-20T12:08:41.599Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T06:56:50.056Z",
+      "discoveredAt": "2026-09-20T12:08:41.599Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_69a8481d9bdd5b05ffa2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9766551?from=edn_newest_index",
+      "title": "日經：全球主權基金避開中國 美國靠AI吸大量投資 | 國際焦點 | 國際 | 經濟日報",
+      "description": "由於中國房地產等問題依然沒有解決，世界各國的主權財富基金正避開當地市場，美國則靠著人工智慧（AI）公司吸引大量投資，鞏固...",
+      "publishedAt": "2026-09-20T12:08:33.613Z",
+      "discoveredAt": "2026-09-20T12:08:33.613Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_0c94477adfbda39b5f25",
@@ -1760,36 +1790,6 @@
         "Taiwan"
       ],
       "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_24db77d893490adbbecc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9759458?from=edn_maintab_index",
-      "title": "英特爾：CPU 只能滿足50%需求 考驗華碩、宏碁等 PC 品牌廠調度力 外電報導，英特爾執行長陳立武受訪時指出，CPU需求正快速增長，導致出現供需吃緊，且隨著AI應用發展，短缺問題可能將持續存在，目前該公司供貨量僅能滿足客戶需求的50％，「我每天只能和客戶的CEO們道歉...",
-      "description": "",
-      "publishedAt": "2026-09-16T21:30:02.391Z",
-      "discoveredAt": "2026-09-16T21:30:02.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

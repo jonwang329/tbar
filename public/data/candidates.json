@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-20T21:07:54.923Z",
+  "updatedAt": "2026-09-20T23:16:36.387Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T21:07:54.923Z",
+      "discoveredAt": "2026-09-20T23:16:36.387Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T21:07:54.923Z",
+      "discoveredAt": "2026-09-20T23:16:36.387Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_38eb00d5b08cfa9d078a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9767103?from=edn_newest_index",
+      "title": "憂水電環境衝擊 洛杉磯郡部分地區擬禁超大型資料中心 | 國際焦點 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）發展帶動大型資料中心需求，美國洛杉磯郡正在研擬法規，打算在部分地區禁設超大規模資料中心，以因應大量用電、...",
+      "publishedAt": "2026-09-20T23:16:27.551Z",
+      "discoveredAt": "2026-09-20T23:16:27.551Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_53721a60b5dc8115665b",
@@ -1141,6 +1171,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_1d79e53653b6fe6d1236",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9766943?from=edn_hottest_index",
+      "title": "友達紅了！傳與台積電攜手衝面板級封裝 英特爾也上門談先進封裝合作 | 產業熱點 | 產業 | 經濟日報",
+      "description": "英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達（2409）合作，攜手衝刺CPO與高密度算力晶片整合方案。",
+      "publishedAt": "2026-09-20T23:16:27.551Z",
+      "discoveredAt": "2026-09-20T23:16:27.551Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_1e188b55f9ff79a26c82",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1148,7 +1208,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9766808?from=edn_maintab_index",
-      "title": "英特爾傳攜友達衝先進封裝 布局 CPO 與高密度算力晶片整合方案 | 產業熱點 | 產業 | 經濟日報",
+      "title": "英特爾傳攜友達衝先進封裝 布局 CPO 與高密度算力晶片整合方案 英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達（2409）合作，攜手衝刺CP...",
       "description": "英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達合作，攜手衝刺CPO與高密度算力晶片整合方案。",
       "publishedAt": "2026-09-20T21:07:41.793Z",
       "discoveredAt": "2026-09-20T21:07:41.793Z",
@@ -1162,7 +1222,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1178,7 +1238,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9766809?from=edn_maintab_index",
-      "title": "成熟製程需求爆發、台積訂單外溢效應 聯電、力積電醞釀大漲價 | 產業熱點 | 產業 | 經濟日報",
+      "title": "成熟製程需求爆發、台積訂單外溢效應 聯電、力積電醞釀大漲價 AI推升半導體先進製程市況強勁，周邊電源管理IC、微控制器（MCU）、感測器及MOSFET等成熟製程晶片需求同步爆發，加上台積電（2330）淡出部分成熟製程後的訂單外溢效應，聯電（2303）、力積電...",
       "description": "AI推升半導體先進製程市況強勁，周邊電源管理IC、微控制器（MCU）、感測器及MOSFET等成熟製程晶片需求同步爆發，加上台積電淡出部分成熟製程後的訂單外溢效應，聯電、力積電、世界先進等業者產能利用率衝上高檔、供不應求，聯電預告將發動「有感漲價」，力積電傳出報價要大漲四成。",
       "publishedAt": "2026-09-20T21:07:41.793Z",
       "discoveredAt": "2026-09-20T21:07:41.793Z",
@@ -1192,7 +1252,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1208,7 +1268,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9766742?from=edn_maintab_index",
-      "title": "五大信賴產業總預算衝高 半導體、人工智慧受惠最大 合計占逾八成 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "五大信賴產業總預算衝高 半導體、人工智慧受惠最大 合計占逾八成 行政院會已通過2027年中央政府總預算案，並送立法院審查。主計總處指出，五大信賴產業2027年編列362億元，較上年度相同基礎增加66億元，約增22.3％，其中又以半導體產業149億元、人工智慧（A...",
       "description": "行政院會已通過2027年中央政府總預算案，並送立法院審查。主計總處指出，五大信賴產業2027年編列362億元，較上年度相同基礎增加66億元，約增22.3％，其中又以半導體產業149億元、人工智慧（AI）產業152億元，是最大受惠產業，兩者合計占逾八成。",
       "publishedAt": "2026-09-20T21:07:41.793Z",
       "discoveredAt": "2026-09-20T21:07:41.793Z",
@@ -1222,7 +1282,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1252,7 +1312,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1388,7 +1448,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9766731?from=edn_hottest_index",
-      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 4763",
+      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 5951",
       "description": "",
       "publishedAt": "2026-09-20T16:10:16.990Z",
       "discoveredAt": "2026-09-20T16:10:16.990Z",
@@ -1402,7 +1462,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1719,66 +1779,6 @@
       "description": "AI再曝資安風險，引發OpenAI、Anthropic、SpaceX等三大AI巨頭高喊放慢AI模型開發腳步。對此，和碩（4938）董事長童子賢指出，這就好像三部跑車飆車，一面高速競逐、一面呼籲外界減速，簡而言之就是目前仍未見AI發展有放慢跡象，長期仍舊看好AI發展。",
       "publishedAt": "2026-09-18T11:05:33.281Z",
       "discoveredAt": "2026-09-18T11:05:33.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2052bcda83427676d635",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9763453?from=edn_maintab_index",
-      "title": "AI 大廠喊技術放慢 童子賢比喻：三部跑車飆車、呼籲大家減速 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI再曝資安風險，引發OpenAI、Anthropic、SpaceX等三大AI巨頭高喊放慢AI模型開發腳步。對此，和碩（4938）董事長童子賢指出，這就好像三部跑車飆車，一面高速競逐、一面呼籲外界減速，簡而言之就是目前仍未見AI發展有放慢跡象，長期仍舊看好AI發展。",
-      "publishedAt": "2026-09-18T11:05:33.281Z",
-      "discoveredAt": "2026-09-18T11:05:33.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_227b47b1436327565583",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9761399",
-      "title": "載板缺貨風暴才剛開始！外資高喊快「買」這二檔 ABF 載板廠 | 市場焦點 | 證券 | 經濟日報",
-      "description": "高盛證券指出，隨AI需求不斷暴增，預期 ABF 載板的供不應求缺口將持續擴大，2026下半年、2027年、2028年將分別達到14%、34%、51%。台廠中，喊「買」南電（8046）、景碩（3189），目標價分別上看2,500元及1,125元。",
-      "publishedAt": "2026-09-17T13:22:36.942Z",
-      "discoveredAt": "2026-09-17T13:22:36.942Z",
       "topics": [
         "Taiwan business",
         "investment",

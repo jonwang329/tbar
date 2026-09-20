@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-20T12:08:41.599Z",
+  "updatedAt": "2026-09-20T16:10:26.876Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T12:08:41.599Z",
+      "discoveredAt": "2026-09-20T16:10:26.876Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T12:08:41.599Z",
+      "discoveredAt": "2026-09-20T16:10:26.876Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_53721a60b5dc8115665b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9766731?from=edn_maintab_index",
+      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 | 市場焦點 | 證券 | 經濟日報",
+      "description": "摩根士丹利證券（大摩）釋出報告指出，全球前14大上市雲端服務供應商（CSP）2028年的總資本支出成長將放慢至12%，AI半導體年複合增長率（CAGR）則高達30%。在供應鏈中，AI、記憶體、封測、半導體設備及成熟製程都將受惠，看好台積電、聯發科等23檔台股。",
+      "publishedAt": "2026-09-20T16:10:16.990Z",
+      "discoveredAt": "2026-09-20T16:10:16.990Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_69a8481d9bdd5b05ffa2",
@@ -460,7 +490,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -487,7 +517,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1111,17 +1141,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b15ec600c4fe1a46a9c9",
+      "id": "cand_27fdbb5e66af434f31ce",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9752236",
-      "title": "大摩：2028年 AI 半導體支出增幅將高於 CSP 資本支出增幅 看好二台廠 | 市場焦點 | 證券 | 經濟日報",
-      "description": "投資人對AI半導體成長動能有疑慮，摩根士丹利證券（大摩）釋出報告指出，雲端服務供應商（CSP）在 2028 年的資本支出預估成長約 12%，但 AI 半導體的支出增幅更高。台積電（2330）、英特爾、輝達、超微等關鍵廠商將持續受惠，聯發科（2454）透過與輝達NVLink Fusion合作，也有望受惠。",
-      "publishedAt": "2026-09-13T14:16:49.186Z",
-      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "url": "https://money.udn.com/money/story/5599/9766599?from=edn_maintab_index",
+      "title": "AI 狂潮擋不住！今年全球半導體市場估衝1.6兆美元 記憶體恐缺到明年 | 國際焦點 | 國際 | 經濟日報",
+      "description": "南韓當局在分析各產研機構預測後所發布的報告預期，今年全球半導體市場規模有望攀抵1.6兆美元，比去年勁增一倍，2030年將續增至約2兆美元，反映儘管近來各界呼籲放緩人工智慧（AI）發展的呼聲升高，依然擋不住AI基建熱潮。",
+      "publishedAt": "2026-09-20T16:10:16.990Z",
+      "discoveredAt": "2026-09-20T16:10:16.990Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1136,22 +1166,22 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_794dda504ddfebd5fd51",
+      "id": "cand_a6ebdc9f50458f2bf39a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9752236?from=edn_maintab_index",
-      "title": "大摩：2028年 AI 半導體支出增幅將高於 CSP 資本支出增幅 看好二台廠 投資人對AI半導體成長動能有疑慮，摩根士丹利證券（大摩）釋出報告指出，雲端服務供應商（CSP）在 2028 年的資本支出預估成長約 12%，但 AI 半導體的支出增幅更高。台積電（2330）、英特...",
-      "description": "投資人對AI半導體成長動能有疑慮，摩根士丹利證券（大摩）釋出報告指出，雲端服務供應商（CSP）在 2028 年的資本支出預估成長約 12%，但 AI 半導體的支出增幅更高。台積電（2330）、英特爾、輝達、超微等關鍵廠商將持續受惠，聯發科（2454）透過與輝達NVLink Fusion合作，也有望受惠。",
-      "publishedAt": "2026-09-13T14:16:49.186Z",
-      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "url": "https://money.udn.com/money/story/11162/9766956?from=edn_newest_index",
+      "title": "蘋果也加入！ASIC 伺服器為何成各大 CSP 廠新焦點 業界：關鍵在這因素 | 科技產業 | 產業 | 經濟日報",
+      "description": "ASIC伺服器市場持續火熱，連蘋果也將捲土重來加入市場競爭，搶攻ASIC伺服器商機。包括微軟、Google、亞馬遜、Meta等雲端服務大廠（CSP），蘋果加入ASIC伺服器戰局，業界認為，關鍵在客製化AI模型運算的效率與成本。",
+      "publishedAt": "2026-09-20T16:10:16.990Z",
+      "discoveredAt": "2026-09-20T16:10:16.990Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1162,26 +1192,26 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_f2c669ea6afe5da44e10",
+      "id": "cand_f80827e0390c70443a90",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9752001?from=edn_maintab_index",
-      "title": "AI 巨頭齊倡「放緩」投資 台股怎麼走？阮慕驊曝這2族群最敏感 Anthropic首席執行官阿莫戴（Dario Amodei）、特斯拉執行長馬斯克（Elon Musk）與Open AI 執行長奧特曼（Sam Altman）公開背書，籲放緩前沿模型開發節奏。奧...",
-      "description": "Anthropic首席執行官阿莫戴（Dario Amodei）、特斯拉執行長馬斯克（Elon Musk）與Open AI 執行長奧特曼（Sam Altman）公開背書，籲放緩前沿模型開發節奏。奧特曼同時向《財富》雜誌表示，OpenAI今年不會推進IPO計劃，消息引發科技界震撼，同時擔憂AI前景出現問題。",
-      "publishedAt": "2026-09-13T14:16:49.186Z",
-      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "url": "https://money.udn.com/money/story/11162/9766942?from=edn_newest_index",
+      "title": "代工廠為何擲重金擴大歐美 AI 伺服器產能？法人點出兩關鍵 | 科技產業 | 產業 | 經濟日報",
+      "description": "AI伺服器商機持續爆發，鴻海（2317）、廣達（2382）、緯創（3231）、仁寶（2324）、英業達（2356）、緯穎（6669）等伺服器代工大廠積極擴大台灣、美國、東南亞營運布局，各大代工廠捨棄以往集中亞洲產能布局，開始邁入營運成本較高的歐美市場。法人點出，原因在於客戶群確實需求、也降低地緣政治干擾。",
+      "publishedAt": "2026-09-20T16:10:16.990Z",
+      "discoveredAt": "2026-09-20T16:10:16.990Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1192,26 +1222,26 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": true
+      "leaderMatch": false
     },
     {
-      "id": "cand_497a82dbcabec1935315",
+      "id": "cand_a54d09a58d6204b2dde9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9752001?from=edn_hottest_index",
-      "title": "AI 巨頭齊倡「放緩」投資 台股怎麼走？阮慕驊曝這2族群最敏感 17617",
+      "url": "https://money.udn.com/money/story/5607/9766731?from=edn_hottest_index",
+      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 2679",
       "description": "",
-      "publishedAt": "2026-09-13T14:16:49.186Z",
-      "discoveredAt": "2026-09-13T14:16:49.186Z",
+      "publishedAt": "2026-09-20T16:10:16.990Z",
+      "discoveredAt": "2026-09-20T16:10:16.990Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1222,11 +1252,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1760,36 +1790,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b545b7db37c8002c6c45",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9759472?from=edn_maintab_index",
-      "title": "美對墨國施壓 要求對 AI 硬體製造訂定新原產地規則 恐掃到台鏈 美國傳出施壓墨西哥，要求對AI晶片、伺服器等硬體製造訂定新原產地規則，限制使用北美以外零組件比重，同時防止陸企及其他外國公司規避關稅。外界憂心，恐衝擊緯穎（6669）、緯創（3231）、鴻海（231...",
-      "description": "美國傳出施壓墨西哥，要求對AI晶片、伺服器等硬體製造訂定新原產地規則，限制使用北美以外零組件比重，同時防止陸企及其他外國公司規避關稅。外界憂心，恐衝擊緯穎、緯創、鴻海、英業達、仁寶等在墨國有設廠的台灣科技大廠。",
-      "publishedAt": "2026-09-16T21:30:02.391Z",
-      "discoveredAt": "2026-09-16T21:30:02.391Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

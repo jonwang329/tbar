@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-21T06:24:40.018Z",
+  "updatedAt": "2026-09-21T13:09:03.886Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T06:24:40.018Z",
+      "discoveredAt": "2026-09-21T13:09:03.886Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,65 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T06:24:40.018Z",
+      "discoveredAt": "2026-09-21T13:09:03.886Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_99ec56bae9bc26c45e09",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9768614?from=edn_maintab_index",
+      "title": "2028 年後 AI 怎麼走？花旗大爆料 四大台廠稱霸下一波浪潮 花旗近日赴美路演（Roadshow），投資人主要關注 2028 年之後 AI 基礎設施周期的持續性，以及下一個價值升級的瓶頸。台廠中，看好台積電（2330）、日月光投控（3711）、聯發科（245...",
+      "description": "",
+      "publishedAt": "2026-09-21T13:08:53.050Z",
+      "discoveredAt": "2026-09-21T13:08:53.050Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6a05fca3c0fee7be6db4",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
+      "title": "5 Companies Using NVIDIA AI for Clean Energy",
+      "description": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
+      "publishedAt": "Mon, 21 Sep 2026 10:00:35 GMT",
+      "discoveredAt": "2026-09-21T13:08:53.050Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
     },
     {
       "id": "cand_a73f2b95ae2c07a715e9",
@@ -871,36 +928,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_aefe059061b8349c0523",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9752840?from=edn_maintab_index",
-      "title": "孫正義豪賭 OpenAI 再加槓桿 軟銀借到118.7億美元 軟銀集團（SoftBank Group）已取得118.7億美元貸款，用來支應對美國AI公司OpenAI的投資，規模高於原先設定的目標100億美元。 彭博引述知情人士報導，軟銀上周敲定這筆兩年期貸款...",
-      "description": "",
-      "publishedAt": "2026-09-14T07:09:41.786Z",
-      "discoveredAt": "2026-09-14T07:09:41.786Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_1d79e53653b6fe6d1236",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -908,7 +935,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9766943?from=edn_hottest_index",
-      "title": "友達紅了！傳與台積電攜手衝面板級封裝 英特爾也上門談先進封裝合作 11142",
+      "title": "友達紅了！傳與台積電攜手衝面板級封裝 英特爾也上門談先進封裝合作 13913",
       "description": "英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達（2409）合作，攜手衝刺CPO與高密度算力晶片整合方案。",
       "publishedAt": "2026-09-20T23:16:27.551Z",
       "discoveredAt": "2026-09-20T23:16:27.551Z",
@@ -922,7 +949,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1696,44 +1723,17 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_420ee4b592bef5a95dea",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "description": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.",
-      "publishedAt": "Mon, 14 Sep 2026 13:00:00 GMT",
-      "discoveredAt": "2026-09-14T14:06:48.080Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6906d8df67e9632390c3",
+      "id": "cand_b232df0ba7dc0cece7af",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9767255?from=edn_maintab_index",
-      "title": "AI ASIC 進入高速成長期 聯發科領軍 ASIC 勁揚 創意、世芯跟著衝 聯發科（2454）21日早盤衝高越過5千元關卡，早盤曾上漲到5,035元，漲幅逾6%；帶動創意（3443）、世芯-KY（3661）等ASIC族群跟漲。 玉山投顧表示，2026–2027年AI A...",
+      "url": "https://money.udn.com/money/story/5607/9768631?from=edn_maintab_index",
+      "title": "量價榜聚焦 AI！聯發科、創意雙創歷史新高 欣興重返千元 台股21日強勢續漲538.09點，收47,718.84點，成交值收斂至8,202億元。從今日量價榜觀察，AI、ASIC概念股成為高價股資金焦點，聯發科（2454）突破5,000元大關，攜手創意（3...",
       "description": "",
-      "publishedAt": "2026-09-21T06:24:29.718Z",
-      "discoveredAt": "2026-09-21T06:24:29.718Z",
+      "publishedAt": "2026-09-21T13:08:53.050Z",
+      "discoveredAt": "2026-09-21T13:08:53.050Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1753,17 +1753,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_68b917d9cd36fc8abcff",
+      "id": "cand_0c4c51f6f28e2153b17c",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9767131?from=edn_maintab_index",
-      "title": "貝森特何立峰紐約啟動磋商 尋求起草 AI 與稀土協議 交川習拍板 美國財長貝森特與中國國務院副總理何立峰20日在紐約啟動磋商，為24日於華府登場的「川習會」鋪路，雙方試圖就AI與稀土協議尋找共同點。 彭博報導，福斯商業新聞網記者引述熟悉會談的消息人士在X發文指出...",
+      "url": "https://money.udn.com/money/story/124480/9769014?from=edn_newest_index",
+      "title": "川習會 AI 攻防／美中競爭停不了 川習有可能先建立「AI 事故熱線」？ 2026-09-21 21:07",
       "description": "",
-      "publishedAt": "2026-09-21T06:24:29.718Z",
-      "discoveredAt": "2026-09-21T06:24:29.718Z",
+      "publishedAt": "2026-09-21T13:08:53.050Z",
+      "discoveredAt": "2026-09-21T13:08:53.050Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-21T18:44:25.477Z",
+  "updatedAt": "2026-09-21T22:18:15.655Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T18:44:25.477Z",
+      "discoveredAt": "2026-09-21T22:18:15.655Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T18:44:25.477Z",
+      "discoveredAt": "2026-09-21T22:18:15.655Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -130,7 +130,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -187,7 +187,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -901,63 +901,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_8eab3659a1c19af574be",
-      "sourceLastModified": "2026-09-15T05:41:43.101Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "title": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "description": "",
-      "publishedAt": "2026-09-14T21:47:52.205Z",
-      "discoveredAt": "2026-09-14T22:36:42.476Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_806d98acd79ecd152220",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9754443?from=edn_maintab_index",
-      "title": "村田：大膽評估擴產 MLCC 產能有望提高逾兩成 日媒報導，全球積層陶瓷電容（MLCC）龍頭村田製作所準備擴大AI產能布局。副社長南出雅範表示，著眼未來三至五年，研議包含新廠房在內的產能擴充計畫，評估幅度可能比過去更加「大膽」。 此前，被動元件龍...",
-      "description": "日媒報導，全球積層陶瓷電容（MLCC）龍頭村田製作所準備擴大AI產能布局。副社長南出雅範表示，著眼未來三至五年，研議包含新廠房在內的產能擴充計畫，評估幅度可能比過去更加「大膽」。",
-      "publishedAt": "2026-09-14T19:19:43.848Z",
-      "discoveredAt": "2026-09-14T19:19:43.848Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_e1a989ecf1934694e25d",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -976,7 +919,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1003,7 +946,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1666,6 +1609,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_89a342d06934d6cb3060",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9769237?from=edn_maintab_index",
+      "title": "美財長透露與何立峰會談「非常成功」 貝森特：美中建立 AI 對話機制 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財長貝森特與中國大陸國務院副總理何立峰在美東時間20日進行會談，會後貝森特表示談判「非常成功」，對市場釋出正面訊號，貝森特並宣布美中同意建立「美中AI對話」機制，將對共同目標、風險及國家安全事件，建立溝通與通報管道。",
+      "publishedAt": "2026-09-21T22:18:04.544Z",
+      "discoveredAt": "2026-09-21T22:18:04.544Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_d36431863ff1cf21a6e3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1744,7 +1717,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1778,6 +1751,33 @@
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
+    },
+    {
+      "id": "cand_281ad00329af399f6489",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "description": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "publishedAt": "Tue, 15 Sep 2026 22:24:34 GMT",
+      "discoveredAt": "2026-09-16T00:23:48.861Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-21T01:12:37.315Z",
+  "updatedAt": "2026-09-21T06:24:40.018Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T01:12:37.315Z",
+      "discoveredAt": "2026-09-21T06:24:40.018Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T01:12:37.315Z",
+      "discoveredAt": "2026-09-21T06:24:40.018Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_a73f2b95ae2c07a715e9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9768066?from=edn_newest_index",
+      "title": "微軟：未來2到3年算力供不應求 在台資料中心擴建至4座 2026-09-21 14:21",
+      "description": "",
+      "publishedAt": "2026-09-21T06:24:29.718Z",
+      "discoveredAt": "2026-09-21T06:24:29.718Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_38eb00d5b08cfa9d078a",
@@ -871,186 +901,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1f3366aaf9a1672f7d74",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9752649",
-      "title": "馬斯克稱有把握明年實現軌道 AI 資料中心 把輝達 AI 送上太空 | 國際焦點 | 國際 | 經濟日報",
-      "description": "SpaceX執行長馬斯克在X平台回覆網友時說：「我非常有把握，SpaceX明年就會把輝達VR NLV72 AI電腦送上太空。」",
-      "publishedAt": "2026-09-14T01:43:29.864Z",
-      "discoveredAt": "2026-09-14T01:43:29.864Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6208cf362533a40e0b02",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9752649?from=edn_maintab_index",
-      "title": "馬斯克稱有把握明年實現軌道 AI 資料中心 把輝達 AI 送上太空 SpaceX執行長馬斯克在X平台回覆網友時說：「我非常有把握，SpaceX明年就會把輝達VR NLV72 AI電腦送上太空。」 I am highly confident that SpaceX ...",
-      "description": "SpaceX執行長馬斯克在X平台回覆網友時說：「我非常有把握，SpaceX明年就會把輝達VR NLV72 AI電腦送上太空。」",
-      "publishedAt": "2026-09-14T01:43:29.864Z",
-      "discoveredAt": "2026-09-14T01:43:29.864Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dc96404f893906514ac5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9752599?from=edn_maintab_index",
-      "title": "美股期貨開盤跳水 那指急跌逾1% AI 巨頭齊喊放慢 + Fed 升息機率高漲 | 美股動態 | 國際 | 經濟日報",
-      "description": "美股三大期貨指數今天（14日）開盤後下跌、國際油價勁揚，投資人一方面重新評估AI發展速度的疑慮，另一方面則消化高於預期的美國通膨數據，因數據進一步強化市場對聯準會（Fed）可能在周三升息的押注。",
-      "publishedAt": "2026-09-14T01:43:29.864Z",
-      "discoveredAt": "2026-09-14T01:43:29.864Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8c47e738aa83b9fd383c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9752648?from=edn_maintab_index",
-      "title": "甩 AI 只會燒錢疑慮！Anthropic 傳告知投資人邁向連續兩季獲利 Anthropic已告知投資人本季將會獲利，此時正值該公司準備進行備受矚目的首次公開發行股票（IPO），並試圖舒緩投資人對頂尖AI公司大舉燒錢的疑慮。 英國金融時報引述多名知情人士消息報導，Ant...",
-      "description": "",
-      "publishedAt": "2026-09-14T01:43:29.864Z",
-      "discoveredAt": "2026-09-14T01:43:29.864Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_19f42f11a27ce62a4a34",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9752660?from=edn_maintab_index",
-      "title": "北台灣有條件開放！大同、華碩擬建置桃園 AI 算力中心 台電有條件開放桃園以北地區增設契約容量達5MW以上資料中心，桃園及基隆電廠周邊興建AI資料中心（AIDC）數量大增，據了解，大同及華碩等集團都有在桃園建置資料中心計畫，台電則強調AI DC需建表後微...",
-      "description": "",
-      "publishedAt": "2026-09-14T01:43:29.864Z",
-      "discoveredAt": "2026-09-14T01:43:29.864Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d0d06016664a67436bef",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9752756?from=edn_newest_index",
-      "title": "AI、內需兩大投資主軸具潛力 這檔基金布局亞股紅利 2026-09-14 09:36",
-      "description": "",
-      "publishedAt": "2026-09-14T01:43:29.864Z",
-      "discoveredAt": "2026-09-14T01:43:29.864Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_1d79e53653b6fe6d1236",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1058,7 +908,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9766943?from=edn_hottest_index",
-      "title": "友達紅了！傳與台積電攜手衝面板級封裝 英特爾也上門談先進封裝合作 7188",
+      "title": "友達紅了！傳與台積電攜手衝面板級封裝 英特爾也上門談先進封裝合作 11142",
       "description": "英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達（2409）合作，攜手衝刺CPO與高密度算力晶片整合方案。",
       "publishedAt": "2026-09-20T23:16:27.551Z",
       "discoveredAt": "2026-09-20T23:16:27.551Z",
@@ -1072,7 +922,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1328,7 +1178,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9766731?from=edn_hottest_index",
-      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 8163",
+      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 10055",
       "description": "",
       "publishedAt": "2026-09-20T16:10:16.990Z",
       "discoveredAt": "2026-09-20T16:10:16.990Z",
@@ -1342,7 +1192,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1705,6 +1555,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_d36431863ff1cf21a6e3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9767395?from=edn_maintab_index",
+      "title": "川習二會看什麼？關稅、AI 和稀土之外 關鍵在美中籌碼消長 美國總統川普預定24日在美國接待中國大陸國家主席習近平，將是兩人5月來首度會面。除了商談經貿、人工智慧（AI）、伊朗等議題，這場峰會也可能進一步深化兩人的私交。 更重要的是，這次會面將讓外界重新檢...",
+      "description": "",
+      "publishedAt": "2026-09-21T06:24:29.718Z",
+      "discoveredAt": "2026-09-21T06:24:29.718Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_d781ee8dedd57cde627e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1786,6 +1666,120 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_281ad00329af399f6489",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "description": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "publishedAt": "Tue, 15 Sep 2026 22:24:34 GMT",
+      "discoveredAt": "2026-09-16T00:23:48.861Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_420ee4b592bef5a95dea",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+      "description": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.",
+      "publishedAt": "Mon, 14 Sep 2026 13:00:00 GMT",
+      "discoveredAt": "2026-09-14T14:06:48.080Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6906d8df67e9632390c3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9767255?from=edn_maintab_index",
+      "title": "AI ASIC 進入高速成長期 聯發科領軍 ASIC 勁揚 創意、世芯跟著衝 聯發科（2454）21日早盤衝高越過5千元關卡，早盤曾上漲到5,035元，漲幅逾6%；帶動創意（3443）、世芯-KY（3661）等ASIC族群跟漲。 玉山投顧表示，2026–2027年AI A...",
+      "description": "",
+      "publishedAt": "2026-09-21T06:24:29.718Z",
+      "discoveredAt": "2026-09-21T06:24:29.718Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_68b917d9cd36fc8abcff",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9767131?from=edn_maintab_index",
+      "title": "貝森特何立峰紐約啟動磋商 尋求起草 AI 與稀土協議 交川習拍板 美國財長貝森特與中國國務院副總理何立峰20日在紐約啟動磋商，為24日於華府登場的「川習會」鋪路，雙方試圖就AI與稀土協議尋找共同點。 彭博報導，福斯商業新聞網記者引述熟悉會談的消息人士在X發文指出...",
+      "description": "",
+      "publishedAt": "2026-09-21T06:24:29.718Z",
+      "discoveredAt": "2026-09-21T06:24:29.718Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-20T23:16:36.387Z",
+  "updatedAt": "2026-09-21T01:12:37.315Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T23:16:36.387Z",
+      "discoveredAt": "2026-09-21T01:12:37.315Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-20T23:16:36.387Z",
+      "discoveredAt": "2026-09-21T01:12:37.315Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1051,126 +1051,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_7f2d9afc7a6dd141f912",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9752583",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-09-13T23:38:31.681Z",
-      "discoveredAt": "2026-09-13T23:38:31.681Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_928ac8541c65efc45830",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9752583?from=edn_maintab_index",
-      "title": "本周開盤前 五件國際事不可不知 美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞： 阿莫戴喊A...",
-      "description": "美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-09-13T23:38:31.681Z",
-      "discoveredAt": "2026-09-13T23:38:31.681Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2669924c7898d090629a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9752599?from=edn_newest_index",
-      "title": "美股期貨開盤跳水 那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲 | 美股動態 | 國際 | 經濟日報",
-      "description": "美股三大期貨指數今天（14日）開盤後下跌、國際油價勁揚，投資人一方面重新評估AI發展速度的疑慮，另一方面則消化高於預期的美國通膨數據，因數據進一步強化市場對聯準會（Fed）可能在周三升息的押注。",
-      "publishedAt": "2026-09-13T23:38:31.681Z",
-      "discoveredAt": "2026-09-13T23:38:31.681Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fab83c247d7f7d5211dc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9752583?from=edn_newest_index",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美股期指周一下跌、油價走高，投資人一面又擔心AI發展速度過快，另一面美國通膨高於預期，也使市場更加押注聯準會（Fed）本周三可能升息。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-09-13T23:38:31.681Z",
-      "discoveredAt": "2026-09-13T23:38:31.681Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_1d79e53653b6fe6d1236",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1178,7 +1058,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9766943?from=edn_hottest_index",
-      "title": "友達紅了！傳與台積電攜手衝面板級封裝 英特爾也上門談先進封裝合作 | 產業熱點 | 產業 | 經濟日報",
+      "title": "友達紅了！傳與台積電攜手衝面板級封裝 英特爾也上門談先進封裝合作 7188",
       "description": "英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達（2409）合作，攜手衝刺CPO與高密度算力晶片整合方案。",
       "publishedAt": "2026-09-20T23:16:27.551Z",
       "discoveredAt": "2026-09-20T23:16:27.551Z",
@@ -1192,7 +1072,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1222,7 +1102,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1252,7 +1132,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1282,7 +1162,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1448,7 +1328,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9766731?from=edn_hottest_index",
-      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 5951",
+      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 8163",
       "description": "",
       "publishedAt": "2026-09-20T16:10:16.990Z",
       "discoveredAt": "2026-09-20T16:10:16.990Z",
@@ -1795,6 +1675,117 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aebc709c1f226f55c4fd",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "description": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
+      "publishedAt": "Tue, 15 Sep 2026 16:55:59 GMT",
+      "discoveredAt": "2026-09-15T19:04:03.461Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d781ee8dedd57cde627e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9766833?from=edn_maintab_index",
+      "title": "川普要組 AI 軍 鴻海、廣達等具美國製造優勢 有望搶商機 美國總統川普19日在社群網站宣布，將比照他先前成立「太空軍」的做法，建立「AI軍」（AI Force），並任命一位主管AI事務的「AI沙皇」。川普拒絕為AI技術增設新的防護規範，暗示白宮有意延續現行...",
+      "description": "美國總統川普19日在社群網站宣布，將比照他先前成立「太空軍」的做法，建立「AI軍」（AI Force），並任命一位主管AI事務的「AI沙皇」。川普拒絕為AI技術增設新的防護規範，暗示白宮有意延續現行「鬆管」AI發展的政策。",
+      "publishedAt": "2026-09-20T21:07:41.793Z",
+      "discoveredAt": "2026-09-20T21:07:41.793Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_daba4357c241c1297cef",
+      "sourceLastModified": "2026-09-17T20:15:21.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "publishedAt": "2026-09-17T20:15:21.000Z",
+      "discoveredAt": "2026-09-17T17:40:40.141Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4c3e9196060447b9125e",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
+      "discoveredAt": "2026-09-16T09:52:10.409Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

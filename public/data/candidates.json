@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-22T00:58:26.424Z",
+  "updatedAt": "2026-09-22T06:05:25.861Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T00:58:26.424Z",
+      "discoveredAt": "2026-09-22T06:05:25.861Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T00:58:26.424Z",
+      "discoveredAt": "2026-09-22T06:05:25.861Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -130,7 +130,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -841,6 +841,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_d281255a30528250f105",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9768614?from=edn_hottest_index",
+      "title": "2028 年後 AI 怎麼走？花旗大爆料 四大台廠稱霸下一波浪潮 8466",
+      "description": "",
+      "publishedAt": "2026-09-22T06:05:14.125Z",
+      "discoveredAt": "2026-09-22T06:05:14.125Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_dfb2c914abebde074330",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -889,7 +919,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -916,7 +946,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1748,36 +1778,6 @@
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": true
-    },
-    {
-      "id": "cand_ec47d5822340410e41a4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9769513",
-      "title": "台積電ADR勁揚2.4% 日月光聯電更猛 台指期夜盤大漲728點 | 美股動態 | 國際 | 經濟日報",
-      "description": "台股ADR周一（22日）勁揚，在美國AI股熱絡行情下，台積電ADR收盤大漲逾2%，報每股445.14美元，收盤最新價格換算並折合新台幣後為每股2,826.82元，較台北交易股票溢價率為13.98%。",
-      "publishedAt": "2026-09-22T00:58:18.106Z",
-      "discoveredAt": "2026-09-22T00:58:18.106Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
     }
   ]
 }

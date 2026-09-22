@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-21T22:18:15.655Z",
+  "updatedAt": "2026-09-22T00:58:26.424Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T22:18:15.655Z",
+      "discoveredAt": "2026-09-22T00:58:26.424Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-21T22:18:15.655Z",
+      "discoveredAt": "2026-09-22T00:58:26.424Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -130,7 +130,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -841,47 +841,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_e2fe8e44005fea266115",
+      "id": "cand_dfb2c914abebde074330",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9754776?from=edn_maintab_index",
-      "title": "美股收盤／AI 踩煞車重擊晶片股 費半大跌5.9%、輝達跌3.4% AI產業三大領袖罕見同聲呼籲放慢最先進模型開發，引發市場擔心AI投資和資料中心需求受到影響，晶片股周一首當其衝，費城半導體指數重挫5.9%。國際油價持續站在每桶100美元以上、美國10年期公債殖利率...",
-      "description": "AI產業三大領袖罕見同聲呼籲放慢最先進模型開發，引發市場擔心AI投資和資料中心需求受到影響，晶片股周一首當其衝，費城半導體指數重挫5.9%。國際油價持續站在每桶100美元以上、美國10年期公債殖利率盤中突破5%，升息疑慮升高，美股三大指數全面收黑。",
-      "publishedAt": "2026-09-15T00:53:49.192Z",
-      "discoveredAt": "2026-09-15T00:53:49.192Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_064c4be7595a092d1913",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9754888?from=edn_newest_index",
-      "title": "AI 投資踩剎車？美光 SK海力士 ADR大跌 但專家說回檔即買點 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國記憶體龍頭美光（Micron）和南韓同業SK海力士的ADR股價在周一（14日）重挫，反映AI三巨頭拋出放緩先進模型開發速度的說法，讓市場擔憂AI基礎建設投資縮減，可能衝擊包括記憶體在內相關股票。但實際上，目前還沒有真正的證據顯示AI投資正在踩剎車。",
-      "publishedAt": "2026-09-15T00:53:49.192Z",
-      "discoveredAt": "2026-09-15T00:53:49.192Z",
+      "url": "https://money.udn.com/money/story/5599/9769605?from=edn_newest_index",
+      "title": "越南AI用電暴增供需失衡 明年面臨缺電台商提前備援 | 國際焦點 | 國際 | 經濟日報",
+      "description": "越南政府示警，因發電及電網工程嚴重落後，加上高科技與AI數據中心用電暴增，明年起將面臨嚴峻缺電威脅，當局正緊急擬定應對措...",
+      "publishedAt": "2026-09-22T00:58:18.106Z",
+      "discoveredAt": "2026-09-22T00:58:18.106Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -896,7 +866,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1616,7 +1586,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9769237?from=edn_maintab_index",
-      "title": "美財長透露與何立峰會談「非常成功」 貝森特：美中建立 AI 對話機制 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美財長透露與何立峰會談「非常成功」 貝森特：美中建立 AI 對話機制 美國財長貝森特與中國大陸國務院副總理何立峰在美東時間20日進行會談，會後貝森特表示談判「非常成功」，對市場釋出正面訊號，貝森特並宣布美中同意建立「美中AI對話」機制，將對共同目標、風險及國家安全事件...",
       "description": "美國財長貝森特與中國大陸國務院副總理何立峰在美東時間20日進行會談，會後貝森特表示談判「非常成功」，對市場釋出正面訊號，貝森特並宣布美中同意建立「美中AI對話」機制，將對共同目標、風險及國家安全事件，建立溝通與通報管道。",
       "publishedAt": "2026-09-21T22:18:04.544Z",
       "discoveredAt": "2026-09-21T22:18:04.544Z",
@@ -1630,7 +1600,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1778,6 +1748,36 @@
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": true
+    },
+    {
+      "id": "cand_ec47d5822340410e41a4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9769513",
+      "title": "台積電ADR勁揚2.4% 日月光聯電更猛 台指期夜盤大漲728點 | 美股動態 | 國際 | 經濟日報",
+      "description": "台股ADR周一（22日）勁揚，在美國AI股熱絡行情下，台積電ADR收盤大漲逾2%，報每股445.14美元，收盤最新價格換算並折合新台幣後為每股2,826.82元，較台北交易股票溢價率為13.98%。",
+      "publishedAt": "2026-09-22T00:58:18.106Z",
+      "discoveredAt": "2026-09-22T00:58:18.106Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
     }
   ]
 }

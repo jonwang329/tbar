@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-22T11:30:19.428Z",
+  "updatedAt": "2026-09-22T15:39:28.886Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T11:30:19.428Z",
+      "discoveredAt": "2026-09-22T15:39:28.886Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,95 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T11:30:19.428Z",
+      "discoveredAt": "2026-09-22T15:39:28.886Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_a634edbcec4ab7e2d254",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9771527?from=edn_maintab_index",
+      "title": "美股早盤／記憶體俏 那指再刷盤中高 蘋果市值一度破5兆美元 | 美股動態 | 國際 | 經濟日報",
+      "description": "AI交易漲勢再起、加上油價回落，投資人關注伊朗情勢，美股22日早盤四大漲數漲跌互見，那斯達克指數再次刷新盤中高。",
+      "publishedAt": "2026-09-22T15:39:18.290Z",
+      "discoveredAt": "2026-09-22T15:39:18.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_72e7146d46e5f6c9f2a8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11799/9771569?from=edn_newest_index",
+      "title": "玉山獎聚焦創新永續 打造台灣國家品牌 | 產業動態 | 商情 | 經濟日報",
+      "description": "國內最具權威規模最盛大的企業獎項「第23屆國家品牌玉山獎」頒獎典禮今（22）日晚上7時在台北公務人力發展中心卓越堂盛大舉行，為每年全國企業矚目的焦點，典禮當天產、官、學界菁英代表齊聚一堂，共同見證這歷史性的時刻。代表總統親臨現場致詞頒獎的總統府副秘書長何志偉表示，玉山獎已成為台灣企業品牌的重要舞台，也是拓展國際市場的重要認證。面對AI、關稅、人才及產業環境快速變化等挑戰，政府將與企業攜手尋找新機會。",
+      "publishedAt": "2026-09-22T15:39:18.290Z",
+      "discoveredAt": "2026-09-22T15:39:18.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9f684a714f6c3fa47102",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "description": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
+      "publishedAt": "Tue, 22 Sep 2026 12:00:41 GMT",
+      "discoveredAt": "2026-09-22T15:39:18.290Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
     },
     {
       "id": "cand_5f9444a3fade9a4852d2",
@@ -89,7 +176,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124480/9768405?from=edn_maintab_index",
-      "title": "懶人投資時代？1／記者實測 AI 代操比特幣 第7天翻倍沒想到迅速腰斬 | 深度報導 | 專題 | 經濟日報",
+      "title": "懶人投資時代？1／記者實測 AI 代操比特幣 第7天翻倍沒想到迅速腰斬 「只要選擇策略、輸入金額，再按下啟動，AI代理就能幫投資人賺錢？」經濟日報記者孫靖媛為了實測AI代理投資到底是怎麼一回事，她在七、八月時拿出新台幣3,000元，在加密貨幣交易所OKX展開一個月的實...",
       "description": "「只要選擇策略、輸入金額，再按下啟動，AI代理就能幫投資人賺錢？」經濟日報記者孫靖媛為了實測AI代理投資到底是怎麼一回事，她在七、八月時拿出新台幣3,000元，在加密貨幣交易所OKX展開一個月的實驗。",
       "publishedAt": "2026-09-22T11:30:07.582Z",
       "discoveredAt": "2026-09-22T11:30:07.582Z",
@@ -103,7 +190,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -871,6 +958,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_90352047b984f88f567f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9771464?from=edn_maintab_index",
+      "title": "記憶體不是已不缺！東擎3對策備戰記憶體、SSD 看好 AI Box 明年放量 | 產業熱點 | 產業 | 經濟日報",
+      "description": "和碩（4938）集團小金孫東擎科技（7710）專注工業電腦市場，將於10月下旬上市，今年因接到北美遊戲串流大廠專案ODM訂單，東擎業績翻倍成長，為此公司也提高記憶體及處理器庫存因應，對於近期記憶體價格多空訊息紛雜，公司點出因為這原因，記憶體處於「混沌未明」的過渡空檔。",
+      "publishedAt": "2026-09-22T15:39:18.290Z",
+      "discoveredAt": "2026-09-22T15:39:18.290Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_d281255a30528250f105",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -976,7 +1093,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1666,120 +1783,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d36431863ff1cf21a6e3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9767395?from=edn_maintab_index",
-      "title": "川習二會看什麼？關稅、AI 和稀土之外 關鍵在美中籌碼消長 美國總統川普預定24日在美國接待中國大陸國家主席習近平，將是兩人5月來首度會面。除了商談經貿、人工智慧（AI）、伊朗等議題，這場峰會也可能進一步深化兩人的私交。 更重要的是，這次會面將讓外界重新檢...",
-      "description": "",
-      "publishedAt": "2026-09-21T06:24:29.718Z",
-      "discoveredAt": "2026-09-21T06:24:29.718Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d781ee8dedd57cde627e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9766833?from=edn_maintab_index",
-      "title": "川普要組 AI 軍 鴻海、廣達等具美國製造優勢 有望搶商機 美國總統川普19日在社群網站宣布，將比照他先前成立「太空軍」的做法，建立「AI軍」（AI Force），並任命一位主管AI事務的「AI沙皇」。川普拒絕為AI技術增設新的防護規範，暗示白宮有意延續現行...",
-      "description": "美國總統川普19日在社群網站宣布，將比照他先前成立「太空軍」的做法，建立「AI軍」（AI Force），並任命一位主管AI事務的「AI沙皇」。川普拒絕為AI技術增設新的防護規範，暗示白宮有意延續現行「鬆管」AI發展的政策。",
-      "publishedAt": "2026-09-20T21:07:41.793Z",
-      "discoveredAt": "2026-09-20T21:07:41.793Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_daba4357c241c1297cef",
-      "sourceLastModified": "2026-09-17T20:15:21.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "title": "Introducing the Life Sciences Verification Program",
-      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "publishedAt": "2026-09-17T20:15:21.000Z",
-      "discoveredAt": "2026-09-17T17:40:40.141Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4c3e9196060447b9125e",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
-      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
-      "discoveredAt": "2026-09-16T09:52:10.409Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

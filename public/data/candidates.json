@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-22T19:14:51.986Z",
+  "updatedAt": "2026-09-22T22:16:46.974Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T19:14:51.986Z",
+      "discoveredAt": "2026-09-22T22:16:46.974Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T19:14:51.986Z",
+      "discoveredAt": "2026-09-22T22:16:46.974Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -97,7 +97,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -871,6 +871,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_25075c775c9dd4db0c7a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9771641?from=edn_maintab_index",
+      "title": "Meta AI 助理 Muse 超夯 迎來養龍蝦時刻 台積、鴻海、廣達等受惠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "Meta最新AI助理Muse人氣爆棚，讓Meta成為華爾街新寵兒，激勵21日股價勁揚逾11%，並帶動協力廠超微股價首度突破1兆美元大關，英特爾、輝達、安謀等AI股同步勁揚。彭博更預言，Muse可能成為AI的殺手級應用，助攻台股衝高。",
+      "publishedAt": "2026-09-22T22:16:32.316Z",
+      "discoveredAt": "2026-09-22T22:16:32.316Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_90352047b984f88f567f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1573,7 +1603,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1751,33 +1781,6 @@
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": true
-    },
-    {
-      "id": "cand_0faa3f253c4906876424",
-      "sourceLastModified": "2026-09-22T19:06:10.430Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support",
-      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support",
-      "description": "",
-      "publishedAt": "2026-09-22T19:06:10.430Z",
-      "discoveredAt": "2026-09-22T19:14:39.513Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 100,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
     }
   ]
 }

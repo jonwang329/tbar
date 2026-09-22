@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-22T15:39:28.886Z",
+  "updatedAt": "2026-09-22T19:14:51.986Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T15:39:28.886Z",
+      "discoveredAt": "2026-09-22T19:14:51.986Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,8 +78,32 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-22T15:39:28.886Z",
+      "discoveredAt": "2026-09-22T19:14:51.986Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-09-22T19:14:51.986Z",
+      "discoveredAt": "2026-09-22T19:14:51.986Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
     },
     {
       "id": "cand_a634edbcec4ab7e2d254",
@@ -89,7 +113,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9771527?from=edn_maintab_index",
-      "title": "美股早盤／記憶體俏 那指再刷盤中高 蘋果市值一度破5兆美元 | 美股動態 | 國際 | 經濟日報",
+      "title": "美股早盤／記憶體俏 那指再刷盤中高 蘋果市值一度破5兆美元 AI交易漲勢再起、加上油價回落，投資人關注伊朗情勢，美股22日早盤四大漲數漲跌互見，那斯達克指數再次刷新盤中高。 道瓊工業指數早盤下挫0.1%，標普500指數上漲0.1%，那斯達克指數漲0.4%，...",
       "description": "AI交易漲勢再起、加上油價回落，投資人關注伊朗情勢，美股22日早盤四大漲數漲跌互見，那斯達克指數再次刷新盤中高。",
       "publishedAt": "2026-09-22T15:39:18.290Z",
       "discoveredAt": "2026-09-22T15:39:18.290Z",
@@ -103,7 +127,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -160,7 +184,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -190,7 +214,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -247,7 +271,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -847,117 +871,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-09-15T19:04:15.190Z",
-      "discoveredAt": "2026-09-15T19:04:15.190Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_89e3815094239239a5c8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9756935?from=edn_maintab_index",
-      "title": "微軟畫紅線立下「AI 憲法」影響全球基礎建設投資 牽動廣達、鴻海 繼Anthropic、OpenAI、SpaceX等大咖喊出AI發展過快，應放慢精進AI模型效能的速度之後，微軟也畫「AI紅線」，喊出「人本AI」（Humanist AI）概念，立下自家「AI憲法」。...",
-      "description": "繼Anthropic、OpenAI、SpaceX等大咖喊出AI發展過快，應放慢精進AI模型效能的速度之後，微軟也畫「AI紅線」，喊出「人本AI」（Humanist AI）概念，立下自家「AI憲法」。",
-      "publishedAt": "2026-09-15T19:04:03.461Z",
-      "discoveredAt": "2026-09-15T19:04:03.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9af0cc4c544ea1e3f5d7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9756841?from=edn_maintab_index",
-      "title": "電價審議 經長拋兩原則 半導體、AI 資料中心是否調漲將通盤考量 經濟部本周五（18日）將召開電價費率審議會，決定10月電價。經濟部長龔明鑫昨（15）日表示，原則上希望能平穩物價、照顧民生。至於是否調漲景氣較好的半導體及AI資料中心（AIDC）電價，他說，包括預算...",
-      "description": "",
-      "publishedAt": "2026-09-15T19:04:03.461Z",
-      "discoveredAt": "2026-09-15T19:04:03.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1c68de8de87840a6c718",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
-      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "description": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
-      "publishedAt": "Tue, 15 Sep 2026 16:55:40 GMT",
-      "discoveredAt": "2026-09-15T19:04:03.461Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_90352047b984f88f567f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -965,7 +878,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9771464?from=edn_maintab_index",
-      "title": "記憶體不是已不缺！東擎3對策備戰記憶體、SSD 看好 AI Box 明年放量 | 產業熱點 | 產業 | 經濟日報",
+      "title": "記憶體不是已不缺！東擎3對策備戰記憶體、SSD 看好 AI Box 明年放量 和碩（4938）集團小金孫東擎科技（7710）專注工業電腦市場，將於10月下旬上市，今年因接到北美遊戲串流大廠專案ODM訂單，東擎業績翻倍成長，為此公司也提高記憶體及處理器庫存因應，對於近期記憶體價...",
       "description": "和碩（4938）集團小金孫東擎科技（7710）專注工業電腦市場，將於10月下旬上市，今年因接到北美遊戲串流大廠專案ODM訂單，東擎業績翻倍成長，為此公司也提高記憶體及處理器庫存因應，對於近期記憶體價格多空訊息紛雜，公司點出因為這原因，記憶體處於「混沌未明」的過渡空檔。",
       "publishedAt": "2026-09-22T15:39:18.290Z",
       "discoveredAt": "2026-09-22T15:39:18.290Z",
@@ -979,7 +892,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1066,7 +979,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1729,33 +1642,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_aebc709c1f226f55c4fd",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
-      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "description": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
-      "publishedAt": "Tue, 15 Sep 2026 16:55:59 GMT",
-      "discoveredAt": "2026-09-15T19:04:03.461Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_89a342d06934d6cb3060",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1783,6 +1669,114 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_daba4357c241c1297cef",
+      "sourceLastModified": "2026-09-17T20:15:21.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "publishedAt": "2026-09-17T20:15:21.000Z",
+      "discoveredAt": "2026-09-17T17:40:40.141Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4c3e9196060447b9125e",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "description": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "publishedAt": "Wed, 16 Sep 2026 05:00:42 GMT",
+      "discoveredAt": "2026-09-16T09:52:10.409Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_281ad00329af399f6489",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "description": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "publishedAt": "Tue, 15 Sep 2026 22:24:34 GMT",
+      "discoveredAt": "2026-09-16T00:23:48.861Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_0faa3f253c4906876424",
+      "sourceLastModified": "2026-09-22T19:06:10.430Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support",
+      "description": "",
+      "publishedAt": "2026-09-22T19:06:10.430Z",
+      "discoveredAt": "2026-09-22T19:14:39.513Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

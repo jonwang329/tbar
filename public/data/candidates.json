@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-23T05:14:17.782Z",
+  "updatedAt": "2026-09-23T10:03:37.978Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-23T05:14:17.782Z",
+      "discoveredAt": "2026-09-23T10:03:37.978Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-23T05:14:17.782Z",
+      "discoveredAt": "2026-09-23T10:03:37.978Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -127,7 +127,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -358,7 +358,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1759,17 +1759,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_f77aa94bababbadbe85f",
+      "id": "cand_068d6ac98c7689408b6b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9771992?from=edn_maintab_index",
-      "title": "川普要設「AI 沙皇」 貝森特傳可能再兼新職 美國財政部長貝森特（Scott Bessent）可能再添新職，成為總統川普（Donald Trump）的新任人工智慧事務（AI）負責人。 路透報導，一名熟悉相關討論的消息人士透露，貝森特是這項職務...",
-      "description": "",
-      "publishedAt": "2026-09-23T05:14:06.826Z",
-      "discoveredAt": "2026-09-23T05:14:06.826Z",
+      "url": "https://money.udn.com/money/story/10869/9773480",
+      "title": "AI 生產動能超強勁！經部：8月製造業生產指數創新高 連30紅 | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "AI動能超強勁。經濟部23日發布8月工業生產指數145.97、製造業生產指數148.42，雙雙創歷年單月新高；年增率分別達23.47%、24.61%，雙雙呈連續30個月正成長。經濟部預期AI需求持續熱絡，加上國際品牌消費性電子新品備貨需求，可望維繫我國製造業穩健成長態勢。",
+      "publishedAt": "2026-09-23T10:03:29.390Z",
+      "discoveredAt": "2026-09-23T10:03:29.390Z",
       "topics": [
         "Taiwan business",
         "investment",

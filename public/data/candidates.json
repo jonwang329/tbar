@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-23T10:03:37.978Z",
+  "updatedAt": "2026-09-23T14:57:13.718Z",
   "candidates": [
     {
       "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
@@ -41,7 +41,7 @@
       "url": "https://www.dwarkesh.com/p/dylan-patel-3",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-23T10:03:37.978Z",
+      "discoveredAt": "2026-09-23T14:57:13.718Z",
       "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-23T10:03:37.978Z",
+      "discoveredAt": "2026-09-23T14:57:13.718Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -214,7 +214,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -844,33 +844,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_798a07a13f664422644a",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "description": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
-      "publishedAt": "Wed, 16 Sep 2026 13:00:33 GMT",
-      "discoveredAt": "2026-09-16T14:29:26.320Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_fb48b589cb54f7c222b3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1066,7 +1039,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1759,17 +1732,47 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_068d6ac98c7689408b6b",
+      "id": "cand_49adb4fcfa497a9824f7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9773480",
-      "title": "AI 生產動能超強勁！經部：8月製造業生產指數創新高 連30紅 | 總經趨勢 | 要聞 | 經濟日報",
-      "description": "AI動能超強勁。經濟部23日發布8月工業生產指數145.97、製造業生產指數148.42，雙雙創歷年單月新高；年增率分別達23.47%、24.61%，雙雙呈連續30個月正成長。經濟部預期AI需求持續熱絡，加上國際品牌消費性電子新品備貨需求，可望維繫我國製造業穩健成長態勢。",
-      "publishedAt": "2026-09-23T10:03:29.390Z",
-      "discoveredAt": "2026-09-23T10:03:29.390Z",
+      "url": "https://money.udn.com/money/story/5599/9773977",
+      "title": "川習會別期待太多！分析師：AI議題達成這2點協議 就算成功 | 國際焦點 | 國際 | 經濟日報",
+      "description": "今年第二次「川習會」訂於24日登場，基於美中彼此猜忌心重，分析師認為川習二會可能擱置科技競爭、貿易轉運、台灣等棘手議題，但可望就人工智慧（AI）、伊朗戰爭等議題達成範圍狹隘的粗略共識。",
+      "publishedAt": "2026-09-23T14:57:04.749Z",
+      "discoveredAt": "2026-09-23T14:57:04.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_08b1effd6aa3db2aa8a5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9773937?from=edn_maintab_index",
+      "title": "Muse 遭爆神似 OpenClaw Meta 高層坦言：不是巧合 | 國際焦點 | 國際 | 經濟日報",
+      "description": "Meta新推出的AI代理Muse，因與開源AI代理OpenClaw高度相似，引發外界猜測，Muse是否直接採用OpenClaw技術。Meta如今坦承，Muse「確實深受OpenClaw啟發」，但強調產品是從零打造。",
+      "publishedAt": "2026-09-23T14:57:04.749Z",
+      "discoveredAt": "2026-09-23T14:57:04.749Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-24T05:18:06.296Z",
+  "updatedAt": "2026-09-24T10:17:23.997Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-24T05:18:06.296Z",
+      "discoveredAt": "2026-09-24T10:17:23.997Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1696,6 +1696,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_09e25a196057a6225ff7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9775644?from=edn_maintab_index",
+      "title": "整理包／川習會六大議題：關稅能降多少 稀土換什麼 台灣會不會成籌碼 中國大陸國家主席習近平抵達華府，距離上次訪美已過三年。他將在明天（周四）和美國總統川普舉行為期一天的會談。兩國領袖將有機會改善關係，並在貿易、人工智慧（AI）、伊朗戰事及台灣等爭議議題上尋求共識。...",
+      "description": "",
+      "publishedAt": "2026-09-24T10:17:15.288Z",
+      "discoveredAt": "2026-09-24T10:17:15.288Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_89a342d06934d6cb3060",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1750,36 +1780,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fedcae4e15e63c00b26f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9774885?from=edn_maintab_index",
-      "title": "整理包／Meta AI 助理走出手機 智慧眼鏡與 VR 眼鏡同步更新 新品一次看 | 國際焦點 | 國際 | 經濟日報",
-      "description": "Meta在周三的Connect大會擴充硬體產品線：推出可拿在掌心和Muse對話的專用裝置、頭一款不配備攝影機的Ray-Ban智慧眼鏡，以及大幅減輕重量的新款VR眼鏡。Meta也更新配備攝影機的智慧眼鏡，並為既有顯示型眼鏡加入新功能。",
-      "publishedAt": "2026-09-24T05:17:57.599Z",
-      "discoveredAt": "2026-09-24T05:17:57.599Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

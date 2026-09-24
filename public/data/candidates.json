@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-24T10:17:23.997Z",
+  "updatedAt": "2026-09-24T15:19:24.167Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-24T10:17:23.997Z",
+      "discoveredAt": "2026-09-24T15:19:24.167Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_f21d4ce73e040d5e95f9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9776441?from=edn_maintab_index",
+      "title": "美股早盤／美債殖利率再飆 四大指數齊跌 甲骨文資料中心計畫受挫跌5% | 美股動態 | 國際 | 經濟日報",
+      "description": "隨交易員預期聯準會（Fed）將進一步升息，美債殖利率升至大約20年來高點，美股四大指數24日早盤全面挫低。",
+      "publishedAt": "2026-09-24T15:19:15.264Z",
+      "discoveredAt": "2026-09-24T15:19:15.264Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4c8b3799c61c08c79bfa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9776331?from=edn_maintab_index",
+      "title": "避開 AI 錢坑 甲骨文傳對德州資料中心開發商發出不可抗力通知 彭博資訊報導，知情人士透露，甲骨文公司（Oracle）已向藍鴞資本（Blue Owl）旗下子公司Stack基建公司發出通知，萬一Stack負責的新墨西哥州大型資料中心「木星計畫」計畫延誤，甲骨文將引...",
+      "description": "",
+      "publishedAt": "2026-09-24T15:19:15.264Z",
+      "discoveredAt": "2026-09-24T15:19:15.264Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_fb9d909c8a071063fb07",
@@ -232,7 +292,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -726,36 +786,6 @@
       "description": "AI用電大增之際，輝達、Google揪團組AI能源管理聯盟（AEMA），推動AI資料中心從「用電大戶」，轉型為可由電網調度的彈性資源，緩解AI基礎設施快速擴張面臨的供電瓶頸，並擺脫「AI吃電怪獸」惡名。",
       "publishedAt": "2026-09-17T20:34:15.435Z",
       "discoveredAt": "2026-09-17T20:34:15.435Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_23b48d691a308bdf50f1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9761486?from=edn_maintab_index",
-      "title": "不折舊還愈用愈值錢！輝達 B200 GPU 目前殘值竟比原價高58% 自從大型語言模型（LLM）時代來襲，人工智慧（AI）晶片輝達（NVIDIA）繪圖處理器（GPU）的殘值，便成為AI超級循環的景氣指標。根據最新的Silicon Data數據，AI的景氣從未如此暢旺，...",
-      "description": "自從大型語言模型（LLM）時代來襲，人工智慧（AI）晶片輝達（NVIDIA）繪圖處理器（GPU）的殘值，便成為AI超級循環的景氣指標。根據最新的Silicon Data數據，AI的景氣從未如此暢旺，無懼Anthropic執行長阿莫戴與OpenAI的執行長奧特曼，都齊聲呼籲應放慢發展前沿AI模型。",
-      "publishedAt": "2026-09-17T13:22:36.942Z",
-      "discoveredAt": "2026-09-17T13:22:36.942Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1696,17 +1726,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_09e25a196057a6225ff7",
+      "id": "cand_817356e522d42281df9e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9775644?from=edn_maintab_index",
-      "title": "整理包／川習會六大議題：關稅能降多少 稀土換什麼 台灣會不會成籌碼 中國大陸國家主席習近平抵達華府，距離上次訪美已過三年。他將在明天（周四）和美國總統川普舉行為期一天的會談。兩國領袖將有機會改善關係，並在貿易、人工智慧（AI）、伊朗戰事及台灣等爭議議題上尋求共識。...",
-      "description": "",
-      "publishedAt": "2026-09-24T10:17:15.288Z",
-      "discoveredAt": "2026-09-24T10:17:15.288Z",
+      "url": "https://money.udn.com/money/story/5599/9776515",
+      "title": "川習白宮致詞 聚焦貿易、安全與AI等議題 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普24日在白宮歡迎到訪的中國國家主席習近平，雙方在致詞中強調美中關係的重要性，並將進一步討論安全、人工智慧（AI）及科技等議題；習近平則表示，中美應和平共處、管控競爭，並共同承擔促進人類發展進步的責任。",
+      "publishedAt": "2026-09-24T15:19:15.264Z",
+      "discoveredAt": "2026-09-24T15:19:15.264Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1726,17 +1756,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_89a342d06934d6cb3060",
+      "id": "cand_8538e978aff48bd88b57",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9769237?from=edn_maintab_index",
-      "title": "美財長透露與何立峰會談「非常成功」 貝森特：美中建立 AI 對話機制 美國財長貝森特與中國大陸國務院副總理何立峰在美東時間20日進行會談，會後貝森特表示談判「非常成功」，對市場釋出正面訊號，貝森特並宣布美中同意建立「美中AI對話」機制，將對共同目標、風險及國家安全事件...",
-      "description": "美國財長貝森特與中國大陸國務院副總理何立峰在美東時間20日進行會談，會後貝森特表示談判「非常成功」，對市場釋出正面訊號，貝森特並宣布美中同意建立「美中AI對話」機制，將對共同目標、風險及國家安全事件，建立溝通與通報管道。",
-      "publishedAt": "2026-09-21T22:18:04.544Z",
-      "discoveredAt": "2026-09-21T22:18:04.544Z",
+      "url": "https://money.udn.com/money/story/5599/9776515?from=edn_maintab_index",
+      "title": "川習白宮致詞 聚焦貿易、安全與AI等議題 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普24日在白宮歡迎到訪的中國國家主席習近平，雙方在致詞中強調美中關係的重要性，並將進一步討論安全、人工智慧（AI）及科技等議題；習近平則表示，中美應和平共處、管控競爭，並共同承擔促進人類發展進步的責任。",
+      "publishedAt": "2026-09-24T15:19:15.264Z",
+      "discoveredAt": "2026-09-24T15:19:15.264Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1747,39 +1777,12 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_daba4357c241c1297cef",
-      "sourceLastModified": "2026-09-17T20:15:21.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "title": "Introducing the Life Sciences Verification Program",
-      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "publishedAt": "2026-09-17T20:15:21.000Z",
-      "discoveredAt": "2026-09-17T17:40:40.141Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

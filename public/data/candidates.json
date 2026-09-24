@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-24T19:21:14.092Z",
+  "updatedAt": "2026-09-24T22:35:29.661Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-24T19:21:14.092Z",
+      "discoveredAt": "2026-09-24T22:35:29.661Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_28864e0624329e6131c5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9776554?from=edn_maintab_index",
+      "title": "全球債務365兆美元 新高 上半年增逾10兆美元 新興市場占大宗 國際金融研究所（IIF）最新報告指出，新興市場債務暴增，使全球債務上半年增加逾10兆美元，達到破紀錄的365兆美元。這份報告並指出，目前人工智慧（AI）相關投資尚未排擠公債，但終將推升長債殖利率。 ...",
+      "description": "",
+      "publishedAt": "2026-09-24T22:35:17.427Z",
+      "discoveredAt": "2026-09-24T22:35:17.427Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_f21d4ce73e040d5e95f9",
@@ -775,17 +805,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_505ba05db2a931871ca2",
+      "id": "cand_c0a909ed8a3a7404ee48",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9761847?from=edn_maintab_index",
-      "title": "輝達衝 AI 能源管理 台鏈補 台達電、光寶新商機來了 AI用電大增之際，輝達、Google揪團組AI能源管理聯盟（AEMA），推動AI資料中心從「用電大戶」，轉型為可由電網調度的彈性資源，緩解AI基礎設施快速擴張面臨的供電瓶頸，並擺脫「AI吃電怪獸」惡...",
-      "description": "AI用電大增之際，輝達、Google揪團組AI能源管理聯盟（AEMA），推動AI資料中心從「用電大戶」，轉型為可由電網調度的彈性資源，緩解AI基礎設施快速擴張面臨的供電瓶頸，並擺脫「AI吃電怪獸」惡名。",
-      "publishedAt": "2026-09-17T20:34:15.435Z",
-      "discoveredAt": "2026-09-17T20:34:15.435Z",
+      "url": "https://money.udn.com/money/story/5612/9776518?from=edn_maintab_index",
+      "title": "Meta AI 新品齊發 年度大會推出掌上裝置、智慧眼鏡 台廠進補 Meta年度「Connect大會」美西時間23日登場，新品齊發，AI／VR眼鏡站C位，整合當紅的AI代理Muse功能，讓AI代理走入穿戴裝置。 Meta搶先OpenAI推出AI裝置，在後智慧手機時...",
+      "description": "",
+      "publishedAt": "2026-09-24T22:35:17.427Z",
+      "discoveredAt": "2026-09-24T22:35:17.427Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -796,11 +826,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1748,36 +1778,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8538e978aff48bd88b57",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9776515?from=edn_maintab_index",
-      "title": "川習白宮致詞 聚焦貿易、安全與AI等議題 美國總統川普24日在白宮歡迎到訪的中國大陸國家主席習近平，雙方在致詞中強調美中關係的重要性，並將進一步討論安全、人工智慧（AI）及科技等議題；習近平則表示，中美應和平共處、管控競爭，並共同承擔促進人...",
-      "description": "美國總統川普24日在白宮歡迎到訪的中國國家主席習近平，雙方在致詞中強調美中關係的重要性，並將進一步討論安全、人工智慧（AI）及科技等議題；習近平則表示，中美應和平共處、管控競爭，並共同承擔促進人類發展進步的責任。",
-      "publishedAt": "2026-09-24T15:19:15.264Z",
-      "discoveredAt": "2026-09-24T15:19:15.264Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,49 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-23T22:07:16.440Z",
+  "updatedAt": "2026-09-24T00:28:50.107Z",
   "candidates": [
-    {
-      "storyId": "curated-dylan-patel-compute-economics-2026-08-25",
-      "title": "Why frontier AI labs may capture most new compute — and why the economics can work",
-      "sourceName": "Dwarkesh Podcast / Chinese interpreter signal",
-      "sourceUrl": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "contentType": "podcast",
-      "people": [
-        "Dylan Patel"
-      ],
-      "topics": [
-        "AI compute",
-        "Anthropic",
-        "OpenAI",
-        "AI economics",
-        "infrastructure"
-      ],
-      "publishedAt": "2026-08-25T00:00:00Z",
-      "executiveSummary": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger.",
-      "whyItMatters": "This reframes AI infrastructure from a cost-center story into a value-capture story. It helps explain why frontier labs can keep bidding up compute and why infrastructure concentration may continue.",
-      "taiwanImpact": "Taiwan should look beyond chip shipment volume toward where value is captured in systems, networking, power, cloud operations and AI services.",
-      "hpeLens": "The opportunity is not only servers: AI factories require networking, systems integration, observability, power/cooling and enterprise deployment architecture.",
-      "investmentLens": "Watch who can convert compute into revenue fastest; compute ownership alone is less important than downstream value capture.",
-      "keyNumbers": [
-        "OpenAI + Anthropic roughly 30% of new compute now",
-        "potentially 40–50% next year",
-        "historical frontier-lab allocation roughly 60% training/research vs 40% inference"
-      ],
-      "importanceScore": 95,
-      "businessScore": 95,
-      "taiwanScore": 90,
-      "sourceQualityScore": 90,
-      "confidenceScore": 88,
-      "freshnessScore": 80,
-      "leaderMatch": false,
-      "lane": "must_know",
-      "id": "curated-dylan-patel-compute-economics-2026-08-25",
-      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "curated": true,
-      "sourcePriority": "P1",
-      "discoveredAt": "2026-09-23T22:07:16.440Z",
-      "description": "Dylan Patel argues that OpenAI and Anthropic are absorbing a rapidly rising share of new AI compute because frontier labs can monetize compute more aggressively than traditional buyers. The key idea is value amplification across the AI stack: expensive compute can still be rational when downstream model and application value is much larger."
-    },
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
       "title": "Jensen Huang: open models matter strategically to NVIDIA",
@@ -78,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-23T22:07:16.440Z",
+      "discoveredAt": "2026-09-24T00:28:50.107Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1735,17 +1693,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_887714d9498e3cedeee1",
+      "id": "cand_5b7574ca15a343287441",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9774228?from=edn_newest_index",
-      "title": "生技論壇10月7日登場 再生醫療邁向產品化、產業化 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "再生醫療發展進入新世代。台寶生醫執行長楊鈞堯、TLC-KY研發副總曾雲龍都表示，再生醫療正朝更精準、快速的非永久型治療發展，治療領域也由癌症擴大至自體免疫等疾病；和迅生技董事長黃濟鴻表示，隨著再生醫療走向產品化及產業化，AI將帶動細胞治療自動化生產更有效率。",
-      "publishedAt": "2026-09-23T18:56:45.889Z",
-      "discoveredAt": "2026-09-23T18:56:45.889Z",
+      "url": "https://money.udn.com/money/story/123398/9774526",
+      "title": "Meta 硬體多箭齊發 Muse 裝進掌心、VR 眼鏡瘦身挑戰蘋果 | 美股動態 | 國際 | 經濟日報",
+      "description": "Meta周三發表掌上型Muse AI助理裝置，並推出售價1,299美元的新款虛擬實境（VR）眼鏡，一口氣擴大AI與VR硬體布局。AI助理讓使用者隨手拿起裝置與Muse對話，VR眼鏡把處理器和電池移出鏡框，大幅減輕重量，也讓Meta朝VR硬體不再虧本的目標邁進。",
+      "publishedAt": "2026-09-24T00:28:40.266Z",
+      "discoveredAt": "2026-09-24T00:28:40.266Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1765,17 +1723,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_994a19f2688571af4420",
+      "id": "cand_83b01ca419fbd75d86c1",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9772756?from=edn_bloomberg_index_side",
-      "title": "中國大陸 AI 交易青睞全球贏家 而非本土領軍企業",
-      "description": "",
-      "publishedAt": "2026-09-23T18:56:45.889Z",
-      "discoveredAt": "2026-09-23T18:56:45.889Z",
+      "url": "https://money.udn.com/money/story/123398/9774503",
+      "title": "Meta 發表新一代智慧眼鏡 推無攝影機加 Muse 助理款式 | 美股動態 | 國際 | 經濟日報",
+      "description": "Meta擴充智慧眼鏡產品線，推出首款不配備攝影機的Ray-Ban眼鏡，並為產品加入Muse AI助理和助聽功能。",
+      "publishedAt": "2026-09-24T00:28:40.266Z",
+      "discoveredAt": "2026-09-24T00:28:40.266Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1786,7 +1744,37 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_18c4fcf34b6c5a776d80",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9774526?from=edn_newest_index",
+      "title": "Meta 硬體多箭齊發 Muse 裝進掌心、VR 眼鏡瘦身挑戰蘋果 | 美股動態 | 國際 | 經濟日報",
+      "description": "Meta周三發表掌上型Muse AI助理裝置，並推出售價1,299美元的新款虛擬實境（VR）眼鏡，一口氣擴大AI與VR硬體布局。AI助理讓使用者隨手拿起裝置與Muse對話，VR眼鏡把處理器和電池移出鏡框，大幅減輕重量，也讓Meta朝VR硬體不再虧本的目標邁進。",
+      "publishedAt": "2026-09-24T00:28:40.266Z",
+      "discoveredAt": "2026-09-24T00:28:40.266Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

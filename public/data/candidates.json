@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-25T00:47:09.045Z",
+  "updatedAt": "2026-09-25T05:29:24.220Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-25T00:47:09.045Z",
+      "discoveredAt": "2026-09-25T05:29:24.220Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -737,66 +737,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_180325ac0d9aec0c9412",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9762219",
-      "title": "債券天王警告：美下波衰退將引爆債務危機 自曝投資組合全抽離AI | 國際焦點 | 國際 | 經濟日報",
-      "description": "有「債券天王」稱號的雙線資本公司執行長岡雷克（Jeffrey Gundlach）警告，下一次美國經濟衰退可能引發債務危機，推升美國長天期公債殖利率大幅走高。這代表將打破數十年來認為債券在經濟混沌時總能扮演避風港的傳統觀念。他還對AI交易發出警訊，表示他想要遠離這數十年來最熱門的投資主題。",
-      "publishedAt": "2026-09-18T01:15:09.540Z",
-      "discoveredAt": "2026-09-18T01:15:09.540Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c7f54a48cbe35d2d4d28",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9762219?from=edn_maintab_index",
-      "title": "債券天王警告：美下波衰退將引爆債務危機 自曝投資組合全抽離AI 有「債券天王」稱號的雙線資本公司執行長岡雷克（Jeffrey Gundlach）警告，下一次美國經濟衰退可能引發債務危機，推升美國長天期公債殖利率大幅走高。這代表將打破數十年來認為債券在經濟混沌時總...",
-      "description": "有「債券天王」稱號的雙線資本公司執行長岡雷克（Jeffrey Gundlach）警告，下一次美國經濟衰退可能引發債務危機，推升美國長天期公債殖利率大幅走高。這代表將打破數十年來認為債券在經濟混沌時總能扮演避風港的傳統觀念。他還對AI交易發出警訊，表示他想要遠離這數十年來最熱門的投資主題。",
-      "publishedAt": "2026-09-18T01:15:09.540Z",
-      "discoveredAt": "2026-09-18T01:15:09.540Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1781,6 +1721,66 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c9fc94842061e973751f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9776886?from=edn_maintab_index",
+      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普周四在白宮迎接中國大陸國家主席習近平。兩人會談聚焦貿易、人工智慧（AI），以及日益激烈的美中戰略競爭。以下是這次會談的五大重點。",
+      "publishedAt": "2026-09-25T05:29:14.222Z",
+      "discoveredAt": "2026-09-25T05:29:14.222Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_560e319de930a902c6ab",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9777430?from=edn_newest_index",
+      "title": "AI 代理時代來臨誰勝出？華爾街點出三大贏家與輸家 2026-09-25 13:04",
+      "description": "",
+      "publishedAt": "2026-09-25T05:29:14.222Z",
+      "discoveredAt": "2026-09-25T05:29:14.222Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

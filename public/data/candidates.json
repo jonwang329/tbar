@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-25T15:31:02.911Z",
+  "updatedAt": "2026-09-25T19:30:22.820Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-25T15:31:02.911Z",
+      "discoveredAt": "2026-09-25T19:30:22.820Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -409,7 +409,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -662,7 +662,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9777873?from=edn_maintab_index",
-      "title": "美 AI 命脈緊繫台灣 美前眾議員籲「加快軍售」 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美 AI 命脈緊繫台灣 美前眾議員籲「加快軍售」 美國前眾議員、Palantir國防業務負責人蓋拉格（Mike Gallagher），24日投書華爾街日報，從AI供應鏈分析台海風險。他認為，美國先進晶片供應仰賴台灣，一旦台海遭封鎖或發生戰事，將重創...",
       "description": "美國前眾議員、Palantir國防業務負責人蓋拉格（Mike Gallagher），24日投書華爾街日報，從AI供應鏈分析台海風險。他認為，美國先進晶片供應仰賴台灣，一旦台海遭封鎖或發生戰事，將重創AI產業，因此主張加快對台軍售及本土半導體製造與封裝布局。",
       "publishedAt": "2026-09-25T15:30:53.463Z",
       "discoveredAt": "2026-09-25T15:30:53.463Z",
@@ -676,7 +676,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1003,7 +1003,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1606,17 +1606,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_38a319862d4373284e2b",
+      "id": "cand_c41053a7689b08238f8e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9764003?from=edn_maintab_index",
-      "title": "台積先進封裝優勢 看到2028 日月光投控、欣興、家登等沾光 晶圓代工競爭從前段代工延燒到後段封裝，競逐一條龍服務。研調機構集邦科技（TrendForce）最新半導體先進封裝產業研究預期，台積電（2330）CoWoS-L儘管面臨英特爾EMIB-T的競爭，但憑藉...",
-      "description": "晶圓代工競爭從前段代工延燒到後段封裝，競逐一條龍服務。研調機構集邦科技（TrendForce）最新半導體先進封裝產業研究預期，台積電CoWoS-L儘管面臨英特爾EMIB-T的競爭，但憑藉技術成熟度與良率優勢，直至2028年仍將是AI晶片的主流封裝方案。",
-      "publishedAt": "2026-09-18T18:12:44.239Z",
-      "discoveredAt": "2026-09-18T18:12:44.239Z",
+      "url": "https://money.udn.com/money/story/123398/9778230",
+      "title": "川普宣布 美財長貝森特不會兼任AI沙皇 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普25日在自創社媒真實社群發文宣布，財長貝森特將不會擔任「超級智慧（SI）沙皇」。外媒最近報導，川普可能讓貝森特兼任掌管人工智慧（AI）事務的「AI沙皇」（AI czar）。",
+      "publishedAt": "2026-09-25T19:30:13.193Z",
+      "discoveredAt": "2026-09-25T19:30:13.193Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1627,11 +1627,41 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a625184e3aef085bec93",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9778230?from=edn_maintab_index",
+      "title": "川普宣布 美財長貝森特不會兼任AI沙皇 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普25日在自創社媒真實社群發文宣布，財長貝森特將不會擔任「超級智慧（SI）沙皇」。外媒最近報導，川普可能讓貝森特兼任掌管人工智慧（AI）事務的「AI沙皇」（AI czar）。",
+      "publishedAt": "2026-09-25T19:30:13.193Z",
+      "discoveredAt": "2026-09-25T19:30:13.193Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1673,7 +1703,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9777949?from=edn_maintab_index",
-      "title": "川習會後川普首發聲 預告將有重大事情發生 | 國際焦點 | 國際 | 經濟日報",
+      "title": "川習會後川普首發聲 預告將有重大事情發生 美國總統川普25日在自家社媒Truth Social發文說，「與習主席的會晤，對美中兩國而言都卓有成效。將有重大事情發生。如同幾乎所有人一樣，他似乎也贊同將那個命名不佳、名不符實的人工智慧，改稱為更...",
       "description": "美國總統川普25日在自家社媒Truth Social發文說，「與習主席的會晤，對美中兩國而言都卓有成效。將有重大事情發生。如同幾乎所有人一樣，他似乎也贊同將那個命名不佳、名不符實的人工智慧，改稱為更準確也更關鍵的名稱：超級智慧（SUPER INTELLIGENCE）。那將是『超級』。昨晚在場的每個人也表示贊同。」",
       "publishedAt": "2026-09-25T15:30:53.463Z",
       "discoveredAt": "2026-09-25T15:30:53.463Z",
@@ -1687,7 +1717,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1733,7 +1763,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9776886?from=edn_hottest_index",
-      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 4355",
+      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 4488",
       "description": "",
       "publishedAt": "2026-09-25T15:30:53.463Z",
       "discoveredAt": "2026-09-25T15:30:53.463Z",
@@ -1747,37 +1777,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_46909fd680881546d53c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9777825?from=edn_newest_index",
-      "title": "高通持續壯大 AI PC 版圖 驍龍 X2系列再支援 Linux 2026-09-25 18:13",
-      "description": "",
-      "publishedAt": "2026-09-25T10:31:00.797Z",
-      "discoveredAt": "2026-09-25T10:31:00.797Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

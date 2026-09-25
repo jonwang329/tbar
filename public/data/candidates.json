@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-25T19:30:22.820Z",
+  "updatedAt": "2026-09-25T22:45:49.349Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-25T19:30:22.820Z",
+      "discoveredAt": "2026-09-25T22:45:49.349Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -1549,63 +1549,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_4e99e151a38dfef76bba",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9764135?from=edn_newest_index",
-      "title": "DXC Engineering 與 LOXO 攜手合作，加速企業級自動駕駛商用車的部署 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "DXC Engineering 與 LOXO 正展開合作，以加速用於中尾里程物流的 Level 4 自動駕駛商用車部署。 是次合作結合了 LOXO 經市場驗證的自動駕駛技術，以及 DXC 在工程、人工智能、數據和系統整合方面的專業實力，以協助實現大規模的自動駕駛物流產業化。 兩家公司旨在攜手推動自動駕駛物流突破試點階段，邁向可複製的企業級營運，以應對司機短缺、成本壓力以及日益增長的配送需求。 維珍尼亞州阿什本2026年9月19日 /美通社/ -- DXC Technology（紐約證券交易所股票代號：DXC）作為領先的企業技術與創新夥伴，宣佈與總部位於瑞士的商用車 Level 4 自動駕駛軟件開發商 LOXO 建立戰略合作夥伴關係，以加速大規模自動駕駛物流解決方案的部署。兩家公司將憑藉 LOXO 經市場驗證的自動駕駛平台，結合 DXC Engineering 在數據和人工智能 (AI) 方面的專業實力，協助物流客戶更快速、更可靠地部署新一代自動駕駛解決方案。 DXC and LOXO 自動駕駛物流（即提供全自動端到端貨物運輸的系統）正迅速突破單一的試點階段，邁向規模化的現實營運。由於行",
-      "publishedAt": "2026-09-18T20:56:34.761Z",
-      "discoveredAt": "2026-09-18T20:56:34.761Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_697b712b72708f85a93f",
-      "sourceLastModified": "2026-09-18T20:02:00.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "title": "Partnering with Accenture on embedded evaluation",
-      "description": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
-      "publishedAt": "2026-09-18T20:02:00.000Z",
-      "discoveredAt": "2026-09-18T20:56:34.761Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c41053a7689b08238f8e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1613,7 +1556,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9778230",
-      "title": "川普宣布 美財長貝森特不會兼任AI沙皇 | 國際焦點 | 國際 | 經濟日報",
+      "title": "01:43 川普宣布 美財長貝森特不會兼任AI沙皇",
       "description": "美國總統川普25日在自創社媒真實社群發文宣布，財長貝森特將不會擔任「超級智慧（SI）沙皇」。外媒最近報導，川普可能讓貝森特兼任掌管人工智慧（AI）事務的「AI沙皇」（AI czar）。",
       "publishedAt": "2026-09-25T19:30:13.193Z",
       "discoveredAt": "2026-09-25T19:30:13.193Z",
@@ -1627,7 +1570,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1763,7 +1706,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9776886?from=edn_hottest_index",
-      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 4488",
+      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 4559",
       "description": "",
       "publishedAt": "2026-09-25T15:30:53.463Z",
       "discoveredAt": "2026-09-25T15:30:53.463Z",
@@ -1777,12 +1720,66 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d9ffc122620d6cf583bf",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
+      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "description": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+      "publishedAt": "Wed, 23 Sep 2026 02:30:22 GMT",
+      "discoveredAt": "2026-09-23T05:14:06.826Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cfddd696186488811183",
+      "sourceLastModified": "2026-09-23",
+      "sourceId": "deepmind-blog",
+      "sourceName": "Google DeepMind",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "title": "Advancing Private AI Compute with secure, server-side memory — Google DeepMind",
+      "description": "",
+      "publishedAt": "2026-09-23",
+      "discoveredAt": "2026-09-23T18:56:45.889Z",
+      "topics": [
+        "AI",
+        "research",
+        "models",
+        "science"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

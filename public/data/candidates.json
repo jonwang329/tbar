@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-25T10:31:08.150Z",
+  "updatedAt": "2026-09-25T15:31:02.911Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-25T10:31:08.150Z",
+      "discoveredAt": "2026-09-25T15:31:02.911Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -655,17 +655,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_2dbd59cb39b26668ea18",
+      "id": "cand_7c49e0743dc3143c3ee8",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9763750",
-      "title": "特斯拉 Model Y 全球最低價在日本 每輛不到新台幣73萬元 | 國際焦點 | 國際 | 經濟日報",
-      "description": "在日圓貶值和日本政府今年慷慨補助帶動下，特斯拉最受歡迎的電動車Model Y在日本創下全球最低價，每輛僅要不到2.3萬美元（約新台幣73萬元），甚至比在東京買一只勞力士Datejust手表還便宜。",
-      "publishedAt": "2026-09-18T14:56:59.203Z",
-      "discoveredAt": "2026-09-18T14:56:59.203Z",
+      "url": "https://money.udn.com/money/story/5599/9777873?from=edn_maintab_index",
+      "title": "美 AI 命脈緊繫台灣 美前眾議員籲「加快軍售」 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國前眾議員、Palantir國防業務負責人蓋拉格（Mike Gallagher），24日投書華爾街日報，從AI供應鏈分析台海風險。他認為，美國先進晶片供應仰賴台灣，一旦台海遭封鎖或發生戰事，將重創AI產業，因此主張加快對台軍售及本土半導體製造與封裝布局。",
+      "publishedAt": "2026-09-25T15:30:53.463Z",
+      "discoveredAt": "2026-09-25T15:30:53.463Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -680,67 +680,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e97666421ae887297a44",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9763709?from=edn_maintab_index",
-      "title": "仁寶宣布百分之百收購鋐寶、溢價18.21％ 強化 AI 市場布局 代工大廠仁寶（2324）與鋐寶（6674）於18日分別召開董事會，通過以現金為對價之股份轉換案，由仁寶電腦取得鋐寶科技百分之百股份。 未來雙邊將會整合彼此網通技術資源，進攻Edge AI、Phys...",
-      "description": "",
-      "publishedAt": "2026-09-18T14:56:59.203Z",
-      "discoveredAt": "2026-09-18T14:56:59.203Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b1433ea3519532834130",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9763263?from=edn_maintab_index",
-      "title": "緯創林憲銘籲：算力投資納入企業投資抵減 將 AI 紅利轉成核心競爭力 緯創（3231）董事長林憲銘指出，他不斷提醒內部員工要不自滿，不斷思考磨練改變，台灣目前雖處於 AI 關鍵位置，但其實只是賺取 AI 機會財，仍需要把這一波紅利轉換為未來核心競爭力，布局 AI 應...",
-      "description": "",
-      "publishedAt": "2026-09-18T11:05:33.281Z",
-      "discoveredAt": "2026-09-18T11:05:33.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1090,7 +1030,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1696,36 +1636,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_85443c20d781219060c1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9763453",
-      "title": "AI 大廠喊技術放慢 童子賢比喻：三部跑車飆車、呼籲大家減速 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI再曝資安風險，引發OpenAI、Anthropic、SpaceX等三大AI巨頭高喊放慢AI模型開發腳步。對此，和碩（4938）董事長童子賢指出，這就好像三部跑車飆車，一面高速競逐、一面呼籲外界減速，簡而言之就是目前仍未見AI發展有放慢跡象，長期仍舊看好AI發展。",
-      "publishedAt": "2026-09-18T11:05:33.281Z",
-      "discoveredAt": "2026-09-18T11:05:33.281Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c9fc94842061e973751f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1752,6 +1662,96 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_65dbf64543d9b161293e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9777949?from=edn_maintab_index",
+      "title": "川習會後川普首發聲 預告將有重大事情發生 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普25日在自家社媒Truth Social發文說，「與習主席的會晤，對美中兩國而言都卓有成效。將有重大事情發生。如同幾乎所有人一樣，他似乎也贊同將那個命名不佳、名不符實的人工智慧，改稱為更準確也更關鍵的名稱：超級智慧（SUPER INTELLIGENCE）。那將是『超級』。昨晚在場的每個人也表示贊同。」",
+      "publishedAt": "2026-09-25T15:30:53.463Z",
+      "discoveredAt": "2026-09-25T15:30:53.463Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_faadffe5c3b082786091",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9778079?from=edn_newest_index",
+      "title": "BRIGHTRAY就澳門規劃中的40MW人工智能數據中心項目簽署預制模塊銷售框架協議 2026-09-25 23:01",
+      "description": "",
+      "publishedAt": "2026-09-25T15:30:53.463Z",
+      "discoveredAt": "2026-09-25T15:30:53.463Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f5e7d19d15d8ae62b85c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9776886?from=edn_hottest_index",
+      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 4355",
+      "description": "",
+      "publishedAt": "2026-09-25T15:30:53.463Z",
+      "discoveredAt": "2026-09-25T15:30:53.463Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-25T05:29:24.220Z",
+  "updatedAt": "2026-09-25T10:31:08.150Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-25T05:29:24.220Z",
+      "discoveredAt": "2026-09-25T10:31:08.150Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -466,7 +466,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1733,7 +1733,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9776886?from=edn_maintab_index",
-      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 | 國際焦點 | 國際 | 經濟日報",
+      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 美國總統川普周四在白宮迎接中國大陸國家主席習近平。兩人會談聚焦貿易、人工智慧（AI），以及日益激烈的美中戰略競爭。以下是這次會談的五大重點。 貿易休兵暫時延長 美中本周同意延長貿易休兵，但期限只...",
       "description": "美國總統川普周四在白宮迎接中國大陸國家主席習近平。兩人會談聚焦貿易、人工智慧（AI），以及日益激烈的美中戰略競爭。以下是這次會談的五大重點。",
       "publishedAt": "2026-09-25T05:29:14.222Z",
       "discoveredAt": "2026-09-25T05:29:14.222Z",
@@ -1747,7 +1747,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1756,17 +1756,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_560e319de930a902c6ab",
+      "id": "cand_46909fd680881546d53c",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9777430?from=edn_newest_index",
-      "title": "AI 代理時代來臨誰勝出？華爾街點出三大贏家與輸家 2026-09-25 13:04",
+      "url": "https://money.udn.com/money/story/5612/9777825?from=edn_newest_index",
+      "title": "高通持續壯大 AI PC 版圖 驍龍 X2系列再支援 Linux 2026-09-25 18:13",
       "description": "",
-      "publishedAt": "2026-09-25T05:29:14.222Z",
-      "discoveredAt": "2026-09-25T05:29:14.222Z",
+      "publishedAt": "2026-09-25T10:31:00.797Z",
+      "discoveredAt": "2026-09-25T10:31:00.797Z",
       "topics": [
         "Taiwan business",
         "investment",

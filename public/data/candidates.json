@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-24T22:35:29.661Z",
+  "updatedAt": "2026-09-25T00:47:09.045Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-24T22:35:29.661Z",
+      "discoveredAt": "2026-09-25T00:47:09.045Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -805,6 +805,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_2f6d9553959c9a3ad34e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9776943?from=edn_newest_index",
+      "title": "AI熱潮不是雨露均霑 科技廠兩極化發展 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI強勁需求，驅動全球半導體今年產值可望超前達成1兆美元大關，比原先預估的2030年快了4年。在AI爆發成長挹注下，輝達...",
+      "publishedAt": "2026-09-25T00:46:59.248Z",
+      "discoveredAt": "2026-09-25T00:46:59.248Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_c0a909ed8a3a7404ee48",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -826,7 +856,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1752,36 +1782,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_817356e522d42281df9e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9776515",
-      "title": "川習白宮致詞 聚焦貿易、安全與AI等議題 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普24日在白宮歡迎到訪的中國國家主席習近平，雙方在致詞中強調美中關係的重要性，並將進一步討論安全、人工智慧（AI）及科技等議題；習近平則表示，中美應和平共處、管控競爭，並共同承擔促進人類發展進步的責任。",
-      "publishedAt": "2026-09-24T15:19:15.264Z",
-      "discoveredAt": "2026-09-24T15:19:15.264Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

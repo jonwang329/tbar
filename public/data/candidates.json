@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-26T05:58:05.726Z",
+  "updatedAt": "2026-09-26T11:16:28.144Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-26T05:58:05.726Z",
+      "discoveredAt": "2026-09-26T11:16:28.144Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -646,7 +646,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -676,7 +676,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1429,36 +1429,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_bb2f116591a95449f682",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9745039",
-      "title": "香蕉田裡種出工具機廠！它從6％毛利向上改命「訂單增15%業績卻跳50%」 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "年營收約2億人民幣（約新台幣9.5億元）的東剛精機，一個看似不利的財務數字是毛利率，約6％。 在製造業，6％毛利薄到經不起一次大失誤，同時地緣政治，隨時能把這條線直接壓垮。以先前的美國徵收對等關稅為例，一旦關稅拉到40、50％，客戶會當場掉頭就走。 「非轉不可」成了林子銘的信條。「我現在把心力慢慢往五軸加工機去移動，因為毛利更高。」2025年訂單量只增加一成五，但業績卻成長了約五成，顯見產品轉型已初見成效。2026年4月之際，訂單就已排到同年8月。 另一個轉型，是AI驅動。",
-      "publishedAt": "2026-09-19T10:34:43.508Z",
-      "discoveredAt": "2026-09-19T10:34:43.508Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_16d665be76ea04d48bb3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1466,7 +1436,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9778581?from=edn_maintab_index",
-      "title": "整理包／川習會排場大、成果少：休兵兩月 美未回應台灣議題 | 國際焦點 | 國際 | 經濟日報",
+      "title": "整理包／川習會排場大、成果少：休兵兩月 美未回應台灣議題 川普以罕見規格接待習近平：親赴機場迎接、安排軍禮和國宴，兩人還一同參觀美國國家檔案館。但三天訪問結束後，對外宣布的成果不多。美中確定將貿易休兵延長兩個月，並開始討論部分貨品的貿易安排和AI議題；至於...",
       "description": "川普以罕見規格接待習近平：親赴機場迎接、安排軍禮和國宴，兩人還一同參觀美國國家檔案館。但三天訪問結束後，對外宣布的成果不多。美中確定將貿易休兵延長兩個月，並開始討論部分貨品的貿易安排和AI議題；至於關稅、稀土、台灣和伊朗等重大分歧，仍未見突破。",
       "publishedAt": "2026-09-26T05:57:55.745Z",
       "discoveredAt": "2026-09-26T05:57:55.745Z",
@@ -1480,7 +1450,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1586,7 +1556,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9778662?from=edn_maintab_index",
-      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 | 國際焦點 | 國際 | 經濟日報",
+      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 比爾．蓋茲警告，人工智慧（AI）如果落入惡人之手，足以殺死10億人。 蓋茲表示，「AI的確強大到足以引發使10億人死亡的事件。因此即使很難及於100%（的人類），但如果由懷惡意的人使用最先進的AI...",
       "description": "比爾．蓋茲警告，人工智慧（AI）如果落入惡人之手，足以殺死10億人。",
       "publishedAt": "2026-09-26T05:57:55.745Z",
       "discoveredAt": "2026-09-26T05:57:55.745Z",
@@ -1600,7 +1570,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1616,7 +1586,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9777961?from=edn_hottest_index",
-      "title": "暴走的AI 問題篇／AI 驚爆失控 台灣也成攻擊目標 2711",
+      "title": "暴走的AI 問題篇／AI 驚爆失控 台灣也成攻擊目標 2966",
       "description": "",
       "publishedAt": "2026-09-26T05:57:55.745Z",
       "discoveredAt": "2026-09-26T05:57:55.745Z",
@@ -1630,7 +1600,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1777,6 +1747,33 @@
       "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e8911cd6fb39770f240c",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "description": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+      "publishedAt": "Mon, 21 Sep 2026 16:00:00 GMT",
+      "discoveredAt": "2026-09-21T18:44:13.006Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,

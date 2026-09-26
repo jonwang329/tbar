@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-26T18:31:20.417Z",
+  "updatedAt": "2026-09-26T21:29:34.750Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-26T18:31:20.417Z",
+      "discoveredAt": "2026-09-26T21:29:34.750Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_c2a1752f596d21e58cca",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9779318?from=edn_maintab_index",
+      "title": "受惠 GPU、ASIC 等高階測試強勁需求 封測雙雄大啖 AI 成長商機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI晶片測試需求暢旺，京元電、日月光投控迎來新一波成長商機，法人指出，受惠繪圖處理器（GPU）、客製化晶片（ASIC）及高效能運算需求強勁，加上新平台陸續放量、擴產效益浮現，且高階測試成為兩大廠搶攻AI訂單重要關鍵技術，下半年營運動能續強。",
+      "publishedAt": "2026-09-26T21:29:23.173Z",
+      "discoveredAt": "2026-09-26T21:29:23.173Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_28864e0624329e6131c5",
@@ -235,7 +265,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1399,36 +1429,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_89d088f1e4872f91379d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9765426?from=edn_maintab_index",
-      "title": "美晶片股連四紅 本周 Fed 官員談話及川習會牽動盤勢 美國晶片股連四日走強，帶動標普500和那斯達克指數收紅，但美國10年期公債殖利率再度觸及5%，通膨和中東戰事疑慮仍壓抑買氣。本周市場將關注Fed官員談話及川習會，尤其是美中之間AI發展競賽和半導體相...",
-      "description": "美國晶片股連四日走強，帶動標普500和那斯達克指數收紅，但美國10年期公債殖利率再度觸及5%，通膨和中東戰事疑慮仍壓抑買氣。本周市場將關注Fed官員談話及川習會，尤其是美中之間AI發展競賽和半導體相關管制能否有進展，將牽動科技股能否帶領大盤再創新高。",
-      "publishedAt": "2026-09-19T19:20:03.084Z",
-      "discoveredAt": "2026-09-19T19:20:03.084Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_16d665be76ea04d48bb3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1549,6 +1549,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_322c95d52933a0cffd77",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9779181?from=edn_hottest_index",
+      "title": "Fed 做錯了嗎？避險基金大亨：AI 時代升息抗通膨恐適得其反 1874",
+      "description": "",
+      "publishedAt": "2026-09-26T21:29:23.173Z",
+      "discoveredAt": "2026-09-26T21:29:23.173Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_a1476daf8a2006c70a3f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1586,7 +1616,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9778662?from=edn_hottest_index",
-      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 1860",
+      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 1967",
       "description": "",
       "publishedAt": "2026-09-26T18:31:11.900Z",
       "discoveredAt": "2026-09-26T18:31:11.900Z",
@@ -1600,7 +1630,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1751,36 +1781,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_faadffe5c3b082786091",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9778079?from=edn_newest_index",
-      "title": "BRIGHTRAY就澳門規劃中的40MW人工智能數據中心項目簽署預制模塊銷售框架協議 2026-09-25 23:01",
-      "description": "",
-      "publishedAt": "2026-09-25T15:30:53.463Z",
-      "discoveredAt": "2026-09-25T15:30:53.463Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

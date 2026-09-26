@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-26T15:00:02.408Z",
+  "updatedAt": "2026-09-26T18:31:20.417Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-26T15:00:02.408Z",
+      "discoveredAt": "2026-09-26T18:31:20.417Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -595,17 +595,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_0c94477adfbda39b5f25",
+      "id": "cand_796c6cb2667121088251",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9765397?from=edn_newest_index",
-      "title": "1分鐘看世界／甲骨文資料中心遇亂流 180億美元債權價值暴跌 | 國際焦點 | 國際 | 經濟日報",
-      "description": "金融時報引述知情人士說法報導，甲骨文租用的新墨西哥州「木星計畫」資料中心，相關180億美元聯貸在次級市場的債權報價已跌至面值的89%，顯示債務風險升高。這座占地567公頃的園區是甲骨文向OpenAI供應算力、總值3,000億美元算力合約的核心。但投資人憂心甲骨文舉債過多、信用惡化，加上地方反彈，使銀行難以把貸款轉售給其他投資人。",
-      "publishedAt": "2026-09-19T17:12:37.949Z",
-      "discoveredAt": "2026-09-19T17:12:37.949Z",
+      "url": "https://money.udn.com/money/story/5739/9779195?from=edn_newest_index",
+      "title": "創意永豐63購07 強強滾 | 權證特區 | 證券 | 經濟日報",
+      "description": "矽智財（IP）與客製化晶片（ASIC）設計服務龍頭創意近期營運表現亮眼。受惠北美雲端服務供應商（CSP）對客製化AI晶片與CPU Turnkey專案需求大增，加上母公司台積電先進製程與先進封裝產能奧援，量產動能持續放量。",
+      "publishedAt": "2026-09-26T18:31:11.900Z",
+      "discoveredAt": "2026-09-26T18:31:11.900Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -620,7 +620,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1549,6 +1549,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_a1476daf8a2006c70a3f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5739/9779197?from=edn_newest_index",
+      "title": "精測凱基5B購01 潛利足 | 權證特區 | 證券 | 經濟日報",
+      "description": "精測受惠AI伺服器需求持續推升HPC測試需求，探針卡業務將迎來新成長動能，相關權證可伺機布局。",
+      "publishedAt": "2026-09-26T18:31:11.900Z",
+      "discoveredAt": "2026-09-26T18:31:11.900Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8daeee0a16b1c1834266",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9778662?from=edn_hottest_index",
+      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 1860",
+      "description": "",
+      "publishedAt": "2026-09-26T18:31:11.900Z",
+      "discoveredAt": "2026-09-26T18:31:11.900Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_d7207b5ddc850bf66587",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1586,7 +1646,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9779181?from=edn_maintab_index",
-      "title": "Fed 做錯了嗎？避險基金大亨：AI 時代升息抗通膨恐適得其反 | 國際焦點 | 國際 | 經濟日報",
+      "title": "Fed 做錯了嗎？避險基金大亨：AI 時代升息抗通膨恐適得其反 避險基金大亨、潘興廣場（Pershing Square）執行長艾克曼（Bill Ackman）表示，聯準會（Fed）上周決定升息是錯誤之舉，因為人工智慧（AI）正在改寫央行因應通膨時，藉升息來壓低需...",
       "description": "避險基金大亨、潘興廣場（Pershing Square）執行長艾克曼（Bill Ackman）表示，聯準會（Fed）上周決定升息是錯誤之舉，因為人工智慧（AI）正在改寫央行因應通膨時，藉升息來壓低需求的規則。他說，這麼做反而可能使通膨惡化。",
       "publishedAt": "2026-09-26T14:59:54.541Z",
       "discoveredAt": "2026-09-26T14:59:54.541Z",
@@ -1600,7 +1660,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1726,63 +1786,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f5e7d19d15d8ae62b85c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9776886?from=edn_hottest_index",
-      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 4559",
-      "description": "",
-      "publishedAt": "2026-09-25T15:30:53.463Z",
-      "discoveredAt": "2026-09-25T15:30:53.463Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d9ffc122620d6cf583bf",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "description": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
-      "publishedAt": "Wed, 23 Sep 2026 02:30:22 GMT",
-      "discoveredAt": "2026-09-23T05:14:06.826Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

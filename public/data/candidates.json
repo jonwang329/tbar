@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-26T11:16:28.144Z",
+  "updatedAt": "2026-09-26T15:00:02.408Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-26T11:16:28.144Z",
+      "discoveredAt": "2026-09-26T15:00:02.408Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -322,7 +322,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -662,7 +662,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9777909?from=edn_hottest_index",
-      "title": "被動元件廠迎拉貨潮 2026-09-25 23:53",
+      "title": "被動元件廠迎拉貨潮 9309",
       "description": "被動元件產業迎來AI拉貨新動能，指標廠國巨*（2327）釋出標準品、特殊品需求同步增溫訊號；華新科營運同步添柴火。業界看好，AI伺服器電源功率持續升級，推升高容、高壓及大尺寸積層陶瓷電容（MLCC）需求，加上通路拉貨回暖，高階產品成為下半年成長主力，為被動元件廠第4季至明年接單增添支撐。",
       "publishedAt": "2026-09-26T00:56:30.861Z",
       "discoveredAt": "2026-09-26T00:56:30.861Z",
@@ -676,7 +676,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1549,6 +1549,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_d7207b5ddc850bf66587",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123058/9775380",
+      "title": "2026金點設計獎入圍揭曉！「雙神香火袋」尬曼谷舊倉庫美術館、茶籽堂南澳製油所同場較勁 | 藝文展演 | 品味 | 經濟日報",
+      "description": "2026金點設計獎與金點概念設計獎日前公布「年度最佳設計獎」入圍名單！經決審階段的激烈角逐，「金點設計獎」自 474 件標章得獎作品中，選出 105 件角逐最高榮耀；「金點概念設計獎」則有 6 件展現前瞻視野的創新提案入圍。 105件作品角逐年度最佳 11月26日北藝中心揭曉 2026金點設計獎與金點概念設計獎入圍作品皆將於本年度「金點設計展」精彩展出，而象徵最高榮譽的「年度最佳設計獎」得主，將會在11月26日（四）晚間於臺北表演藝術中心舉辦的頒獎典禮上正式揭曉。 從AI機器人到電輔折疊車 產品設計跨域比創新 今年度入圍作品涵蓋台灣、中國大陸、香港、韓國、日本、印尼、泰國、馬來西亞、土耳其等9地，不僅展現美學與技術的突破，更回應永續循環、地方創生、高齡照護與跨界整合等當代議題。 產品設計類包括卡訊電子「T-Flex無線會議麥克風」、太平洋自行車「E-BIRDY」，以及和碩聯合科技「Simba II模組化四足機器人」等作品，從混合式會議、都會移動一路延伸至工業巡檢與搜救防災。 媽祖、靈安尊王「雙神同框」 傳統香火袋變身當代設計 傳達設計類中，中華文化總會「艋舺青山宮×北港朝天宮聯名",
+      "publishedAt": "2026-09-26T14:59:54.541Z",
+      "discoveredAt": "2026-09-26T14:59:54.541Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_791dd0edc528d181fbc0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9779181?from=edn_maintab_index",
+      "title": "Fed 做錯了嗎？避險基金大亨：AI 時代升息抗通膨恐適得其反 | 國際焦點 | 國際 | 經濟日報",
+      "description": "避險基金大亨、潘興廣場（Pershing Square）執行長艾克曼（Bill Ackman）表示，聯準會（Fed）上周決定升息是錯誤之舉，因為人工智慧（AI）正在改寫央行因應通膨時，藉升息來壓低需求的規則。他說，這麼做反而可能使通膨惡化。",
+      "publishedAt": "2026-09-26T14:59:54.541Z",
+      "discoveredAt": "2026-09-26T14:59:54.541Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_7d091d1daba517e5cec6",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1570,7 +1630,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1586,7 +1646,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9777961?from=edn_hottest_index",
-      "title": "暴走的AI 問題篇／AI 驚爆失控 台灣也成攻擊目標 2966",
+      "title": "暴走的AI 問題篇／AI 驚爆失控 台灣也成攻擊目標 3165",
       "description": "",
       "publishedAt": "2026-09-26T05:57:55.745Z",
       "discoveredAt": "2026-09-26T05:57:55.745Z",
@@ -1600,7 +1660,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1718,60 +1778,6 @@
       ],
       "countries": [],
       "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cfddd696186488811183",
-      "sourceLastModified": "2026-09-23",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-      "title": "Advancing Private AI Compute with secure, server-side memory — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-09-23",
-      "discoveredAt": "2026-09-23T18:56:45.889Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e8911cd6fb39770f240c",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "description": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
-      "publishedAt": "Mon, 21 Sep 2026 16:00:00 GMT",
-      "discoveredAt": "2026-09-21T18:44:13.006Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-27T14:19:30.258Z",
+  "updatedAt": "2026-09-27T18:33:34.933Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-27T14:19:30.258Z",
+      "discoveredAt": "2026-09-27T18:33:34.933Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_076365ae230ee2cce63f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9780512?from=edn_maintab_index",
+      "title": "大廠追加訂單 台積電2奈米擴產進度超前 年底月產能上看12萬片 | 產業熱點 | 產業 | 經濟日報",
+      "description": "蘋果、輝達、超微、高通、聯發科等大廠衝刺AI與高速運算（HPC）商機，傳出近期追加預訂台積電2奈米家族產能規模，增幅達10%至20%，台積電為此加速擴充2奈米家族產能擴建腳步，進度優於預期，挹注整體營運動能更為強勁。",
+      "publishedAt": "2026-09-27T18:33:26.298Z",
+      "discoveredAt": "2026-09-27T18:33:26.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_5292853d04d3a3e5ff7c",
@@ -47,7 +77,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9779318?from=edn_hottest_index",
-      "title": "受惠 GPU、ASIC 等高階測試強勁需求 封測雙雄大啖 AI 成長商機 7372",
+      "title": "受惠 GPU、ASIC 等高階測試強勁需求 封測雙雄大啖 AI 成長商機 8402",
       "description": "AI晶片測試需求暢旺，京元電、日月光投控迎來新一波成長商機，法人指出，受惠繪圖處理器（GPU）、客製化晶片（ASIC）及高效能運算需求強勁，加上新平台陸續放量、擴產效益浮現，且高階測試成為兩大廠搶攻AI訂單重要關鍵技術，下半年營運動能續強。",
       "publishedAt": "2026-09-27T02:47:54.611Z",
       "discoveredAt": "2026-09-27T02:47:54.611Z",
@@ -61,7 +91,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -587,36 +617,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_53721a60b5dc8115665b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9766731?from=edn_maintab_index",
-      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 摩根士丹利證券（大摩）釋出報告指出，全球前14大上市雲端服務供應商（CSP）2028年的總資本支出成長將放慢至12%，AI半導體年複合增長率（CAGR）則高達30%。在供應鏈中，AI、記憶體、封測...",
-      "description": "摩根士丹利證券（大摩）釋出報告指出，全球前14大上市雲端服務供應商（CSP）2028年的總資本支出成長將放慢至12%，AI半導體年複合增長率（CAGR）則高達30%。在供應鏈中，AI、記憶體、封測、半導體設備及成熟製程都將受惠，看好台積電、聯發科等23檔台股。",
-      "publishedAt": "2026-09-20T16:10:16.990Z",
-      "discoveredAt": "2026-09-20T16:10:16.990Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1309,126 +1309,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_27fdbb5e66af434f31ce",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9766599?from=edn_maintab_index",
-      "title": "AI 狂潮擋不住！今年全球半導體市場估衝1.6兆美元 記憶體恐缺到明年 南韓當局在分析各產研機構預測後所發布的報告預期，今年全球半導體市場規模有望攀抵1.6兆美元，比去年勁增一倍，2030年將續增至約2兆美元，反映儘管近來各界呼籲放緩人工智慧（AI）發展的呼聲升高，依...",
-      "description": "南韓當局在分析各產研機構預測後所發布的報告預期，今年全球半導體市場規模有望攀抵1.6兆美元，比去年勁增一倍，2030年將續增至約2兆美元，反映儘管近來各界呼籲放緩人工智慧（AI）發展的呼聲升高，依然擋不住AI基建熱潮。",
-      "publishedAt": "2026-09-20T16:10:16.990Z",
-      "discoveredAt": "2026-09-20T16:10:16.990Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a6ebdc9f50458f2bf39a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9766956?from=edn_newest_index",
-      "title": "蘋果也加入！ASIC 伺服器為何成各大 CSP 廠新焦點 業界：關鍵在這因素 | 科技產業 | 產業 | 經濟日報",
-      "description": "ASIC伺服器市場持續火熱，連蘋果也將捲土重來加入市場競爭，搶攻ASIC伺服器商機。包括微軟、Google、亞馬遜、Meta等雲端服務大廠（CSP），蘋果加入ASIC伺服器戰局，業界認為，關鍵在客製化AI模型運算的效率與成本。",
-      "publishedAt": "2026-09-20T16:10:16.990Z",
-      "discoveredAt": "2026-09-20T16:10:16.990Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f80827e0390c70443a90",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9766942?from=edn_newest_index",
-      "title": "代工廠為何擲重金擴大歐美 AI 伺服器產能？法人點出兩關鍵 | 科技產業 | 產業 | 經濟日報",
-      "description": "AI伺服器商機持續爆發，鴻海（2317）、廣達（2382）、緯創（3231）、仁寶（2324）、英業達（2356）、緯穎（6669）等伺服器代工大廠積極擴大台灣、美國、東南亞營運布局，各大代工廠捨棄以往集中亞洲產能布局，開始邁入營運成本較高的歐美市場。法人點出，原因在於客戶群確實需求、也降低地緣政治干擾。",
-      "publishedAt": "2026-09-20T16:10:16.990Z",
-      "discoveredAt": "2026-09-20T16:10:16.990Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a54d09a58d6204b2dde9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9766731?from=edn_hottest_index",
-      "title": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股 9135",
-      "description": "",
-      "publishedAt": "2026-09-20T16:10:16.990Z",
-      "discoveredAt": "2026-09-20T16:10:16.990Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_16d665be76ea04d48bb3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1545,6 +1425,156 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_86bc396707b473ea1208",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9780498?from=edn_maintab_index",
+      "title": "Meta 算力大建設 要將三大領域完整匯流 廣達、緯穎、台積有望受惠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "Meta全新AI代理工具「Muse」爆紅，執行長祖克柏接受專訪披露，Meta正展開5GW（10億瓦）算力大建設，積極打造元宇宙、硬體（智慧眼鏡），以及大語言模型等三大領域的完整匯流，目標2030年要達到融合物理世界和數位世界的願景。",
+      "publishedAt": "2026-09-27T18:33:26.298Z",
+      "discoveredAt": "2026-09-27T18:33:26.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_695cf6988ea32c228497",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11162/9780501?from=edn_maintab_index",
+      "title": "Google 、輝達新 PC 市場強心針 雙A、戴爾等五大品牌都有對應機種 | 科技產業 | 產業 | 經濟日報",
+      "description": "PC市場10月迎來新氣象，Google次世代Googlebook新機將於10月4日上市，宏碁、華碩、戴爾、惠普與聯想等五大品牌都有對應機種，伴隨首批搭載輝達RTX Spark晶片的筆電也將於10月開賣，業界看好兩大AI PC新品，將為第4季PC市場注入強心針。",
+      "publishedAt": "2026-09-27T18:33:26.298Z",
+      "discoveredAt": "2026-09-27T18:33:26.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ba9f919fdd1231928d6a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5628/9780523?from=edn_newest_index",
+      "title": "AI 代理越界 不能只靠企業自律 2026-09-28 02:03",
+      "description": "",
+      "publishedAt": "2026-09-27T18:33:26.298Z",
+      "discoveredAt": "2026-09-27T18:33:26.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8b7c567daad63923ddf5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9780389?from=edn_bloomberg_index_side",
+      "title": "AI 進課堂 美商學院翻轉教學",
+      "description": "",
+      "publishedAt": "2026-09-27T18:33:26.298Z",
+      "discoveredAt": "2026-09-27T18:33:26.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_243ee7319089bcadd8aa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9780401?from=edn_bloomberg_index_side",
+      "title": "培養學生獨立思考 不讓 AI 牽著走",
+      "description": "",
+      "publishedAt": "2026-09-27T18:33:26.298Z",
+      "discoveredAt": "2026-09-27T18:33:26.298Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1738,36 +1768,6 @@
       "url": "https://money.udn.com/money/story/5599/9778662?from=edn_maintab_index",
       "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 比爾．蓋茲警告，人工智慧（AI）如果落入惡人之手，足以殺死10億人。 蓋茲表示，「AI的確強大到足以引發使10億人死亡的事件。因此即使很難及於100%（的人類），但如果由懷惡意的人使用最先進的AI...",
       "description": "比爾．蓋茲警告，人工智慧（AI）如果落入惡人之手，足以殺死10億人。",
-      "publishedAt": "2026-09-26T05:57:55.745Z",
-      "discoveredAt": "2026-09-26T05:57:55.745Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_10ba6e17e2e65074e779",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9777961?from=edn_hottest_index",
-      "title": "暴走的AI 問題篇／AI 驚爆失控 台灣也成攻擊目標 3165",
-      "description": "",
       "publishedAt": "2026-09-26T05:57:55.745Z",
       "discoveredAt": "2026-09-26T05:57:55.745Z",
       "topics": [

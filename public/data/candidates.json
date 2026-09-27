@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-27T08:46:46.783Z",
+  "updatedAt": "2026-09-27T14:19:30.258Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-27T08:46:46.783Z",
+      "discoveredAt": "2026-09-27T14:19:30.258Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -47,7 +47,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9779318?from=edn_hottest_index",
-      "title": "受惠 GPU、ASIC 等高階測試強勁需求 封測雙雄大啖 AI 成長商機 5511",
+      "title": "受惠 GPU、ASIC 等高階測試強勁需求 封測雙雄大啖 AI 成長商機 7372",
       "description": "AI晶片測試需求暢旺，京元電、日月光投控迎來新一波成長商機，法人指出，受惠繪圖處理器（GPU）、客製化晶片（ASIC）及高效能運算需求強勁，加上新平台陸續放量、擴產效益浮現，且高階測試成為兩大廠搶攻AI訂單重要關鍵技術，下半年營運動能續強。",
       "publishedAt": "2026-09-27T02:47:54.611Z",
       "discoveredAt": "2026-09-27T02:47:54.611Z",
@@ -61,7 +61,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -625,17 +625,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_69a8481d9bdd5b05ffa2",
+      "id": "cand_1b43f0a1fa1e7b629b58",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9766551?from=edn_newest_index",
-      "title": "日經：全球主權基金避開中國 美國靠AI吸大量投資 | 國際焦點 | 國際 | 經濟日報",
-      "description": "由於中國房地產等問題依然沒有解決，世界各國的主權財富基金正避開當地市場，美國則靠著人工智慧（AI）公司吸引大量投資，鞏固...",
-      "publishedAt": "2026-09-20T12:08:33.613Z",
-      "discoveredAt": "2026-09-20T12:08:33.613Z",
+      "url": "https://money.udn.com/money/story/5599/9780463?from=edn_newest_index",
+      "title": "比爾蓋茲又開砲 這回鎖定川普 批AI防護不會阻礙與陸競爭 | 國際焦點 | 國際 | 經濟日報",
+      "description": "微軟共同創辦人比爾蓋茲說，政府採取防護措施、來避免潛在的AI災難性風險，不會阻礙美國與中國大陸的競爭，這與川普大致放任不管的作法形成對比。",
+      "publishedAt": "2026-09-27T14:19:22.575Z",
+      "discoveredAt": "2026-09-27T14:19:22.575Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -650,7 +650,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },

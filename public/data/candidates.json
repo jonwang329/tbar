@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-27T18:33:34.933Z",
+  "updatedAt": "2026-09-27T21:34:35.402Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-27T18:33:34.933Z",
+      "discoveredAt": "2026-09-27T21:34:35.402Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -47,7 +47,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9780512?from=edn_maintab_index",
-      "title": "大廠追加訂單 台積電2奈米擴產進度超前 年底月產能上看12萬片 | 產業熱點 | 產業 | 經濟日報",
+      "title": "大廠追加訂單 台積電2奈米擴產進度超前 年底月產能上看12萬片 蘋果、輝達、超微、高通、聯發科（2454）等大廠衝刺AI與高速運算（HPC）商機，傳出近期追加預訂台積電（2330）2奈米家族產能規模，增幅達10%至20%，台積電為此加速擴充2奈米家族產能擴建腳...",
       "description": "蘋果、輝達、超微、高通、聯發科等大廠衝刺AI與高速運算（HPC）商機，傳出近期追加預訂台積電2奈米家族產能規模，增幅達10%至20%，台積電為此加速擴充2奈米家族產能擴建腳步，進度優於預期，挹注整體營運動能更為強勁。",
       "publishedAt": "2026-09-27T18:33:26.298Z",
       "discoveredAt": "2026-09-27T18:33:26.298Z",
@@ -61,7 +61,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1159,156 +1159,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1e188b55f9ff79a26c82",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9766808?from=edn_maintab_index",
-      "title": "英特爾傳攜友達衝先進封裝 布局 CPO 與高密度算力晶片整合方案 英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達（2409）合作，攜手衝刺CP...",
-      "description": "英特爾衝刺先進封裝布局，除了發展嵌入式多晶片互連橋接（EMIB）系列技術之外，近期跨入Micro LED基板先進封裝領域，傳出找上台灣在Micro LED著墨最深的友達合作，攜手衝刺CPO與高密度算力晶片整合方案。",
-      "publishedAt": "2026-09-20T21:07:41.793Z",
-      "discoveredAt": "2026-09-20T21:07:41.793Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_508389b9a650e2081225",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9766809?from=edn_maintab_index",
-      "title": "成熟製程需求爆發、台積訂單外溢效應 聯電、力積電醞釀大漲價 AI推升半導體先進製程市況強勁，周邊電源管理IC、微控制器（MCU）、感測器及MOSFET等成熟製程晶片需求同步爆發，加上台積電（2330）淡出部分成熟製程後的訂單外溢效應，聯電（2303）、力積電...",
-      "description": "AI推升半導體先進製程市況強勁，周邊電源管理IC、微控制器（MCU）、感測器及MOSFET等成熟製程晶片需求同步爆發，加上台積電淡出部分成熟製程後的訂單外溢效應，聯電、力積電、世界先進等業者產能利用率衝上高檔、供不應求，聯電預告將發動「有感漲價」，力積電傳出報價要大漲四成。",
-      "publishedAt": "2026-09-20T21:07:41.793Z",
-      "discoveredAt": "2026-09-20T21:07:41.793Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1c579a4b6c3bda26cdd7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9766742?from=edn_maintab_index",
-      "title": "五大信賴產業總預算衝高 半導體、人工智慧受惠最大 合計占逾八成 行政院會已通過2027年中央政府總預算案，並送立法院審查。主計總處指出，五大信賴產業2027年編列362億元，較上年度相同基礎增加66億元，約增22.3％，其中又以半導體產業149億元、人工智慧（A...",
-      "description": "行政院會已通過2027年中央政府總預算案，並送立法院審查。主計總處指出，五大信賴產業2027年編列362億元，較上年度相同基礎增加66億元，約增22.3％，其中又以半導體產業149億元、人工智慧（AI）產業152億元，是最大受惠產業，兩者合計占逾八成。",
-      "publishedAt": "2026-09-20T21:07:41.793Z",
-      "discoveredAt": "2026-09-20T21:07:41.793Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_feb741a399251479253a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9766839?from=edn_maintab_index",
-      "title": "AI 基建熱潮無法擋 全球半導體市場拚倍增 今年規模預估衝上1.6兆美元 南韓當局在分析各產研機構預測後所發布的報告預期，今年全球半導體市場規模有望攀抵1.6兆美元，比去年勁增一倍，2030年將續增至約2兆美元，反映儘管近來各界呼籲放緩人工智慧（AI）發展的呼聲升高，依然...",
-      "description": "",
-      "publishedAt": "2026-09-20T21:07:41.793Z",
-      "discoveredAt": "2026-09-20T21:07:41.793Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e28dad158b6ffa34a654",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9766834?from=edn_newest_index",
-      "title": "科技論壇10月14日登場 中華電董座簡志誠：助百工百業導入 AI | 熱門話題 | 要聞 | 經濟日報",
-      "description": "2026年是「AI Agent（AI代理）規模化元年」，重新定義企業營運模式、商業流程與市場競爭規則，開啟產業新一波轉型契機。中華電信董事長簡志誠表示，中華電信除基礎網路及AIDC建設，針對百工百業不同營運場景導入AI，更強調AI治理，以AI建構資安防線。",
-      "publishedAt": "2026-09-20T18:50:13.288Z",
-      "discoveredAt": "2026-09-20T18:50:13.288Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_16d665be76ea04d48bb3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1436,7 +1286,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9780498?from=edn_maintab_index",
-      "title": "Meta 算力大建設 要將三大領域完整匯流 廣達、緯穎、台積有望受惠 | 產業熱點 | 產業 | 經濟日報",
+      "title": "Meta 算力大建設 要將三大領域完整匯流 廣達、緯穎、台積有望受惠 Meta全新AI代理工具「Muse」爆紅，執行長祖克柏接受專訪披露，Meta正展開5GW（10億瓦）算力大建設，積極打造元宇宙、硬體（智慧眼鏡），以及大語言模型等三大領域的完整匯流，目標2030年要...",
       "description": "Meta全新AI代理工具「Muse」爆紅，執行長祖克柏接受專訪披露，Meta正展開5GW（10億瓦）算力大建設，積極打造元宇宙、硬體（智慧眼鏡），以及大語言模型等三大領域的完整匯流，目標2030年要達到融合物理世界和數位世界的願景。",
       "publishedAt": "2026-09-27T18:33:26.298Z",
       "discoveredAt": "2026-09-27T18:33:26.298Z",
@@ -1450,7 +1300,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1466,7 +1316,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/11162/9780501?from=edn_maintab_index",
-      "title": "Google 、輝達新 PC 市場強心針 雙A、戴爾等五大品牌都有對應機種 | 科技產業 | 產業 | 經濟日報",
+      "title": "Google 、輝達新 PC 市場強心針 雙A、戴爾等五大品牌都有對應機種 PC市場10月迎來新氣象，Google次世代Googlebook新機將於10月4日上市，宏碁（2353）、華碩（2357）、戴爾、惠普與聯想等五大品牌都有對應機種，伴隨首批搭載輝達RTX Spark...",
       "description": "PC市場10月迎來新氣象，Google次世代Googlebook新機將於10月4日上市，宏碁、華碩、戴爾、惠普與聯想等五大品牌都有對應機種，伴隨首批搭載輝達RTX Spark晶片的筆電也將於10月開賣，業界看好兩大AI PC新品，將為第4季PC市場注入強心針。",
       "publishedAt": "2026-09-27T18:33:26.298Z",
       "discoveredAt": "2026-09-27T18:33:26.298Z",
@@ -1480,7 +1330,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1540,7 +1390,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1570,7 +1420,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1786,6 +1636,87 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d9ffc122620d6cf583bf",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
+      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "description": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+      "publishedAt": "Wed, 23 Sep 2026 02:30:22 GMT",
+      "discoveredAt": "2026-09-23T05:14:06.826Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cfddd696186488811183",
+      "sourceLastModified": "2026-09-23",
+      "sourceId": "deepmind-blog",
+      "sourceName": "Google DeepMind",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "title": "Advancing Private AI Compute with secure, server-side memory — Google DeepMind",
+      "description": "",
+      "publishedAt": "2026-09-23",
+      "discoveredAt": "2026-09-23T18:56:45.889Z",
+      "topics": [
+        "AI",
+        "research",
+        "models",
+        "science"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e8911cd6fb39770f240c",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "description": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+      "publishedAt": "Mon, 21 Sep 2026 16:00:00 GMT",
+      "discoveredAt": "2026-09-21T18:44:13.006Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

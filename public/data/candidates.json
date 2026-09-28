@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-28T04:30:47.229Z",
+  "updatedAt": "2026-09-28T11:11:46.253Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-28T04:30:47.229Z",
+      "discoveredAt": "2026-09-28T11:11:46.253Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -121,7 +121,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -579,63 +579,6 @@
       "description": "",
       "publishedAt": "2026-09-21T13:08:53.050Z",
       "discoveredAt": "2026-09-21T13:08:53.050Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6a05fca3c0fee7be6db4",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
-      "title": "5 Companies Using NVIDIA AI for Clean Energy",
-      "description": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
-      "publishedAt": "Mon, 21 Sep 2026 10:00:35 GMT",
-      "discoveredAt": "2026-09-21T13:08:53.050Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a73f2b95ae2c07a715e9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9768066?from=edn_newest_index",
-      "title": "微軟：未來2到3年算力供不應求 在台資料中心擴建至4座 2026-09-21 14:21",
-      "description": "",
-      "publishedAt": "2026-09-21T06:24:29.718Z",
-      "discoveredAt": "2026-09-21T06:24:29.718Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1159,6 +1102,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_227237f92b95fa36a5e5",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "description": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents.",
+      "publishedAt": "Mon, 28 Sep 2026 09:00:00 GMT",
+      "discoveredAt": "2026-09-28T11:11:38.603Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_16d665be76ea04d48bb3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1279,6 +1249,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_74762c9f8addffe40db8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9781701?from=edn_maintab_index",
+      "title": "輝達發布新安全軟體 可阻止 AI 代理失控 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達28日推出新的安全工具，宣稱可阻止AI代理失控，要是早早安裝，能避免先前Hugging Face遭駭事件。",
+      "publishedAt": "2026-09-28T11:11:38.603Z",
+      "discoveredAt": "2026-09-28T11:11:38.603Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3a4931a45ff40932c6d3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9780837?from=edn_bloomberg_index_side",
+      "title": "AI漏洞加劇安全擔憂之際 川普據悉會見Anthropic執行長",
+      "description": "",
+      "publishedAt": "2026-09-28T11:11:38.603Z",
+      "discoveredAt": "2026-09-28T11:11:38.603Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_eeaa627ce9538123b15c",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1286,7 +1316,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9780463?from=edn_hottest_index",
-      "title": "比爾蓋茲又開砲 這回鎖定川普 批 AI 防護不會阻礙與陸競爭 5321",
+      "title": "比爾蓋茲又開砲 這回鎖定川普 批 AI 防護不會阻礙與陸競爭 5922",
       "description": "",
       "publishedAt": "2026-09-28T04:30:39.749Z",
       "discoveredAt": "2026-09-28T04:30:39.749Z",
@@ -1300,7 +1330,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1327,7 +1357,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1744,33 +1774,6 @@
       "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e8911cd6fb39770f240c",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "description": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
-      "publishedAt": "Mon, 21 Sep 2026 16:00:00 GMT",
-      "discoveredAt": "2026-09-21T18:44:13.006Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,

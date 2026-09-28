@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-27T23:56:29.437Z",
+  "updatedAt": "2026-09-28T04:30:47.229Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-27T23:56:29.437Z",
+      "discoveredAt": "2026-09-28T04:30:47.229Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_7fef371a388e7ce9ffa4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9780804",
+      "title": "從藝妓白粉到 AI 伺服器用 MLCC 百年老店堺化學接單大增擬擴產 | 國際焦點 | 國際 | 經濟日報",
+      "description": "日本堺化學工業逾百年來為藝妓使用的白粉製造細緻粉末，如今這門技術有了獲利可觀的新用途：供應人工智慧（AI）產業所需的材料。",
+      "publishedAt": "2026-09-28T04:30:39.749Z",
+      "discoveredAt": "2026-09-28T04:30:39.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_6970804cb26855bb62a0",
@@ -91,7 +121,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1249,6 +1279,63 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_eeaa627ce9538123b15c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9780463?from=edn_hottest_index",
+      "title": "比爾蓋茲又開砲 這回鎖定川普 批 AI 防護不會阻礙與陸競爭 5321",
+      "description": "",
+      "publishedAt": "2026-09-28T04:30:39.749Z",
+      "discoveredAt": "2026-09-28T04:30:39.749Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_28a9682a45659c868c6f",
+      "sourceLastModified": "2026-09-28T03:20:50.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/anthropic-infosys",
+      "title": "Anthropic and Infosys build AI agents",
+      "description": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries.",
+      "publishedAt": "2026-09-28T03:20:50.000Z",
+      "discoveredAt": "2026-09-09T22:52:01.880Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_86bc396707b473ea1208",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1270,7 +1357,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1300,7 +1387,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

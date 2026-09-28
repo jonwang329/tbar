@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-28T18:36:52.584Z",
+  "updatedAt": "2026-09-28T23:30:24.807Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-28T18:36:52.584Z",
+      "discoveredAt": "2026-09-28T23:30:24.807Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -511,17 +511,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_8ac3bf40816dfcf49730",
+      "id": "cand_847eae82fb33ef8542c3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9769214?from=edn_maintab_index",
-      "title": "AMD 股價跳漲近10% 市值衝破1兆美元大關 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國晶片大廠超微（AMD）21日早盤股價強漲，市值翻越1兆美元大關，加入少數達到這項里程碑的晶片製造商行列，反映投資人看好該公司在人工智慧（AI）運算領域的影響力持續擴大。",
-      "publishedAt": "2026-09-21T18:44:13.006Z",
-      "discoveredAt": "2026-09-21T18:44:13.006Z",
+      "url": "https://money.udn.com/money/story/5612/9782091?from=edn_maintab_index",
+      "title": "輝達釋出 AI 工廠認證規範點火儲能商機 有望釋單台達電、光寶 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達於官網首度釋出AI工廠認證規範「DSX Ready to Qualified」，聚焦儲能、散熱兩大領域，儲能是輝達過往鮮少提及的項目，最受關注，特斯拉是首波入列認證廠商。台廠中，電源雙雄台達電、光寶都是特斯拉儲能供應鏈，躋身輝達AI工廠儲能商機第一梯隊，有望迎來大單。",
+      "publishedAt": "2026-09-28T23:30:13.689Z",
+      "discoveredAt": "2026-09-28T23:30:13.689Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -536,7 +536,37 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_898701bbda08da222381",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9782069?from=edn_maintab_index",
+      "title": "世界：8吋廠產能徹底爆掉 董座方略喊短缺將延續數年 | 產業熱點 | 產業 | 經濟日報",
+      "description": "世界先進董事長方略昨（28）日表示，AI浪潮帶旺半導體需求，成熟製程供需吃緊狀況恐延續數年，缺產能的時間可能比短期景氣循環更長。",
+      "publishedAt": "2026-09-28T23:30:13.689Z",
+      "discoveredAt": "2026-09-28T23:30:13.689Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1039,7 +1069,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1168,6 +1198,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_84c680d1ba387e1bb92d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9782298?from=edn_newest_index",
+      "title": "超微將砸82億美元 收購AI企業World Labs 2026-09-29 06:00",
+      "description": "",
+      "publishedAt": "2026-09-28T23:30:13.689Z",
+      "discoveredAt": "2026-09-28T23:30:13.689Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_e779da7917b0954c49f4",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1205,7 +1265,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9781729?from=edn_hottest_index",
-      "title": "AI 代理闖禍女性超危險！Muse 擅自賣東西、洩地址 還約買家上門 3281",
+      "title": "AI 代理闖禍女性超危險！Muse 擅自賣東西、洩地址 還約買家上門 3658",
       "description": "",
       "publishedAt": "2026-09-28T18:36:39.244Z",
       "discoveredAt": "2026-09-28T18:36:39.244Z",
@@ -1219,7 +1279,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1249,7 +1309,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1259,7 +1319,7 @@
     },
     {
       "id": "cand_cc204a7229befa2f23c0",
-      "sourceLastModified": "2026-09-28T17:51:08.170Z",
+      "sourceLastModified": "2026-09-28T21:46:47.819Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1276,7 +1336,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1336,7 +1396,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1649,7 +1709,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9778662?from=edn_hottest_index",
-      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 3327",
+      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 3446",
       "description": "",
       "publishedAt": "2026-09-26T18:31:11.900Z",
       "discoveredAt": "2026-09-26T18:31:11.900Z",
@@ -1729,63 +1789,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7d091d1daba517e5cec6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9778662?from=edn_maintab_index",
-      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 比爾．蓋茲警告，人工智慧（AI）如果落入惡人之手，足以殺死10億人。 蓋茲表示，「AI的確強大到足以引發使10億人死亡的事件。因此即使很難及於100%（的人類），但如果由懷惡意的人使用最先進的AI...",
-      "description": "比爾．蓋茲警告，人工智慧（AI）如果落入惡人之手，足以殺死10億人。",
-      "publishedAt": "2026-09-26T05:57:55.745Z",
-      "discoveredAt": "2026-09-26T05:57:55.745Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d9ffc122620d6cf583bf",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "description": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
-      "publishedAt": "Wed, 23 Sep 2026 02:30:22 GMT",
-      "discoveredAt": "2026-09-23T05:14:06.826Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

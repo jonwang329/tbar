@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-29T15:43:56.061Z",
+  "updatedAt": "2026-09-29T20:14:50.772Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,32 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-29T15:43:56.061Z",
+      "discoveredAt": "2026-09-29T20:14:50.772Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-09-29T20:14:50.772Z",
+      "discoveredAt": "2026-09-29T20:14:50.772Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
     },
     {
       "id": "cand_a461119d939b1ade4ff7",
@@ -460,30 +484,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-09-22T19:14:51.986Z",
-      "discoveredAt": "2026-09-22T19:14:51.986Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
       "id": "cand_08af269115b797b9c0a5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -491,7 +491,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9784317?from=edn_maintab_index",
-      "title": "美股早盤／油價下跌 科技股回神 費半攀漲1.7% 市場關注 AI 午餐會 | 美股動態 | 國際 | 經濟日報",
+      "title": "美股早盤／油價下跌 科技股回神 費半攀漲1.7% 市場關注 AI 午餐會 在國際油價回落，美債殖利率略為下滑之際，美股三大指數29日早盤均在平盤附近遊走，但晶片股表現不錯，費城半導體指數揚升1.7%，即將在30日盤後發布上季財報的美光上漲0.9%。台積電ADR則跌0.8%...",
       "description": "在國際油價回落，美債殖利率略為下滑之際，美股三大指數29日早盤均在平盤附近遊走，但晶片股表現不錯，費城半導體指數揚升1.7%，即將在30日盤後發布上季財報的美光上漲0.9%。台積電ADR則跌0.8%。",
       "publishedAt": "2026-09-29T15:43:48.461Z",
       "discoveredAt": "2026-09-29T15:43:48.461Z",
@@ -505,7 +505,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -611,7 +611,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9782226?from=edn_hottest_index",
-      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 8060",
+      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 8095",
       "description": "",
       "publishedAt": "2026-09-29T02:42:13.235Z",
       "discoveredAt": "2026-09-29T02:42:13.235Z",
@@ -1231,6 +1231,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_c21a01123474dfba75b7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9784569?from=edn_maintab_index",
+      "title": "上任滿月 蘋果CEO特納斯正著手改革公司... | 美股動態 | 國際 | 經濟日報",
+      "description": "都說新官上任三把火，蘋果公司執行長特納斯上任將滿一個月，傳出他正與主管群討論改革計畫，希望加快產品開發速度，擴大產品陣容，並創造一個更精簡、更注重工程的組織，以便在人工智慧（AI）時代保持競爭力。",
+      "publishedAt": "2026-09-29T20:14:42.886Z",
+      "discoveredAt": "2026-09-29T20:14:42.886Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2285e681f5de6299c0da",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9784535?from=edn_newest_index",
+      "title": "科技論壇10月14日登場 潘健成：AI落地潮正要開始 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "群聯創辦人暨執行長潘健成表示，AI代理（AI Agent）引爆的AI落地潮正開始，看好AI PC與混合雲商機，隨著「養AI龍蝦」應用需求快速成長，AI SSD儲存及資安解決方案需求同步提升，帶動儲存產業迎向新一波發展機會。",
+      "publishedAt": "2026-09-29T20:14:42.886Z",
+      "discoveredAt": "2026-09-29T20:14:42.886Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9d1b077e1c6d15e0d223",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9783318?from=edn_hottest_index",
+      "title": "友達、仁寶、緯創共組 GOLF 學用接軌聯盟 | 產業熱點 | 產業 | 經濟日報",
+      "description": "由友達光電（2409）、仁寶電腦（2324）、緯創資通（3231）共同發起的 GOLF 學用接軌聯盟，提供超過 700 門產業導向課程，累積超過 2 萬名學生參與學習平台，並透過企業專案與實習資源，協助學生接軌職場。持續關注聯盟發展的榮譽理事長施振榮，也親自出席聯盟活動，支持校企攜手育才。他分享透過 AI 對話整理想法的經驗，並談及如何讓 AI 從「智能」走向「智慧」，呈現他對科技應用與持續學習的關注。",
+      "publishedAt": "2026-09-29T20:14:42.886Z",
+      "discoveredAt": "2026-09-29T20:14:42.886Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_7bf6206510d7dfad241a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1402,7 +1492,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1429,7 +1519,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1702,60 +1792,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d9ffc122620d6cf583bf",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
-      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "description": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
-      "publishedAt": "Wed, 23 Sep 2026 02:30:22 GMT",
-      "discoveredAt": "2026-09-23T05:14:06.826Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cfddd696186488811183",
-      "sourceLastModified": "2026-09-23",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-      "title": "Advancing Private AI Compute with secure, server-side memory — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-09-23",
-      "discoveredAt": "2026-09-23T18:56:45.889Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

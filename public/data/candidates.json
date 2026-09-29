@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-28T23:30:24.807Z",
+  "updatedAt": "2026-09-29T02:42:22.511Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-28T23:30:24.807Z",
+      "discoveredAt": "2026-09-29T02:42:22.511Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_fa852b17a9a9618c0bd2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9782481",
+      "title": "大賣空貝瑞押 AI 泡沫提早破！美股警訊曝光 五檔股撐標普近93%漲幅 | 美股動態 | 國際 | 經濟日報",
+      "description": "電影《大賣空》（The Big Short）原型人物之一、以押空美國房市泡沫聞名的投資人貝瑞（Michael Burry），認為AI泡沫可能比他原先預期更早破裂，並調整看空押注。此時正值美股指數逼近高點，漲勢卻愈來愈仰賴少數大型科技股。",
+      "publishedAt": "2026-09-29T02:42:13.235Z",
+      "discoveredAt": "2026-09-29T02:42:13.235Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5c8a2e2f71713f2b2b64",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9782481?from=edn_maintab_index",
+      "title": "大賣空貝瑞押 AI 泡沫提早破！美股警訊曝光 五檔股撐標普近93%漲幅 電影《大賣空》（The Big Short）原型人物之一、以押空美國房市泡沫聞名的投資人貝瑞（Michael Burry），認為AI泡沫可能比他原先預期更早破裂，並調整看空押注。此時正值美股指數逼...",
+      "description": "",
+      "publishedAt": "2026-09-29T02:42:13.235Z",
+      "discoveredAt": "2026-09-29T02:42:13.235Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_7fef371a388e7ce9ffa4",
@@ -511,6 +571,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_fe74917b51b38bf0b185",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9782226?from=edn_hottest_index",
+      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 5041",
+      "description": "",
+      "publishedAt": "2026-09-29T02:42:13.235Z",
+      "discoveredAt": "2026-09-29T02:42:13.235Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_847eae82fb33ef8542c3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -518,7 +608,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9782091?from=edn_maintab_index",
-      "title": "輝達釋出 AI 工廠認證規範點火儲能商機 有望釋單台達電、光寶 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達釋出 AI 工廠認證規範點火儲能商機 有望釋單台達電、光寶 輝達於官網首度釋出AI工廠認證規範「DSX Ready to Qualified」，聚焦儲能、散熱兩大領域，儲能是輝達過往鮮少提及的項目，最受關注，特斯拉是首波入列認證廠商。台廠中，電源雙雄台達電（...",
       "description": "輝達於官網首度釋出AI工廠認證規範「DSX Ready to Qualified」，聚焦儲能、散熱兩大領域，儲能是輝達過往鮮少提及的項目，最受關注，特斯拉是首波入列認證廠商。台廠中，電源雙雄台達電、光寶都是特斯拉儲能供應鏈，躋身輝達AI工廠儲能商機第一梯隊，有望迎來大單。",
       "publishedAt": "2026-09-28T23:30:13.689Z",
       "discoveredAt": "2026-09-28T23:30:13.689Z",
@@ -532,7 +622,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1021,36 +1111,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_dfb2c914abebde074330",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9769605?from=edn_newest_index",
-      "title": "越南AI用電暴增供需失衡 明年面臨缺電台商提前備援 | 國際焦點 | 國際 | 經濟日報",
-      "description": "越南政府示警，因發電及電網工程嚴重落後，加上高科技與AI數據中心用電暴增，明年起將面臨嚴峻缺電威脅，當局正緊急擬定應對措...",
-      "publishedAt": "2026-09-22T00:58:18.106Z",
-      "discoveredAt": "2026-09-22T00:58:18.106Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_227237f92b95fa36a5e5",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1198,6 +1258,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_65f549e1c3c2e83ebf57",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9782754?from=edn_newest_index",
+      "title": "教宗良十四世公開批評黃仁勳！質疑低估AI失控風險 2026-09-29 10:35",
+      "description": "",
+      "publishedAt": "2026-09-29T02:42:13.235Z",
+      "discoveredAt": "2026-09-29T02:42:13.235Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_84c680d1ba387e1bb92d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1265,7 +1355,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9781729?from=edn_hottest_index",
-      "title": "AI 代理闖禍女性超危險！Muse 擅自賣東西、洩地址 還約買家上門 3658",
+      "title": "AI 代理闖禍女性超危險！Muse 擅自賣東西、洩地址 還約買家上門 4679",
       "description": "",
       "publishedAt": "2026-09-28T18:36:39.244Z",
       "discoveredAt": "2026-09-28T18:36:39.244Z",
@@ -1279,7 +1369,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1309,7 +1399,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1319,7 +1409,7 @@
     },
     {
       "id": "cand_cc204a7229befa2f23c0",
-      "sourceLastModified": "2026-09-28T21:46:47.819Z",
+      "sourceLastModified": "2026-09-29T00:17:26.848Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1336,7 +1426,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1694,96 +1784,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8daeee0a16b1c1834266",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9778662?from=edn_hottest_index",
-      "title": "比爾．蓋茲警告 AI 落入惡人之手將足以殺死10億人 3446",
-      "description": "",
-      "publishedAt": "2026-09-26T18:31:11.900Z",
-      "discoveredAt": "2026-09-26T18:31:11.900Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 30,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d7207b5ddc850bf66587",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123058/9775380",
-      "title": "2026金點設計獎入圍揭曉！「雙神香火袋」尬曼谷舊倉庫美術館、茶籽堂南澳製油所同場較勁 | 藝文展演 | 品味 | 經濟日報",
-      "description": "2026金點設計獎與金點概念設計獎日前公布「年度最佳設計獎」入圍名單！經決審階段的激烈角逐，「金點設計獎」自 474 件標章得獎作品中，選出 105 件角逐最高榮耀；「金點概念設計獎」則有 6 件展現前瞻視野的創新提案入圍。 105件作品角逐年度最佳 11月26日北藝中心揭曉 2026金點設計獎與金點概念設計獎入圍作品皆將於本年度「金點設計展」精彩展出，而象徵最高榮譽的「年度最佳設計獎」得主，將會在11月26日（四）晚間於臺北表演藝術中心舉辦的頒獎典禮上正式揭曉。 從AI機器人到電輔折疊車 產品設計跨域比創新 今年度入圍作品涵蓋台灣、中國大陸、香港、韓國、日本、印尼、泰國、馬來西亞、土耳其等9地，不僅展現美學與技術的突破，更回應永續循環、地方創生、高齡照護與跨界整合等當代議題。 產品設計類包括卡訊電子「T-Flex無線會議麥克風」、太平洋自行車「E-BIRDY」，以及和碩聯合科技「Simba II模組化四足機器人」等作品，從混合式會議、都會移動一路延伸至工業巡檢與搜救防災。 媽祖、靈安尊王「雙神同框」 傳統香火袋變身當代設計 傳達設計類中，中華文化總會「艋舺青山宮×北港朝天宮聯名",
-      "publishedAt": "2026-09-26T14:59:54.541Z",
-      "discoveredAt": "2026-09-26T14:59:54.541Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_791dd0edc528d181fbc0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9779181?from=edn_maintab_index",
-      "title": "Fed 做錯了嗎？避險基金大亨：AI 時代升息抗通膨恐適得其反 避險基金大亨、潘興廣場（Pershing Square）執行長艾克曼（Bill Ackman）表示，聯準會（Fed）上周決定升息是錯誤之舉，因為人工智慧（AI）正在改寫央行因應通膨時，藉升息來壓低需...",
-      "description": "避險基金大亨、潘興廣場（Pershing Square）執行長艾克曼（Bill Ackman）表示，聯準會（Fed）上周決定升息是錯誤之舉，因為人工智慧（AI）正在改寫央行因應通膨時，藉升息來壓低需求的規則。他說，這麼做反而可能使通膨惡化。",
-      "publishedAt": "2026-09-26T14:59:54.541Z",
-      "discoveredAt": "2026-09-26T14:59:54.541Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

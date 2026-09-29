@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-29T02:42:22.511Z",
+  "updatedAt": "2026-09-29T09:04:32.281Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-29T02:42:22.511Z",
+      "discoveredAt": "2026-09-29T09:04:32.281Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_a461119d939b1ade4ff7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9783485?from=edn_maintab_index",
+      "title": "MSCI 推出 AI 價值鏈指數 讓投資人精準曝險與避險拆解供應鏈 指數編纂業者MSCI表示，已推出一系列AI價值鏈指數，協助投資人更精準地對AI產業進行曝險與避險。 MSCI於8月底推出14項指數，涵蓋全球AI供應鏈企業，從實體與數位基礎設施一路延伸至AI應用。...",
+      "description": "",
+      "publishedAt": "2026-09-29T09:04:24.278Z",
+      "discoveredAt": "2026-09-29T09:04:24.278Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_fa852b17a9a9618c0bd2",
@@ -571,6 +601,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_5fbc90849a0987718429",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9783729",
+      "title": "AI 記憶體風向球來了！美光將公布財報 台系概念股上演「押寶行情」 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美光（Micron）即將公布最新一季財報，成為AI族群的多空風向球，市場屏息以待。由於華爾街投行多數預期美光將繳出亮眼佳績，因而吸引買盤紛紛卡位，激勵台廠如旺宏（2337）、力積電（6770）等29日股價逆勢走強。",
+      "publishedAt": "2026-09-29T09:04:24.278Z",
+      "discoveredAt": "2026-09-29T09:04:24.278Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7b478455f721bcebc954",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9782566?from=edn_maintab_index",
+      "title": "Anthropic 衝算力！估未來幾年豪擲5,180億美元 揭露去年淨損420億元 根據路透見到的首次公開發行股票（IPO）公開說明書，Anthropic正大力押注AI為全球經濟帶來的轉型程度，將遠遠高於工業化、電力與網路。 不過，要付出的代價也很驚人。Anthropic公布2...",
+      "description": "",
+      "publishedAt": "2026-09-29T09:04:24.278Z",
+      "discoveredAt": "2026-09-29T09:04:24.278Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_fe74917b51b38bf0b185",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -578,7 +668,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9782226?from=edn_hottest_index",
-      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 5041",
+      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 7157",
       "description": "",
       "publishedAt": "2026-09-29T02:42:13.235Z",
       "discoveredAt": "2026-09-29T02:42:13.235Z",
@@ -592,7 +682,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1081,36 +1171,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d281255a30528250f105",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9768614?from=edn_hottest_index",
-      "title": "2028 年後 AI 怎麼走？花旗大爆料 四大台廠稱霸下一波浪潮 8466",
-      "description": "",
-      "publishedAt": "2026-09-22T06:05:14.125Z",
-      "discoveredAt": "2026-09-22T06:05:14.125Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_227237f92b95fa36a5e5",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1129,7 +1189,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1258,6 +1318,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_7bf6206510d7dfad241a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9781888?from=edn_hottest_index",
+      "title": "AI幫你自動搬錢賺優息！新型「銀行擠兌」要來了 7980",
+      "description": "",
+      "publishedAt": "2026-09-29T09:04:24.278Z",
+      "discoveredAt": "2026-09-29T09:04:24.278Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_65f549e1c3c2e83ebf57",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1355,7 +1445,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9781729?from=edn_hottest_index",
-      "title": "AI 代理闖禍女性超危險！Muse 擅自賣東西、洩地址 還約買家上門 4679",
+      "title": "AI 代理闖禍女性超危險！Muse 擅自賣東西、洩地址 還約買家上門 5765",
       "description": "",
       "publishedAt": "2026-09-28T18:36:39.244Z",
       "discoveredAt": "2026-09-28T18:36:39.244Z",
@@ -1369,7 +1459,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1399,7 +1489,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1409,7 +1499,7 @@
     },
     {
       "id": "cand_cc204a7229befa2f23c0",
-      "sourceLastModified": "2026-09-29T00:17:26.848Z",
+      "sourceLastModified": "2026-09-29T02:55:06.329Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1426,7 +1516,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1543,7 +1633,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1694,96 +1784,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e03f45ed345047563f4a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9780183?from=edn_newest_index",
-      "title": "下一代晶片軍備賽開跑 這 ETF 靠韓股記憶體雙雄成市場焦點 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股市場中唯一高純度涵蓋韓國前五十名市值龍頭的大華韓國KOSPI50（009829），因重倉持股兩大 AI 記憶體霸主並涵蓋軍工重工龍頭，可望在這波由外資引領的評價重估（Re-rating）浪潮中展現極具想像空間的營利紅利。",
-      "publishedAt": "2026-09-27T08:46:39.112Z",
-      "discoveredAt": "2026-09-27T08:46:39.112Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_322c95d52933a0cffd77",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9779181?from=edn_hottest_index",
-      "title": "Fed 做錯了嗎？避險基金大亨：AI 時代升息抗通膨恐適得其反 3904",
-      "description": "",
-      "publishedAt": "2026-09-26T21:29:23.173Z",
-      "discoveredAt": "2026-09-26T21:29:23.173Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a1476daf8a2006c70a3f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5739/9779197?from=edn_newest_index",
-      "title": "精測凱基5B購01 潛利足 | 權證特區 | 證券 | 經濟日報",
-      "description": "精測受惠AI伺服器需求持續推升HPC測試需求，探針卡業務將迎來新成長動能，相關權證可伺機布局。",
-      "publishedAt": "2026-09-26T18:31:11.900Z",
-      "discoveredAt": "2026-09-26T18:31:11.900Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

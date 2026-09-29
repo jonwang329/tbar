@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-29T09:04:32.281Z",
+  "updatedAt": "2026-09-29T15:43:56.061Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-29T09:04:32.281Z",
+      "discoveredAt": "2026-09-29T15:43:56.061Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -484,47 +484,17 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_a634edbcec4ab7e2d254",
+      "id": "cand_08af269115b797b9c0a5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9771527?from=edn_maintab_index",
-      "title": "美股早盤／記憶體俏 那指再刷盤中高 蘋果市值一度破5兆美元 AI交易漲勢再起、加上油價回落，投資人關注伊朗情勢，美股22日早盤四大漲數漲跌互見，那斯達克指數再次刷新盤中高。 道瓊工業指數早盤下挫0.1%，標普500指數上漲0.1%，那斯達克指數漲0.4%，...",
-      "description": "AI交易漲勢再起、加上油價回落，投資人關注伊朗情勢，美股22日早盤四大漲數漲跌互見，那斯達克指數再次刷新盤中高。",
-      "publishedAt": "2026-09-22T15:39:18.290Z",
-      "discoveredAt": "2026-09-22T15:39:18.290Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_72e7146d46e5f6c9f2a8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11799/9771569?from=edn_newest_index",
-      "title": "玉山獎聚焦創新永續 打造台灣國家品牌 | 產業動態 | 商情 | 經濟日報",
-      "description": "國內最具權威規模最盛大的企業獎項「第23屆國家品牌玉山獎」頒獎典禮今（22）日晚上7時在台北公務人力發展中心卓越堂盛大舉行，為每年全國企業矚目的焦點，典禮當天產、官、學界菁英代表齊聚一堂，共同見證這歷史性的時刻。代表總統親臨現場致詞頒獎的總統府副秘書長何志偉表示，玉山獎已成為台灣企業品牌的重要舞台，也是拓展國際市場的重要認證。面對AI、關稅、人才及產業環境快速變化等挑戰，政府將與企業攜手尋找新機會。",
-      "publishedAt": "2026-09-22T15:39:18.290Z",
-      "discoveredAt": "2026-09-22T15:39:18.290Z",
+      "url": "https://money.udn.com/money/story/123398/9784317?from=edn_maintab_index",
+      "title": "美股早盤／油價下跌 科技股回神 費半攀漲1.7% 市場關注 AI 午餐會 | 美股動態 | 國際 | 經濟日報",
+      "description": "在國際油價回落，美債殖利率略為下滑之際，美股三大指數29日早盤均在平盤附近遊走，但晶片股表現不錯，費城半導體指數揚升1.7%，即將在30日盤後發布上季財報的美光上漲0.9%。台積電ADR則跌0.8%。",
+      "publishedAt": "2026-09-29T15:43:48.461Z",
+      "discoveredAt": "2026-09-29T15:43:48.461Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -539,49 +509,22 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_9f684a714f6c3fa47102",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "description": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
-      "publishedAt": "Tue, 22 Sep 2026 12:00:41 GMT",
-      "discoveredAt": "2026-09-22T15:39:18.290Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5f9444a3fade9a4852d2",
+      "id": "cand_374ba3d4b1f5188cedd1",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124480/9768405?from=edn_maintab_index",
-      "title": "懶人投資時代？1／記者實測 AI 代操比特幣 第7天翻倍沒想到迅速腰斬 「只要選擇策略、輸入金額，再按下啟動，AI代理就能幫投資人賺錢？」經濟日報記者孫靖媛為了實測AI代理投資到底是怎麼一回事，她在七、八月時拿出新台幣3,000元，在加密貨幣交易所OKX展開一個月的實...",
-      "description": "「只要選擇策略、輸入金額，再按下啟動，AI代理就能幫投資人賺錢？」經濟日報記者孫靖媛為了實測AI代理投資到底是怎麼一回事，她在七、八月時拿出新台幣3,000元，在加密貨幣交易所OKX展開一個月的實驗。",
-      "publishedAt": "2026-09-22T11:30:07.582Z",
-      "discoveredAt": "2026-09-22T11:30:07.582Z",
+      "url": "https://money.udn.com/money/story/5612/9782091?from=edn_hottest_index",
+      "title": "輝達釋出 AI 工廠認證規範點火儲能商機 有望釋單台達電、光寶 6249",
+      "description": "",
+      "publishedAt": "2026-09-29T15:43:48.461Z",
+      "discoveredAt": "2026-09-29T15:43:48.461Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -592,11 +535,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -668,7 +611,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9782226?from=edn_hottest_index",
-      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 7157",
+      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 8060",
       "description": "",
       "publishedAt": "2026-09-29T02:42:13.235Z",
       "discoveredAt": "2026-09-29T02:42:13.235Z",
@@ -682,7 +625,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1133,36 +1076,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90352047b984f88f567f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9771464?from=edn_maintab_index",
-      "title": "記憶體不是已不缺！東擎3對策備戰記憶體、SSD 看好 AI Box 明年放量 和碩（4938）集團小金孫東擎科技（7710）專注工業電腦市場，將於10月下旬上市，今年因接到北美遊戲串流大廠專案ODM訂單，東擎業績翻倍成長，為此公司也提高記憶體及處理器庫存因應，對於近期記憶體價...",
-      "description": "和碩（4938）集團小金孫東擎科技（7710）專注工業電腦市場，將於10月下旬上市，今年因接到北美遊戲串流大廠專案ODM訂單，東擎業績翻倍成長，為此公司也提高記憶體及處理器庫存因應，對於近期記憶體價格多空訊息紛雜，公司點出因為這原因，記憶體處於「混沌未明」的過渡空檔。",
-      "publishedAt": "2026-09-22T15:39:18.290Z",
-      "discoveredAt": "2026-09-22T15:39:18.290Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1789,6 +1702,60 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d9ffc122620d6cf583bf",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
+      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "description": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+      "publishedAt": "Wed, 23 Sep 2026 02:30:22 GMT",
+      "discoveredAt": "2026-09-23T05:14:06.826Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cfddd696186488811183",
+      "sourceLastModified": "2026-09-23",
+      "sourceId": "deepmind-blog",
+      "sourceName": "Google DeepMind",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "title": "Advancing Private AI Compute with secure, server-side memory — Google DeepMind",
+      "description": "",
+      "publishedAt": "2026-09-23",
+      "discoveredAt": "2026-09-23T18:56:45.889Z",
+      "topics": [
+        "AI",
+        "research",
+        "models",
+        "science"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

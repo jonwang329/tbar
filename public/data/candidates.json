@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-30T15:52:05.785Z",
+  "updatedAt": "2026-09-30T20:25:39.546Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-30T15:52:05.785Z",
+      "discoveredAt": "2026-09-30T20:25:39.546Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -61,7 +61,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -88,7 +88,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -232,7 +232,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -552,66 +552,6 @@
       "description": "",
       "publishedAt": "2026-09-24T15:19:15.264Z",
       "discoveredAt": "2026-09-24T15:19:15.264Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fb9d909c8a071063fb07",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5628/9774194?from=edn_newest_index",
-      "title": "台灣 AI 升級 應補強數據與法制 | 社論 | 專欄 | 經濟日報",
-      "description": "全球人工智慧競賽已從模型性能進入算力、數據與資本全面競逐的新階段。台灣擁有全球關鍵的半導體製造與硬體供應鏈，在AI浪潮中占有重要位置；但若只拚晶片、伺服器與資料中心，卻沒有同步完善數據利用、智慧財產權及金融制度，台灣恐怕仍只能扮演全球AI產業的製造基地，難以取得更高附加價值。",
-      "publishedAt": "2026-09-23T18:56:45.889Z",
-      "discoveredAt": "2026-09-23T18:56:45.889Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4542b6be3c7109185320",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5604/9772485?from=edn_bloomberg_index_side",
-      "title": "阿里巴巴加速擴張歐洲和中東的數據中心布局 宣示 AI 基建投資",
-      "description": "",
-      "publishedAt": "2026-09-23T18:56:45.889Z",
-      "discoveredAt": "2026-09-23T18:56:45.889Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1171,36 +1111,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_7f539fe910916f208a09",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9774239?from=edn_maintab_index",
-      "title": "川習會該談合作監管 AI？佛里曼舉3大理由：理應如此 | 國際焦點 | 國際 | 經濟日報",
-      "description": "誰會料到自殺恐怖攻擊者會劫持客機，撞擊世貿中心和五角大廈？武漢實驗室培養的呼吸道病毒，竟會奪走數百萬條人命，並陷世界於經濟衰退？但911恐怖攻擊事件和新冠肺炎疫情卻真的發生了。",
-      "publishedAt": "2026-09-23T18:56:45.889Z",
-      "discoveredAt": "2026-09-23T18:56:45.889Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_227237f92b95fa36a5e5",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1344,6 +1254,36 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f22ff72f66fb234bef33",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9785283?from=edn_hottest_index",
+      "title": "ASIC 族群9月熱度爆棚「這檔」竟狂漲137% 狠甩聯發科、創意 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI ASIC行情9月明顯升溫，族群股價同步走強，但漲勢也呈現強烈分化。巨有科技（8227）9月以來股價大漲約137%居冠，力旺（3529）漲逾4成，聯發科（2454）、創意（3443）同步大漲約3成，晶心科（6533）漲逾27%；反觀世芯-KY（3661）同期反而下跌約7%，在族群中表現相對疲弱。",
+      "publishedAt": "2026-09-30T20:25:29.823Z",
+      "discoveredAt": "2026-09-30T20:25:29.823Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1795,6 +1735,63 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6fa6a2dbc6a41a9005cc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9782130?from=edn_course_index",
+      "title": "王鳳生 AI 有了，價值從哪裡來？",
+      "description": "",
+      "publishedAt": "2026-09-28T18:36:39.244Z",
+      "discoveredAt": "2026-09-28T18:36:39.244Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_28a9682a45659c868c6f",
+      "sourceLastModified": "2026-09-28T03:20:50.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/anthropic-infosys",
+      "title": "Anthropic and Infosys build AI agents",
+      "description": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries.",
+      "publishedAt": "2026-09-28T03:20:50.000Z",
+      "discoveredAt": "2026-09-09T22:52:01.880Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

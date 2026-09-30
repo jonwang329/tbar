@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-30T02:27:36.863Z",
+  "updatedAt": "2026-09-30T08:58:17.919Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-30T02:27:36.863Z",
+      "discoveredAt": "2026-09-30T08:58:17.919Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_4fc5efd939e952f9cac0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9785555?from=edn_maintab_index",
+      "title": "台塑集團半導體版圖再擴張！電子級硫酸、鹽酸雙出擊 台塑大漲逾5% 除了南亞（1303）大賺AI財，台塑（1301）、台化（1326）也往半導體布局，29日宣布攜手半導體化學品大廠中華化（1727）、台灣紙業成立新公司，各自攻電子級硫酸、電子級鹽酸兩大關鍵材料，卡位...",
+      "description": "",
+      "publishedAt": "2026-09-30T08:58:09.829Z",
+      "discoveredAt": "2026-09-30T08:58:09.829Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_36b081ce42c8e9abfd4e",
@@ -145,7 +175,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -536,36 +566,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7ef8fde2b8d05615a066",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123882/9768703?from=edn_newest_index",
-      "title": "本周重磅／都更真能「點石成金」？AI代操開啟懶人投資時代？ 2026-09-23 13:08",
-      "description": "",
-      "publishedAt": "2026-09-23T05:14:06.826Z",
-      "discoveredAt": "2026-09-23T05:14:06.826Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1291,6 +1291,126 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_c50cda4587aa5b11a50c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9785983",
+      "title": "Robinhood 搶進 AI 代理交易！推新功能連「睡覺也能買賣股票」 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國線上券商羅賓漢（Robinhood）表示，將提供用戶在周末全天候交易部分美國股票，藉此因應業界朝向24小時交易的發展。此外，該公司的下一個重大押注，是一款能讓散戶在熟睡時還能自動進行交易的AI機器人。",
+      "publishedAt": "2026-09-30T08:58:09.829Z",
+      "discoveredAt": "2026-09-30T08:58:09.829Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e94670b1a7d64267b249",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9785983?from=edn_maintab_index",
+      "title": "Robinhood 搶進 AI 代理交易！推新功能連「睡覺也能買賣股票」 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國線上券商羅賓漢（Robinhood）表示，將提供用戶在周末全天候交易部分美國股票，藉此因應業界朝向24小時交易的發展。此外，該公司的下一個重大押注，是一款能讓散戶在熟睡時還能自動進行交易的AI機器人。",
+      "publishedAt": "2026-09-30T08:58:09.829Z",
+      "discoveredAt": "2026-09-30T08:58:09.829Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fbbcac72b808b21e2bfd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9785678?from=edn_maintab_index",
+      "title": "CNN：川普「AI 憲法」豪賭全人類命運 專家點破致命問題 CNN報導，人工智慧（AI）企業接連警告先進模型可能對人類構成災難性甚至生存威脅之際，美國總統川普仍決定不為AI發展踩煞車，把控制風險的重任交給科技巨頭自律。這場豪賭若押對，美國可避免監管拖慢創新...",
+      "description": "",
+      "publishedAt": "2026-09-30T08:58:09.829Z",
+      "discoveredAt": "2026-09-30T08:58:09.829Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c8b22d060c2c0d8cc41e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9786202?from=edn_newest_index",
+      "title": "陳冲揭「金融兵推」 AI 時代金融戰恐成新戰場 2026-09-30 16:47",
+      "description": "",
+      "publishedAt": "2026-09-30T08:58:09.829Z",
+      "discoveredAt": "2026-09-30T08:58:09.829Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_35296eafe7d2f37819d5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1662,123 +1782,6 @@
       "description": "",
       "publishedAt": "2026-09-28T18:36:39.244Z",
       "discoveredAt": "2026-09-28T18:36:39.244Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6fa6a2dbc6a41a9005cc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9782130?from=edn_course_index",
-      "title": "王鳳生 AI 有了，價值從哪裡來？",
-      "description": "",
-      "publishedAt": "2026-09-28T18:36:39.244Z",
-      "discoveredAt": "2026-09-28T18:36:39.244Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cc204a7229befa2f23c0",
-      "sourceLastModified": "2026-09-29T02:55:06.329Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "title": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "description": "",
-      "publishedAt": "2026-09-28T17:51:08.170Z",
-      "discoveredAt": "2026-09-28T18:36:39.244Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74762c9f8addffe40db8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9781701?from=edn_maintab_index",
-      "title": "輝達發布新安全軟體 可阻止 AI 代理失控 輝達28日推出新的安全工具，宣稱可阻止AI代理失控，要是早早安裝，能避免先前Hugging Face遭駭事件。 輝達發布的工具之一，名為「OpenShell」，以輝達中央處理器（CPU）的硬體功...",
-      "description": "輝達28日推出新的安全工具，宣稱可阻止AI代理失控，要是早早安裝，能避免先前Hugging Face遭駭事件。",
-      "publishedAt": "2026-09-28T11:11:38.603Z",
-      "discoveredAt": "2026-09-28T11:11:38.603Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3a4931a45ff40932c6d3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9780837?from=edn_bloomberg_index_side",
-      "title": "AI漏洞加劇安全擔憂之際 川普據悉會見Anthropic執行長",
-      "description": "",
-      "publishedAt": "2026-09-28T11:11:38.603Z",
-      "discoveredAt": "2026-09-28T11:11:38.603Z",
       "topics": [
         "Taiwan business",
         "investment",

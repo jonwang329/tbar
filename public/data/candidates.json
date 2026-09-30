@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-29T23:46:04.703Z",
+  "updatedAt": "2026-09-30T02:27:36.863Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,21 +36,21 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-29T23:46:04.703Z",
+      "discoveredAt": "2026-09-30T02:27:36.863Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
-      "id": "cand_f40611f056fb7aa86142",
+      "id": "cand_36b081ce42c8e9abfd4e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9784525?from=edn_maintab_index",
-      "title": "央行減發存單 引發寬鬆聯想 市場關注是否政策轉向 | 金融脈動 | 金融 | 經濟日報",
-      "description": "中央銀行9月持續減發定存單，央行統計9月以來至昨（29）日止累計減發存單6,417.2億元，未到期存單餘額降至5兆8,961億元，引發市場關注資金是否轉向寬鬆；央行強調，減發主要是因應人工智慧（AI）產業投資帶動企業融資需求增加，並非貨幣政策轉向。",
-      "publishedAt": "2026-09-29T23:45:51.386Z",
-      "discoveredAt": "2026-09-29T23:45:51.386Z",
+      "url": "https://money.udn.com/money/story/5599/9784803",
+      "title": "不與習近平合作！川普畫美中 AI 紅線 喊美國不能自廢武功 | 國際焦點 | 國際 | 經濟日報",
+      "description": "BBC報導，上周川習會後，美中才宣布啟動人工智慧（AI）對話，美國總統川普29日隨即畫下合作紅線，明確排除與中國大陸共同開發AI，直言任何形式的聯合開發都可能讓北京取得美國掌握的技術機密，無異於把秘密拱手相送。他並強調，如今美中是AI領域最主要的競爭對手，而美國處於領先，不希望透過合作讓中國迅速縮小差距。",
+      "publishedAt": "2026-09-30T02:27:27.808Z",
+      "discoveredAt": "2026-09-30T02:27:27.808Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -70,6 +70,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_f40611f056fb7aa86142",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9784525?from=edn_maintab_index",
+      "title": "央行減發存單 引發寬鬆聯想 市場關注是否政策轉向 中央銀行9月持續減發定存單，央行統計9月以來至昨（29）日止累計減發存單6,417.2億元，未到期存單餘額降至5兆8,961億元，引發市場關注資金是否轉向寬鬆；央行強調，減發主要是因應人工智慧（AI...",
+      "description": "中央銀行9月持續減發定存單，央行統計9月以來至昨（29）日止累計減發存單6,417.2億元，未到期存單餘額降至5兆8,961億元，引發市場關注資金是否轉向寬鬆；央行強調，減發主要是因應人工智慧（AI）產業投資帶動企業融資需求增加，並非貨幣政策轉向。",
+      "publishedAt": "2026-09-29T23:45:51.386Z",
+      "discoveredAt": "2026-09-29T23:45:51.386Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 95,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_9f531aeef85b3db21a96",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -77,7 +107,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9784506?from=edn_maintab_index",
-      "title": "超微進擊實體AI 收購實驗室World Labs 台鏈歡呼 | 產業熱點 | 產業 | 經濟日報",
+      "title": "超微進擊實體AI 收購實驗室World Labs 台鏈歡呼 外電報導，美國晶片大廠超微（AMD）宣布已簽署最終協議，以82億美元（約台幣逾2,600億元）規模的全股票交易，收購由「AI教母」李飛飛所創立，並擔任執行長的AI模型與研究實驗室World Labs...",
       "description": "外電報導，美國晶片大廠超微（AMD）宣布已簽署最終協議，以82億美元（約台幣逾2,600億元）規模的全股票交易，收購由「AI教母」李飛飛所創立，並擔任執行長的AI模型與研究實驗室World Labs，取得「空間智慧」技術，提前布局實體AI。",
       "publishedAt": "2026-09-29T23:45:51.386Z",
       "discoveredAt": "2026-09-29T23:45:51.386Z",
@@ -91,7 +121,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -115,7 +145,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -540,6 +570,36 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2b51de764d81840d00c4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9785045?from=edn_newest_index",
+      "title": "AI 行情最新考驗！美光財報將揭曉 股價一年上漲近550%後能再衝高？ | 國際焦點 | 國際 | 經濟日報",
+      "description": "記憶體大廠美光（Micron）訂於周三（30日）盤後（台灣時間10月1日清晨4時30分）公布上季財報，業績與展望將成為AI行情的最新考驗。",
+      "publishedAt": "2026-09-30T02:27:27.808Z",
+      "discoveredAt": "2026-09-30T02:27:27.808Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1084,36 +1144,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_fb48b589cb54f7c222b3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9772066?from=edn_newest_index",
-      "title": "半導體、AI合作空間大 專家籲台商前進印度需循序漸進 2026-09-23 08:36",
-      "description": "",
-      "publishedAt": "2026-09-23T00:41:28.041Z",
-      "discoveredAt": "2026-09-23T00:41:28.041Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_227237f92b95fa36a5e5",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1261,6 +1291,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_35296eafe7d2f37819d5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9784897",
+      "title": "用可愛風迎戰 Meta！OpenAI 推俏皮 AI 代理 dots 奧特曼說幫你包辦大小事 | 國際焦點 | 國際 | 經濟日報",
+      "description": "OpenAI發表隨時待命並運作的AI代理「dots」，能自動在各種App間追蹤並執行使用者的各項任務與目標，不但進一步在利潤豐厚的企業市場深化布局，也在銷售自主工作AI的競賽中正面迎戰Meta。",
+      "publishedAt": "2026-09-30T02:27:27.808Z",
+      "discoveredAt": "2026-09-30T02:27:27.808Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b628fc4b576a605f9b52",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9784865?from=edn_maintab_index",
+      "title": "台股開高重返48K！台積電領軍五大權值股全紅 「這些 AI 股」同步上攻 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股昨夜跌多漲少，惟費半逆勢反彈1.3%，帶動台指期夜盤大漲698點。台股30日開盤氣勢強勁，10月台指期率先大漲686點、報48,467點，集中市場指數接力開高135.53點、報47,767.49點。",
+      "publishedAt": "2026-09-30T02:27:27.808Z",
+      "discoveredAt": "2026-09-30T02:27:27.808Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3049820637fa63fd12f6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9784999?from=edn_newest_index",
+      "title": "川普推AI新平台 要求整合官網提升服務便利性 2026-09-30 10:07",
+      "description": "",
+      "publishedAt": "2026-09-30T02:27:27.808Z",
+      "discoveredAt": "2026-09-30T02:27:27.808Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_ad6d69005b25b1a00f8a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1268,7 +1388,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/10869/9784383?from=edn_maintab_index",
-      "title": "景氣好熱 連亮九個紅燈 國發會估9月燈號繼續紅通通 | 總經趨勢 | 要聞 | 經濟日報",
+      "title": "景氣好熱 連亮九個紅燈 國發會估9月燈號繼續紅通通 國發會昨（29）日發布8月景氣對策信號，亮出代表景氣熱絡的「紅燈」，呈連九紅，綜合判斷分數為41分，與前一個月持平。由於AI熱潮持續支撐經濟成長動能，國發會預估9月燈號可望繼續紅通通，將寫下史上最長...",
       "description": "國發會昨（29）日發布8月景氣對策信號，亮出代表景氣熱絡的「紅燈」，呈連九紅，綜合判斷分數為41分，與前一個月持平。由於AI熱潮持續支撐經濟成長動能，國發會預估9月燈號可望繼續紅通通，將寫下史上最長的連十紅紀錄。",
       "publishedAt": "2026-09-29T23:45:51.386Z",
       "discoveredAt": "2026-09-29T23:45:51.386Z",
@@ -1282,7 +1402,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1388,7 +1508,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9783318?from=edn_hottest_index",
-      "title": "友達、仁寶、緯創共組 GOLF 學用接軌聯盟 6020",
+      "title": "友達、仁寶、緯創共組 GOLF 學用接軌聯盟 7413",
       "description": "由友達光電（2409）、仁寶電腦（2324）、緯創資通（3231）共同發起的 GOLF 學用接軌聯盟，提供超過 700 門產業導向課程，累積超過 2 萬名學生參與學習平台，並透過企業專案與實習資源，協助學生接軌職場。持續關注聯盟發展的榮譽理事長施振榮，也親自出席聯盟活動，支持校企攜手育才。他分享透過 AI 對話整理想法的經驗，並談及如何讓 AI 從「智能」走向「智慧」，呈現他對科技應用與持續學習的關注。",
       "publishedAt": "2026-09-29T20:14:42.886Z",
       "discoveredAt": "2026-09-29T20:14:42.886Z",
@@ -1402,7 +1522,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1670,123 +1790,6 @@
         "Taiwan"
       ],
       "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eeaa627ce9538123b15c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9780463?from=edn_hottest_index",
-      "title": "比爾蓋茲又開砲 這回鎖定川普 批 AI 防護不會阻礙與陸競爭 5922",
-      "description": "",
-      "publishedAt": "2026-09-28T04:30:39.749Z",
-      "discoveredAt": "2026-09-28T04:30:39.749Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_28a9682a45659c868c6f",
-      "sourceLastModified": "2026-09-28T03:20:50.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/anthropic-infosys",
-      "title": "Anthropic and Infosys build AI agents",
-      "description": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries.",
-      "publishedAt": "2026-09-28T03:20:50.000Z",
-      "discoveredAt": "2026-09-09T22:52:01.880Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_86bc396707b473ea1208",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9780498?from=edn_maintab_index",
-      "title": "Meta 算力大建設 要將三大領域完整匯流 廣達、緯穎、台積有望受惠 Meta全新AI代理工具「Muse」爆紅，執行長祖克柏接受專訪披露，Meta正展開5GW（10億瓦）算力大建設，積極打造元宇宙、硬體（智慧眼鏡），以及大語言模型等三大領域的完整匯流，目標2030年要...",
-      "description": "Meta全新AI代理工具「Muse」爆紅，執行長祖克柏接受專訪披露，Meta正展開5GW（10億瓦）算力大建設，積極打造元宇宙、硬體（智慧眼鏡），以及大語言模型等三大領域的完整匯流，目標2030年要達到融合物理世界和數位世界的願景。",
-      "publishedAt": "2026-09-27T18:33:26.298Z",
-      "discoveredAt": "2026-09-27T18:33:26.298Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_695cf6988ea32c228497",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9780501?from=edn_maintab_index",
-      "title": "Google 、輝達新 PC 市場強心針 雙A、戴爾等五大品牌都有對應機種 PC市場10月迎來新氣象，Google次世代Googlebook新機將於10月4日上市，宏碁（2353）、華碩（2357）、戴爾、惠普與聯想等五大品牌都有對應機種，伴隨首批搭載輝達RTX Spark...",
-      "description": "PC市場10月迎來新氣象，Google次世代Googlebook新機將於10月4日上市，宏碁、華碩、戴爾、惠普與聯想等五大品牌都有對應機種，伴隨首批搭載輝達RTX Spark晶片的筆電也將於10月開賣，業界看好兩大AI PC新品，將為第4季PC市場注入強心針。",
-      "publishedAt": "2026-09-27T18:33:26.298Z",
-      "discoveredAt": "2026-09-27T18:33:26.298Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

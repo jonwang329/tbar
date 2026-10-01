@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-01T05:43:48.185Z",
+  "updatedAt": "2026-10-01T11:50:34.965Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-01T05:43:48.185Z",
+      "discoveredAt": "2026-10-01T11:50:34.965Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -628,6 +628,33 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_adb21794ba881f7cd9c5",
+      "sourceLastModified": "2026-10-01T09:16:50.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "description": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "publishedAt": "2026-10-01T15:19:00.000Z",
+      "discoveredAt": "2026-10-01T11:50:25.358Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1348,6 +1375,153 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_61556f6e696c28cd1212",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9788850",
+      "title": "全球公債殖利率竄升有10大原因 不只是 AI、油價和債務那麼簡單 | 國際焦點 | 國際 | 經濟日報",
+      "description": "近來全球公債殖利率勁揚，原因何在、還會升到什麼地步，引起市場熱議。以下是彭博資訊整理的十大因素。",
+      "publishedAt": "2026-10-01T11:50:25.358Z",
+      "discoveredAt": "2026-10-01T11:50:25.358Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_77b79fbd3723916557ca",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9787718",
+      "title": "麥當勞顧客遭 AI「算計」？你買的漢堡為何比別家門市貴 路透揭內幕 | 國際焦點 | 國際 | 經濟日報",
+      "description": "在美國加州弗雷斯諾（Fresno）市，相距約三公里的兩家麥當勞門市，同款大麥克一家賣5.69美元，另一家賣6.89美元，價差超過兩成。",
+      "publishedAt": "2026-10-01T11:50:25.358Z",
+      "discoveredAt": "2026-10-01T11:50:25.358Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b2cbec7b78cc35143bf7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9788722?from=edn_maintab_index",
+      "title": "機器人需求加持、AI 泡沫破裂 記憶體恐不會變便宜 美光最新公布的財報表現亮眼，並預料人形機器人將成記憶體需求的新推手。科技媒體Wccftech指出，這表示美光搭上下一波科技熱潮，就算AI泡沫消風，仍有望坐擁豐厚獲利。 美光認為，每個人形機器人需要...",
+      "description": "",
+      "publishedAt": "2026-10-01T11:50:25.358Z",
+      "discoveredAt": "2026-10-01T11:50:25.358Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_24296fd2e643b3109ddf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9787718?from=edn_hottest_index",
+      "title": "麥當勞顧客遭 AI「算計」？你買的漢堡為何比別家門市貴 路透揭內幕 5733",
+      "description": "",
+      "publishedAt": "2026-10-01T11:50:25.358Z",
+      "discoveredAt": "2026-10-01T11:50:25.358Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_df95fb998c5782bf7103",
+      "sourceLastModified": "2026-10-01T06:27:37.342Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "title": "https://openai.com/index/building-an-ai-native-finance-function",
+      "description": "",
+      "publishedAt": "2026-10-01T06:27:37.342Z",
+      "discoveredAt": "2026-10-01T11:50:25.358Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_1013c020161481981381",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1599,186 +1773,6 @@
       "description": "OpenAI發表隨時待命並運作的AI代理「dots」，能自動在各種App間追蹤並執行使用者的各項任務與目標，不但進一步在利潤豐厚的企業市場深化布局，也在銷售自主工作AI的競賽中正面迎戰Meta。",
       "publishedAt": "2026-09-30T02:27:27.808Z",
       "discoveredAt": "2026-09-30T02:27:27.808Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b628fc4b576a605f9b52",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9784865?from=edn_maintab_index",
-      "title": "台股開高重返48K！台積電領軍五大權值股全紅 「這些 AI 股」同步上攻 | 市場焦點 | 證券 | 經濟日報",
-      "description": "美股昨夜跌多漲少，惟費半逆勢反彈1.3%，帶動台指期夜盤大漲698點。台股30日開盤氣勢強勁，10月台指期率先大漲686點、報48,467點，集中市場指數接力開高135.53點、報47,767.49點。",
-      "publishedAt": "2026-09-30T02:27:27.808Z",
-      "discoveredAt": "2026-09-30T02:27:27.808Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3049820637fa63fd12f6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9784999?from=edn_newest_index",
-      "title": "川普推AI新平台 要求整合官網提升服務便利性 2026-09-30 10:07",
-      "description": "",
-      "publishedAt": "2026-09-30T02:27:27.808Z",
-      "discoveredAt": "2026-09-30T02:27:27.808Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ad6d69005b25b1a00f8a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9784383?from=edn_maintab_index",
-      "title": "景氣好熱 連亮九個紅燈 國發會估9月燈號繼續紅通通 國發會昨（29）日發布8月景氣對策信號，亮出代表景氣熱絡的「紅燈」，呈連九紅，綜合判斷分數為41分，與前一個月持平。由於AI熱潮持續支撐經濟成長動能，國發會預估9月燈號可望繼續紅通通，將寫下史上最長...",
-      "description": "國發會昨（29）日發布8月景氣對策信號，亮出代表景氣熱絡的「紅燈」，呈連九紅，綜合判斷分數為41分，與前一個月持平。由於AI熱潮持續支撐經濟成長動能，國發會預估9月燈號可望繼續紅通通，將寫下史上最長的連十紅紀錄。",
-      "publishedAt": "2026-09-29T23:45:51.386Z",
-      "discoveredAt": "2026-09-29T23:45:51.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_362dddda4bde405a1ce0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9784760?from=edn_newest_index",
-      "title": "今晨國際頭條一次看／美科技巨擘簽AI自律協議 最高院准第三國遣返 2026-09-30 07:42",
-      "description": "",
-      "publishedAt": "2026-09-29T23:45:51.386Z",
-      "discoveredAt": "2026-09-29T23:45:51.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c21a01123474dfba75b7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9784569?from=edn_maintab_index",
-      "title": "上任滿月 蘋果CEO特納斯正著手改革公司... | 美股動態 | 國際 | 經濟日報",
-      "description": "都說新官上任三把火，蘋果公司執行長特納斯上任將滿一個月，傳出他正與主管群討論改革計畫，希望加快產品開發速度，擴大產品陣容，並創造一個更精簡、更注重工程的組織，以便在人工智慧（AI）時代保持競爭力。",
-      "publishedAt": "2026-09-29T20:14:42.886Z",
-      "discoveredAt": "2026-09-29T20:14:42.886Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2285e681f5de6299c0da",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9784535?from=edn_newest_index",
-      "title": "科技論壇10月14日登場 潘健成：AI落地潮正要開始 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "群聯創辦人暨執行長潘健成表示，AI代理（AI Agent）引爆的AI落地潮正開始，看好AI PC與混合雲商機，隨著「養AI龍蝦」應用需求快速成長，AI SSD儲存及資安解決方案需求同步提升，帶動儲存產業迎向新一波發展機會。",
-      "publishedAt": "2026-09-29T20:14:42.886Z",
-      "discoveredAt": "2026-09-29T20:14:42.886Z",
       "topics": [
         "Taiwan business",
         "investment",

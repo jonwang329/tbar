@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-09-30T20:25:39.546Z",
+  "updatedAt": "2026-10-01T00:04:27.834Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-09-30T20:25:39.546Z",
+      "discoveredAt": "2026-10-01T00:04:27.834Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -88,7 +88,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -567,6 +567,66 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a03830f6dc01c53f5bea",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9787253?from=edn_maintab_index",
+      "title": "美光財報／營收飆四倍 長約暴增至320億美元 CEO 喊明後年供需更緊俏 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國記憶體龍頭美光科技（Micron Technology）給出樂觀的本季營收財測，並表示客戶已將長期供應協議的承諾金額提高至320億美元，顯示AI記憶體需求依然強勁。不過，美光也警告，本季利潤率將略為縮減。",
+      "publishedAt": "2026-10-01T00:04:16.509Z",
+      "discoveredAt": "2026-10-01T00:04:16.509Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_80a7a88d6cdaa9673279",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9786987?from=edn_maintab_index",
+      "title": "川普簽「AI憲法」 挺業者自律 下令政府改稱「SI超級智慧」 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普29日在白宮與矽谷科技業高層簽署一項「具道德約束力」的自願性質人工智慧（AI）監管協議，以加強風險審查、稽核及第三方評估，管理AI風險，形容為「AI憲法」。他也簽署行政命令，要求聯邦機構在正式通訊、網站及報告等文件，改稱AI為「超級智慧」（super intelligence）。",
+      "publishedAt": "2026-10-01T00:04:16.509Z",
+      "discoveredAt": "2026-10-01T00:04:16.509Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1258,6 +1318,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_1013c020161481981381",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9787250",
+      "title": "整理包／美光財報六重點一次看！業績全面超標 股價卻淡然 | 美股動態 | 國際 | 經濟日報",
+      "description": "美光周三（30日）公布的最新財報再度證明，AI帶動的記憶體熱潮還沒降溫。以下整理六大重點，一次看懂這份財報透露哪些訊號。",
+      "publishedAt": "2026-10-01T00:04:16.509Z",
+      "discoveredAt": "2026-10-01T00:04:16.509Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d4cffc2521350df00d95",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9786980?from=edn_maintab_index",
+      "title": "OpenAI 代理出擊 預期引爆更多伺服器需求 台鏈補 | 產業熱點 | 產業 | 經濟日報",
+      "description": "OpenAI昨（9月30日）於年度「DevDay開發者大會」推出一系列新服務與模型更新，以可跨App執行任務的AI代理服務「dots」最吸睛，主打可愛的卡通角色，「會主動完成工作」，定位為忙碌人士的數位助理，執行長奧特曼高喊：「dots幾乎能處理你想得到的任何事」。",
+      "publishedAt": "2026-10-01T00:04:16.509Z",
+      "discoveredAt": "2026-10-01T00:04:16.509Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ca0c973ab4e432a825d3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9786952?from=edn_maintab_index",
+      "title": "工業、服務業職缺逼近30萬 AI 帶動需求 製造業達11萬個 AI需求帶動製造業搶才，勞動部昨（30）日公布今年6月底職缺概況，全台工業及服務業職缺逼近30萬大關，其中製造業職缺達11.1萬個，年增27.2%，徵才需求最龐大。各行業中，旅宿業不僅流動率高，且招...",
+      "description": "",
+      "publishedAt": "2026-10-01T00:04:16.509Z",
+      "discoveredAt": "2026-10-01T00:04:16.509Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_f22ff72f66fb234bef33",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1265,7 +1415,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9785283?from=edn_hottest_index",
-      "title": "ASIC 族群9月熱度爆棚「這檔」竟狂漲137% 狠甩聯發科、創意 | 市場焦點 | 證券 | 經濟日報",
+      "title": "ASIC 族群9月熱度爆棚「這檔」竟狂漲137% 狠甩聯發科、創意 5583",
       "description": "AI ASIC行情9月明顯升溫，族群股價同步走強，但漲勢也呈現強烈分化。巨有科技（8227）9月以來股價大漲約137%居冠，力旺（3529）漲逾4成，聯發科（2454）、創意（3443）同步大漲約3成，晶心科（6533）漲逾27%；反觀世芯-KY（3661）同期反而下跌約7%，在族群中表現相對疲弱。",
       "publishedAt": "2026-09-30T20:25:29.823Z",
       "discoveredAt": "2026-09-30T20:25:29.823Z",
@@ -1279,7 +1429,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1645,153 +1795,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7bf6206510d7dfad241a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9781888?from=edn_hottest_index",
-      "title": "AI幫你自動搬錢賺優息！新型「銀行擠兌」要來了 7980",
-      "description": "",
-      "publishedAt": "2026-09-29T09:04:24.278Z",
-      "discoveredAt": "2026-09-29T09:04:24.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_65f549e1c3c2e83ebf57",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9782754?from=edn_newest_index",
-      "title": "教宗良十四世公開批評黃仁勳！質疑低估AI失控風險 2026-09-29 10:35",
-      "description": "",
-      "publishedAt": "2026-09-29T02:42:13.235Z",
-      "discoveredAt": "2026-09-29T02:42:13.235Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_84c680d1ba387e1bb92d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9782298?from=edn_newest_index",
-      "title": "超微將砸82億美元 收購AI企業World Labs 2026-09-29 06:00",
-      "description": "",
-      "publishedAt": "2026-09-28T23:30:13.689Z",
-      "discoveredAt": "2026-09-28T23:30:13.689Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6fa6a2dbc6a41a9005cc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9782130?from=edn_course_index",
-      "title": "王鳳生 AI 有了，價值從哪裡來？",
-      "description": "",
-      "publishedAt": "2026-09-28T18:36:39.244Z",
-      "discoveredAt": "2026-09-28T18:36:39.244Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 30,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_28a9682a45659c868c6f",
-      "sourceLastModified": "2026-09-28T03:20:50.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/anthropic-infosys",
-      "title": "Anthropic and Infosys build AI agents",
-      "description": "Anthropic and Infosys will build AI agents for telecom, financial services, manufacturing, and other regulated industries.",
-      "publishedAt": "2026-09-28T03:20:50.000Z",
-      "discoveredAt": "2026-09-09T22:52:01.880Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

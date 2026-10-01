@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-01T11:50:34.965Z",
+  "updatedAt": "2026-10-01T17:47:08.890Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,95 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-01T11:50:34.965Z",
+      "discoveredAt": "2026-10-01T17:47:08.890Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_56dc8eb199410045bf2c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9789323?from=edn_maintab_index",
+      "title": "美股早盤／四大指數齊揚 AI 股帶動10月開局走高 台積電 ADR 微漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "儘管美國公債殖利率飆高，美股四大指數1日早盤均上漲，投資人持續買進AI相關類股，為新一個交易月揭開序幕。台積電ADR微漲0.04%。",
+      "publishedAt": "2026-10-01T17:46:59.937Z",
+      "discoveredAt": "2026-10-01T17:46:59.937Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_315fb7f5ba161df24e3c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9789272?from=edn_maintab_index",
+      "title": "川普：台灣晶片業者投資5,000億美元 親揭伊朗戰爭為何不善罷干休 | 國際焦點 | 國際 | 經濟日報",
+      "description": "《時代雜誌》10月1日刊出美國總統川普專訪，披露他9月28日在白宮受訪時，對聯準會（Fed）、人工智慧（AI）與美中競爭等議題的最新看法。",
+      "publishedAt": "2026-10-01T17:46:59.937Z",
+      "discoveredAt": "2026-10-01T17:46:59.937Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a3f70071793a9ae994a9",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
+      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "description": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]",
+      "publishedAt": "Thu, 01 Oct 2026 13:00:49 GMT",
+      "discoveredAt": "2026-10-01T17:46:59.937Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
     },
     {
       "id": "cand_d8fc77fa1be1c7f4e962",
@@ -148,7 +235,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -571,17 +658,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_f21d4ce73e040d5e95f9",
+      "id": "cand_a63ad4fcdfde596549cc",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9776441?from=edn_maintab_index",
-      "title": "美股早盤／美債殖利率再飆 四大指數齊跌 甲骨文資料中心計畫受挫跌5% 隨交易員預期聯準會（Fed）將進一步升息，美債殖利率升至大約20年來高點，美股四大指數24日早盤全面挫低。 道瓊工業指數早盤跌242點或近0.5%、標普500指數跌近0.4%；甲骨文資料中心計畫受...",
-      "description": "隨交易員預期聯準會（Fed）將進一步升息，美債殖利率升至大約20年來高點，美股四大指數24日早盤全面挫低。",
-      "publishedAt": "2026-09-24T15:19:15.264Z",
-      "discoveredAt": "2026-09-24T15:19:15.264Z",
+      "url": "https://money.udn.com/money/story/5618/9789199?from=edn_maintab_index",
+      "title": "今日最夯 ETF／新一波 AI 行情再起 00951大漲逾5% | 基金天地 | 理財 | 經濟日報",
+      "description": "美光盤後發布的財報強勁且展望樂觀，引爆新一波AI行情，由半導體設備大廠愛德萬測試等重磅級半導體股大漲帶動下，日經225指數1日衝破68,000點，單日強漲3.3%或2,203點，收在68,956點，在亞股中脫穎而出，帶動相關ETF表現，台新日本半導體（00951）就大漲超過5%，成為盤面中最亮眼的ETF。",
+      "publishedAt": "2026-10-01T17:46:59.937Z",
+      "discoveredAt": "2026-10-01T17:46:59.937Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -592,41 +679,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4c8b3799c61c08c79bfa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9776331?from=edn_maintab_index",
-      "title": "避開 AI 錢坑 甲骨文傳對德州資料中心開發商發出不可抗力通知 彭博資訊報導，知情人士透露，甲骨文公司（Oracle）已向藍鴞資本（Blue Owl）旗下子公司Stack基建公司發出通知，萬一Stack負責的新墨西哥州大型資料中心「木星計畫」計畫延誤，甲骨文將引...",
-      "description": "",
-      "publishedAt": "2026-09-24T15:19:15.264Z",
-      "discoveredAt": "2026-09-24T15:19:15.264Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -649,7 +706,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1375,6 +1432,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_22e0c18a3eb8972c4bb2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9789362?from=edn_newest_index",
+      "title": "數位轉型鼎革獎揭曉 國泰布局AI 奪五大獎 2026-10-02 01:43",
+      "description": "",
+      "publishedAt": "2026-10-01T17:46:59.937Z",
+      "discoveredAt": "2026-10-01T17:46:59.937Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_61556f6e696c28cd1212",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1472,7 +1559,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9787718?from=edn_hottest_index",
-      "title": "麥當勞顧客遭 AI「算計」？你買的漢堡為何比別家門市貴 路透揭內幕 5733",
+      "title": "麥當勞顧客遭 AI「算計」？你買的漢堡為何比別家門市貴 路透揭內幕 6319",
       "description": "",
       "publishedAt": "2026-10-01T11:50:25.358Z",
       "discoveredAt": "2026-10-01T11:50:25.358Z",
@@ -1486,7 +1573,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1683,96 +1770,6 @@
       "description": "美國線上券商羅賓漢（Robinhood）表示，將提供用戶在周末全天候交易部分美國股票，藉此因應業界朝向24小時交易的發展。此外，該公司的下一個重大押注，是一款能讓散戶在熟睡時還能自動進行交易的AI機器人。",
       "publishedAt": "2026-09-30T08:58:09.829Z",
       "discoveredAt": "2026-09-30T08:58:09.829Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fbbcac72b808b21e2bfd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9785678?from=edn_maintab_index",
-      "title": "CNN：川普「AI 憲法」豪賭全人類命運 專家點破致命問題 CNN報導，人工智慧（AI）企業接連警告先進模型可能對人類構成災難性甚至生存威脅之際，美國總統川普仍決定不為AI發展踩煞車，把控制風險的重任交給科技巨頭自律。這場豪賭若押對，美國可避免監管拖慢創新...",
-      "description": "",
-      "publishedAt": "2026-09-30T08:58:09.829Z",
-      "discoveredAt": "2026-09-30T08:58:09.829Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c8b22d060c2c0d8cc41e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9786202?from=edn_newest_index",
-      "title": "陳冲揭「金融兵推」 AI 時代金融戰恐成新戰場 2026-09-30 16:47",
-      "description": "",
-      "publishedAt": "2026-09-30T08:58:09.829Z",
-      "discoveredAt": "2026-09-30T08:58:09.829Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_35296eafe7d2f37819d5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9784897",
-      "title": "用可愛風迎戰 Meta！OpenAI 推俏皮 AI 代理 dots 奧特曼說幫你包辦大小事 | 國際焦點 | 國際 | 經濟日報",
-      "description": "OpenAI發表隨時待命並運作的AI代理「dots」，能自動在各種App間追蹤並執行使用者的各項任務與目標，不但進一步在利潤豐厚的企業市場深化布局，也在銷售自主工作AI的競賽中正面迎戰Meta。",
-      "publishedAt": "2026-09-30T02:27:27.808Z",
-      "discoveredAt": "2026-09-30T02:27:27.808Z",
       "topics": [
         "Taiwan business",
         "investment",

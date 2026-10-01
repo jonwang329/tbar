@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-01T00:04:27.834Z",
+  "updatedAt": "2026-10-01T05:43:48.185Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,68 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-01T00:04:27.834Z",
+      "discoveredAt": "2026-10-01T05:43:48.185Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_d8fc77fa1be1c7f4e962",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9787928?from=edn_maintab_index",
+      "title": "AI 好到銀行「錢不夠借」！資金吃緊、放款踩煞車 金融股下挫 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI熱潮帶動企業大舉借錢投資擴廠，銀行體系資金也跟著吃緊。為了吸收更多存款、支應強勁放款需求，銀行近期紛紛提高大額定存利率搶資金，資金成本隨之上升，存放款利差面臨壓力。",
+      "publishedAt": "2026-10-01T05:43:37.956Z",
+      "discoveredAt": "2026-10-01T05:43:37.956Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_da3b0739bf25d2060b21",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9787581?from=edn_maintab_index",
+      "title": "美光財報超預期！記憶體股卻走弱 專家示警「這變化」 美光科技（Micron）最新財報與財測優於市場預期，資料中心事業營收更較去年同期暴增1,042%，客戶長期供應協議（LTA）承諾金額也增至320億美元。不過，財報利多未能大幅推升股價，台股記憶體族...",
+      "description": "",
+      "publishedAt": "2026-10-01T05:43:37.956Z",
+      "discoveredAt": "2026-10-01T05:43:37.956Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_ef5b3688352e119ade83",
@@ -88,7 +148,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -567,6 +627,36 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2ee5d8ec98db4899d044",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9788084?from=edn_maintab_index",
+      "title": "甲骨文大訂單再下一城 台股協力廠商皆有望受惠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "甲骨文傳出再拿下大訂單，與騰訊簽訂五年協議，租賃10萬片AI晶片算力，總金額估計達70億美元。法人看好，鴻海（2317）、廣達（2382）、緯創（3231）、緯穎（6669）、神達（3706）等協力廠皆有望同步受惠。",
+      "publishedAt": "2026-10-01T05:43:37.956Z",
+      "discoveredAt": "2026-10-01T05:43:37.956Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1103,66 +1193,6 @@
         "Taiwan"
       ],
       "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0618df5502651415b2ae",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9774777?from=edn_maintab_index",
-      "title": "蘋果合作沒帶旺 ChatGPT OpenAI 自曝成效遠遜預期 Siri 轉投 Google | 國際焦點 | 國際 | 經濟日報",
-      "description": "蘋果原盼借助ChatGPT補強iPhone的AI功能，OpenAI則期待藉蘋果接觸更多用戶，但OpenAI在法院文件中表示，這項2024年達成的合作成效「遠不如預期」。兩家公司關係後來惡化，蘋果今年改和Google合作，為重新打造的Siri提供AI模型。",
-      "publishedAt": "2026-09-24T05:17:57.599Z",
-      "discoveredAt": "2026-09-24T05:17:57.599Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_121103c9b461cdaa9286",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9774553?from=edn_maintab_index",
-      "title": "又傳 AI 代理失控！OpenAI 模型駭進澳洲政府網站…三個月後才通報 澳洲總理艾班尼斯（Anthony Albanese）23日表示，OpenAI一個人工智慧（AI）代理今年6月入侵澳洲政府醫療服務網站，成為最新一起涉及AI的高知名度資安事件。 艾班尼斯在紐約表...",
-      "description": "",
-      "publishedAt": "2026-09-24T05:17:57.599Z",
-      "discoveredAt": "2026-09-24T05:17:57.599Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1760,36 +1790,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9d1b077e1c6d15e0d223",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9783318?from=edn_hottest_index",
-      "title": "友達、仁寶、緯創共組 GOLF 學用接軌聯盟 7413",
-      "description": "由友達光電（2409）、仁寶電腦（2324）、緯創資通（3231）共同發起的 GOLF 學用接軌聯盟，提供超過 700 門產業導向課程，累積超過 2 萬名學生參與學習平台，並透過企業專案與實習資源，協助學生接軌職場。持續關注聯盟發展的榮譽理事長施振榮，也親自出席聯盟活動，支持校企攜手育才。他分享透過 AI 對話整理想法的經驗，並談及如何讓 AI 從「智能」走向「智慧」，呈現他對科技應用與持續學習的關注。",
-      "publishedAt": "2026-09-29T20:14:42.886Z",
-      "discoveredAt": "2026-09-29T20:14:42.886Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

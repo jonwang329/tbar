@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-01T22:00:59.211Z",
+  "updatedAt": "2026-10-02T01:37:07.144Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,95 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-01T22:00:59.211Z",
+      "discoveredAt": "2026-10-02T01:37:07.144Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_785ec86f05984a8408ea",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9789837",
+      "title": "Anthropic 最快11月掛牌 估值上看2兆美元 IPO 籌資挑戰 SpaceX 紀錄 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧新創公司Anthropic據傳最快11月中旬上市，並將於10月14日先和投資人會面。儘管AI安全疑慮升高，新股市場也接連有企業延後上市，投資人仍認為Anthropic的合理估值約為1.8兆至2兆美元，Anthropic也期望上市規模追平或超越SpaceX。",
+      "publishedAt": "2026-10-02T01:36:55.308Z",
+      "discoveredAt": "2026-10-02T01:36:55.308Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_793fc8dd1c5fb0a7de87",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9789837?from=edn_maintab_index",
+      "title": "Anthropic 最快11月掛牌 估值上看2兆美元 IPO 籌資挑戰 SpaceX 紀錄 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧新創公司Anthropic據傳最快11月中旬上市，並將於10月14日先和投資人會面。儘管AI安全疑慮升高，新股市場也接連有企業延後上市，投資人仍認為Anthropic的合理估值約為1.8兆至2兆美元，Anthropic也期望上市規模追平或超越SpaceX。",
+      "publishedAt": "2026-10-02T01:36:55.308Z",
+      "discoveredAt": "2026-10-02T01:36:55.308Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b1bb9a9208a97b617375",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "description": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]",
+      "publishedAt": "Thu, 01 Oct 2026 23:44:13 GMT",
+      "discoveredAt": "2026-10-02T01:36:55.308Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
     },
     {
       "id": "cand_634ccd652f242dddfd47",
@@ -148,7 +235,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -658,36 +745,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_28864e0624329e6131c5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9776554?from=edn_maintab_index",
-      "title": "全球債務365兆美元 新高 上半年增逾10兆美元 新興市場占大宗 國際金融研究所（IIF）最新報告指出，新興市場債務暴增，使全球債務上半年增加逾10兆美元，達到破紀錄的365兆美元。這份報告並指出，目前人工智慧（AI）相關投資尚未排擠公債，但終將推升長債殖利率。 ...",
-      "description": "",
-      "publishedAt": "2026-09-24T22:35:17.427Z",
-      "discoveredAt": "2026-09-24T22:35:17.427Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_0d6c5ba2a1313360c467",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -695,7 +752,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9789492?from=edn_maintab_index",
-      "title": "美光：記憶體還會缺兩年 預期供需狀況比今年緊俏得多 | 產業熱點 | 產業 | 經濟日報",
+      "title": "美光：記憶體還會缺兩年 預期供需狀況比今年緊俏得多 美國記憶體大廠美光執行長梅羅塔在周三美股盤後的財報會議表示，AI需求強勁，預期2027及2028財年記憶體與存儲供需狀況，會比2026財年緊俏得多，看好2027財年伺服器相關業務將繼續增長。供應方面...",
       "description": "美國記憶體大廠美光執行長梅羅塔在周三美股盤後的財報會議表示，AI需求強勁，預期2027及2028財年記憶體與存儲供需狀況，會比2026財年緊俏得多，看好2027財年伺服器相關業務將繼續增長。供應方面，記憶體供給成長的結構性限制仍然存在。",
       "publishedAt": "2026-10-01T22:00:46.992Z",
       "discoveredAt": "2026-10-01T22:00:46.992Z",
@@ -709,7 +766,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1315,66 +1372,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_2f6d9553959c9a3ad34e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9776943?from=edn_newest_index",
-      "title": "AI熱潮不是雨露均霑 科技廠兩極化發展 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI強勁需求，驅動全球半導體今年產值可望超前達成1兆美元大關，比原先預估的2030年快了4年。在AI爆發成長挹注下，輝達...",
-      "publishedAt": "2026-09-25T00:46:59.248Z",
-      "discoveredAt": "2026-09-25T00:46:59.248Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c0a909ed8a3a7404ee48",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9776518?from=edn_maintab_index",
-      "title": "Meta AI 新品齊發 年度大會推出掌上裝置、智慧眼鏡 台廠進補 Meta年度「Connect大會」美西時間23日登場，新品齊發，AI／VR眼鏡站C位，整合當紅的AI代理Muse功能，讓AI代理走入穿戴裝置。 Meta搶先OpenAI推出AI裝置，在後智慧手機時...",
-      "description": "",
-      "publishedAt": "2026-09-24T22:35:17.427Z",
-      "discoveredAt": "2026-09-24T22:35:17.427Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_227237f92b95fa36a5e5",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1603,7 +1600,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1630,7 +1627,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1657,7 +1654,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

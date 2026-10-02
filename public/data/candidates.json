@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-02T01:37:07.144Z",
+  "updatedAt": "2026-10-02T07:30:42.052Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-02T01:37:07.144Z",
+      "discoveredAt": "2026-10-02T07:30:42.052Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -118,7 +118,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -745,6 +745,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_9d9d4b3be9d1da8c5856",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9790792?from=edn_maintab_index",
+      "title": "博通 AI 布局再添財源 傳華爾街組600億美元融資 助 Anthropic 取得晶片 | 美股動態 | 國際 | 經濟日報",
+      "description": "彭博引述知情人士報導，博通（Broadcom）合作的華爾街銀行團正籌辦新一筆600億美元的AI晶片籌資案，協助Anthropic等企業取得晶片和其他關鍵AI基礎設施。",
+      "publishedAt": "2026-10-02T07:30:33.063Z",
+      "discoveredAt": "2026-10-02T07:30:33.063Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0d6c5ba2a1313360c467",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -853,7 +883,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1489,17 +1519,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_c9fc94842061e973751f",
+      "id": "cand_c09578cae82a31a17d6f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9776886?from=edn_maintab_index",
-      "title": "川習白宮高峰會談五要點一次看：台灣與 AI 分歧仍在 美國總統川普周四在白宮迎接中國大陸國家主席習近平。兩人會談聚焦貿易、人工智慧（AI），以及日益激烈的美中戰略競爭。以下是這次會談的五大重點。 貿易休兵暫時延長 美中本周同意延長貿易休兵，但期限只...",
-      "description": "美國總統川普周四在白宮迎接中國大陸國家主席習近平。兩人會談聚焦貿易、人工智慧（AI），以及日益激烈的美中戰略競爭。以下是這次會談的五大重點。",
-      "publishedAt": "2026-09-25T05:29:14.222Z",
-      "discoveredAt": "2026-09-25T05:29:14.222Z",
+      "url": "https://money.udn.com/money/story/5599/9790658",
+      "title": "AI 時代 職場新人最該練的技能？IBM 人才長點出兩項關鍵能力 | 國際焦點 | 國際 | 經濟日報",
+      "description": "AI時代，職場新人最該培養哪些能力？IBM人才、領導力與文化長Aparna Nair接受財經媒體CNBC採訪時，點評有兩項能幫助大學畢業生與初階新人在職場上走得更長遠的技能。",
+      "publishedAt": "2026-10-02T07:30:33.063Z",
+      "discoveredAt": "2026-10-02T07:30:33.063Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1510,11 +1540,131 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2260b69f3386f444e296",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9790658?from=edn_maintab_index",
+      "title": "AI 時代 職場新人最該練的技能？IBM 人才長點出兩項關鍵能力 AI時代，職場新人最該培養哪些能力？IBM人才、領導力與文化長Aparna Nair接受財經媒體CNBC採訪時，點評有兩項能幫助大學畢業生與初階新人在職場上走得更長遠的技能。 她認為，分別是「批判...",
+      "description": "",
+      "publishedAt": "2026-10-02T07:30:33.063Z",
+      "discoveredAt": "2026-10-02T07:30:33.063Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_256d94c769b22f68d5fe",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9790426?from=edn_maintab_index",
+      "title": "AI 高速光通訊族群點火！穩懋、聯亞、立碁亮燈 矽光子與 CPO 題材擴散 台股2日多空激戰，台積電（2330）、聯發科（2454）等權值股震盪，部分資金轉向AI高速光通訊族群；其中，矽光子與CPO概念股同步受到市場關注。穩懋（3105）開盤不到10分鐘即亮燈漲停、鎖在59...",
+      "description": "",
+      "publishedAt": "2026-10-02T07:30:33.063Z",
+      "discoveredAt": "2026-10-02T07:30:33.063Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_81089fa56d54d3bb63e3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9790372?from=edn_maintab_index",
+      "title": "國巨要重登富士山?股價一舉站上季線 華新科亮燈漲停 被動元件股2日續強，多檔攻上漲停，華新科（2492）帶量拉出第二根漲停板，衝上361.5元漲停鎖死，國巨*（2327）盤中也放量大漲近6%，突破季線大關。法人指出，AI伺服器電源功率持續升級，高容、...",
+      "description": "",
+      "publishedAt": "2026-10-02T07:30:33.063Z",
+      "discoveredAt": "2026-10-02T07:30:33.063Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_23df6f236cdebb1daa0c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9790325?from=edn_maintab_index",
+      "title": "臻鼎飆漲停561元喊衝 載板三雄續揚、AI 訂單與漲價撐腰 PCB龍頭臻鼎-KY（4958）2日攻上漲停561元，上漲51元，領軍載板族群續揚，欣興（3037）、景碩（3189）與南電（8046）同步走高。AI伺服器、高速運算與光通訊需求擴張，帶動高階載板接...",
+      "description": "",
+      "publishedAt": "2026-10-02T07:30:33.063Z",
+      "discoveredAt": "2026-10-02T07:30:33.063Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1600,7 +1750,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1627,159 +1777,12 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5777ef6ef445cc1386fe",
-      "sourceLastModified": "2026-10-01T18:56:49.083Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/people-first-ai-fund",
-      "title": "https://openai.com/index/people-first-ai-fund",
-      "description": "",
-      "publishedAt": "2026-10-01T18:56:49.083Z",
-      "discoveredAt": "2026-10-01T22:00:46.992Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_22e0c18a3eb8972c4bb2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9789362?from=edn_newest_index",
-      "title": "數位轉型鼎革獎揭曉 國泰布局AI 奪五大獎 2026-10-02 01:43",
-      "description": "",
-      "publishedAt": "2026-10-01T17:46:59.937Z",
-      "discoveredAt": "2026-10-01T17:46:59.937Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_61556f6e696c28cd1212",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9788850",
-      "title": "全球公債殖利率竄升有10大原因 不只是 AI、油價和債務那麼簡單 | 國際焦點 | 國際 | 經濟日報",
-      "description": "近來全球公債殖利率勁揚，原因何在、還會升到什麼地步，引起市場熱議。以下是彭博資訊整理的十大因素。",
-      "publishedAt": "2026-10-01T11:50:25.358Z",
-      "discoveredAt": "2026-10-01T11:50:25.358Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_77b79fbd3723916557ca",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9787718",
-      "title": "麥當勞顧客遭 AI「算計」？你買的漢堡為何比別家門市貴 路透揭內幕 | 國際焦點 | 國際 | 經濟日報",
-      "description": "在美國加州弗雷斯諾（Fresno）市，相距約三公里的兩家麥當勞門市，同款大麥克一家賣5.69美元，另一家賣6.89美元，價差超過兩成。",
-      "publishedAt": "2026-10-01T11:50:25.358Z",
-      "discoveredAt": "2026-10-01T11:50:25.358Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b2cbec7b78cc35143bf7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9788722?from=edn_maintab_index",
-      "title": "機器人需求加持、AI 泡沫破裂 記憶體恐不會變便宜 美光最新公布的財報表現亮眼，並預料人形機器人將成記憶體需求的新推手。科技媒體Wccftech指出，這表示美光搭上下一波科技熱潮，就算AI泡沫消風，仍有望坐擁豐厚獲利。 美光認為，每個人形機器人需要...",
-      "description": "",
-      "publishedAt": "2026-10-01T11:50:25.358Z",
-      "discoveredAt": "2026-10-01T11:50:25.358Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

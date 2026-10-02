@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-02T19:15:06.895Z",
+  "updatedAt": "2026-10-02T23:02:22.679Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-02T19:15:06.895Z",
+      "discoveredAt": "2026-10-02T23:02:22.679Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -826,7 +826,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1546,66 +1546,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_c41053a7689b08238f8e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9778230",
-      "title": "01:43 川普宣布 美財長貝森特不會兼任AI沙皇",
-      "description": "美國總統川普25日在自創社媒真實社群發文宣布，財長貝森特將不會擔任「超級智慧（SI）沙皇」。外媒最近報導，川普可能讓貝森特兼任掌管人工智慧（AI）事務的「AI沙皇」（AI czar）。",
-      "publishedAt": "2026-09-25T19:30:13.193Z",
-      "discoveredAt": "2026-09-25T19:30:13.193Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a625184e3aef085bec93",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9778230?from=edn_maintab_index",
-      "title": "川普宣布 美財長貝森特不會兼任AI沙皇 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普25日在自創社媒真實社群發文宣布，財長貝森特將不會擔任「超級智慧（SI）沙皇」。外媒最近報導，川普可能讓貝森特兼任掌管人工智慧（AI）事務的「AI沙皇」（AI czar）。",
-      "publishedAt": "2026-09-25T19:30:13.193Z",
-      "discoveredAt": "2026-09-25T19:30:13.193Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_31362984733a24277d1f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1783,6 +1723,63 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b4096a0c63503af11d3c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9789394?from=edn_course_index",
+      "title": "鄭博仁 / 心元資本創始執行合夥人 當AI成為新的勞動力",
+      "description": "",
+      "publishedAt": "2026-10-01T22:00:46.992Z",
+      "discoveredAt": "2026-10-01T22:00:46.992Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_29f55d1ca4115afaf965",
+      "sourceLastModified": "2026-10-01T18:56:54.522Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
+      "title": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
+      "description": "",
+      "publishedAt": "2026-10-01T18:56:54.522Z",
+      "discoveredAt": "2026-10-01T22:00:46.992Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

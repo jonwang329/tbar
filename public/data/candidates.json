@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-02T14:05:54.419Z",
+  "updatedAt": "2026-10-02T19:15:06.895Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,7 +36,7 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-02T14:05:54.419Z",
+      "discoveredAt": "2026-10-02T19:15:06.895Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
     },
     {
@@ -382,7 +382,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -796,7 +796,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -826,7 +826,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -973,7 +973,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1462,36 +1462,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_7c49e0743dc3143c3ee8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9777873?from=edn_maintab_index",
-      "title": "美 AI 命脈緊繫台灣 美前眾議員籲「加快軍售」 美國前眾議員、Palantir國防業務負責人蓋拉格（Mike Gallagher），24日投書華爾街日報，從AI供應鏈分析台海風險。他認為，美國先進晶片供應仰賴台灣，一旦台海遭封鎖或發生戰事，將重創...",
-      "description": "美國前眾議員、Palantir國防業務負責人蓋拉格（Mike Gallagher），24日投書華爾街日報，從AI供應鏈分析台海風險。他認為，美國先進晶片供應仰賴台灣，一旦台海遭封鎖或發生戰事，將重創AI產業，因此主張加快對台軍售及本土半導體製造與封裝布局。",
-      "publishedAt": "2026-09-25T15:30:53.463Z",
-      "discoveredAt": "2026-09-25T15:30:53.463Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1510,7 +1480,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1632,6 +1602,36 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_31362984733a24277d1f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9791685?from=edn_maintab_index",
+      "title": "強調人類和機器作品差異大！教宗良十四世：AI時代更需要藝術家 | 國際焦點 | 國際 | 經濟日報",
+      "description": "教宗良十四世表示，在人工智慧（AI）與搜尋引擎時代，教會比以往更需要藝術家，協助讓福音與精神世界變得「可接近且易於理解」，並強調人類藝術與機器生成作品之間存在根本差異。",
+      "publishedAt": "2026-10-02T19:14:56.038Z",
+      "discoveredAt": "2026-10-02T19:14:56.038Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },

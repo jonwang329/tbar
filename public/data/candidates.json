@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-02T07:30:42.052Z",
+  "updatedAt": "2026-10-02T14:05:54.419Z",
   "candidates": [
     {
       "storyId": "curated-jensen-huggingface-2026-09-03",
@@ -36,8 +36,38 @@
       "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
       "curated": true,
       "sourcePriority": "P1",
-      "discoveredAt": "2026-10-02T07:30:42.052Z",
+      "discoveredAt": "2026-10-02T14:05:54.419Z",
       "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
+    },
+    {
+      "id": "cand_59aa00a5a4ee99ae1d90",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9790951?from=edn_maintab_index",
+      "title": "記憶體大擴廠！有利矽晶圓需求 環球晶漲停亮燈、嘉晶創歷史高 美光（Micron）與南亞科（2408）將同步擴大投資台灣，啟動擴廠計畫，AI邏輯晶片及記憶體產能同步擴張，有利12吋矽晶圓長期需求。環球晶（6488）2日股價攻上漲停，收1,190元，創下波段新高...",
+      "description": "",
+      "publishedAt": "2026-10-02T14:05:44.730Z",
+      "discoveredAt": "2026-10-02T14:05:44.730Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_785ec86f05984a8408ea",
@@ -118,7 +148,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -235,7 +265,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -741,6 +771,66 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6a8de1dda0bbd0814ac3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9791166?from=edn_maintab_index",
+      "title": "AI 技術差點賣給中俄 OpenAI 黑歷史曝光 促阿莫戴出走 催生 Anthropic 美國《大西洋月刊》（The Atlantic）報導，OpenAI早年曾構想向中國大陸、俄羅斯等政府出售預計在未來推出的工具，並一度考慮讓饒舌天王「肯爺」（Kanye West）提前試用尚未發布的GP...",
+      "description": "",
+      "publishedAt": "2026-10-02T14:05:44.730Z",
+      "discoveredAt": "2026-10-02T14:05:44.730Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2737e8c756f85364c86d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9791217?from=edn_VIP_index_side",
+      "title": "實體AI接棒生成式AI ！減速機、螺桿、馬達、控制器 哪些台廠站在第一排？",
+      "description": "",
+      "publishedAt": "2026-10-02T14:05:44.730Z",
+      "discoveredAt": "2026-10-02T14:05:44.730Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1402,6 +1492,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_9f23be122b8052aefd9e",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "description": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, […]",
+      "publishedAt": "Fri, 02 Oct 2026 13:00:39 GMT",
+      "discoveredAt": "2026-10-02T14:05:44.730Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_227237f92b95fa36a5e5",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1420,7 +1537,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1515,6 +1632,36 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5d8e10106c3be1ae48b9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9791554?from=edn_newest_index",
+      "title": "一張20億大單打開AI液冷大門 它靠20年精密加工技術跨進伺服器供應鏈 2026-10-02 22:05",
+      "description": "",
+      "publishedAt": "2026-10-02T14:05:44.730Z",
+      "discoveredAt": "2026-10-02T14:05:44.730Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1636,153 +1783,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_23df6f236cdebb1daa0c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9790325?from=edn_maintab_index",
-      "title": "臻鼎飆漲停561元喊衝 載板三雄續揚、AI 訂單與漲價撐腰 PCB龍頭臻鼎-KY（4958）2日攻上漲停561元，上漲51元，領軍載板族群續揚，欣興（3037）、景碩（3189）與南電（8046）同步走高。AI伺服器、高速運算與光通訊需求擴張，帶動高階載板接...",
-      "description": "",
-      "publishedAt": "2026-10-02T07:30:33.063Z",
-      "discoveredAt": "2026-10-02T07:30:33.063Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_985f78ca61b7f286c730",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9789445?from=edn_maintab_index",
-      "title": "9月製造業 PMI 升至56.7 五年新高 連十月站穩擴張區間 | 總經趨勢 | 要聞 | 經濟日報",
-      "description": "AI需求帶動台灣製造業持續升溫。標普全球公布，台灣9月製造業採購經理人指數（PMI）升至56.7，不僅創下2021年8月以來、逾五年來最快擴張速度，也高居亞洲之冠；但訂單增加也使供應加劇延宕，成本壓力仍是隱憂。",
-      "publishedAt": "2026-10-01T22:00:46.992Z",
-      "discoveredAt": "2026-10-01T22:00:46.992Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dec72e614f623917a3f9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9789701?from=edn_newest_index",
-      "title": "【專家之眼】中美AI競合與台灣角色 2026-10-02 05:59",
-      "description": "",
-      "publishedAt": "2026-10-01T22:00:46.992Z",
-      "discoveredAt": "2026-10-01T22:00:46.992Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b4096a0c63503af11d3c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9789394?from=edn_course_index",
-      "title": "鄭博仁 / 心元資本創始執行合夥人 當AI成為新的勞動力",
-      "description": "",
-      "publishedAt": "2026-10-01T22:00:46.992Z",
-      "discoveredAt": "2026-10-01T22:00:46.992Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_29f55d1ca4115afaf965",
-      "sourceLastModified": "2026-10-01T18:56:54.522Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
-      "title": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
-      "description": "",
-      "publishedAt": "2026-10-01T18:56:54.522Z",
-      "discoveredAt": "2026-10-01T22:00:46.992Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

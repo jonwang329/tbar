@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-03T16:45:28.624Z",
+  "updatedAt": "2026-10-03T19:30:55.268Z",
   "candidates": [
+    {
+      "id": "cand_4b4cb1596918007de9b8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9792977?from=edn_maintab_index",
+      "title": "資金趨緊 企業周轉金利率升高 報價喊到2.5%以上銀行才有承作意願 | 金融脈動 | 金融 | 經濟日報",
+      "description": "AI基礎建設、半導體擴產及企業海外布局推升資金需求隨科技業資本支出持續加碼，聯貸市場資金需求同步升溫，不過因近期銀行資金偏緊，部分金融機構的周轉金放款利率報價喊到2.5%以上才有承作意願。",
+      "publishedAt": "2026-10-03T19:30:47.198Z",
+      "discoveredAt": "2026-10-03T19:30:47.198Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_cf8d0f86c8aa06edc377",
       "sourceLastModified": null,
@@ -798,6 +828,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_9019e58c6dfdf7565247",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9793023?from=edn_maintab_index",
+      "title": "輝達推64G高貴迷你 PC 宏碁、華碩等是合作廠商 | 產業熱點 | 產業 | 經濟日報",
+      "description": "人工智慧（AI）晶片龍頭輝達（NVIDIA）即將在本月下旬，推出64GB版本、可在本地端運行AI模型的DGX Spark迷你個人電腦（PC），儘管記憶體容量較一年前的128GB版本砍半，售價卻貴上1,000美元，反映記憶體持續缺貨的影響。",
+      "publishedAt": "2026-10-03T19:30:47.198Z",
+      "discoveredAt": "2026-10-03T19:30:47.198Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_4a9e9c43c2d1ed3b71dd",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1455,36 +1515,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_796c6cb2667121088251",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5739/9779195?from=edn_newest_index",
-      "title": "創意永豐63購07 強強滾 | 權證特區 | 證券 | 經濟日報",
-      "description": "矽智財（IP）與客製化晶片（ASIC）設計服務龍頭創意近期營運表現亮眼。受惠北美雲端服務供應商（CSP）對客製化AI晶片與CPU Turnkey專案需求大增，加上母公司台積電先進製程與先進封裝產能奧援，量產動能持續放量。",
-      "publishedAt": "2026-09-26T18:31:11.900Z",
-      "discoveredAt": "2026-09-26T18:31:11.900Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1539,17 +1569,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_4998169a2db3ee967fe7",
+      "id": "cand_71fc1ef989c1102b107d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9792987?from=edn_maintab_index",
-      "title": "AI 公司爭霸戰不再只拚效能 「可愛」是下一個致勝利器 | 美股動態 | 國際 | 經濟日報",
-      "description": "除了技術效能外，人工智慧代理（AI agent）又多了一項評量指標：可不可愛。",
-      "publishedAt": "2026-10-03T16:45:19.295Z",
-      "discoveredAt": "2026-10-03T16:45:19.295Z",
+      "url": "https://money.udn.com/money/story/5607/9793015?from=edn_maintab_index",
+      "title": "上市櫃全年獲利衝7.8兆 五大投顧董總喊台股飆53K | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股受惠AI需求強勁，輝達Rubin系列產品進入出貨潮，富邦、兆豐、台新、永豐、統一等五大投顧董總預估，上市櫃公司第4季獲利有望上看2.2兆元、全年獲利將來到7.8兆元，雙雙再創歷史新高中，全季指數將跨越50K大關，挑戰52K至53K，再寫台股新紀錄。",
+      "publishedAt": "2026-10-03T19:30:47.198Z",
+      "discoveredAt": "2026-10-03T19:30:47.198Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1569,6 +1599,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_4178871e489783336deb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9793019?from=edn_newest_index",
+      "title": "AI 鏈、金融、台塑四寶 搶鏡 2026-10-04 02:24",
+      "description": "",
+      "publishedAt": "2026-10-03T19:30:47.198Z",
+      "discoveredAt": "2026-10-03T19:30:47.198Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4998169a2db3ee967fe7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9792987?from=edn_maintab_index",
+      "title": "AI 公司爭霸戰不再只拚效能 「可愛」是下一個致勝利器 除了技術效能外，人工智慧代理（AI agent）又多了一項評量指標：可不可愛。 Meta Platforms上月推出的AI代理「Muse」人氣爆紅，造型可愛的毛絨絨吉祥物Jolly功不可沒，坐在...",
+      "description": "除了技術效能外，人工智慧代理（AI agent）又多了一項評量指標：可不可愛。",
+      "publishedAt": "2026-10-03T16:45:19.295Z",
+      "discoveredAt": "2026-10-03T16:45:19.295Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 95,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_7eb1f4cdb1d935045c07",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1576,7 +1666,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9792039?from=edn_hottest_index",
-      "title": "iPhone 18 Pro Max 在美出現須換機故障 蘋果將加強 Mac 控管 AI 代理風險 3212",
+      "title": "iPhone 18 Pro Max 在美出現須換機故障 蘋果將加強 Mac 控管 AI 代理風險 3349",
       "description": "",
       "publishedAt": "2026-10-03T16:45:19.295Z",
       "discoveredAt": "2026-10-03T16:45:19.295Z",
@@ -1590,7 +1680,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1670,96 +1760,6 @@
       "description": "",
       "publishedAt": "2026-10-02T14:05:44.730Z",
       "discoveredAt": "2026-10-02T14:05:44.730Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c09578cae82a31a17d6f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9790658",
-      "title": "AI 時代 職場新人最該練的技能？IBM 人才長點出兩項關鍵能力 | 國際焦點 | 國際 | 經濟日報",
-      "description": "AI時代，職場新人最該培養哪些能力？IBM人才、領導力與文化長Aparna Nair接受財經媒體CNBC採訪時，點評有兩項能幫助大學畢業生與初階新人在職場上走得更長遠的技能。",
-      "publishedAt": "2026-10-02T07:30:33.063Z",
-      "discoveredAt": "2026-10-02T07:30:33.063Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2260b69f3386f444e296",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9790658?from=edn_maintab_index",
-      "title": "AI 時代 職場新人最該練的技能？IBM 人才長點出兩項關鍵能力 AI時代，職場新人最該培養哪些能力？IBM人才、領導力與文化長Aparna Nair接受財經媒體CNBC採訪時，點評有兩項能幫助大學畢業生與初階新人在職場上走得更長遠的技能。 她認為，分別是「批判...",
-      "description": "",
-      "publishedAt": "2026-10-02T07:30:33.063Z",
-      "discoveredAt": "2026-10-02T07:30:33.063Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_256d94c769b22f68d5fe",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9790426?from=edn_maintab_index",
-      "title": "AI 高速光通訊族群點火！穩懋、聯亞、立碁亮燈 矽光子與 CPO 題材擴散 台股2日多空激戰，台積電（2330）、聯發科（2454）等權值股震盪，部分資金轉向AI高速光通訊族群；其中，矽光子與CPO概念股同步受到市場關注。穩懋（3105）開盤不到10分鐘即亮燈漲停、鎖在59...",
-      "description": "",
-      "publishedAt": "2026-10-02T07:30:33.063Z",
-      "discoveredAt": "2026-10-02T07:30:33.063Z",
       "topics": [
         "Taiwan business",
         "investment",

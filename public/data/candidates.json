@@ -1,44 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-02T23:02:22.679Z",
+  "updatedAt": "2026-10-03T01:52:32.016Z",
   "candidates": [
-    {
-      "storyId": "curated-jensen-huggingface-2026-09-03",
-      "title": "Jensen Huang: open models matter strategically to NVIDIA",
-      "sourceName": "CNBC transcript",
-      "sourceUrl": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
-      "contentType": "interview",
-      "people": [
-        "Jensen Huang"
-      ],
-      "topics": [
-        "open models",
-        "NVIDIA",
-        "Hugging Face",
-        "AI infrastructure",
-        "developers"
-      ],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "executiveSummary": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure.",
-      "whyItMatters": "NVIDIA is signaling that its long-term moat is broader than GPUs. It wants influence over the developer and model ecosystem that drives future infrastructure demand.",
-      "taiwanImpact": "A broader open-model ecosystem can expand AI infrastructure demand across Taiwan ODMs, networking, storage and data-center supply chains.",
-      "hpeLens": "Open-model adoption increases demand for enterprise-grade AI infrastructure, hybrid deployment, networking and lifecycle operations — areas where HPE can compete above the silicon layer.",
-      "investmentLens": "NVIDIA is extending vertically into ecosystem control while still preserving demand for its core infrastructure platform.",
-      "importanceScore": 93,
-      "businessScore": 94,
-      "taiwanScore": 88,
-      "sourceQualityScore": 96,
-      "confidenceScore": 94,
-      "freshnessScore": 98,
-      "leaderMatch": true,
-      "lane": "important_signal",
-      "id": "curated-jensen-huggingface-2026-09-03",
-      "url": "https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo",
-      "curated": true,
-      "sourcePriority": "P1",
-      "discoveredAt": "2026-10-02T23:02:22.679Z",
-      "description": "Jensen Huang explains why NVIDIA wants a much larger role in open-model AI: open models broaden developer adoption, reduce dependence on closed labs, and expand the workloads that ultimately consume NVIDIA infrastructure."
-    },
     {
       "id": "cand_59aa00a5a4ee99ae1d90",
       "sourceLastModified": null,
@@ -148,7 +111,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -771,6 +734,36 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3c0b101f250ca19c5b25",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9792039?from=edn_newest_index",
+      "title": "iPhone 18 Pro Max在美出現須換機故障 蘋果將加強Mac控管AI代理風險 | 美股動態 | 國際 | 經濟日報",
+      "description": "蘋果（Apple）證實，少數使用美國AT&T網路的iPhone 18 Pro Max用戶因故障失去行動通訊服務，已受影響者必須換機。另外，蘋果將加強Mac隱私控管，提醒使用者，若授予AI代理完整資料存取權限，可能危及自己和他人的隱私。",
+      "publishedAt": "2026-10-03T01:52:24.624Z",
+      "discoveredAt": "2026-10-03T01:52:24.624Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1432,36 +1425,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_58d2f84445912ac5d03d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9777909?from=edn_hottest_index",
-      "title": "被動元件廠迎拉貨潮 9309",
-      "description": "被動元件產業迎來AI拉貨新動能，指標廠國巨*（2327）釋出標準品、特殊品需求同步增溫訊號；華新科營運同步添柴火。業界看好，AI伺服器電源功率持續升級，推升高容、高壓及大尺寸積層陶瓷電容（MLCC）需求，加上通路拉貨回暖，高階產品成為下半年成長主力，為被動元件廠第4季至明年接單增添支撐。",
-      "publishedAt": "2026-09-26T00:56:30.861Z",
-      "discoveredAt": "2026-09-26T00:56:30.861Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1480,7 +1443,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1766,6 +1729,33 @@
       "title": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
       "description": "",
       "publishedAt": "2026-10-01T18:56:54.522Z",
+      "discoveredAt": "2026-10-01T22:00:46.992Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5777ef6ef445cc1386fe",
+      "sourceLastModified": "2026-10-01T18:56:49.083Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/people-first-ai-fund",
+      "title": "https://openai.com/index/people-first-ai-fund",
+      "description": "",
+      "publishedAt": "2026-10-01T18:56:49.083Z",
       "discoveredAt": "2026-10-01T22:00:46.992Z",
       "topics": [
         "AI",

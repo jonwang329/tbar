@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-03T12:40:04.098Z",
+  "updatedAt": "2026-10-03T16:45:28.624Z",
   "candidates": [
     {
       "id": "cand_cf8d0f86c8aa06edc377",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -288,7 +288,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -819,7 +819,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -909,7 +909,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1056,7 +1056,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1503,7 +1503,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1539,6 +1539,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_4998169a2db3ee967fe7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9792987?from=edn_maintab_index",
+      "title": "AI 公司爭霸戰不再只拚效能 「可愛」是下一個致勝利器 | 美股動態 | 國際 | 經濟日報",
+      "description": "除了技術效能外，人工智慧代理（AI agent）又多了一項評量指標：可不可愛。",
+      "publishedAt": "2026-10-03T16:45:19.295Z",
+      "discoveredAt": "2026-10-03T16:45:19.295Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7eb1f4cdb1d935045c07",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9792039?from=edn_hottest_index",
+      "title": "iPhone 18 Pro Max 在美出現須換機故障 蘋果將加強 Mac 控管 AI 代理風險 3212",
+      "description": "",
+      "publishedAt": "2026-10-03T16:45:19.295Z",
+      "discoveredAt": "2026-10-03T16:45:19.295Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_383c07f1b97d487d8656",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1560,7 +1620,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1711,66 +1771,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_81089fa56d54d3bb63e3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9790372?from=edn_maintab_index",
-      "title": "國巨要重登富士山?股價一舉站上季線 華新科亮燈漲停 被動元件股2日續強，多檔攻上漲停，華新科（2492）帶量拉出第二根漲停板，衝上361.5元漲停鎖死，國巨*（2327）盤中也放量大漲近6%，突破季線大關。法人指出，AI伺服器電源功率持續升級，高容、...",
-      "description": "",
-      "publishedAt": "2026-10-02T07:30:33.063Z",
-      "discoveredAt": "2026-10-02T07:30:33.063Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b4096a0c63503af11d3c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9789394?from=edn_course_index",
-      "title": "鄭博仁 / 心元資本創始執行合夥人 當AI成為新的勞動力",
-      "description": "",
-      "publishedAt": "2026-10-01T22:00:46.992Z",
-      "discoveredAt": "2026-10-01T22:00:46.992Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

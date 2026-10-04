@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-04T01:47:04.763Z",
+  "updatedAt": "2026-10-04T07:27:39.072Z",
   "candidates": [
+    {
+      "id": "cand_ab66b24e2bf0b8a8335e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9788855",
+      "title": "AI 浪潮無極限！外資齊唱旺 台積電股價具有顯著「重新評級」潛力 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電（2330）即將於 15 日舉行法說，全球高度關注。外資預期市場將聚焦六大議題：整體半導體周期展望、未來三至四年資本支出策略、產業競合關係變化、下半年與 2027 年毛利率、營收成長預期、AI 需求前景等。",
+      "publishedAt": "2026-10-04T07:27:29.137Z",
+      "discoveredAt": "2026-10-04T07:27:29.137Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_a998670d475165c7d3c0",
       "sourceLastModified": null,
@@ -798,36 +828,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_5292853d04d3a3e5ff7c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9779318?from=edn_hottest_index",
-      "title": "受惠 GPU、ASIC 等高階測試強勁需求 封測雙雄大啖 AI 成長商機 8402",
-      "description": "AI晶片測試需求暢旺，京元電、日月光投控迎來新一波成長商機，法人指出，受惠繪圖處理器（GPU）、客製化晶片（ASIC）及高效能運算需求強勁，加上新平台陸續放量、擴產效益浮現，且高階測試成為兩大廠搶攻AI訂單重要關鍵技術，下半年營運動能續強。",
-      "publishedAt": "2026-09-27T02:47:54.611Z",
-      "discoveredAt": "2026-09-27T02:47:54.611Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_02e7f3b5c729f0dc563c",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1599,6 +1599,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_05cdb99eedeb8061cb8f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5944/9780167",
+      "title": "Euronews 精選／歐洲新創各顯神通 解決 AI 電力荒 | 國際專欄 | 專欄 | 經濟日報",
+      "description": "隨著人工智慧（AI）基礎建設快速擴張，歐洲正面臨一項日益棘手的問題：電力夠用嗎？",
+      "publishedAt": "2026-10-04T07:27:29.137Z",
+      "discoveredAt": "2026-10-04T07:27:29.137Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1db8a39c69ee7d336659",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5635/9793472?from=edn_newest_index",
+      "title": "為善良的你加油！第十屆堉璘台灣奉獻獎登場 | 熱門亮點 | 商情 | 經濟日報",
+      "description": "第十屆堉璘台灣奉獻獎頒獎典禮於3日舉行，迎來邁入十週年的重要里程碑。今年除延續對第一線公益工作者的支持，更以「為善良的你加油」為主題，邀請台鋼雄鷹啦啦隊WING STARS加入公益應援。活動首度透過大眾熟悉的應援形式拍攝形象影片，期望讓更多民眾認識各領域默默付出的公益工作者，進一步將感動化為實際行動，從支持者轉身成為挽起袖子的實做者。 自2017年創立以來，堉璘台灣奉獻獎持續秉持「表彰無私奉獻、推動社會進步」的初衷，獎勵在公益領域默默付出的個人與團體。十年來，林堉璘宏泰公益信託持續將資源投入公益，陪伴得獎者及公益組織穩健發展，延續創辦人林堉璘回饋社會的大愛精神。今年持續投入高達新台幣7,200萬元的總獎金規模，以實際行動堅定守護每一位第一線公益夥伴。林堉璘宏泰公益信託林鴻南顧問表示：「十年來始終秉持創辦人「取之於社會，用之於社會」的初心陪伴台灣夥伴；十週年是里程碑，也是新的起點，公益信託會繼續努力，成為公益夥伴最堅實的後盾。 AI重現創辦人影像 與台鋼雄鷹啦啦隊WING STARS同框應援 為持續向第一線公益工作者傳遞支持，今年特別製作十週年主題形象影片。影片透過AI數位技術",
+      "publishedAt": "2026-10-04T07:27:29.137Z",
+      "discoveredAt": "2026-10-04T07:27:29.137Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_71fc1ef989c1102b107d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1680,7 +1740,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1711,66 +1771,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_383c07f1b97d487d8656",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9792462?from=edn_maintab_index",
-      "title": "美股選舉年也有光輝十月行情 但能源價格將左右一切 美國就業成長不如預期，降低市場對本月升息的押注，美股周五收高，輝達（NVIDIA）盤中創新高，費半大漲2.4%。但美債殖利率先跌後升，油價仍居高檔。下周聯準會（Fed）會議紀錄和企業財報，將牽動升...",
-      "description": "美國就業成長不如預期，降低市場對本月升息的押注，美股周五收高，輝達（NVIDIA）盤中創新高，費半大漲2.4%。但美債殖利率先跌後升，油價仍居高檔。下周聯準會（Fed）會議紀錄和企業財報，將牽動升息預期，也考驗AI行情能否帶動更多類股上漲。",
-      "publishedAt": "2026-10-03T07:23:38.119Z",
-      "discoveredAt": "2026-10-03T07:23:38.119Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_31362984733a24277d1f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9791685?from=edn_maintab_index",
-      "title": "強調人類和機器作品差異大！教宗良十四世：AI時代更需要藝術家 | 國際焦點 | 國際 | 經濟日報",
-      "description": "教宗良十四世表示，在人工智慧（AI）與搜尋引擎時代，教會比以往更需要藝術家，協助讓福音與精神世界變得「可接近且易於理解」，並強調人類藝術與機器生成作品之間存在根本差異。",
-      "publishedAt": "2026-10-02T19:14:56.038Z",
-      "discoveredAt": "2026-10-02T19:14:56.038Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

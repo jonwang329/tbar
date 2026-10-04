@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-04T17:45:43.871Z",
+  "updatedAt": "2026-10-04T20:29:24.898Z",
   "candidates": [
+    {
+      "id": "cand_72186f4ebc0c482c85b0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9794453?from=edn_maintab_index",
+      "title": "科技巨頭衝太空 AI 昇達科、仁寶、元晶、聯合再生等受惠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達執行長黃仁勳、SpaceX執行長馬斯克力挺太空資料中心趨勢，近期Google更透過SpaceX將旗下TPU伺服器送進太空軌道進行測試。科技巨頭們陸續邁入對太空資料中心實質測試階段，點亮太空AI新商機，助益昇達科、仁寶、元晶、聯合再生、華通、統新等相關台鏈後市水漲船高。",
+      "publishedAt": "2026-10-04T20:29:15.537Z",
+      "discoveredAt": "2026-10-04T20:29:15.537Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ab66b24e2bf0b8a8335e",
       "sourceLastModified": null,
@@ -798,17 +828,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_076365ae230ee2cce63f",
+      "id": "cand_43bcf7d996ba91f0c121",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9780512?from=edn_maintab_index",
-      "title": "大廠追加訂單 台積電2奈米擴產進度超前 年底月產能上看12萬片 蘋果、輝達、超微、高通、聯發科（2454）等大廠衝刺AI與高速運算（HPC）商機，傳出近期追加預訂台積電（2330）2奈米家族產能規模，增幅達10%至20%，台積電為此加速擴充2奈米家族產能擴建腳...",
-      "description": "蘋果、輝達、超微、高通、聯發科等大廠衝刺AI與高速運算（HPC）商機，傳出近期追加預訂台積電2奈米家族產能規模，增幅達10%至20%，台積電為此加速擴充2奈米家族產能擴建腳步，進度優於預期，挹注整體營運動能更為強勁。",
-      "publishedAt": "2026-09-27T18:33:26.298Z",
-      "discoveredAt": "2026-09-27T18:33:26.298Z",
+      "url": "https://money.udn.com/money/story/5612/9794451?from=edn_maintab_index",
+      "title": "輝達攜手鴻海攻 AI 機器人幫大忙 有望帶動相關廠商接單動能 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達攜手鴻海衝刺AI伺服器製造，首度揭露利用機器人實際在產線工作成果，在多項複雜的生產程序繳出傲人的成績單，展現強大自動化能力，並大幅提升良率，助益鴻海出貨更順遂。",
+      "publishedAt": "2026-10-04T20:29:15.537Z",
+      "discoveredAt": "2026-10-04T20:29:15.537Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -819,11 +849,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1741,36 +1771,6 @@
         "Taiwan"
       ],
       "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b4096a0c63503af11d3c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9789394?from=edn_course_index",
-      "title": "鄭博仁 / 心元資本創始執行合夥人 當AI成為新的勞動力",
-      "description": "",
-      "publishedAt": "2026-10-01T22:00:46.992Z",
-      "discoveredAt": "2026-10-01T22:00:46.992Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

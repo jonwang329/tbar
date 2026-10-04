@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-03T22:23:54.039Z",
+  "updatedAt": "2026-10-04T01:47:04.763Z",
   "candidates": [
+    {
+      "id": "cand_a998670d475165c7d3c0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9793355?from=edn_newest_index",
+      "title": "川普成立「超級智慧小組」！陣容曝光 120天內交風險報告 | 國際焦點 | 國際 | 經濟日報",
+      "description": "華爾街日報3日報導，美國總統川普政府已成立「超級智慧小組」，將由國家情報總監克雷頓擔任主席，預計在120天內完成報告，評估人工智慧來的風險與契機，以及聯邦政府應扮演的角色。",
+      "publishedAt": "2026-10-04T01:46:55.287Z",
+      "discoveredAt": "2026-10-04T01:46:55.287Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4b4cb1596918007de9b8",
       "sourceLastModified": null,
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -201,7 +231,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -849,7 +879,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1590,7 +1620,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1650,7 +1680,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1666,7 +1696,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9792039?from=edn_hottest_index",
-      "title": "iPhone 18 Pro Max 在美出現須換機故障 蘋果將加強 Mac 控管 AI 代理風險 3491",
+      "title": "iPhone 18 Pro Max 在美出現須換機故障 蘋果將加強 Mac 控管 AI 代理風險 3944",
       "description": "",
       "publishedAt": "2026-10-03T16:45:19.295Z",
       "discoveredAt": "2026-10-03T16:45:19.295Z",
@@ -1680,7 +1710,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1730,36 +1760,6 @@
       "description": "教宗良十四世表示，在人工智慧（AI）與搜尋引擎時代，教會比以往更需要藝術家，協助讓福音與精神世界變得「可接近且易於理解」，並強調人類藝術與機器生成作品之間存在根本差異。",
       "publishedAt": "2026-10-02T19:14:56.038Z",
       "discoveredAt": "2026-10-02T19:14:56.038Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5d8e10106c3be1ae48b9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9791554?from=edn_newest_index",
-      "title": "一張20億大單打開AI液冷大門 它靠20年精密加工技術跨進伺服器供應鏈 2026-10-02 22:05",
-      "description": "",
-      "publishedAt": "2026-10-02T14:05:44.730Z",
-      "discoveredAt": "2026-10-02T14:05:44.730Z",
       "topics": [
         "Taiwan business",
         "investment",

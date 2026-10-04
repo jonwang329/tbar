@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-04T13:25:55.972Z",
+  "updatedAt": "2026-10-04T17:45:43.871Z",
   "candidates": [
     {
       "id": "cand_ab66b24e2bf0b8a8335e",
@@ -495,7 +495,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -835,7 +835,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9793982?from=edn_maintab_index",
-      "title": "周末精選／美訂光通訊新規、台鏈迎利多 記憶體供需仍緊俏 | 產業熱點 | 產業 | 經濟日報",
+      "title": "周末精選／美訂光通訊新規、台鏈迎利多 記憶體供需仍緊俏 擔心周休二日錯過重要新聞？經濟日報幫您精選周末結束前必看的內容。 美訂光通訊新規 台鏈利多 聯亞、華星光等迎轉單 摩根士丹利（大摩）1日發布報告，指出美國聯邦通信委員會（FCC）對於光收發模組的...",
       "description": "擔心周休二日錯過重要新聞？經濟日報幫您精選周末結束前必看的內容。 美訂光通訊新規 台鏈利多 聯亞、華星光等迎轉單 摩根士丹利（大摩）1日發布報告，指出美國聯邦通信委員會（FCC）對於光收發模組的採購限制，將從3.2T規格開始，為光通訊產業發展留下緩衝空間，保留未來更高規格產品中的高價值零組件。...看全文 延伸閱讀 AI 高速光通訊族群點火！穩懋、聯亞、立碁亮燈 矽光子與 CPO 題材擴散 記憶體荒 三星新旗艦機漲定了 價格上調70至100美元 外電消息傳出，手機品牌大廠三星明年初即將推出的全新旗艦機Galaxy S27系列很可能因記憶體缺貨、漲價的因素而再次全面上漲，且漲幅將因手機儲存容量不同而差距更大，凸顯明年手機成本壓力仍難以趨緩。...看全文 延伸閱讀 Google 平價機調升100美元 美光：記憶體還會缺兩年 預期供需狀況比今年緊俏得多 Fed多位官員 釋出鴿派聲音 市場預期12月才升息 美國聯準會（Fed）有更多決策官員淡化10月升息可能性，尤其是副主席傑佛森暗示，不急於再度升息，Fed金融監管副主席、理事鮑蔓也認為，今年底前沒有進一步調整利率",
       "publishedAt": "2026-10-04T13:25:48.308Z",
       "discoveredAt": "2026-10-04T13:25:48.308Z",
@@ -849,7 +849,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1029,7 +1029,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1545,36 +1545,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1b43f0a1fa1e7b629b58",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9780463?from=edn_newest_index",
-      "title": "比爾蓋茲又開砲 這回鎖定川普 批AI防護不會阻礙與陸競爭 | 國際焦點 | 國際 | 經濟日報",
-      "description": "微軟共同創辦人比爾蓋茲說，政府採取防護措施、來避免潛在的AI災難性風險，不會阻礙美國與中國大陸的競爭，這與川普大致放任不管的作法形成對比。",
-      "publishedAt": "2026-09-27T14:19:22.575Z",
-      "discoveredAt": "2026-09-27T14:19:22.575Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1666,7 +1636,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9794180?from=edn_maintab_index",
-      "title": "南韓至少七家金融業者遭駭、客戶個資外洩 李在明要求徹查 | 國際焦點 | 國際 | 經濟日報",
+      "title": "南韓至少七家金融業者遭駭、客戶個資外洩 李在明要求徹查 南韓至少七家金融機構上周至少遭遇駭客疑似以人工智慧（AI）工具輔助所進行的攻擊，並通報客戶個資外洩，促使南韓總統李在明4日下令徹底調查，金融監管當局也與產業代表召開緊急會議，研商對策。韓國電力公社（...",
       "description": "南韓至少七家金融機構上周至少遭遇駭客疑似以人工智慧（AI）工具輔助所進行的攻擊，並通報客戶個資外洩，促使南韓總統李在明4日下令徹底調查，金融監管當局也與產業代表召開緊急會議，研商對策。韓國電力公社（KEPCO，簡稱韓電）同日也通報員工個資外流，顯示這起風暴範圍持續擴大。",
       "publishedAt": "2026-10-04T13:25:48.308Z",
       "discoveredAt": "2026-10-04T13:25:48.308Z",
@@ -1680,7 +1650,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1771,6 +1741,36 @@
         "Taiwan"
       ],
       "freshnessScore": 70,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b4096a0c63503af11d3c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9789394?from=edn_course_index",
+      "title": "鄭博仁 / 心元資本創始執行合夥人 當AI成為新的勞動力",
+      "description": "",
+      "publishedAt": "2026-10-01T22:00:46.992Z",
+      "discoveredAt": "2026-10-01T22:00:46.992Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

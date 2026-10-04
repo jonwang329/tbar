@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-04T20:29:24.898Z",
+  "updatedAt": "2026-10-04T23:33:36.701Z",
   "candidates": [
     {
       "id": "cand_72186f4ebc0c482c85b0",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9794453?from=edn_maintab_index",
-      "title": "科技巨頭衝太空 AI 昇達科、仁寶、元晶、聯合再生等受惠 | 產業熱點 | 產業 | 經濟日報",
+      "title": "科技巨頭衝太空 AI 昇達科、仁寶、元晶、聯合再生等受惠 輝達執行長黃仁勳、SpaceX執行長馬斯克力挺太空資料中心趨勢，近期Google更透過SpaceX將旗下TPU伺服器送進太空軌道進行測試。科技巨頭們陸續邁入對太空資料中心實質測試階段，點亮太空AI新...",
       "description": "輝達執行長黃仁勳、SpaceX執行長馬斯克力挺太空資料中心趨勢，近期Google更透過SpaceX將旗下TPU伺服器送進太空軌道進行測試。科技巨頭們陸續邁入對太空資料中心實質測試階段，點亮太空AI新商機，助益昇達科、仁寶、元晶、聯合再生、華通、統新等相關台鏈後市水漲船高。",
       "publishedAt": "2026-10-04T20:29:15.537Z",
       "discoveredAt": "2026-10-04T20:29:15.537Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -835,7 +835,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9794451?from=edn_maintab_index",
-      "title": "輝達攜手鴻海攻 AI 機器人幫大忙 有望帶動相關廠商接單動能 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達攜手鴻海攻 AI 機器人幫大忙 有望帶動相關廠商接單動能 輝達攜手鴻海（2317）衝刺AI伺服器製造，首度揭露利用機器人實際在產線工作成果，在多項複雜的生產程序繳出傲人的成績單，展現強大自動化能力，並大幅提升良率，助益鴻海出貨更順遂。 業界人士指出，過往...",
       "description": "輝達攜手鴻海衝刺AI伺服器製造，首度揭露利用機器人實際在產線工作成果，在多項複雜的生產程序繳出傲人的成績單，展現強大自動化能力，並大幅提升良率，助益鴻海出貨更順遂。",
       "publishedAt": "2026-10-04T20:29:15.537Z",
       "discoveredAt": "2026-10-04T20:29:15.537Z",
@@ -849,7 +849,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1629,6 +1629,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_313b514e55f2bb74d5ac",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9794659?from=edn_maintab_index",
+      "title": "川普推動以 SI 取代 AI 馬斯克：SpaceXAI 將更名為 SpaceXSI | 美股動態 | 國際 | 經濟日報",
+      "description": "在美國總統川普推動以超級智慧（SI）取代人工智慧（AI）後，SpaceX執行長馬斯克今天表示，將把公司旗下AI部門名稱由...",
+      "publishedAt": "2026-10-04T23:33:23.385Z",
+      "discoveredAt": "2026-10-04T23:33:23.385Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_cc80dc3df9e32450f700",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1741,36 +1771,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_71fc1ef989c1102b107d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9793015?from=edn_maintab_index",
-      "title": "上市櫃全年獲利衝7.8兆 五大投顧董總喊台股飆53K 台股受惠AI需求強勁，輝達Rubin系列產品進入出貨潮，富邦、兆豐、台新、永豐、統一等五大投顧董總預估，上市櫃公司第4季獲利有望上看2.2兆元、全年獲利將來到7.8兆元，雙雙再創歷史新高中，全季指數...",
-      "description": "台股受惠AI需求強勁，輝達Rubin系列產品進入出貨潮，富邦、兆豐、台新、永豐、統一等五大投顧董總預估，上市櫃公司第4季獲利有望上看2.2兆元、全年獲利將來到7.8兆元，雙雙再創歷史新高中，全季指數將跨越50K大關，挑戰52K至53K，再寫台股新紀錄。",
-      "publishedAt": "2026-10-03T19:30:47.198Z",
-      "discoveredAt": "2026-10-03T19:30:47.198Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

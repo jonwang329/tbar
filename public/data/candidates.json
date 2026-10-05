@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-05T09:21:05.545Z",
+  "updatedAt": "2026-10-05T18:39:54.041Z",
   "candidates": [
+    {
+      "id": "cand_2337d97f15f17cbd6009",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9796230?from=edn_maintab_index",
+      "title": "輝達加入開源模型戰場 轉投資新創將發布首款模型 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美國CSP業者一直以來大多專注於閉源模型的開發與競爭，而開源模型則以中國大陸市場為主，然而這個格局或許即將被打破。外媒指出，輝達（NVIDIA）重金押注8億美元的AI新創公司Reflection 即將發布首款開放模型，預計發布初期能力仍將落後於美國最頂尖的前沿模型，但有望與中國大陸領先的開放權重模型直接競爭。",
+      "publishedAt": "2026-10-05T18:39:43.651Z",
+      "discoveredAt": "2026-10-05T18:39:43.651Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_72186f4ebc0c482c85b0",
       "sourceLastModified": null,
@@ -408,7 +438,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1146,7 +1176,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1485,36 +1515,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b930a5307cae056b7f83",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9782145?from=edn_maintab_index",
-      "title": "輝達揭 Anthropic 共有1,800億美元算力大單 AI 行情點火能否力挽狂瀾？ | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（Nvidia）指出，Anthropic透過與傳統雲端及新雲端業者（Neocloud）簽署的合約，取得2.6GW的AI基礎設施算力，價值已超過1,800億美元，將在2028年結束前交付。由於這些業者主要部署輝達晶片，所以輝達和Anthropic這兩家公司正形成高度交織的生態系。",
-      "publishedAt": "2026-09-28T18:36:39.244Z",
-      "discoveredAt": "2026-09-28T18:36:39.244Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1538,6 +1538,90 @@
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0e7df25ba93bb585b8df",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9796696?from=edn_course_index",
+      "title": "葉銀華 / 陽明交通大學資管與財金系教授 AI 競賽推升全球資金成本",
+      "description": "",
+      "publishedAt": "2026-10-05T18:39:43.651Z",
+      "discoveredAt": "2026-10-05T18:39:43.651Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_fd0a48e9f47a2ad37e9d",
+      "sourceLastModified": "2026-10-05T18:32:45.789Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/inside-our-in-house-data-agent",
+      "title": "https://openai.com/index/inside-our-in-house-data-agent",
+      "description": "",
+      "publishedAt": "2026-10-05T18:32:45.789Z",
+      "discoveredAt": "2026-10-05T18:39:43.651Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f3858fc5cbf0372abe33",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "description": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. […]",
+      "publishedAt": "Mon, 05 Oct 2026 13:00:57 GMT",
+      "discoveredAt": "2026-10-05T18:39:43.651Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     },
@@ -1673,96 +1757,6 @@
       "description": "南韓至少七家金融機構上周至少遭遇駭客疑似以人工智慧（AI）工具輔助所進行的攻擊，並通報客戶個資外洩，促使南韓總統李在明4日下令徹底調查，金融監管當局也與產業代表召開緊急會議，研商對策。韓國電力公社（KEPCO，簡稱韓電）同日也通報員工個資外流，顯示這起風暴範圍持續擴大。",
       "publishedAt": "2026-10-04T13:25:48.308Z",
       "discoveredAt": "2026-10-04T13:25:48.308Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e9a30799d66a1e778296",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9794180?from=edn_maintab_index",
-      "title": "南韓至少七家金融業者遭駭、客戶個資外洩 李在明要求徹查 南韓至少七家金融機構上周至少遭遇駭客疑似以人工智慧（AI）工具輔助所進行的攻擊，並通報客戶個資外洩，促使南韓總統李在明4日下令徹底調查，金融監管當局也與產業代表召開緊急會議，研商對策。韓國電力公社（...",
-      "description": "南韓至少七家金融機構上周至少遭遇駭客疑似以人工智慧（AI）工具輔助所進行的攻擊，並通報客戶個資外洩，促使南韓總統李在明4日下令徹底調查，金融監管當局也與產業代表召開緊急會議，研商對策。韓國電力公社（KEPCO，簡稱韓電）同日也通報員工個資外流，顯示這起風暴範圍持續擴大。",
-      "publishedAt": "2026-10-04T13:25:48.308Z",
-      "discoveredAt": "2026-10-04T13:25:48.308Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_05cdb99eedeb8061cb8f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5944/9780167",
-      "title": "Euronews 精選／歐洲新創各顯神通 解決 AI 電力荒 | 國際專欄 | 專欄 | 經濟日報",
-      "description": "隨著人工智慧（AI）基礎建設快速擴張，歐洲正面臨一項日益棘手的問題：電力夠用嗎？",
-      "publishedAt": "2026-10-04T07:27:29.137Z",
-      "discoveredAt": "2026-10-04T07:27:29.137Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1db8a39c69ee7d336659",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5635/9793472?from=edn_newest_index",
-      "title": "為善良的你加油！第十屆堉璘台灣奉獻獎登場 | 熱門亮點 | 商情 | 經濟日報",
-      "description": "第十屆堉璘台灣奉獻獎頒獎典禮於3日舉行，迎來邁入十週年的重要里程碑。今年除延續對第一線公益工作者的支持，更以「為善良的你加油」為主題，邀請台鋼雄鷹啦啦隊WING STARS加入公益應援。活動首度透過大眾熟悉的應援形式拍攝形象影片，期望讓更多民眾認識各領域默默付出的公益工作者，進一步將感動化為實際行動，從支持者轉身成為挽起袖子的實做者。 自2017年創立以來，堉璘台灣奉獻獎持續秉持「表彰無私奉獻、推動社會進步」的初衷，獎勵在公益領域默默付出的個人與團體。十年來，林堉璘宏泰公益信託持續將資源投入公益，陪伴得獎者及公益組織穩健發展，延續創辦人林堉璘回饋社會的大愛精神。今年持續投入高達新台幣7,200萬元的總獎金規模，以實際行動堅定守護每一位第一線公益夥伴。林堉璘宏泰公益信託林鴻南顧問表示：「十年來始終秉持創辦人「取之於社會，用之於社會」的初心陪伴台灣夥伴；十週年是里程碑，也是新的起點，公益信託會繼續努力，成為公益夥伴最堅實的後盾。 AI重現創辦人影像 與台鋼雄鷹啦啦隊WING STARS同框應援 為持續向第一線公益工作者傳遞支持，今年特別製作十週年主題形象影片。影片透過AI數位技術",
-      "publishedAt": "2026-10-04T07:27:29.137Z",
-      "discoveredAt": "2026-10-04T07:27:29.137Z",
       "topics": [
         "Taiwan business",
         "investment",

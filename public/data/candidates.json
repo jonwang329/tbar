@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-04T23:33:36.701Z",
+  "updatedAt": "2026-10-05T02:21:08.586Z",
   "candidates": [
     {
       "id": "cand_72186f4ebc0c482c85b0",
@@ -779,36 +779,6 @@
       "description": "日本堺化學工業逾百年來為藝妓使用的白粉製造細緻粉末，如今這門技術有了獲利可觀的新用途：供應人工智慧（AI）產業所需的材料。",
       "publishedAt": "2026-09-28T04:30:39.749Z",
       "discoveredAt": "2026-09-28T04:30:39.749Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6970804cb26855bb62a0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9780772?from=edn_newest_index",
-      "title": "北京傳可能放行阿里、字節採購輝達最新工作站GPU | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國科技新聞網站The Information引述知情人士報導，中國大陸政府已表示，可能允許阿里巴巴和字節跳動等企業購買輝達新推出的RTX PRO 5500圖形處理器（GPU）。",
-      "publishedAt": "2026-09-27T23:56:21.164Z",
-      "discoveredAt": "2026-09-27T23:56:21.164Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1629,6 +1599,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e113c0f8b8badb1bade9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9794901",
+      "title": "OpenAI 奧特曼反對嚴管 AI 表示好處遠勝壞處 世界應承擔適度風險 | 國際焦點 | 國際 | 經濟日報",
+      "description": "OpenAI執行長奧特曼表示，AI帶來的好處足以讓人類承擔一些風險，並主張這項技術應持續廣泛開放給大眾使用。",
+      "publishedAt": "2026-10-05T02:21:00.868Z",
+      "discoveredAt": "2026-10-05T02:21:00.868Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_313b514e55f2bb74d5ac",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1636,7 +1636,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9794659?from=edn_maintab_index",
-      "title": "川普推動以 SI 取代 AI 馬斯克：SpaceXAI 將更名為 SpaceXSI | 美股動態 | 國際 | 經濟日報",
+      "title": "川普推動以 SI 取代 AI 馬斯克：SpaceXAI 將更名為 SpaceXSI 在美國總統川普推動以超級智慧（SI）取代人工智慧（AI）後，SpaceX執行長馬斯克今天表示，將把公司旗下AI部門名稱由SpaceXAI更名為SpaceXSI。 路透社報導，馬斯克（Elon Mus...",
       "description": "在美國總統川普推動以超級智慧（SI）取代人工智慧（AI）後，SpaceX執行長馬斯克今天表示，將把公司旗下AI部門名稱由...",
       "publishedAt": "2026-10-04T23:33:23.385Z",
       "discoveredAt": "2026-10-04T23:33:23.385Z",
@@ -1650,7 +1650,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

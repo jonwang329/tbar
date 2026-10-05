@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-05T02:21:08.586Z",
+  "updatedAt": "2026-10-05T09:21:05.545Z",
   "candidates": [
     {
       "id": "cand_72186f4ebc0c482c85b0",
@@ -749,36 +749,6 @@
       "description": "",
       "publishedAt": "2026-09-29T02:42:13.235Z",
       "discoveredAt": "2026-09-29T02:42:13.235Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7fef371a388e7ce9ffa4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9780804",
-      "title": "從藝妓白粉到 AI 伺服器用 MLCC 百年老店堺化學接單大增擬擴產 | 國際焦點 | 國際 | 經濟日報",
-      "description": "日本堺化學工業逾百年來為藝妓使用的白粉製造細緻粉末，如今這門技術有了獲利可觀的新用途：供應人工智慧（AI）產業所需的材料。",
-      "publishedAt": "2026-09-28T04:30:39.749Z",
-      "discoveredAt": "2026-09-28T04:30:39.749Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1572,30 +1542,63 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_227237f92b95fa36a5e5",
+      "id": "cand_39deb84d3583ae6aa0fa",
       "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
-      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
-      "description": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents.",
-      "publishedAt": "Mon, 28 Sep 2026 09:00:00 GMT",
-      "discoveredAt": "2026-09-28T11:11:38.603Z",
+      "url": "https://money.udn.com/money/story/5599/9795727?from=edn_maintab_index",
+      "title": "高通取得華為「邏輯折疊」授權 華為看好縮小與台積電技術差距 高通（Qualcomm）已同意取得華為「邏輯折疊」（LogicFolding）晶片技術的相關專利授權，有助華為拓展海外AI市場。華為表示，這項技術可提升晶片效能，縮小與台積電（2330）等領先業者的...",
+      "description": "",
+      "publishedAt": "2026-10-05T09:20:58.197Z",
+      "discoveredAt": "2026-10-05T09:20:58.197Z",
       "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
         "data center"
       ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ebe9a02f63ad448294e3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9795615?from=edn_maintab_index",
+      "title": "美股太貴 AI 持股太集中 全球退休基金紛紛減碼 全球多家大型退休基金已降低美股配置，擔心價位偏高，以及市場過度集中於少數AI相關股票。 英國金融時報調查顯示，管理約2,600億美元資產的澳洲退休信託基金（Australian Retireme...",
+      "description": "",
+      "publishedAt": "2026-10-05T09:20:58.197Z",
+      "discoveredAt": "2026-10-05T09:20:58.197Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {

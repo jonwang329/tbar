@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-05T18:39:54.041Z",
+  "updatedAt": "2026-10-06T00:21:58.501Z",
   "candidates": [
+    {
+      "id": "cand_d1f34a155ba5295ad294",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9796881?from=edn_maintab_index",
+      "title": "美股收盤／AI 獲利成長期待加油價下跌 輝達、台積電ADR、那斯達克同創新高 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周一收高，AI獲利成長的期待加上油價下跌，抵銷全球公債殖利率上升的壓力。輝達（NVIDIA）和那斯達克綜合指數雙雙創下收盤新高，標普500指數也逼近歷史紀錄。投資人期待接下來企業財報來檢驗獲利能否繼續支撐行情。",
+      "publishedAt": "2026-10-06T00:21:45.533Z",
+      "discoveredAt": "2026-10-06T00:21:45.533Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2337d97f15f17cbd6009",
       "sourceLastModified": null,
@@ -321,7 +351,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -794,6 +824,66 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2df34c255d785a122a8e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9796590?from=edn_maintab_index",
+      "title": "台灣首家！鴻海9月營收上兆元 AI 與 iPhone 雙主軸熱轉 Q4將續強 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海昨（5）日公布9月合併營收首度衝上兆元大關、達1.15兆元，創單月歷史新高，月增25.7%，年增38.42%，是台灣上市櫃公司第一家單月營收突破1兆元的企業。",
+      "publishedAt": "2026-10-06T00:21:45.533Z",
+      "discoveredAt": "2026-10-06T00:21:45.533Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c39f099e0e2dd804c319",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9796593?from=edn_maintab_index",
+      "title": "信驊營收好威 連11月締新猷 遠端伺服器控制晶片需求強勁帶旺後市 | 產業熱點 | 產業 | 經濟日報",
+      "description": "股王信驊昨（5）日公布9月合併營收16.36億元，連續11個月創單月歷史新高，推升第3季業績改寫單季新猷並優於預期。法人指出，AI市況持續火熱，推升BMC（遠端伺服器控制晶片）需求強勁，信驊為BMC龍頭，將持續大咬AI商機，帶旺營運。",
+      "publishedAt": "2026-10-06T00:21:45.533Z",
+      "discoveredAt": "2026-10-06T00:21:45.533Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1455,66 +1545,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_847eae82fb33ef8542c3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9782091?from=edn_maintab_index",
-      "title": "輝達釋出 AI 工廠認證規範點火儲能商機 有望釋單台達電、光寶 輝達於官網首度釋出AI工廠認證規範「DSX Ready to Qualified」，聚焦儲能、散熱兩大領域，儲能是輝達過往鮮少提及的項目，最受關注，特斯拉是首波入列認證廠商。台廠中，電源雙雄台達電（...",
-      "description": "輝達於官網首度釋出AI工廠認證規範「DSX Ready to Qualified」，聚焦儲能、散熱兩大領域，儲能是輝達過往鮮少提及的項目，最受關注，特斯拉是首波入列認證廠商。台廠中，電源雙雄台達電、光寶都是特斯拉儲能供應鏈，躋身輝達AI工廠儲能商機第一梯隊，有望迎來大單。",
-      "publishedAt": "2026-09-28T23:30:13.689Z",
-      "discoveredAt": "2026-09-28T23:30:13.689Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_898701bbda08da222381",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9782069?from=edn_maintab_index",
-      "title": "世界：8吋廠產能徹底爆掉 董座方略喊短缺將延續數年 | 產業熱點 | 產業 | 經濟日報",
-      "description": "世界先進董事長方略昨（28）日表示，AI浪潮帶旺半導體需求，成熟製程供需吃緊狀況恐延續數年，缺產能的時間可能比短期景氣循環更長。",
-      "publishedAt": "2026-09-28T23:30:13.689Z",
-      "discoveredAt": "2026-09-28T23:30:13.689Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1542,6 +1572,60 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_3f6dd737debcbee9065a",
+      "sourceLastModified": "2026-10-06T00:21:46.039Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot",
+      "description": "",
+      "publishedAt": "2026-10-06T00:21:46.039Z",
+      "discoveredAt": "2026-10-06T00:21:45.533Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_440d34687694164dab79",
+      "sourceLastModified": "2026-10-06T00:19:11.832Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment",
+      "description": "",
+      "publishedAt": "2026-10-06T00:19:11.832Z",
+      "discoveredAt": "2026-10-06T00:21:45.533Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0e7df25ba93bb585b8df",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1563,7 +1647,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1573,7 +1657,7 @@
     },
     {
       "id": "cand_fd0a48e9f47a2ad37e9d",
-      "sourceLastModified": "2026-10-05T18:32:45.789Z",
+      "sourceLastModified": "2026-10-05T19:05:03.567Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1590,7 +1674,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1617,7 +1701,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1667,96 +1751,6 @@
       "description": "",
       "publishedAt": "2026-10-05T09:20:58.197Z",
       "discoveredAt": "2026-10-05T09:20:58.197Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e113c0f8b8badb1bade9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9794901",
-      "title": "OpenAI 奧特曼反對嚴管 AI 表示好處遠勝壞處 世界應承擔適度風險 | 國際焦點 | 國際 | 經濟日報",
-      "description": "OpenAI執行長奧特曼表示，AI帶來的好處足以讓人類承擔一些風險，並主張這項技術應持續廣泛開放給大眾使用。",
-      "publishedAt": "2026-10-05T02:21:00.868Z",
-      "discoveredAt": "2026-10-05T02:21:00.868Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_313b514e55f2bb74d5ac",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9794659?from=edn_maintab_index",
-      "title": "川普推動以 SI 取代 AI 馬斯克：SpaceXAI 將更名為 SpaceXSI 在美國總統川普推動以超級智慧（SI）取代人工智慧（AI）後，SpaceX執行長馬斯克今天表示，將把公司旗下AI部門名稱由SpaceXAI更名為SpaceXSI。 路透社報導，馬斯克（Elon Mus...",
-      "description": "在美國總統川普推動以超級智慧（SI）取代人工智慧（AI）後，SpaceX執行長馬斯克今天表示，將把公司旗下AI部門名稱由...",
-      "publishedAt": "2026-10-04T23:33:23.385Z",
-      "discoveredAt": "2026-10-04T23:33:23.385Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cc80dc3df9e32450f700",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9794180",
-      "title": "南韓至少七家金融業者遭駭、客戶個資外洩 李在明要求徹查 | 國際焦點 | 國際 | 經濟日報",
-      "description": "南韓至少七家金融機構上周至少遭遇駭客疑似以人工智慧（AI）工具輔助所進行的攻擊，並通報客戶個資外洩，促使南韓總統李在明4日下令徹底調查，金融監管當局也與產業代表召開緊急會議，研商對策。韓國電力公社（KEPCO，簡稱韓電）同日也通報員工個資外流，顯示這起風暴範圍持續擴大。",
-      "publishedAt": "2026-10-04T13:25:48.308Z",
-      "discoveredAt": "2026-10-04T13:25:48.308Z",
       "topics": [
         "Taiwan business",
         "investment",

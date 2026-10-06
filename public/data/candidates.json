@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-06T00:21:58.501Z",
+  "updatedAt": "2026-10-06T06:37:59.651Z",
   "candidates": [
     {
       "id": "cand_d1f34a155ba5295ad294",
@@ -768,47 +768,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_fa852b17a9a9618c0bd2",
+      "id": "cand_e0714cc340453ba4a081",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9782481",
-      "title": "大賣空貝瑞押 AI 泡沫提早破！美股警訊曝光 五檔股撐標普近93%漲幅 | 美股動態 | 國際 | 經濟日報",
-      "description": "電影《大賣空》（The Big Short）原型人物之一、以押空美國房市泡沫聞名的投資人貝瑞（Michael Burry），認為AI泡沫可能比他原先預期更早破裂，並調整看空押注。此時正值美股指數逼近高點，漲勢卻愈來愈仰賴少數大型科技股。",
-      "publishedAt": "2026-09-29T02:42:13.235Z",
-      "discoveredAt": "2026-09-29T02:42:13.235Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5c8a2e2f71713f2b2b64",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9782481?from=edn_maintab_index",
-      "title": "大賣空貝瑞押 AI 泡沫提早破！美股警訊曝光 五檔股撐標普近93%漲幅 電影《大賣空》（The Big Short）原型人物之一、以押空美國房市泡沫聞名的投資人貝瑞（Michael Burry），認為AI泡沫可能比他原先預期更早破裂，並調整看空押注。此時正值美股指數逼...",
+      "url": "https://money.udn.com/money/story/7307/9797998?from=edn_newest_index",
+      "title": "訪台拜會台積電等夥伴追產能 蘇姿丰：未來幾年AI需求強勁 2026-10-06 14:35",
       "description": "",
-      "publishedAt": "2026-09-29T02:42:13.235Z",
-      "discoveredAt": "2026-09-29T02:42:13.235Z",
+      "publishedAt": "2026-10-06T06:37:49.919Z",
+      "discoveredAt": "2026-10-06T06:37:49.919Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -823,7 +793,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1515,36 +1485,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_fe74917b51b38bf0b185",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9782226?from=edn_hottest_index",
-      "title": "輝達破天荒訂 AI 工廠儲能認證規範 台達、光寶有望迎來大單 8095",
-      "description": "",
-      "publishedAt": "2026-09-29T02:42:13.235Z",
-      "discoveredAt": "2026-09-29T02:42:13.235Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1572,8 +1512,89 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_c87d04ee4cb43345a1af",
+      "sourceLastModified": "2026-10-06T04:27:07.413Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817",
+      "description": "",
+      "publishedAt": "2026-10-06T04:27:07.413Z",
+      "discoveredAt": "2026-10-06T06:37:49.919Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cd18a1f1ab9d6b39e420",
+      "sourceLastModified": "2026-10-06T04:22:20.668Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
+      "description": "",
+      "publishedAt": "2026-10-06T04:22:20.668Z",
+      "discoveredAt": "2026-10-06T06:37:49.919Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3befe5e66cc25f881cdb",
+      "sourceLastModified": "2026-10-06T02:48:44.815Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024",
+      "description": "",
+      "publishedAt": "2026-10-06T02:48:44.815Z",
+      "discoveredAt": "2026-10-06T06:37:49.919Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_3f6dd737debcbee9065a",
-      "sourceLastModified": "2026-10-06T00:21:46.039Z",
+      "sourceLastModified": "2026-10-06T01:44:14.145Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1590,7 +1611,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1600,7 +1621,7 @@
     },
     {
       "id": "cand_440d34687694164dab79",
-      "sourceLastModified": "2026-10-06T00:19:11.832Z",
+      "sourceLastModified": "2026-10-06T01:49:05.612Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1617,7 +1638,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1647,7 +1668,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1674,7 +1695,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1701,7 +1722,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1718,36 +1739,6 @@
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9795727?from=edn_maintab_index",
       "title": "高通取得華為「邏輯折疊」授權 華為看好縮小與台積電技術差距 高通（Qualcomm）已同意取得華為「邏輯折疊」（LogicFolding）晶片技術的相關專利授權，有助華為拓展海外AI市場。華為表示，這項技術可提升晶片效能，縮小與台積電（2330）等領先業者的...",
-      "description": "",
-      "publishedAt": "2026-10-05T09:20:58.197Z",
-      "discoveredAt": "2026-10-05T09:20:58.197Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ebe9a02f63ad448294e3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9795615?from=edn_maintab_index",
-      "title": "美股太貴 AI 持股太集中 全球退休基金紛紛減碼 全球多家大型退休基金已降低美股配置，擔心價位偏高，以及市場過度集中於少數AI相關股票。 英國金融時報調查顯示，管理約2,600億美元資產的澳洲退休信託基金（Australian Retireme...",
       "description": "",
       "publishedAt": "2026-10-05T09:20:58.197Z",
       "discoveredAt": "2026-10-05T09:20:58.197Z",

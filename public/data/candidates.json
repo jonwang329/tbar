@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-06T13:39:13.362Z",
+  "updatedAt": "2026-10-06T19:06:49.056Z",
   "candidates": [
     {
       "id": "cand_8435fb1a29c29fcf324e",
@@ -21,7 +21,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1392,66 +1392,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_08af269115b797b9c0a5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9784317?from=edn_maintab_index",
-      "title": "美股早盤／油價下跌 科技股回神 費半攀漲1.7% 市場關注 AI 午餐會 在國際油價回落，美債殖利率略為下滑之際，美股三大指數29日早盤均在平盤附近遊走，但晶片股表現不錯，費城半導體指數揚升1.7%，即將在30日盤後發布上季財報的美光上漲0.9%。台積電ADR則跌0.8%...",
-      "description": "在國際油價回落，美債殖利率略為下滑之際，美股三大指數29日早盤均在平盤附近遊走，但晶片股表現不錯，費城半導體指數揚升1.7%，即將在30日盤後發布上季財報的美光上漲0.9%。台積電ADR則跌0.8%。",
-      "publishedAt": "2026-09-29T15:43:48.461Z",
-      "discoveredAt": "2026-09-29T15:43:48.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_374ba3d4b1f5188cedd1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9782091?from=edn_hottest_index",
-      "title": "輝達釋出 AI 工廠認證規範點火儲能商機 有望釋單台達電、光寶 6249",
-      "description": "",
-      "publishedAt": "2026-09-29T15:43:48.461Z",
-      "discoveredAt": "2026-09-29T15:43:48.461Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1475,6 +1415,60 @@
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1b8d16a674435e211c44",
+      "sourceLastModified": "2026-10-06T19:05:21.367Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "title": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "description": "",
+      "publishedAt": "2026-10-06T19:05:21.367Z",
+      "discoveredAt": "2026-10-06T19:06:37.950Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9ce1419807ac87a8ea26",
+      "sourceLastModified": "2026-10-06T18:36:51.562Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "title": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "description": "",
+      "publishedAt": "2026-10-06T18:36:51.562Z",
+      "discoveredAt": "2026-10-06T19:06:37.950Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     },
@@ -1689,7 +1683,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,7 +1,34 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-06T06:37:59.651Z",
+  "updatedAt": "2026-10-06T13:39:13.362Z",
   "candidates": [
+    {
+      "id": "cand_8435fb1a29c29fcf324e",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "description": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
+      "publishedAt": "Tue, 06 Oct 2026 13:00:19 GMT",
+      "discoveredAt": "2026-10-06T13:39:03.257Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d1f34a155ba5295ad294",
       "sourceLastModified": null,
@@ -738,17 +765,17 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_a461119d939b1ade4ff7",
+      "id": "cand_089cda221f34dfe80c42",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9783485?from=edn_maintab_index",
-      "title": "MSCI 推出 AI 價值鏈指數 讓投資人精準曝險與避險拆解供應鏈 指數編纂業者MSCI表示，已推出一系列AI價值鏈指數，協助投資人更精準地對AI產業進行曝險與避險。 MSCI於8月底推出14項指數，涵蓋全球AI供應鏈企業，從實體與數位基礎設施一路延伸至AI應用。...",
-      "description": "",
-      "publishedAt": "2026-09-29T09:04:24.278Z",
-      "discoveredAt": "2026-09-29T09:04:24.278Z",
+      "url": "https://money.udn.com/money/story/5612/9798944",
+      "title": "AI 決定誰錄取、誰被裁？職場指引10月擬公布 施宣輝：光靠自律恐不足 | 產業熱點 | 產業 | 經濟日報",
+      "description": "企業營運跟工作流程大量導入AI，帶來全新挑戰，台灣玉山科技協會理事長施宣輝指出，企業對資安的危機意識偏低，隨AI助力駭客攻擊擴大，未來應比照金融業規範，呼籲政府應透過法令或財務罰則，促使企業更重視資安課題。",
+      "publishedAt": "2026-10-06T13:39:03.257Z",
+      "discoveredAt": "2026-10-06T13:39:03.257Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -763,7 +790,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1425,66 +1452,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_5fbc90849a0987718429",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9783729",
-      "title": "AI 記憶體風向球來了！美光將公布財報 台系概念股上演「押寶行情」 | 市場焦點 | 證券 | 經濟日報",
-      "description": "美光（Micron）即將公布最新一季財報，成為AI族群的多空風向球，市場屏息以待。由於華爾街投行多數預期美光將繳出亮眼佳績，因而吸引買盤紛紛卡位，激勵台廠如旺宏（2337）、力積電（6770）等29日股價逆勢走強。",
-      "publishedAt": "2026-09-29T09:04:24.278Z",
-      "discoveredAt": "2026-09-29T09:04:24.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b478455f721bcebc954",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9782566?from=edn_maintab_index",
-      "title": "Anthropic 衝算力！估未來幾年豪擲5,180億美元 揭露去年淨損420億元 根據路透見到的首次公開發行股票（IPO）公開說明書，Anthropic正大力押注AI為全球經濟帶來的轉型程度，將遠遠高於工業化、電力與網路。 不過，要付出的代價也很驚人。Anthropic公布2...",
-      "description": "",
-      "publishedAt": "2026-09-29T09:04:24.278Z",
-      "discoveredAt": "2026-09-29T09:04:24.278Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9f23be122b8052aefd9e",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1503,11 +1470,65 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1eec63bec4e28c9c282c",
+      "sourceLastModified": "2026-10-06T12:37:53.703Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda",
+      "description": "",
+      "publishedAt": "2026-10-06T12:37:53.703Z",
+      "discoveredAt": "2026-10-06T13:39:03.257Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0ce3370c25c782e507d2",
+      "sourceLastModified": "2026-10-06T08:49:10.669Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus",
+      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus",
+      "description": "",
+      "publishedAt": "2026-10-06T08:49:10.669Z",
+      "discoveredAt": "2026-10-06T13:39:03.257Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     },
@@ -1530,7 +1551,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1557,7 +1578,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1584,7 +1605,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1611,7 +1632,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1638,7 +1659,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1654,7 +1675,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5629/9796696?from=edn_course_index",
-      "title": "葉銀華 / 陽明交通大學資管與財金系教授 AI 競賽推升全球資金成本",
+      "title": "葉銀華 / 陽明交通大學資管與財金系教授 AI 資本競賽升溫 全球長期資金成本面臨上行壓力",
       "description": "",
       "publishedAt": "2026-10-05T18:39:43.651Z",
       "discoveredAt": "2026-10-05T18:39:43.651Z",
@@ -1668,7 +1689,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1722,42 +1743,12 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_39deb84d3583ae6aa0fa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9795727?from=edn_maintab_index",
-      "title": "高通取得華為「邏輯折疊」授權 華為看好縮小與台積電技術差距 高通（Qualcomm）已同意取得華為「邏輯折疊」（LogicFolding）晶片技術的相關專利授權，有助華為拓展海外AI市場。華為表示，這項技術可提升晶片效能，縮小與台積電（2330）等領先業者的...",
-      "description": "",
-      "publishedAt": "2026-10-05T09:20:58.197Z",
-      "discoveredAt": "2026-10-05T09:20:58.197Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

@@ -1,43 +1,19 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-06T23:01:44.654Z",
+  "updatedAt": "2026-10-07T02:17:06.117Z",
   "candidates": [
     {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-10-06T23:01:44.654Z",
-      "discoveredAt": "2026-10-06T23:01:44.654Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_96571d57ae003b9d7ebc",
+      "id": "cand_35dc7a78b0f10a44850e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9799164?from=edn_maintab_index",
-      "title": "超微喊加碼台灣 CEO 蘇姿丰閃電來台 唱旺 AI 需求 | 產業熱點 | 產業 | 經濟日報",
-      "description": "超微執行長蘇姿丰昨（6）日表示，超微5月宣布在台投資百億美元（近新台幣3,200億元）的供應鏈計畫符合進度，考量AI市場需求比預期更好，將進一步調高投資金額，未來也會持續擴大投資台灣供應鏈。",
-      "publishedAt": "2026-10-06T23:01:31.026Z",
-      "discoveredAt": "2026-10-06T23:01:31.026Z",
+      "url": "https://money.udn.com/money/story/11074/9799550",
+      "title": "台星科法說報喜、開盤一字漲停 AI ASIC 需求強、買盤大力按讚 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "IC封測廠台星科（3265）6日法說釋出明年AI客製化晶片（ASIC）需求強勁、擴產持續推進的展望，買盤7日大力按讚，開盤直接跳上217元漲停，上漲19.5元。公司今年核定資本支出提高至134.27億元，積極擴充先進封裝與測試產能。",
+      "publishedAt": "2026-10-07T02:16:52.558Z",
+      "discoveredAt": "2026-10-07T02:16:52.558Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -57,6 +33,60 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-10-06T23:01:44.654Z",
+      "discoveredAt": "2026-10-06T23:01:44.654Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_96571d57ae003b9d7ebc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9799164?from=edn_maintab_index",
+      "title": "超微喊加碼台灣 CEO 蘇姿丰閃電來台 唱旺 AI 需求 超微執行長蘇姿丰昨（6）日表示，超微5月宣布在台投資百億美元（近新台幣3,200億元）的供應鏈計畫符合進度，考量AI市場需求比預期更好，將進一步調高投資金額，未來也會持續擴大投資台灣供應鏈。 蘇姿...",
+      "description": "超微執行長蘇姿丰昨（6）日表示，超微5月宣布在台投資百億美元（近新台幣3,200億元）的供應鏈計畫符合進度，考量AI市場需求比預期更好，將進一步調高投資金額，未來也會持續擴大投資台灣供應鏈。",
+      "publishedAt": "2026-10-06T23:01:31.026Z",
+      "discoveredAt": "2026-10-06T23:01:31.026Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_02e3874c3bbe7d3c0111",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -64,7 +94,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9799141?from=edn_maintab_index",
-      "title": "超微掃貨記憶體 CEO蘇姿丰示警供應吃緊 台鏈進補 | 產業熱點 | 產業 | 經濟日報",
+      "title": "超微掃貨記憶體 CEO蘇姿丰示警供應吃緊 台鏈進補 超微執行長蘇姿丰昨（6）日宣布加碼投資台灣之餘，也示警記憶體目前供應量仍相當吃緊，正與供應商及客戶共同規劃，確保AI伺服器、CPU平台及PC所需的記憶體數量。業界預期，超微將啟動新一波記憶體掃貨行動...",
       "description": "超微執行長蘇姿丰昨（6）日宣布加碼投資台灣之餘，也示警記憶體目前供應量仍相當吃緊，正與供應商及客戶共同規劃，確保AI伺服器、CPU平台及PC所需的記憶體數量。業界預期，超微將啟動新一波記憶體掃貨行動，台灣合作夥伴力成、群聯將大咬商機。",
       "publishedAt": "2026-10-06T23:01:31.026Z",
       "discoveredAt": "2026-10-06T23:01:31.026Z",
@@ -78,7 +108,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -105,7 +135,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -765,17 +795,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_f40611f056fb7aa86142",
+      "id": "cand_a844cb6ccf8e9fa14533",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9784525?from=edn_maintab_index",
-      "title": "央行減發存單 引發寬鬆聯想 市場關注是否政策轉向 中央銀行9月持續減發定存單，央行統計9月以來至昨（29）日止累計減發存單6,417.2億元，未到期存單餘額降至5兆8,961億元，引發市場關注資金是否轉向寬鬆；央行強調，減發主要是因應人工智慧（AI...",
-      "description": "中央銀行9月持續減發定存單，央行統計9月以來至昨（29）日止累計減發存單6,417.2億元，未到期存單餘額降至5兆8,961億元，引發市場關注資金是否轉向寬鬆；央行強調，減發主要是因應人工智慧（AI）產業投資帶動企業融資需求增加，並非貨幣政策轉向。",
-      "publishedAt": "2026-09-29T23:45:51.386Z",
-      "discoveredAt": "2026-09-29T23:45:51.386Z",
+      "url": "https://money.udn.com/money/story/5599/9799408?from=edn_maintab_index",
+      "title": "輝達又要接大單！SpaceX 傳擬籌資400億美元買 NVIDIA 晶片 | 國際焦點 | 國際 | 經濟日報",
+      "description": "馬斯克旗下SpaceX正尋求籌資400億美元，用於購買輝達（NVIDIA）晶片，凸顯這家AI與火箭公司正進一步押注這家晶片大廠的先進技術。",
+      "publishedAt": "2026-10-07T02:16:52.558Z",
+      "discoveredAt": "2026-10-07T02:16:52.558Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -786,41 +816,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f531aeef85b3db21a96",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9784506?from=edn_maintab_index",
-      "title": "超微進擊實體AI 收購實驗室World Labs 台鏈歡呼 外電報導，美國晶片大廠超微（AMD）宣布已簽署最終協議，以82億美元（約台幣逾2,600億元）規模的全股票交易，收購由「AI教母」李飛飛所創立，並擔任執行長的AI模型與研究實驗室World Labs...",
-      "description": "外電報導，美國晶片大廠超微（AMD）宣布已簽署最終協議，以82億美元（約台幣逾2,600億元）規模的全股票交易，收購由「AI教母」李飛飛所創立，並擔任執行長的AI模型與研究實驗室World Labs，取得「空間智慧」技術，提前布局實體AI。",
-      "publishedAt": "2026-09-29T23:45:51.386Z",
-      "discoveredAt": "2026-09-29T23:45:51.386Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -832,7 +832,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9799170?from=edn_maintab_index",
-      "title": "輝達市值 月底叩關6兆美元 股價創新高 向上動能強 | 美股動態 | 國際 | 經濟日報",
+      "title": "輝達市值 月底叩關6兆美元 股價創新高 向上動能強 輝達（NVIDIA）股價5日創歷史新高，因人工智慧（AI）伺服器合作夥伴鴻海（2317）公布單月營收首度突破兆元，顯示輝達後市上漲動能依然充沛。現在選擇權市場押注，輝達市值可望在本月底前突破6兆美元...",
       "description": "輝達（NVIDIA）股價5日創歷史新高，因人工智慧（AI）伺服器合作夥伴鴻海公布單月營收首度突破兆元，顯示輝達後市上漲動能依然充沛。現在選擇權市場押注，輝達市值可望在本月底前突破6兆美元大關。",
       "publishedAt": "2026-10-06T23:01:31.026Z",
       "discoveredAt": "2026-10-06T23:01:31.026Z",
@@ -846,7 +846,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1530,7 +1530,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1573,7 +1573,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9799169?from=edn_maintab_index",
-      "title": "世銀：能源震撼延續到明年 警告東亞補貼政策難以為繼 | 國際焦點 | 國際 | 經濟日報",
+      "title": "世銀：能源震撼延續到明年 警告東亞補貼政策難以為繼 世界銀行警告，隨著全球能源震撼預料延續到明年，東亞與太平洋地區各經濟體的緩衝政策空間，可能逐漸耗盡。但世銀認為，目前的「人工智慧（AI）順風」仍足以抵銷能源風險，並上調東亞及太平洋地區的經濟成長預估...",
       "description": "世界銀行警告，隨著全球能源震撼預料延續到明年，東亞與太平洋地區各經濟體的緩衝政策空間，可能逐漸耗盡。但世銀認為，目前的「人工智慧（AI）順風」仍足以抵銷能源風險，並上調東亞及太平洋地區的經濟成長預估，看升AI相關出口。",
       "publishedAt": "2026-10-06T23:01:31.026Z",
       "discoveredAt": "2026-10-06T23:01:31.026Z",
@@ -1587,7 +1587,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-07T15:56:17.549Z",
+  "updatedAt": "2026-10-07T21:05:24.652Z",
   "candidates": [
+    {
+      "id": "cand_adf1dd882bb52ec4f143",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9801542?from=edn_maintab_index",
+      "title": "SK 海力士來台釋千億大單 找上力成、和碩代工 挹注兩台廠營運熱轉 | 產業熱點 | 產業 | 經濟日報",
+      "description": "南韓記憶體大廠SK海力士集團強攻AI，旗下NAND快閃記憶體暨固態硬碟（SSD）大廠Solidigm重磅來台，釋單力成與和碩，擴大AI資料中心固態硬碟（SSD）供應，估計訂單規模一年上看數百億至千億元，近期開始出貨，挹注力成與和碩迎大單，營運熱轉。",
+      "publishedAt": "2026-10-07T21:05:11.874Z",
+      "discoveredAt": "2026-10-07T21:05:11.874Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5b02ecb9461b5008a621",
       "sourceLastModified": null,
@@ -798,6 +828,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e18379972604744253fd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11162/9801506?from=edn_maintab_index",
+      "title": "國巨營收 連七月寫新高 9月達170億元 成長4.5% 被動元件大廠國巨*（2327）營運再寫登峰，受惠AI應用需求強勁、歐美客戶在暑假後恢復拉貨，9月營收170.68億元，月增4.5%、年增46.1%，連續七個月改寫新高，第3季營收也同步攻頂。國巨看好...",
+      "description": "",
+      "publishedAt": "2026-10-07T21:05:11.874Z",
+      "discoveredAt": "2026-10-07T21:05:11.874Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9feeac85314afd0075fa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9799553?from=edn_bloomberg_index_side",
+      "title": "Anthropic 擴大先進 AI 模型訪問權限 允許特定機構開展網路安全測試",
+      "description": "",
+      "publishedAt": "2026-10-07T21:05:11.874Z",
+      "discoveredAt": "2026-10-07T21:05:11.874Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_9a96bddc31965724b797",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1569,6 +1659,63 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_f642361871781d14e14d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9801586?from=edn_maintab_index",
+      "title": "SpaceX籌資衝AI 金額上看1.2兆元 用於購買輝達晶片 台鏈利多 | 產業熱點 | 產業 | 經濟日報",
+      "description": "外電報導，全球首富馬斯克全力衝刺AI，旗下SpaceX正尋求籌資400億美元（逾新台幣1.2兆元），用於購買輝達AI晶片。業界看好，馬斯克要砸大錢買晶片擴充AI戰力，將助攻台積電、鴻海、廣達等台灣相關供應鏈後市。",
+      "publishedAt": "2026-10-07T21:05:11.874Z",
+      "discoveredAt": "2026-10-07T21:05:11.874Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e6880159fd58f405968a",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+      "description": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look at the entire journey of […]",
+      "publishedAt": "Wed, 07 Oct 2026 18:45:28 GMT",
+      "discoveredAt": "2026-10-07T21:05:11.874Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": true
+    },
+    {
       "id": "cand_3a79c3d302994ba6db8f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1626,150 +1773,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ff4af017b0c6ee0610ae",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9799880?from=edn_hottest_index",
-      "title": "股王股后五萬關前先腿軟？高價 AI 千金川湖、穎崴雙殺跌停 信驊失守1.8萬關 6259",
-      "description": "",
-      "publishedAt": "2026-10-07T15:56:06.966Z",
-      "discoveredAt": "2026-10-07T15:56:06.966Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1932200d953ee6fb31c1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9800282?from=edn_VIP_index_side",
-      "title": "數字看經濟／AI 景氣轉折？3指標揭真相：台灣的伺服器仍不夠賣",
-      "description": "",
-      "publishedAt": "2026-10-07T15:56:06.966Z",
-      "discoveredAt": "2026-10-07T15:56:06.966Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ccac1ed3215325dc0ad7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9799169?from=edn_maintab_index",
-      "title": "世銀：能源震撼延續到明年 警告東亞補貼政策難以為繼 世界銀行警告，隨著全球能源震撼預料延續到明年，東亞與太平洋地區各經濟體的緩衝政策空間，可能逐漸耗盡。但世銀認為，目前的「人工智慧（AI）順風」仍足以抵銷能源風險，並上調東亞及太平洋地區的經濟成長預估...",
-      "description": "世界銀行警告，隨著全球能源震撼預料延續到明年，東亞與太平洋地區各經濟體的緩衝政策空間，可能逐漸耗盡。但世銀認為，目前的「人工智慧（AI）順風」仍足以抵銷能源風險，並上調東亞及太平洋地區的經濟成長預估，看升AI相關出口。",
-      "publishedAt": "2026-10-06T23:01:31.026Z",
-      "discoveredAt": "2026-10-06T23:01:31.026Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1b8d16a674435e211c44",
-      "sourceLastModified": "2026-10-06T23:00:34.716Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "title": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "description": "",
-      "publishedAt": "2026-10-06T19:05:21.367Z",
-      "discoveredAt": "2026-10-06T19:06:37.950Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1eec63bec4e28c9c282c",
-      "sourceLastModified": "2026-10-06T12:37:53.703Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda",
-      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda",
-      "description": "",
-      "publishedAt": "2026-10-06T12:37:53.703Z",
-      "discoveredAt": "2026-10-06T13:39:03.257Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 95,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

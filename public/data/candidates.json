@@ -1,7 +1,127 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-07T08:51:27.880Z",
+  "updatedAt": "2026-10-07T15:56:17.549Z",
   "candidates": [
+    {
+      "id": "cand_5b02ecb9461b5008a621",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9801588",
+      "title": "AI投資熱潮對經濟有益無害？克魯曼：推升利率、排擠其他投資 | 國際焦點 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）投資熱潮正助長美國經濟成長。但知名經濟學者克魯曼警告，巨大的資料中心支出也正推升利率，並且排擠掉所有其他投資。",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e2fc04d67313850db6e6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9801588?from=edn_maintab_index",
+      "title": "AI投資熱潮對經濟有益無害？克魯曼：推升利率、排擠其他投資 | 國際焦點 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）投資熱潮正助長美國經濟成長。但知名經濟學者克魯曼警告，巨大的資料中心支出也正推升利率，並且排擠掉所有其他投資。",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4c1a4c8b228a29c60d76",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9801173?from=edn_maintab_index",
+      "title": "SK 海力士旗下 Solidigm 增設台灣 ODM 基地 擴大 SSD 生產版圖 人工智慧（AI）資料中心需求激增，帶動企業級固態硬碟（SSD）需求升高，SK海力士旗下NAND子公司Solidigm，據報正在台灣擴大生產布局，強化供應鏈韌性。 首爾經濟日報報導，消息人士透露，S...",
+      "description": "",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_25165505edc1803a60a6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9801588?from=edn_newest_index",
+      "title": "AI投資熱潮對經濟有益無害？克魯曼：推升利率、排擠其他投資 2026-10-07 23:29",
+      "description": "",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_35dc7a78b0f10a44850e",
       "sourceLastModified": null,
@@ -48,7 +168,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -135,7 +255,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -659,93 +779,6 @@
       "description": "",
       "publishedAt": "2026-10-01T05:43:37.956Z",
       "discoveredAt": "2026-10-01T05:43:37.956Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ef5b3688352e119ade83",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9785067?from=edn_bloomberg_index_side",
-      "title": "曾預警金融危機的 Whitney 表示美國經濟有暗傷 AI 投資熱恐是「紙牌屋」",
-      "description": "",
-      "publishedAt": "2026-09-30T15:51:55.380Z",
-      "discoveredAt": "2026-09-30T15:51:55.380Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5e08821504266339937c",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
-      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "description": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
-      "publishedAt": "Wed, 30 Sep 2026 15:00:00 GMT",
-      "discoveredAt": "2026-09-30T15:51:55.380Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4fc5efd939e952f9cac0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9785555?from=edn_maintab_index",
-      "title": "台塑集團半導體版圖再擴張！電子級硫酸、鹽酸雙出擊 台塑大漲逾5% 除了南亞（1303）大賺AI財，台塑（1301）、台化（1326）也往半導體布局，29日宣布攜手半導體化學品大廠中華化（1727）、台灣紙業成立新公司，各自攻電子級硫酸、電子級鹽酸兩大關鍵材料，卡位...",
-      "description": "",
-      "publishedAt": "2026-09-30T08:58:09.829Z",
-      "discoveredAt": "2026-09-30T08:58:09.829Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1536,6 +1569,126 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_3a79c3d302994ba6db8f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9801339?from=edn_maintab_index",
+      "title": "封黃仁勳為「AI 教父」的艾夫斯 今點名2027年5檔首選科技股 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國科技股大多頭艾夫斯（Dan Ives）很早就慧眼識英雄，看準輝達（Nvidia）、Palantir等人工智慧（AI）股將爆紅，如今他又點名五檔科技股為2027年首選股票。",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ae7e9076fdf31441e480",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9801616?from=edn_newest_index",
+      "title": "力成、和碩迎 SK 海力士集團千億 AI 存儲大單 2026-10-07 23:37",
+      "description": "",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ff4af017b0c6ee0610ae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9799880?from=edn_hottest_index",
+      "title": "股王股后五萬關前先腿軟？高價 AI 千金川湖、穎崴雙殺跌停 信驊失守1.8萬關 6259",
+      "description": "",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1932200d953ee6fb31c1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9800282?from=edn_VIP_index_side",
+      "title": "數字看經濟／AI 景氣轉折？3指標揭真相：台灣的伺服器仍不夠賣",
+      "description": "",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_ccac1ed3215325dc0ad7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1617,144 +1770,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0ce3370c25c782e507d2",
-      "sourceLastModified": "2026-10-06T08:49:10.669Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus",
-      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus",
-      "description": "",
-      "publishedAt": "2026-10-06T08:49:10.669Z",
-      "discoveredAt": "2026-10-06T13:39:03.257Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c87d04ee4cb43345a1af",
-      "sourceLastModified": "2026-10-06T04:27:07.413Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817",
-      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817",
-      "description": "",
-      "publishedAt": "2026-10-06T04:27:07.413Z",
-      "discoveredAt": "2026-10-06T06:37:49.919Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cd18a1f1ab9d6b39e420",
-      "sourceLastModified": "2026-10-06T04:22:20.668Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
-      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
-      "description": "",
-      "publishedAt": "2026-10-06T04:22:20.668Z",
-      "discoveredAt": "2026-10-06T06:37:49.919Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3befe5e66cc25f881cdb",
-      "sourceLastModified": "2026-10-06T02:48:44.815Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024",
-      "title": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024",
-      "description": "",
-      "publishedAt": "2026-10-06T02:48:44.815Z",
-      "discoveredAt": "2026-10-06T06:37:49.919Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0e7df25ba93bb585b8df",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9796696?from=edn_course_index",
-      "title": "葉銀華 / 陽明交通大學資管與財金系教授 AI 資本競賽升溫 全球長期資金成本面臨上行壓力",
-      "description": "",
-      "publishedAt": "2026-10-05T18:39:43.651Z",
-      "discoveredAt": "2026-10-05T18:39:43.651Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

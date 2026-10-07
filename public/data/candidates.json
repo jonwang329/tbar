@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-07T02:17:06.117Z",
+  "updatedAt": "2026-10-07T08:51:27.880Z",
   "candidates": [
     {
       "id": "cand_35dc7a78b0f10a44850e",
@@ -48,7 +48,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -765,17 +765,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_36b081ce42c8e9abfd4e",
+      "id": "cand_9a96bddc31965724b797",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9784803",
-      "title": "不與習近平合作！川普畫美中 AI 紅線 喊美國不能自廢武功 | 國際焦點 | 國際 | 經濟日報",
-      "description": "BBC報導，上周川習會後，美中才宣布啟動人工智慧（AI）對話，美國總統川普29日隨即畫下合作紅線，明確排除與中國大陸共同開發AI，直言任何形式的聯合開發都可能讓北京取得美國掌握的技術機密，無異於把秘密拱手相送。他並強調，如今美中是AI領域最主要的競爭對手，而美國處於領先，不希望透過合作讓中國迅速縮小差距。",
-      "publishedAt": "2026-09-30T02:27:27.808Z",
-      "discoveredAt": "2026-09-30T02:27:27.808Z",
+      "url": "https://money.udn.com/money/story/11074/9800825?from=edn_newest_index",
+      "title": "雷笛克營收／9月、第3季雙創新高 車用光學、AI Server 雙引擎發力 2026-10-07 16:50",
+      "description": "",
+      "publishedAt": "2026-10-07T08:51:19.086Z",
+      "discoveredAt": "2026-10-07T08:51:19.086Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -790,7 +790,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1482,36 +1482,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_2b51de764d81840d00c4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9785045?from=edn_newest_index",
-      "title": "AI 行情最新考驗！美光財報將揭曉 股價一年上漲近550%後能再衝高？ | 國際焦點 | 國際 | 經濟日報",
-      "description": "記憶體大廠美光（Micron）訂於周三（30日）盤後（台灣時間10月1日清晨4時30分）公布上季財報，業績與展望將成為AI行情的最新考驗。",
-      "publishedAt": "2026-09-30T02:27:27.808Z",
-      "discoveredAt": "2026-09-30T02:27:27.808Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9ce1419807ac87a8ea26",
       "sourceLastModified": "2026-10-06T18:36:51.562Z",
       "sourceId": "openai-news",
@@ -1530,7 +1500,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1755,6 +1725,36 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0e7df25ba93bb585b8df",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9796696?from=edn_course_index",
+      "title": "葉銀華 / 陽明交通大學資管與財金系教授 AI 資本競賽升溫 全球長期資金成本面臨上行壓力",
+      "description": "",
+      "publishedAt": "2026-10-05T18:39:43.651Z",
+      "discoveredAt": "2026-10-05T18:39:43.651Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

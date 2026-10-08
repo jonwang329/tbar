@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-08T07:09:43.073Z",
+  "updatedAt": "2026-10-08T14:36:42.001Z",
   "candidates": [
     {
       "id": "cand_b5d79b45488fee637343",
@@ -405,7 +405,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -858,33 +858,6 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a3f70071793a9ae994a9",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
-      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "description": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]",
-      "publishedAt": "Thu, 01 Oct 2026 13:00:49 GMT",
-      "discoveredAt": "2026-10-01T17:46:59.937Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1768,6 +1741,36 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0e7df25ba93bb585b8df",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9796696?from=edn_course_index",
+      "title": "葉銀華 / 陽明交通大學資管與財金系教授 AI 資本競賽升溫 全球長期資金成本面臨上行壓力",
+      "description": "",
+      "publishedAt": "2026-10-05T18:39:43.651Z",
+      "discoveredAt": "2026-10-05T18:39:43.651Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

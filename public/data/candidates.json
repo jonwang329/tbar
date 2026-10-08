@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-07T21:05:24.652Z",
+  "updatedAt": "2026-10-08T00:56:57.252Z",
   "candidates": [
+    {
+      "id": "cand_7e8137b4311afde112e0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9801829",
+      "title": "AI 晶片融資又添大案 繼 Anthropic 後 博通傳為 OpenAI 籌逾500億美元 | 國際焦點 | 國際 | 經濟日報",
+      "description": "博通（Broadcom）據傳正為和OpenAI共同開發的客製化AI晶片籌辦逾500億美元融資，阿波羅（Apollo）和黑石（Blackstone）都洽談參與。資料中心建置成本攀升，促使科技業者尋求新的資金來源，甲骨文和SpaceX也正洽談晶片融資。",
+      "publishedAt": "2026-10-08T00:56:46.460Z",
+      "discoveredAt": "2026-10-08T00:56:46.460Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_adf1dd882bb52ec4f143",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9801542?from=edn_maintab_index",
-      "title": "SK 海力士來台釋千億大單 找上力成、和碩代工 挹注兩台廠營運熱轉 | 產業熱點 | 產業 | 經濟日報",
+      "title": "SK 海力士來台釋千億大單 找上力成、和碩代工 挹注兩台廠營運熱轉 南韓記憶體大廠SK海力士集團強攻AI，旗下NAND快閃記憶體暨固態硬碟（SSD）大廠Solidigm重磅來台，釋單力成（6239）與和碩，擴大AI資料中心固態硬碟（SSD）供應，估計訂單規模一年上看...",
       "description": "南韓記憶體大廠SK海力士集團強攻AI，旗下NAND快閃記憶體暨固態硬碟（SSD）大廠Solidigm重磅來台，釋單力成與和碩，擴大AI資料中心固態硬碟（SSD）供應，估計訂單規模一年上看數百億至千億元，近期開始出貨，挹注力成與和碩迎大單，營運熱轉。",
       "publishedAt": "2026-10-07T21:05:11.874Z",
       "discoveredAt": "2026-10-07T21:05:11.874Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -198,7 +228,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1545,66 +1575,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_a03830f6dc01c53f5bea",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9787253?from=edn_maintab_index",
-      "title": "美光財報／營收飆四倍 長約暴增至320億美元 CEO 喊明後年供需更緊俏 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國記憶體龍頭美光科技（Micron Technology）給出樂觀的本季營收財測，並表示客戶已將長期供應協議的承諾金額提高至320億美元，顯示AI記憶體需求依然強勁。不過，美光也警告，本季利潤率將略為縮減。",
-      "publishedAt": "2026-10-01T00:04:16.509Z",
-      "discoveredAt": "2026-10-01T00:04:16.509Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_80a7a88d6cdaa9673279",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9786987?from=edn_maintab_index",
-      "title": "川普簽「AI憲法」 挺業者自律 下令政府改稱「SI超級智慧」 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普29日在白宮與矽谷科技業高層簽署一項「具道德約束力」的自願性質人工智慧（AI）監管協議，以加強風險審查、稽核及第三方評估，管理AI風險，形容為「AI憲法」。他也簽署行政命令，要求聯邦機構在正式通訊、網站及報告等文件，改稱AI為「超級智慧」（super intelligence）。",
-      "publishedAt": "2026-10-01T00:04:16.509Z",
-      "discoveredAt": "2026-10-01T00:04:16.509Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9ce1419807ac87a8ea26",
       "sourceLastModified": "2026-10-06T18:36:51.562Z",
       "sourceId": "openai-news",
@@ -1666,7 +1636,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9801586?from=edn_maintab_index",
-      "title": "SpaceX籌資衝AI 金額上看1.2兆元 用於購買輝達晶片 台鏈利多 | 產業熱點 | 產業 | 經濟日報",
+      "title": "SpaceX籌資衝AI 金額上看1.2兆元 用於購買輝達晶片 台鏈利多 外電報導，全球首富馬斯克全力衝刺AI，旗下SpaceX正尋求籌資400億美元（逾新台幣1.2兆元），用於購買輝達AI晶片。業界看好，馬斯克要砸大錢買晶片擴充AI戰力，將助攻台積電（2330）、鴻海、...",
       "description": "外電報導，全球首富馬斯克全力衝刺AI，旗下SpaceX正尋求籌資400億美元（逾新台幣1.2兆元），用於購買輝達AI晶片。業界看好，馬斯克要砸大錢買晶片擴充AI戰力，將助攻台積電、鴻海、廣達等台灣相關供應鏈後市。",
       "publishedAt": "2026-10-07T21:05:11.874Z",
       "discoveredAt": "2026-10-07T21:05:11.874Z",
@@ -1680,7 +1650,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1707,7 +1677,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1768,6 +1738,36 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ff4af017b0c6ee0610ae",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9799880?from=edn_hottest_index",
+      "title": "股王股后五萬關前先腿軟？高價 AI 千金川湖、穎崴雙殺跌停 信驊失守1.8萬關 6658",
+      "description": "",
+      "publishedAt": "2026-10-07T15:56:06.966Z",
+      "discoveredAt": "2026-10-07T15:56:06.966Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

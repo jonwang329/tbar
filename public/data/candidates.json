@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-09T13:36:43.124Z",
+  "updatedAt": "2026-10-09T18:59:31.488Z",
   "candidates": [
     {
       "id": "cand_6ec86c4e3af137092cbb",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9805374?from=edn_maintab_index",
-      "title": "晶片也能當擔保品? 華爾街為輝達AI晶片籌建全新金融體系 | 國際焦點 | 國際 | 經濟日報",
+      "title": "晶片也能當擔保品? 華爾街為輝達AI晶片籌建全新金融體系 華爾街金融界正在為輝達的人工智慧（AI）晶片，建立一套新的金融生態系統，使輝達晶片成為一種新的資產，並建立避險管道以及交易市場；內容包括由銀行業對輝達晶片提供貸款，由保險公司對晶片提供保障，投資人則...",
       "description": "華爾街金融界正在為輝達的人工智慧（AI）晶片，建立一套新的金融生態系統，使輝達晶片成為一種新的資產，並建立避險管道以及交易市場；內容包括由銀行業對輝達晶片提供貸款，由保險公司對晶片提供保障，投資人則能拿輝達晶片進行交易。",
       "publishedAt": "2026-10-09T13:36:34.162Z",
       "discoveredAt": "2026-10-09T13:36:34.162Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -804,17 +804,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_59aa00a5a4ee99ae1d90",
+      "id": "cand_5d3f191a9f79690cde27",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5710/9790951?from=edn_maintab_index",
-      "title": "記憶體大擴廠！有利矽晶圓需求 環球晶漲停亮燈、嘉晶創歷史高 美光（Micron）與南亞科（2408）將同步擴大投資台灣，啟動擴廠計畫，AI邏輯晶片及記憶體產能同步擴張，有利12吋矽晶圓長期需求。環球晶（6488）2日股價攻上漲停，收1,190元，創下波段新高...",
-      "description": "",
-      "publishedAt": "2026-10-02T14:05:44.730Z",
-      "discoveredAt": "2026-10-02T14:05:44.730Z",
+      "url": "https://money.udn.com/money/story/5628/9805600?from=edn_newest_index",
+      "title": "打造算力基地 撐起AI國力 | 社論 | 專欄 | 經濟日報",
+      "description": "政府今年1月核定「AI新十大建設推動方案」，賴總統並在去年雙十演說宣示，要讓台灣成為全球前五大算力中心。方向已經確立，但一個更現實的問題必須回答：這些算力，究竟要放在哪裡？",
+      "publishedAt": "2026-10-09T18:59:20.418Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -829,7 +829,37 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4e68d72ee0181dc170ba",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9804638?from=edn_hottest_index",
+      "title": "AI 光通訊缺貨看不到盡頭 Lumentum 產能訂滿至2029年初 4075",
+      "description": "",
+      "publishedAt": "2026-10-09T18:59:20.418Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1374,66 +1404,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_6a8de1dda0bbd0814ac3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9791166?from=edn_maintab_index",
-      "title": "AI 技術差點賣給中俄 OpenAI 黑歷史曝光 促阿莫戴出走 催生 Anthropic 美國《大西洋月刊》（The Atlantic）報導，OpenAI早年曾構想向中國大陸、俄羅斯等政府出售預計在未來推出的工具，並一度考慮讓饒舌天王「肯爺」（Kanye West）提前試用尚未發布的GP...",
-      "description": "",
-      "publishedAt": "2026-10-02T14:05:44.730Z",
-      "discoveredAt": "2026-10-02T14:05:44.730Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2737e8c756f85364c86d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9791217?from=edn_VIP_index_side",
-      "title": "實體AI接棒生成式AI ！減速機、螺桿、馬達、控制器 哪些台廠站在第一排？",
-      "description": "",
-      "publishedAt": "2026-10-02T14:05:44.730Z",
-      "discoveredAt": "2026-10-02T14:05:44.730Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 30,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_12a2bdf57c57ce74722d",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1515,6 +1485,147 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_72e68ed535d8785d2dff",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9805612?from=edn_newest_index",
+      "title": "台積10月15日法說 牽動台股三劇本 四大名師推演 樂觀情境指數將站穩5萬點 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電法人說明會下周四（15日）登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。",
+      "publishedAt": "2026-10-09T18:59:20.418Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4216f45d18d0c91d3e0e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122979/9744171?from=edn_VIP_index_side",
+      "title": "40年設計資料庫餵給AI！Swatch把品牌歷史變成客製化生意",
+      "description": "",
+      "publishedAt": "2026-10-09T18:59:20.418Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5b5902cfe1e2beec6d9a",
+      "sourceLastModified": "2026-10-09T18:32:11.990Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "title": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "description": "",
+      "publishedAt": "2026-10-09T18:32:11.990Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b6f75ed6b15bed0c8fdc",
+      "sourceLastModified": "2026-10-09T18:14:59.017Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
+      "title": "https://openai.com/index/put-ai-to-work-for-your-product-team",
+      "description": "",
+      "publishedAt": "2026-10-09T18:14:59.017Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aa4884492a19a377606c",
+      "sourceLastModified": "2026-10-09T17:54:20.342Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "title": "https://openai.com/index/asana-browser-agent",
+      "description": "",
+      "publishedAt": "2026-10-09T17:54:20.342Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_7770dce46a57aa945c53",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1552,7 +1663,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9805331?from=edn_maintab_index",
-      "title": "竟與自家人唱反調！花旗量化策略師：1970年代情景重現 建議放空美股 | 美股動態 | 國際 | 經濟日報",
+      "title": "竟與自家人唱反調！花旗量化策略師：1970年代情景重現 建議放空美股 人工智慧（AI）建置熱潮常與上世紀末的達康泡沫時期相提並論，花旗銀行（Citi）量化策略師團隊則認為，當前這波AI榮景所處的環境與1970年代高通膨時期近似，並建議放空美股，與該銀行的股票策略師唱...",
       "description": "人工智慧（AI）建置熱潮常與上世紀末的達康泡沫時期相提並論，花旗銀行（Citi）量化策略師團隊則認為，當前這波AI榮景所處的環境與1970年代高通膨時期近似，並建議放空美股，與該銀行的股票策略師唱反調。",
       "publishedAt": "2026-10-09T13:36:34.162Z",
       "discoveredAt": "2026-10-09T13:36:34.162Z",
@@ -1566,7 +1677,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1582,7 +1693,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9805234?from=edn_maintab_index",
-      "title": "AI公司CDS價格上漲恐是警訊？5個方法辨別美股後市吉凶 | 美股動態 | 國際 | 經濟日報",
+      "title": "AI公司CDS價格上漲恐是警訊？5個方法辨別美股後市吉凶 美股本周在人工智慧（AI）樂觀氣氛下創新高，新出爐數據也佐證美國經濟仍強，但從Meta、Google到微軟，AI相關發債公司的信用違約交換（CDS）合約價格已悄悄上漲，甲骨文CDS漲幅尤其猛。這透...",
       "description": "美股本周在人工智慧（AI）樂觀氣氛下創新高，新出爐數據也佐證美國經濟仍強，但從Meta、Google到微軟，AI相關發債公司的信用違約交換（CDS）合約價格已悄悄上漲，甲骨文CDS漲幅尤其猛。這透露什麼訊息？",
       "publishedAt": "2026-10-09T13:36:34.162Z",
       "discoveredAt": "2026-10-09T13:36:34.162Z",
@@ -1596,7 +1707,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1662,120 +1773,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_df642c25c2754fd52ab1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9804093?from=edn_maintab_index",
-      "title": "輝達最強AI PC 叫陣蘋果 華碩、微星搶商機 輝達改寫PC新頁，搭載RTX Spark晶片的「最強AI PC」來了，號稱AI性能超越蘋果MacBook Pro M5，引領代理式AI新世代來臨。華碩、微星（2377）及微軟等是首批推出搭載RTX ...",
-      "description": "輝達改寫PC新頁，搭載RTX Spark晶片的「最強AI PC」來了，號稱AI性能超越蘋果MacBook Pro M5，引領代理式AI新世代來臨。華碩、微星及微軟等是首批推出搭載RTX Spark晶片AI PC的品牌，即日起開放預購，本月16日起陸續上市。",
-      "publishedAt": "2026-10-08T20:06:50.960Z",
-      "discoveredAt": "2026-10-08T20:06:50.960Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c4dd702c15679b500cd2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9804260?from=edn_newest_index",
-      "title": "川普：「人工智慧」應改稱「超級智慧」 不從者都是敵人 2026-10-09 04:00",
-      "description": "",
-      "publishedAt": "2026-10-08T20:06:50.960Z",
-      "discoveredAt": "2026-10-08T20:06:50.960Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f79df9f1558f4a8772af",
-      "sourceLastModified": "2026-10-09T11:51:13.022Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "title": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "description": "",
-      "publishedAt": "2026-10-08T19:46:36.533Z",
-      "discoveredAt": "2026-10-08T20:06:50.960Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4b0d436574f819dbcad0",
-      "sourceLastModified": "2026-10-08T15:49:10.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "title": "Building on our commitment to American scientific discovery",
-      "description": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
-      "publishedAt": "2026-10-08T13:00:00.000Z",
-      "discoveredAt": "2026-10-08T20:06:50.960Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

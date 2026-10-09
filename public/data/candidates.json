@@ -1,7 +1,97 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-09T18:59:31.488Z",
+  "updatedAt": "2026-10-09T23:10:33.323Z",
   "candidates": [
+    {
+      "id": "cand_c225adcd5b9098c05c69",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9805562?from=edn_maintab_index",
+      "title": "光寶斥資110億 德州新廠動了 配合客戶需求擴產 搶賺AI財 | 產業熱點 | 產業 | 經濟日報",
+      "description": "電源廠配合AI客戶需求積極擴產，電源大廠光寶科昨（9）日代美國子公司LITE-ON, INC.公告，與統包工程商簽訂工程合約，將投資3.48億美元（約新台幣110.59億元），以自地委建方式興建德州McKinney（麥金尼）新廠。",
+      "publishedAt": "2026-10-09T23:10:21.129Z",
+      "discoveredAt": "2026-10-09T23:10:21.129Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_112aaa5673253a075a63",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9805570?from=edn_maintab_index",
+      "title": "OpenAI 業績爆冷 台鏈承壓 市場憂影響鴻海、緯創等表現 | 產業熱點 | 產業 | 經濟日報",
+      "description": "OpenAI年化營收可能不如市場預期，市場又開始擔心雲端服務大廠（CSP）後續AI投資力道，下周一開盤鴻海、廣達、緯創、緯穎等AI代工廠股價恐面臨壓力。但目前法人及研調（摩根士丹利、野村、集邦科技）普遍預估，今年AI伺服器出貨總櫃數挑戰8萬櫃以上水準，明年出貨將達11萬櫃的新高，同時產值更將突破7,000億美元大關，營運表現仍可望衝高。",
+      "publishedAt": "2026-10-09T23:10:21.129Z",
+      "discoveredAt": "2026-10-09T23:10:21.129Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dc5633bb0906e1a1bf33",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9805615?from=edn_maintab_index",
+      "title": "澳洲 AI 新創 Firmus 上市案停擺 享輝達加持 卻難敵市場冷淡對待 獲輝達力挺的澳洲資料中心營運商Firmus，9日以市場波動與現況為由，擱置規模71億澳幣（50億美元）的首次公開發行股票（IPO），並表示將轉赴私募市場融資。 Firmus這項IPO規模原本將名列...",
+      "description": "",
+      "publishedAt": "2026-10-09T23:10:21.129Z",
+      "discoveredAt": "2026-10-09T23:10:21.129Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6ec86c4e3af137092cbb",
       "sourceLastModified": null,
@@ -804,6 +894,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_68dd1e7616ec9d6554a8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5621/9805638?from=edn_maintab_index",
+      "title": "AI 點火 外商擴大在台設置辦公據點 商辦200億商機引爆 | 房市話題 | 房市 | 經濟日報",
+      "description": "仲量聯行指出，在AI供應鏈積極擴廠下，外商將加大在台設置辦公據點，且需求量體估突破10萬坪，而國內擴廠效應同步帶起「後勤營運辦公室」型態；在雙需求爆發，國內租賃加買賣辦公市場將引爆超過200億元商機。",
+      "publishedAt": "2026-10-09T23:10:21.129Z",
+      "discoveredAt": "2026-10-09T23:10:21.129Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_5d3f191a9f79690cde27",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -841,7 +961,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9804638?from=edn_hottest_index",
-      "title": "AI 光通訊缺貨看不到盡頭 Lumentum 產能訂滿至2029年初 4075",
+      "title": "AI 光通訊缺貨看不到盡頭 Lumentum 產能訂滿至2029年初 4441",
       "description": "",
       "publishedAt": "2026-10-09T18:59:20.418Z",
       "discoveredAt": "2026-10-09T18:59:20.418Z",
@@ -855,7 +975,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1422,7 +1542,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1485,6 +1605,63 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_09f02b62683bd3805e0f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9805612?from=edn_maintab_index",
+      "title": "台積10月15日法說 牽動台股三劇本 四大名師推演 樂觀情境指數將站穩5萬點 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電法人說明會下周四（15日）登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。",
+      "publishedAt": "2026-10-09T23:10:21.129Z",
+      "discoveredAt": "2026-10-09T23:10:21.129Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_504ac036acb9bbd51e44",
+      "sourceLastModified": "2026-10-09T23:07:09.435Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/ai-for-self-empowerment",
+      "title": "https://openai.com/index/ai-for-self-empowerment",
+      "description": "",
+      "publishedAt": "2026-10-09T23:07:09.435Z",
+      "discoveredAt": "2026-10-09T23:10:21.129Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_72e68ed535d8785d2dff",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1536,7 +1713,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1563,9 +1740,9 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
-      "taiwanScore": 35,
+      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
@@ -1590,189 +1767,12 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aa4884492a19a377606c",
-      "sourceLastModified": "2026-10-09T17:54:20.342Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "title": "https://openai.com/index/asana-browser-agent",
-      "description": "",
-      "publishedAt": "2026-10-09T17:54:20.342Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 95,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7770dce46a57aa945c53",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9805234",
-      "title": "AI公司CDS價格上漲恐是警訊？5個方法辨別美股後市吉凶 | 美股動態 | 國際 | 經濟日報",
-      "description": "美股本周在人工智慧（AI）樂觀氣氛下創新高，新出爐數據也佐證美國經濟仍強，但從Meta、Google到微軟，AI相關發債公司的信用違約交換（CDS）合約價格已悄悄上漲，甲骨文CDS漲幅尤其猛。這透露什麼訊息？",
-      "publishedAt": "2026-10-09T13:36:34.162Z",
-      "discoveredAt": "2026-10-09T13:36:34.162Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ae620d9297e3efb618b2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9805331?from=edn_maintab_index",
-      "title": "竟與自家人唱反調！花旗量化策略師：1970年代情景重現 建議放空美股 人工智慧（AI）建置熱潮常與上世紀末的達康泡沫時期相提並論，花旗銀行（Citi）量化策略師團隊則認為，當前這波AI榮景所處的環境與1970年代高通膨時期近似，並建議放空美股，與該銀行的股票策略師唱...",
-      "description": "人工智慧（AI）建置熱潮常與上世紀末的達康泡沫時期相提並論，花旗銀行（Citi）量化策略師團隊則認為，當前這波AI榮景所處的環境與1970年代高通膨時期近似，並建議放空美股，與該銀行的股票策略師唱反調。",
-      "publishedAt": "2026-10-09T13:36:34.162Z",
-      "discoveredAt": "2026-10-09T13:36:34.162Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e26b129a9fc1f1c61a40",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9805234?from=edn_maintab_index",
-      "title": "AI公司CDS價格上漲恐是警訊？5個方法辨別美股後市吉凶 美股本周在人工智慧（AI）樂觀氣氛下創新高，新出爐數據也佐證美國經濟仍強，但從Meta、Google到微軟，AI相關發債公司的信用違約交換（CDS）合約價格已悄悄上漲，甲骨文CDS漲幅尤其猛。這透...",
-      "description": "美股本周在人工智慧（AI）樂觀氣氛下創新高，新出爐數據也佐證美國經濟仍強，但從Meta、Google到微軟，AI相關發債公司的信用違約交換（CDS）合約價格已悄悄上漲，甲骨文CDS漲幅尤其猛。這透露什麼訊息？",
-      "publishedAt": "2026-10-09T13:36:34.162Z",
-      "discoveredAt": "2026-10-09T13:36:34.162Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_afc914b2402885fddeda",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9804783",
-      "title": "亞馬遜平板不再拚便宜 改用 Android 讓 AI 看懂螢幕 挑戰蘋果三星 | 國際焦點 | 國際 | 經濟日報",
-      "description": "亞馬遜告別平價平板策略，推出以Alexa命名的三款新機，首度改用Google的Android作業系統，並導入Alexa+生成式AI助理，讓使用者能針對螢幕內容提問、購物或安排行程。",
-      "publishedAt": "2026-10-09T06:25:11.040Z",
-      "discoveredAt": "2026-10-09T06:25:11.040Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4825401117c73615e990",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9804080?from=edn_maintab_index",
-      "title": "出口連35紅 史上最長 9月872億美元 創新高 財政部昨（8）日公布最新進出口統計，AI熱潮帶動下，9月出口金額872.2億美元，創歷年單月新高，年增率60.9%，「連35紅」締造史上最長成長周期，也是不含春節月分的史上第二大增幅。 財政部官員...",
-      "description": "財政部昨（8）日公布最新進出口統計，AI熱潮帶動下，9月出口金額872.2億美元，創歷年單月新高，年增率60.9%，「連35紅」締造史上最長成長周期，也是不含春節月分的史上第二大增幅。",
-      "publishedAt": "2026-10-08T20:06:50.960Z",
-      "discoveredAt": "2026-10-08T20:06:50.960Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

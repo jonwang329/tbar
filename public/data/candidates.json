@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T19:04:33.598Z",
+  "updatedAt": "2026-10-10T22:27:19.664Z",
   "candidates": [
     {
       "id": "cand_bbeef40a99e4b8c500c8",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9806890?from=edn_maintab_index",
-      "title": "AI 加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境 | 美股動態 | 國際 | 經濟日報",
+      "title": "AI 加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境 人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）...",
       "description": "人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）和公司債市場急遽降溫，警訊處處可見。",
       "publishedAt": "2026-10-10T19:04:23.824Z",
       "discoveredAt": "2026-10-10T19:04:23.824Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -864,17 +864,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_4b4cb1596918007de9b8",
+      "id": "cand_501aa418ea3b277b9d90",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9792977?from=edn_maintab_index",
-      "title": "資金趨緊 企業周轉金利率升高 報價喊到2.5%以上銀行才有承作意願 AI基礎建設、半導體擴產及企業海外布局推升資金需求隨科技業資本支出持續加碼，聯貸市場資金需求同步升溫，不過因近期銀行資金偏緊，部分金融機構的周轉金放款利率報價喊到2.5%以上才有承作意願。 銀行圈...",
-      "description": "AI基礎建設、半導體擴產及企業海外布局推升資金需求隨科技業資本支出持續加碼，聯貸市場資金需求同步升溫，不過因近期銀行資金偏緊，部分金融機構的周轉金放款利率報價喊到2.5%以上才有承作意願。",
-      "publishedAt": "2026-10-03T19:30:47.198Z",
-      "discoveredAt": "2026-10-03T19:30:47.198Z",
+      "url": "https://money.udn.com/money/story/123828/9807101?from=edn_newest_index",
+      "title": "TestMu AI 在 2026 年 Gartner® Magic Quadrant™ 智能體軟件品質保證平台報告中獲評領導者 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "評估依據為願景完整性及執行能力 印度諾伊達2026年10月11日 /美通社/ -- 全棧智能體 AI 品質工程平台 TestMu AI 宣佈，公司在 2026 年 Gartner® Magic Quadrant™ 智能體軟件品質保證平台報告中獲評領導者。可於[此處]免費獲取本研究報告。 隨著軟件交付轉向智能體工作流程，TestMu AI 持續透過智能體驅動的測試，以及可擴展的雲端執行基礎設施，推進端到端品質工程。該平台提供獨立驗證、非確定性智能體評估及管治能力，讓企業團隊在保留現有瀏覽器及裝置測試環境的同時，順利轉向智能體驅動的軟件交付模式。 平台透過多項功能滿足企業的核心測試需求：KaneAI 及 Kane CLI 支援以自然語言編寫測試，並提供可供智能體調用的執行功能；Agent Testing 支援多智能體評估；HyperExecute 則實現智能測試編排。平台亦在統一的品質工程生態系統中提供 Test Manager、Real Device Cloud、SmartUI 及無障礙測試。 TestMu AI 認為，獲評領導者反映公司在推進智能體品質工程方面的持續投入，涵蓋 AI 驅",
+      "publishedAt": "2026-10-10T22:27:11.211Z",
+      "discoveredAt": "2026-10-10T22:27:11.211Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -885,11 +885,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1494,66 +1494,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_02e7f3b5c729f0dc563c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9793194?from=edn_newest_index",
-      "title": "OpenAI前工程師：AI業應效法核電廠採多重安全防護 | 國際焦點 | 國際 | 經濟日報",
-      "description": "又一名OpenAI前員工加入要求加強人工智慧（AI）安全的呼籲行列。該公司前工程師羅賓森撰文指出，AI產業應效法航空或核...",
-      "publishedAt": "2026-10-03T22:23:43.773Z",
-      "discoveredAt": "2026-10-03T22:23:43.773Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9019e58c6dfdf7565247",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9793023?from=edn_maintab_index",
-      "title": "輝達推64G高貴迷你 PC 宏碁、華碩等是合作廠商 人工智慧（AI）晶片龍頭輝達（NVIDIA）即將在本月下旬，推出64GB版本、可在本地端運行AI模型的DGX Spark迷你個人電腦（PC），儘管記憶體容量較一年前的128GB版本砍半，售價卻貴上1...",
-      "description": "人工智慧（AI）晶片龍頭輝達（NVIDIA）即將在本月下旬，推出64GB版本、可在本地端運行AI模型的DGX Spark迷你個人電腦（PC），儘管記憶體容量較一年前的128GB版本砍半，售價卻貴上1,000美元，反映記憶體持續缺貨的影響。",
-      "publishedAt": "2026-10-03T19:30:47.198Z",
-      "discoveredAt": "2026-10-03T19:30:47.198Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_22bbce1ad512d6e66807",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1575,7 +1515,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1602,7 +1542,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1782,6 +1722,63 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4216f45d18d0c91d3e0e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122979/9744171?from=edn_VIP_index_side",
+      "title": "40年設計資料庫餵給AI！Swatch把品牌歷史變成客製化生意",
+      "description": "",
+      "publishedAt": "2026-10-09T18:59:20.418Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aa4884492a19a377606c",
+      "sourceLastModified": "2026-10-10T21:52:01.528Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "title": "https://openai.com/index/asana-browser-agent",
+      "description": "",
+      "publishedAt": "2026-10-09T17:54:20.342Z",
+      "discoveredAt": "2026-10-09T18:59:20.418Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

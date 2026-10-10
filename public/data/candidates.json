@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T14:47:50.207Z",
+  "updatedAt": "2026-10-10T19:04:33.598Z",
   "candidates": [
+    {
+      "id": "cand_bbeef40a99e4b8c500c8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9806890?from=edn_maintab_index",
+      "title": "AI 加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）和公司債市場急遽降溫，警訊處處可見。",
+      "publishedAt": "2026-10-10T19:04:23.824Z",
+      "discoveredAt": "2026-10-10T19:04:23.824Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5a74e5fd88e1eab4565f",
       "sourceLastModified": null,
@@ -1524,6 +1554,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_22bbce1ad512d6e66807",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9806947?from=edn_maintab_index",
+      "title": "美明年 AI 支出將達 GDP 的5% SemiAnalysis 預測 金額逼近2兆美元 獨立研究機構SemiAnalysis創辦人帕特爾（Dylan Patel）說，明年全美的AI資本支出將逼近2兆美元，相當於美國國內生產毛額（GDP）的5%-6%。 帕特爾接受Big Technol...",
+      "description": "",
+      "publishedAt": "2026-10-10T19:04:23.824Z",
+      "discoveredAt": "2026-10-10T19:04:23.824Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_12a2bdf57c57ce74722d",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1605,6 +1665,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_a8de2417a44b9f6404ff",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9807072?from=edn_newest_index",
+      "title": "AI 信用疑慮擊倒博通、甲骨文 為何 NVIDIA 股價還屹立不搖？ 2026-10-11 02:02",
+      "description": "",
+      "publishedAt": "2026-10-10T19:04:23.824Z",
+      "discoveredAt": "2026-10-10T19:04:23.824Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_96983c092d1e276f0e57",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1676,93 +1766,6 @@
       "description": "",
       "publishedAt": "2026-10-10T08:44:14.938Z",
       "discoveredAt": "2026-10-10T08:44:14.938Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b316555074832453f17f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9805726",
-      "title": "台股5萬點前的警訊：外資由買轉賣、高價 AI 股震盪 下一波行情怎麼看？ | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股本周在5萬點關前上演高檔震盪，5日大漲1,236點後，6日盤中最高來到49,968點，距5萬點僅31點，卻未能一舉攻克；8日更受到美債殖利率回升、美股走弱及權值股賣壓影響，單日大跌492點，收49,313點。值得注意的是，指數攻關未果之際，法人籌碼同步由買轉賣，資金則從部分高價AI股轉向記憶體、封測及高階材料，成為本周盤面最明顯的變化。",
-      "publishedAt": "2026-10-10T02:22:21.470Z",
-      "discoveredAt": "2026-10-10T02:22:21.470Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_504ac036acb9bbd51e44",
-      "sourceLastModified": "2026-10-09T23:07:09.435Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/ai-for-self-empowerment",
-      "title": "https://openai.com/index/ai-for-self-empowerment",
-      "description": "",
-      "publishedAt": "2026-10-09T23:07:09.435Z",
-      "discoveredAt": "2026-10-09T23:10:21.129Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_72e68ed535d8785d2dff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9805612?from=edn_newest_index",
-      "title": "台積10月15日法說 牽動台股三劇本 四大名師推演 樂觀情境指數將站穩5萬點 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台積電法人說明會下周四（15日）登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。",
-      "publishedAt": "2026-10-09T18:59:20.418Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
       "topics": [
         "Taiwan business",
         "investment",

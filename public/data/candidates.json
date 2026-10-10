@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T08:44:25.602Z",
+  "updatedAt": "2026-10-10T14:47:50.207Z",
   "candidates": [
+    {
+      "id": "cand_5a74e5fd88e1eab4565f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9806890?from=edn_newest_index",
+      "title": "AI加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）和公司債市場急遽降溫，警訊處處可見。",
+      "publishedAt": "2026-10-10T14:47:41.196Z",
+      "discoveredAt": "2026-10-10T14:47:41.196Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c225adcd5b9098c05c69",
       "sourceLastModified": null,
@@ -645,7 +675,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -834,6 +864,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_fbb0dec210da7b616956",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9805985",
+      "title": "AI 竟向警方亂報命案線索 Claude 擅自操作政府網站 白宮要求業者處理 | 國際焦點 | 國際 | 經濟日報",
+      "description": "Anthropic揭露，旗下Claude AI模型曾擅自操作其他機構及美國政府單位的網站，引發安全疑慮。川普政府要求AI業者通知受影響對象，並處理相關安全事件。",
+      "publishedAt": "2026-10-10T14:47:41.196Z",
+      "discoveredAt": "2026-10-10T14:47:41.196Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_02c4a394eed728f21dcf",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -841,7 +901,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9806263?from=edn_maintab_index",
-      "title": "台積電法說會下周四登場、CPI 連五月超過2%通膨警戒線……本周不可不知的五件財經大事 | 市場焦點 | 證券 | 經濟日報",
+      "title": "台積電法說會下周四登場、CPI 連五月超過2%通膨警戒線……本周不可不知的五件財經大事 台積電（2330）法說會15日登場，台股有望站穩5萬點；OpenAI年化營收可能不如市場預期，鴻海（2317）、廣達（2382）、緯創（3231）、緯穎（6669）等AI代工廠股價恐面臨壓力；主計總...",
       "description": "台積電（2330）法說會15日登場，台股有望站穩5萬點；OpenAI年化營收可能不如市場預期，鴻海（2317）、廣達（2382）、緯創（3231）、緯穎（6669）等AI代工廠股價恐面臨壓力；主計總處發布9月消費者物價指數（CPI）年增率為2.73%，連五月超過2%通膨警戒線，主計總處表示「國內沒有通膨現象」……以下是本周五件財經要聞： 1. 台積10月15日法說 牽動台股三劇本 四大名師推演 樂觀情境指數將站穩5萬點 台積電法人說明會15日登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。 四大股市名師推演三劇本，若第4季營收季增率及毛利率優於預期，並對AI及中長期半導體成長預估更加樂觀，將有利台股震盪盤堅站穩5萬點，並續探高點。 群益投顧董事長蔡明彥、第一金投顧董事長黃詣庭分析，雖然中東情勢反覆不定、美債殖利率高漲、AI雜音持續干擾市場信心，台股叩關5萬點尚未達陣，所幸企業獲利延續上修趨勢、ETF買盤源源不絕挹注，即使拉回幅度有限，建議逢低分批布局。 永豐投顧總經理黃柏棠、台新投顧總經理黃文清指出，台積電第3季營收達到財測高標，多家內外資法人樂觀預期財報可望繳出亮麗成",
       "publishedAt": "2026-10-10T08:44:14.938Z",
       "discoveredAt": "2026-10-10T08:44:14.938Z",
@@ -855,7 +915,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -915,7 +975,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1509,7 +1569,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1542,6 +1602,36 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_96983c092d1e276f0e57",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9806101?from=edn_newest_index",
+      "title": "蔣萬安拋松機遷移 醫憂東部和離島醫療 石崇良：凸顯需更廣泛討論 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "北市選戰白熱化，台北市長蔣萬安拋出松山機場遷移建AI園區，遭醫界發聲恐衝擊東部醫療，影響醫師支援及患者就醫。衛福部長石崇良說，醫界憂心往返偏鄉在人力往來、交通問題等，都凸顯遷移議題需要更廣泛、詳細規畫討論，醫療後送絕對是需要被納進討論。",
+      "publishedAt": "2026-10-10T14:47:41.196Z",
+      "discoveredAt": "2026-10-10T14:47:41.196Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1689,90 +1779,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4216f45d18d0c91d3e0e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122979/9744171?from=edn_VIP_index_side",
-      "title": "40年設計資料庫餵給AI！Swatch把品牌歷史變成客製化生意",
-      "description": "",
-      "publishedAt": "2026-10-09T18:59:20.418Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5b5902cfe1e2beec6d9a",
-      "sourceLastModified": "2026-10-09T18:32:11.990Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "title": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "description": "",
-      "publishedAt": "2026-10-09T18:32:11.990Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b6f75ed6b15bed0c8fdc",
-      "sourceLastModified": "2026-10-09T18:14:59.017Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
-      "title": "https://openai.com/index/put-ai-to-work-for-your-product-team",
-      "description": "",
-      "publishedAt": "2026-10-09T18:14:59.017Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

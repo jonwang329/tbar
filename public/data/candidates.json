@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T14:08:17.143Z",
+  "updatedAt": "2026-10-11T18:57:12.276Z",
   "candidates": [
     {
       "id": "cand_b922e1ba5b7cea39976a",
@@ -864,6 +864,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_35f7cc59f4e74df7b951",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9808267?from=edn_newest_index",
+      "title": "台股遇亂流拚先蹲後跳 法人押寶台積法說買盤有望進場 挑戰5萬關 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股國慶連假休市期間，國際情勢與AI指標廠都傳出負面消息，包括中東緊張情勢升溫、OpenAI年化營收低於預期等，導致美國科技股與費半指數走跌，市場預期大盤今（12）日恐面臨補跌壓力，可能回測49K。",
+      "publishedAt": "2026-10-11T18:57:02.922Z",
+      "discoveredAt": "2026-10-11T18:57:02.922Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_8f90af4e826f1ca5ad6a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -871,7 +901,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5648/9807723?from=edn_maintab_index",
-      "title": "曾經的股后、萬金股跌落神壇...營收年增優等生穎崴 股價為何從11,490元腰斬只剩5字頭 ？ | 熱門話題 | 要聞 | 經濟日報",
+      "title": "曾經的股后、萬金股跌落神壇...營收年增優等生穎崴 股價為何從11,490元腰斬只剩5字頭 ？ 高階半導體測試介面、探針卡大廠穎崴（6515），過去受到AI晶片測試需求爆發、訂單供不應求、營收與獲利創高，還有投顧、外資喊買等利多消息推動，股價最高創下11,490元天價。 然而，股價創高後...",
       "description": "高階半導體測試介面、探針卡大廠穎崴（6515），過去受到AI晶片測試需求爆發、訂單供不應求、營收與獲利創高，還有法人、外資喊買等利多消息推動，股價最高創下11,490元天價。然而，股價創高後逐步回落...",
       "publishedAt": "2026-10-11T14:08:06.517Z",
       "discoveredAt": "2026-10-11T14:08:06.517Z",
@@ -885,7 +915,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1605,6 +1635,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_adea62e1ac191a18e7b5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9808272?from=edn_newest_index",
+      "title": "科技論壇後天登場 玉山金科技長張智星：AI 助金融業強化韌性 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "AI技術快速演進，金融業正邁向智慧協作與流程重塑新階段。玉山金控科技長張智星表示，玉山發展AI的核心，不在取代人力，而在協助專業同仁更聚焦高價值判斷，並將長期累積的金融專業轉化為可持續擴展的企業能力。",
+      "publishedAt": "2026-10-11T18:57:02.922Z",
+      "discoveredAt": "2026-10-11T18:57:02.922Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_56ce6dc8211236447916",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1717,66 +1777,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_57b9c7109ab732e53888",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9803767?from=edn_hottest_index",
-      "title": "PCB千金股愈來愈多 華通為何還在低位階？ AI＋Starlink雙題材點火 2027年獲利拚倍增 4855",
-      "description": "",
-      "publishedAt": "2026-10-10T08:44:14.938Z",
-      "discoveredAt": "2026-10-10T08:44:14.938Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4216f45d18d0c91d3e0e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122979/9744171?from=edn_VIP_index_side",
-      "title": "40年設計資料庫餵給AI！Swatch把品牌歷史變成客製化生意",
-      "description": "",
-      "publishedAt": "2026-10-09T18:59:20.418Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

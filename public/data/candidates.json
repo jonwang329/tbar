@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T18:57:12.276Z",
+  "updatedAt": "2026-10-11T22:44:48.695Z",
   "candidates": [
+    {
+      "id": "cand_906d6ed3bdf6b1fdcfd0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9808220?from=edn_maintab_index",
+      "title": "輝達衝刺機器人加碼投資新創 Figure 所羅門、廣運、台達電等沾光 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達傳擬斥資10億美元（近新台幣320億元），加碼投資AI機器人新創Figure。業界認為，這是輝達執行長黃仁勳加速擴大機器人布局的關鍵訊號，所羅門、廣運、台達電、達明、新漢等輝達機器人供應鏈有望受惠。",
+      "publishedAt": "2026-10-11T22:44:36.345Z",
+      "discoveredAt": "2026-10-11T22:44:36.345Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_078c031d64acf3b8b349",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9808314?from=edn_maintab_index",
+      "title": "輝達想併購美版 DeepSeek 僅延攬 Reflection 人才並取得技術授權 英國金融時報（FT）報導，輝達（NVIDIA）正在洽談加碼投資或「收購」人工智慧（AI）開源模型開發商Reflection AI，方式可能比照之前收購推論晶片商Groq的交易，主要是延攬頂尖人才並取...",
+      "description": "",
+      "publishedAt": "2026-10-11T22:44:36.345Z",
+      "discoveredAt": "2026-10-11T22:44:36.345Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b922e1ba5b7cea39976a",
       "sourceLastModified": null,
@@ -834,17 +894,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_72186f4ebc0c482c85b0",
+      "id": "cand_4e72b3ad9bbb392c6400",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9794453?from=edn_maintab_index",
-      "title": "科技巨頭衝太空 AI 昇達科、仁寶、元晶、聯合再生等受惠 輝達執行長黃仁勳、SpaceX執行長馬斯克力挺太空資料中心趨勢，近期Google更透過SpaceX將旗下TPU伺服器送進太空軌道進行測試。科技巨頭們陸續邁入對太空資料中心實質測試階段，點亮太空AI新...",
-      "description": "輝達執行長黃仁勳、SpaceX執行長馬斯克力挺太空資料中心趨勢，近期Google更透過SpaceX將旗下TPU伺服器送進太空軌道進行測試。科技巨頭們陸續邁入對太空資料中心實質測試階段，點亮太空AI新商機，助益昇達科、仁寶、元晶、聯合再生、華通、統新等相關台鏈後市水漲船高。",
-      "publishedAt": "2026-10-04T20:29:15.537Z",
-      "discoveredAt": "2026-10-04T20:29:15.537Z",
+      "url": "https://money.udn.com/money/story/5612/9808264?from=edn_maintab_index",
+      "title": "AI 太熱 封測業迎最強漲價潮 日月光、京元電等大進補 | 產業熱點 | 產業 | 經濟日報",
+      "description": "半導體封測業迎來「史上最強漲價潮」。業界傳出，由於AI晶片測試時間持續拉長，加上雲端大咖紛紛推出自研晶片，近期封測市場產能嚴重供不應求，業者「隨時都在漲價」，漲幅上看一至三成，小客戶急件價格甚至翻倍漲，日月光投控、京元電、力成、欣銓等大進補。",
+      "publishedAt": "2026-10-11T22:44:36.345Z",
+      "discoveredAt": "2026-10-11T22:44:36.345Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -855,11 +915,41 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ad4f74a6da27a10fb4c9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9808267?from=edn_maintab_index",
+      "title": "台股遇亂流拚先蹲後跳 法人押寶台積法說買盤有望進場 挑戰5萬關 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股國慶連假休市期間，國際情勢與AI指標廠都傳出負面消息，包括中東緊張情勢升溫、OpenAI年化營收低於預期等，導致美國科技股與費半指數走跌，市場預期大盤今（12）日恐面臨補跌壓力，可能回測49K。",
+      "publishedAt": "2026-10-11T22:44:36.345Z",
+      "discoveredAt": "2026-10-11T22:44:36.345Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1494,36 +1584,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_43bcf7d996ba91f0c121",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9794451?from=edn_maintab_index",
-      "title": "輝達攜手鴻海攻 AI 機器人幫大忙 有望帶動相關廠商接單動能 輝達攜手鴻海（2317）衝刺AI伺服器製造，首度揭露利用機器人實際在產線工作成果，在多項複雜的生產程序繳出傲人的成績單，展現強大自動化能力，並大幅提升良率，助益鴻海出貨更順遂。 業界人士指出，過往...",
-      "description": "輝達攜手鴻海衝刺AI伺服器製造，首度揭露利用機器人實際在產線工作成果，在多項複雜的生產程序繳出傲人的成績單，展現強大自動化能力，並大幅提升良率，助益鴻海出貨更順遂。",
-      "publishedAt": "2026-10-04T20:29:15.537Z",
-      "discoveredAt": "2026-10-04T20:29:15.537Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_22bbce1ad512d6e66807",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1635,6 +1695,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_b1cb9f20608db0d01be8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9808231?from=edn_maintab_index",
+      "title": "AI 大爆發 今年外銷估逾9,000億美元 台灣拚躋身第五大出口國 | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "全球AI大爆發，帶動台灣出口跟著爆發性成長。財政部預估今年出口有望衝破9,000億美元大關，以此推估，台灣在全球的出口排名將更上一層樓，從去年全球排名第12大出口國大躍進，將力拚成為全球第五大出口國。",
+      "publishedAt": "2026-10-11T22:44:36.345Z",
+      "discoveredAt": "2026-10-11T22:44:36.345Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_adea62e1ac191a18e7b5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1676,96 +1766,6 @@
       "description": "美國中西部多州政學僑界領袖超過500人出席雙十國慶酒會，駐芝加哥辦事處長類延峰指出，台灣生產全球9成以上先進晶片及AI伺...",
       "publishedAt": "2026-10-11T01:12:29.094Z",
       "discoveredAt": "2026-10-11T01:12:29.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a8de2417a44b9f6404ff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9807072?from=edn_newest_index",
-      "title": "AI 信用疑慮擊倒博通、甲骨文 為何 NVIDIA 股價還屹立不搖？ 2026-10-11 02:02",
-      "description": "",
-      "publishedAt": "2026-10-10T19:04:23.824Z",
-      "discoveredAt": "2026-10-10T19:04:23.824Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_96983c092d1e276f0e57",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9806101?from=edn_newest_index",
-      "title": "蔣萬安拋松機遷移 醫憂東部和離島醫療 石崇良：凸顯需更廣泛討論 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "北市選戰白熱化，台北市長蔣萬安拋出松山機場遷移建AI園區，遭醫界發聲恐衝擊東部醫療，影響醫師支援及患者就醫。衛福部長石崇良說，醫界憂心往返偏鄉在人力往來、交通問題等，都凸顯遷移議題需要更廣泛、詳細規畫討論，醫療後送絕對是需要被納進討論。",
-      "publishedAt": "2026-10-10T14:47:41.196Z",
-      "discoveredAt": "2026-10-10T14:47:41.196Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7e5260045e36ff6f406a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9806595?from=edn_newest_index",
-      "title": "賴總統國慶演說 推AI紅利共享經濟成果、強化國防守和平 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "總統賴清德今天發表國慶演說表示，台灣今年經濟成長率有望突破11%，世界競爭力躍升全球第4，規劃明年普發每人新台幣1萬元A...",
-      "publishedAt": "2026-10-10T08:44:14.938Z",
-      "discoveredAt": "2026-10-10T08:44:14.938Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T01:12:38.020Z",
+  "updatedAt": "2026-10-11T07:15:06.376Z",
   "candidates": [
+    {
+      "id": "cand_b922e1ba5b7cea39976a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124512/9807393?from=edn_maintab_index",
+      "title": "整理包／台積電供應鏈全解析！護國神山法說會將至...先進製程 CoWoS、CoPoS 十大產業鏈、受惠台廠一次看 | 整理包 | 專題 | 經濟日報",
+      "description": "台積電（2330）先進製程與AI需求持續擴張，供應鏈商機從2奈米、A16一路延伸至CoWoS、SoIC、CoPoS與海外建廠。台積電並將於10月15日召開第3季法說會，市場關注AI需求、先進製程與封裝產能，以及後續資本支出展望...",
+      "publishedAt": "2026-10-11T07:14:56.804Z",
+      "discoveredAt": "2026-10-11T07:14:56.804Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2630fb1cd3bb4699dce0",
       "sourceLastModified": null,
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -845,36 +875,6 @@
       "description": "台積電（2330）即將於 15 日舉行法說，全球高度關注。外資預期市場將聚焦六大議題：整體半導體周期展望、未來三至四年資本支出策略、產業競合關係變化、下半年與 2027 年毛利率、營收成長預期、AI 需求前景等。",
       "publishedAt": "2026-10-04T07:27:29.137Z",
       "discoveredAt": "2026-10-04T07:27:29.137Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a998670d475165c7d3c0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9793355?from=edn_newest_index",
-      "title": "川普成立「超級智慧小組」！陣容曝光 120天內交風險報告 | 國際焦點 | 國際 | 經濟日報",
-      "description": "華爾街日報3日報導，美國總統川普政府已成立「超級智慧小組」，將由國家情報總監克雷頓擔任主席，預計在120天內完成報告，評估人工智慧來的風險與契機，以及聯邦政府應扮演的角色。",
-      "publishedAt": "2026-10-04T01:46:55.287Z",
-      "discoveredAt": "2026-10-04T01:46:55.287Z",
       "topics": [
         "Taiwan business",
         "investment",

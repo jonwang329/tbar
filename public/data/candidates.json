@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T22:27:19.664Z",
+  "updatedAt": "2026-10-11T01:12:38.020Z",
   "candidates": [
+    {
+      "id": "cand_2630fb1cd3bb4699dce0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9806890",
+      "title": "AI 加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）和公司債市場急遽降溫，警訊處處可見。",
+      "publishedAt": "2026-10-11T01:12:29.094Z",
+      "discoveredAt": "2026-10-11T01:12:29.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_bbeef40a99e4b8c500c8",
       "sourceLastModified": null,
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -618,7 +648,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1515,7 +1545,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1602,6 +1632,36 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_56ce6dc8211236447916",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9807164?from=edn_newest_index",
+      "title": "美國7州台灣之友齊聚芝加哥 歡度雙十國慶 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "美國中西部多州政學僑界領袖超過500人出席雙十國慶酒會，駐芝加哥辦事處長類延峰指出，台灣生產全球9成以上先進晶片及AI伺...",
+      "publishedAt": "2026-10-11T01:12:29.094Z",
+      "discoveredAt": "2026-10-11T01:12:29.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1722,63 +1782,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4216f45d18d0c91d3e0e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122979/9744171?from=edn_VIP_index_side",
-      "title": "40年設計資料庫餵給AI！Swatch把品牌歷史變成客製化生意",
-      "description": "",
-      "publishedAt": "2026-10-09T18:59:20.418Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aa4884492a19a377606c",
-      "sourceLastModified": "2026-10-10T21:52:01.528Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "title": "https://openai.com/index/asana-browser-agent",
-      "description": "",
-      "publishedAt": "2026-10-09T17:54:20.342Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

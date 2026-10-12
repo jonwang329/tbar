@@ -1,7 +1,64 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T08:21:07.935Z",
+  "updatedAt": "2026-10-12T18:05:07.749Z",
   "candidates": [
+    {
+      "id": "cand_131cac413602c90c1cb7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9810032?from=edn_maintab_index",
+      "title": "AI 算力中心找上台塑要電！台電曾文生：台電也要產業化跟上科技速度 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "半導體及 AI 資料中心電力需求大，市場盛傳台積電（2330）計畫自建電廠或包電廠，AI 資料中心更找上台塑集團，希望直接進駐廠區，台電董事長曾文生表示，國營的台電也要高度產業化，配合科技業運作加快決策速度，盼建立溝通平台與業界探討多元商業合作方式。",
+      "publishedAt": "2026-10-12T18:04:57.529Z",
+      "discoveredAt": "2026-10-12T18:04:57.529Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_44b61a95eb8344e19efe",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "description": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:25 GMT",
+      "discoveredAt": "2026-10-12T18:04:57.529Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_906d6ed3bdf6b1fdcfd0",
       "sourceLastModified": null,
@@ -894,6 +951,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_5749e3fbbecc74abb2a5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9810404?from=edn_newest_index",
+      "title": "台達電9月營收月增1.3% 衝刺 AI 占比 2026-10-13 01:57",
+      "description": "",
+      "publishedAt": "2026-10-12T18:04:57.529Z",
+      "discoveredAt": "2026-10-12T18:04:57.529Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_f878f6612c991d76fa41",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1674,17 +1761,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_22bbce1ad512d6e66807",
+      "id": "cand_af8e10aa89328eee4eda",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9806947?from=edn_maintab_index",
-      "title": "美明年 AI 支出將達 GDP 的5% SemiAnalysis 預測 金額逼近2兆美元 獨立研究機構SemiAnalysis創辦人帕特爾（Dylan Patel）說，明年全美的AI資本支出將逼近2兆美元，相當於美國國內生產毛額（GDP）的5%-6%。 帕特爾接受Big Technol...",
-      "description": "",
-      "publishedAt": "2026-10-10T19:04:23.824Z",
-      "discoveredAt": "2026-10-10T19:04:23.824Z",
+      "url": "https://money.udn.com/money/story/123398/9810433?from=edn_maintab_index",
+      "title": "微軟推新一代 AI 晶片 Maia 300 部分採台積電2奈米製程 | 美股動態 | 國際 | 經濟日報",
+      "description": "微軟今天宣布推出新一代自研人工智慧（AI）晶片，且計劃明年部署數量可能超過100萬顆，以支援內部的AI服務。其中負責關鍵...",
+      "publishedAt": "2026-10-12T18:04:57.529Z",
+      "discoveredAt": "2026-10-12T18:04:57.529Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1695,93 +1782,12 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_12a2bdf57c57ce74722d",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "description": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "publishedAt": "Thu, 08 Oct 2026 21:06:35 GMT",
-      "discoveredAt": "2026-10-09T00:19:39.879Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fd4a9ed4f4ee0755fbfd",
-      "sourceLastModified": "2026-10-08T19:00:45.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "title": "Introducing the Anthropic Cyber Mission",
-      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "publishedAt": "2026-10-08T09:04:16.632Z",
-      "discoveredAt": "2026-10-08T20:06:50.960Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9ce1419807ac87a8ea26",
-      "sourceLastModified": "2026-10-06T18:36:51.562Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "title": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "description": "",
-      "publishedAt": "2026-10-06T18:36:51.562Z",
-      "discoveredAt": "2026-10-06T19:06:37.950Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T22:44:48.695Z",
+  "updatedAt": "2026-10-12T01:49:20.080Z",
   "candidates": [
     {
       "id": "cand_906d6ed3bdf6b1fdcfd0",
@@ -894,17 +894,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_4e72b3ad9bbb392c6400",
+      "id": "cand_57351462071ec031bb3f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9808264?from=edn_maintab_index",
-      "title": "AI 太熱 封測業迎最強漲價潮 日月光、京元電等大進補 | 產業熱點 | 產業 | 經濟日報",
-      "description": "半導體封測業迎來「史上最強漲價潮」。業界傳出，由於AI晶片測試時間持續拉長，加上雲端大咖紛紛推出自研晶片，近期封測市場產能嚴重供不應求，業者「隨時都在漲價」，漲幅上看一至三成，小客戶急件價格甚至翻倍漲，日月光投控、京元電、力成、欣銓等大進補。",
-      "publishedAt": "2026-10-11T22:44:36.345Z",
-      "discoveredAt": "2026-10-11T22:44:36.345Z",
+      "url": "https://money.udn.com/money/story/5599/9808676?from=edn_newest_index",
+      "title": "川普政府鬆綁AI安全測試限制 允開發商提前與英分享模型 2026-10-12 09:45",
+      "description": "",
+      "publishedAt": "2026-10-12T01:49:11.738Z",
+      "discoveredAt": "2026-10-12T01:49:11.738Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -924,6 +924,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_4ec356cb0ef0b8416a31",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9808660?from=edn_newest_index",
+      "title": "AI熱潮旺到飯店、精品業 晶華今年營收獲利可望雙創新高 2026-10-12 09:37",
+      "description": "",
+      "publishedAt": "2026-10-12T01:49:11.738Z",
+      "discoveredAt": "2026-10-12T01:49:11.738Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4e72b3ad9bbb392c6400",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9808264?from=edn_maintab_index",
+      "title": "AI 太熱 封測業迎最強漲價潮 日月光、京元電等大進補 半導體封測業迎來「史上最強漲價潮」。業界傳出，由於AI晶片測試時間持續拉長，加上雲端大咖紛紛推出自研晶片，近期封測市場產能嚴重供不應求，業者「隨時都在漲價」，漲幅上看一至三成，小客戶急件價格甚至翻倍...",
+      "description": "半導體封測業迎來「史上最強漲價潮」。業界傳出，由於AI晶片測試時間持續拉長，加上雲端大咖紛紛推出自研晶片，近期封測市場產能嚴重供不應求，業者「隨時都在漲價」，漲幅上看一至三成，小客戶急件價格甚至翻倍漲，日月光投控、京元電、力成、欣銓等大進補。",
+      "publishedAt": "2026-10-11T22:44:36.345Z",
+      "discoveredAt": "2026-10-11T22:44:36.345Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_ad4f74a6da27a10fb4c9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -931,7 +991,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9808267?from=edn_maintab_index",
-      "title": "台股遇亂流拚先蹲後跳 法人押寶台積法說買盤有望進場 挑戰5萬關 | 市場焦點 | 證券 | 經濟日報",
+      "title": "台股遇亂流拚先蹲後跳 法人押寶台積法說買盤有望進場 挑戰5萬關 台股國慶連假休市期間，國際情勢與AI指標廠都傳出負面消息，包括中東緊張情勢升溫、OpenAI年化營收低於預期等，導致美國科技股與費半指數走跌，市場預期大盤今（12）日恐面臨補跌壓力，可能回測49K。...",
       "description": "台股國慶連假休市期間，國際情勢與AI指標廠都傳出負面消息，包括中東緊張情勢升溫、OpenAI年化營收低於預期等，導致美國科技股與費半指數走跌，市場預期大盤今（12）日恐面臨補跌壓力，可能回測49K。",
       "publishedAt": "2026-10-11T22:44:36.345Z",
       "discoveredAt": "2026-10-11T22:44:36.345Z",
@@ -945,7 +1005,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1706,66 +1766,6 @@
       "description": "全球AI大爆發，帶動台灣出口跟著爆發性成長。財政部預估今年出口有望衝破9,000億美元大關，以此推估，台灣在全球的出口排名將更上一層樓，從去年全球排名第12大出口國大躍進，將力拚成為全球第五大出口國。",
       "publishedAt": "2026-10-11T22:44:36.345Z",
       "discoveredAt": "2026-10-11T22:44:36.345Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_adea62e1ac191a18e7b5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9808272?from=edn_newest_index",
-      "title": "科技論壇後天登場 玉山金科技長張智星：AI 助金融業強化韌性 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "AI技術快速演進，金融業正邁向智慧協作與流程重塑新階段。玉山金控科技長張智星表示，玉山發展AI的核心，不在取代人力，而在協助專業同仁更聚焦高價值判斷，並將長期累積的金融專業轉化為可持續擴展的企業能力。",
-      "publishedAt": "2026-10-11T18:57:02.922Z",
-      "discoveredAt": "2026-10-11T18:57:02.922Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_56ce6dc8211236447916",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9807164?from=edn_newest_index",
-      "title": "美國7州台灣之友齊聚芝加哥 歡度雙十國慶 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "美國中西部多州政學僑界領袖超過500人出席雙十國慶酒會，駐芝加哥辦事處長類延峰指出，台灣生產全球9成以上先進晶片及AI伺...",
-      "publishedAt": "2026-10-11T01:12:29.094Z",
-      "discoveredAt": "2026-10-11T01:12:29.094Z",
       "topics": [
         "Taiwan business",
         "investment",

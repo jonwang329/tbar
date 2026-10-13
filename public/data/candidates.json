@@ -1,7 +1,31 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T20:36:50.441Z",
+  "updatedAt": "2026-10-13T23:52:24.341Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-10-13T23:52:24.341Z",
+      "discoveredAt": "2026-10-13T23:52:24.341Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
     {
       "id": "cand_6b4cb9c752de2b524823",
       "sourceLastModified": null,
@@ -10,7 +34,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9812882?from=edn_maintab_index",
-      "title": "全球晶片股大跳水 湧現賣壓 四個利空害的 | 國際焦點 | 國際 | 經濟日報",
+      "title": "全球晶片股大跳水 湧現賣壓 四個利空害的 2026-10-14 02:57",
       "description": "全球晶片類股13日湧現賣壓，反映四大利空：長鑫存儲宣稱晶片架構大突破，引發記憶體競爭疑慮、博通執行長陳福陽把AI投資氛圍比擬為賭場、輝達和超微公布的新技術仍待訂單與收入、AI舉債成本高令市場更在意投資報酬。",
       "publishedAt": "2026-10-13T20:36:41.162Z",
       "discoveredAt": "2026-10-13T20:36:41.162Z",
@@ -24,7 +48,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -870,90 +894,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-10-06T23:01:44.654Z",
-      "discoveredAt": "2026-10-06T23:01:44.654Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_96571d57ae003b9d7ebc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9799164?from=edn_maintab_index",
-      "title": "超微喊加碼台灣 CEO 蘇姿丰閃電來台 唱旺 AI 需求 超微執行長蘇姿丰昨（6）日表示，超微5月宣布在台投資百億美元（近新台幣3,200億元）的供應鏈計畫符合進度，考量AI市場需求比預期更好，將進一步調高投資金額，未來也會持續擴大投資台灣供應鏈。 蘇姿...",
-      "description": "超微執行長蘇姿丰昨（6）日表示，超微5月宣布在台投資百億美元（近新台幣3,200億元）的供應鏈計畫符合進度，考量AI市場需求比預期更好，將進一步調高投資金額，未來也會持續擴大投資台灣供應鏈。",
-      "publishedAt": "2026-10-06T23:01:31.026Z",
-      "discoveredAt": "2026-10-06T23:01:31.026Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_02e3874c3bbe7d3c0111",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9799141?from=edn_maintab_index",
-      "title": "超微掃貨記憶體 CEO蘇姿丰示警供應吃緊 台鏈進補 超微執行長蘇姿丰昨（6）日宣布加碼投資台灣之餘，也示警記憶體目前供應量仍相當吃緊，正與供應商及客戶共同規劃，確保AI伺服器、CPU平台及PC所需的記憶體數量。業界預期，超微將啟動新一波記憶體掃貨行動...",
-      "description": "超微執行長蘇姿丰昨（6）日宣布加碼投資台灣之餘，也示警記憶體目前供應量仍相當吃緊，正與供應商及客戶共同規劃，確保AI伺服器、CPU平台及PC所需的記憶體數量。業界預期，超微將啟動新一波記憶體掃貨行動，台灣合作夥伴力成、群聯將大咬商機。",
-      "publishedAt": "2026-10-06T23:01:31.026Z",
-      "discoveredAt": "2026-10-06T23:01:31.026Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_d0752957eaa780b3c6c7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1764,17 +1704,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1a2774fc174e47a49c54",
+      "id": "cand_ddf0a093e3f930e02ea7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9799170?from=edn_maintab_index",
-      "title": "輝達市值 月底叩關6兆美元 股價創新高 向上動能強 輝達（NVIDIA）股價5日創歷史新高，因人工智慧（AI）伺服器合作夥伴鴻海（2317）公布單月營收首度突破兆元，顯示輝達後市上漲動能依然充沛。現在選擇權市場押注，輝達市值可望在本月底前突破6兆美元...",
-      "description": "輝達（NVIDIA）股價5日創歷史新高，因人工智慧（AI）伺服器合作夥伴鴻海公布單月營收首度突破兆元，顯示輝達後市上漲動能依然充沛。現在選擇權市場押注，輝達市值可望在本月底前突破6兆美元大關。",
-      "publishedAt": "2026-10-06T23:01:31.026Z",
-      "discoveredAt": "2026-10-06T23:01:31.026Z",
+      "url": "https://money.udn.com/money/story/5612/9812920?from=edn_maintab_index",
+      "title": "微軟推新 AI 晶片 將降低對輝達、超微的依賴 台積助攻 2026-10-14 03:21",
+      "description": "微軟宣布，推出最新自研AI晶片「Maia 300」，計劃明年部署可能超過100萬顆，以降低對輝達、超微等晶片供應商的依賴。",
+      "publishedAt": "2026-10-13T20:36:41.162Z",
+      "discoveredAt": "2026-10-13T20:36:41.162Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1788,9 +1728,66 @@
       "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_262fb6f4773f5311733b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9812931?from=edn_maintab_index",
+      "title": "IMF 估台 GDP 增10.7% 冠全球 提醒 AI 熱潮、中東衝突讓世界經濟 K 型發展 2026-10-14 03:09",
+      "description": "國際貨幣基金（IMF）13日發布最新版「世界經濟展望」（WEO），在多數國家今年經濟成長率預料大致將持平之際，台灣表現一枝獨秀，獲大幅上修一倍多至10.7%，不管是上修幅度、還是成長速度，都傲視全球主要經濟體，明年成長率預估也依然稱冠東亞經濟體。",
+      "publishedAt": "2026-10-13T20:36:41.162Z",
+      "discoveredAt": "2026-10-13T20:36:41.162Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_764ab0bd21935bc86345",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+      "description": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
+      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "discoveredAt": "2026-10-12T18:04:57.529Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T18:05:07.749Z",
+  "updatedAt": "2026-10-13T00:34:46.414Z",
   "candidates": [
+    {
+      "id": "cand_6edeedddf9532fd6db0a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9810465?from=edn_maintab_index",
+      "title": "IMF：AI 像「緩步推進的海嘯」對就業、教育、稅收等產生深遠影響 國際貨幣基金（IMF）總裁喬治艾娃表示，人工智慧（AI）基礎設施的大規模投資，使全球經濟成長率維持在約3%；不過，AI猶如一場「緩步推進的海嘯」，預期財富分配將從勞動轉向資本，將對就業、經濟成長、教...",
+      "description": "",
+      "publishedAt": "2026-10-13T00:34:35.025Z",
+      "discoveredAt": "2026-10-13T00:34:35.025Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_131cac413602c90c1cb7",
       "sourceLastModified": null,
@@ -51,7 +81,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -891,17 +921,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d1f34a155ba5295ad294",
+      "id": "cand_bd4e7076e9f5870e7fe8",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9796881?from=edn_maintab_index",
-      "title": "美股收盤／AI 獲利成長期待加油價下跌 輝達、台積電ADR、那斯達克同創新高 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市周一收高，AI獲利成長的期待加上油價下跌，抵銷全球公債殖利率上升的壓力。輝達（NVIDIA）和那斯達克綜合指數雙雙創下收盤新高，標普500指數也逼近歷史紀錄。投資人期待接下來企業財報來檢驗獲利能否繼續支撐行情。",
-      "publishedAt": "2026-10-06T00:21:45.533Z",
-      "discoveredAt": "2026-10-06T00:21:45.533Z",
+      "url": "https://money.udn.com/money/story/123398/9810714?from=edn_maintab_index",
+      "title": "輝達、AMD 在 OCP 釋 AI 開源規格！股價為何連4跌？拆解背後2大隱憂 | 美股動態 | 國際 | 經濟日報",
+      "description": "開放運算計畫全球峰會（OCP Global Summit 2026）12日在加州聖荷西登場，聚焦討論AI工廠高功率供電、光通訊、液冷與散熱整合、開放網路與量子資安等議題，致力於分享開源設計與規格，為建構AI生態系相關產品的企業制定業界通用標準。然而，市場反應冷淡，費城半導體指數周一（12日）收跌2.7%。",
+      "publishedAt": "2026-10-13T00:34:35.025Z",
+      "discoveredAt": "2026-10-13T00:34:35.025Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -916,22 +946,22 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_2337d97f15f17cbd6009",
+      "id": "cand_b6beddf5c7b05c53a1d2",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9796230?from=edn_maintab_index",
-      "title": "輝達加入開源模型戰場 轉投資新創將發布首款模型 | 產業熱點 | 產業 | 經濟日報",
-      "description": "美國CSP業者一直以來大多專注於閉源模型的開發與競爭，而開源模型則以中國大陸市場為主，然而這個格局或許即將被打破。外媒指出，輝達（NVIDIA）重金押注8億美元的AI新創公司Reflection 即將發布首款開放模型，預計發布初期能力仍將落後於美國最頂尖的前沿模型，但有望與中國大陸領先的開放權重模型直接競爭。",
-      "publishedAt": "2026-10-05T18:39:43.651Z",
-      "discoveredAt": "2026-10-05T18:39:43.651Z",
+      "url": "https://money.udn.com/money/story/5607/9810448?from=edn_maintab_index",
+      "title": "AI 產業需求強勁 上市櫃營收創三高 Q4 獲利繼續衝 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI產業需求強勁，上市櫃公司締造亮麗三高佳績，9月營收一舉衝上6.59兆元，刷新史上單月新高，且連兩個月超過6兆元大關；第3季營收18.4兆元，創歷史單季新高；前九月營收總額達48.5兆元，年成長率37.6%，同樣創歷年同期新高。法人預期10月、第4季營收將維持成長態勢，且第4季獲利成長幅度將超過營收。",
+      "publishedAt": "2026-10-13T00:34:35.025Z",
+      "discoveredAt": "2026-10-13T00:34:35.025Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -946,7 +976,97 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_723828b811d1c81bd4cb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9810451?from=edn_maintab_index",
+      "title": "輝達聯手思科光通訊大進擊 華星光、眾達等台鏈歡呼 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達光通訊大進擊，攜手網通設備巨頭思科（Cisco）推出最新可插拔光模組產品，是全球首發USFP（Ultra Small Form Factor Pluggable）每通道400G光通模組，並將投入開源計畫，意謂有望獲各大雲端業者採用，引爆新一波光通訊模組商機，華星光、眾達-KY等光通訊族群有望奪輝達AI生態系大單。",
+      "publishedAt": "2026-10-13T00:34:35.025Z",
+      "discoveredAt": "2026-10-13T00:34:35.025Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ed2869aa522bdb0f9ba5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9810462?from=edn_maintab_index",
+      "title": "英特爾 CEO 陳立武：算力短缺到2029年 AI 產業至少需要15萬名工程師 英特爾執行長陳立武12日指出，AI基礎設施至關重要，未來幾年運算資源可能持續供不應求，短缺情況甚至可能延續至2029年。這波供需失衡主要來自AI模型需求呈指數級成長，以及將AI模型導入不同產業所涉及...",
+      "description": "",
+      "publishedAt": "2026-10-13T00:34:35.025Z",
+      "discoveredAt": "2026-10-13T00:34:35.025Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e2214fb511a9d7aa0b39",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9810368?from=edn_maintab_index",
+      "title": "台塑四寶前三季賺1,847億 南亞 EPS 10.07元 反映 AI 熱潮正面效應 台塑四寶昨（12）日公布第3季獲利暨9月營收，單季稅後純益合計762.79億元，年增逾4.8倍，季增18.7%；前三季稅後純益1,847.27億元，遠優於去年同期虧損83.22億元。 台塑四寶上季...",
+      "description": "",
+      "publishedAt": "2026-10-13T00:34:35.025Z",
+      "discoveredAt": "2026-10-13T00:34:35.025Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1667,126 +1787,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e0714cc340453ba4a081",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9797998?from=edn_newest_index",
-      "title": "訪台拜會台積電等夥伴追產能 蘇姿丰：未來幾年AI需求強勁 2026-10-06 14:35",
-      "description": "",
-      "publishedAt": "2026-10-06T06:37:49.919Z",
-      "discoveredAt": "2026-10-06T06:37:49.919Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2df34c255d785a122a8e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9796590?from=edn_maintab_index",
-      "title": "台灣首家！鴻海9月營收上兆元 AI 與 iPhone 雙主軸熱轉 Q4將續強 | 產業熱點 | 產業 | 經濟日報",
-      "description": "鴻海昨（5）日公布9月合併營收首度衝上兆元大關、達1.15兆元，創單月歷史新高，月增25.7%，年增38.42%，是台灣上市櫃公司第一家單月營收突破1兆元的企業。",
-      "publishedAt": "2026-10-06T00:21:45.533Z",
-      "discoveredAt": "2026-10-06T00:21:45.533Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c39f099e0e2dd804c319",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9796593?from=edn_maintab_index",
-      "title": "信驊營收好威 連11月締新猷 遠端伺服器控制晶片需求強勁帶旺後市 | 產業熱點 | 產業 | 經濟日報",
-      "description": "股王信驊昨（5）日公布9月合併營收16.36億元，連續11個月創單月歷史新高，推升第3季業績改寫單季新猷並優於預期。法人指出，AI市況持續火熱，推升BMC（遠端伺服器控制晶片）需求強勁，信驊為BMC龍頭，將持續大咬AI商機，帶旺營運。",
-      "publishedAt": "2026-10-06T00:21:45.533Z",
-      "discoveredAt": "2026-10-06T00:21:45.533Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_af8e10aa89328eee4eda",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9810433?from=edn_maintab_index",
-      "title": "微軟推新一代 AI 晶片 Maia 300 部分採台積電2奈米製程 | 美股動態 | 國際 | 經濟日報",
-      "description": "微軟今天宣布推出新一代自研人工智慧（AI）晶片，且計劃明年部署數量可能超過100萬顆，以支援內部的AI服務。其中負責關鍵...",
-      "publishedAt": "2026-10-12T18:04:57.529Z",
-      "discoveredAt": "2026-10-12T18:04:57.529Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

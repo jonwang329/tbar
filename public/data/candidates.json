@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T00:34:46.414Z",
+  "updatedAt": "2026-10-13T07:04:22.798Z",
   "candidates": [
+    {
+      "id": "cand_321acdbc00fea5940c54",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9811764",
+      "title": "上市櫃公司9月營收續締新猷 法人建議優先關注這幾檔 | 市場焦點 | 證券 | 經濟日報",
+      "description": "受惠大型雲端服務供應商（CSP）資本支出維持高檔，及輝達（NVIDIA）新一代AI平台陸續進入量產帶動，上市櫃公司9月營收再度改寫歷史新高紀錄，法人維持對台股中長期展望正面看法，建議拉回擇優布局。",
+      "publishedAt": "2026-10-13T07:04:13.647Z",
+      "discoveredAt": "2026-10-13T07:04:13.647Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6edeedddf9532fd6db0a",
       "sourceLastModified": null,
@@ -81,7 +111,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -921,6 +951,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_d0752957eaa780b3c6c7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124512/9803021?from=edn_maintab_index",
+      "title": "整理包／普發1萬元現金來了！一次看懂誰能領、怎麼領、何時領 行政院會8日拍板「AI紅利全民共享普發現金1萬元規劃」。財政部報告指出，若2027年度中央政府總預算案於2027年1月5日前完成三讀，並於1月20日前經總統公布，最快1月20日啟動預登記，1月26日...",
+      "description": "",
+      "publishedAt": "2026-10-13T07:04:13.647Z",
+      "discoveredAt": "2026-10-13T07:04:13.647Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_bd4e7076e9f5870e7fe8",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1723,66 +1783,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8ff7bb6458fa888211cd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9799065?from=edn_maintab_index",
-      "title": "聯電報喜 9月營收創新高 連七月繳出成長佳績 晶圓代工大廠聯電（2303）昨（6）日公告9月合併營收253.5億元，創單月歷史新高紀錄，反映整體成熟製程市況火熱。 業界看好，隨著AI驅動電源管理IC、感測器及微控制器需求走強，成熟製程持續搶手...",
-      "description": "",
-      "publishedAt": "2026-10-06T23:01:31.026Z",
-      "discoveredAt": "2026-10-06T23:01:31.026Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_089cda221f34dfe80c42",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9798944",
-      "title": "AI 決定誰錄取、誰被裁？職場指引10月擬公布 施宣輝：光靠自律恐不足 | 產業熱點 | 產業 | 經濟日報",
-      "description": "企業營運跟工作流程大量導入AI，帶來全新挑戰，台灣玉山科技協會理事長施宣輝指出，企業對資安的危機意識偏低，隨AI助力駭客攻擊擴大，未來應比照金融業規範，呼籲政府應透過法令或財務罰則，促使企業更重視資安課題。",
-      "publishedAt": "2026-10-06T13:39:03.257Z",
-      "discoveredAt": "2026-10-06T13:39:03.257Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

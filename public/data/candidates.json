@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T23:52:24.341Z",
+  "updatedAt": "2026-10-14T02:55:33.204Z",
   "candidates": [
+    {
+      "id": "cand_8614fd7e6fd03261772a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9813138?from=edn_maintab_index",
+      "title": "黃仁勳宣布輝達追加投資歐洲20億美元！催歐洲加入 AI 競賽 2026-10-14 07:59",
+      "description": "",
+      "publishedAt": "2026-10-14T02:55:23.384Z",
+      "discoveredAt": "2026-10-14T02:55:23.384Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceId": "wechat-curated",
@@ -18,7 +48,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -864,36 +894,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_35dc7a78b0f10a44850e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9799550",
-      "title": "台星科法說報喜、開盤一字漲停 AI ASIC 需求強、買盤大力按讚 | 櫃買動態 | 證券 | 經濟日報",
-      "description": "IC封測廠台星科（3265）6日法說釋出明年AI客製化晶片（ASIC）需求強勁、擴產持續推進的展望，買盤7日大力按讚，開盤直接跳上217元漲停，上漲19.5元。公司今年核定資本支出提高至134.27億元，積極擴充先進封裝與測試產能。",
-      "publishedAt": "2026-10-07T02:16:52.558Z",
-      "discoveredAt": "2026-10-07T02:16:52.558Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_d0752957eaa780b3c6c7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1674,36 +1674,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_a844cb6ccf8e9fa14533",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9799408?from=edn_maintab_index",
-      "title": "輝達又要接大單！SpaceX 傳擬籌資400億美元買 NVIDIA 晶片 | 國際焦點 | 國際 | 經濟日報",
-      "description": "馬斯克旗下SpaceX正尋求籌資400億美元，用於購買輝達（NVIDIA）晶片，凸顯這家AI與火箭公司正進一步押注這家晶片大廠的先進技術。",
-      "publishedAt": "2026-10-07T02:16:52.558Z",
-      "discoveredAt": "2026-10-07T02:16:52.558Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_ddf0a093e3f930e02ea7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1725,7 +1695,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1783,6 +1753,33 @@
       ],
       "countries": [],
       "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_12a2bdf57c57ce74722d",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "description": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "publishedAt": "Thu, 08 Oct 2026 21:06:35 GMT",
+      "discoveredAt": "2026-10-09T00:19:39.879Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

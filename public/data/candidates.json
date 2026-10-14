@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T08:27:32.274Z",
+  "updatedAt": "2026-10-14T13:59:27.724Z",
   "candidates": [
     {
       "id": "cand_c04fc25acb36d430068d",
@@ -21,7 +21,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -75,7 +75,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -921,6 +921,63 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_f0090957004e9b76fe79",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9814414?from=edn_newest_index",
+      "title": "謝金河：台股逼近5萬點 AI讓台灣產業全面重估 台塑、廠務股都翻身",
+      "description": "",
+      "publishedAt": "2026-10-14T13:59:15.519Z",
+      "discoveredAt": "2026-10-14T13:59:15.519Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2aed05f0e6156f38aecc",
+      "sourceLastModified": "2026-10-14T08:31:43.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "title": "Singapore office and government MOU | Anthropic",
+      "description": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+      "publishedAt": "2026-10-14T08:30:00.000Z",
+      "discoveredAt": "2026-10-14T13:59:15.519Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_1325486de33caccb3796",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -939,7 +996,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1698,36 +1755,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_9a96bddc31965724b797",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11074/9800825?from=edn_newest_index",
-      "title": "雷笛克營收／9月、第3季雙創新高 車用光學、AI Server 雙引擎發力 2026-10-07 16:50",
-      "description": "",
-      "publishedAt": "2026-10-07T08:51:19.086Z",
-      "discoveredAt": "2026-10-07T08:51:19.086Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9ac38b39083ac7f41efd",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1746,42 +1773,12 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ddf0a093e3f930e02ea7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9812920?from=edn_maintab_index",
-      "title": "微軟推新 AI 晶片 將降低對輝達、超微的依賴 台積助攻 2026-10-14 03:21",
-      "description": "微軟宣布，推出最新自研AI晶片「Maia 300」，計劃明年部署可能超過100萬顆，以降低對輝達、超微等晶片供應商的依賴。",
-      "publishedAt": "2026-10-13T20:36:41.162Z",
-      "discoveredAt": "2026-10-13T20:36:41.162Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

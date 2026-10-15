@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T21:54:44.769Z",
+  "updatedAt": "2026-10-15T00:17:30.744Z",
   "candidates": [
     {
       "id": "cand_79c2bdfe6101231a38ae",
@@ -51,7 +51,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -132,7 +132,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -824,6 +824,36 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f755dcc79ddb8b4e7d2d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9815582?from=edn_maintab_index",
+      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國通膨高於預期，推升聯準會（Fed）本月會再升息的押注，美股周三應聲下挫，AI和晶片股跌勢尤其慘重。費城半導體指數重挫4.3%，連跌六日，標普500和那斯達克均創7月以來最大單日跌幅，小型股也跌入修正區間。",
+      "publishedAt": "2026-10-15T00:17:19.599Z",
+      "discoveredAt": "2026-10-15T00:17:19.599Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1602,6 +1632,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_408ad7d94f8dd57b445a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9815624?from=edn_newest_index",
+      "title": "奇景宣布超低功耗AI處理器HX6538已導入阿里巴巴旗下千問AI眼鏡N1系列",
+      "description": "",
+      "publishedAt": "2026-10-15T00:17:19.599Z",
+      "discoveredAt": "2026-10-15T00:17:19.599Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_9ac38b39083ac7f41efd",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1707,66 +1767,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_480239af560aebe4f7f2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9815355?from=edn_maintab_index",
-      "title": "Google 推新模型 強化「關鍵經濟領域」設計 台鏈嗨 | 產業熱點 | 產業 | 經濟日報",
-      "description": "Google旗下AI最強模型Gemini 4 Argon正式推出，大幅強化金融、法律、資安與科學等高風險、低容錯率的「關鍵經濟領域」設計，同時增強AI代理（Agent）功能，目前僅開放付費會員使用。",
-      "publishedAt": "2026-10-14T21:54:31.696Z",
-      "discoveredAt": "2026-10-14T21:54:31.696Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1ea660e02a44de21aecf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9815280?from=edn_course_index",
-      "title": "盧希鵬 / 台灣科技大學資訊管理系特聘教授 企業 AI 轉型的四個底層邏輯",
-      "description": "",
-      "publishedAt": "2026-10-14T21:54:31.696Z",
-      "discoveredAt": "2026-10-14T21:54:31.696Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

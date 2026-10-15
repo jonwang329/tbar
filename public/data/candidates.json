@@ -1,19 +1,19 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T21:42:58.374Z",
+  "updatedAt": "2026-10-15T23:54:05.905Z",
   "candidates": [
     {
-      "id": "cand_e41d8d0bf22af0530960",
+      "id": "cand_57efcf0ab7f5a9bfb6ca",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9817891?from=edn_maintab_index",
-      "title": "台積：獲利能力沒上限 AI 供需缺口仍大 將全力擴產 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台積電昨（15）日舉行法說會，公布第3季稅後純益7,630.6億元，每股純益29.43元，創歷史新高，前三季大賺近八個股本。董座魏哲家高喊AI需求持續升溫，供需缺口仍大，並預告台積電本季美元營收續戰創新高，全年美元營收年增約44%，較先前一次「略高於40%」的說法給出更明確預估。",
-      "publishedAt": "2026-10-15T21:42:44.668Z",
-      "discoveredAt": "2026-10-15T21:42:44.668Z",
+      "url": "https://money.udn.com/money/story/123398/9818161?from=edn_newest_index",
+      "title": "採台積電製程 挑戰輝達 Bolt Graphics 擬募資1億美元 先攻 AI 以外市場 | 美股動態 | 國際 | 經濟日報",
+      "description": "規劃採用台積電製程的美國晶片設計新創公司Bolt Graphics，正尋求以約7億美元估值募資約1億美元，開發與輝達（NVIDIA）及超微（AMD）競爭的繪圖晶片。路透引述三位知情人士報導，這家矽谷業者將先攻科學運算、專業繪圖等市場，未來再進軍遊戲GPU。",
+      "publishedAt": "2026-10-15T23:53:55.334Z",
+      "discoveredAt": "2026-10-15T23:53:55.334Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -33,6 +33,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e41d8d0bf22af0530960",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9817891?from=edn_maintab_index",
+      "title": "台積：獲利能力沒上限 AI 供需缺口仍大 將全力擴產 2026-10-16 01:53",
+      "description": "台積電昨（15）日舉行法說會，公布第3季稅後純益7,630.6億元，每股純益29.43元，創歷史新高，前三季大賺近八個股本。董座魏哲家高喊AI需求持續升溫，供需缺口仍大，並預告台積電本季美元營收續戰創新高，全年美元營收年增約44%，較先前一次「略高於40%」的說法給出更明確預估。",
+      "publishedAt": "2026-10-15T21:42:44.668Z",
+      "discoveredAt": "2026-10-15T21:42:44.668Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 95,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_b14b9244aa1e79985082",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -40,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9817858?from=edn_maintab_index",
-      "title": "AI 股拋售潮 引發市場避險交易 美債殖利率降 投資機構買進 | 國際焦點 | 國際 | 經濟日報",
+      "title": "AI 股拋售潮 引發市場避險交易 美債殖利率降 投資機構買進 2026-10-16 03:11",
       "description": "人工智慧（AI）概念股拋售潮持續，刺激了市場對避險資產的需求，使美債避險交易捲土重來，也帶動全球債市展開一波反彈。",
       "publishedAt": "2026-10-15T21:42:44.668Z",
       "discoveredAt": "2026-10-15T21:42:44.668Z",
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -114,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -171,7 +201,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -396,7 +426,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1743,33 +1773,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b04a191baf7fb124aae",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "description": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
-      "publishedAt": "Thu, 15 Oct 2026 17:00:23 GMT",
-      "discoveredAt": "2026-10-15T18:30:31.681Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,127 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T18:30:42.085Z",
+  "updatedAt": "2026-10-15T21:42:58.374Z",
   "candidates": [
+    {
+      "id": "cand_e41d8d0bf22af0530960",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9817891?from=edn_maintab_index",
+      "title": "台積：獲利能力沒上限 AI 供需缺口仍大 將全力擴產 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積電昨（15）日舉行法說會，公布第3季稅後純益7,630.6億元，每股純益29.43元，創歷史新高，前三季大賺近八個股本。董座魏哲家高喊AI需求持續升溫，供需缺口仍大，並預告台積電本季美元營收續戰創新高，全年美元營收年增約44%，較先前一次「略高於40%」的說法給出更明確預估。",
+      "publishedAt": "2026-10-15T21:42:44.668Z",
+      "discoveredAt": "2026-10-15T21:42:44.668Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b14b9244aa1e79985082",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9817858?from=edn_maintab_index",
+      "title": "AI 股拋售潮 引發市場避險交易 美債殖利率降 投資機構買進 | 國際焦點 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）概念股拋售潮持續，刺激了市場對避險資產的需求，使美債避險交易捲土重來，也帶動全球債市展開一波反彈。",
+      "publishedAt": "2026-10-15T21:42:44.668Z",
+      "discoveredAt": "2026-10-15T21:42:44.668Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a9ed8d3ac9880827543e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9818064?from=edn_newest_index",
+      "title": "投資人轉向AI以外標的 美股道瓊終場漲逾500點",
+      "description": "",
+      "publishedAt": "2026-10-15T21:42:44.668Z",
+      "discoveredAt": "2026-10-15T21:42:44.668Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d815055a64c50c16d120",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9817782?from=edn_course_index",
+      "title": "陳錦稷 / 中信金融管理學院教授兼金融管理研究所所長 AI 投資潮牽動銀行資產負債管理",
+      "description": "",
+      "publishedAt": "2026-10-15T21:42:44.668Z",
+      "discoveredAt": "2026-10-15T21:42:44.668Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d2f625ac1bf1cfad4ff0",
       "sourceLastModified": null,
@@ -51,7 +171,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -78,7 +198,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -814,36 +934,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_78dd44bbd19e0c4c2aa7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9804107?from=edn_maintab_index",
-      "title": "蔣萬安：遷移松機 打造 AI 聚落 北市規劃周邊300公頃土地納入開發核心 台北市政府昨（8）日上午舉辦「打造AI黃金世紀、全面釋放都市潛力」記者會，台北市長蔣萬安宣布，將規劃遷移松山機場，以松山機場及周邊300公頃土地為核心，打造AI產業聚落。 蔣萬安說，他是第一個現...",
-      "description": "台北市政府昨（8）日上午舉辦「打造AI黃金世紀、全面釋放都市潛力」記者會，台北市長蔣萬安宣布，將規劃遷移松山機場，以松山機場及周邊300公頃土地為核心，打造AI產業聚落。",
-      "publishedAt": "2026-10-08T20:06:50.960Z",
-      "discoveredAt": "2026-10-08T20:06:50.960Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1674,91 +1764,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_751661a9874d1ea6c7c2",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
-      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-      "description": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
-      "publishedAt": "Thu, 15 Oct 2026 10:00:12 GMT",
-      "discoveredAt": "2026-10-15T14:25:49.099Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_408ad7d94f8dd57b445a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9815624?from=edn_newest_index",
-      "title": "奇景宣布超低功耗AI處理器HX6538已導入阿里巴巴旗下千問AI眼鏡N1系列",
-      "description": "",
-      "publishedAt": "2026-10-15T00:17:19.599Z",
-      "discoveredAt": "2026-10-15T00:17:19.599Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9ac38b39083ac7f41efd",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
-      "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
-      "description": "NVIDIA today announced a five-year compute donation valued at $250 million to strengthen the United Kingdom’s agentic safety and security research capability.",
-      "publishedAt": "Wed, 14 Oct 2026 06:01:00 GMT",
-      "discoveredAt": "2026-10-14T08:27:23.272Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

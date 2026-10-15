@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T04:56:29.993Z",
+  "updatedAt": "2026-10-15T09:40:37.269Z",
   "candidates": [
     {
       "id": "cand_22fc7c3eeee1de1f84ff",
@@ -138,7 +138,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -768,96 +768,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b5d79b45488fee637343",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9802936",
-      "title": "重磅！這家 AI 伺服器大廠三點將召開重訊記者會說明重大決議 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI伺服器大廠神達（3706）宣布，將於8日15時，於證交所召開重訊記者會，由黃秀玲財務中心副總經理代子公司說明董事會重大決議；市場猜測，神達重訊應與其近年積極擴張伺服器產能有關。",
-      "publishedAt": "2026-10-08T07:09:33.342Z",
-      "discoveredAt": "2026-10-08T07:09:33.342Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f69c136b2c5e78c7a6f9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9802936?from=edn_maintab_index",
-      "title": "重磅！這家 AI 伺服器大廠三點將召開重訊記者會說明重大決議 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI伺服器大廠神達（3706）宣布，將於8日15時，於證交所召開重訊記者會，由黃秀玲財務中心副總經理代子公司說明董事會重大決議；市場猜測，神達重訊應與其近年積極擴張伺服器產能有關。",
-      "publishedAt": "2026-10-08T07:09:33.342Z",
-      "discoveredAt": "2026-10-08T07:09:33.342Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f1cf2476b0dd7a29a11",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9802260?from=edn_maintab_index",
-      "title": "拋重磅消息！蔣萬安：規劃遷移松山機場、打造台北 AI 園區 台北市政府8日上午舉辦「打造AI黃金世紀、全面釋放都市潛力」記者會，台北市長蔣萬安宣布，規劃將遷移松山機場，未來松機與周邊共300公頃用地將用做AI園區。依產業局推估，相關發展可望創造12兆元產值，...",
-      "description": "",
-      "publishedAt": "2026-10-08T07:09:33.342Z",
-      "discoveredAt": "2026-10-08T07:09:33.342Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_00e02a7092bc53b25026",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -966,7 +876,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -993,7 +903,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1632,66 +1542,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_99f77a8679f9cd6c11a0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9802142?from=edn_maintab_index",
-      "title": "普發1萬元最快明年1月26日入帳 領取資格、方式一次看 行政院會8日將拍板「AI紅利全民共享普發現金1萬元規劃」。財政部報告指出，若2027年度中央政府總預算案於2027年1月5日前完成三讀，並於1月20日前經總統公布，最快1月20日啟動預登記，1月2...",
-      "description": "",
-      "publishedAt": "2026-10-08T07:09:33.342Z",
-      "discoveredAt": "2026-10-08T07:09:33.342Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4cd2a339b0b628ee95ee",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9803058?from=edn_newest_index",
-      "title": "聯強9月營收903億元年增1.58倍 受惠AI建置熱潮 2026-10-08 15:01",
-      "description": "",
-      "publishedAt": "2026-10-08T07:09:33.342Z",
-      "discoveredAt": "2026-10-08T07:09:33.342Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_408ad7d94f8dd57b445a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1740,7 +1590,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1772,6 +1622,147 @@
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_12a2bdf57c57ce74722d",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "description": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "publishedAt": "Thu, 08 Oct 2026 21:06:35 GMT",
+      "discoveredAt": "2026-10-09T00:19:39.879Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9590faca39d3b2b0a514",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9817252?from=edn_newest_index",
+      "title": "毅嘉法說會／光通訊訂單暢旺 明年 AI 占比將「暴力增長」",
+      "description": "",
+      "publishedAt": "2026-10-15T09:40:29.233Z",
+      "discoveredAt": "2026-10-15T09:40:29.233Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ee9b352f8fc9ea2475d8",
+      "sourceLastModified": "2026-10-15T03:10:08.041Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "title": "https://openai.com/index/block-ai-powered-security",
+      "description": "",
+      "publishedAt": "2026-10-14T23:34:29.950Z",
+      "discoveredAt": "2026-10-15T00:17:19.599Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 82,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1ea660e02a44de21aecf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9815280?from=edn_course_index",
+      "title": "盧希鵬 / 台灣科技大學資訊管理系特聘教授 企業 AI 轉型的四個底層邏輯",
+      "description": "",
+      "publishedAt": "2026-10-14T21:54:31.696Z",
+      "discoveredAt": "2026-10-14T21:54:31.696Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 82,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_47bdf014d8ede940227b",
+      "sourceLastModified": "2026-10-14",
+      "sourceId": "deepmind-blog",
+      "sourceName": "Google DeepMind",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "title": "On-Device AI Against Scams: Google DeepMind & MDDI — Google DeepMind",
+      "description": "",
+      "publishedAt": "2026-10-14",
+      "discoveredAt": "2026-10-14T02:55:23.384Z",
+      "topics": [
+        "AI",
+        "research",
+        "models",
+        "science"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     }

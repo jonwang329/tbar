@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T09:40:37.269Z",
+  "updatedAt": "2026-10-15T14:25:59.981Z",
   "candidates": [
     {
       "id": "cand_22fc7c3eeee1de1f84ff",
@@ -1542,6 +1542,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_751661a9874d1ea6c7c2",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "description": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
+      "publishedAt": "Thu, 15 Oct 2026 10:00:12 GMT",
+      "discoveredAt": "2026-10-15T14:25:49.099Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_408ad7d94f8dd57b445a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1653,17 +1680,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_9590faca39d3b2b0a514",
+      "id": "cand_45e44d8c320224a5db18",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9817252?from=edn_newest_index",
-      "title": "毅嘉法說會／光通訊訂單暢旺 明年 AI 占比將「暴力增長」",
-      "description": "",
-      "publishedAt": "2026-10-15T09:40:29.233Z",
-      "discoveredAt": "2026-10-15T09:40:29.233Z",
+      "url": "https://money.udn.com/money/story/123398/9817705",
+      "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4% | 美股動態 | 國際 | 經濟日報",
+      "description": "美股15日早盤，科技股延續前一個交易日跌勢，但部分科技股以外類股上漲，使得四大指數漲跌互見。台積電ADR則是挫低4.21%。科技股二連跌，主要是市場對於科技公司在人工智慧（AI）領域過度支出的疑慮升高，加上最新公布的PPI通膨數據高於預期，又提高了美國聯準會（Fed）升息的可能性。",
+      "publishedAt": "2026-10-15T14:25:49.099Z",
+      "discoveredAt": "2026-10-15T14:25:49.099Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1683,44 +1710,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_ee9b352f8fc9ea2475d8",
-      "sourceLastModified": "2026-10-15T03:10:08.041Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "title": "https://openai.com/index/block-ai-powered-security",
-      "description": "",
-      "publishedAt": "2026-10-14T23:34:29.950Z",
-      "discoveredAt": "2026-10-15T00:17:19.599Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1ea660e02a44de21aecf",
+      "id": "cand_2fec75e886d3c8f73479",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9815280?from=edn_course_index",
-      "title": "盧希鵬 / 台灣科技大學資訊管理系特聘教授 企業 AI 轉型的四個底層邏輯",
-      "description": "",
-      "publishedAt": "2026-10-14T21:54:31.696Z",
-      "discoveredAt": "2026-10-14T21:54:31.696Z",
+      "url": "https://money.udn.com/money/story/123398/9817705?from=edn_maintab_index",
+      "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4% | 美股動態 | 國際 | 經濟日報",
+      "description": "美股15日早盤，科技股延續前一個交易日跌勢，但部分科技股以外類股上漲，使得四大指數漲跌互見。台積電ADR則是挫低4.21%。科技股二連跌，主要是市場對於科技公司在人工智慧（AI）領域過度支出的疑慮升高，加上最新公布的PPI通膨數據高於預期，又提高了美國聯準會（Fed）升息的可能性。",
+      "publishedAt": "2026-10-15T14:25:49.099Z",
+      "discoveredAt": "2026-10-15T14:25:49.099Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1731,7 +1731,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1740,30 +1740,33 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_47bdf014d8ede940227b",
-      "sourceLastModified": "2026-10-14",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
+      "id": "cand_ef5d79308a4ba5abc431",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "title": "On-Device AI Against Scams: Google DeepMind & MDDI — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-10-14",
-      "discoveredAt": "2026-10-14T02:55:23.384Z",
+      "url": "https://money.udn.com/money/story/5613/9817609?from=edn_maintab_index",
+      "title": "數位行員來了！33家金融業導入「代理式 AI」 三大風險曝光 | 金融脈動 | 金融 | 經濟日報",
+      "description": "金管會15日公布2026年金融業AI調查，首度納入「代理式AI」，已有33家業者使用，但面臨技術、資安及法遵三大挑戰；另有逾半的AI使用業者，允許AI自動化決策比例「掛蛋」，顯示金融業仍以人工把關。",
+      "publishedAt": "2026-10-15T14:25:49.099Z",
+      "discoveredAt": "2026-10-15T14:25:49.099Z",
       "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
         "AI",
-        "research",
-        "models",
-        "science"
+        "data center"
       ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 95,
+      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

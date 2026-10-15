@@ -1,7 +1,91 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T14:25:59.981Z",
+  "updatedAt": "2026-10-15T18:30:42.085Z",
   "candidates": [
+    {
+      "id": "cand_d2f625ac1bf1cfad4ff0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9817842?from=edn_maintab_index",
+      "title": "先拜訪聯電但張忠謀理念令人折服！黃仁勳親揭當初為何選擇台積電 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達（Nvidia）執行長黃仁勳近日接受知名播客主持人弗里德曼（Lex Fridman）訪問，談到人工智慧（AI）帶動的龐大投資商機、台灣半導體產業的崛起，以及30年前與台積電建立合作關係的過程。",
+      "publishedAt": "2026-10-15T18:30:31.681Z",
+      "discoveredAt": "2026-10-15T18:30:31.681Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_718df49fb09d9136bb9d",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "description": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announced an expansion of their partnership to optimize Adobe’s flagship tools including Adobe Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge, delivering faster AI-powered creation, production and personalization.",
+      "publishedAt": "Thu, 15 Oct 2026 17:00:00 GMT",
+      "discoveredAt": "2026-10-15T18:30:31.681Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3caf5788c4003cad9c81",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "description": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+      "publishedAt": "Thu, 15 Oct 2026 15:00:24 GMT",
+      "discoveredAt": "2026-10-15T18:30:31.681Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_22fc7c3eeee1de1f84ff",
       "sourceLastModified": null,
@@ -111,7 +195,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1542,6 +1626,63 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_2ab8d857df1f30c382ea",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9817778?from=edn_maintab_index",
+      "title": "川普的文字獄來了？美國希望其他國家要聽話把AI改名SI | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國財政部高級官員接受路透訪問表示，他們希望全球夥伴也能把人工智慧（AI）改名為「超級智慧」（AI），並稱這個新名稱更能夠彰顯這項新科技。",
+      "publishedAt": "2026-10-15T18:30:31.681Z",
+      "discoveredAt": "2026-10-15T18:30:31.681Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7b04a191baf7fb124aae",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "description": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
+      "publishedAt": "Thu, 15 Oct 2026 17:00:23 GMT",
+      "discoveredAt": "2026-10-15T18:30:31.681Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_751661a9874d1ea6c7c2",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1560,7 +1701,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1623,150 +1764,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_764ab0bd21935bc86345",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
-      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "description": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
-      "publishedAt": "Mon, 12 Oct 2026 15:00:00 GMT",
-      "discoveredAt": "2026-10-12T18:04:57.529Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_12a2bdf57c57ce74722d",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "description": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "publishedAt": "Thu, 08 Oct 2026 21:06:35 GMT",
-      "discoveredAt": "2026-10-09T00:19:39.879Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_45e44d8c320224a5db18",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9817705",
-      "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4% | 美股動態 | 國際 | 經濟日報",
-      "description": "美股15日早盤，科技股延續前一個交易日跌勢，但部分科技股以外類股上漲，使得四大指數漲跌互見。台積電ADR則是挫低4.21%。科技股二連跌，主要是市場對於科技公司在人工智慧（AI）領域過度支出的疑慮升高，加上最新公布的PPI通膨數據高於預期，又提高了美國聯準會（Fed）升息的可能性。",
-      "publishedAt": "2026-10-15T14:25:49.099Z",
-      "discoveredAt": "2026-10-15T14:25:49.099Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2fec75e886d3c8f73479",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9817705?from=edn_maintab_index",
-      "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4% | 美股動態 | 國際 | 經濟日報",
-      "description": "美股15日早盤，科技股延續前一個交易日跌勢，但部分科技股以外類股上漲，使得四大指數漲跌互見。台積電ADR則是挫低4.21%。科技股二連跌，主要是市場對於科技公司在人工智慧（AI）領域過度支出的疑慮升高，加上最新公布的PPI通膨數據高於預期，又提高了美國聯準會（Fed）升息的可能性。",
-      "publishedAt": "2026-10-15T14:25:49.099Z",
-      "discoveredAt": "2026-10-15T14:25:49.099Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ef5d79308a4ba5abc431",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9817609?from=edn_maintab_index",
-      "title": "數位行員來了！33家金融業導入「代理式 AI」 三大風險曝光 | 金融脈動 | 金融 | 經濟日報",
-      "description": "金管會15日公布2026年金融業AI調查，首度納入「代理式AI」，已有33家業者使用，但面臨技術、資安及法遵三大挑戰；另有逾半的AI使用業者，允許AI自動化決策比例「掛蛋」，顯示金融業仍以人工把關。",
-      "publishedAt": "2026-10-15T14:25:49.099Z",
-      "discoveredAt": "2026-10-15T14:25:49.099Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

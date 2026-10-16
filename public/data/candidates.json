@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T03:01:55.345Z",
+  "updatedAt": "2026-10-16T08:04:51.848Z",
   "candidates": [
     {
       "id": "cand_7416769e351988dc6c85",
@@ -174,7 +174,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -231,7 +231,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -402,7 +402,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -912,36 +912,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_c6aa94391cbb90b7a2a1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9804354?from=edn_maintab_index",
-      "title": "美股收盤／OpenAI 營收落差引爆晶片股賣壓 費半和台積電ADR跌逾3% OpenAI營收不如先前報導，加上科技業大舉舉債，引發AI投資能否持續的疑慮，拖累美股周四晶片股重挫。那斯達克跌1.3%；油價大漲也加深通膨和升息疑慮。 道瓊工業指數上漲51.77點，收51,23...",
-      "description": "",
-      "publishedAt": "2026-10-09T06:25:11.040Z",
-      "discoveredAt": "2026-10-09T06:25:11.040Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_d0f86b927305b97ce239",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1107,7 +1077,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1742,6 +1712,36 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c661e05d98473034accd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/12987/9819372?from=edn_newest_index",
+      "title": "範式智能聯同睿思智聯推出開源一站式生產級AI部署平台「模域」（ModelSphere） 2026-10-16 16:02",
+      "description": "",
+      "publishedAt": "2026-10-16T08:04:32.227Z",
+      "discoveredAt": "2026-10-16T08:04:32.227Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     },

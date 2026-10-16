@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T23:54:05.905Z",
+  "updatedAt": "2026-10-16T03:01:55.345Z",
   "candidates": [
+    {
+      "id": "cand_7416769e351988dc6c85",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9818450?from=edn_maintab_index",
+      "title": "1988年以來新高紀錄！中經院上修 GDP 年增率至12.16% | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "AI需求持續強勁，帶動台灣內外需同步成長。中經院第三度上修今年經濟成長率（GDP）預測至12.16%，中經院院長連賢明16日表示，今年經濟成長動能相當均衡，內需的投資與消費，以及外需出口各貢獻約一半，顯示今年無論內外需景氣均十分暢旺。",
+      "publishedAt": "2026-10-16T03:01:45.641Z",
+      "discoveredAt": "2026-10-16T03:01:45.641Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_57efcf0ab7f5a9bfb6ca",
       "sourceLastModified": null,
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -144,7 +174,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -228,7 +258,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -912,17 +942,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_39e2d4574d78b523bc07",
+      "id": "cand_d0f86b927305b97ce239",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9804281",
-      "title": "美股多收黑 OpenAI 年化營收低於投資人預期拖累AI股 | 美股動態 | 國際 | 經濟日報",
-      "description": "華爾街股市主要指數今天多走跌，那指終場下挫逾1%，主因媒體披露OpenAI年化營收低於之前傳出的數字，使得人工智慧（AI...",
-      "publishedAt": "2026-10-09T00:19:39.879Z",
-      "discoveredAt": "2026-10-09T00:19:39.879Z",
+      "url": "https://money.udn.com/money/story/7307/9818419",
+      "title": "台灣赴美建 AI 供應鏈 德州首座園區最高砸40億美元 龔明鑫：不只一座 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "台灣政府計劃籌資數十億美元，在美國開展工業園區，為輝達及其他AI硬體業者在當地建立完整供應鏈。",
+      "publishedAt": "2026-10-16T03:01:45.641Z",
+      "discoveredAt": "2026-10-16T03:01:45.641Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -937,37 +967,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_afe4e1d39f74d572a60a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9804281?from=edn_maintab_index",
-      "title": "美股多收黑 OpenAI 年化營收低於投資人預期拖累AI股 | 美股動態 | 國際 | 經濟日報",
-      "description": "華爾街股市主要指數今天多走跌，那指終場下挫逾1%，主因媒體披露OpenAI年化營收低於之前傳出的數字，使得人工智慧（AI...",
-      "publishedAt": "2026-10-09T00:19:39.879Z",
-      "discoveredAt": "2026-10-09T00:19:39.879Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },

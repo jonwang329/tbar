@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T08:04:51.848Z",
+  "updatedAt": "2026-10-16T13:12:17.246Z",
   "candidates": [
+    {
+      "id": "cand_5583bff304ad53101360",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9819836?from=edn_maintab_index",
+      "title": "今日最夯 ETF／韓股重挫後強彈 009829上漲4.3% | 基金天地 | 理財 | 經濟日報",
+      "description": "韓國股市經歷前一交易日重挫後，16日出現強勁反彈，而AI投資前景、半導體股波動及外資動向，仍是市場關注焦點。值得注意的是，大華韓國KOSPI50（009829）16日漲4.3%，成交量逾3萬張，成為本日最夯ETF之一。",
+      "publishedAt": "2026-10-16T13:12:06.634Z",
+      "discoveredAt": "2026-10-16T13:12:06.634Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7416769e351988dc6c85",
       "sourceLastModified": null,
@@ -174,7 +204,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -912,6 +942,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_9290f8fe4ad739270ee5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9819691?from=edn_maintab_index",
+      "title": "挺政府赴美設 AI 產業園區！童子賢：飛天車設備成熟 但缺應用情境 2026-10-16 18:14",
+      "description": "",
+      "publishedAt": "2026-10-16T13:12:06.634Z",
+      "discoveredAt": "2026-10-16T13:12:06.634Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_d0f86b927305b97ce239",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1050,7 +1110,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1712,66 +1772,6 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c661e05d98473034accd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/12987/9819372?from=edn_newest_index",
-      "title": "範式智能聯同睿思智聯推出開源一站式生產級AI部署平台「模域」（ModelSphere） 2026-10-16 16:02",
-      "description": "",
-      "publishedAt": "2026-10-16T08:04:32.227Z",
-      "discoveredAt": "2026-10-16T08:04:32.227Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2ab8d857df1f30c382ea",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9817778?from=edn_maintab_index",
-      "title": "川普的文字獄來了？美國希望其他國家要聽話把AI改名SI | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國財政部高級官員接受路透訪問表示，他們希望全球夥伴也能把人工智慧（AI）改名為「超級智慧」（AI），並稱這個新名稱更能夠彰顯這項新科技。",
-      "publishedAt": "2026-10-15T18:30:31.681Z",
-      "discoveredAt": "2026-10-15T18:30:31.681Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

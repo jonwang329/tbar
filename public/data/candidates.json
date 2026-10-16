@@ -1,19 +1,19 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T20:01:15.639Z",
+  "updatedAt": "2026-10-16T22:46:10.390Z",
   "candidates": [
     {
-      "id": "cand_6dddf491844ed73aa1bf",
+      "id": "cand_fe89ab9ca938ed4e5933",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9820087?from=edn_maintab_index",
-      "title": "法說會後外資力挺 台積目標價5,000元創內外資最高價位 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台積電法說會後獲多家外資券商按讚，其中Aletheia資本將台積電目標價大升至5,000元，創下內外資最高目標價，主要看好AI需求強勁、2027年產能供給吃緊，及未來資本支出擴大等因素，並維持「買進」評等。",
-      "publishedAt": "2026-10-16T20:01:06.774Z",
-      "discoveredAt": "2026-10-16T20:01:06.774Z",
+      "url": "https://money.udn.com/money/story/123398/9820282",
+      "title": "科技股回升動能不足 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股今天收黑，因科技股回升動能不足，加上市場對人工智慧（AI）相關投資感到憂慮，那斯達克指數收跌逾2%",
+      "publishedAt": "2026-10-16T22:45:56.847Z",
+      "discoveredAt": "2026-10-16T22:45:56.847Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -33,6 +33,96 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_fd9d61086dbed9e7a592",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9820282?from=edn_maintab_index",
+      "title": "科技股回升動能不足 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股今天收黑，因科技股回升動能不足，加上市場對人工智慧（AI）相關投資感到憂慮，那斯達克指數收跌逾2%",
+      "publishedAt": "2026-10-16T22:45:56.847Z",
+      "discoveredAt": "2026-10-16T22:45:56.847Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_425d905810b57888e576",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9820282?from=edn_newest_index",
+      "title": "科技股回升動能不足 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股今天收黑，因科技股回升動能不足，加上市場對人工智慧（AI）相關投資感到憂慮，那斯達克指數收跌逾2%",
+      "publishedAt": "2026-10-16T22:45:56.847Z",
+      "discoveredAt": "2026-10-16T22:45:56.847Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6dddf491844ed73aa1bf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9820087?from=edn_maintab_index",
+      "title": "法說會後外資力挺 台積目標價5,000元創內外資最高價位 2026-10-17 02:50",
+      "description": "台積電法說會後獲多家外資券商按讚，其中Aletheia資本將台積電目標價大升至5,000元，創下內外資最高目標價，主要看好AI需求強勁、2027年產能供給吃緊，及未來資本支出擴大等因素，並維持「買進」評等。",
+      "publishedAt": "2026-10-16T20:01:06.774Z",
+      "discoveredAt": "2026-10-16T20:01:06.774Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 95,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_b9db0a9e4ac5de85b0db",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -40,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9820083?from=edn_maintab_index",
-      "title": "東元射三箭 挑戰千億年營收 力拚三年內達標 | 產業熱點 | 產業 | 經濟日報",
+      "title": "東元射三箭 挑戰千億年營收 力拚三年內達標 2026-10-17 01:44",
       "description": "東元昨（16）日舉辦70周年論壇暨慶祝大會，董事長利明献會後接受媒體聯訪時指出，公司下一個十年，將聚焦能源、AI資料中心基建、動力載具等三大商機，藉此挹注營運成長。",
       "publishedAt": "2026-10-16T20:01:06.774Z",
       "discoveredAt": "2026-10-16T20:01:06.774Z",
@@ -54,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -264,7 +354,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -979,7 +1069,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9820121?from=edn_maintab_index",
-      "title": "賴總統：AI 發展 要避免 K 型經濟 盼大企業帶小企業 將傳產融入科技產業鏈 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "賴總統：AI 發展 要避免 K 型經濟 盼大企業帶小企業 將傳產融入科技產業鏈 2026-10-17 01:51",
       "description": "賴清德總統昨（16）日接受財經節目專訪。他表示，政府制定「人工智慧基本法」，明定推動AI七大核心原則，不僅半導體產業發展，其他行業也確保能應用人工智慧政策的有效推動與健全發展。賴總統強調，AI發展原則之一就是避免造成K型經濟，注重永續發展，盼中小微企業、傳統產業要融入科技產業的產業鏈。",
       "publishedAt": "2026-10-16T20:01:06.774Z",
       "discoveredAt": "2026-10-16T20:01:06.774Z",
@@ -993,7 +1083,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1678,96 +1768,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_02c4a394eed728f21dcf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9806263?from=edn_maintab_index",
-      "title": "台積電法說會下周四登場、CPI 連五月超過2%通膨警戒線……本周不可不知的五件財經大事 台積電（2330）法說會15日登場，台股有望站穩5萬點；OpenAI年化營收可能不如市場預期，鴻海（2317）、廣達（2382）、緯創（3231）、緯穎（6669）等AI代工廠股價恐面臨壓力；主計總...",
-      "description": "台積電（2330）法說會15日登場，台股有望站穩5萬點；OpenAI年化營收可能不如市場預期，鴻海（2317）、廣達（2382）、緯創（3231）、緯穎（6669）等AI代工廠股價恐面臨壓力；主計總處發布9月消費者物價指數（CPI）年增率為2.73%，連五月超過2%通膨警戒線，主計總處表示「國內沒有通膨現象」……以下是本周五件財經要聞： 1. 台積10月15日法說 牽動台股三劇本 四大名師推演 樂觀情境指數將站穩5萬點 台積電法人說明會15日登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。 四大股市名師推演三劇本，若第4季營收季增率及毛利率優於預期，並對AI及中長期半導體成長預估更加樂觀，將有利台股震盪盤堅站穩5萬點，並續探高點。 群益投顧董事長蔡明彥、第一金投顧董事長黃詣庭分析，雖然中東情勢反覆不定、美債殖利率高漲、AI雜音持續干擾市場信心，台股叩關5萬點尚未達陣，所幸企業獲利延續上修趨勢、ETF買盤源源不絕挹注，即使拉回幅度有限，建議逢低分批布局。 永豐投顧總經理黃柏棠、台新投顧總經理黃文清指出，台積電第3季營收達到財測高標，多家內外資法人樂觀預期財報可望繳出亮麗成",
-      "publishedAt": "2026-10-10T08:44:14.938Z",
-      "discoveredAt": "2026-10-10T08:44:14.938Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_68dd1e7616ec9d6554a8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5621/9805638?from=edn_maintab_index",
-      "title": "AI 點火 外商擴大在台設置辦公據點 商辦200億商機引爆 仲量聯行指出，在AI供應鏈積極擴廠下，外商將加大在台設置辦公據點，且需求量體估突破10萬坪，而國內擴廠效應同步帶起「後勤營運辦公室」型態；在雙需求爆發，國內租賃加買賣辦公市場將引爆超過200億元...",
-      "description": "仲量聯行指出，在AI供應鏈積極擴廠下，外商將加大在台設置辦公據點，且需求量體估突破10萬坪，而國內擴廠效應同步帶起「後勤營運辦公室」型態；在雙需求爆發，國內租賃加買賣辦公市場將引爆超過200億元商機。",
-      "publishedAt": "2026-10-09T23:10:21.129Z",
-      "discoveredAt": "2026-10-09T23:10:21.129Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_09f02b62683bd3805e0f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9805612?from=edn_maintab_index",
-      "title": "台積10月15日法說 牽動台股三劇本 四大名師推演 樂觀情境指數將站穩5萬點 台積電（2330）法人說明會下周四（15日）登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。 四大股市名師推演三劇本，若第4季營收季增率及毛利率優於預期，並對AI及中長期半導體成長預估更...",
-      "description": "台積電法人說明會下周四（15日）登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。",
-      "publishedAt": "2026-10-09T23:10:21.129Z",
-      "discoveredAt": "2026-10-09T23:10:21.129Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

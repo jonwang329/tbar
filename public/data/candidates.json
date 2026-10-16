@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T17:26:57.678Z",
+  "updatedAt": "2026-10-16T20:01:15.639Z",
   "candidates": [
+    {
+      "id": "cand_6dddf491844ed73aa1bf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9820087?from=edn_maintab_index",
+      "title": "法說會後外資力挺 台積目標價5,000元創內外資最高價位 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電法說會後獲多家外資券商按讚，其中Aletheia資本將台積電目標價大升至5,000元，創下內外資最高目標價，主要看好AI需求強勁、2027年產能供給吃緊，及未來資本支出擴大等因素，並維持「買進」評等。",
+      "publishedAt": "2026-10-16T20:01:06.774Z",
+      "discoveredAt": "2026-10-16T20:01:06.774Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b9db0a9e4ac5de85b0db",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9820083?from=edn_maintab_index",
+      "title": "東元射三箭 挑戰千億年營收 力拚三年內達標 | 產業熱點 | 產業 | 經濟日報",
+      "description": "東元昨（16）日舉辦70周年論壇暨慶祝大會，董事長利明献會後接受媒體聯訪時指出，公司下一個十年，將聚焦能源、AI資料中心基建、動力載具等三大商機，藉此挹注營運成長。",
+      "publishedAt": "2026-10-16T20:01:06.774Z",
+      "discoveredAt": "2026-10-16T20:01:06.774Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5583bff304ad53101360",
       "sourceLastModified": null,
@@ -912,6 +972,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_40ee0f584cfcf9312987",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9820121?from=edn_maintab_index",
+      "title": "賴總統：AI 發展 要避免 K 型經濟 盼大企業帶小企業 將傳產融入科技產業鏈 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "賴清德總統昨（16）日接受財經節目專訪。他表示，政府制定「人工智慧基本法」，明定推動AI七大核心原則，不僅半導體產業發展，其他行業也確保能應用人工智慧政策的有效推動與健全發展。賴總統強調，AI發展原則之一就是避免造成K型經濟，注重永續發展，盼中小微企業、傳統產業要融入科技產業的產業鏈。",
+      "publishedAt": "2026-10-16T20:01:06.774Z",
+      "discoveredAt": "2026-10-16T20:01:06.774Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_9290f8fe4ad739270ee5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1683,93 +1773,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5d3f191a9f79690cde27",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5628/9805600?from=edn_newest_index",
-      "title": "打造算力基地 撐起AI國力 | 社論 | 專欄 | 經濟日報",
-      "description": "政府今年1月核定「AI新十大建設推動方案」，賴總統並在去年雙十演說宣示，要讓台灣成為全球前五大算力中心。方向已經確立，但一個更現實的問題必須回答：這些算力，究竟要放在哪裡？",
-      "publishedAt": "2026-10-09T18:59:20.418Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4e68d72ee0181dc170ba",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9804638?from=edn_hottest_index",
-      "title": "AI 光通訊缺貨看不到盡頭 Lumentum 產能訂滿至2029年初 5123",
-      "description": "",
-      "publishedAt": "2026-10-09T18:59:20.418Z",
-      "discoveredAt": "2026-10-09T18:59:20.418Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_13cb1d7b5a107690645f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "description": "NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
-      "publishedAt": "Fri, 16 Oct 2026 12:00:00 GMT",
-      "discoveredAt": "2026-10-16T13:12:06.634Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

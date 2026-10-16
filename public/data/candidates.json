@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T13:12:17.246Z",
+  "updatedAt": "2026-10-16T17:26:57.678Z",
   "candidates": [
     {
       "id": "cand_5583bff304ad53101360",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5618/9819836?from=edn_maintab_index",
-      "title": "今日最夯 ETF／韓股重挫後強彈 009829上漲4.3% | 基金天地 | 理財 | 經濟日報",
+      "title": "今日最夯 ETF／韓股重挫後強彈 009829上漲4.3% 2026-10-16 20:17",
       "description": "韓國股市經歷前一交易日重挫後，16日出現強勁反彈，而AI投資前景、半導體股波動及外資動向，仍是市場關注焦點。值得注意的是，大華韓國KOSPI50（009829）16日漲4.3%，成交量逾3萬張，成為本日最夯ETF之一。",
       "publishedAt": "2026-10-16T13:12:06.634Z",
       "discoveredAt": "2026-10-16T13:12:06.634Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -261,7 +261,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -288,7 +288,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -405,7 +405,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -633,7 +633,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -912,36 +912,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_6ec86c4e3af137092cbb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9805374?from=edn_maintab_index",
-      "title": "晶片也能當擔保品? 華爾街為輝達AI晶片籌建全新金融體系 華爾街金融界正在為輝達的人工智慧（AI）晶片，建立一套新的金融生態系統，使輝達晶片成為一種新的資產，並建立避險管道以及交易市場；內容包括由銀行業對輝達晶片提供貸款，由保險公司對晶片提供保障，投資人則...",
-      "description": "華爾街金融界正在為輝達的人工智慧（AI）晶片，建立一套新的金融生態系統，使輝達晶片成為一種新的資產，並建立避險管道以及交易市場；內容包括由銀行業對輝達晶片提供貸款，由保險公司對晶片提供保障，投資人則能拿輝達晶片進行交易。",
-      "publishedAt": "2026-10-09T13:36:34.162Z",
-      "discoveredAt": "2026-10-09T13:36:34.162Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9290f8fe4ad739270ee5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -963,7 +933,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1773,6 +1743,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_13cb1d7b5a107690645f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "description": "NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
+      "publishedAt": "Fri, 16 Oct 2026 12:00:00 GMT",
+      "discoveredAt": "2026-10-16T13:12:06.634Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

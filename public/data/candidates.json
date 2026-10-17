@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T22:46:10.390Z",
+  "updatedAt": "2026-10-17T00:48:28.403Z",
   "candidates": [
     {
       "id": "cand_fe89ab9ca938ed4e5933",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9820282",
-      "title": "科技股回升動能不足 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "title": "06:00 科技股回升動能不足 美股收黑",
       "description": "美股今天收黑，因科技股回升動能不足，加上市場對人工智慧（AI）相關投資感到憂慮，那斯達克指數收跌逾2%",
       "publishedAt": "2026-10-16T22:45:56.847Z",
       "discoveredAt": "2026-10-16T22:45:56.847Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9820282?from=edn_maintab_index",
-      "title": "科技股回升動能不足 美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "title": "科技股回升動能不足 美股收黑",
       "description": "美股今天收黑，因科技股回升動能不足，加上市場對人工智慧（AI）相關投資感到憂慮，那斯達克指數收跌逾2%",
       "publishedAt": "2026-10-16T22:45:56.847Z",
       "discoveredAt": "2026-10-16T22:45:56.847Z",
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -114,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -144,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -972,96 +972,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_c225adcd5b9098c05c69",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9805562?from=edn_maintab_index",
-      "title": "光寶斥資110億 德州新廠動了 配合客戶需求擴產 搶賺AI財 電源廠配合AI客戶需求積極擴產，電源大廠光寶科（2301）昨（9）日代美國子公司LITE-ON, INC.公告，與統包工程商簽訂工程合約，將投資3.48億美元（約新台幣110.59億元），以自地委建...",
-      "description": "電源廠配合AI客戶需求積極擴產，電源大廠光寶科昨（9）日代美國子公司LITE-ON, INC.公告，與統包工程商簽訂工程合約，將投資3.48億美元（約新台幣110.59億元），以自地委建方式興建德州McKinney（麥金尼）新廠。",
-      "publishedAt": "2026-10-09T23:10:21.129Z",
-      "discoveredAt": "2026-10-09T23:10:21.129Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_112aaa5673253a075a63",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9805570?from=edn_maintab_index",
-      "title": "OpenAI 業績爆冷 台鏈承壓 市場憂影響鴻海、緯創等表現 OpenAI年化營收可能不如市場預期，市場又開始擔心雲端服務大廠（CSP）後續AI投資力道，下周一開盤鴻海（2317）、廣達、緯創、緯穎等AI代工廠股價恐面臨壓力。但目前法人及研調（摩根士丹利、野村...",
-      "description": "OpenAI年化營收可能不如市場預期，市場又開始擔心雲端服務大廠（CSP）後續AI投資力道，下周一開盤鴻海、廣達、緯創、緯穎等AI代工廠股價恐面臨壓力。但目前法人及研調（摩根士丹利、野村、集邦科技）普遍預估，今年AI伺服器出貨總櫃數挑戰8萬櫃以上水準，明年出貨將達11萬櫃的新高，同時產值更將突破7,000億美元大關，營運表現仍可望衝高。",
-      "publishedAt": "2026-10-09T23:10:21.129Z",
-      "discoveredAt": "2026-10-09T23:10:21.129Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dc5633bb0906e1a1bf33",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9805615?from=edn_maintab_index",
-      "title": "澳洲 AI 新創 Firmus 上市案停擺 享輝達加持 卻難敵市場冷淡對待 獲輝達力挺的澳洲資料中心營運商Firmus，9日以市場波動與現況為由，擱置規模71億澳幣（50億美元）的首次公開發行股票（IPO），並表示將轉赴私募市場融資。 Firmus這項IPO規模原本將名列...",
-      "description": "",
-      "publishedAt": "2026-10-09T23:10:21.129Z",
-      "discoveredAt": "2026-10-09T23:10:21.129Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_40ee0f584cfcf9312987",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1083,7 +993,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1773,6 +1683,87 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_13cb1d7b5a107690645f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "description": "NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
+      "publishedAt": "Fri, 16 Oct 2026 12:00:00 GMT",
+      "discoveredAt": "2026-10-16T13:12:06.634Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7b04a191baf7fb124aae",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "description": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
+      "publishedAt": "Thu, 15 Oct 2026 17:00:23 GMT",
+      "discoveredAt": "2026-10-15T18:30:31.681Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_751661a9874d1ea6c7c2",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "description": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
+      "publishedAt": "Thu, 15 Oct 2026 10:00:12 GMT",
+      "discoveredAt": "2026-10-15T14:25:49.099Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-17T18:40:01.313Z",
+  "updatedAt": "2026-10-17T21:00:29.649Z",
   "candidates": [
+    {
+      "id": "cand_ea6d0c1734b717856e93",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9821398?from=edn_maintab_index",
+      "title": "費半連八黑 台積ADR下挫 本周聚焦 Meta、特斯拉財報 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市16日下跌，費城半導體指數連八黑，台積電ADR周線下挫近9%。國際油價上漲、AI業者債務疑慮加深，讓市場更擔心高舉債成本將拖慢AI投資。本周Meta、晶片業者及特斯拉（Tesla）等財報，將檢驗企業獲利能否支撐這波熱潮。",
+      "publishedAt": "2026-10-17T21:00:18.885Z",
+      "discoveredAt": "2026-10-17T21:00:18.885Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_429d12b7f44800633d37",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9821392?from=edn_maintab_index",
+      "title": "Anthropic 籌資 舉債成本大增 反映投資者要求更高風險溢價 | 國際焦點 | 國際 | 經濟日報",
+      "description": "Anthropic為最新晶片交易籌資，向黑石（Blackstone）提供逾10%的殖利率，顯見該公司願意承擔高昂舉債成本，支應昂貴的AI基礎設施。舉債成本上升，反映投資人面對科技業短期內龐大的資金需求，要求更高風險溢價，才願意出資支持AI建設。",
+      "publishedAt": "2026-10-17T21:00:18.885Z",
+      "discoveredAt": "2026-10-17T21:00:18.885Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4805c20d3c0e402baba4",
       "sourceLastModified": null,
@@ -24,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1092,36 +1152,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_bbeef40a99e4b8c500c8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9806890?from=edn_maintab_index",
-      "title": "AI 加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境 人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）...",
-      "description": "人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）和公司債市場急遽降溫，警訊處處可見。",
-      "publishedAt": "2026-10-10T19:04:23.824Z",
-      "discoveredAt": "2026-10-10T19:04:23.824Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_563c716cd6f12325a4cd",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1738,36 +1768,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_35f7cc59f4e74df7b951",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9808267?from=edn_newest_index",
-      "title": "台股遇亂流拚先蹲後跳 法人押寶台積法說買盤有望進場 挑戰5萬關 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台股國慶連假休市期間，國際情勢與AI指標廠都傳出負面消息，包括中東緊張情勢升溫、OpenAI年化營收低於預期等，導致美國科技股與費半指數走跌，市場預期大盤今（12）日恐面臨補跌壓力，可能回測49K。",
-      "publishedAt": "2026-10-11T18:57:02.922Z",
-      "discoveredAt": "2026-10-11T18:57:02.922Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

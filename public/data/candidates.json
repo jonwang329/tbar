@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-17T09:26:32.264Z",
+  "updatedAt": "2026-10-17T13:06:31.743Z",
   "candidates": [
+    {
+      "id": "cand_7b88a406e647c1f3226a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9820087?from=edn_hottest_index",
+      "title": "法說會後外資力挺 台積目標價5,000元創內外資最高價位 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電法說會後獲多家外資券商按讚，其中Aletheia資本將台積電目標價大升至5,000元，創下內外資最高目標價，主要看好AI需求強勁、2027年產能供給吃緊，及未來資本支出擴大等因素，並維持「買進」評等。",
+      "publishedAt": "2026-10-17T13:06:20.930Z",
+      "discoveredAt": "2026-10-17T13:06:20.930Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_801b30f5f358b5ef5a67",
       "sourceLastModified": null,
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -144,7 +174,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1062,6 +1092,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_563c716cd6f12325a4cd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9817198",
+      "title": "邊緣 AI 新戰場2／聯發科、研華、凌華搶攻 Edge AI 誰先吃下千億商機？ | 專題報導 | 專題 | 經濟日報",
+      "description": "邊緣人工智慧（Edge AI）作為新興的產業趨勢，上至半導體晶片廠，下至終端工業電腦（IPC）廠或消費性電子品牌廠都加入戰局。科技產業目前最看好邊緣AI趨勢的就是IPC（工業電腦）業者，以研華（2395）為首的相關企業視此為下一波成長重要契機，晶片端如IC設計龍頭聯發科（2454）亦持續布局邊緣AI市場。",
+      "publishedAt": "2026-10-17T13:06:20.930Z",
+      "discoveredAt": "2026-10-17T13:06:20.930Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_40ee0f584cfcf9312987",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1708,66 +1768,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_501aa418ea3b277b9d90",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9807101?from=edn_newest_index",
-      "title": "TestMu AI 在 2026 年 Gartner® Magic Quadrant™ 智能體軟件品質保證平台報告中獲評領導者 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "評估依據為願景完整性及執行能力 印度諾伊達2026年10月11日 /美通社/ -- 全棧智能體 AI 品質工程平台 TestMu AI 宣佈，公司在 2026 年 Gartner® Magic Quadrant™ 智能體軟件品質保證平台報告中獲評領導者。可於[此處]免費獲取本研究報告。 隨著軟件交付轉向智能體工作流程，TestMu AI 持續透過智能體驅動的測試，以及可擴展的雲端執行基礎設施，推進端到端品質工程。該平台提供獨立驗證、非確定性智能體評估及管治能力，讓企業團隊在保留現有瀏覽器及裝置測試環境的同時，順利轉向智能體驅動的軟件交付模式。 平台透過多項功能滿足企業的核心測試需求：KaneAI 及 Kane CLI 支援以自然語言編寫測試，並提供可供智能體調用的執行功能；Agent Testing 支援多智能體評估；HyperExecute 則實現智能測試編排。平台亦在統一的品質工程生態系統中提供 Test Manager、Real Device Cloud、SmartUI 及無障礙測試。 TestMu AI 認為，獲評領導者反映公司在推進智能體品質工程方面的持續投入，涵蓋 AI 驅",
-      "publishedAt": "2026-10-10T22:27:11.211Z",
-      "discoveredAt": "2026-10-10T22:27:11.211Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fbb0dec210da7b616956",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9805985",
-      "title": "AI 竟向警方亂報命案線索 Claude 擅自操作政府網站 白宮要求業者處理 | 國際焦點 | 國際 | 經濟日報",
-      "description": "Anthropic揭露，旗下Claude AI模型曾擅自操作其他機構及美國政府單位的網站，引發安全疑慮。川普政府要求AI業者通知受影響對象，並處理相關安全事件。",
-      "publishedAt": "2026-10-10T14:47:41.196Z",
-      "discoveredAt": "2026-10-10T14:47:41.196Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

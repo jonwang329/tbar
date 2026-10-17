@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-17T00:48:28.403Z",
+  "updatedAt": "2026-10-17T05:13:24.942Z",
   "candidates": [
+    {
+      "id": "cand_b819b195bc8a396f5146",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9820605?from=edn_maintab_index",
+      "title": "費半周跌逾11% 台積電 ADR 挫近9% 下周就看 AI 財報能否止血 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周五下跌，費城半導體指數連八黑，台積電ADR周線下挫近9%。國際油價上漲、AI業者債務疑慮加深，讓市場更擔心高舉債成本將拖慢AI投資。下周Meta、晶片業者及特斯拉（Tesla）等財報，將檢驗企業獲利能否支撐這波熱潮。",
+      "publishedAt": "2026-10-17T05:13:15.981Z",
+      "discoveredAt": "2026-10-17T05:13:15.981Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_670ead83b3b8931cff7f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9819042?from=edn_maintab_index",
+      "title": "魏哲家喊台積電獲利沒有上限、川普宣布台灣將採購阿拉斯加 LNG……本周不可不知的五件財經大事 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積電15日舉行法說會，董事長魏哲嘉高喊「獲利能力沒有上限」；13家上市金控前九月稅後獲利達6,318.8億元，提前超越2024年全年的歷史最高紀錄；美國總統川普宣布，台灣承諾採購價值新台幣2.25兆至2.58兆元的阿拉斯加液化天然氣（LNG）……以下是本周五件財經要聞： 一、台積電：獲利能力沒上限 AI 供需缺口仍大 將全力擴產 台積電（2330）15日舉行法說會，公布第3季稅後純益7,630.6億元，每股純益29.43元，創歷史新高，前三季大賺近八個股本。董座魏哲家高喊AI需求持續升溫，供需缺口仍大，並預告台積電本季美元營收續戰創新高，全年美元營收年增約44%，較先前一次「略高於40%」的說法給出更明確預估。 魏哲家強調，台積電全力以赴擴產，市場需求非常強勁且持續成長，「台積電的獲利能力沒有上限」，但也不會一蹴可幾，台積電的理念和策略始終是與客戶合作，希望幫助客戶成功，然後才能實現自身價值。 魏哲家說，AI應用正由聊天機器人走向AI助理，代理式AI採用增加，開源模型普及也有助提升效率、降低使用門檻，帶動更多先進晶片需求。除了AI加速器，AI中央處理器（CPU）及網通晶片需求也持續增",
+      "publishedAt": "2026-10-17T05:13:15.981Z",
+      "discoveredAt": "2026-10-17T05:13:15.981Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_fe89ab9ca938ed4e5933",
       "sourceLastModified": null,
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9820282?from=edn_maintab_index",
-      "title": "科技股回升動能不足 美股收黑",
+      "title": "科技股回升動能不足 美股收黑 2026-10-17 05:21",
       "description": "美股今天收黑，因科技股回升動能不足，加上市場對人工智慧（AI）相關投資感到憂慮，那斯達克指數收跌逾2%",
       "publishedAt": "2026-10-16T22:45:56.847Z",
       "discoveredAt": "2026-10-16T22:45:56.847Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -114,7 +174,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -993,7 +1053,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1707,60 +1767,6 @@
       "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b04a191baf7fb124aae",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "description": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
-      "publishedAt": "Thu, 15 Oct 2026 17:00:23 GMT",
-      "discoveredAt": "2026-10-15T18:30:31.681Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_751661a9874d1ea6c7c2",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
-      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-      "description": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
-      "publishedAt": "Thu, 15 Oct 2026 10:00:12 GMT",
-      "discoveredAt": "2026-10-15T14:25:49.099Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,

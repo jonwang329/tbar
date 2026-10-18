@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-18T00:56:00.890Z",
+  "updatedAt": "2026-10-18T05:30:24.291Z",
   "candidates": [
     {
       "id": "cand_ea6d0c1734b717856e93",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1122,36 +1122,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_2630fb1cd3bb4699dce0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9806890",
-      "title": "AI 加持的牛市沒長角？小型股疲態露餡 法興預測美股後市2情境 | 美股動態 | 國際 | 經濟日報",
-      "description": "人工智慧（AI）熱潮加持，使美股標普500指數又登上歷史新高峰，但耀眼的表象掩蓋了金融市場暗潮洶湧：油價和借貸成本雙漲的衝擊日益擴散，從小型股普遍下跌，以及企業併購交易、首次公開發行股票（IPO）和公司債市場急遽降溫，警訊處處可見。",
-      "publishedAt": "2026-10-11T01:12:29.094Z",
-      "discoveredAt": "2026-10-11T01:12:29.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_563c716cd6f12325a4cd",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1773,6 +1743,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_13cb1d7b5a107690645f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "description": "NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
+      "publishedAt": "Fri, 16 Oct 2026 12:00:00 GMT",
+      "discoveredAt": "2026-10-16T13:12:06.634Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

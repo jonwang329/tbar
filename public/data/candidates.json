@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-18T16:56:55.312Z",
+  "updatedAt": "2026-10-18T19:19:57.167Z",
   "candidates": [
     {
       "id": "cand_37e83095984615153a9f",
@@ -40,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9822415?from=edn_hottest_index",
-      "title": "亞股明開盤不妙？美科技股賣壓加劇 成亞洲 AI 交易新風險 | 國際焦點 | 國際 | 經濟日報",
+      "title": "亞股明開盤不妙？美科技股賣壓加劇 成亞洲 AI 交易新風險",
       "description": "美國科技股賣壓上周加劇，本周將形成亞洲人工智慧（AI）交易的新風險：美國籌建資料中心資金的融資成本日漸升高，可能掐斷維續當前熱潮所需的支出，威脅亞洲科技供應鏈的獲利，不利亞股漲勢的續航力。",
       "publishedAt": "2026-10-18T16:56:46.733Z",
       "discoveredAt": "2026-10-18T16:56:46.733Z",
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -70,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9821842?from=edn_hottest_index",
-      "title": "美股四大指數、台指期夜盤遭血洗 國銀這樣看股市走勢",
+      "title": "美股四大指數、台指期夜盤遭血洗 國銀這樣看股市走勢 2026-10-18 11:19",
       "description": "美股四大指數標普500、道瓊、那斯達克和費城半導體指數周五收盤皆呈現下跌，其中費半更下跌3.83%，台指期夜盤也遭血洗重挫1144點，市場對於AI過度投資的擔憂再起，引發AI拋售潮，並帶動美國十年期公債殖利率一周內迅速下滑14個基點，本國銀行分析認為，科技業資本支出使債務大增，股市短期修正，但中長期仍審慎樂觀，建議投資人可逢低布局。",
       "publishedAt": "2026-10-18T13:41:36.865Z",
       "discoveredAt": "2026-10-18T13:41:36.865Z",
@@ -1212,6 +1212,126 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_9fd16cfb87475f2422ec",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9822782?from=edn_maintab_index",
+      "title": "台積電衝先進製程 台美大進擊 法人看好「技術領先、贏者全拿」優勢 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積先進製程台美兩路同步大進擊，台灣廠區下世代埃米級A14製程量產推進速度優於業界預期，美國亞利桑那廠也可望加快導入2奈米製程。隨著台美先進製程布局持續熱轉，法人看好，台積電在AI帶動的半導體熱潮，仍將掌握「技術領先、贏者全拿」優勢。",
+      "publishedAt": "2026-10-18T19:19:46.566Z",
+      "discoveredAt": "2026-10-18T19:19:46.566Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aec979c9c093cfb26185",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9822738?from=edn_maintab_index",
+      "title": "輝達 GTC 柏林來了20日登場 鴻海、廣達等 AI 鏈拚突圍 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達將於德國時間20日至22日舉辦GTC柏林大會，聚焦高速運算、Agentic AI（代理型AI）、機器人、開放模型、Physical AI（實體AI）、主權AI，以及AI基礎設施等議題。",
+      "publishedAt": "2026-10-18T19:19:46.566Z",
+      "discoveredAt": "2026-10-18T19:19:46.566Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3bcf9efb6d0ec0e8e73c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9822077?from=edn_hottest_index",
+      "title": "記憶體、半導體重挫 AI 多頭變天了？ 「鉅亨買基金」揭三大原因",
+      "description": "",
+      "publishedAt": "2026-10-18T19:19:46.566Z",
+      "discoveredAt": "2026-10-18T19:19:46.566Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d71d41f362fa98d48da2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11162/9822653?from=edn_VIP_index_side",
+      "title": "東元董座利明献專訪／ 機電大廠 AI 淘金 營運大步躍進",
+      "description": "",
+      "publishedAt": "2026-10-18T19:19:46.566Z",
+      "discoveredAt": "2026-10-18T19:19:46.566Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_563c716cd6f12325a4cd",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1637,126 +1757,6 @@
       "description": "",
       "publishedAt": "2026-10-13T00:34:35.025Z",
       "discoveredAt": "2026-10-13T00:34:35.025Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5749e3fbbecc74abb2a5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9810404?from=edn_newest_index",
-      "title": "台達電9月營收月增1.3% 衝刺 AI 占比 2026-10-13 01:57",
-      "description": "",
-      "publishedAt": "2026-10-12T18:04:57.529Z",
-      "discoveredAt": "2026-10-12T18:04:57.529Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f878f6612c991d76fa41",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9809539?from=edn_maintab_index",
-      "title": "台積期後市動能強勁 | 基金天地 | 理財 | 經濟日報",
-      "description": "蘋果、輝達（NVIDIA）、超微（AMD）、高通（Qualcomm）等大廠衝刺AI與高速運算（HPC）商機，傳出近期追加預訂台積電（2330）2奈米家族產能規模，增幅10%~20%，台積電也加速擴充2奈米家族產能擴建腳步，挹注整體營運動能更為強勁。",
-      "publishedAt": "2026-10-12T08:20:55.357Z",
-      "discoveredAt": "2026-10-12T08:20:55.357Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_57351462071ec031bb3f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9808676?from=edn_newest_index",
-      "title": "川普政府鬆綁AI安全測試限制 允開發商提前與英分享模型 2026-10-12 09:45",
-      "description": "",
-      "publishedAt": "2026-10-12T01:49:11.738Z",
-      "discoveredAt": "2026-10-12T01:49:11.738Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4ec356cb0ef0b8416a31",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9808660?from=edn_newest_index",
-      "title": "AI熱潮旺到飯店、精品業 晶華今年營收獲利可望雙創新高 2026-10-12 09:37",
-      "description": "",
-      "publishedAt": "2026-10-12T01:49:11.738Z",
-      "discoveredAt": "2026-10-12T01:49:11.738Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-18T09:51:20.056Z",
+  "updatedAt": "2026-10-18T13:41:47.011Z",
   "candidates": [
+    {
+      "id": "cand_7670d07c6f067d55ec26",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9821842?from=edn_hottest_index",
+      "title": "美股四大指數、台指期夜盤遭血洗 國銀這樣看股市走勢 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股四大指數標普500、道瓊、那斯達克和費城半導體指數周五收盤皆呈現下跌，其中費半更下跌3.83%，台指期夜盤也遭血洗重挫1144點，市場對於AI過度投資的擔憂再起，引發AI拋售潮，並帶動美國十年期公債殖利率一周內迅速下滑14個基點，本國銀行分析認為，科技業資本支出使債務大增，股市短期修正，但中長期仍審慎樂觀，建議投資人可逢低布局。",
+      "publishedAt": "2026-10-18T13:41:36.865Z",
+      "discoveredAt": "2026-10-18T13:41:36.865Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_79aa3336b41e620476f9",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9821839?from=edn_maintab_index",
-      "title": "AI CPO 促全球半導體測試產值上看208億美元 穎崴等擴產搶食市場商機 | 產業熱點 | 產業 | 經濟日報",
+      "title": "AI CPO 促全球半導體測試產值上看208億美元 穎崴等擴產搶食市場商機 2026-10-18 11:16",
       "description": "受惠AI驅動測試與量測的價值重估，加上共封裝光學（CPO）逐步邁入量產，正反映在全球半導體測試市場成長曲線上，機構SEMI預估可望上看208億美元。目前泰瑞達等大投資收購，至於量測儀器大廠致茂（2360）、穎崴（6515）、第三方測試機構汎銓（6830）、閎康（3587）等積極擴產搶食市場商機。",
       "publishedAt": "2026-10-18T09:51:10.017Z",
       "discoveredAt": "2026-10-18T09:51:10.017Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1743,33 +1773,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_13cb1d7b5a107690645f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "description": "NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
-      "publishedAt": "Fri, 16 Oct 2026 12:00:00 GMT",
-      "discoveredAt": "2026-10-16T13:12:06.634Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

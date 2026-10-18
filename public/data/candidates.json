@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-18T05:30:24.291Z",
+  "updatedAt": "2026-10-18T09:51:20.056Z",
   "candidates": [
+    {
+      "id": "cand_79aa3336b41e620476f9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9821839?from=edn_maintab_index",
+      "title": "AI CPO 促全球半導體測試產值上看208億美元 穎崴等擴產搶食市場商機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "受惠AI驅動測試與量測的價值重估，加上共封裝光學（CPO）逐步邁入量產，正反映在全球半導體測試市場成長曲線上，機構SEMI預估可望上看208億美元。目前泰瑞達等大投資收購，至於量測儀器大廠致茂（2360）、穎崴（6515）、第三方測試機構汎銓（6830）、閎康（3587）等積極擴產搶食市場商機。",
+      "publishedAt": "2026-10-18T09:51:10.017Z",
+      "discoveredAt": "2026-10-18T09:51:10.017Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_ea6d0c1734b717856e93",
       "sourceLastModified": null,
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -822,7 +852,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1092,36 +1122,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b922e1ba5b7cea39976a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9807393?from=edn_maintab_index",
-      "title": "整理包／台積電供應鏈全解析！護國神山法說會將至...先進製程 CoWoS、CoPoS 十大產業鏈、受惠台廠一次看 台積電（2330）先進製程與AI需求持續擴張，供應鏈商機從2奈米、A16一路延伸至CoWoS、SoIC、CoPoS與海外建廠。台積電並將於10月15日召開法說會，市場關注AI需求、先進製程與封裝產...",
-      "description": "台積電（2330）先進製程與AI需求持續擴張，供應鏈商機從2奈米、A16一路延伸至CoWoS、SoIC、CoPoS與海外建廠。台積電並將於10月15日召開第3季法說會，市場關注AI需求、先進製程與封裝產能，以及後續資本支出展望...",
-      "publishedAt": "2026-10-11T07:14:56.804Z",
-      "discoveredAt": "2026-10-11T07:14:56.804Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_563c716cd6f12325a4cd",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1350,7 +1350,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1377,7 +1377,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

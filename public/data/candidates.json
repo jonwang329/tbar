@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-18T19:19:57.167Z",
+  "updatedAt": "2026-10-18T21:38:23.378Z",
   "candidates": [
+    {
+      "id": "cand_9f63bc832b88b8fd7505",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9822635?from=edn_course_index",
+      "title": "AI 熱潮加劇全球債務風險 | 名家觀點 | 專欄 | 經濟日報",
+      "description": "國際金融協會（IIF）9月底公布最新研究報告指出，今年上半年全球債務增加10兆美元，總額突破365兆美元。其中，美、日、法、英等四國面臨持續龐大的財政赤字與不斷增加的利息支出。去年，已開發國家為國際性交易的政府公債所支付的利息逾3.3兆美元。無獨有偶，10月中於曼谷舉行的國際貨幣基金（IMF）與世界銀行年會，全球債務攀升、能源價格高漲與人工智慧（AI）投資熱潮交互影響，亦成為國際經濟政策的重要議題。",
+      "publishedAt": "2026-10-18T21:38:13.829Z",
+      "discoveredAt": "2026-10-18T21:38:13.829Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_37e83095984615153a9f",
       "sourceLastModified": null,
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1219,7 +1249,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9822782?from=edn_maintab_index",
-      "title": "台積電衝先進製程 台美大進擊 法人看好「技術領先、贏者全拿」優勢 | 產業熱點 | 產業 | 經濟日報",
+      "title": "台積電衝先進製程 台美大進擊 法人看好「技術領先、贏者全拿」優勢 2026-10-19 02:36",
       "description": "台積先進製程台美兩路同步大進擊，台灣廠區下世代埃米級A14製程量產推進速度優於業界預期，美國亞利桑那廠也可望加快導入2奈米製程。隨著台美先進製程布局持續熱轉，法人看好，台積電在AI帶動的半導體熱潮，仍將掌握「技術領先、贏者全拿」優勢。",
       "publishedAt": "2026-10-18T19:19:46.566Z",
       "discoveredAt": "2026-10-18T19:19:46.566Z",
@@ -1233,7 +1263,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1249,7 +1279,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9822738?from=edn_maintab_index",
-      "title": "輝達 GTC 柏林來了20日登場 鴻海、廣達等 AI 鏈拚突圍 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達 GTC 柏林來了20日登場 鴻海、廣達等 AI 鏈拚突圍 2026-10-19 02:27",
       "description": "輝達將於德國時間20日至22日舉辦GTC柏林大會，聚焦高速運算、Agentic AI（代理型AI）、機器人、開放模型、Physical AI（實體AI）、主權AI，以及AI基礎設施等議題。",
       "publishedAt": "2026-10-18T19:19:46.566Z",
       "discoveredAt": "2026-10-18T19:19:46.566Z",
@@ -1263,7 +1293,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1293,7 +1323,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1323,7 +1353,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1724,36 +1754,6 @@
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9810462?from=edn_maintab_index",
       "title": "英特爾 CEO 陳立武：算力短缺到2029年 AI 產業至少需要15萬名工程師 英特爾執行長陳立武12日指出，AI基礎設施至關重要，未來幾年運算資源可能持續供不應求，短缺情況甚至可能延續至2029年。這波供需失衡主要來自AI模型需求呈指數級成長，以及將AI模型導入不同產業所涉及...",
-      "description": "",
-      "publishedAt": "2026-10-13T00:34:35.025Z",
-      "discoveredAt": "2026-10-13T00:34:35.025Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e2214fb511a9d7aa0b39",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9810368?from=edn_maintab_index",
-      "title": "台塑四寶前三季賺1,847億 南亞 EPS 10.07元 反映 AI 熱潮正面效應 台塑四寶昨（12）日公布第3季獲利暨9月營收，單季稅後純益合計762.79億元，年增逾4.8倍，季增18.7%；前三季稅後純益1,847.27億元，遠優於去年同期虧損83.22億元。 台塑四寶上季...",
       "description": "",
       "publishedAt": "2026-10-13T00:34:35.025Z",
       "discoveredAt": "2026-10-13T00:34:35.025Z",

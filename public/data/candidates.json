@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-19T01:46:47.309Z",
+  "updatedAt": "2026-10-19T06:58:01.226Z",
   "candidates": [
+    {
+      "id": "cand_eb2e462df8408af1d973",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9823262?from=edn_maintab_index",
+      "title": "資料中心亂流不斷 Nscale 上市拚300億美元估值 投資人傳促砍至160億起 2026-10-19 09:59",
+      "description": "",
+      "publishedAt": "2026-10-19T06:57:49.059Z",
+      "discoveredAt": "2026-10-19T06:57:49.059Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_3bb6c04bdab4a1dbfc26",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9823024?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "title": "本周開盤前 五件國際事不可不知",
       "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
       "publishedAt": "2026-10-19T01:46:37.534Z",
       "discoveredAt": "2026-10-19T01:46:37.534Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -144,7 +174,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1302,6 +1332,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_94f420ca1cc3f8aadf99",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11074/9823366?from=edn_maintab_index",
+      "title": "台股重挫900點沒在怕！鑫詮興櫃首日飆313% 半導體測試溫控題材受矚 | 櫃買動態 | 證券 | 經濟日報",
+      "description": "台股19日盤中重挫逾940點，惟鑫詮科技（7954）登錄興櫃首日逆勢飆漲，早盤以84.8元開出，盤中最高衝上252元，以券商認購價61元計算，漲幅高達313%，以開盤價計算，漲幅也有39%。市場聚焦其半導體設備布局及AI晶片高階測試商機。",
+      "publishedAt": "2026-10-19T06:57:49.059Z",
+      "discoveredAt": "2026-10-19T06:57:49.059Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_9fd16cfb87475f2422ec",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1697,66 +1757,6 @@
       "description": "",
       "publishedAt": "2026-10-13T07:04:13.647Z",
       "discoveredAt": "2026-10-13T07:04:13.647Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bd4e7076e9f5870e7fe8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9810714?from=edn_maintab_index",
-      "title": "輝達、AMD 在 OCP 釋 AI 開源規格！股價為何連4跌？拆解背後2大隱憂 | 美股動態 | 國際 | 經濟日報",
-      "description": "開放運算計畫全球峰會（OCP Global Summit 2026）12日在加州聖荷西登場，聚焦討論AI工廠高功率供電、光通訊、液冷與散熱整合、開放網路與量子資安等議題，致力於分享開源設計與規格，為建構AI生態系相關產品的企業制定業界通用標準。然而，市場反應冷淡，費城半導體指數周一（12日）收跌2.7%。",
-      "publishedAt": "2026-10-13T00:34:35.025Z",
-      "discoveredAt": "2026-10-13T00:34:35.025Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b6beddf5c7b05c53a1d2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9810448?from=edn_maintab_index",
-      "title": "AI 產業需求強勁 上市櫃營收創三高 Q4 獲利繼續衝 | 市場焦點 | 證券 | 經濟日報",
-      "description": "AI產業需求強勁，上市櫃公司締造亮麗三高佳績，9月營收一舉衝上6.59兆元，刷新史上單月新高，且連兩個月超過6兆元大關；第3季營收18.4兆元，創歷史單季新高；前九月營收總額達48.5兆元，年成長率37.6%，同樣創歷年同期新高。法人預期10月、第4季營收將維持成長態勢，且第4季獲利成長幅度將超過營收。",
-      "publishedAt": "2026-10-13T00:34:35.025Z",
-      "discoveredAt": "2026-10-13T00:34:35.025Z",
       "topics": [
         "Taiwan business",
         "investment",

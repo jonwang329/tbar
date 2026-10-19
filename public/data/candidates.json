@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-18T23:41:24.263Z",
+  "updatedAt": "2026-10-19T01:46:47.309Z",
   "candidates": [
+    {
+      "id": "cand_3bb6c04bdab4a1dbfc26",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9823024?from=edn_hottest_index",
+      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
+      "publishedAt": "2026-10-19T01:46:37.534Z",
+      "discoveredAt": "2026-10-19T01:46:37.534Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1584ccb41c74b6d9408a",
       "sourceLastModified": null,
@@ -40,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9823024?from=edn_maintab_index",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
+      "title": "本周開盤前 五件國際事不可不知 2026-10-19 07:05",
       "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
       "publishedAt": "2026-10-18T23:41:15.151Z",
       "discoveredAt": "2026-10-18T23:41:15.151Z",
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -114,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -190,7 +220,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9821842?from=edn_hottest_index",
-      "title": "美股四大指數、台指期夜盤遭血洗 國銀這樣看股市走勢 2026-10-18 11:19",
+      "title": "美股四大指數、台指期夜盤遭血洗 國銀這樣看股市走勢",
       "description": "美股四大指數標普500、道瓊、那斯達克和費城半導體指數周五收盤皆呈現下跌，其中費半更下跌3.83%，台指期夜盤也遭血洗重挫1144點，市場對於AI過度投資的擔憂再起，引發AI拋售潮，並帶動美國十年期公債殖利率一周內迅速下滑14個基點，本國銀行分析認為，科技業資本支出使債務大增，股市短期修正，但中長期仍審慎樂觀，建議投資人可逢低布局。",
       "publishedAt": "2026-10-18T13:41:36.865Z",
       "discoveredAt": "2026-10-18T13:41:36.865Z",
@@ -204,7 +234,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1293,7 +1323,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1323,7 +1353,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1725,36 +1755,6 @@
       "url": "https://money.udn.com/money/story/5607/9810448?from=edn_maintab_index",
       "title": "AI 產業需求強勁 上市櫃營收創三高 Q4 獲利繼續衝 | 市場焦點 | 證券 | 經濟日報",
       "description": "AI產業需求強勁，上市櫃公司締造亮麗三高佳績，9月營收一舉衝上6.59兆元，刷新史上單月新高，且連兩個月超過6兆元大關；第3季營收18.4兆元，創歷史單季新高；前九月營收總額達48.5兆元，年成長率37.6%，同樣創歷年同期新高。法人預期10月、第4季營收將維持成長態勢，且第4季獲利成長幅度將超過營收。",
-      "publishedAt": "2026-10-13T00:34:35.025Z",
-      "discoveredAt": "2026-10-13T00:34:35.025Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_723828b811d1c81bd4cb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9810451?from=edn_maintab_index",
-      "title": "輝達聯手思科光通訊大進擊 華星光、眾達等台鏈歡呼 | 產業熱點 | 產業 | 經濟日報",
-      "description": "輝達光通訊大進擊，攜手網通設備巨頭思科（Cisco）推出最新可插拔光模組產品，是全球首發USFP（Ultra Small Form Factor Pluggable）每通道400G光通模組，並將投入開源計畫，意謂有望獲各大雲端業者採用，引爆新一波光通訊模組商機，華星光、眾達-KY等光通訊族群有望奪輝達AI生態系大單。",
       "publishedAt": "2026-10-13T00:34:35.025Z",
       "discoveredAt": "2026-10-13T00:34:35.025Z",
       "topics": [

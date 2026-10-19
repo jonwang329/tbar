@@ -1,7 +1,97 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-19T20:11:26.790Z",
+  "updatedAt": "2026-10-19T23:44:23.193Z",
   "candidates": [
+    {
+      "id": "cand_d4a516d13b12aa42d765",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9825169",
+      "title": "美股收盤／費半終止連八黑 晶片股吸引逢低買盤 AI 反彈能否續航看財報 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周一漲跌互見，晶片股吸引逢低買盤，帶動那斯達克指數上漲逾1%，費城半導體指數也終止連八黑。投資人押注AI投資仍能支撐企業獲利，但公債殖利率續升，融資疑慮尚未消除，本周Meta、特斯拉等財報將是反彈能否延續的重要考驗。",
+      "publishedAt": "2026-10-19T23:44:09.770Z",
+      "discoveredAt": "2026-10-19T23:44:09.770Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4594e72bef30939dbaf7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9825169?from=edn_maintab_index",
+      "title": "美股收盤／費半終止連八黑 晶片股吸引逢低買盤 AI 反彈能否續航看財報 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周一漲跌互見，晶片股吸引逢低買盤，帶動那斯達克指數上漲逾1%，費城半導體指數也終止連八黑。投資人押注AI投資仍能支撐企業獲利，但公債殖利率續升，融資疑慮尚未消除，本周Meta、特斯拉等財報將是反彈能否延續的重要考驗。",
+      "publishedAt": "2026-10-19T23:44:09.770Z",
+      "discoveredAt": "2026-10-19T23:44:09.770Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0019b90fe09e7c17881b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9825195?from=edn_newest_index",
+      "title": "再談450億美元算力大單 輝達投資的Nscale攜Anthropic拚IPO身價 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）投資的AI雲端業者Nscale，據報正和Claude開發商Anthropic洽談第二筆大型算力合約，價值可能達450億美元，將由美國西維吉尼亞州Monarch園區的第二棟資料中心提供服務。",
+      "publishedAt": "2026-10-19T23:44:09.770Z",
+      "discoveredAt": "2026-10-19T23:44:09.770Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_fbbe2dbfcb48e0c86763",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9824932?from=edn_maintab_index",
-      "title": "國家隊救援 台股拚反彈 法人研判探底危機已過 | 市場焦點 | 證券 | 經濟日報",
+      "title": "國家隊救援 台股拚反彈 法人研判探底危機已過 2026-10-20 02:22",
       "description": "台股昨（19）日早盤面臨AI疑慮、通膨等一系列利空衝擊，指數一度大跌941點，殺低逼近季線大關，然隨盤中政府信心喊話，國家隊進場護盤，搭配內資買盤逢低買進，台股跌點大幅收斂。法人表示，台股探底危機已過，六大利多看好台股反彈。",
       "publishedAt": "2026-10-19T20:11:14.335Z",
       "discoveredAt": "2026-10-19T20:11:14.335Z",
@@ -24,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -51,7 +141,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -231,7 +321,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -951,7 +1041,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1339,7 +1429,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9824839?from=edn_maintab_index",
-      "title": "成熟製程市況熱 價量齊揚 世界、力積電等營運進補 | 產業熱點 | 產業 | 經濟日報",
+      "title": "成熟製程市況熱 價量齊揚 世界、力積電等營運進補 2026-10-20 02:09",
       "description": "研調機構Sigmaintell最新報告指出，AI基礎建設擴張，帶動電源管理、通訊與周邊晶片需求升溫，本季全球成熟製程晶圓代工業產能利用率衝上91%高檔，伴隨物料成本提高與供需吃緊，明年首季8吋與12吋成熟製程晶圓代工價格將季增4%至8%。",
       "publishedAt": "2026-10-19T20:11:14.335Z",
       "discoveredAt": "2026-10-19T20:11:14.335Z",
@@ -1353,7 +1443,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1689,93 +1779,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f755dcc79ddb8b4e7d2d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9815582?from=edn_maintab_index",
-      "title": "美股收盤／通膨掀 AI 股賣壓 費半重挫4.3% 美股創7月來最重跌幅 2026-10-15 06:49",
-      "description": "美國通膨高於預期，推升聯準會（Fed）本月會再升息的押注，美股周三應聲下挫，AI和晶片股跌勢尤其慘重。費城半導體指數重挫4.3%，連跌六日，標普500和那斯達克均創7月以來最大單日跌幅，小型股也跌入修正區間。",
-      "publishedAt": "2026-10-15T00:17:19.599Z",
-      "discoveredAt": "2026-10-15T00:17:19.599Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f0090957004e9b76fe79",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9814414?from=edn_newest_index",
-      "title": "謝金河：台股逼近5萬點 AI讓台灣產業全面重估 台塑、廠務股都翻身",
-      "description": "",
-      "publishedAt": "2026-10-14T13:59:15.519Z",
-      "discoveredAt": "2026-10-14T13:59:15.519Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2aed05f0e6156f38aecc",
-      "sourceLastModified": "2026-10-14T08:31:43.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "title": "Singapore office and government MOU | Anthropic",
-      "description": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
-      "publishedAt": "2026-10-14T08:30:00.000Z",
-      "discoveredAt": "2026-10-14T13:59:15.519Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

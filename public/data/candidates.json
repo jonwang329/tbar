@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-19T23:44:23.193Z",
+  "updatedAt": "2026-10-20T02:08:57.650Z",
   "candidates": [
+    {
+      "id": "cand_6e870477f090154031c2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9825331",
+      "title": "超額認購逾400倍竟破發 南韓 AI 雲端業者 Elice 掛牌首日重挫32% | 國際焦點 | 國際 | 經濟日報",
+      "description": "南韓AI雲端業者Elice周二在Kosdaq掛牌，盤中一度重挫32%。這個Kosdaq今年最大IPO籌得約1.51億美元，首日股價卻大跌，凸顯市場對AI基礎設施投資的疑慮。",
+      "publishedAt": "2026-10-20T02:08:47.825Z",
+      "discoveredAt": "2026-10-20T02:08:47.825Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d4a516d13b12aa42d765",
       "sourceLastModified": null,
@@ -40,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9825169?from=edn_maintab_index",
-      "title": "美股收盤／費半終止連八黑 晶片股吸引逢低買盤 AI 反彈能否續航看財報 | 美股動態 | 國際 | 經濟日報",
+      "title": "美股收盤／費半終止連八黑 晶片股吸引逢低買盤 AI 反彈能否續航看財報 2026-10-20 06:56",
       "description": "美國股市周一漲跌互見，晶片股吸引逢低買盤，帶動那斯達克指數上漲逾1%，費城半導體指數也終止連八黑。投資人押注AI投資仍能支撐企業獲利，但公債殖利率續升，融資疑慮尚未消除，本周Meta、特斯拉等財報將是反彈能否延續的重要考驗。",
       "publishedAt": "2026-10-19T23:44:09.770Z",
       "discoveredAt": "2026-10-19T23:44:09.770Z",
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1373,36 +1403,6 @@
       "description": "受惠大型雲端服務供應商（CSP）資本支出維持高檔，及輝達（NVIDIA）新一代AI平台陸續進入量產帶動，上市櫃公司9月營收再度改寫歷史新高紀錄，法人維持對台股中長期展望正面看法，建議拉回擇優布局。",
       "publishedAt": "2026-10-13T07:04:13.647Z",
       "discoveredAt": "2026-10-13T07:04:13.647Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6edeedddf9532fd6db0a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9810465?from=edn_maintab_index",
-      "title": "IMF：AI 像「緩步推進的海嘯」對就業、教育、稅收等產生深遠影響 國際貨幣基金（IMF）總裁喬治艾娃表示，人工智慧（AI）基礎設施的大規模投資，使全球經濟成長率維持在約3%；不過，AI猶如一場「緩步推進的海嘯」，預期財富分配將從勞動轉向資本，將對就業、經濟成長、教...",
-      "description": "",
-      "publishedAt": "2026-10-13T00:34:35.025Z",
-      "discoveredAt": "2026-10-13T00:34:35.025Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,124 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T02:08:57.650Z",
+  "updatedAt": "2026-10-20T07:37:45.875Z",
   "candidates": [
+    {
+      "id": "cand_217bdb4d772b0522860d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9826227",
+      "title": "怕 AI 熱潮翻車 投資人搶買 CDS 避險 連輝達、Meta 保費也飆新高 | 美股動態 | 國際 | 經濟日報",
+      "description": "投資人擔心AI熱潮逆轉，紛紛搶買信用違約交換（CDS）避險，讓這項在全球金融危機期間聲名大噪的金融工具，交易量再度激增。",
+      "publishedAt": "2026-10-20T07:37:32.851Z",
+      "discoveredAt": "2026-10-20T07:37:32.851Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c34a0b21a96c38577d23",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9826227?from=edn_maintab_index",
+      "title": "怕 AI 熱潮翻車 投資人搶買 CDS 避險 連輝達、Meta 保費也飆新高 | 美股動態 | 國際 | 經濟日報",
+      "description": "投資人擔心AI熱潮逆轉，紛紛搶買信用違約交換（CDS）避險，讓這項在全球金融危機期間聲名大噪的金融工具，交易量再度激增。",
+      "publishedAt": "2026-10-20T07:37:32.851Z",
+      "discoveredAt": "2026-10-20T07:37:32.851Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9f77c51e40e2a1a5ba65",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9825396?from=edn_maintab_index",
+      "title": "Google 前 CEO 這筆 AI 投資要沖天了 身價有望暴增至2.6兆元 | 美股動態 | 國際 | 經濟日報",
+      "description": "曾經擔任Google執行長的施密特（Eric Schmidt）因早期投資AI新創公司Anthropic，目前持有該公司約1%股權。根據知情人士說法，隨著Anthropic即將上市，施密特有望成為此次IPO中，個人獲利最豐厚的投資人之一。",
+      "publishedAt": "2026-10-20T07:37:32.851Z",
+      "discoveredAt": "2026-10-20T07:37:32.851Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6b224a43d0aa7f3e6f58",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "description": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some […]",
+      "publishedAt": "Tue, 20 Oct 2026 05:00:00 GMT",
+      "discoveredAt": "2026-10-20T07:37:32.851Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6e870477f090154031c2",
       "sourceLastModified": null,
@@ -84,7 +201,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -144,7 +261,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -171,7 +288,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1392,36 +1509,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_321acdbc00fea5940c54",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9811764",
-      "title": "上市櫃公司9月營收續締新猷 法人建議優先關注這幾檔 | 市場焦點 | 證券 | 經濟日報",
-      "description": "受惠大型雲端服務供應商（CSP）資本支出維持高檔，及輝達（NVIDIA）新一代AI平台陸續進入量產帶動，上市櫃公司9月營收再度改寫歷史新高紀錄，法人維持對台股中長期展望正面看法，建議拉回擇優布局。",
-      "publishedAt": "2026-10-13T07:04:13.647Z",
-      "discoveredAt": "2026-10-13T07:04:13.647Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c01b27eb4c90b7ee080d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1684,96 +1771,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9290f8fe4ad739270ee5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9819691?from=edn_maintab_index",
-      "title": "挺政府赴美設 AI 產業園區！童子賢：飛天車設備成熟 但缺應用情境 2026-10-16 18:14",
-      "description": "",
-      "publishedAt": "2026-10-16T13:12:06.634Z",
-      "discoveredAt": "2026-10-16T13:12:06.634Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d0f86b927305b97ce239",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9818419",
-      "title": "台灣赴美建 AI 供應鏈 德州首座園區最高砸40億美元 龔明鑫：不只一座 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "台灣政府計劃籌資數十億美元，在美國開展工業園區，為輝達及其他AI硬體業者在當地建立完整供應鏈。",
-      "publishedAt": "2026-10-16T03:01:45.641Z",
-      "discoveredAt": "2026-10-16T03:01:45.641Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_00e02a7092bc53b25026",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9816368?from=edn_newest_index",
-      "title": "美光台中先進封測二廠落成 賴總統：台灣為全球AI不可或缺的關鍵夥伴",
-      "description": "",
-      "publishedAt": "2026-10-15T04:56:21.662Z",
-      "discoveredAt": "2026-10-15T04:56:21.662Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

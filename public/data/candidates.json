@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T17:56:18.423Z",
+  "updatedAt": "2026-10-20T21:23:05.703Z",
   "candidates": [
+    {
+      "id": "cand_f6ec7480207b2a37ee10",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9827376?from=edn_maintab_index",
+      "title": "輝達降規晶片 陸科技三巨頭掃貨 合計斥資350億美元採購 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達降規晶片仍是雲端服務業者（CSP）和不少新創的首選。知情人士透露，字節跳動、阿里巴巴、騰訊三家中國大陸科技巨人，已訂購了逾300萬個輝達RTX PRO 5500繪圖處理器（GPU），合計價值超過350億美元，顯示儘管美國限制晶片出口，陸企仍亟欲採購輝達的降規晶片。",
+      "publishedAt": "2026-10-20T21:22:49.274Z",
+      "discoveredAt": "2026-10-20T21:22:49.274Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d535872002a8d167b596",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9827237?from=edn_maintab_index",
+      "title": "經部大招商 引資6,660億 吸引27家廠商投資台灣 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "經濟部昨（20）日舉辦「2026台灣全球招商論壇」，招商大有斬獲，共掌握27家廠商投資案，合計投資6,660億元，較去年大增三倍，其中13家已簽署投資意向書（LOI），涵蓋半導體設備、先進材料等領域，反映AI浪潮下，台灣持續吸引外商布局。",
+      "publishedAt": "2026-10-20T21:22:49.274Z",
+      "discoveredAt": "2026-10-20T21:22:49.274Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_18d3cb88d20dfdaac933",
       "sourceLastModified": null,
@@ -1539,36 +1599,6 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_6b4cb9c752de2b524823",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9812882?from=edn_maintab_index",
-      "title": "全球晶片股大跳水 湧現賣壓 四個利空害的 2026-10-14 02:57",
-      "description": "全球晶片類股13日湧現賣壓，反映四大利空：長鑫存儲宣稱晶片架構大突破，引發記憶體競爭疑慮、博通執行長陳福陽把AI投資氛圍比擬為賭場、輝達和超微公布的新技術仍待訂單與收入、AI舉債成本高令市場更在意投資報酬。",
-      "publishedAt": "2026-10-13T20:36:41.162Z",
-      "discoveredAt": "2026-10-13T20:36:41.162Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c01b27eb4c90b7ee080d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1727,36 +1757,6 @@
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9822077?from=edn_hottest_index",
       "title": "記憶體、半導體重挫 AI 多頭變天了？ 「鉅亨買基金」揭三大原因",
-      "description": "",
-      "publishedAt": "2026-10-18T19:19:46.566Z",
-      "discoveredAt": "2026-10-18T19:19:46.566Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d71d41f362fa98d48da2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11162/9822653?from=edn_VIP_index_side",
-      "title": "東元董座利明献專訪／ 機電大廠 AI 淘金 營運大步躍進",
       "description": "",
       "publishedAt": "2026-10-18T19:19:46.566Z",
       "discoveredAt": "2026-10-18T19:19:46.566Z",

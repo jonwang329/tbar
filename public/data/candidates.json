@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T13:01:44.237Z",
+  "updatedAt": "2026-10-20T17:56:18.423Z",
   "candidates": [
+    {
+      "id": "cand_18d3cb88d20dfdaac933",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9827164?from=edn_maintab_index",
+      "title": "台股愈熱詐騙愈多？第3季通報近9000件 金管會揭兩原因 | 金融脈動 | 金融 | 經濟日報",
+      "description": "台股愈熱、詐騙愈狂？據金管會統計，今年第3季Google、Meta投資詐騙廣告通報8,962件，季增近45%、年增13%，已連兩季攀升且首度轉為年增；主因台股熱絡帶動投資詐騙，加上AI爬蟲提升蒐報效率。",
+      "publishedAt": "2026-10-20T17:56:05.320Z",
+      "discoveredAt": "2026-10-20T17:56:05.320Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_474cc06335ceacacc313",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9827148?from=edn_maintab_index",
+      "title": "美股早盤／油價登五個月高 AI 憂慮重燃 費半摔1% | 美股動態 | 國際 | 經濟日報",
+      "description": "南韓資料中心公司Elice掛牌首日，股價跳水重挫，再次點燃AI憂慮，美國晶片股反彈熄火；此時布蘭特油價又站上五個月新高，傷害市場情緒，美股20日早盤四大指數漲跌互見。",
+      "publishedAt": "2026-10-20T17:56:05.320Z",
+      "discoveredAt": "2026-10-20T17:56:05.320Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_217bdb4d772b0522860d",
       "sourceLastModified": null,
@@ -111,7 +171,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -288,7 +348,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1711,66 +1771,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_563c716cd6f12325a4cd",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124921/9817198",
-      "title": "邊緣 AI 新戰場2／聯發科、研華、凌華搶攻 Edge AI 誰先吃下千億商機？ | 專題報導 | 專題 | 經濟日報",
-      "description": "邊緣人工智慧（Edge AI）作為新興的產業趨勢，上至半導體晶片廠，下至終端工業電腦（IPC）廠或消費性電子品牌廠都加入戰局。科技產業目前最看好邊緣AI趨勢的就是IPC（工業電腦）業者，以研華（2395）為首的相關企業視此為下一波成長重要契機，晶片端如IC設計龍頭聯發科（2454）亦持續布局邊緣AI市場。",
-      "publishedAt": "2026-10-17T13:06:20.930Z",
-      "discoveredAt": "2026-10-17T13:06:20.930Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_40ee0f584cfcf9312987",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9820121?from=edn_maintab_index",
-      "title": "賴總統：AI 發展 要避免 K 型經濟 盼大企業帶小企業 將傳產融入科技產業鏈 2026-10-17 01:51",
-      "description": "賴清德總統昨（16）日接受財經節目專訪。他表示，政府制定「人工智慧基本法」，明定推動AI七大核心原則，不僅半導體產業發展，其他行業也確保能應用人工智慧政策的有效推動與健全發展。賴總統強調，AI發展原則之一就是避免造成K型經濟，注重永續發展，盼中小微企業、傳統產業要融入科技產業的產業鏈。",
-      "publishedAt": "2026-10-16T20:01:06.774Z",
-      "discoveredAt": "2026-10-16T20:01:06.774Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

@@ -1,7 +1,31 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T21:23:05.703Z",
+  "updatedAt": "2026-10-20T23:59:41.122Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-10-20T23:59:41.122Z",
+      "discoveredAt": "2026-10-20T23:59:41.122Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
     {
       "id": "cand_f6ec7480207b2a37ee10",
       "sourceLastModified": null,
@@ -10,7 +34,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9827376?from=edn_maintab_index",
-      "title": "輝達降規晶片 陸科技三巨頭掃貨 合計斥資350億美元採購 | 國際焦點 | 國際 | 經濟日報",
+      "title": "輝達降規晶片 陸科技三巨頭掃貨 合計斥資350億美元採購 2026-10-21 03:30",
       "description": "輝達降規晶片仍是雲端服務業者（CSP）和不少新創的首選。知情人士透露，字節跳動、阿里巴巴、騰訊三家中國大陸科技巨人，已訂購了逾300萬個輝達RTX PRO 5500繪圖處理器（GPU），合計價值超過350億美元，顯示儘管美國限制晶片出口，陸企仍亟欲採購輝達的降規晶片。",
       "publishedAt": "2026-10-20T21:22:49.274Z",
       "discoveredAt": "2026-10-20T21:22:49.274Z",
@@ -24,7 +48,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +64,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/7307/9827237?from=edn_maintab_index",
-      "title": "經部大招商 引資6,660億 吸引27家廠商投資台灣 | 政經焦點 | 要聞 | 經濟日報",
+      "title": "經部大招商 引資6,660億 吸引27家廠商投資台灣 2026-10-21 03:24",
       "description": "經濟部昨（20）日舉辦「2026台灣全球招商論壇」，招商大有斬獲，共掌握27家廠商投資案，合計投資6,660億元，較去年大增三倍，其中13家已簽署投資意向書（LOI），涵蓋半導體設備、先進材料等領域，反映AI浪潮下，台灣持續吸引外商布局。",
       "publishedAt": "2026-10-20T21:22:49.274Z",
       "discoveredAt": "2026-10-20T21:22:49.274Z",
@@ -54,7 +78,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -588,7 +612,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1575,28 +1599,34 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
+      "id": "cand_23a1dbaef62e2bddaab2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-10-13T23:52:24.341Z",
-      "discoveredAt": "2026-10-13T23:52:24.341Z",
+      "url": "https://money.udn.com/money/story/5599/9827580?from=edn_newest_index",
+      "title": "義大利祭新安全令嚴防暴力遊行 以AI揪蒙面鬧事 | 國際焦點 | 國際 | 經濟日報",
+      "description": "義大利學生示威上週末衍生多起暴力事件，義國政府今天舉行部長會議通過一項新安全法令，增加「暴力參與遊行罪」，規定可羈押未成...",
+      "publishedAt": "2026-10-20T23:59:26.629Z",
+      "discoveredAt": "2026-10-20T23:59:26.629Z",
       "topics": [
-        "AI leader clips",
-        "Chinese summaries"
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
       ],
-      "countries": [],
-      "freshnessScore": 10,
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
-      "taiwanScore": 35,
+      "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_c01b27eb4c90b7ee080d",
@@ -1741,36 +1771,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3bcf9efb6d0ec0e8e73c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9822077?from=edn_hottest_index",
-      "title": "記憶體、半導體重挫 AI 多頭變天了？ 「鉅亨買基金」揭三大原因",
-      "description": "",
-      "publishedAt": "2026-10-18T19:19:46.566Z",
-      "discoveredAt": "2026-10-18T19:19:46.566Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

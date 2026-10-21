@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T14:39:29.916Z",
+  "updatedAt": "2026-10-21T18:58:00.164Z",
   "candidates": [
+    {
+      "id": "cand_de20246214b562d72907",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9829885?from=edn_newest_index",
+      "title": "AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "臺北2026年10月21日 /美通社/ -- 好食好事加速器10月20日於台北101舉辦第九屆Demo Day，以「FOOD / EVOLVED｜科技之勢 未來之食」為題，集結台灣、新加坡及香港16組新創，涵蓋AI供應鏈、智慧農漁、循環材料與食品健康創新。活動由經濟部中小及新創企業署指導，署長李冠志蒞臨支持。中企署自111年起推動「企業參與新創」，鼓勵大企業透過企業加速器、策略投資與供應鏈合作，增加新創商業應用與市場落地機會； 2026好食好事DemoDay9，現場匯集近400位來賓，並邀請矽谷創投AgFunder來台，與16組台新港新創共同帶來食農科技供應鏈最新趨勢。 本次DemoDay亮點團隊中，快帶科技以AI管理連鎖餐飲Google Maps評論，半年簽下六家餐飲品牌；初茶弁飯整合企業訂餐與配送，累計服務突破150萬人次；豐漁水產的智慧無人養殖船可降低約70%人力投入；並於今年獲由國發會推動之創業綻放競賽「院長獎」肯定。 在食品健康創新領域上，長瑩生技以微生物發酵豆渣生產機能性寵物原料，近期參加由全球最大寵物營養集團「瑪氏寵物照護（Mars Petcare）」競賽中獲得前三名。長",
+      "publishedAt": "2026-10-21T18:57:44.497Z",
+      "discoveredAt": "2026-10-21T18:57:44.497Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8bf0b6e86c4341ea9080",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9829607?from=edn_course_index",
+      "title": "AI 投資，別讓焦慮當老闆 | 名家觀點 | 專欄 | 經濟日報",
+      "description": "好友老蔣是數位轉型專家，最近忙著審查一些政府AI補助計畫。看了不少案子後，他有一個很深的感觸：現在許多中小企業老闆不是不相信AI，而是太相信AI了。這些企業多半經營踏實，眼看生成式AI、AI Agent快速發展，競爭對手開始導入，政府又積極鼓勵，自然產生現在不做，三年後會不會被淘汰的焦慮。",
+      "publishedAt": "2026-10-21T18:57:44.497Z",
+      "discoveredAt": "2026-10-21T18:57:44.497Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2708e2516ddb5f0f86c2",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9829552?from=edn_maintab_index",
-      "title": "美股早盤／SpaceX 財報帶旺 AI 交易 四大指數走高 | 美股動態 | 國際 | 經濟日報",
+      "title": "美股早盤／SpaceX 財報帶旺 AI 交易 四大指數走高 2026-10-21 21:40",
       "description": "SpaceX交出亮眼財報，重新點燃市場對人工智慧（AI）交易的熱情，激勵美股21日早盤上揚。投資人也正在消化最新一波企業財報。",
       "publishedAt": "2026-10-21T14:39:17.367Z",
       "discoveredAt": "2026-10-21T14:39:17.367Z",
@@ -24,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -51,7 +111,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -78,7 +138,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -105,7 +165,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -132,7 +192,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -159,7 +219,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -186,7 +246,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -213,7 +273,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -240,7 +300,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -267,7 +327,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -294,7 +354,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -321,9 +381,36 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_861682468bb2a10f1a73",
+      "sourceLastModified": "2026-10-21T18:22:03.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "title": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
+      "description": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and to help the company deliver on its public benefit mission,” said Stubbs. “I use AI tools in my research every day and see what they make possible, and as an educator I have confronted some of the hard questions they raise. As a grandfather, I want to help ensure that AI is developed and deployed for the long-term benefit of humanity.” Stubbs is the Samuel C. Moncher Professor of Physics and of Astronomy at Harvard, where he served as Dean of Science from 2018 to 2024. In 1998, as a member of the High-Z Supernova Search Team, he helped discover the accelerating expansion of the universe, work that later earned the team the Breakthrough Prize in Fundamental Physics. He was also the inaugural project scientist for what is now the Vera C. Rubin Observatory, which started a 10-year survey of the southern sky in June. One of its aims is to study the accelerating expansion he helped discover. More recently, he’s written about how to keep AI-assisted research reproducible when models can give different answers to the same question. He’s a member of JASON, an independent group of scientists who have advised the US government on defense and technology since 1960. \"When Chris found evidence that the universe was expanding at a rate no one expected, he and his team followed the data even when it went against the prevailing wisdom of the field. As AI starts to transform how science itself is done, Chris’s intellectual honesty, rigor, and commitment to the truth are the values we want shaping the future of this technology, and I’m grateful he’s bringing his deep expertise to the Trust,\" said Daniela Amodei, Co-founder and President of Anthropic. Anthropic is a Public Benefit Corporation, which means we’re structured to balance commercial growth with our public benefit purpose. The Trust exists to help us hold that balance over the long term. It has the authority to appoint a majority of Anthropic’s board, and Trustees advise the board and our leadership on critical decisions, particularly those involving risks and societal impacts of AI. This week we published our first Public Benefit Report [link], a public account of how we’re working toward our mission and where we’re falling short. The Trustees helped define the five mission pillars it measures us against, and the report closes with their assessment of our progress to date. Subject to stockholder approval, we’ve also committed to setting aside a portion of Anthropic’s shares to Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. “Anthropic&#x27;s Public Benefit Report sets out what we’re all working toward: helping the world build powerful AI safely, and making sure the technology drives advances that meaningfully improve people’s lives and society as a whole,” added Neil Buddy Shah, Chair of the Long-Term Benefit Trust. “Both goals depend on a deep understanding of frontier science and leading with integrity. Not only has Chris worked on some of the hardest problems in science, but he has consistently been a high-integrity leader of large, complex, collaborative scientific endeavors across academia, government, and the national laboratories. That will be of great value to the Trust as we support Anthropic in developing AI for the long-term benefit of humanity.” Stubbs, the Trust’s first physicist, joins Shah, national security expert Richard Fontaine, and former Federal Reserve Chair Ben Bernanke. Trustees are independent of the company’s management and investors.",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "discoveredAt": "2026-10-21T18:57:44.497Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
@@ -1662,93 +1749,6 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d815055a64c50c16d120",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9817782?from=edn_course_index",
-      "title": "陳錦稷 / 中信金融管理學院教授兼金融管理研究所所長 AI 投資潮牽動銀行資產負債管理",
-      "description": "",
-      "publishedAt": "2026-10-15T21:42:44.668Z",
-      "discoveredAt": "2026-10-15T21:42:44.668Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d2f625ac1bf1cfad4ff0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9817842?from=edn_maintab_index",
-      "title": "先拜訪聯電但張忠謀理念令人折服！黃仁勳親揭當初為何選擇台積電 | 國際焦點 | 國際 | 經濟日報",
-      "description": "輝達（Nvidia）執行長黃仁勳近日接受知名播客主持人弗里德曼（Lex Fridman）訪問，談到人工智慧（AI）帶動的龐大投資商機、台灣半導體產業的崛起，以及30年前與台積電建立合作關係的過程。",
-      "publishedAt": "2026-10-15T18:30:31.681Z",
-      "discoveredAt": "2026-10-15T18:30:31.681Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_718df49fb09d9136bb9d",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-      "description": "Adobe (Nasdaq: ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, and NVIDIA today announced an expansion of their partnership to optimize Adobe’s flagship tools including Adobe Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge, delivering faster AI-powered creation, production and personalization.",
-      "publishedAt": "Thu, 15 Oct 2026 17:00:00 GMT",
-      "discoveredAt": "2026-10-15T18:30:31.681Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T04:33:48.678Z",
+  "updatedAt": "2026-10-21T09:35:32.267Z",
   "candidates": [
     {
       "id": "cand_1e7a56e127e6ac219e77",
@@ -18,7 +18,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -255,7 +255,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1542,33 +1542,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_c04fc25acb36d430068d",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
-      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "description": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
-      "publishedAt": "Wed, 14 Oct 2026 06:00:28 GMT",
-      "discoveredAt": "2026-10-14T08:27:23.272Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_49111fc5661f281d4a79",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1776,6 +1749,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c51ce21c84c244388ad9",
+      "sourceLastModified": "2026-10-19T23:05:53.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
+      "title": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
+      "description": "",
+      "publishedAt": "2026-10-19T23:05:53.000Z",
+      "discoveredAt": "2026-10-20T17:56:05.320Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

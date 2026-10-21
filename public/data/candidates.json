@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:59:41.122Z",
+  "updatedAt": "2026-10-21T04:33:48.678Z",
   "candidates": [
     {
       "id": "cand_1e7a56e127e6ac219e77",
@@ -18,7 +18,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1569,17 +1569,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_8614fd7e6fd03261772a",
+      "id": "cand_49111fc5661f281d4a79",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9813138?from=edn_maintab_index",
-      "title": "黃仁勳宣布輝達追加投資歐洲20億美元！催歐洲加入 AI 競賽 2026-10-14 07:59",
-      "description": "",
-      "publishedAt": "2026-10-14T02:55:23.384Z",
-      "discoveredAt": "2026-10-14T02:55:23.384Z",
+      "url": "https://money.udn.com/money/story/5710/9828048",
+      "title": "SpaceX 報喜點燃低軌衛星漲停潮！金寶撞上輝達量子突破 爆量逾9萬張 | 集中市場 | 證券 | 經濟日報",
+      "description": "SpaceX第3季營收年增161%、AI業務成長逾9倍，亮眼財報點燃低軌衛星概念股買氣。台股相關族群21日多檔攻上漲停，環科（2413）、聯茂（6213）、騰輝電子-KY（6672）、萊德光電-KY（7717）紛紛亮燈，金寶（2312）成交量更衝破9萬張，成為盤面交投焦點。",
+      "publishedAt": "2026-10-21T04:33:35.975Z",
+      "discoveredAt": "2026-10-21T04:33:35.975Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1594,7 +1594,37 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_843eea92df8755bf5b33",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9827601?from=edn_maintab_index",
+      "title": "SpaceX 財報／營收大增161% AI 業務狂飆九倍 馬斯克喊支持與特斯拉合併 | 美股動態 | 國際 | 經濟日報",
+      "description": "太空與科技公司SpaceX公布亮麗財報，上季營收狂飆161%，除了衛星網路業務大幅成長，AI業務更成長九倍；執行長馬斯克還樂觀喊出，SpaceX正朝營收年化預估值可多達1兆美元邁進，並表明他旗下兩家公司SpaceX與特斯拉合併「是個好主意」，消息激勵SpaceX股價在盤後交易大漲7%。",
+      "publishedAt": "2026-10-21T04:33:35.975Z",
+      "discoveredAt": "2026-10-21T04:33:35.975Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1728,36 +1758,6 @@
       "url": "https://money.udn.com/money/story/5612/9822782?from=edn_maintab_index",
       "title": "台積電衝先進製程 台美大進擊 法人看好「技術領先、贏者全拿」優勢 2026-10-19 02:36",
       "description": "台積先進製程台美兩路同步大進擊，台灣廠區下世代埃米級A14製程量產推進速度優於業界預期，美國亞利桑那廠也可望加快導入2奈米製程。隨著台美先進製程布局持續熱轉，法人看好，台積電在AI帶動的半導體熱潮，仍將掌握「技術領先、贏者全拿」優勢。",
-      "publishedAt": "2026-10-18T19:19:46.566Z",
-      "discoveredAt": "2026-10-18T19:19:46.566Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aec979c9c093cfb26185",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9822738?from=edn_maintab_index",
-      "title": "輝達 GTC 柏林來了20日登場 鴻海、廣達等 AI 鏈拚突圍 2026-10-19 02:27",
-      "description": "輝達將於德國時間20日至22日舉辦GTC柏林大會，聚焦高速運算、Agentic AI（代理型AI）、機器人、開放模型、Physical AI（實體AI）、主權AI，以及AI基礎設施等議題。",
       "publishedAt": "2026-10-18T19:19:46.566Z",
       "discoveredAt": "2026-10-18T19:19:46.566Z",
       "topics": [

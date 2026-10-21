@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T18:58:00.164Z",
+  "updatedAt": "2026-10-21T22:17:04.640Z",
   "candidates": [
+    {
+      "id": "cand_331e03e6821e840c189e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9829700?from=edn_maintab_index",
+      "title": "輝達衝 AI 基建 擴產夥伴點名三台廠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達GTC柏林大會昨（21）日盛大登場，並宣布加速全球AI基礎建設布局，搶攻歐洲主權AI工廠商機，欣興、京元電及日月光投控旗下矽品三大台廠獲點名，分別承接載板、晶片測試及CPO光學引擎擴產重任，成為輝達擴大供應量能重要夥伴。",
+      "publishedAt": "2026-10-21T22:16:50.180Z",
+      "discoveredAt": "2026-10-21T22:16:50.180Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_de20246214b562d72907",
       "sourceLastModified": null,
@@ -40,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5629/9829607?from=edn_course_index",
-      "title": "AI 投資，別讓焦慮當老闆 | 名家觀點 | 專欄 | 經濟日報",
+      "title": "詹文男 / 數位轉型學院共同創辦人暨院長、臺灣大學商學研究所兼任教授 AI 投資，別讓焦慮當老闆",
       "description": "好友老蔣是數位轉型專家，最近忙著審查一些政府AI補助計畫。看了不少案子後，他有一個很深的感觸：現在許多中小企業老闆不是不相信AI，而是太相信AI了。這些企業多半經營踏實，眼看生成式AI、AI Agent快速發展，競爭對手開始導入，政府又積極鼓勵，自然產生現在不做，三年後會不會被淘汰的焦慮。",
       "publishedAt": "2026-10-21T18:57:44.497Z",
       "discoveredAt": "2026-10-21T18:57:44.497Z",
@@ -54,12 +84,39 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5734a4d733e1168bf53f",
+      "sourceLastModified": "2026-10-21T22:16:49.850Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "title": "https://openai.com/index/openai-models-google-cloud",
+      "description": "",
+      "publishedAt": "2026-10-21T18:57:35.945Z",
+      "discoveredAt": "2026-10-21T18:57:44.497Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -300,7 +357,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -327,7 +384,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -354,7 +411,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -381,7 +438,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1684,66 +1741,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b14b9244aa1e79985082",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9817858?from=edn_maintab_index",
-      "title": "AI 股拋售潮 引發市場避險交易 美債殖利率降 投資機構買進 2026-10-16 03:11",
-      "description": "人工智慧（AI）概念股拋售潮持續，刺激了市場對避險資產的需求，使美債避險交易捲土重來，也帶動全球債市展開一波反彈。",
-      "publishedAt": "2026-10-15T21:42:44.668Z",
-      "discoveredAt": "2026-10-15T21:42:44.668Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 95,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a9ed8d3ac9880827543e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9818064?from=edn_newest_index",
-      "title": "投資人轉向AI以外標的 美股道瓊終場漲逾500點",
-      "description": "",
-      "publishedAt": "2026-10-15T21:42:44.668Z",
-      "discoveredAt": "2026-10-15T21:42:44.668Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

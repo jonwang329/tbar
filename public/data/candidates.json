@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T19:27:58.138Z",
+  "updatedAt": "2026-10-22T22:42:49.776Z",
   "candidates": [
+    {
+      "id": "cand_587463df388a77a9e465",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9832714",
+      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5% | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股周四遭到拋售，費城半導體指數重挫6.7%，創6月23日以來最大單日跌幅，英特爾、超微（AMD）、晟碟（SanDisk）和邁威爾（Marvell）均跌逾8%。Meta加碼AI支出的計畫，再度引發市場對龐大投資和融資需求的疑慮，拖累那斯達克指數下跌2.6%，資金轉向公債避險。",
+      "publishedAt": "2026-10-22T22:42:34.796Z",
+      "discoveredAt": "2026-10-22T22:42:34.796Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4758a2d45fe86d676047",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9832714?from=edn_maintab_index",
+      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5% | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股周四遭到拋售，費城半導體指數重挫6.7%，創6月23日以來最大單日跌幅，英特爾、超微（AMD）、晟碟（SanDisk）和邁威爾（Marvell）均跌逾8%。Meta加碼AI支出的計畫，再度引發市場對龐大投資和融資需求的疑慮，拖累那斯達克指數下跌2.6%，資金轉向公債避險。",
+      "publishedAt": "2026-10-22T22:42:34.796Z",
+      "discoveredAt": "2026-10-22T22:42:34.796Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c5f6a42ed20b3e0152cc",
       "sourceLastModified": null,
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -81,7 +141,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1666,66 +1726,6 @@
         "Taiwan"
       ],
       "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_429d12b7f44800633d37",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9821392?from=edn_maintab_index",
-      "title": "Anthropic 籌資 舉債成本大增 反映投資者要求更高風險溢價 2026-10-18 02:00",
-      "description": "Anthropic為最新晶片交易籌資，向黑石（Blackstone）提供逾10%的殖利率，顯見該公司願意承擔高昂舉債成本，支應昂貴的AI基礎設施。舉債成本上升，反映投資人面對科技業短期內龐大的資金需求，要求更高風險溢價，才願意出資支持AI建設。",
-      "publishedAt": "2026-10-17T21:00:18.885Z",
-      "discoveredAt": "2026-10-17T21:00:18.885Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4805c20d3c0e402baba4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9819042?from=edn_hottest_index",
-      "title": "魏哲家喊台積電獲利沒有上限、川普宣布台灣將採購阿拉斯加 LNG……本周不可不知的五件財經大事",
-      "description": "台積電15日舉行法說會，董事長魏哲嘉高喊「獲利能力沒有上限」；13家上市金控前九月稅後獲利達6,318.8億元，提前超越2024年全年的歷史最高紀錄；美國總統川普宣布，台灣承諾採購價值新台幣2.25兆至2.58兆元的阿拉斯加液化天然氣（LNG）……以下是本周五件財經要聞： 一、台積電：獲利能力沒上限 AI 供需缺口仍大 將全力擴產 台積電（2330）15日舉行法說會，公布第3季稅後純益7,630.6億元，每股純益29.43元，創歷史新高，前三季大賺近八個股本。董座魏哲家高喊AI需求持續升溫，供需缺口仍大，並預告台積電本季美元營收續戰創新高，全年美元營收年增約44%，較先前一次「略高於40%」的說法給出更明確預估。 魏哲家強調，台積電全力以赴擴產，市場需求非常強勁且持續成長，「台積電的獲利能力沒有上限」，但也不會一蹴可幾，台積電的理念和策略始終是與客戶合作，希望幫助客戶成功，然後才能實現自身價值。 魏哲家說，AI應用正由聊天機器人走向AI助理，代理式AI採用增加，開源模型普及也有助提升效率、降低使用門檻，帶動更多先進晶片需求。除了AI加速器，AI中央處理器（CPU）及網通晶片需求也持續增",
-      "publishedAt": "2026-10-17T16:22:33.368Z",
-      "discoveredAt": "2026-10-17T16:22:33.368Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

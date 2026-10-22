@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T15:35:49.574Z",
+  "updatedAt": "2026-10-22T19:27:58.138Z",
   "candidates": [
+    {
+      "id": "cand_c5f6a42ed20b3e0152cc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9832035?from=edn_VIP_index_side",
+      "title": "AI 資料中心巨額投資由誰埋單？很可能是不知情的你",
+      "description": "",
+      "publishedAt": "2026-10-22T19:27:45.448Z",
+      "discoveredAt": "2026-10-22T19:27:45.448Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_a9d2e0680a7bb298c053",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124921/9831944?from=index_special_cards",
-      "title": "AI 浪潮下的租屋戰1／AI 工程師6年暴增158％ 誰在搶這群人的高端租房商機？ | 專題報導 | 專題 | 經濟日報",
+      "title": "AI 浪潮下的租屋戰",
       "description": "隨著全球AI伺服器、半導體大廠與數位基礎設施投資在國內擴張，跨國高階主管、工程師加大來台腳步，帶動國內高端租賃住宅、酒店式公寓需求持續擴大；兩大業態正以各自軟硬體特色，積極搶攻企業派駐預算。",
       "publishedAt": "2026-10-22T15:35:27.430Z",
       "discoveredAt": "2026-10-22T15:35:27.430Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -51,7 +81,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -138,7 +168,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -165,7 +195,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -192,7 +222,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -219,7 +249,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -459,7 +489,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -469,7 +499,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-22T15:34:57.016Z",
+      "sourceLastModified": "2026-10-22T19:27:38.888Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -486,7 +516,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1683,36 +1713,6 @@
       "url": "https://money.udn.com/money/story/5612/9819042?from=edn_hottest_index",
       "title": "魏哲家喊台積電獲利沒有上限、川普宣布台灣將採購阿拉斯加 LNG……本周不可不知的五件財經大事",
       "description": "台積電15日舉行法說會，董事長魏哲嘉高喊「獲利能力沒有上限」；13家上市金控前九月稅後獲利達6,318.8億元，提前超越2024年全年的歷史最高紀錄；美國總統川普宣布，台灣承諾採購價值新台幣2.25兆至2.58兆元的阿拉斯加液化天然氣（LNG）……以下是本周五件財經要聞： 一、台積電：獲利能力沒上限 AI 供需缺口仍大 將全力擴產 台積電（2330）15日舉行法說會，公布第3季稅後純益7,630.6億元，每股純益29.43元，創歷史新高，前三季大賺近八個股本。董座魏哲家高喊AI需求持續升溫，供需缺口仍大，並預告台積電本季美元營收續戰創新高，全年美元營收年增約44%，較先前一次「略高於40%」的說法給出更明確預估。 魏哲家強調，台積電全力以赴擴產，市場需求非常強勁且持續成長，「台積電的獲利能力沒有上限」，但也不會一蹴可幾，台積電的理念和策略始終是與客戶合作，希望幫助客戶成功，然後才能實現自身價值。 魏哲家說，AI應用正由聊天機器人走向AI助理，代理式AI採用增加，開源模型普及也有助提升效率、降低使用門檻，帶動更多先進晶片需求。除了AI加速器，AI中央處理器（CPU）及網通晶片需求也持續增",
-      "publishedAt": "2026-10-17T16:22:33.368Z",
-      "discoveredAt": "2026-10-17T16:22:33.368Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_31fa67294e7b2e89aaa1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9820431?from=edn_hottest_index",
-      "title": "費半連八黑創金融海嘯最長頹勢 黃仁勳：這一切都會過去 AI 才剛起步",
-      "description": "輝達（NVIDIA）執行長黃仁勳在近日AI股重挫之下仍表樂觀，認為AI帶來的效益很快就能化解投資人的疑慮。",
       "publishedAt": "2026-10-17T16:22:33.368Z",
       "discoveredAt": "2026-10-17T16:22:33.368Z",
       "topics": [

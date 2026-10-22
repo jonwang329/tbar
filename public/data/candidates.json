@@ -1,7 +1,64 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T10:29:04.265Z",
+  "updatedAt": "2026-10-22T15:35:49.574Z",
   "candidates": [
+    {
+      "id": "cand_a9d2e0680a7bb298c053",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9831944?from=index_special_cards",
+      "title": "AI 浪潮下的租屋戰1／AI 工程師6年暴增158％ 誰在搶這群人的高端租房商機？ | 專題報導 | 專題 | 經濟日報",
+      "description": "隨著全球AI伺服器、半導體大廠與數位基礎設施投資在國內擴張，跨國高階主管、工程師加大來台腳步，帶動國內高端租賃住宅、酒店式公寓需求持續擴大；兩大業態正以各自軟硬體特色，積極搶攻企業派駐預算。",
+      "publishedAt": "2026-10-22T15:35:27.430Z",
+      "discoveredAt": "2026-10-22T15:35:27.430Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_24c4ebc4d13304a1f112",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "description": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+      "publishedAt": "Thu, 22 Oct 2026 15:00:02 GMT",
+      "discoveredAt": "2026-10-22T15:35:27.430Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5c3b4ecc30e2d12f900a",
       "sourceLastModified": null,
@@ -10,7 +67,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9829700?from=edn_hottest_index",
-      "title": "輝達衝 AI 基建 擴產夥伴點名三台廠 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達衝 AI 基建 擴產夥伴點名三台廠",
       "description": "輝達GTC柏林大會昨（21）日盛大登場，並宣布加速全球AI基礎建設布局，搶攻歐洲主權AI工廠商機，欣興、京元電及日月光投控旗下矽品三大台廠獲點名，分別承接載板、晶片測試及CPO光學引擎擴產重任，成為輝達擴大供應量能重要夥伴。",
       "publishedAt": "2026-10-22T05:26:19.622Z",
       "discoveredAt": "2026-10-22T05:26:19.622Z",
@@ -24,7 +81,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -81,7 +138,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -108,7 +165,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -135,7 +192,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -162,7 +219,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -412,7 +469,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-22T10:28:32.700Z",
+      "sourceLastModified": "2026-10-22T15:34:57.016Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -486,7 +543,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -513,7 +570,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -540,7 +597,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -567,7 +624,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -594,7 +651,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -621,7 +678,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -648,7 +705,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1669,66 +1726,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7b88a406e647c1f3226a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9820087?from=edn_hottest_index",
-      "title": "法說會後外資力挺 台積目標價5,000元創內外資最高價位",
-      "description": "台積電法說會後獲多家外資券商按讚，其中Aletheia資本將台積電目標價大升至5,000元，創下內外資最高目標價，主要看好AI需求強勁、2027年產能供給吃緊，及未來資本支出擴大等因素，並維持「買進」評等。",
-      "publishedAt": "2026-10-17T13:06:20.930Z",
-      "discoveredAt": "2026-10-17T13:06:20.930Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_801b30f5f358b5ef5a67",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9820431",
-      "title": "費半連八黑創金融海嘯最長頹勢 黃仁勳：這一切都會過去 AI 才剛起步 | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）執行長黃仁勳在近日AI股重挫之下仍表樂觀，認為AI帶來的效益很快就能化解投資人的疑慮。",
-      "publishedAt": "2026-10-17T09:26:23.371Z",
-      "discoveredAt": "2026-10-17T09:26:23.371Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

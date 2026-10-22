@@ -1,7 +1,157 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T22:17:04.640Z",
+  "updatedAt": "2026-10-22T00:44:30.921Z",
   "candidates": [
+    {
+      "id": "cand_56a1d001de2e7b9e3d99",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9830037",
+      "title": "Meta 財報／重磅宣布發行 C 類新股 上調資本支出 AI 代理狂吸千萬用戶 | 美股動態 | 國際 | 經濟日報",
+      "description": "社群媒體巨擘Meta公布上季營收年增26%，本季財測也高於市場預期，並表明旗下消費者AI代理應用程式Muse強勁成長，消息帶動盤後股價一度勁揚逾3%。Meta同時宣布調高資本支出展望、計劃推出新一類無投票權的股票，以協助為成本高昂的AI擴張計畫籌措資金。",
+      "publishedAt": "2026-10-22T00:44:16.988Z",
+      "discoveredAt": "2026-10-22T00:44:16.988Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4db8b2b15c3f0adbeae4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9829700",
+      "title": "輝達衝 AI 基建 擴產夥伴點名三台廠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達GTC柏林大會昨（21）日盛大登場，並宣布加速全球AI基礎建設布局，搶攻歐洲主權AI工廠商機，欣興、京元電及日月光投控旗下矽品三大台廠獲點名，分別承接載板、晶片測試及CPO光學引擎擴產重任，成為輝達擴大供應量能重要夥伴。",
+      "publishedAt": "2026-10-22T00:44:16.988Z",
+      "discoveredAt": "2026-10-22T00:44:16.988Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_671a23b8210c33ba36b0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9830037?from=edn_maintab_index",
+      "title": "Meta 財報／重磅宣布發行 C 類新股 上調資本支出 AI 代理狂吸千萬用戶 | 美股動態 | 國際 | 經濟日報",
+      "description": "社群媒體巨擘Meta公布上季營收年增26%，本季財測也高於市場預期，並表明旗下消費者AI代理應用程式Muse強勁成長，消息帶動盤後股價一度勁揚逾3%。Meta同時宣布調高資本支出展望、計劃推出新一類無投票權的股票，以協助為成本高昂的AI擴張計畫籌措資金。",
+      "publishedAt": "2026-10-22T00:44:16.988Z",
+      "discoveredAt": "2026-10-22T00:44:16.988Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f448c6b0df7cbf9aed8c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9830011?from=edn_maintab_index",
+      "title": "美股收盤／SpaceX 財報替 AI 股打氣 費半大漲2% 美超微飆近一成 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周三收高，SpaceX財報和美超微（Super Micro Computer）的樂觀展望，緩和市場對AI投資報酬的疑慮，帶動那斯達克指數上漲逾1%、費城半導體指數上漲2%。Meta和特斯拉盤後公布財報，股價續漲，但CoreWeave仍收黑，顯示投資人對高負債AI業者的戒心尚未消除。",
+      "publishedAt": "2026-10-22T00:44:16.988Z",
+      "discoveredAt": "2026-10-22T00:44:16.988Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c6f7bfa1476705bad151",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9830099?from=edn_newest_index",
+      "title": "AI泡沫風險？貝森特：我看不出有系統性問題 世界上最聰明人都投入 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國財政部長貝森特在一場閉門會議中告訴投資人，他不認為AI熱潮存在「系統性問題」，淡化外界對AI產業可能正陷入泡沫的疑慮。此時一些市場人士擔心，這波熱潮可能重演網路泡沫在2000年前後破裂前的情景。",
+      "publishedAt": "2026-10-22T00:44:16.988Z",
+      "discoveredAt": "2026-10-22T00:44:16.988Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_331e03e6821e840c189e",
       "sourceLastModified": null,
@@ -10,7 +160,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9829700?from=edn_maintab_index",
-      "title": "輝達衝 AI 基建 擴產夥伴點名三台廠 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達衝 AI 基建 擴產夥伴點名三台廠 2026-10-22 03:13",
       "description": "輝達GTC柏林大會昨（21）日盛大登場，並宣布加速全球AI基礎建設布局，搶攻歐洲主權AI工廠商機，欣興、京元電及日月光投控旗下矽品三大台廠獲點名，分別承接載板、晶片測試及CPO光學引擎擴產重任，成為輝達擴大供應量能重要夥伴。",
       "publishedAt": "2026-10-21T22:16:50.180Z",
       "discoveredAt": "2026-10-21T22:16:50.180Z",
@@ -24,7 +174,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -94,7 +244,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-21T22:16:49.850Z",
+      "sourceLastModified": "2026-10-22T00:44:13.499Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -168,7 +318,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -195,7 +345,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -222,7 +372,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -249,7 +399,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -276,7 +426,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -303,7 +453,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -330,7 +480,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -465,7 +615,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -489,7 +639,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1591,156 +1741,6 @@
         "Taiwan"
       ],
       "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b9db0a9e4ac5de85b0db",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9820083?from=edn_maintab_index",
-      "title": "東元射三箭 挑戰千億年營收 力拚三年內達標 2026-10-17 01:44",
-      "description": "東元昨（16）日舉辦70周年論壇暨慶祝大會，董事長利明献會後接受媒體聯訪時指出，公司下一個十年，將聚焦能源、AI資料中心基建、動力載具等三大商機，藉此挹注營運成長。",
-      "publishedAt": "2026-10-16T20:01:06.774Z",
-      "discoveredAt": "2026-10-16T20:01:06.774Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5583bff304ad53101360",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9819836?from=edn_maintab_index",
-      "title": "今日最夯 ETF／韓股重挫後強彈 009829上漲4.3% 2026-10-16 20:17",
-      "description": "韓國股市經歷前一交易日重挫後，16日出現強勁反彈，而AI投資前景、半導體股波動及外資動向，仍是市場關注焦點。值得注意的是，大華韓國KOSPI50（009829）16日漲4.3%，成交量逾3萬張，成為本日最夯ETF之一。",
-      "publishedAt": "2026-10-16T13:12:06.634Z",
-      "discoveredAt": "2026-10-16T13:12:06.634Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7416769e351988dc6c85",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9818450?from=edn_maintab_index",
-      "title": "1988年以來新高紀錄！中經院上修 GDP 年增率至12.16% | 總經趨勢 | 要聞 | 經濟日報",
-      "description": "AI需求持續強勁，帶動台灣內外需同步成長。中經院第三度上修今年經濟成長率（GDP）預測至12.16%，中經院院長連賢明16日表示，今年經濟成長動能相當均衡，內需的投資與消費，以及外需出口各貢獻約一半，顯示今年無論內外需景氣均十分暢旺。",
-      "publishedAt": "2026-10-16T03:01:45.641Z",
-      "discoveredAt": "2026-10-16T03:01:45.641Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_57efcf0ab7f5a9bfb6ca",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9818161?from=edn_newest_index",
-      "title": "採台積電製程 挑戰輝達 Bolt Graphics 擬募資1億美元 先攻 AI 以外市場 | 美股動態 | 國際 | 經濟日報",
-      "description": "規劃採用台積電製程的美國晶片設計新創公司Bolt Graphics，正尋求以約7億美元估值募資約1億美元，開發與輝達（NVIDIA）及超微（AMD）競爭的繪圖晶片。路透引述三位知情人士報導，這家矽谷業者將先攻科學運算、專業繪圖等市場，未來再進軍遊戲GPU。",
-      "publishedAt": "2026-10-15T23:53:55.334Z",
-      "discoveredAt": "2026-10-15T23:53:55.334Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e41d8d0bf22af0530960",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9817891?from=edn_maintab_index",
-      "title": "台積：獲利能力沒上限 AI 供需缺口仍大 將全力擴產 2026-10-16 01:53",
-      "description": "台積電昨（15）日舉行法說會，公布第3季稅後純益7,630.6億元，每股純益29.43元，創歷史新高，前三季大賺近八個股本。董座魏哲家高喊AI需求持續升溫，供需缺口仍大，並預告台積電本季美元營收續戰創新高，全年美元營收年增約44%，較先前一次「略高於40%」的說法給出更明確預估。",
-      "publishedAt": "2026-10-15T21:42:44.668Z",
-      "discoveredAt": "2026-10-15T21:42:44.668Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

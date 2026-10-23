@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T19:44:17.904Z",
+  "updatedAt": "2026-10-23T22:39:56.631Z",
   "candidates": [
+    {
+      "id": "cand_41ec881fa19faf4b2450",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9834150?from=edn_maintab_index",
+      "title": "美公債殖利率急轉跌破5% 專家：風險匯集 激出避險買盤 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國10年期公債殖利率22日跌破5%，跌幅是兩年多來最大，並帶動亞洲公債殖利率23日盤中挫跌，扭轉了全球公債價格近來的頹勢。投資人與分析師解讀，中東風險升溫、國際油價上漲、人工智慧（AI）投資疑慮加劇及法國債務憂慮等風險同時匯聚，都強化投資人的避險行為，激起公債買盤。",
+      "publishedAt": "2026-10-23T22:39:41.006Z",
+      "discoveredAt": "2026-10-23T22:39:41.006Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2c08bf74acc24b1a8d86",
       "sourceLastModified": null,
@@ -736,7 +766,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-23T19:39:33.760Z",
+      "sourceLastModified": "2026-10-23T22:39:14.163Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1693,36 +1723,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_89f4ee6f0da4eb2537f7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9823024?from=edn_newest_index",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-10-18T23:41:15.151Z",
-      "discoveredAt": "2026-10-18T23:41:15.151Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

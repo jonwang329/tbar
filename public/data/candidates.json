@@ -1,19 +1,19 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T22:42:49.776Z",
+  "updatedAt": "2026-10-23T00:59:12.563Z",
   "candidates": [
     {
-      "id": "cand_587463df388a77a9e465",
+      "id": "cand_101a0c2965705d83ace5",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9832714",
-      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5% | 美股動態 | 國際 | 經濟日報",
-      "description": "美國晶片股周四遭到拋售，費城半導體指數重挫6.7%，創6月23日以來最大單日跌幅，英特爾、超微（AMD）、晟碟（SanDisk）和邁威爾（Marvell）均跌逾8%。Meta加碼AI支出的計畫，再度引發市場對龐大投資和融資需求的疑慮，拖累那斯達克指數下跌2.6%，資金轉向公債避險。",
-      "publishedAt": "2026-10-22T22:42:34.796Z",
-      "discoveredAt": "2026-10-22T22:42:34.796Z",
+      "url": "https://money.udn.com/money/story/123398/9832800?from=edn_newest_index",
+      "title": "費半為何重摔6.7%？黃仁勳說了什麼？六重點一次看 | 美股動態 | 國際 | 經濟日報",
+      "description": "AI股賣壓從美國延燒亞洲。費城半導體指數周四重挫6.7%、台積電ADR下跌4.5%後，南韓Kospi指數周五開盤也跌2.8%。市場不只追問AI投資何時回本，更擔心支撐建設熱潮的資金能否接得上。黃仁勳雖強調需求旺盛，卻也坦言新型雲端業者缺乏營運資金，牽動市場最敏感的神經。",
+      "publishedAt": "2026-10-23T00:58:59.946Z",
+      "discoveredAt": "2026-10-23T00:58:59.946Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -33,14 +33,14 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_4758a2d45fe86d676047",
+      "id": "cand_587463df388a77a9e465",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9832714?from=edn_maintab_index",
-      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5% | 美股動態 | 國際 | 經濟日報",
+      "url": "https://money.udn.com/money/story/123398/9832714",
+      "title": "06:40 美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5%",
       "description": "美國晶片股周四遭到拋售，費城半導體指數重挫6.7%，創6月23日以來最大單日跌幅，英特爾、超微（AMD）、晟碟（SanDisk）和邁威爾（Marvell）均跌逾8%。Meta加碼AI支出的計畫，再度引發市場對龐大投資和融資需求的疑慮，拖累那斯達克指數下跌2.6%，資金轉向公債避險。",
       "publishedAt": "2026-10-22T22:42:34.796Z",
       "discoveredAt": "2026-10-22T22:42:34.796Z",
@@ -54,7 +54,37 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4758a2d45fe86d676047",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9832714?from=edn_maintab_index",
+      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5%",
+      "description": "美國晶片股周四遭到拋售，費城半導體指數重挫6.7%，創6月23日以來最大單日跌幅，英特爾、超微（AMD）、晟碟（SanDisk）和邁威爾（Marvell）均跌逾8%。Meta加碼AI支出的計畫，再度引發市場對龐大投資和融資需求的疑慮，拖累那斯達克指數下跌2.6%，資金轉向公債避險。",
+      "publishedAt": "2026-10-22T22:42:34.796Z",
+      "discoveredAt": "2026-10-22T22:42:34.796Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 95,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -930,7 +960,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -954,7 +984,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1696,36 +1726,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ea6d0c1734b717856e93",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9821398?from=edn_maintab_index",
-      "title": "費半連八黑 台積ADR下挫 本周聚焦 Meta、特斯拉財報 2026-10-18 02:30",
-      "description": "美國股市16日下跌，費城半導體指數連八黑，台積電ADR周線下挫近9%。國際油價上漲、AI業者債務疑慮加深，讓市場更擔心高舉債成本將拖慢AI投資。本周Meta、晶片業者及特斯拉（Tesla）等財報，將檢驗企業獲利能否支撐這波熱潮。",
-      "publishedAt": "2026-10-17T21:00:18.885Z",
-      "discoveredAt": "2026-10-17T21:00:18.885Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

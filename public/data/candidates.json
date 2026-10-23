@@ -1,7 +1,94 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T00:59:12.563Z",
+  "updatedAt": "2026-10-23T05:58:22.115Z",
   "candidates": [
+    {
+      "id": "cand_71ad042bf63b1534f375",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9832863",
+      "title": "投資人嫌貴、不再搶進 OpenAI 新一輪募資估值下修至1.25兆美元 | 美股動態 | 國際 | 經濟日報",
+      "description": "OpenAI力拚明年上市前募資300億美元，卻因部分投資人嫌貴，已將估值目標從1.4兆美元降至1.25兆美元。科技股重挫、AI支出疑慮，加上投資人想先看Anthropic上市表現，都讓這輪募資不如以往熱絡。",
+      "publishedAt": "2026-10-23T05:58:10.168Z",
+      "discoveredAt": "2026-10-23T05:58:10.168Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3c0476b7de3dc95959aa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9832961?from=edn_maintab_index",
+      "title": "發生什麼事？美國10年期公債殖利率跌破5% 跌幅兩年多最大 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國10年期公債殖利率22日跌破5%，且跌幅是兩年多來最大，並帶動亞洲公債殖利率23日盤中下滑，扭轉了全球公債價格近來的頹勢，投資人與分析師認為，原因是中東風險升溫、國際油價上漲、對人工智慧（AI）投資報酬的疑慮加劇及法國債務憂慮等風險同時匯聚，強化了避險買盤。",
+      "publishedAt": "2026-10-23T05:58:10.168Z",
+      "discoveredAt": "2026-10-23T05:58:10.168Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9cb4385be6de82af24a9",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "description": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
+      "publishedAt": "Fri, 23 Oct 2026 02:00:13 GMT",
+      "discoveredAt": "2026-10-23T05:58:10.168Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_101a0c2965705d83ace5",
       "sourceLastModified": null,
@@ -144,7 +231,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -171,7 +258,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -258,7 +345,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -285,7 +372,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -312,7 +399,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -339,7 +426,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1636,96 +1723,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d53b9cd156573d9141a9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9822415?from=edn_hottest_index",
-      "title": "亞股明開盤不妙？美科技股賣壓加劇 成亞洲 AI 交易新風險",
-      "description": "美國科技股賣壓上周加劇，本周將形成亞洲人工智慧（AI）交易的新風險：美國籌建資料中心資金的融資成本日漸升高，可能掐斷維續當前熱潮所需的支出，威脅亞洲科技供應鏈的獲利，不利亞股漲勢的續航力。",
-      "publishedAt": "2026-10-18T16:56:46.733Z",
-      "discoveredAt": "2026-10-18T16:56:46.733Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7670d07c6f067d55ec26",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9821842?from=edn_hottest_index",
-      "title": "美股四大指數、台指期夜盤遭血洗 國銀這樣看股市走勢",
-      "description": "美股四大指數標普500、道瓊、那斯達克和費城半導體指數周五收盤皆呈現下跌，其中費半更下跌3.83%，台指期夜盤也遭血洗重挫1144點，市場對於AI過度投資的擔憂再起，引發AI拋售潮，並帶動美國十年期公債殖利率一周內迅速下滑14個基點，本國銀行分析認為，科技業資本支出使債務大增，股市短期修正，但中長期仍審慎樂觀，建議投資人可逢低布局。",
-      "publishedAt": "2026-10-18T13:41:36.865Z",
-      "discoveredAt": "2026-10-18T13:41:36.865Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_79aa3336b41e620476f9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9821839?from=edn_maintab_index",
-      "title": "AI CPO 促全球半導體測試產值上看208億美元 穎崴等擴產搶食市場商機 2026-10-18 11:16",
-      "description": "受惠AI驅動測試與量測的價值重估，加上共封裝光學（CPO）逐步邁入量產，正反映在全球半導體測試市場成長曲線上，機構SEMI預估可望上看208億美元。目前泰瑞達等大投資收購，至於量測儀器大廠致茂（2360）、穎崴（6515）、第三方測試機構汎銓（6830）、閎康（3587）等積極擴產搶食市場商機。",
-      "publishedAt": "2026-10-18T09:51:10.017Z",
-      "discoveredAt": "2026-10-18T09:51:10.017Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

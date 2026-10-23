@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T11:30:12.066Z",
+  "updatedAt": "2026-10-23T15:53:35.847Z",
   "candidates": [
+    {
+      "id": "cand_2c08bf74acc24b1a8d86",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9833914?from=edn_maintab_index",
+      "title": "該抱還是該逃？AI新創上市熄火 令投資人擔憂繁榮期即將結束 | 美股動態 | 國際 | 經濟日報",
+      "description": "本周南韓資料中心新創業者Elice公司股票上市第一天，股價就重挫32%，在過去幾周中共有六家公司遭遇挫折，顯示投資人對人工智慧（AI）產業的展望轉壞。分析師指出，Elice上市災難再次證實投資人的思維已經從「買進所有AI」，轉變成「質疑所有AI」。",
+      "publishedAt": "2026-10-23T15:53:21.869Z",
+      "discoveredAt": "2026-10-23T15:53:21.869Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e961d6ddb24f09afadfa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9832714?from=edn_hottest_index",
+      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5% | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股周四遭到拋售，費城半導體指數重挫6.7%，創6月23日以來最大單日跌幅，英特爾、超微（AMD）、晟碟（SanDisk）和邁威爾（Marvell）均跌逾8%。Meta加碼AI支出的計畫，再度引發市場對龐大投資和融資需求的疑慮，拖累那斯達克指數下跌2.6%，資金轉向公債避險。",
+      "publishedAt": "2026-10-23T15:53:21.869Z",
+      "discoveredAt": "2026-10-23T15:53:21.869Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_71ad042bf63b1534f375",
       "sourceLastModified": null,
@@ -81,7 +141,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -258,7 +318,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -676,7 +736,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-23T11:22:10.942Z",
+      "sourceLastModified": "2026-10-23T15:03:43.181Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1652,66 +1712,6 @@
       "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
       "publishedAt": "2026-10-18T23:41:15.151Z",
       "discoveredAt": "2026-10-18T23:41:15.151Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f63bc832b88b8fd7505",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9822635?from=edn_course_index",
-      "title": "李沃牆 / 淡江大學財金系教授 AI 熱潮加劇全球債務風險",
-      "description": "國際金融協會（IIF）9月底公布最新研究報告指出，今年上半年全球債務增加10兆美元，總額突破365兆美元。其中，美、日、法、英等四國面臨持續龐大的財政赤字與不斷增加的利息支出。去年，已開發國家為國際性交易的政府公債所支付的利息逾3.3兆美元。無獨有偶，10月中於曼谷舉行的國際貨幣基金（IMF）與世界銀行年會，全球債務攀升、能源價格高漲與人工智慧（AI）投資熱潮交互影響，亦成為國際經濟政策的重要議題。",
-      "publishedAt": "2026-10-18T21:38:13.829Z",
-      "discoveredAt": "2026-10-18T21:38:13.829Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 30,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_37e83095984615153a9f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9822415?from=edn_maintab_index",
-      "title": "亞股明開盤不妙？美科技股賣壓加劇 成亞洲 AI 交易新風險 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國科技股賣壓上周加劇，本周將形成亞洲人工智慧（AI）交易的新風險：美國籌建資料中心資金的融資成本日漸升高，可能掐斷維續當前熱潮所需的支出，威脅亞洲科技供應鏈的獲利，不利亞股漲勢的續航力。",
-      "publishedAt": "2026-10-18T16:56:46.733Z",
-      "discoveredAt": "2026-10-18T16:56:46.733Z",
       "topics": [
         "Taiwan business",
         "investment",

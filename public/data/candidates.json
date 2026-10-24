@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T19:39:23.317Z",
+  "updatedAt": "2026-10-24T21:56:30.155Z",
   "candidates": [
+    {
+      "id": "cand_42d6dfea03759f593704",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9835505?from=edn_maintab_index",
+      "title": "美晶片股本月來跌逾15% 科技三強財報 市場緊盯 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股本月已跌逾15%，美股本周將迎接微軟、Alphabet和亞馬遜財報，檢驗龐大AI支出的資金來源和投資回報。聯準會（Fed）決策、通膨數據接連登場，油價又逼近每桶117美元，科技股能否止穩面臨多重考驗。",
+      "publishedAt": "2026-10-24T21:56:16.203Z",
+      "discoveredAt": "2026-10-24T21:56:16.203Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_8ecedfeded4b8de2ad6c",
       "sourceLastModified": null,
@@ -1701,33 +1731,6 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fae58154985269c64a81",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "description": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […]",
-      "publishedAt": "Mon, 19 Oct 2026 15:00:31 GMT",
-      "discoveredAt": "2026-10-19T20:11:14.335Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

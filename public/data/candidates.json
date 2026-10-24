@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T14:06:43.608Z",
+  "updatedAt": "2026-10-24T17:24:37.247Z",
   "candidates": [
+    {
+      "id": "cand_8ecedfeded4b8de2ad6c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9835578?from=edn_newest_index",
+      "title": "立康生命科技亮相2026阿布扎比未來健康峰會，展示個性化腫瘤免疫治療創新成果及國際化願景 | 全球企業動態 | 商情 | 經濟日報",
+      "description": "北京2026年10月24日 /美通社/ -- 立康生命科技作為大會贊助商及參展企業，參加了10月20日至22日在阿布扎比國家展覽中心舉行的2026阿布扎比未來健康峰會（Abu Dhabi Future Health Summit 2026），向國際醫療健康領域展示公司人工智能驅動的個性化腫瘤免疫治療技術平台及臨床研發進展。此次參會標誌着立康拓展國際交流與合作邁出重要一步。 本屆峰會由阿布扎比衛生部（Department of Health – Abu Dhabi）召集，以「感知即預測」（To Sense Is to Predict）為主題，匯聚全球醫療健康、科研及科技創新領域的領袖和專家，共同探討未來精準醫療的發展方向。 10月20日，阿聯酋總統謝赫穆罕默德•本•扎耶德•阿勒納哈揚殿下接見了出席峰會的國際醫療健康領域代表團，立康生命科技聯合創始人兼副董事長張永康作為代表團成員參加會見。10月21日，張永康亦在峰會期間與到訪的阿布扎比王儲謝赫哈立德•本•穆罕默德•本•扎耶德•阿勒納哈揚殿下會面。在與兩位領導人的簡短交流中，張永康介紹了立康計劃將個性化腫瘤免疫治療技術及在研產品引入阿布扎比",
+      "publishedAt": "2026-10-24T17:24:28.042Z",
+      "discoveredAt": "2026-10-24T17:24:28.042Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6f4f792cb082003f842b",
       "sourceLastModified": null,
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -438,7 +468,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1698,36 +1728,6 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eb2e462df8408af1d973",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9823262?from=edn_maintab_index",
-      "title": "資料中心亂流不斷 Nscale 上市拚300億美元估值 投資人傳促砍至160億起 2026-10-19 09:59",
-      "description": "",
-      "publishedAt": "2026-10-19T06:57:49.059Z",
-      "discoveredAt": "2026-10-19T06:57:49.059Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T05:56:27.603Z",
+  "updatedAt": "2026-10-24T10:33:18.092Z",
   "candidates": [
+    {
+      "id": "cand_6f4f792cb082003f842b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9834192?from=edn_hottest_index",
+      "title": "科技三巨頭傳付千億 包載板產能 帶動欣興、景碩、南電加速擴廠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "英特爾、輝達與超微三大科技巨頭為了確保人工智慧（AI）供應鏈產能，業界傳出三強已付出總額逾新台幣千億元訂金，預定高階載板廠長期產能，但IC載板三強欣興、景碩與南電積極擴產以改善供應鏈瓶頸。今年載板大廠已宣布將投資建廠規模創下新高，累計達到1,612億元的新紀錄。",
+      "publishedAt": "2026-10-24T10:33:07.211Z",
+      "discoveredAt": "2026-10-24T10:33:07.211Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0728dc005596ee5a1ed9",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9834624?from=edn_maintab_index",
-      "title": "喊「AI 沒泡沫」也難安人心 科技股失血、債券 ETF 吸金580億美元 | 美股動態 | 國際 | 經濟日報",
+      "title": "喊「AI 沒泡沫」也難安人心 科技股失血、債券 ETF 吸金580億美元 2026-10-24 10:03",
       "description": "黑石（Blackstone）總裁說AI沒有泡沫，美國財政部長貝森特也不認為這波熱潮存在「系統性問題」。但無論華爾街高層如何安撫，市場仍不放心。科技股下跌、信用風險升高，資金重新湧向美國公債，顯示投資人正重新評估先前幾乎一面倒看好的AI投資。",
       "publishedAt": "2026-10-24T05:56:16.163Z",
       "discoveredAt": "2026-10-24T05:56:16.163Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1693,36 +1723,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3bb6c04bdab4a1dbfc26",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9823024?from=edn_hottest_index",
-      "title": "本周開盤前 五件國際事不可不知",
-      "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-10-19T01:46:37.534Z",
-      "discoveredAt": "2026-10-19T01:46:37.534Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

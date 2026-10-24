@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T01:09:21.886Z",
+  "updatedAt": "2026-10-24T05:56:27.603Z",
   "candidates": [
+    {
+      "id": "cand_0728dc005596ee5a1ed9",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9834624?from=edn_maintab_index",
+      "title": "喊「AI 沒泡沫」也難安人心 科技股失血、債券 ETF 吸金580億美元 | 美股動態 | 國際 | 經濟日報",
+      "description": "黑石（Blackstone）總裁說AI沒有泡沫，美國財政部長貝森特也不認為這波熱潮存在「系統性問題」。但無論華爾街高層如何安撫，市場仍不放心。科技股下跌、信用風險升高，資金重新湧向美國公債，顯示投資人正重新評估先前幾乎一面倒看好的AI投資。",
+      "publishedAt": "2026-10-24T05:56:16.163Z",
+      "discoveredAt": "2026-10-24T05:56:16.163Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b7f159c72a3c207e61a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9834977?from=edn_newest_index",
+      "title": "英國加碼AI安全投資 防範網攻與生物威脅",
+      "description": "",
+      "publishedAt": "2026-10-24T05:56:16.163Z",
+      "discoveredAt": "2026-10-24T05:56:16.163Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_41ec881fa19faf4b2450",
       "sourceLastModified": null,
@@ -24,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -171,7 +231,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -435,7 +495,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -462,7 +522,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -489,7 +549,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -516,7 +576,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1663,66 +1723,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1584ccb41c74b6d9408a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9823024",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-10-18T23:41:15.151Z",
-      "discoveredAt": "2026-10-18T23:41:15.151Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7241fca09b8d6e49dbec",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9823024?from=edn_maintab_index",
-      "title": "本周開盤前 五件國際事不可不知 2026-10-19 07:05",
-      "description": "美股期貨周一走高，標普500期貨扭轉早盤跌勢，上漲0.2%，布蘭特原油下跌0.7%。本周逾70家標普500企業將公布財報，包括特斯拉和Meta，市場將檢驗龐大AI投資能否帶來足夠報酬。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-10-18T23:41:15.151Z",
-      "discoveredAt": "2026-10-18T23:41:15.151Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

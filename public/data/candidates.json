@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-25T17:19:55.133Z",
+  "updatedAt": "2026-10-25T19:49:13.643Z",
   "candidates": [
+    {
+      "id": "cand_b41319ec3cac3be5fc5d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9836750?from=edn_maintab_index",
+      "title": "晶片業財報掀牌關鍵 48 小時 市場聚焦資本支出、產能限制等議題 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）與晶片產業本周將面臨「關鍵財報48小時」，從SK海力士到微軟、Alphabet、三星電子及亞馬遜，將陸續在台灣時間周三（28日）上午到周五凌晨公布上季財報，市場聚焦這些超大規模雲端業者的資本支出與產能限制，記憶體廠的觀察重點則在擴產規畫等。",
+      "publishedAt": "2026-10-25T19:49:02.109Z",
+      "discoveredAt": "2026-10-25T19:49:02.109Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_42d6dfea03759f593704",
       "sourceLastModified": null,
@@ -906,7 +936,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -916,7 +946,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-24T01:08:59.241Z",
+      "sourceLastModified": "2026-10-25T19:48:38.939Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -933,7 +963,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1696,36 +1726,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fbbe2dbfcb48e0c86763",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9824932?from=edn_maintab_index",
-      "title": "國家隊救援 台股拚反彈 法人研判探底危機已過 2026-10-20 02:22",
-      "description": "台股昨（19）日早盤面臨AI疑慮、通膨等一系列利空衝擊，指數一度大跌941點，殺低逼近季線大關，然隨盤中政府信心喊話，國家隊進場護盤，搭配內資買盤逢低買進，台股跌點大幅收斂。法人表示，台股探底危機已過，六大利多看好台股反彈。",
-      "publishedAt": "2026-10-19T20:11:14.335Z",
-      "discoveredAt": "2026-10-19T20:11:14.335Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

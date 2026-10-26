@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-25T22:12:11.830Z",
+  "updatedAt": "2026-10-26T00:24:41.523Z",
   "candidates": [
+    {
+      "id": "cand_4bbe46c3bbf2e49dc3ac",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9836750?from=edn_hottest_index",
+      "title": "晶片業財報掀牌關鍵 48 小時 市場聚焦資本支出、產能限制等議題 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）與晶片產業本周將面臨「關鍵財報48小時」，從SK海力士到微軟、Alphabet、三星電子及亞馬遜，將陸續在台灣時間周三（28日）上午到周五凌晨公布上季財報，市場聚焦這些超大規模雲端業者的資本支出與產能限制，記憶體廠的觀察重點則在擴產規畫等。",
+      "publishedAt": "2026-10-26T00:24:30.640Z",
+      "discoveredAt": "2026-10-26T00:24:30.640Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b41319ec3cac3be5fc5d",
       "sourceLastModified": null,
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1696,36 +1726,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0019b90fe09e7c17881b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9825195?from=edn_newest_index",
-      "title": "再談450億美元算力大單 輝達投資的Nscale攜Anthropic拚IPO身價 | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）投資的AI雲端業者Nscale，據報正和Claude開發商Anthropic洽談第二筆大型算力合約，價值可能達450億美元，將由美國西維吉尼亞州Monarch園區的第二棟資料中心提供服務。",
-      "publishedAt": "2026-10-19T23:44:09.770Z",
-      "discoveredAt": "2026-10-19T23:44:09.770Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

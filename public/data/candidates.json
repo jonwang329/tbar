@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T00:24:41.523Z",
+  "updatedAt": "2026-10-26T05:08:12.382Z",
   "candidates": [
+    {
+      "id": "cand_9fb4f8befd0cb4f5aea7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9837029?from=edn_hottest_index",
+      "title": "馬斯克稱SpaceX籌妥400億美元購輝達晶片 料新雲端「孔雀魚」般淘汰 | 國際焦點 | 國際 | 經濟日報",
+      "description": "馬斯克表示，SpaceX已完成規模400億美元的舉債交易，用來購買發展AI所需的晶片。不過，他未說明所謂「完成」的具體情況，投資人是否已同意融資定價，也還不清楚。",
+      "publishedAt": "2026-10-26T05:08:01.987Z",
+      "discoveredAt": "2026-10-26T05:08:01.987Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_4bbe46c3bbf2e49dc3ac",
       "sourceLastModified": null,
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -645,7 +675,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -672,7 +702,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -699,7 +729,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -726,7 +756,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -976,7 +1006,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-25T19:48:38.939Z",
+      "sourceLastModified": "2026-10-26T01:27:29.752Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1696,36 +1726,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4594e72bef30939dbaf7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9825169?from=edn_maintab_index",
-      "title": "美股收盤／費半終止連八黑 晶片股吸引逢低買盤 AI 反彈能否續航看財報 2026-10-20 06:56",
-      "description": "美國股市周一漲跌互見，晶片股吸引逢低買盤，帶動那斯達克指數上漲逾1%，費城半導體指數也終止連八黑。投資人押注AI投資仍能支撐企業獲利，但公債殖利率續升，融資疑慮尚未消除，本周Meta、特斯拉等財報將是反彈能否延續的重要考驗。",
-      "publishedAt": "2026-10-19T23:44:09.770Z",
-      "discoveredAt": "2026-10-19T23:44:09.770Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

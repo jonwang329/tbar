@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T11:10:15.463Z",
+  "updatedAt": "2026-10-26T17:24:40.458Z",
   "candidates": [
+    {
+      "id": "cand_2c90c5b1a463ea07c2d7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9838199?from=edn_maintab_index",
+      "title": "Meta 增資950億美元 輝達等三晶片巨頭捧場 | 美股動態 | 國際 | 經濟日報",
+      "description": "臉書母公司Meta，正尋求多達950億美元的股權融資，以支應人工智慧（AI）基礎設施及個人超級智慧投資。輝達（NVIDIA）、超微（AMD）和博通，已同意合計認購最多50億美元的普通股，激勵Meta股價26日盤前上漲1.6%。",
+      "publishedAt": "2026-10-26T17:24:26.778Z",
+      "discoveredAt": "2026-10-26T17:24:26.778Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_297ffe910e8a69f503b1",
       "sourceLastModified": null,
@@ -618,7 +648,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1036,7 +1066,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-26T01:27:29.752Z",
+      "sourceLastModified": "2026-10-26T17:15:06.977Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1701,36 +1731,6 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6e870477f090154031c2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9825331",
-      "title": "超額認購逾400倍竟破發 南韓 AI 雲端業者 Elice 掛牌首日重挫32% | 國際焦點 | 國際 | 經濟日報",
-      "description": "南韓AI雲端業者Elice周二在Kosdaq掛牌，盤中一度重挫32%。這個Kosdaq今年最大IPO籌得約1.51億美元，首日股價卻大跌，凸顯市場對AI基礎設施投資的疑慮。",
-      "publishedAt": "2026-10-20T02:08:47.825Z",
-      "discoveredAt": "2026-10-20T02:08:47.825Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

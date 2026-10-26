@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T05:08:12.382Z",
+  "updatedAt": "2026-10-26T11:10:15.463Z",
   "candidates": [
+    {
+      "id": "cand_297ffe910e8a69f503b1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9837595?from=edn_maintab_index",
+      "title": "SK海力士傳配16兆韓元特別股利 兩檔槓桿 ETF 將清算退場 | 國際焦點 | 國際 | 經濟日報",
+      "description": "SK海力士傳出擬發放16兆韓元（120億美元）特別股利，股價周一盤中逆勢漲3%。但AI投資熱降溫，美國兩檔連結其ADR的槓桿和反向ETF，掛牌僅數月便將清算退場。",
+      "publishedAt": "2026-10-26T11:10:04.597Z",
+      "discoveredAt": "2026-10-26T11:10:04.597Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9fb4f8befd0cb4f5aea7",
       "sourceLastModified": null,
@@ -1685,36 +1715,6 @@
       "description": "南韓AI雲端業者Elice周二在Kosdaq掛牌，盤中一度重挫32%。這個Kosdaq今年最大IPO籌得約1.51億美元，首日股價卻大跌，凸顯市場對AI基礎設施投資的疑慮。",
       "publishedAt": "2026-10-20T02:08:47.825Z",
       "discoveredAt": "2026-10-20T02:08:47.825Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d4a516d13b12aa42d765",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9825169",
-      "title": "美股收盤／費半終止連八黑 晶片股吸引逢低買盤 AI 反彈能否續航看財報 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市周一漲跌互見，晶片股吸引逢低買盤，帶動那斯達克指數上漲逾1%，費城半導體指數也終止連八黑。投資人押注AI投資仍能支撐企業獲利，但公債殖利率續升，融資疑慮尚未消除，本周Meta、特斯拉等財報將是反彈能否延續的重要考驗。",
-      "publishedAt": "2026-10-19T23:44:09.770Z",
-      "discoveredAt": "2026-10-19T23:44:09.770Z",
       "topics": [
         "Taiwan business",
         "investment",

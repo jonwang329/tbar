@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T17:24:40.458Z",
+  "updatedAt": "2026-10-26T21:45:37.018Z",
   "candidates": [
+    {
+      "id": "cand_7fe3e6a9613c1d4f29ec",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9838443?from=edn_maintab_index",
+      "title": "SpaceX 狂掃輝達晶片 台積、廣達等有望迎新一波訂單 | 產業熱點 | 產業 | 經濟日報",
+      "description": "SpaceX執行長馬斯克宣布，SpaceX將完成400億美元（逾新台幣1.2兆元）設備融資，將用來購買發展AI所需晶片，並以輝達GPU為主要採購對象。法人看好，SpaceX砸重金買輝達AI晶片衝刺AI，將帶旺台積電、鴻海、廣達、緯創等協力廠。",
+      "publishedAt": "2026-10-26T21:45:21.245Z",
+      "discoveredAt": "2026-10-26T21:45:21.245Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2c90c5b1a463ea07c2d7",
       "sourceLastModified": null,
@@ -1704,33 +1734,6 @@
       "businessScore": 85,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6b224a43d0aa7f3e6f58",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "description": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some […]",
-      "publishedAt": "Tue, 20 Oct 2026 05:00:00 GMT",
-      "discoveredAt": "2026-10-20T07:37:32.851Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T00:53:28.034Z",
+  "updatedAt": "2026-10-27T05:55:12.382Z",
   "candidates": [
     {
       "id": "cand_d815a7dc14511f960f6b",
@@ -531,7 +531,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1126,7 +1126,7 @@
     },
     {
       "id": "cand_5734a4d733e1168bf53f",
-      "sourceLastModified": "2026-10-26T17:15:06.977Z",
+      "sourceLastModified": "2026-10-27T05:54:47.163Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",

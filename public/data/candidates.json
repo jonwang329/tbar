@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T16:52:25.266Z",
+  "updatedAt": "2026-10-27T21:03:32.092Z",
   "candidates": [
+    {
+      "id": "cand_db43b140dfa1f06ac578",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9840840?from=edn_maintab_index",
+      "title": "Anthropic IPO 招股書揭密將砸 8,000 億美元買 TPU、GPU 等 台鏈沾光 | 產業熱點 | 產業 | 經濟日報",
+      "description": "AI模型開發商Anthropic申請首次公開發行股票（IPO），招股書申報文件大揭密，公司承諾未來多年運算資源支出高達逾8,000億美元（逾新台幣25兆元），將大舉採購Google張量處理器（TPU）、輝達GPU，以及亞馬遜的ASIC自研晶片等。",
+      "publishedAt": "2026-10-27T21:03:15.266Z",
+      "discoveredAt": "2026-10-27T21:03:15.266Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_3f69b746e3a0b622a02b",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124480/9840486?from=edn_maintab_index",
-      "title": "AI 擠兌會發生？1／AI代理專找高利存款 銀行恐發生無聲擠兌 極端狀況真的會發生？ | 深度報導 | 專題 | 經濟日報",
+      "title": "AI 擠兌會發生？1／AI代理專找高利存款 銀行恐發生無聲擠兌 極端狀況真的會發生？ 2026-10-27 20:17",
       "description": "Meta上個月初推出個人AI代理Muse，並與金融數據平台Plaid合作，讓用戶分享在各家銀行帳戶餘額、交易、投資持股等資料，Plaid目前在美國可連結上萬家金融機構。這項訊息卻讓美股銀行類股一度受挫，因市場擔心，消費者可能透過AI代理快速搬動銀行存款。這種無聲的AI擠兌真的會發生嗎？台灣將來也會出現嗎？",
       "publishedAt": "2026-10-27T16:52:07.221Z",
       "discoveredAt": "2026-10-27T16:52:07.221Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -51,7 +81,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1647,66 +1677,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_18d3cb88d20dfdaac933",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9827164?from=edn_maintab_index",
-      "title": "台股愈熱詐騙愈多？第3季通報近9000件 金管會揭兩原因 | 金融脈動 | 金融 | 經濟日報",
-      "description": "台股愈熱、詐騙愈狂？據金管會統計，今年第3季Google、Meta投資詐騙廣告通報8,962件，季增近45%、年增13%，已連兩季攀升且首度轉為年增；主因台股熱絡帶動投資詐騙，加上AI爬蟲提升蒐報效率。",
-      "publishedAt": "2026-10-20T17:56:05.320Z",
-      "discoveredAt": "2026-10-20T17:56:05.320Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_474cc06335ceacacc313",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9827148?from=edn_maintab_index",
-      "title": "美股早盤／油價登五個月高 AI 憂慮重燃 費半摔1% | 美股動態 | 國際 | 經濟日報",
-      "description": "南韓資料中心公司Elice掛牌首日，股價跳水重挫，再次點燃AI憂慮，美國晶片股反彈熄火；此時布蘭特油價又站上五個月新高，傷害市場情緒，美股20日早盤四大指數漲跌互見。",
-      "publishedAt": "2026-10-20T17:56:05.320Z",
-      "discoveredAt": "2026-10-20T17:56:05.320Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_d054342a6a369683486d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1734,6 +1704,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7663001a610357e20f9f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+      "description": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
+      "publishedAt": "Tue, 27 Oct 2026 05:52:00 GMT",
+      "discoveredAt": "2026-10-27T11:40:49.595Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

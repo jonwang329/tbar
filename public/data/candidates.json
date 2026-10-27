@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T05:55:12.382Z",
+  "updatedAt": "2026-10-27T11:41:02.433Z",
   "candidates": [
     {
       "id": "cand_d815a7dc14511f960f6b",
@@ -1650,17 +1650,47 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_c6fc4916b39ca6fee16e",
+      "id": "cand_c17cc90934226338d3b3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9839973?from=edn_maintab_index",
+      "title": "輝達豪砸30億美元入股 Meta！攜手擴大 AI 代理 Muse 合作 2026-10-27 15:33",
+      "description": "",
+      "publishedAt": "2026-10-27T11:40:49.595Z",
+      "discoveredAt": "2026-10-27T11:40:49.595Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7663001a610357e20f9f",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
       "sourceName": "NVIDIA Newsroom",
       "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure",
-      "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-      "description": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that […]",
-      "publishedAt": "Tue, 20 Oct 2026 10:30:11 GMT",
-      "discoveredAt": "2026-10-21T14:39:17.367Z",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+      "description": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
+      "publishedAt": "Tue, 27 Oct 2026 05:52:00 GMT",
+      "discoveredAt": "2026-10-27T11:40:49.595Z",
       "topics": [
         "GPU",
         "AI infrastructure",
@@ -1668,72 +1698,39 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
-      "businessScore": 85,
+      "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     },
     {
-      "id": "cand_217bdb4d772b0522860d",
+      "id": "cand_d1ad397a0e42592f7ab5",
       "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9826227",
-      "title": "怕 AI 熱潮翻車 投資人搶買 CDS 避險 連輝達、Meta 保費也飆新高 | 美股動態 | 國際 | 經濟日報",
-      "description": "投資人擔心AI熱潮逆轉，紛紛搶買信用違約交換（CDS）避險，讓這項在全球金融危機期間聲名大噪的金融工具，交易量再度激增。",
-      "publishedAt": "2026-10-20T07:37:32.851Z",
-      "discoveredAt": "2026-10-20T07:37:32.851Z",
+      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics",
+      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "description": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
+      "publishedAt": "Thu, 22 Oct 2026 05:00:23 GMT",
+      "discoveredAt": "2026-10-22T05:26:19.622Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
+        "GPU",
+        "AI infrastructure",
+        "networking",
         "data center"
       ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
       "taiwanScore": 90,
-      "businessScore": 85,
+      "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c34a0b21a96c38577d23",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9826227?from=edn_maintab_index",
-      "title": "怕 AI 熱潮翻車 投資人搶買 CDS 避險 連輝達、Meta 保費也飆新高 | 美股動態 | 國際 | 經濟日報",
-      "description": "投資人擔心AI熱潮逆轉，紛紛搶買信用違約交換（CDS）避險，讓這項在全球金融危機期間聲名大噪的金融工具，交易量再度激增。",
-      "publishedAt": "2026-10-20T07:37:32.851Z",
-      "discoveredAt": "2026-10-20T07:37:32.851Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

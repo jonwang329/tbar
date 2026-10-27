@@ -1,7 +1,64 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T11:41:02.433Z",
+  "updatedAt": "2026-10-27T16:52:25.266Z",
   "candidates": [
+    {
+      "id": "cand_3f69b746e3a0b622a02b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124480/9840486?from=edn_maintab_index",
+      "title": "AI 擠兌會發生？1／AI代理專找高利存款 銀行恐發生無聲擠兌 極端狀況真的會發生？ | 深度報導 | 專題 | 經濟日報",
+      "description": "Meta上個月初推出個人AI代理Muse，並與金融數據平台Plaid合作，讓用戶分享在各家銀行帳戶餘額、交易、投資持股等資料，Plaid目前在美國可連結上萬家金融機構。這項訊息卻讓美股銀行類股一度受挫，因市場擔心，消費者可能透過AI代理快速搬動銀行存款。這種無聲的AI擠兌真的會發生嗎？台灣將來也會出現嗎？",
+      "publishedAt": "2026-10-27T16:52:07.221Z",
+      "discoveredAt": "2026-10-27T16:52:07.221Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_442eaee41e488d993665",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+      "description": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications.",
+      "publishedAt": "Tue, 27 Oct 2026 16:00:00 GMT",
+      "discoveredAt": "2026-10-27T16:52:07.221Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d815a7dc14511f960f6b",
       "sourceLastModified": null,
@@ -1650,17 +1707,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_c17cc90934226338d3b3",
+      "id": "cand_d054342a6a369683486d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9839973?from=edn_maintab_index",
-      "title": "輝達豪砸30億美元入股 Meta！攜手擴大 AI 代理 Muse 合作 2026-10-27 15:33",
-      "description": "",
-      "publishedAt": "2026-10-27T11:40:49.595Z",
-      "discoveredAt": "2026-10-27T11:40:49.595Z",
+      "url": "https://money.udn.com/money/story/5648/9840652?from=edn_maintab_index",
+      "title": "經濟日報2作品入圍消費者權益報導獎 聚焦AI代理與醫療險理賠爭議 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "2026年消費者權益報導獎公布入圍名單，經濟日報資深記者邱金蘭以「AI代理風險多」、「醫療險賠不賠」兩件作品，入圍平面及網路（文字）類即時報導獎；同時，聯合報也以「揭開叫車平台安全漏洞」入圍。",
+      "publishedAt": "2026-10-27T16:52:07.221Z",
+      "discoveredAt": "2026-10-27T16:52:07.221Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1677,60 +1734,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7663001a610357e20f9f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
-      "description": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
-      "publishedAt": "Tue, 27 Oct 2026 05:52:00 GMT",
-      "discoveredAt": "2026-10-27T11:40:49.595Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d1ad397a0e42592f7ab5",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics",
-      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "description": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
-      "publishedAt": "Thu, 22 Oct 2026 05:00:23 GMT",
-      "discoveredAt": "2026-10-22T05:26:19.622Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

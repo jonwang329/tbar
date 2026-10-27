@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T21:45:37.018Z",
+  "updatedAt": "2026-10-27T00:53:28.034Z",
   "candidates": [
+    {
+      "id": "cand_d815a7dc14511f960f6b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9838747",
+      "title": "為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力 | 國際焦點 | 國際 | 經濟日報",
+      "description": "微軟周一（26日）表示，將向約6萬名員工提供自願離職方案，這相當於全球逾四分之一的員工，藉此削減成本、調整人力結構，並協助支應大規模AI投資的資金需求。",
+      "publishedAt": "2026-10-27T00:53:15.524Z",
+      "discoveredAt": "2026-10-27T00:53:15.524Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7fe3e6a9613c1d4f29ec",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9838443?from=edn_maintab_index",
-      "title": "SpaceX 狂掃輝達晶片 台積、廣達等有望迎新一波訂單 | 產業熱點 | 產業 | 經濟日報",
+      "title": "SpaceX 狂掃輝達晶片 台積、廣達等有望迎新一波訂單 2026-10-27 02:23",
       "description": "SpaceX執行長馬斯克宣布，SpaceX將完成400億美元（逾新台幣1.2兆元）設備融資，將用來購買發展AI所需晶片，並以輝達GPU為主要採購對象。法人看好，SpaceX砸重金買輝達AI晶片衝刺AI，將帶旺台積電、鴻海、廣達、緯創等協力廠。",
       "publishedAt": "2026-10-26T21:45:21.245Z",
       "discoveredAt": "2026-10-26T21:45:21.245Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1686,36 +1716,6 @@
       "url": "https://money.udn.com/money/story/123398/9826227?from=edn_maintab_index",
       "title": "怕 AI 熱潮翻車 投資人搶買 CDS 避險 連輝達、Meta 保費也飆新高 | 美股動態 | 國際 | 經濟日報",
       "description": "投資人擔心AI熱潮逆轉，紛紛搶買信用違約交換（CDS）避險，讓這項在全球金融危機期間聲名大噪的金融工具，交易量再度激增。",
-      "publishedAt": "2026-10-20T07:37:32.851Z",
-      "discoveredAt": "2026-10-20T07:37:32.851Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9f77c51e40e2a1a5ba65",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9825396?from=edn_maintab_index",
-      "title": "Google 前 CEO 這筆 AI 投資要沖天了 身價有望暴增至2.6兆元 | 美股動態 | 國際 | 經濟日報",
-      "description": "曾經擔任Google執行長的施密特（Eric Schmidt）因早期投資AI新創公司Anthropic，目前持有該公司約1%股權。根據知情人士說法，隨著Anthropic即將上市，施密特有望成為此次IPO中，個人獲利最豐厚的投資人之一。",
       "publishedAt": "2026-10-20T07:37:32.851Z",
       "discoveredAt": "2026-10-20T07:37:32.851Z",
       "topics": [

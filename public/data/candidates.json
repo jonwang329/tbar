@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T00:27:34.767Z",
+  "updatedAt": "2026-10-28T06:13:08.597Z",
   "candidates": [
+    {
+      "id": "cand_f04cee4432a62e54ab21",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9841945",
+      "title": "Anthropic 算力布局點火 ASIC！聯發科甩連5跌強彈逾6% 創意、智原漲停 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI模型開發商Anthropic申請IPO，據媒體依申報文件統計，未來多年算力相關合約與預估支出規模約達8,070億美元（逾新台幣25兆元），Google TPU、輝達（NVIDIA）GPU及亞馬遜Trainium等晶片供應鏈受到關注。台股28日ASIC族群買盤升溫，創意（3443）、智原（3035）盤中攻上漲停，世芯-KY（3661）漲逾8%；聯發科（2454）也在連跌5個交易日後強勢反彈，盤中漲幅達6.69%。",
+      "publishedAt": "2026-10-28T06:12:54.963Z",
+      "discoveredAt": "2026-10-28T06:12:54.963Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0f2f83f7133fc4445498",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9841945?from=edn_maintab_index",
+      "title": "Anthropic 算力布局點火 ASIC！聯發科甩連5跌強彈逾6% 創意、智原漲停 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI模型開發商Anthropic申請IPO，據媒體依申報文件統計，未來多年算力相關合約與預估支出規模約達8,070億美元（逾新台幣25兆元），Google TPU、輝達（NVIDIA）GPU及亞馬遜Trainium等晶片供應鏈受到關注。台股28日ASIC族群買盤升溫，創意（3443）、智原（3035）盤中攻上漲停，世芯-KY（3661）漲逾8%；聯發科（2454）也在連跌5個交易日後強勢反彈，盤中漲幅達6.69%。",
+      "publishedAt": "2026-10-28T06:12:54.963Z",
+      "discoveredAt": "2026-10-28T06:12:54.963Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceId": "wechat-curated",
@@ -18,7 +78,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -108,7 +168,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -135,7 +195,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1647,17 +1707,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d054342a6a369683486d",
+      "id": "cand_8242c2338b8c23e3103a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9840652?from=edn_maintab_index",
-      "title": "經濟日報2作品入圍消費者權益報導獎 聚焦AI代理與醫療險理賠爭議 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "2026年消費者權益報導獎公布入圍名單，經濟日報資深記者邱金蘭以「AI代理風險多」、「醫療險賠不賠」兩件作品，入圍平面及網路（文字）類即時報導獎；同時，聯合報也以「揭開叫車平台安全漏洞」入圍。",
-      "publishedAt": "2026-10-27T16:52:07.221Z",
-      "discoveredAt": "2026-10-27T16:52:07.221Z",
+      "url": "https://money.udn.com/money/story/5603/9842170?from=edn_newest_index",
+      "title": "韓記憶體廠在陸仍吃香 阿里等AI巨頭搶跟三星、SK海力士簽10年約",
+      "description": "",
+      "publishedAt": "2026-10-28T06:12:54.963Z",
+      "discoveredAt": "2026-10-28T06:12:54.963Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1674,63 +1734,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f3a5bc1611b3de32c469",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9841230?from=edn_newest_index",
-      "title": "SK海力士財報超狂 上季獲利激增逾六倍攀新高 喊記憶體短缺至2030年 | 美股動態 | 國際 | 經濟日報",
-      "description": "全球第二大記憶體晶片製造商南韓SK海力士公布，上季獲利激增逾六倍，創下紀錄新高而且比預期更強勁，並宣布2026年股東回饋總規模達100兆韓元（約750億美元），凸顯市場對AI硬體的需求持續強勁。",
-      "publishedAt": "2026-10-28T00:27:17.869Z",
-      "discoveredAt": "2026-10-28T00:27:17.869Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7663001a610357e20f9f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
-      "description": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
-      "publishedAt": "Tue, 27 Oct 2026 05:52:00 GMT",
-      "discoveredAt": "2026-10-27T11:40:49.595Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T22:54:09.034Z",
+  "updatedAt": "2026-10-29T02:04:50.630Z",
   "candidates": [
+    {
+      "id": "cand_ca70f837698a36e038b5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9843757?from=edn_maintab_index",
+      "title": "微軟財報／Azure 雲端強勁成長48% 自由現金流高於預估 盤後股價漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "微軟（Microsoft）財報與財測都優於市場預期，上季Azure雲端基礎設施業務強勁成長48%，同時將資本支出控制在市場預期內，在市場持續擔憂AI投資能否帶來回報之際，成功提振投資人信心。消息激勵微軟股價一度勁揚5%。",
+      "publishedAt": "2026-10-29T02:04:36.995Z",
+      "discoveredAt": "2026-10-29T02:04:36.995Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5dd3c0eb6b587bd61a88",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9843971?from=edn_newest_index",
+      "title": "芯原推出GLTiny™ 3D GPU編程模型，助力可穿戴設備實現超低能耗與低內存佔用",
+      "description": "",
+      "publishedAt": "2026-10-29T02:04:36.995Z",
+      "discoveredAt": "2026-10-29T02:04:36.995Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_6c5f93c5dcaf03ec6482",
       "sourceLastModified": null,
@@ -105,7 +165,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -279,7 +339,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1140,156 +1200,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_56a1d001de2e7b9e3d99",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9830037",
-      "title": "Meta 財報／重磅宣布發行 C 類新股 上調資本支出 AI 代理狂吸千萬用戶 | 美股動態 | 國際 | 經濟日報",
-      "description": "社群媒體巨擘Meta公布上季營收年增26%，本季財測也高於市場預期，並表明旗下消費者AI代理應用程式Muse強勁成長，消息帶動盤後股價一度勁揚逾3%。Meta同時宣布調高資本支出展望、計劃推出新一類無投票權的股票，以協助為成本高昂的AI擴張計畫籌措資金。",
-      "publishedAt": "2026-10-22T00:44:16.988Z",
-      "discoveredAt": "2026-10-22T00:44:16.988Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4db8b2b15c3f0adbeae4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9829700",
-      "title": "輝達衝 AI 基建 擴產夥伴點名三台廠 | 產業熱點 | 產業 | 經濟日報",
-      "description": "輝達GTC柏林大會昨（21）日盛大登場，並宣布加速全球AI基礎建設布局，搶攻歐洲主權AI工廠商機，欣興、京元電及日月光投控旗下矽品三大台廠獲點名，分別承接載板、晶片測試及CPO光學引擎擴產重任，成為輝達擴大供應量能重要夥伴。",
-      "publishedAt": "2026-10-22T00:44:16.988Z",
-      "discoveredAt": "2026-10-22T00:44:16.988Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_671a23b8210c33ba36b0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9830037?from=edn_maintab_index",
-      "title": "Meta 財報／重磅宣布發行 C 類新股 上調資本支出 AI 代理狂吸千萬用戶 2026-10-22 07:54",
-      "description": "社群媒體巨擘Meta公布上季營收年增26%，本季財測也高於市場預期，並表明旗下消費者AI代理應用程式Muse強勁成長，消息帶動盤後股價一度勁揚逾3%。Meta同時宣布調高資本支出展望、計劃推出新一類無投票權的股票，以協助為成本高昂的AI擴張計畫籌措資金。",
-      "publishedAt": "2026-10-22T00:44:16.988Z",
-      "discoveredAt": "2026-10-22T00:44:16.988Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f448c6b0df7cbf9aed8c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9830011?from=edn_maintab_index",
-      "title": "美股收盤／SpaceX 財報替 AI 股打氣 費半大漲2% 美超微飆近一成 2026-10-22 06:53",
-      "description": "美國股市周三收高，SpaceX財報和美超微（Super Micro Computer）的樂觀展望，緩和市場對AI投資報酬的疑慮，帶動那斯達克指數上漲逾1%、費城半導體指數上漲2%。Meta和特斯拉盤後公布財報，股價續漲，但CoreWeave仍收黑，顯示投資人對高負債AI業者的戒心尚未消除。",
-      "publishedAt": "2026-10-22T00:44:16.988Z",
-      "discoveredAt": "2026-10-22T00:44:16.988Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c6f7bfa1476705bad151",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9830099?from=edn_newest_index",
-      "title": "AI泡沫風險？貝森特：我看不出有系統性問題 世界上最聰明人都投入 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國財政部長貝森特在一場閉門會議中告訴投資人，他不認為AI熱潮存在「系統性問題」，淡化外界對AI產業可能正陷入泡沫的疑慮。此時一些市場人士擔心，這波熱潮可能重演網路泡沫在2000年前後破裂前的情景。",
-      "publishedAt": "2026-10-22T00:44:16.988Z",
-      "discoveredAt": "2026-10-22T00:44:16.988Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_890f9c62f37a811bbf3d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1297,7 +1207,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9843682?from=edn_maintab_index",
-      "title": "美股收盤／Fed按兵不動 費半連漲四天 微軟盤後漲逾4%、字母重摔逾7% | 美股動態 | 國際 | 經濟日報",
+      "title": "美股收盤／Fed 按兵不動 費半連漲四天 微軟盤後漲逾4%、字母重摔逾7% 2026-10-29 06:29",
       "description": "美國股市周三小幅收高，聯準會（Fed）維持利率不變，市場仍押注12月升息，但降低對明年進一步升息的預期。AI相關企業財報帶動買氣，費城半導體指數連漲四天。盤後科技巨人財報好壞不一，微軟漲逾4%，Alphabet跌逾7%。",
       "publishedAt": "2026-10-28T22:53:54.476Z",
       "discoveredAt": "2026-10-28T22:53:54.476Z",
@@ -1311,7 +1221,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1458,6 +1368,36 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5794a9011e6f3d8d7cb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9843968?from=edn_newest_index",
+      "title": "大魯閣攜鉅碼科技發表 SWING X AI智慧打擊揮棒分析設備",
+      "description": "",
+      "publishedAt": "2026-10-29T02:04:36.995Z",
+      "discoveredAt": "2026-10-29T02:04:36.995Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1699,7 +1639,7 @@
     },
     {
       "id": "cand_41f41fc19ee97ff53b02",
-      "sourceLastModified": "2026-10-28T22:53:37.148Z",
+      "sourceLastModified": "2026-10-29T02:03:40.051Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1716,7 +1656,34 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6e65d3598a9f79ba95ed",
+      "sourceLastModified": "2026-10-28T23:59:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "title": "AI for Science expands to foundations and institutions",
+      "description": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
+      "discoveredAt": "2026-10-29T02:04:36.995Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1746,6 +1713,33 @@
       "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_84a51407be204d0d51cb",
+      "sourceLastModified": "2026-10-27",
+      "sourceId": "deepmind-blog",
+      "sourceName": "Google DeepMind",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai",
+      "title": "How we're supporting better tropical cyclone prediction with AI — Google DeepMind",
+      "description": "",
+      "publishedAt": "2026-10-27",
+      "discoveredAt": "2026-10-27T16:52:07.221Z",
+      "topics": [
+        "AI",
+        "research",
+        "models",
+        "science"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,

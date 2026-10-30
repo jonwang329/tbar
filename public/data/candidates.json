@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T00:04:27.800Z",
+  "updatedAt": "2026-10-30T05:38:33.827Z",
   "candidates": [
+    {
+      "id": "cand_cb31d09441de9f6de20d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9845642?from=edn_hottest_index",
+      "title": "富邦人壽大手筆砸285億元搶進 AI！「新公司」成立僅兩天就宣布投資",
+      "description": "",
+      "publishedAt": "2026-10-30T05:38:20.794Z",
+      "discoveredAt": "2026-10-30T05:38:20.794Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7d8ad19578108a4a0454",
       "sourceLastModified": null,
@@ -405,7 +435,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1068,63 +1098,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_9cb4385be6de82af24a9",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "description": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
-      "publishedAt": "Fri, 23 Oct 2026 02:00:13 GMT",
-      "discoveredAt": "2026-10-23T05:58:10.168Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_101a0c2965705d83ace5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9832800?from=edn_newest_index",
-      "title": "費半為何重摔6.7%？黃仁勳說了什麼？六重點一次看 | 美股動態 | 國際 | 經濟日報",
-      "description": "AI股賣壓從美國延燒亞洲。費城半導體指數周四重挫6.7%、台積電ADR下跌4.5%後，南韓Kospi指數周五開盤也跌2.8%。市場不只追問AI投資何時回本，更擔心支撐建設熱潮的資金能否接得上。黃仁勳雖強調需求旺盛，卻也坦言新型雲端業者缺乏營運資金，牽動市場最敏感的神經。",
-      "publishedAt": "2026-10-23T00:58:59.946Z",
-      "discoveredAt": "2026-10-23T00:58:59.946Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_5c30d540746bd6a6412e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1302,6 +1275,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_8cdf5256e7acfa0a1899",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9846210?from=edn_maintab_index",
+      "title": "AI 籌資也看財力 微軟發債250億美元吸4.6倍認購 高負債業者望塵莫及 2026-10-30 08:56",
+      "description": "",
+      "publishedAt": "2026-10-30T05:38:20.794Z",
+      "discoveredAt": "2026-10-30T05:38:20.794Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_410f5b4cf14832bf4f7b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1393,7 +1396,7 @@
     },
     {
       "id": "cand_2bc3a01c42f2664e1a3c",
-      "sourceLastModified": "2026-10-30T00:04:13.096Z",
+      "sourceLastModified": "2026-10-30T05:38:10.780Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1410,7 +1413,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1440,7 +1443,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

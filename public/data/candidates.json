@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T11:40:21.612Z",
+  "updatedAt": "2026-10-30T17:14:20.798Z",
   "candidates": [
+    {
+      "id": "cand_74702b92c61cf7a99280",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9848000?from=edn_maintab_index",
+      "title": "AI驅動的銅榮景正在接受現實檢驗 業界憂銅價過高可能大幅回檔 | 國際焦點 | 國際 | 經濟日報",
+      "description": "儘管人工智慧（AI）投資熱潮帶動國際銅價上漲，但已有不少業界人士擔憂，一旦AI退燒銅價將大幅回檔，而且明年就可能發生。",
+      "publishedAt": "2026-10-30T17:14:05.693Z",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ed6ba8a65c50036f20e5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5616/9847682?from=edn_maintab_index",
+      "title": "新台幣盤中重貶尾盤翻升 熱錢出逃月線連2黑 | 外匯市場 | 金融 | 經濟日報",
+      "description": "美科技巨頭財報引發AI投資疑慮，亞股紛紛倒地。台股重挫逾千點，新台幣兌美元盤中大貶超過1.8角，不過出口商積極拋匯，加上...",
+      "publishedAt": "2026-10-30T17:14:05.693Z",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d901f1e1011b2b2095a3",
       "sourceLastModified": null,
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9847627?from=edn_maintab_index",
-      "title": "全球科技股賣壓加劇 美「七大巨頭」只剩這3檔今年股價還沒轉跌 | 美股動態 | 國際 | 經濟日報",
+      "title": "全球科技股賣壓加劇 美「七大巨頭」只剩這3檔今年股價還沒轉跌 2026-10-30 18:11",
       "description": "美國科技大咖財報利空連環爆導致全球科技股30日下挫，凸顯市場對人工智慧（AI）基建投資錢從哪來的疑慮加深。",
       "publishedAt": "2026-10-30T11:40:08.573Z",
       "discoveredAt": "2026-10-30T11:40:08.573Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -411,7 +471,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1038,17 +1098,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_2c08bf74acc24b1a8d86",
+      "id": "cand_d1cce2a0782966f6b650",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9833914?from=edn_maintab_index",
-      "title": "該抱還是該逃？AI新創上市熄火 令投資人擔憂繁榮期即將結束 2026-10-23 20:29",
-      "description": "本周南韓資料中心新創業者Elice公司股票上市第一天，股價就重挫32%，在過去幾周中共有六家公司遭遇挫折，顯示投資人對人工智慧（AI）產業的展望轉壞。分析師指出，Elice上市災難再次證實投資人的思維已經從「買進所有AI」，轉變成「質疑所有AI」。",
-      "publishedAt": "2026-10-23T15:53:21.869Z",
-      "discoveredAt": "2026-10-23T15:53:21.869Z",
+      "url": "https://money.udn.com/money/story/123398/9847882?from=edn_maintab_index",
+      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29% | 美股動態 | 國際 | 經濟日報",
+      "description": "美股30日早盤下跌，由於交易員拋售多檔與人工智慧（AI）相關的重要股票，那斯達克指數大跌2.9%；道瓊工業指數和標普500指數則分別下跌0.3%和1.2%；費城半導體指數大跌5.6%，台積電ADR則大跌3.8%。",
+      "publishedAt": "2026-10-30T17:14:05.693Z",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1059,41 +1119,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e961d6ddb24f09afadfa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9832714?from=edn_hottest_index",
-      "title": "美股收盤／AI燒錢疑慮掀晶片股殺盤 費半重摔6.7%、台積電ADR跌4.5%",
-      "description": "美國晶片股周四遭到拋售，費城半導體指數重挫6.7%，創6月23日以來最大單日跌幅，英特爾、超微（AMD）、晟碟（SanDisk）和邁威爾（Marvell）均跌逾8%。Meta加碼AI支出的計畫，再度引發市場對龐大投資和融資需求的疑慮，拖累那斯達克指數下跌2.6%，資金轉向公債避險。",
-      "publishedAt": "2026-10-23T15:53:21.869Z",
-      "discoveredAt": "2026-10-23T15:53:21.869Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1275,6 +1305,150 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_d43b40b5b24412c87d7e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9847839?from=edn_maintab_index",
+      "title": "利空包圍 台指期夜盤上半場一度再破底 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "台指期夜盤30日開盤時，在美股電子盤試圖反彈帶動中，以45,395點、上漲95點開出後，一度再上衝至45,420點、上漲120點，但受英特爾（Intel）等AI龍頭跌勢擴大，國際油價反彈等利空中，美股電子盤越跌越深，指數快速翻黑，最深來到44,861點、下跌439點，再寫波段回檔新低，截至晚間21點，指數來到約44,955點、下跌345點。",
+      "publishedAt": "2026-10-30T17:14:05.693Z",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7f3f8c003e8285c0e2ef",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9848000?from=edn_newest_index",
+      "title": "AI驅動的銅榮景正在接受現實檢驗 業界憂銅價過高可能大幅回檔",
+      "description": "",
+      "publishedAt": "2026-10-30T17:14:05.693Z",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b0fcca0785a476f46cb4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9846621?from=edn_VIP_index_side",
+      "title": "AI 支出7,500億美元不討喜 科技巨人面臨現金考驗 晶片股榮景撐多久？",
+      "description": "",
+      "publishedAt": "2026-10-30T17:14:05.693Z",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_10d7cd47e0abc0dbcc7e",
+      "sourceLastModified": "2026-10-30T17:13:27.275Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "description": "",
+      "publishedAt": "2026-10-30T17:13:27.275Z",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_91422992db6751d81d26",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "description": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "publishedAt": "Fri, 30 Oct 2026 15:00:10 GMT",
+      "discoveredAt": "2026-10-30T17:14:05.693Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_91c8bfc349618b71d5e4",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1426,7 +1600,7 @@
     },
     {
       "id": "cand_2bc3a01c42f2664e1a3c",
-      "sourceLastModified": "2026-10-30T11:39:52.216Z",
+      "sourceLastModified": "2026-10-30T17:14:02.981Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1443,7 +1617,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1473,7 +1647,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1583,186 +1757,6 @@
       "description": "",
       "publishedAt": "2026-10-28T22:53:54.476Z",
       "discoveredAt": "2026-10-28T22:53:54.476Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1d0dcef598f3f2a229d7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9843662?from=edn_newest_index",
-      "title": "Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
-      "description": "",
-      "publishedAt": "2026-10-28T22:53:54.476Z",
-      "discoveredAt": "2026-10-28T22:53:54.476Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_57f58a8580f777285325",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122979/9791684?from=edn_VIP_index_side",
-      "title": "AI實戰錄 2／從半年縮到2周！ 他靠ChatGPT開發甜點 關鍵不是複雜提示詞",
-      "description": "",
-      "publishedAt": "2026-10-28T22:53:54.476Z",
-      "discoveredAt": "2026-10-28T22:53:54.476Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_983dd2053227fdf57c42",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9842945",
-      "title": "AI 競賽「得現金流者占先機」 微軟、Alphabet 財報迎大考 | 美股動態 | 國際 | 經濟日報",
-      "description": "【彭博】-- 微軟和Alphabet自上次公布財報以來，股價走勢已經明顯分化。",
-      "publishedAt": "2026-10-28T13:01:11.725Z",
-      "discoveredAt": "2026-10-28T13:01:11.725Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4f8a17e594abfdd7b3ec",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9842737?from=edn_maintab_index",
-      "title": "AI 股泡沫早就爆了！是陸股問題，或整個 AI 產業景氣榮枯的縮影？ 2026-10-28 17:29",
-      "description": "",
-      "publishedAt": "2026-10-28T13:01:11.725Z",
-      "discoveredAt": "2026-10-28T13:01:11.725Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7c08eb7fbb79f2806a8f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9843141?from=edn_newest_index",
-      "title": "日德設AI高層對話 針對中國出口管制強化經濟安保 2026-10-28 21:01",
-      "description": "",
-      "publishedAt": "2026-10-28T13:01:11.725Z",
-      "discoveredAt": "2026-10-28T13:01:11.725Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_45fdb6f162509644bb9c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9843129?from=edn_newest_index",
-      "title": "中信投信兩檔基金雙箭齊發 掌握 AI 基建與關鍵戰略新商機",
-      "description": "",
-      "publishedAt": "2026-10-28T13:01:11.725Z",
-      "discoveredAt": "2026-10-28T13:01:11.725Z",
       "topics": [
         "Taiwan business",
         "investment",

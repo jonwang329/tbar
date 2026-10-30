@@ -1,7 +1,127 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T17:14:20.798Z",
+  "updatedAt": "2026-10-30T21:33:18.208Z",
   "candidates": [
+    {
+      "id": "cand_85ddaddd476129ca0491",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9848217?from=edn_maintab_index",
+      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國科技大廠財報不受市場青睞，加深對人工智慧（AI）投資熱潮的疑慮，科技股賣壓沉重，拖累美股今天受挫",
+      "publishedAt": "2026-10-30T21:33:04.678Z",
+      "discoveredAt": "2026-10-30T21:33:04.678Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9a15a20617ef827c2c19",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9848045?from=edn_maintab_index",
+      "title": "聯發科財測報喜 三個上修 資料中心首款 AI 加速器已出貨 | 產業熱點 | 產業 | 經濟日報",
+      "description": "晶片大廠聯發科昨（30）日舉行法說會，公布三大數字上修的佳績。執行長蔡力行表示，資料中心首款AI加速器已出貨，有信心在本季達25億美元營收，優於原先預期；本季營收將強勁季增，全年美元營收成長將超越先前設定的高個位數百分比成長目標；他更預期資料中心營收將於2027年達先前營收目標區間的上緣，約160億美元，占AI加速器ASIC市場的20%市占率。",
+      "publishedAt": "2026-10-30T21:33:04.678Z",
+      "discoveredAt": "2026-10-30T21:33:04.678Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_747563c0d1a8551ccbbb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9848001?from=edn_maintab_index",
+      "title": "鴻海：明年營運雙位數成長 與 OpenAI 合作將更具體 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海董事長劉揚偉昨（30）日表示，明年產業趨勢仍是K型發展，與人工智慧（AI）資料中心有關的持續上升，其他則是另外一條線，鴻海明年表現看起來還不錯，維持兩位數成長。",
+      "publishedAt": "2026-10-30T21:33:04.678Z",
+      "discoveredAt": "2026-10-30T21:33:04.678Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d5a0c72e10cd2d00a95d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9848217?from=edn_newest_index",
+      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑",
+      "description": "",
+      "publishedAt": "2026-10-30T21:33:04.678Z",
+      "discoveredAt": "2026-10-30T21:33:04.678Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_74702b92c61cf7a99280",
       "sourceLastModified": null,
@@ -1278,6 +1398,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_0a1f7a2f03757f96c124",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9848043?from=edn_maintab_index",
+      "title": "國泰金李長庚力挺 AI 前景 硬體鏈還有發展機會 | 金融脈動 | 金融 | 經濟日報",
+      "description": "國泰金控總經理李長庚昨（30）日表示，AI科技尚在發展過程中，股市因此出現震盪是必然現象，目前AI仍持續被廣泛使用，算力需求也尚未獲得充分滿足，只要相關業者持續投入資本支出，台灣硬體供應鏈就仍有發展機會。",
+      "publishedAt": "2026-10-30T21:33:04.678Z",
+      "discoveredAt": "2026-10-30T21:33:04.678Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_7663001a610357e20f9f",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1302,6 +1452,66 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0d5e42660d811750576b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9847954?from=edn_maintab_index",
+      "title": "歷來最慘…外資本月大砍台股近兆元 公股低接2,409億創新高 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股10月土洋大對決，通膨增溫及人工智慧（AI）雜音等警報響起，引發外資單月大舉拋售9,943.1億元，單月歷史新高，投信、八大公股行庫分別逢低承接2,136.6億元、2,409.4億元，各為史上次高、最高水準。",
+      "publishedAt": "2026-10-30T21:33:04.678Z",
+      "discoveredAt": "2026-10-30T21:33:04.678Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_74b66a57253e9538ff16",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9848199?from=edn_newest_index",
+      "title": "隨著企業將前沿 AI 投入實際應用，Cognizant 投入逾 25,000 名專業人員推動 OpenAI 方案交付",
+      "description": "",
+      "publishedAt": "2026-10-30T21:33:04.678Z",
+      "discoveredAt": "2026-10-30T21:33:04.678Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     },
     {
@@ -1396,7 +1606,7 @@
     },
     {
       "id": "cand_10d7cd47e0abc0dbcc7e",
-      "sourceLastModified": "2026-10-30T17:13:27.275Z",
+      "sourceLastModified": "2026-10-30T21:32:01.593Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1413,7 +1623,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1440,7 +1650,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1550,213 +1760,6 @@
       "description": "美國股市周四下跌，Alphabet財報失色、AI支出激增，周四股價重挫12.6%，市值蒸發近5,000億美元，拖累那斯達克下跌1.4%，費半結束連四漲。不過，賣壓未擴及整體美股，資金轉向其他類股。",
       "publishedAt": "2026-10-30T00:04:13.323Z",
       "discoveredAt": "2026-10-30T00:04:13.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_753a655d0544484183f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9845774?from=edn_maintab_index",
-      "title": "談人工智慧四大隱憂 台積共同營運長秦永沛：擔心人們過度相信 AI 2026-10-30 02:32",
-      "description": "",
-      "publishedAt": "2026-10-30T00:04:13.323Z",
-      "discoveredAt": "2026-10-30T00:04:13.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2bc3a01c42f2664e1a3c",
-      "sourceLastModified": "2026-10-30T17:14:02.981Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "title": "https://openai.com/index/ropes-gray-ai-diligence",
-      "description": "",
-      "publishedAt": "2026-10-30T00:04:13.096Z",
-      "discoveredAt": "2026-10-30T00:04:13.323Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_84c0aefa89587ff5850b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124480/9840486?from=index_special_cards",
-      "title": "AI 擠兌會發生？",
-      "description": "",
-      "publishedAt": "2026-10-29T15:22:32.408Z",
-      "discoveredAt": "2026-10-29T15:22:32.408Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4e323f930d8b94fd2cf3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9844914",
-      "title": "AI 恐釀晶圓大量報廢！秦永沛揭台積電四大隱憂：最怕工程師失去判斷力 | 產業熱點 | 產業 | 經濟日報",
-      "description": "AI快速發展，卻也暗藏失控風險。台積電（2330）執行副總經理暨共同營運長秦永沛29日示警，導入AI有四大隱憂，其中最擔心工程師過度依賴AI，逐漸失去獨立思考與判斷能力。",
-      "publishedAt": "2026-10-29T08:23:31.870Z",
-      "discoveredAt": "2026-10-29T08:23:31.870Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_42f064312c023b6c56a0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/6710/9844715?from=edn_maintab_index",
-      "title": "AI 商機熱度延續、台股交易量能高檔 財政部估全年稅收首跨4兆元 2026-10-29 14:17",
-      "description": "",
-      "publishedAt": "2026-10-29T08:23:31.870Z",
-      "discoveredAt": "2026-10-29T08:23:31.870Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5794a9011e6f3d8d7cb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9843968?from=edn_newest_index",
-      "title": "大魯閣攜鉅碼科技發表 SWING X AI智慧打擊揮棒分析設備",
-      "description": "",
-      "publishedAt": "2026-10-29T02:04:36.995Z",
-      "discoveredAt": "2026-10-29T02:04:36.995Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a395a2204263e80e7409",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9842127?from=edn_hottest_index",
-      "title": "路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
-      "description": "",
-      "publishedAt": "2026-10-28T22:53:54.476Z",
-      "discoveredAt": "2026-10-28T22:53:54.476Z",
       "topics": [
         "Taiwan business",
         "investment",

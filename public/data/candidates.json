@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-31T06:55:07.855Z",
+  "updatedAt": "2026-10-31T13:20:55.240Z",
   "candidates": [
+    {
+      "id": "cand_220d73a7678a72b46c96",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9849051?from=edn_maintab_index",
+      "title": "下周開盤前 五件值得留意的國際大事 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股周五大跌，英特爾展望失色，加上Anthropic上市後可能無法取得投資級評等，加深AI融資與回報疑慮。費半大跌7.2%，英特爾大跌近29%，台積電ADR跌近6%，半導體下周行情仍不樂觀。以下是下周開盤前，最值得留意的五件國際要聞：",
+      "publishedAt": "2026-10-31T13:20:42.140Z",
+      "discoveredAt": "2026-10-31T13:20:42.140Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b924b6eab796962c9ef7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9849051?from=edn_hottest_index",
+      "title": "下周開盤前 五件值得留意的國際大事 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股周五大跌，英特爾展望失色，加上Anthropic上市後可能無法取得投資級評等，加深AI融資與回報疑慮。費半大跌7.2%，英特爾大跌近29%，台積電ADR跌近6%，半導體下周行情仍不樂觀。以下是下周開盤前，最值得留意的五件國際要聞：",
+      "publishedAt": "2026-10-31T13:20:42.140Z",
+      "discoveredAt": "2026-10-31T13:20:42.140Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_e846cf15185c9380d994",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9848610?from=edn_maintab_index",
-      "title": "AI 燒錢遇考驗！Anthropic 信評存疑、OpenAI 降身價 Meta 展望轉負向 | 美股動態 | 國際 | 經濟日報",
+      "title": "AI 燒錢遇考驗！Anthropic 信評存疑、OpenAI 降身價 Meta 展望轉負向 2026-10-31 11:40",
       "description": "AI業者龐大投資正面臨更嚴格的資金檢驗。Anthropic上市後可能無法立即取得投資級評等，OpenAI降低估值與募資目標，Meta則遭標普將評等展望調為負向。從新創公司到科技巨人，市場愈來愈在意，收入和現金能否支撐持續擴大的支出。",
       "publishedAt": "2026-10-31T06:54:55.984Z",
       "discoveredAt": "2026-10-31T06:54:55.984Z",
@@ -24,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9848481?from=edn_maintab_index",
-      "title": "AI 融資警報響！費半大跌7.2%、英特爾跌近29% 下周財報和選舉再考驗 | 美股動態 | 國際 | 經濟日報",
+      "title": "AI 融資警報響！費半大跌7.2%、英特爾跌近29% 下周財報和選舉再考驗 2026-10-31 10:32",
       "description": "美國晶片股周五大跌，英特爾展望失色，加上Anthropic可能無法取得投資級評等的消息，投資人對AI融資與回報更不放心。費城半導體指數大跌7.2%，英特爾狂崩近29%。下周AMD、高通（Qualcomm）及蘋果財報、美國期中選舉和就業報告，將進一步考驗市場信心。",
       "publishedAt": "2026-10-31T06:54:55.984Z",
       "discoveredAt": "2026-10-31T06:54:55.984Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -70,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9847481?from=edn_maintab_index",
-      "title": "輝達開發全新封裝技術、聯準會宣布利率不變、傳邁威爾將收購 Lumentum……本周不可不知的五件財經大事 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達開發全新封裝技術、聯準會宣布利率不變、傳邁威爾將收購 Lumentum……本周不可不知的五件財經大事 2026-10-31 10:30",
       "description": "輝達先進封裝大變革，將帶動聯電、力積電成為當紅炸子雞；美國聯準會10月決議利率不變，但有兩位關於提出異議，華許也以強硬措詞放鷹；邁威爾傳將收購Lumentum，藉此打造全球一條龍光通訊生態系。以下是本周最值得回顧的五件財經要聞： 一、輝達先進封裝變革 中介層變搶手貨 聯電、力積電成為當紅炸子雞 輝達先進封裝大變革，宣布正開發全新「中介層上整合光學」（OOI）技術，已有原型樣品，以更大面積的中介層取代現行有機封裝基板，並將光學引擎直接移至運算晶片所在的中介層。這將使得中介層躍AI新關鍵戰略物資，聯電（2303）、力積電（6770）成為當紅炸子雞。 業界認為，輝達的GPU已引爆先進封裝需求，後續邁入「中介層上整合光學」技術，將掀起業界新一波熱潮。「中介層上整合光學」最大的突破，在於將光學引擎從目前的有機封裝基板，移至運算晶片所在的中介層，中介層用量與角色將更重要，也將使得中介層躍AI新關鍵戰略物資。 台廠中，聯電、力積電均已布局中介層，可望搭上輝達光電整合與先進封裝升級趨勢，成為當紅炸子雞。 二、Fed 年底升息留伏筆 利率按兵不動 華許強調通膨目標不打折 美國聯準會（Fed）10月決議",
       "publishedAt": "2026-10-31T06:54:55.984Z",
       "discoveredAt": "2026-10-31T06:54:55.984Z",
@@ -84,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -174,7 +234,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1248,17 +1308,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_6f4f792cb082003f842b",
+      "id": "cand_454834ccc3a77ea2ceae",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9834192?from=edn_hottest_index",
-      "title": "科技三巨頭傳付千億 包載板產能 帶動欣興、景碩、南電加速擴廠",
-      "description": "英特爾、輝達與超微三大科技巨頭為了確保人工智慧（AI）供應鏈產能，業界傳出三強已付出總額逾新台幣千億元訂金，預定高階載板廠長期產能，但IC載板三強欣興、景碩與南電積極擴產以改善供應鏈瓶頸。今年載板大廠已宣布將投資建廠規模創下新高，累計達到1,612億元的新紀錄。",
-      "publishedAt": "2026-10-24T10:33:07.211Z",
-      "discoveredAt": "2026-10-24T10:33:07.211Z",
+      "url": "https://money.udn.com/money/story/5607/9845355?from=edn_hottest_index",
+      "title": "NAND漲價只是表面！群聯真正的新故事在AI儲存與邊緣運算 | 市場焦點 | 證券 | 經濟日報",
+      "description": "今年記憶體產業最值得關注的變化，不只是NAND Flash價格上漲，而是AI正重新改寫儲存市場的需求結構。過去市場把群聯（8299）視為NAND控制晶片與儲存模組廠，但鍾魁認為，現在更應該關注的是群聯從控制晶片走向企業級SSD，再跨入AI儲存與邊緣運算平台的轉型成果。 先看財務數據，群聯2026年9月營收306.39億元，年增370％，第三季營收860.77億元，季增27％；累計1至9月營收達1,949.32億元，年增290.92％，寫下歷史新高。上半年正式EPS高達187.43元，第二季毛利率達65.31％，展現NAND供給吃緊、產品漲價及高附加價值產品放量帶來的獲利爆發力。由於第三季財報尚未公布，依營收及淨利率估算，前三季EPS站上3字頭的機率相當高，待後續公司的正確數據，才能進一步評估第四季的獲利數據。 進入第四季，群聯最大的營運看點，在於AI產品比重能否繼續提高。第二季AI Ecosystem模組營收占比為38％，到了9月已突破50％，顯示企業級SSD、AI伺服器開機碟、AI Networking及客製化儲存需求正在加速成長。尤其Pascari企業級SSD、PCIe Gen",
+      "publishedAt": "2026-10-31T13:20:42.140Z",
+      "discoveredAt": "2026-10-31T13:20:42.140Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1269,11 +1329,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1285,7 +1345,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9848395?from=edn_maintab_index",
-      "title": "產能訂滿至少一年半 劉揚偉 CNBC 受訪拚鴻海 AI 伺服器市占達五成 | 國際焦點 | 國際 | 經濟日報",
+      "title": "產能訂滿至少一年半 劉揚偉 CNBC 受訪拚鴻海 AI 伺服器市占達五成 2026-10-31 09:42",
       "description": "鴻海（2317）董事長劉揚偉接受CNBC訪問時表示，AI基礎設施需求未見明顯放緩，鴻海將擴大全球AI伺服器市占率，並增加美國製造布局。目前約四成的市占率，明年可能升至45%左右，未來幾年可望達五成。",
       "publishedAt": "2026-10-31T06:54:55.984Z",
       "discoveredAt": "2026-10-31T06:54:55.984Z",
@@ -1299,7 +1359,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1552,7 +1612,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9848546?from=edn_maintab_index",
-      "title": "缺貨也漲不動？從鎧俠漲價放緩到 AI 籌資疑慮 牽動晶片股的六件事 | 國際焦點 | 國際 | 經濟日報",
+      "title": "缺貨也漲不動？從鎧俠漲價放緩到 AI 籌資疑慮 牽動晶片股的六件事 2026-10-31 11:11",
       "description": "晶片需求強勁，股價卻未必買單。鎧俠（Kioxia）示警記憶體漲價放緩、英特爾（Intel）展望失色，加上AI業者的信評與籌資疑慮，讓市場重新檢視這波榮景：價格能漲多久、客戶能否付款，以及建設支出能否持續。以下六件事，正牽動晶片股後市。",
       "publishedAt": "2026-10-31T06:54:55.984Z",
       "discoveredAt": "2026-10-31T06:54:55.984Z",
@@ -1566,7 +1626,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1722,60 +1782,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_10d7cd47e0abc0dbcc7e",
-      "sourceLastModified": "2026-10-30T21:32:01.593Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "title": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "description": "",
-      "publishedAt": "2026-10-30T17:13:27.275Z",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 90,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_91422992db6751d81d26",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "description": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
-      "publishedAt": "Fri, 30 Oct 2026 15:00:10 GMT",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

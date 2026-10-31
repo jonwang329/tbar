@@ -1,19 +1,19 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-31T13:20:55.240Z",
+  "updatedAt": "2026-10-31T17:50:58.208Z",
   "candidates": [
     {
-      "id": "cand_220d73a7678a72b46c96",
+      "id": "cand_476962e40d45f62502f7",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9849051?from=edn_maintab_index",
-      "title": "下周開盤前 五件值得留意的國際大事 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國晶片股周五大跌，英特爾展望失色，加上Anthropic上市後可能無法取得投資級評等，加深AI融資與回報疑慮。費半大跌7.2%，英特爾大跌近29%，台積電ADR跌近6%，半導體下周行情仍不樂觀。以下是下周開盤前，最值得留意的五件國際要聞：",
-      "publishedAt": "2026-10-31T13:20:42.140Z",
-      "discoveredAt": "2026-10-31T13:20:42.140Z",
+      "url": "https://money.udn.com/money/story/5599/9849148?from=edn_hottest_index",
+      "title": "奧特曼：用個人電腦部署 RAM 是對有限資源的「浪費」 | 國際焦點 | 國際 | 經濟日報",
+      "description": "全球記憶體供應因AI熱潮而吃緊之際，身為人工智慧（AI）熱潮主要推手之一的OpenAI執行長奧特曼卻認為，民眾在個人電腦上運行AI模型，是對有限記憶體資源的浪費，主張應集中於雲端資料中心。",
+      "publishedAt": "2026-10-31T17:50:45.818Z",
+      "discoveredAt": "2026-10-31T17:50:45.818Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -33,14 +33,14 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b924b6eab796962c9ef7",
+      "id": "cand_220d73a7678a72b46c96",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9849051?from=edn_hottest_index",
-      "title": "下周開盤前 五件值得留意的國際大事 | 美股動態 | 國際 | 經濟日報",
+      "url": "https://money.udn.com/money/story/123398/9849051?from=edn_maintab_index",
+      "title": "下周開盤前 五件值得留意的國際大事 2026-10-31 16:42",
       "description": "美國晶片股周五大跌，英特爾展望失色，加上Anthropic上市後可能無法取得投資級評等，加深AI融資與回報疑慮。費半大跌7.2%，英特爾大跌近29%，台積電ADR跌近6%，半導體下周行情仍不樂觀。以下是下周開盤前，最值得留意的五件國際要聞：",
       "publishedAt": "2026-10-31T13:20:42.140Z",
       "discoveredAt": "2026-10-31T13:20:42.140Z",
@@ -54,7 +54,37 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b924b6eab796962c9ef7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9849051?from=edn_hottest_index",
+      "title": "下周開盤前 五件值得留意的國際大事",
+      "description": "美國晶片股周五大跌，英特爾展望失色，加上Anthropic上市後可能無法取得投資級評等，加深AI融資與回報疑慮。費半大跌7.2%，英特爾大跌近29%，台積電ADR跌近6%，半導體下周行情仍不樂觀。以下是下周開盤前，最值得留意的五件國際要聞：",
+      "publishedAt": "2026-10-31T13:20:42.140Z",
+      "discoveredAt": "2026-10-31T13:20:42.140Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1002,7 +1032,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1270,36 +1300,6 @@
         "Taiwan"
       ],
       "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8ecedfeded4b8de2ad6c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9835578?from=edn_newest_index",
-      "title": "立康生命科技亮相2026阿布扎比未來健康峰會，展示個性化腫瘤免疫治療創新成果及國際化願景 | 全球企業動態 | 商情 | 經濟日報",
-      "description": "北京2026年10月24日 /美通社/ -- 立康生命科技作為大會贊助商及參展企業，參加了10月20日至22日在阿布扎比國家展覽中心舉行的2026阿布扎比未來健康峰會（Abu Dhabi Future Health Summit 2026），向國際醫療健康領域展示公司人工智能驅動的個性化腫瘤免疫治療技術平台及臨床研發進展。此次參會標誌着立康拓展國際交流與合作邁出重要一步。 本屆峰會由阿布扎比衛生部（Department of Health – Abu Dhabi）召集，以「感知即預測」（To Sense Is to Predict）為主題，匯聚全球醫療健康、科研及科技創新領域的領袖和專家，共同探討未來精準醫療的發展方向。 10月20日，阿聯酋總統謝赫穆罕默德•本•扎耶德•阿勒納哈揚殿下接見了出席峰會的國際醫療健康領域代表團，立康生命科技聯合創始人兼副董事長張永康作為代表團成員參加會見。10月21日，張永康亦在峰會期間與到訪的阿布扎比王儲謝赫哈立德•本•穆罕默德•本•扎耶德•阿勒納哈揚殿下會面。在與兩位領導人的簡短交流中，張永康介紹了立康計劃將個性化腫瘤免疫治療技術及在研產品引入阿布扎比",
-      "publishedAt": "2026-10-24T17:24:28.042Z",
-      "discoveredAt": "2026-10-24T17:24:28.042Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1605,6 +1605,153 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_97de63d60836d6b71d47",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9849416?from=edn_maintab_index",
+      "title": "市場不在乎期中選舉？歷史數據顯示：不論誰贏誰輸 選後美股都會漲 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國期中選舉即將在11月3日登場，近日美股下跌看似反映選前退場觀望氣氛。但紐約時報分析指出，其實金融市場根本不在乎期中選舉誰輸誰贏，真正左右市場行情的是利率、通膨、人工智慧（AI）、關稅、伊朗戰爭與油價。",
+      "publishedAt": "2026-10-31T17:50:45.818Z",
+      "discoveredAt": "2026-10-31T17:50:45.818Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8c7a5e394c1c37902e63",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9849322?from=edn_maintab_index",
+      "title": "AI 泡沫爆了嗎？那斯達克大跌 跟2000年達康泡沫情景有何異同 | 美股動態 | 國際 | 經濟日報",
+      "description": "科技股為主的那斯達克指數周五（30日）寫下6月5日來最大單日跌幅紀錄，10月跌幅為一年多來最深。跌勢如此猛烈，令人聯想到達康泡沫爆裂的慘況。",
+      "publishedAt": "2026-10-31T17:50:45.818Z",
+      "discoveredAt": "2026-10-31T17:50:45.818Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ab358040b7ac2527c4c0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9849322?from=edn_hottest_index",
+      "title": "AI 泡沫爆了嗎？那斯達克大跌 跟2000年達康泡沫情景有何異同 | 美股動態 | 國際 | 經濟日報",
+      "description": "科技股為主的那斯達克指數周五（30日）寫下6月5日來最大單日跌幅紀錄，10月跌幅為一年多來最深。跌勢如此猛烈，令人聯想到達康泡沫爆裂的慘況。",
+      "publishedAt": "2026-10-31T17:50:45.818Z",
+      "discoveredAt": "2026-10-31T17:50:45.818Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4a64c0480a998f64dcef",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9849464?from=edn_newest_index",
+      "title": "缺乏廉價資金成為AI榮景的最新瓶頸",
+      "description": "",
+      "publishedAt": "2026-10-31T17:50:45.818Z",
+      "discoveredAt": "2026-10-31T17:50:45.818Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0c0e5aad444fec13f13b",
+      "sourceLastModified": "2026-10-31T17:50:03.383Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/small-business-ai-jam",
+      "title": "https://openai.com/index/small-business-ai-jam",
+      "description": "",
+      "publishedAt": "2026-10-31T17:50:03.383Z",
+      "discoveredAt": "2026-10-31T17:50:45.818Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_a0912e9bfb07c71d031f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1627,156 +1774,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0d5e42660d811750576b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9847954?from=edn_maintab_index",
-      "title": "歷來最慘…外資本月大砍台股近兆元 公股低接2,409億創新高 2026-10-31 02:21",
-      "description": "台股10月土洋大對決，通膨增溫及人工智慧（AI）雜音等警報響起，引發外資單月大舉拋售9,943.1億元，單月歷史新高，投信、八大公股行庫分別逢低承接2,136.6億元、2,409.4億元，各為史上次高、最高水準。",
-      "publishedAt": "2026-10-30T21:33:04.678Z",
-      "discoveredAt": "2026-10-30T21:33:04.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74b66a57253e9538ff16",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9848199?from=edn_newest_index",
-      "title": "隨著企業將前沿 AI 投入實際應用，Cognizant 投入逾 25,000 名專業人員推動 OpenAI 方案交付",
-      "description": "",
-      "publishedAt": "2026-10-30T21:33:04.678Z",
-      "discoveredAt": "2026-10-30T21:33:04.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d43b40b5b24412c87d7e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9847839?from=edn_maintab_index",
-      "title": "利空包圍 台指期夜盤上半場一度再破底 | 期貨市場 | 期貨 | 經濟日報",
-      "description": "台指期夜盤30日開盤時，在美股電子盤試圖反彈帶動中，以45,395點、上漲95點開出後，一度再上衝至45,420點、上漲120點，但受英特爾（Intel）等AI龍頭跌勢擴大，國際油價反彈等利空中，美股電子盤越跌越深，指數快速翻黑，最深來到44,861點、下跌439點，再寫波段回檔新低，截至晚間21點，指數來到約44,955點、下跌345點。",
-      "publishedAt": "2026-10-30T17:14:05.693Z",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7f3f8c003e8285c0e2ef",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9848000?from=edn_newest_index",
-      "title": "AI驅動的銅榮景正在接受現實檢驗 業界憂銅價過高可能大幅回檔",
-      "description": "",
-      "publishedAt": "2026-10-30T17:14:05.693Z",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b0fcca0785a476f46cb4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9846621?from=edn_VIP_index_side",
-      "title": "AI 支出7,500億美元不討喜 科技巨人面臨現金考驗 晶片股榮景撐多久？",
-      "description": "",
-      "publishedAt": "2026-10-30T17:14:05.693Z",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

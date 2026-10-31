@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-31T20:50:06.464Z",
+  "updatedAt": "2026-10-31T23:52:25.607Z",
   "candidates": [
     {
       "id": "cand_820730ce58bcf7293893",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9849422?from=edn_maintab_index",
-      "title": "美晶片股暴跌 費半下挫7% 繫緊安全帶 本周緊盯超微、蘋果等財報 | 美股動態 | 國際 | 經濟日報",
+      "title": "美晶片股暴跌 費半下挫7% 繫緊安全帶 本周緊盯超微、蘋果等財報 2026-11-01 02:56",
       "description": "美國晶片股10月30日大跌，費半重挫7.2%，因英特爾展望失色，加上Anthropic可能無法取得投資級評等的消息，令投資人對AI融資與回報更不放心。本周AMD、高通及蘋果財報、美國期中選舉和就業報告，將進一步考驗市場信心。",
       "publishedAt": "2026-10-31T20:49:52.942Z",
       "discoveredAt": "2026-10-31T20:49:52.942Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9849392?from=edn_maintab_index",
-      "title": "AI 太燒錢 Anthropic、OpenAI、Meta 三大咖遭嚴格檢驗 | 國際焦點 | 國際 | 經濟日報",
+      "title": "AI 太燒錢 Anthropic、OpenAI、Meta 三大咖遭嚴格檢驗 2026-11-01 02:50",
       "description": "AI業者龐大投資正面臨更嚴格的資金檢驗。Anthropic上市後可能無法立即取得投資級評等；OpenAI降低估值與募資目標；Meta則遭標普將評等展望調為負向。",
       "publishedAt": "2026-10-31T20:49:52.942Z",
       "discoveredAt": "2026-10-31T20:49:52.942Z",
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -84,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1338,36 +1338,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_42d6dfea03759f593704",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9835505?from=edn_maintab_index",
-      "title": "美晶片股本月來跌逾15% 科技三強財報 市場緊盯 2026-10-25 03:37",
-      "description": "美國晶片股本月已跌逾15%，美股本周將迎接微軟、Alphabet和亞馬遜財報，檢驗龐大AI支出的資金來源和投資回報。聯準會（Fed）決策、通膨數據接連登場，油價又逼近每桶117美元，科技股能否止穩面臨多重考驗。",
-      "publishedAt": "2026-10-24T21:56:16.203Z",
-      "discoveredAt": "2026-10-24T21:56:16.203Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_819d638005ef9aebc374",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1375,7 +1345,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9849453?from=edn_maintab_index",
-      "title": "鴻海：一年半產能被訂滿 相關伺服器市占上看五成 將加碼美國製造 | 產業熱點 | 產業 | 經濟日報",
+      "title": "鴻海：一年半產能被訂滿 相關伺服器市占上看五成 將加碼美國製造 2026-11-01 02:37",
       "description": "鴻海董事長劉揚偉接受CNBC訪問時表示，AI基礎設施需求未見明顯放緩，鴻海將擴大全球AI伺服器市占率，並增加美國製造布局。目前約四成的市占率，明年可能升至45%左右，未來幾年可望達五成。",
       "publishedAt": "2026-10-31T20:49:52.942Z",
       "discoveredAt": "2026-10-31T20:49:52.942Z",
@@ -1389,7 +1359,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1695,6 +1665,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_56096479f2320442f5f0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9849627?from=edn_newest_index",
+      "title": "【專家之眼】AI真能超越人性？畢凱艦長留給世界的領導課 | 國際焦點 | 國際 | 經濟日報",
+      "description": "10月28日，英國演員派屈克・史都華（Patrick Stewart）以86歲高齡辭世。這位演員曾經演過莎士比亞舞台劇，也在《X戰警》中飾演X教授，但最讓人懷念的，仍是《星艦迷航記》中的畢凱艦長（Jean-Luc Picard）。令人意外的是，悼念他的除了影迷，還有許多科學家、太空工程師與大學研究人員。他們懷念的除了精彩的科幻影集，還有畢凱艦長教會他們如何領導團隊、尊重知識，以及面對未知世界。",
+      "publishedAt": "2026-10-31T23:52:13.320Z",
+      "discoveredAt": "2026-10-31T23:52:13.320Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_96c29705639936d6686b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1702,7 +1702,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9849447?from=edn_maintab_index",
-      "title": "上市櫃現金股利大戶榜揭曉 鴻海郭台銘進帳124億蟬聯股息王 | 市場焦點 | 證券 | 經濟日報",
+      "title": "上市櫃現金股利大戶榜揭曉 鴻海郭台銘進帳124億蟬聯股息王 2026-11-01 02:41",
       "description": "隨人工智慧（AI）產業興起，相關供應鏈獲利大進補，連帶現金股利也水漲船高，上市櫃公司今年發放金額飆破2.5兆元，寫下歷史單年新高紀錄，大股東也荷包滿滿，其中，鴻海集團創辦人郭台銘今年收到約124億元股息，再次蟬聯「現金股利王」寶座。",
       "publishedAt": "2026-10-31T20:49:52.942Z",
       "discoveredAt": "2026-10-31T20:49:52.942Z",
@@ -1716,7 +1716,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1746,7 +1746,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T21:33:18.208Z",
+  "updatedAt": "2026-10-31T01:00:16.161Z",
   "candidates": [
+    {
+      "id": "cand_fd1e1692d6f19aff7c13",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9848217",
+      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國科技大廠財報不受市場青睞，加深對人工智慧（AI）投資熱潮的疑慮，科技股賣壓沉重，拖累美股今天受挫",
+      "publishedAt": "2026-10-31T00:59:59.956Z",
+      "discoveredAt": "2026-10-31T00:59:59.956Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5748b2bb458b9e209ba3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9848312?from=edn_newest_index",
+      "title": "美科技股大幅下修 蘋果超越輝達成全球最大企業 | 美股動態 | 國際 | 經濟日報",
+      "description": "受英特爾與Alphabet等業者財報展望不佳、現金緊縮等利空因素影響，投資人在本週收盤前拋售科技類股，AI晶片與高頻寬記...",
+      "publishedAt": "2026-10-31T00:59:59.956Z",
+      "discoveredAt": "2026-10-31T00:59:59.956Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_85ddaddd476129ca0491",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9848217?from=edn_maintab_index",
-      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑 | 美股動態 | 國際 | 經濟日報",
+      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑",
       "description": "美國科技大廠財報不受市場青睞，加深對人工智慧（AI）投資熱潮的疑慮，科技股賣壓沉重，拖累美股今天受挫",
       "publishedAt": "2026-10-30T21:33:04.678Z",
       "discoveredAt": "2026-10-30T21:33:04.678Z",
@@ -24,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9848045?from=edn_maintab_index",
-      "title": "聯發科財測報喜 三個上修 資料中心首款 AI 加速器已出貨 | 產業熱點 | 產業 | 經濟日報",
+      "title": "聯發科財測報喜 三個上修 資料中心首款 AI 加速器已出貨 2026-10-31 02:04",
       "description": "晶片大廠聯發科昨（30）日舉行法說會，公布三大數字上修的佳績。執行長蔡力行表示，資料中心首款AI加速器已出貨，有信心在本季達25億美元營收，優於原先預期；本季營收將強勁季增，全年美元營收成長將超越先前設定的高個位數百分比成長目標；他更預期資料中心營收將於2027年達先前營收目標區間的上緣，約160億美元，占AI加速器ASIC市場的20%市占率。",
       "publishedAt": "2026-10-30T21:33:04.678Z",
       "discoveredAt": "2026-10-30T21:33:04.678Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -70,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9848001?from=edn_maintab_index",
-      "title": "鴻海：明年營運雙位數成長 與 OpenAI 合作將更具體 | 產業熱點 | 產業 | 經濟日報",
+      "title": "鴻海：明年營運雙位數成長 與 OpenAI 合作將更具體 2026-10-31 01:27",
       "description": "鴻海董事長劉揚偉昨（30）日表示，明年產業趨勢仍是K型發展，與人工智慧（AI）資料中心有關的持續上升，其他則是另外一條線，鴻海明年表現看起來還不錯，維持兩位數成長。",
       "publishedAt": "2026-10-30T21:33:04.678Z",
       "discoveredAt": "2026-10-30T21:33:04.678Z",
@@ -84,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -849,7 +909,7 @@
         "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1188,36 +1248,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_41ec881fa19faf4b2450",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9834150?from=edn_maintab_index",
-      "title": "美公債殖利率急轉跌破5% 專家：風險匯集 激出避險買盤 2026-10-24 03:21",
-      "description": "美國10年期公債殖利率22日跌破5%，跌幅是兩年多來最大，並帶動亞洲公債殖利率23日盤中挫跌，扭轉了全球公債價格近來的頹勢。投資人與分析師解讀，中東風險升溫、國際油價上漲、人工智慧（AI）投資疑慮加劇及法國債務憂慮等風險同時匯聚，都強化投資人的避險行為，激起公債買盤。",
-      "publishedAt": "2026-10-23T22:39:41.006Z",
-      "discoveredAt": "2026-10-23T22:39:41.006Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_d1cce2a0782966f6b650",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1405,7 +1435,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9848043?from=edn_maintab_index",
-      "title": "國泰金李長庚力挺 AI 前景 硬體鏈還有發展機會 | 金融脈動 | 金融 | 經濟日報",
+      "title": "國泰金李長庚力挺 AI 前景 硬體鏈還有發展機會 2026-10-31 01:51",
       "description": "國泰金控總經理李長庚昨（30）日表示，AI科技尚在發展過程中，股市因此出現震盪是必然現象，目前AI仍持續被廣泛使用，算力需求也尚未獲得充分滿足，只要相關業者持續投入資本支出，台灣硬體供應鏈就仍有發展機會。",
       "publishedAt": "2026-10-30T21:33:04.678Z",
       "discoveredAt": "2026-10-30T21:33:04.678Z",
@@ -1419,7 +1449,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1462,7 +1492,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9847954?from=edn_maintab_index",
-      "title": "歷來最慘…外資本月大砍台股近兆元 公股低接2,409億創新高 | 市場焦點 | 證券 | 經濟日報",
+      "title": "歷來最慘…外資本月大砍台股近兆元 公股低接2,409億創新高 2026-10-31 02:21",
       "description": "台股10月土洋大對決，通膨增溫及人工智慧（AI）雜音等警報響起，引發外資單月大舉拋售9,943.1億元，單月歷史新高，投信、八大公股行庫分別逢低承接2,136.6億元、2,409.4億元，各為史上次高、最高水準。",
       "publishedAt": "2026-10-30T21:33:04.678Z",
       "discoveredAt": "2026-10-30T21:33:04.678Z",
@@ -1476,7 +1506,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1726,36 +1756,6 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9846110",
-      "title": "美股收盤／Alphabet 崩跌近13% 市值蒸發近5,000億美元 費半結束四連漲 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市周四下跌，Alphabet財報失色、AI支出激增，周四股價重挫12.6%，市值蒸發近5,000億美元，拖累那斯達克下跌1.4%，費半結束連四漲。不過，賣壓未擴及整體美股，資金轉向其他類股。",
-      "publishedAt": "2026-10-30T00:04:13.323Z",
-      "discoveredAt": "2026-10-30T00:04:13.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8d6a6980b24930410da5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9846110?from=edn_maintab_index",
       "title": "美股收盤／Alphabet 崩跌近13% 市值蒸發近5,000億美元 費半結束四連漲 | 美股動態 | 國際 | 經濟日報",
       "description": "美國股市周四下跌，Alphabet財報失色、AI支出激增，周四股價重挫12.6%，市值蒸發近5,000億美元，拖累那斯達克下跌1.4%，費半結束連四漲。不過，賣壓未擴及整體美股，資金轉向其他類股。",
       "publishedAt": "2026-10-30T00:04:13.323Z",

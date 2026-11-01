@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-01T03:36:10.069Z",
+  "updatedAt": "2026-11-01T10:47:46.487Z",
   "candidates": [
+    {
+      "id": "cand_5e005d5ff24c3ba01630",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9850436?from=edn_maintab_index",
+      "title": "美期中選舉牽動台韓股市！對亞洲股匯債影響全解析 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國3日即將舉行國會期中選舉，結果將牽動人工智慧（AI）類股、以及仰賴AI題材的亞洲股市。觀察家指出，如果民主黨囊括參、眾兩院過半席次，將加強監督人工智慧（AI）產業及資料中心建設，若共和黨勝選，可能延續現行政策，對台韓晶片製造商、及其他AI供應商的股價有利。",
+      "publishedAt": "2026-11-01T10:47:34.154Z",
+      "discoveredAt": "2026-11-01T10:47:34.154Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_820730ce58bcf7293893",
       "sourceLastModified": null,
@@ -1338,6 +1368,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e2750bc4e47f32ce5c88",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9850024?from=edn_maintab_index",
+      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海科技日，集團展示AI伺服器機櫃的垂直整合實力，不僅周產能翻倍，董事長展示劉揚偉接受外媒訪問更大談量子電腦搭配性，他指出，量子運算可視為加速器，解決現行不能解決的NP（非多項式問題），對於商業化可行性時程，他也首度透露至少還要兩年時間，比今年初談話更樂觀一點。",
+      "publishedAt": "2026-11-01T10:47:34.154Z",
+      "discoveredAt": "2026-11-01T10:47:34.154Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_819d638005ef9aebc374",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1717,66 +1777,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_97de63d60836d6b71d47",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9849416?from=edn_maintab_index",
-      "title": "市場不在乎期中選舉？歷史數據顯示：不論誰贏誰輸 選後美股都會漲",
-      "description": "美國期中選舉即將在11月3日登場，近日美股下跌看似反映選前退場觀望氣氛。但紐約時報分析指出，其實金融市場根本不在乎期中選舉誰輸誰贏，真正左右市場行情的是利率、通膨、人工智慧（AI）、關稅、伊朗戰爭與油價。",
-      "publishedAt": "2026-10-31T17:50:45.818Z",
-      "discoveredAt": "2026-10-31T17:50:45.818Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8c7a5e394c1c37902e63",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9849322?from=edn_maintab_index",
-      "title": "AI 泡沫爆了嗎？那斯達克大跌 跟2000年達康泡沫情景有何異同 | 美股動態 | 國際 | 經濟日報",
-      "description": "科技股為主的那斯達克指數周五（30日）寫下6月5日來最大單日跌幅紀錄，10月跌幅為一年多來最深。跌勢如此猛烈，令人聯想到達康泡沫爆裂的慘況。",
-      "publishedAt": "2026-10-31T17:50:45.818Z",
-      "discoveredAt": "2026-10-31T17:50:45.818Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

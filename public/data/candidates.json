@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-01T10:47:46.487Z",
+  "updatedAt": "2026-11-01T16:57:59.289Z",
   "candidates": [
+    {
+      "id": "cand_581b2c58957239973895",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9850629?from=edn_maintab_index",
+      "title": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控 | 金融脈動 | 金融 | 經濟日報",
+      "description": "美股科技股受AI投資回報疑慮衝擊，台股上周五重挫1,156點、失守半年線。據了解，金管會已緊盯年線、半年線及季線等重要均線走勢，及擔保維持率、借券賣出比重與違約率三大風險指標，必要時將採取相關措施。",
+      "publishedAt": "2026-11-01T16:57:49.452Z",
+      "discoveredAt": "2026-11-01T16:57:49.452Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_381ae907c06cd250bee5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9850629?from=edn_hottest_index",
+      "title": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控 | 金融脈動 | 金融 | 經濟日報",
+      "description": "美股科技股受AI投資回報疑慮衝擊，台股上周五重挫1,156點、失守半年線。據了解，金管會已緊盯年線、半年線及季線等重要均線走勢，及擔保維持率、借券賣出比重與違約率三大風險指標，必要時將採取相關措施。",
+      "publishedAt": "2026-11-01T16:57:49.452Z",
+      "discoveredAt": "2026-11-01T16:57:49.452Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5e005d5ff24c3ba01630",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9850436?from=edn_maintab_index",
-      "title": "美期中選舉牽動台韓股市！對亞洲股匯債影響全解析 | 國際焦點 | 國際 | 經濟日報",
+      "title": "美期中選舉牽動台韓股市！對亞洲股匯債影響全解析 2026-11-01 18:31",
       "description": "美國3日即將舉行國會期中選舉，結果將牽動人工智慧（AI）類股、以及仰賴AI題材的亞洲股市。觀察家指出，如果民主黨囊括參、眾兩院過半席次，將加強監督人工智慧（AI）產業及資料中心建設，若共和黨勝選，可能延續現行政策，對台韓晶片製造商、及其他AI供應商的股價有利。",
       "publishedAt": "2026-11-01T10:47:34.154Z",
       "discoveredAt": "2026-11-01T10:47:34.154Z",
@@ -24,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -921,7 +981,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1368,6 +1428,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_f0f22da726972e9065c7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9850024?from=edn_hottest_index",
+      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海科技日，集團展示AI伺服器機櫃的垂直整合實力，不僅周產能翻倍，董事長展示劉揚偉接受外媒訪問更大談量子電腦搭配性，他指出，量子運算可視為加速器，解決現行不能解決的NP（非多項式問題），對於商業化可行性時程，他也首度透露至少還要兩年時間，比今年初談話更樂觀一點。",
+      "publishedAt": "2026-11-01T16:57:49.452Z",
+      "discoveredAt": "2026-11-01T16:57:49.452Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c5d0e08832db22c45dfa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9850894?from=edn_newest_index",
+      "title": "矽晶圓春燕提前報到 業者出貨比預期強 價格一定漲 環球晶、台勝科、合晶大進補 | 產業熱點 | 產業 | 經濟日報",
+      "description": "半導體矽晶圓市場春燕提前報到。業者透露，AI推動先進製程需求強勁，矽晶圓市況比預期強，現階段客戶拉貨力道優於預期，原定今年底拉完的貨現在已提前拉完，部分原本要在2027年初出貨的訂單也提早一季開始拉貨，新接訂單報價「漲定了」。",
+      "publishedAt": "2026-11-01T16:57:49.452Z",
+      "discoveredAt": "2026-11-01T16:57:49.452Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_e2750bc4e47f32ce5c88",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1375,7 +1495,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9850024?from=edn_maintab_index",
-      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算 | 產業熱點 | 產業 | 經濟日報",
+      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算 2026-11-01 12:26",
       "description": "鴻海科技日，集團展示AI伺服器機櫃的垂直整合實力，不僅周產能翻倍，董事長展示劉揚偉接受外媒訪問更大談量子電腦搭配性，他指出，量子運算可視為加速器，解決現行不能解決的NP（非多項式問題），對於商業化可行性時程，他也首度透露至少還要兩年時間，比今年初談話更樂觀一點。",
       "publishedAt": "2026-11-01T10:47:34.154Z",
       "discoveredAt": "2026-11-01T10:47:34.154Z",
@@ -1389,7 +1509,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1663,123 +1783,6 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0a1f7a2f03757f96c124",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9848043?from=edn_maintab_index",
-      "title": "國泰金李長庚力挺 AI 前景 硬體鏈還有發展機會 2026-10-31 01:51",
-      "description": "國泰金控總經理李長庚昨（30）日表示，AI科技尚在發展過程中，股市因此出現震盪是必然現象，目前AI仍持續被廣泛使用，算力需求也尚未獲得充分滿足，只要相關業者持續投入資本支出，台灣硬體供應鏈就仍有發展機會。",
-      "publishedAt": "2026-10-30T21:33:04.678Z",
-      "discoveredAt": "2026-10-30T21:33:04.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7663001a610357e20f9f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
-      "description": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
-      "publishedAt": "Tue, 27 Oct 2026 05:52:00 GMT",
-      "discoveredAt": "2026-10-27T11:40:49.595Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_56096479f2320442f5f0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9849627?from=edn_newest_index",
-      "title": "【專家之眼】AI真能超越人性？畢凱艦長留給世界的領導課 | 國際焦點 | 國際 | 經濟日報",
-      "description": "10月28日，英國演員派屈克・史都華（Patrick Stewart）以86歲高齡辭世。這位演員曾經演過莎士比亞舞台劇，也在《X戰警》中飾演X教授，但最讓人懷念的，仍是《星艦迷航記》中的畢凱艦長（Jean-Luc Picard）。令人意外的是，悼念他的除了影迷，還有許多科學家、太空工程師與大學研究人員。他們懷念的除了精彩的科幻影集，還有畢凱艦長教會他們如何領導團隊、尊重知識，以及面對未知世界。",
-      "publishedAt": "2026-10-31T23:52:13.320Z",
-      "discoveredAt": "2026-10-31T23:52:13.320Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_96c29705639936d6686b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9849447?from=edn_maintab_index",
-      "title": "上市櫃現金股利大戶榜揭曉 鴻海郭台銘進帳124億蟬聯股息王 2026-11-01 02:41",
-      "description": "隨人工智慧（AI）產業興起，相關供應鏈獲利大進補，連帶現金股利也水漲船高，上市櫃公司今年發放金額飆破2.5兆元，寫下歷史單年新高紀錄，大股東也荷包滿滿，其中，鴻海集團創辦人郭台銘今年收到約124億元股息，再次蟬聯「現金股利王」寶座。",
-      "publishedAt": "2026-10-31T20:49:52.942Z",
-      "discoveredAt": "2026-10-31T20:49:52.942Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false

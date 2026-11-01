@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-01T16:57:59.289Z",
+  "updatedAt": "2026-11-01T21:07:32.900Z",
   "candidates": [
+    {
+      "id": "cand_0a6fac8bef3c790477c5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9850769?from=edn_maintab_index",
+      "title": "美期中選舉估掀「藍色浪潮」無論結果如何 美債都將面臨壓力 | 國際焦點 | 國際 | 經濟日報",
+      "description": "投資人本周將迎接美國國會期中選舉，隨著共和黨選情為高油價與高通膨所苦，市場將關注是否出現民主黨橫掃參、眾兩院掌控權的「藍色浪潮」。彭博資訊分析，民主黨一旦大獲全勝，恐對人工智慧（AI）推行更嚴格的監管；若民主黨選情不如預期，反而可能觸動市場漲勢，美元上漲動能可望挺過選舉亂流。",
+      "publishedAt": "2026-11-01T21:07:16.982Z",
+      "discoveredAt": "2026-11-01T21:07:16.982Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_76e1c8cca0ed4c9909e7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9850830?from=edn_maintab_index",
+      "title": "美國會選舉牽動台韓 AI 股 民主黨掌控兩院 將加強監督資料中心建設 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國3日即將舉行國會期中選舉，結果將牽動人工智慧（AI）類股、以及仰賴AI題材的亞洲股市。觀察家指出，如果民主黨囊括參、眾兩院過半席次，將加強監督AI產業及資料中心建設；若共和黨勝選，可能延續現行政策，對台韓晶片製造商、及其他AI供應商的股價有利。",
+      "publishedAt": "2026-11-01T21:07:16.982Z",
+      "discoveredAt": "2026-11-01T21:07:16.982Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_581b2c58957239973895",
       "sourceLastModified": null,
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9850629?from=edn_hottest_index",
-      "title": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控 | 金融脈動 | 金融 | 經濟日報",
+      "title": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控",
       "description": "美股科技股受AI投資回報疑慮衝擊，台股上周五重挫1,156點、失守半年線。據了解，金管會已緊盯年線、半年線及季線等重要均線走勢，及擔保維持率、借券賣出比重與違約率三大風險指標，必要時將採取相關措施。",
       "publishedAt": "2026-11-01T16:57:49.452Z",
       "discoveredAt": "2026-11-01T16:57:49.452Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1398,17 +1458,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b41319ec3cac3be5fc5d",
+      "id": "cand_b82d68993b480b561224",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9836750?from=edn_maintab_index",
-      "title": "晶片業財報掀牌關鍵 48 小時 市場聚焦資本支出、產能限制等議題 2026-10-26 02:08",
-      "description": "人工智慧（AI）與晶片產業本周將面臨「關鍵財報48小時」，從SK海力士到微軟、Alphabet、三星電子及亞馬遜，將陸續在台灣時間周三（28日）上午到周五凌晨公布上季財報，市場聚焦這些超大規模雲端業者的資本支出與產能限制，記憶體廠的觀察重點則在擴產規畫等。",
-      "publishedAt": "2026-10-25T19:49:02.109Z",
-      "discoveredAt": "2026-10-25T19:49:02.109Z",
+      "url": "https://money.udn.com/money/story/5612/9850711?from=edn_maintab_index",
+      "title": "矽晶圓三雄提前迎春燕 客戶拉貨力道優於預期 預告報價「漲定了」 | 產業熱點 | 產業 | 經濟日報",
+      "description": "半導體矽晶圓市場春燕提前報到。業者透露，AI推動先進製程需求強勁，矽晶圓市況比預期強，現階段客戶拉貨力道優於預期，原定今年底拉完的貨現在已提前拉完，部分原本要在2027年初出貨的訂單也提早一季開始拉貨，新接訂單報價「漲定了」。",
+      "publishedAt": "2026-11-01T21:07:16.982Z",
+      "discoveredAt": "2026-11-01T21:07:16.982Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1419,11 +1479,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1435,7 +1495,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9850024?from=edn_hottest_index",
-      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算 | 產業熱點 | 產業 | 經濟日報",
+      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算 2026-11-01 12:26",
       "description": "鴻海科技日，集團展示AI伺服器機櫃的垂直整合實力，不僅周產能翻倍，董事長展示劉揚偉接受外媒訪問更大談量子電腦搭配性，他指出，量子運算可視為加速器，解決現行不能解決的NP（非多項式問題），對於商業化可行性時程，他也首度透露至少還要兩年時間，比今年初談話更樂觀一點。",
       "publishedAt": "2026-11-01T16:57:49.452Z",
       "discoveredAt": "2026-11-01T16:57:49.452Z",
@@ -1449,7 +1509,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1720,66 +1780,6 @@
         "Taiwan"
       ],
       "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_50526e5df2dc0c43e1b0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9843344?from=edn_maintab_index",
-      "title": "甲骨文兩路衝 AI 帶旺台鏈 台積、廣達、緯創等業績添柴火 | 產業熱點 | 產業 | 經濟日報",
-      "description": "甲骨文（Oracle）兩路並進衝AI，一方面擴大與輝達合作，將搭載輝達新一代Vera Rubin的AI伺服器部署規模擴大至數百萬瓩等級，同時將導入Google張量處理器（TPU）的伺服器，提升算力供應。",
-      "publishedAt": "2026-10-28T22:53:54.476Z",
-      "discoveredAt": "2026-10-28T22:53:54.476Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_8242c2338b8c23e3103a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5603/9842170?from=edn_newest_index",
-      "title": "韓記憶體廠在陸仍吃香 阿里等AI巨頭搶跟三星、SK海力士簽10年約",
-      "description": "",
-      "publishedAt": "2026-10-28T06:12:54.963Z",
-      "discoveredAt": "2026-10-28T06:12:54.963Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

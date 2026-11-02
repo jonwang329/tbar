@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-02T06:54:59.199Z",
+  "updatedAt": "2026-11-02T16:50:27.889Z",
   "candidates": [
+    {
+      "id": "cand_0b6ac6e932a1bde2f55d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9852776?from=edn_maintab_index",
+      "title": "達成協議！邁威爾全股票收購 Lumentum 企業價值達1150億美元 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）熱潮持續推動全球科技產業整併，美國半導體大廠邁威爾（Marvell Technology）宣布已達成協議，將收購資料中心光學元件製造商Lumentum控股公司，這樁交易的企業價值高達1,150億美元，是迄今規模最大的科技併購交易之一，凸顯AI資料中心對高速光通訊技術的需求急速攀升，也顯示晶片業者正加速整合關鍵技術，搶占下一波AI基礎建設商機。",
+      "publishedAt": "2026-11-02T16:50:14.230Z",
+      "discoveredAt": "2026-11-02T16:50:14.230Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_de89c3aabf37ee3ade0b",
       "sourceLastModified": null,
@@ -1439,36 +1469,6 @@
       "description": "臉書母公司Meta，正尋求多達950億美元的股權融資，以支應人工智慧（AI）基礎設施及個人超級智慧投資。輝達（NVIDIA）、超微（AMD）和博通，已同意合計認購最多50億美元的普通股，激勵Meta股價26日盤前上漲1.6%。",
       "publishedAt": "2026-10-26T17:24:26.778Z",
       "discoveredAt": "2026-10-26T17:24:26.778Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_297ffe910e8a69f503b1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9837595?from=edn_maintab_index",
-      "title": "SK海力士傳配16兆韓元特別股利 兩檔槓桿 ETF 將清算退場 | 國際焦點 | 國際 | 經濟日報",
-      "description": "SK海力士傳出擬發放16兆韓元（120億美元）特別股利，股價周一盤中逆勢漲3%。但AI投資熱降溫，美國兩檔連結其ADR的槓桿和反向ETF，掛牌僅數月便將清算退場。",
-      "publishedAt": "2026-10-26T11:10:04.597Z",
-      "discoveredAt": "2026-10-26T11:10:04.597Z",
       "topics": [
         "Taiwan business",
         "investment",

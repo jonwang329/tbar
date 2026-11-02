@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-02T00:47:23.849Z",
+  "updatedAt": "2026-11-02T06:54:59.199Z",
   "candidates": [
     {
       "id": "cand_de89c3aabf37ee3ade0b",
@@ -204,7 +204,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1488,36 +1488,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_9fb4f8befd0cb4f5aea7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9837029?from=edn_hottest_index",
-      "title": "馬斯克稱SpaceX籌妥400億美元購輝達晶片 料新雲端「孔雀魚」般淘汰 | 國際焦點 | 國際 | 經濟日報",
-      "description": "馬斯克表示，SpaceX已完成規模400億美元的舉債交易，用來購買發展AI所需的晶片。不過，他未說明所謂「完成」的具體情況，投資人是否已同意融資定價，也還不清楚。",
-      "publishedAt": "2026-10-26T05:08:01.987Z",
-      "discoveredAt": "2026-10-26T05:08:01.987Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_b82d68993b480b561224",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1784,6 +1754,36 @@
       "taiwanScore": 90,
       "businessScore": 85,
       "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_db505f0a52ca9eeb8c0c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9851891",
+      "title": "AI 訂單旺景氣仍降溫 台灣10月 PMI 回落至54.9 日韓製造業同步放緩 | 國際焦點 | 國際 | 經濟日報",
+      "description": "亞洲主要晶片出口國家10月製造業持續擴張，不過成長趨緩。台灣製造業採購經理人指數（PMI）從逾五年高點降至54.9，仍連續11個月擴張；日本、南韓及中國大陸也轉弱。晶片和AI需求雖仍強勁，中東戰爭推高能源及食品價格，正侵蝕消費與企業信心。",
+      "publishedAt": "2026-11-02T06:54:47.051Z",
+      "discoveredAt": "2026-11-02T06:54:47.051Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     }

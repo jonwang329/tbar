@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-02T16:50:27.889Z",
+  "updatedAt": "2026-11-02T23:44:58.762Z",
   "candidates": [
     {
       "id": "cand_0b6ac6e932a1bde2f55d",
@@ -1428,47 +1428,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_7fe3e6a9613c1d4f29ec",
+      "id": "cand_89d746a67ad75ec5de5b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9838443?from=edn_maintab_index",
-      "title": "SpaceX 狂掃輝達晶片 台積、廣達等有望迎新一波訂單 2026-10-27 02:23",
-      "description": "SpaceX執行長馬斯克宣布，SpaceX將完成400億美元（逾新台幣1.2兆元）設備融資，將用來購買發展AI所需晶片，並以輝達GPU為主要採購對象。法人看好，SpaceX砸重金買輝達AI晶片衝刺AI，將帶旺台積電、鴻海、廣達、緯創等協力廠。",
-      "publishedAt": "2026-10-26T21:45:21.245Z",
-      "discoveredAt": "2026-10-26T21:45:21.245Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2c90c5b1a463ea07c2d7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9838199?from=edn_maintab_index",
-      "title": "Meta 增資950億美元 輝達等三晶片巨頭捧場 | 美股動態 | 國際 | 經濟日報",
-      "description": "臉書母公司Meta，正尋求多達950億美元的股權融資，以支應人工智慧（AI）基礎設施及個人超級智慧投資。輝達（NVIDIA）、超微（AMD）和博通，已同意合計認購最多50億美元的普通股，激勵Meta股價26日盤前上漲1.6%。",
-      "publishedAt": "2026-10-26T17:24:26.778Z",
-      "discoveredAt": "2026-10-26T17:24:26.778Z",
+      "url": "https://money.udn.com/money/story/123398/9853164?from=edn_maintab_index",
+      "title": "Anthropic 第3季營收年增逾11倍 最快下周 IPO | 美股動態 | 國際 | 經濟日報",
+      "description": "美國人工智慧（AI）公司Anthropic今天報告第3季營收較去年同期暴增逾1100%，公司預計本月稍後在華爾街上市",
+      "publishedAt": "2026-11-02T23:44:44.166Z",
+      "discoveredAt": "2026-11-02T23:44:44.166Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1483,7 +1453,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1785,6 +1755,33 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7663001a610357e20f9f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+      "description": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
+      "publishedAt": "Tue, 27 Oct 2026 05:52:00 GMT",
+      "discoveredAt": "2026-10-27T11:40:49.595Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,127 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-02T23:44:58.762Z",
+  "updatedAt": "2026-11-03T04:04:17.036Z",
   "candidates": [
+    {
+      "id": "cand_cf61a9d4ea86fe53c113",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5710/9853716",
+      "title": "華邦電探149.5元！環球晶、富世達法說前齊跌 市場關注焦點一次看 | 集中市場 | 證券 | 經濟日報",
+      "description": "AI資本支出持續攀升，獲利回收速度卻跟不上投資規模，成為近期全球科技股重挫的重要原因之一。市場從追逐AI成長，轉向檢視龐大投資能否轉化為實質獲利。華邦電（2344）、富世達（6805）、環球晶（6488）3日同日舉辦法說會，分別牽動記憶體、AI伺服器水冷供應鏈與半導體材料，營運展望能否支撐市場期待，備受關注。",
+      "publishedAt": "2026-11-03T04:04:02.175Z",
+      "discoveredAt": "2026-11-03T04:04:02.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d6c66ab9c01b45bce83e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9853902?from=edn_maintab_index",
+      "title": "世紀併購變大利空？邁威爾、Lumentum 重挫 穩懋跌停領跌光通訊族群 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI資料中心光通訊版圖再掀世紀級整併，邁威爾斥資1,150億美元收購Lumentum，原被市場視為CPO產業布局的重要訊號，但美股兩家公司股價公布消息後反而重挫，賣壓也延續至台股。光通訊族群3日普遍走弱，穩懋（3105）、聯亞（3081）、華星光（4979）盤中紛紛觸及跌停，訊芯-KY（6451）及鼎元（2426）等也同步承壓。",
+      "publishedAt": "2026-11-03T04:04:02.175Z",
+      "discoveredAt": "2026-11-03T04:04:02.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aaf8fd7d2e8ec506864c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9853580?from=edn_maintab_index",
+      "title": "AI 籌資代價變高！甲骨文折價11%售股 Alphabet 發債付出更高溢價 | 美股動態 | 國際 | 經濟日報",
+      "description": "大型科技公司投資狂潮延續，也持續向市場大舉籌資，但顯然必須付出更高的代價。知情人士透露，甲骨文準備以折價11%的方式出售100億美元的股票；Alphabet透過今年第二度發行歐元債券籌得67億美元，但付出更高的溢價吸引買家；Meta則傳出考慮透過跨境發行債券籌資至少200億美元。",
+      "publishedAt": "2026-11-03T04:04:02.175Z",
+      "discoveredAt": "2026-11-03T04:04:02.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d72571b33677f8d8427b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9853478?from=edn_maintab_index",
+      "title": "市場悲觀情緒發酵 那斯達克100指數跌入修正區 今年來第三度 | 美股動態 | 國際 | 經濟日報",
+      "description": "隨著投資人對大型科技股與人工智慧（AI）交易日益悲觀，那斯達克100指數2日跌入修正區。",
+      "publishedAt": "2026-11-03T04:04:02.175Z",
+      "discoveredAt": "2026-11-03T04:04:02.175Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_0b6ac6e932a1bde2f55d",
       "sourceLastModified": null,
@@ -1371,63 +1491,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d815a7dc14511f960f6b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9838747",
-      "title": "為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力 | 國際焦點 | 國際 | 經濟日報",
-      "description": "微軟周一（26日）表示，將向約6萬名員工提供自願離職方案，這相當於全球逾四分之一的員工，藉此削減成本、調整人力結構，並協助支應大規模AI投資的資金需求。",
-      "publishedAt": "2026-10-27T00:53:15.524Z",
-      "discoveredAt": "2026-10-27T00:53:15.524Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1ad24f0057f319d643a4",
-      "sourceLastModified": "2026-10-29T17:09:08.000Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
-      "discoveredAt": "2026-10-28T00:27:17.869Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_89d746a67ad75ec5de5b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1435,7 +1498,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9853164?from=edn_maintab_index",
-      "title": "Anthropic 第3季營收年增逾11倍 最快下周 IPO | 美股動態 | 國際 | 經濟日報",
+      "title": "Anthropic 第3季營收年增逾11倍 最快下周 IPO 2026-11-03 01:12",
       "description": "美國人工智慧（AI）公司Anthropic今天報告第3季營收較去年同期暴增逾1100%，公司預計本月稍後在華爾街上市",
       "publishedAt": "2026-11-02T23:44:44.166Z",
       "discoveredAt": "2026-11-02T23:44:44.166Z",
@@ -1449,7 +1512,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1725,63 +1788,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_db505f0a52ca9eeb8c0c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9851891",
-      "title": "AI 訂單旺景氣仍降溫 台灣10月 PMI 回落至54.9 日韓製造業同步放緩 | 國際焦點 | 國際 | 經濟日報",
-      "description": "亞洲主要晶片出口國家10月製造業持續擴張，不過成長趨緩。台灣製造業採購經理人指數（PMI）從逾五年高點降至54.9，仍連續11個月擴張；日本、南韓及中國大陸也轉弱。晶片和AI需求雖仍強勁，中東戰爭推高能源及食品價格，正侵蝕消費與企業信心。",
-      "publishedAt": "2026-11-02T06:54:47.051Z",
-      "discoveredAt": "2026-11-02T06:54:47.051Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7663001a610357e20f9f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
-      "description": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
-      "publishedAt": "Tue, 27 Oct 2026 05:52:00 GMT",
-      "discoveredAt": "2026-10-27T11:40:49.595Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

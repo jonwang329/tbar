@@ -1,7 +1,34 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:04:17.036Z",
+  "updatedAt": "2026-11-03T11:51:39.891Z",
   "candidates": [
+    {
+      "id": "cand_c48c32cb7251a6892548",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "description": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
+      "publishedAt": "Tue, 03 Nov 2026 07:00:12 GMT",
+      "discoveredAt": "2026-11-03T11:51:16.951Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_cf61a9d4ea86fe53c113",
       "sourceLastModified": null,
@@ -1742,36 +1769,6 @@
       "description": "美股30日早盤下跌，由於交易員拋售多檔與人工智慧（AI）相關的重要股票，那斯達克指數大跌2.9%；道瓊工業指數和標普500指數則分別下跌0.3%和1.2%；費城半導體指數大跌5.6%，台積電ADR則大跌3.8%。",
       "publishedAt": "2026-10-30T17:14:05.693Z",
       "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5c30d540746bd6a6412e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9845838?from=edn_maintab_index",
-      "title": "AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起 | 美股動態 | 國際 | 經濟日報",
-      "description": "微軟、甲骨文、Google等三大雲端巨頭釋出營運及財測展望。微軟、甲骨文對未來看法正面，但Google母公司字母（Alphabet）在28日盤後釋出自由現金流連二季為負值，且負數擴大的壞消息，再度讓市場對「AI能否真的賺到錢」的疑慮再起。",
-      "publishedAt": "2026-10-30T00:04:13.323Z",
-      "discoveredAt": "2026-10-30T00:04:13.323Z",
       "topics": [
         "Taiwan business",
         "investment",

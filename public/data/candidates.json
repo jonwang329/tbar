@@ -1,7 +1,94 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T18:53:04.764Z",
+  "updatedAt": "2026-11-03T23:50:23.967Z",
   "candidates": [
+    {
+      "id": "cand_3448afb0641d03c5b9d3",
+      "sourceLastModified": "2026-11-03T23:50:04.505Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/openai-and-foxconn-collaborate",
+      "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+      "description": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key components domestically to accelerate advanced AI infrastructure.",
+      "publishedAt": "2026-11-03T23:50:04.505Z",
+      "discoveredAt": "2026-10-20T17:56:05.320Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5a8d116480e4b276a4a2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9855751",
+      "title": "美股收盤／晶片股反攻 費半漲2.6% 靜待期中選舉結果 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）相關股反彈，帶動標普500和那斯達克指數周二收高，道瓊則下跌。投資人等待美國期中選舉結果，也對伊朗戰事能否近期落幕存疑。",
+      "publishedAt": "2026-11-03T23:50:03.365Z",
+      "discoveredAt": "2026-11-03T23:50:03.365Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b338f4e9546e39ec8bfe",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9855751?from=edn_maintab_index",
+      "title": "美股收盤／晶片股反攻 費半漲2.6% 靜待期中選舉結果 | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）相關股反彈，帶動標普500和那斯達克指數周二收高，道瓊則下跌。投資人等待美國期中選舉結果，也對伊朗戰事能否近期落幕存疑。",
+      "publishedAt": "2026-11-03T23:50:03.365Z",
+      "discoveredAt": "2026-11-03T23:50:03.365Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9d4a86ae01daa2ec18fd",
       "sourceLastModified": null,
@@ -51,7 +138,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1461,17 +1548,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_db43b140dfa1f06ac578",
+      "id": "cand_342b2abc6f2c624c955e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9840840?from=edn_maintab_index",
-      "title": "Anthropic IPO 招股書揭密將砸 8,000 億美元買 TPU、GPU 等 台鏈沾光 2026-10-28 01:46",
-      "description": "AI模型開發商Anthropic申請首次公開發行股票（IPO），招股書申報文件大揭密，公司承諾未來多年運算資源支出高達逾8,000億美元（逾新台幣25兆元），將大舉採購Google張量處理器（TPU）、輝達GPU，以及亞馬遜的ASIC自研晶片等。",
-      "publishedAt": "2026-10-27T21:03:15.266Z",
-      "discoveredAt": "2026-10-27T21:03:15.266Z",
+      "url": "https://money.udn.com/money/story/123398/9855771",
+      "title": "美超微上季營收逼近去年同期四倍 上修全年展望 盤後大漲8.3% | 美股動態 | 國際 | 經濟日報",
+      "description": "受惠於AI伺服器需求強勁，美超微電腦（Super Micro Computer）上季營收增至去年同期近四倍，本季展望也優於預期，並調高全年營收預測，周二盤後股價大漲8.3%。",
+      "publishedAt": "2026-11-03T23:50:03.365Z",
+      "discoveredAt": "2026-11-03T23:50:03.365Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1482,11 +1569,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1509,7 +1596,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1690,96 +1777,6 @@
         "Taiwan"
       ],
       "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_454834ccc3a77ea2ceae",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9845355?from=edn_hottest_index",
-      "title": "NAND漲價只是表面！群聯真正的新故事在AI儲存與邊緣運算 | 市場焦點 | 證券 | 經濟日報",
-      "description": "今年記憶體產業最值得關注的變化，不只是NAND Flash價格上漲，而是AI正重新改寫儲存市場的需求結構。過去市場把群聯（8299）視為NAND控制晶片與儲存模組廠，但鍾魁認為，現在更應該關注的是群聯從控制晶片走向企業級SSD，再跨入AI儲存與邊緣運算平台的轉型成果。 先看財務數據，群聯2026年9月營收306.39億元，年增370％，第三季營收860.77億元，季增27％；累計1至9月營收達1,949.32億元，年增290.92％，寫下歷史新高。上半年正式EPS高達187.43元，第二季毛利率達65.31％，展現NAND供給吃緊、產品漲價及高附加價值產品放量帶來的獲利爆發力。由於第三季財報尚未公布，依營收及淨利率估算，前三季EPS站上3字頭的機率相當高，待後續公司的正確數據，才能進一步評估第四季的獲利數據。 進入第四季，群聯最大的營運看點，在於AI產品比重能否繼續提高。第二季AI Ecosystem模組營收占比為38％，到了9月已突破50％，顯示企業級SSD、AI伺服器開機碟、AI Networking及客製化儲存需求正在加速成長。尤其Pascari企業級SSD、PCIe Gen",
-      "publishedAt": "2026-10-31T13:20:42.140Z",
-      "discoveredAt": "2026-10-31T13:20:42.140Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_cf04f987e04dff08c2bc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9848395?from=edn_maintab_index",
-      "title": "產能訂滿至少一年半 劉揚偉 CNBC 受訪拚鴻海 AI 伺服器市占達五成 2026-10-31 09:42",
-      "description": "鴻海（2317）董事長劉揚偉接受CNBC訪問時表示，AI基礎設施需求未見明顯放緩，鴻海將擴大全球AI伺服器市占率，並增加美國製造布局。目前約四成的市占率，明年可能升至45%左右，未來幾年可望達五成。",
-      "publishedAt": "2026-10-31T06:54:55.984Z",
-      "discoveredAt": "2026-10-31T06:54:55.984Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d1cce2a0782966f6b650",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9847882?from=edn_maintab_index",
-      "title": "美股早盤／科技股賣壓超重 那指摔近3% 費半廢 英特爾暴跌29% | 美股動態 | 國際 | 經濟日報",
-      "description": "美股30日早盤下跌，由於交易員拋售多檔與人工智慧（AI）相關的重要股票，那斯達克指數大跌2.9%；道瓊工業指數和標普500指數則分別下跌0.3%和1.2%；費城半導體指數大跌5.6%，台積電ADR則大跌3.8%。",
-      "publishedAt": "2026-10-30T17:14:05.693Z",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

@@ -1,7 +1,61 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T23:50:23.967Z",
+  "updatedAt": "2026-11-04T04:09:13.715Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-11-04T04:09:13.715Z",
+      "discoveredAt": "2026-11-04T04:09:13.715Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_107501d2dc0381399e23",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9856474",
+      "title": "美期中選舉／俄州州長換民主黨上台 「資料中心公投」牽動建設前景 | 國際焦點 | 國際 | 經濟日報",
+      "description": "選舉分析機構Decision Desk HQ推估，民主黨籍的艾克頓（Amy Acton）將當選俄亥俄州長。俄亥俄州是美國資料中心重鎮，選舉結果備受市場關注。",
+      "publishedAt": "2026-11-04T04:08:30.843Z",
+      "discoveredAt": "2026-11-04T04:08:30.843Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_3448afb0641d03c5b9d3",
       "sourceLastModified": "2026-11-03T23:50:04.505Z",
@@ -67,7 +121,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9855751?from=edn_maintab_index",
-      "title": "美股收盤／晶片股反攻 費半漲2.6% 靜待期中選舉結果 | 美股動態 | 國際 | 經濟日報",
+      "title": "美股收盤／晶片股反攻 費半漲2.6% 靜待期中選舉結果 2026-11-04 06:43",
       "description": "人工智慧（AI）相關股反彈，帶動標普500和那斯達克指數周二收高，道瓊則下跌。投資人等待美國期中選舉結果，也對伊朗戰事能否近期落幕存疑。",
       "publishedAt": "2026-11-03T23:50:03.365Z",
       "discoveredAt": "2026-11-03T23:50:03.365Z",
@@ -81,7 +135,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1494,60 +1548,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-10-28T00:27:34.767Z",
-      "discoveredAt": "2026-10-28T00:27:34.767Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_3709d4d820681db65dfc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9841150?from=edn_maintab_index",
-      "title": "美股收盤／四大指數收紅費半狂飆3.6% AI 股領漲 WTI 原油跌破100美元 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市四大指數周二（27日）收紅，由於Anthropic繼續推動上市，緩解科技股投資者的擔憂，AI概念股反彈，費城半導體指數大漲超過3%。伊朗最高領袖重申結束戰爭的條件，國際油價走跌。",
-      "publishedAt": "2026-10-28T00:27:17.869Z",
-      "discoveredAt": "2026-10-28T00:27:17.869Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_342b2abc6f2c624c955e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1596,7 +1596,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-04T04:09:13.715Z",
+  "updatedAt": "2026-11-04T12:11:41.707Z",
   "candidates": [
+    {
+      "id": "cand_7684ae4670f751c1783d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9856863?from=edn_maintab_index",
+      "title": "美期中選舉／德州變天 AI 資料中心還能蓋哪裡？CoreWeave、SpaceX 重挫 2026-11-04 14:00",
+      "description": "",
+      "publishedAt": "2026-11-04T12:11:26.707Z",
+      "discoveredAt": "2026-11-04T12:11:26.707Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceId": "wechat-curated",
@@ -18,7 +48,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -192,7 +222,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1488,66 +1518,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_f04cee4432a62e54ab21",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9841945",
-      "title": "Anthropic 算力布局點火 ASIC！聯發科甩連5跌強彈逾6% 創意、智原漲停 | 市場焦點 | 證券 | 經濟日報",
-      "description": "AI模型開發商Anthropic申請IPO，據媒體依申報文件統計，未來多年算力相關合約與預估支出規模約達8,070億美元（逾新台幣25兆元），Google TPU、輝達（NVIDIA）GPU及亞馬遜Trainium等晶片供應鏈受到關注。台股28日ASIC族群買盤升溫，創意（3443）、智原（3035）盤中攻上漲停，世芯-KY（3661）漲逾8%；聯發科（2454）也在連跌5個交易日後強勢反彈，盤中漲幅達6.69%。",
-      "publishedAt": "2026-10-28T06:12:54.963Z",
-      "discoveredAt": "2026-10-28T06:12:54.963Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0f2f83f7133fc4445498",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9841945?from=edn_maintab_index",
-      "title": "Anthropic 算力布局點火 ASIC！聯發科甩連5跌強彈逾6% 創意、智原漲停 | 市場焦點 | 證券 | 經濟日報",
-      "description": "AI模型開發商Anthropic申請IPO，據媒體依申報文件統計，未來多年算力相關合約與預估支出規模約達8,070億美元（逾新台幣25兆元），Google TPU、輝達（NVIDIA）GPU及亞馬遜Trainium等晶片供應鏈受到關注。台股28日ASIC族群買盤升溫，創意（3443）、智原（3035）盤中攻上漲停，世芯-KY（3661）漲逾8%；聯發科（2454）也在連跌5個交易日後強勢反彈，盤中漲幅達6.69%。",
-      "publishedAt": "2026-10-28T06:12:54.963Z",
-      "discoveredAt": "2026-10-28T06:12:54.963Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_342b2abc6f2c624c955e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1782,6 +1752,34 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d485926ae9c8c4e1c379",
+      "sourceLastModified": "2026-11-03",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/12616",
+      "title": "Meeting with international AI companies on information integrity alignment assembly｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with international AI companies on information integrity alignment assembly",
+      "publishedAt": "2026-11-03",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

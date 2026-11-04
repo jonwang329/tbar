@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-04T12:11:41.707Z",
+  "updatedAt": "2026-11-04T19:47:59.799Z",
   "candidates": [
     {
       "id": "cand_7684ae4670f751c1783d",
@@ -48,7 +48,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1491,33 +1491,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_6c5f93c5dcaf03ec6482",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
-      "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "description": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
-      "publishedAt": "Wed, 28 Oct 2026 15:00:46 GMT",
-      "discoveredAt": "2026-10-28T18:47:05.807Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_342b2abc6f2c624c955e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1566,7 +1539,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1779,6 +1752,33 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_47bdf014d8ede940227b",
+      "sourceLastModified": "2026-11-04",
+      "sourceId": "deepmind-blog",
+      "sourceName": "Google DeepMind",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "title": "On-Device AI Against Scams: Google DeepMind & MDDI — Google DeepMind",
+      "description": "",
+      "publishedAt": "2026-11-04",
+      "discoveredAt": "2026-10-14T02:55:23.384Z",
+      "topics": [
+        "AI",
+        "research",
+        "models",
+        "science"
+      ],
+      "countries": [],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     }

@@ -1,7 +1,91 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-05T15:42:51.749Z",
+  "updatedAt": "2026-11-05T21:35:14.492Z",
   "candidates": [
+    {
+      "id": "cand_8e97360797b9094e68d4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9860901?from=edn_newest_index",
+      "title": "美期中選舉引發AI投資疑慮 美股收盤重挫 2026-11-06 05:30",
+      "description": "",
+      "publishedAt": "2026-11-05T21:34:59.997Z",
+      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_153fb180449173a720ee",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "description": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+      "publishedAt": "Thu, 05 Nov 2026 20:00:41 GMT",
+      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d3b203d3607bc6384682",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "description": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:00 GMT",
+      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_14fc2ac378b7a2e2b906",
       "sourceLastModified": null,
@@ -388,7 +472,7 @@
     },
     {
       "id": "cand_3448afb0641d03c5b9d3",
-      "sourceLastModified": "2026-11-05T14:06:50.635Z",
+      "sourceLastModified": "2026-11-05T21:04:21.352Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1551,17 +1635,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_78ffa62d6e05786a8dbf",
+      "id": "cand_44ddf2a38a2ef7296585",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9845847?from=edn_maintab_index",
-      "title": "AI投資榮景會持久嗎？克魯曼大膽預言：將遭遇兩大障礙 | 國際焦點 | 國際 | 經濟日報",
-      "description": "依據人工智慧（AI）產業要角已宣布的AI相關支出計畫，哥倫比亞大學經濟學家范紐沃伯格預期，以AI資本支出占國內生產毛額（GDP）比率衡量，這將是美國史上規模最大的投資熱潮。果真如此嗎？",
-      "publishedAt": "2026-10-29T20:23:57.569Z",
-      "discoveredAt": "2026-10-29T20:23:57.569Z",
+      "url": "https://money.udn.com/money/story/5612/9860540?from=edn_maintab_index",
+      "title": "鴻海營收猛 創兩個新高 全年有望飆破10兆元大關 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海昨（5）日公布10月營收1.30兆元，連兩月創新高，並站穩兆元關卡之上，主要受惠人工智慧（AI）產品拉貨動能持續，以及iPhone等消費智能產品強勁成長帶動，法人預估，全年營收將首度衝破10兆元，改寫新猷。",
+      "publishedAt": "2026-11-05T21:34:59.997Z",
+      "discoveredAt": "2026-11-05T21:34:59.997Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1576,37 +1660,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7f6cb2b0127cd9743690",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9845776?from=edn_VIP_index_side",
-      "title": "字母、微軟、甲骨文股價不同調 反映市場觀點...AI 投資 現金流才是王道 | 美股動態 | 國際 | 經濟日報",
-      "description": "Google母公司字母（Alphabet）、微軟及甲骨文（Oracle）都釋出資本支出訊息，股價反映卻不同調，字母大跌，微軟和甲骨文都大漲，印證目前對市場認為「現金流量再度成為王道」，有能力支應龐大的AI投資，不必無止境地向投資人伸手，股價將能獲得支持。",
-      "publishedAt": "2026-10-29T20:23:57.569Z",
-      "discoveredAt": "2026-10-29T20:23:57.569Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1659,7 +1713,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1725,63 +1779,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f0f22da726972e9065c7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9850024?from=edn_hottest_index",
-      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算",
-      "description": "鴻海科技日，集團展示AI伺服器機櫃的垂直整合實力，不僅周產能翻倍，董事長展示劉揚偉接受外媒訪問更大談量子電腦搭配性，他指出，量子運算可視為加速器，解決現行不能解決的NP（非多項式問題），對於商業化可行性時程，他也首度透露至少還要兩年時間，比今年初談話更樂觀一點。",
-      "publishedAt": "2026-11-01T16:57:49.452Z",
-      "discoveredAt": "2026-11-01T16:57:49.452Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f6916c113585d3984cd7",
-      "sourceLastModified": "2026-11-05T14:06:41.368Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "publishedAt": "2026-11-03T23:50:04.800Z",
-      "discoveredAt": "2026-09-10T09:55:18.421Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,157 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-04T19:47:59.799Z",
+  "updatedAt": "2026-11-05T00:40:27.593Z",
   "candidates": [
+    {
+      "id": "cand_fd78404839e5b3209564",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9858396?from=edn_maintab_index",
+      "title": "藍潮掀市場變局：AI 不再獨占行情 華爾街六大轉向一次看 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國期中選舉掀起民主黨「藍潮」，華爾街押注的不只是國會變天，而是支撐行情的主力可能改變。投資人期待，國會制衡能約束川普擴大支出，促使白宮設法結束伊朗戰爭，也讓AI擴建降溫。資金轉進大型科技、消費和景氣循環股，晶片、資料中心和馬斯克旗下股票卻下跌。不過，市場是否就此換了主線，仍須看政策和企業獲利。",
+      "publishedAt": "2026-11-05T00:40:11.806Z",
+      "discoveredAt": "2026-11-05T00:40:11.806Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1ec6f9193ce135c4eaac",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9858365?from=edn_maintab_index",
+      "title": "美股收盤／藍潮助攻道瓊狂飆1,569點 費半、AI基建股逆勢跌 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周三大漲，民主黨在期中選舉大勝，投資人押注白宮和國會相互牽制有利企業，伊朗戰爭也可望提早結束，油價大跌進一步提振買氣。道瓊大漲逾1,500點，創去年4月以來最大漲幅，但晶片和資料中心股逆勢下跌，AI相關股走勢分化。",
+      "publishedAt": "2026-11-05T00:40:11.806Z",
+      "discoveredAt": "2026-11-05T00:40:11.806Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9425738094eefa6da675",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9858075?from=edn_maintab_index",
+      "title": "美國期中選舉變天 產業市場／AI 資料中心面臨「藍色海嘯」 民主黨拿下四大重鎮州長 主張嚴格監管 | 國際焦點 | 國際 | 經濟日報",
+      "description": "在美國期中選舉確定出現「藍色浪潮」後，美國資料中心開發商將面臨最壞情境，不僅國會可能加強監管，兩大資料中心重鎮俄亥俄州與德州、以及資料中心興建熱點喬治亞州與賓州的州長，都是由主張嚴管資料中心的民主黨人拿下，成為Meta、亞馬遜及CoreWeave等企業的重大利空。",
+      "publishedAt": "2026-11-05T00:40:11.806Z",
+      "discoveredAt": "2026-11-05T00:40:11.806Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4e26fb79093619278b00",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9858099?from=edn_maintab_index",
+      "title": "超微財測風光 蘇姿丰預告 AI 代理帶動需求 明年資料中心營收大增 台廠可望受惠 2026-11-05 03:39",
+      "description": "",
+      "publishedAt": "2026-11-05T00:40:11.806Z",
+      "discoveredAt": "2026-11-05T00:40:11.806Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_188334ebd234d787514a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5618/9858436?from=edn_newest_index",
+      "title": "FT 核心 A I電力算力 ETF 009831投資視野從蓋算力延伸至用算力",
+      "description": "",
+      "publishedAt": "2026-11-05T00:40:11.806Z",
+      "discoveredAt": "2026-11-05T00:40:11.806Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_7684ae4670f751c1783d",
       "sourceLastModified": null,
@@ -1635,151 +1785,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c5d0e08832db22c45dfa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9850894?from=edn_newest_index",
-      "title": "矽晶圓春燕提前報到 業者出貨比預期強 價格一定漲 環球晶、台勝科、合晶大進補 | 產業熱點 | 產業 | 經濟日報",
-      "description": "半導體矽晶圓市場春燕提前報到。業者透露，AI推動先進製程需求強勁，矽晶圓市況比預期強，現階段客戶拉貨力道優於預期，原定今年底拉完的貨現在已提前拉完，部分原本要在2027年初出貨的訂單也提早一季開始拉貨，新接訂單報價「漲定了」。",
-      "publishedAt": "2026-11-01T16:57:49.452Z",
-      "discoveredAt": "2026-11-01T16:57:49.452Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e2750bc4e47f32ce5c88",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9850024?from=edn_maintab_index",
-      "title": "鴻海搶當全球最大量子電腦製造商！劉揚偉：布局衛星搶攻太空運算 2026-11-01 12:26",
-      "description": "鴻海科技日，集團展示AI伺服器機櫃的垂直整合實力，不僅周產能翻倍，董事長展示劉揚偉接受外媒訪問更大談量子電腦搭配性，他指出，量子運算可視為加速器，解決現行不能解決的NP（非多項式問題），對於商業化可行性時程，他也首度透露至少還要兩年時間，比今年初談話更樂觀一點。",
-      "publishedAt": "2026-11-01T10:47:34.154Z",
-      "discoveredAt": "2026-11-01T10:47:34.154Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_819d638005ef9aebc374",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9849453?from=edn_maintab_index",
-      "title": "鴻海：一年半產能被訂滿 相關伺服器市占上看五成 將加碼美國製造 2026-11-01 02:37",
-      "description": "鴻海董事長劉揚偉接受CNBC訪問時表示，AI基礎設施需求未見明顯放緩，鴻海將擴大全球AI伺服器市占率，並增加美國製造布局。目前約四成的市占率，明年可能升至45%左右，未來幾年可望達五成。",
-      "publishedAt": "2026-10-31T20:49:52.942Z",
-      "discoveredAt": "2026-10-31T20:49:52.942Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d485926ae9c8c4e1c379",
-      "sourceLastModified": "2026-11-03",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/12616",
-      "title": "Meeting with international AI companies on information integrity alignment assembly｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Meeting with international AI companies on information integrity alignment assembly",
-      "publishedAt": "2026-11-03",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_47bdf014d8ede940227b",
-      "sourceLastModified": "2026-11-04",
-      "sourceId": "deepmind-blog",
-      "sourceName": "Google DeepMind",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "title": "On-Device AI Against Scams: Google DeepMind & MDDI — Google DeepMind",
-      "description": "",
-      "publishedAt": "2026-11-04",
-      "discoveredAt": "2026-10-14T02:55:23.384Z",
-      "topics": [
-        "AI",
-        "research",
-        "models",
-        "science"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

@@ -1,7 +1,127 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T01:47:54.986Z",
+  "updatedAt": "2026-11-06T08:48:05.500Z",
   "candidates": [
+    {
+      "id": "cand_8bcc0f191a5069ce11c6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9861888",
+      "title": "AI 資料中心還能蓋在哪？德州新州長喊先停建 全美45場公投44場挺設限 | 國際焦點 | 國際 | 經濟日報",
+      "description": "德州州長當選人希諾霍薩（Gina Hinojosa）周四表示，應暫停資料中心開發，等保障居民的法規訂好再說。德州原可望在2030年超越北維吉尼亞州，成為全球最大的資料中心市場，如今新建案將面臨哪些條件，備受業界關注。",
+      "publishedAt": "2026-11-06T08:47:52.075Z",
+      "discoveredAt": "2026-11-06T08:47:52.075Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_52822d1302f4bd7cc25b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9862245?from=edn_maintab_index",
+      "title": "川普：這麼愛投民主黨 股市崩跌只能怪你們自己 | 美股動態 | 國際 | 經濟日報",
+      "description": "隨民主黨期中選舉掀起藍色海嘯，為資料中心建設前景投下陰影，拖累美股5日重挫，美國總統川普似乎撿到槍，連發兩則貼文，把股市崩跌歸咎於民主黨、以及愛投民主黨的選民。",
+      "publishedAt": "2026-11-06T08:47:52.075Z",
+      "discoveredAt": "2026-11-06T08:47:52.075Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_da0384a812325753664e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9861888?from=edn_maintab_index",
+      "title": "AI 資料中心還能蓋在哪？德州新州長喊先停建 全美45場公投44場挺設限 2026-11-06 14:00",
+      "description": "",
+      "publishedAt": "2026-11-06T08:47:52.075Z",
+      "discoveredAt": "2026-11-06T08:47:52.075Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a602199e8d4ed280913a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9862317?from=edn_newest_index",
+      "title": "瑞銀：AI資料中心建設不崩跌 2028年成長將放緩 2026-11-06 16:47",
+      "description": "",
+      "publishedAt": "2026-11-06T08:47:52.075Z",
+      "discoveredAt": "2026-11-06T08:47:52.075Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_86145fdc646196b8557f",
       "sourceLastModified": null,
@@ -81,7 +201,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -108,7 +228,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -462,7 +582,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1575,17 +1695,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_cb31d09441de9f6de20d",
+      "id": "cand_88327d35e2e41940f67f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9845642?from=edn_hottest_index",
-      "title": "富邦人壽大手筆砸285億元搶進 AI！「新公司」成立僅兩天就宣布投資",
-      "description": "",
-      "publishedAt": "2026-10-30T05:38:20.794Z",
-      "discoveredAt": "2026-10-30T05:38:20.794Z",
+      "url": "https://money.udn.com/money/story/5607/9862097?from=edn_maintab_index",
+      "title": "台股寫史上盤中最大、收盤第四大跌點！三大法人賣超卻收斂至1,140億元 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美股AI與半導體股遭遇史詩級賣壓，費半指數昨夜重挫12.3%，寫下史上第二大單日跌幅，科技股修正壓力迅速蔓延至亞洲市場。台股6日開盤即面臨沉重賣壓，盤中一度狂瀉3,737.67點，寫歷史盤中最大跌點，最低下探37,837.05點，惟隨著大型權值股陸續打開跌停板，低檔買盤進場承接，跌勢逐步收斂，終場仍下跌1,873.08點，收在39,701.64點，跌幅4.5%，改寫史上收盤第四大跌點，成交值高達1兆2,461億元。三大法人賣超則收斂至1,140.07億元。",
+      "publishedAt": "2026-11-06T08:47:52.075Z",
+      "discoveredAt": "2026-11-06T08:47:52.075Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1596,11 +1716,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1662,120 +1782,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_44b841fa84c7c95902c5",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
-      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "description": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
-      "publishedAt": "Tue, 03 Nov 2026 16:00:45 GMT",
-      "discoveredAt": "2026-11-03T18:52:49.689Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_89d746a67ad75ec5de5b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9853164?from=edn_maintab_index",
-      "title": "Anthropic 第3季營收年增逾11倍 最快下周 IPO 2026-11-03 01:12",
-      "description": "美國人工智慧（AI）公司Anthropic今天報告第3季營收較去年同期暴增逾1100%，公司預計本月稍後在華爾街上市",
-      "publishedAt": "2026-11-02T23:44:44.166Z",
-      "discoveredAt": "2026-11-02T23:44:44.166Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b82d68993b480b561224",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9850711?from=edn_maintab_index",
-      "title": "矽晶圓三雄提前迎春燕 客戶拉貨力道優於預期 預告報價「漲定了」 2026-11-02 02:12",
-      "description": "半導體矽晶圓市場春燕提前報到。業者透露，AI推動先進製程需求強勁，矽晶圓市況比預期強，現階段客戶拉貨力道優於預期，原定今年底拉完的貨現在已提前拉完，部分原本要在2027年初出貨的訂單也提早一季開始拉貨，新接訂單報價「漲定了」。",
-      "publishedAt": "2026-11-01T21:07:16.982Z",
-      "discoveredAt": "2026-11-01T21:07:16.982Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_07a651499364b969418f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
-      "publishedAt": "Thu, 05 Nov 2026 16:00:05 GMT",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

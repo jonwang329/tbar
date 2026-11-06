@@ -1,7 +1,127 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T16:30:40.967Z",
+  "updatedAt": "2026-11-06T21:44:27.063Z",
   "candidates": [
+    {
+      "id": "cand_560b9ec40fcb6a537306",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9862913?from=edn_maintab_index",
+      "title": "AI 股慘兮兮 何時能回神？緊盯這三大關鍵 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美股近日巨幅震盪，多家國際財經媒體分析，未來晶片股能否站穩，取決於資料中心建案會延後多久、大型雲端業者是否縮減支出，以及分析師會不會下修獲利預估。",
+      "publishedAt": "2026-11-06T21:44:13.413Z",
+      "discoveredAt": "2026-11-06T21:44:13.413Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_de153382de9b480d2467",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9862909?from=edn_maintab_index",
+      "title": "瑞銀：AI 投資循環調整期非泡沫破裂 台灣市場估值浮現吸引力 | 金融脈動 | 金融 | 經濟日報",
+      "description": "瑞銀（UBS）證券台灣區研究部主管艾藍迪（Randy Abrams）昨（6）日表示，目前AI投資循環正進入調整期，但並非泡沫破裂，在供應鏈方面，AI相關供應鏈目前仍供給吃緊，預期至少延續至明年。",
+      "publishedAt": "2026-11-06T21:44:13.413Z",
+      "discoveredAt": "2026-11-06T21:44:13.413Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f6dfb62bd597d72baa3e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9862962?from=edn_maintab_index",
+      "title": "民主黨勝選藍潮衝擊 美資料中心建設恐踩煞車 | 國際焦點 | 國際 | 經濟日報",
+      "description": "民主黨在這次期中選舉大勝，可能拖慢美國的資料中心建設，使市場重新評估人工智慧（AI）產業的成長前景。美國有線電視新聞網（CNN）5日分析，支持暫停興建資料中心或延長停建的民主黨籍州長當選人，明年就任後執政的州，共占全美規畫中的資料中心容量約45%，其中德州就占25%。",
+      "publishedAt": "2026-11-06T21:44:13.413Z",
+      "discoveredAt": "2026-11-06T21:44:13.413Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ccfce6b41e376ae12276",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9862979?from=edn_maintab_index",
+      "title": "美期中選舉後變天 台廠赴美投資布局 面臨三變數 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美國期中選舉造成德州、俄亥俄州等共和黨傳統票倉變天，也為台廠AI供應鏈赴美投資增添變局，未來包括電力供應、租稅優惠及勞動規範等，恐面臨調整。",
+      "publishedAt": "2026-11-06T21:44:13.413Z",
+      "discoveredAt": "2026-11-06T21:44:13.413Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_877c3bdf2e8b42f7d99c",
       "sourceLastModified": null,
@@ -261,7 +381,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1515,186 +1635,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_85ddaddd476129ca0491",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9848217?from=edn_maintab_index",
-      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑 2026-10-31 05:12",
-      "description": "美國科技大廠財報不受市場青睞，加深對人工智慧（AI）投資熱潮的疑慮，科技股賣壓沉重，拖累美股今天受挫",
-      "publishedAt": "2026-10-30T21:33:04.678Z",
-      "discoveredAt": "2026-10-30T21:33:04.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9a15a20617ef827c2c19",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9848045?from=edn_maintab_index",
-      "title": "聯發科財測報喜 三個上修 資料中心首款 AI 加速器已出貨 2026-10-31 02:04",
-      "description": "晶片大廠聯發科昨（30）日舉行法說會，公布三大數字上修的佳績。執行長蔡力行表示，資料中心首款AI加速器已出貨，有信心在本季達25億美元營收，優於原先預期；本季營收將強勁季增，全年美元營收成長將超越先前設定的高個位數百分比成長目標；他更預期資料中心營收將於2027年達先前營收目標區間的上緣，約160億美元，占AI加速器ASIC市場的20%市占率。",
-      "publishedAt": "2026-10-30T21:33:04.678Z",
-      "discoveredAt": "2026-10-30T21:33:04.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_747563c0d1a8551ccbbb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9848001?from=edn_maintab_index",
-      "title": "鴻海：明年營運雙位數成長 與 OpenAI 合作將更具體 2026-10-31 01:27",
-      "description": "鴻海董事長劉揚偉昨（30）日表示，明年產業趨勢仍是K型發展，與人工智慧（AI）資料中心有關的持續上升，其他則是另外一條線，鴻海明年表現看起來還不錯，維持兩位數成長。",
-      "publishedAt": "2026-10-30T21:33:04.678Z",
-      "discoveredAt": "2026-10-30T21:33:04.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d5a0c72e10cd2d00a95d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9848217?from=edn_newest_index",
-      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑",
-      "description": "",
-      "publishedAt": "2026-10-30T21:33:04.678Z",
-      "discoveredAt": "2026-10-30T21:33:04.678Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_74702b92c61cf7a99280",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9848000?from=edn_maintab_index",
-      "title": "AI驅動的銅榮景正在接受現實檢驗 業界憂銅價過高可能大幅回檔 | 國際焦點 | 國際 | 經濟日報",
-      "description": "儘管人工智慧（AI）投資熱潮帶動國際銅價上漲，但已有不少業界人士擔憂，一旦AI退燒銅價將大幅回檔，而且明年就可能發生。",
-      "publishedAt": "2026-10-30T17:14:05.693Z",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ed6ba8a65c50036f20e5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9847682?from=edn_maintab_index",
-      "title": "新台幣盤中重貶尾盤翻升 熱錢出逃月線連2黑 | 外匯市場 | 金融 | 經濟日報",
-      "description": "美科技巨頭財報引發AI投資疑慮，亞股紛紛倒地。台股重挫逾千點，新台幣兌美元盤中大貶超過1.8角，不過出口商積極拋匯，加上...",
-      "publishedAt": "2026-10-30T17:14:05.693Z",
-      "discoveredAt": "2026-10-30T17:14:05.693Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_a46386bf0daa6cd7f9b0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1773,11 +1713,65 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_44b841fa84c7c95902c5",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "description": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+      "publishedAt": "Tue, 03 Nov 2026 16:00:45 GMT",
+      "discoveredAt": "2026-11-03T18:52:49.689Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_07a651499364b969418f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:05 GMT",
+      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

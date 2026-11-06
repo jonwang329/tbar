@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-05T21:35:14.492Z",
+  "updatedAt": "2026-11-06T01:47:54.986Z",
   "candidates": [
+    {
+      "id": "cand_86145fdc646196b8557f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9860944?from=edn_maintab_index",
+      "title": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周四大跌，高通（Qualcomm）高通和安謀（Arm）財報未能滿足市場期待，投資人也擔心民主黨在期中選舉大勝後，資料中心建設可能受到更多限制。晶片股首當其衝，費城半導體指數創下2020年3月以來最大單日跌幅，那斯達克綜合指數陷入修正。",
+      "publishedAt": "2026-11-06T01:47:28.029Z",
+      "discoveredAt": "2026-11-06T01:47:28.029Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_8e97360797b9094e68d4",
       "sourceLastModified": null,
@@ -51,7 +81,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -78,7 +108,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1575,66 +1605,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_7d8ad19578108a4a0454",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9846118",
-      "title": "Intel 財報／AI 帶旺伺服器、卻拖累 PC！英特爾展望失色 盤後狂崩21% | 美股動態 | 國際 | 經濟日報",
-      "description": "英特爾第3季獲利優於預期，但PC需求轉弱、以色列工廠事故影響供應，本季展望遜於預期，股價盤後崩跌21%。AI熱潮帶旺伺服器晶片，卻也推高記憶體價格、壓抑PC買氣，加上明年須擴大投資，復甦仍面臨考驗。",
-      "publishedAt": "2026-10-30T00:04:13.323Z",
-      "discoveredAt": "2026-10-30T00:04:13.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_db2ff48f09323b9e377a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9846118?from=edn_maintab_index",
-      "title": "Intel 財報／AI 帶旺伺服器、卻拖累 PC！英特爾展望失色 盤後狂崩21% | 美股動態 | 國際 | 經濟日報",
-      "description": "英特爾第3季獲利優於預期，但PC需求轉弱、以色列工廠事故影響供應，本季展望遜於預期，股價盤後崩跌21%。AI熱潮帶旺伺服器晶片，卻也推高記憶體價格、壓抑PC買氣，加上明年須擴大投資，復甦仍面臨考驗。",
-      "publishedAt": "2026-10-30T00:04:13.323Z",
-      "discoveredAt": "2026-10-30T00:04:13.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_44ddf2a38a2ef7296585",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1779,6 +1749,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_07a651499364b969418f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:05 GMT",
+      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 82,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

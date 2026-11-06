@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T08:48:05.500Z",
+  "updatedAt": "2026-11-06T16:30:40.967Z",
   "candidates": [
+    {
+      "id": "cand_877c3bdf2e8b42f7d99c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124512/9862830?from=edn_maintab_index",
+      "title": "整理包／限空令11月9日即將上路！五大措施、三類限制與歷次實施背景一次看 | 整理包 | 專題 | 經濟日報",
+      "description": "台股連日重挫，金管會11月6日晚間宣布，自11月9日起推出限空令等五項穩定市場措施。這次政策如何限制放空？與過去的限空令有何不同？《經濟日報》整理本次措施、限空令三類限制及歷次實施背景，並彙整各方對台股後市的看法，供讀者參考。 一、本次五大措施有哪些？ 美國期中選舉後，市場擔憂AI與資料中心政策變化，美股科技股重挫，賣壓蔓延至台股。11月6日加權指數盤中最多下跌3,737.67點，最低來到37,837.05點，創史上最大盤中跌點；終場下跌1,873.08點、跌幅4.51%，收39,701.64點，失守4萬點大關。 面對市場劇烈震盪，金管會宣布自11月9日起實施五項措施。除了限制放空，也透過擔保品、庫藏股及企業資訊揭露等配套穩定市場。 借券賣出委託量上限降至3% 每日盤中借券賣出委託數量上限，由該證券前30個營業日日平均成交量的30%縮減至3%。以日均成交3萬張的股票為例，一般上限將由9,000張降為900張；但因證券商發行認售權證、指數投資證券、結構型商品與股權衍生性商品等避險需求，或擔任流動量提供者、造市者所需的借券賣出，則不在此限。 融券保證金提高至130% 上市櫃",
+      "publishedAt": "2026-11-06T16:30:28.677Z",
+      "discoveredAt": "2026-11-06T16:30:28.677Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6b53081f7dad4e0f3010",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9862825?from=edn_maintab_index",
+      "title": "國安基金+美股電子盤 台指期夜盤一度噴漲千點 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "台指期夜盤6日開盤時，在美股電子盤回穩中，以39,742點、上漲90點開出後，雖受短多急著下車等不利因素拖累，指數一度下殺至39,129點、下跌523點，但在記憶體、半導體等AI股回神，那斯達克電子盤一度大漲近500點，加上國安基金宣布進場，激勵市場人心中，指數一度衝破4萬點，來到40,745點、噴漲1,093點，而截至晚間21點40分，指數來到約40,569點、上漲913點。",
+      "publishedAt": "2026-11-06T16:30:28.677Z",
+      "discoveredAt": "2026-11-06T16:30:28.677Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_8bcc0f191a5069ce11c6",
       "sourceLastModified": null,
@@ -228,7 +288,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1635,77 +1695,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d901f1e1011b2b2095a3",
+      "id": "cand_a46386bf0daa6cd7f9b0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9847627",
-      "title": "全球科技股賣壓加劇 美「七大巨頭」只剩這3檔今年股價還沒轉跌 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國科技大咖財報利空連環爆導致全球科技股30日下挫，凸顯市場對人工智慧（AI）基建投資錢從哪來的疑慮加深。",
-      "publishedAt": "2026-10-30T11:40:08.573Z",
-      "discoveredAt": "2026-10-30T11:40:08.573Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_02912ab41926c89dbc90",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9847627?from=edn_maintab_index",
-      "title": "全球科技股賣壓加劇 美「七大巨頭」只剩這3檔今年股價還沒轉跌 2026-10-30 18:11",
-      "description": "美國科技大咖財報利空連環爆導致全球科技股30日下挫，凸顯市場對人工智慧（AI）基建投資錢從哪來的疑慮加深。",
-      "publishedAt": "2026-10-30T11:40:08.573Z",
-      "discoveredAt": "2026-10-30T11:40:08.573Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_88327d35e2e41940f67f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9862097?from=edn_maintab_index",
-      "title": "台股寫史上盤中最大、收盤第四大跌點！三大法人賣超卻收斂至1,140億元 | 市場焦點 | 證券 | 經濟日報",
-      "description": "美股AI與半導體股遭遇史詩級賣壓，費半指數昨夜重挫12.3%，寫下史上第二大單日跌幅，科技股修正壓力迅速蔓延至亞洲市場。台股6日開盤即面臨沉重賣壓，盤中一度狂瀉3,737.67點，寫歷史盤中最大跌點，最低下探37,837.05點，惟隨著大型權值股陸續打開跌停板，低檔買盤進場承接，跌勢逐步收斂，終場仍下跌1,873.08點，收在39,701.64點，跌幅4.5%，改寫史上收盤第四大跌點，成交值高達1兆2,461億元。三大法人賣超則收斂至1,140.07億元。",
-      "publishedAt": "2026-11-06T08:47:52.075Z",
-      "discoveredAt": "2026-11-06T08:47:52.075Z",
+      "url": "https://money.udn.com/money/story/5618/9862816?from=edn_maintab_index",
+      "title": "今日最夯 ETF／台股崩跌還有人搶買正2？00631L爆131萬張歷史天量 反彈行情要來了？ | 基金天地 | 理財 | 經濟日報",
+      "description": "美國期中選舉後，市場憂心民主黨勝選可能提高AI基礎建設政策風險，導致費城半導體指數連續重挫，台股等亞洲股市也成為重災區。值得注意的是，在大盤劇烈震盪下，短線反彈契機浮現，元大台灣50正2（00631L）6日反成為市場資金關注焦點，單日成交量高達131萬張，成交金額343億元，雙雙改寫歷史新高。",
+      "publishedAt": "2026-11-06T16:30:28.677Z",
+      "discoveredAt": "2026-11-06T16:30:28.677Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1725,17 +1725,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_44ddf2a38a2ef7296585",
+      "id": "cand_7b99227b383372257672",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9860540?from=edn_maintab_index",
-      "title": "鴻海營收猛 創兩個新高 全年有望飆破10兆元大關 | 產業熱點 | 產業 | 經濟日報",
-      "description": "鴻海昨（5）日公布10月營收1.30兆元，連兩月創新高，並站穩兆元關卡之上，主要受惠人工智慧（AI）產品拉貨動能持續，以及iPhone等消費智能產品強勁成長帶動，法人預估，全年營收將首度衝破10兆元，改寫新猷。",
-      "publishedAt": "2026-11-05T21:34:59.997Z",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "url": "https://money.udn.com/money/story/5607/9860615?from=edn_newest_index",
+      "title": "超豐AI營收年增180％！Flip Chip成新引擎、單季EPS 2.44元創高 本益比15倍低估了嗎？",
+      "description": "",
+      "publishedAt": "2026-11-06T16:30:28.677Z",
+      "discoveredAt": "2026-11-06T16:30:28.677Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1755,33 +1755,30 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_342b2abc6f2c624c955e",
+      "id": "cand_afe3e81e2e0207c2b98d",
       "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9855771",
-      "title": "美超微上季營收逼近去年同期四倍 上修全年展望 盤後大漲8.3% | 美股動態 | 國際 | 經濟日報",
-      "description": "受惠於AI伺服器需求強勁，美超微電腦（Super Micro Computer）上季營收增至去年同期近四倍，本季展望也優於預期，並調高全年營收預測，周二盤後股價大漲8.3%。",
-      "publishedAt": "2026-11-03T23:50:03.365Z",
-      "discoveredAt": "2026-11-03T23:50:03.365Z",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "description": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "publishedAt": "Fri, 06 Nov 2026 16:00:00 GMT",
+      "discoveredAt": "2026-11-06T16:30:28.677Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
+        "GPU",
+        "AI infrastructure",
+        "networking",
         "data center"
       ],
-      "countries": [
-        "Taiwan"
-      ],
+      "countries": [],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 78,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

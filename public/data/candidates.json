@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-07T14:18:58.813Z",
+  "updatedAt": "2026-11-07T18:57:23.412Z",
   "candidates": [
     {
       "id": "cand_022864275948d9d8dc4e",
@@ -528,7 +528,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1515,36 +1515,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_476962e40d45f62502f7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9849148?from=edn_hottest_index",
-      "title": "奧特曼：用個人電腦部署 RAM 是對有限資源的「浪費」",
-      "description": "全球記憶體供應因AI熱潮而吃緊之際，身為人工智慧（AI）熱潮主要推手之一的OpenAI執行長奧特曼卻認為，民眾在個人電腦上運行AI模型，是對有限記憶體資源的浪費，主張應集中於雲端資料中心。",
-      "publishedAt": "2026-10-31T17:50:45.818Z",
-      "discoveredAt": "2026-10-31T17:50:45.818Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_a46386bf0daa6cd7f9b0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1623,7 +1593,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1650,7 +1620,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1677,7 +1647,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1741,17 +1711,47 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_7bf8ec022e0f14ec84eb",
+      "id": "cand_f0740142adb90a487be0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9864239",
+      "url": "https://money.udn.com/money/story/5599/9864330?from=edn_maintab_index",
+      "title": "華爾街的夢魘！這位女士1月掌參院銀行委員會 私募、加密業者剉咧等 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國股市5日大跌，人工智慧（AI）概念股跌得最兇，大型銀行股也重挫，摩根大通和高盛當天跌幅都超過4%，凸顯對「藍色海嘯」來襲忐忑不安。最讓華爾街畏懼的是一位民主黨籍女議員：華倫（Elizaben Warren）。",
+      "publishedAt": "2026-11-07T18:57:12.094Z",
+      "discoveredAt": "2026-11-07T18:57:12.094Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_04f7b0998724f08ca5e8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9864239?from=edn_hottest_index",
       "title": "解剖華爾街周四科技股股災： AI 股賣壓狂湧 誰開的第一槍？ | 美股動態 | 國際 | 經濟日報",
       "description": "美國期中選舉結果揭曉後，華爾街起初大漲回應，但隔了24小時後，市場氛圍急轉直下，殺盤在周四（5日）狂湧，觸發賣壓一波接一波的連鎖反應，美股頓時血流成河，第一線交易員看得驚心動魄。",
-      "publishedAt": "2026-11-07T14:18:45.734Z",
-      "discoveredAt": "2026-11-07T14:18:45.734Z",
+      "publishedAt": "2026-11-07T18:57:12.094Z",
+      "discoveredAt": "2026-11-07T18:57:12.094Z",
       "topics": [
         "Taiwan business",
         "investment",

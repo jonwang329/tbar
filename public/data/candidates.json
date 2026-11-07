@@ -1,7 +1,97 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-07T18:57:23.412Z",
+  "updatedAt": "2026-11-07T22:40:11.265Z",
   "candidates": [
+    {
+      "id": "cand_07d0d66fd18433cfb92d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9864366?from=edn_maintab_index",
+      "title": "費半、台積 ADR 強彈 美晶片股本周迎戰兩大考驗 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市6日靠晶片股反彈止穩，本周通膨數據和科技業財報將考驗反彈能否延續。投資人仍在評估資料中心建設可能放慢的程度，以及聯準會（Fed）若再升息對AI投資和企業獲利的影響。",
+      "publishedAt": "2026-11-07T22:39:59.060Z",
+      "discoveredAt": "2026-11-07T22:39:59.060Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_428a74ad4b25f4b0f461",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10511/9864394?from=edn_maintab_index",
+      "title": "美民主黨嚴管 AI 基建 德州新州長態度軟化「聲稱不討厭資料中心」 | 美國新聞 | 國際 | 經濟日報",
+      "description": "美國國會議員、國會助理與倡議人士表示，民主黨人計劃在明年1月掌控美國國會時，針對AI系統與資料中心開發推出大批新法案，保護消費者免受與資料中心相關的電價上漲衝擊、要求對先進AI系統進行獨立測試，並釐清AI公司在何種情況下須為產品造成的傷害承擔責任。",
+      "publishedAt": "2026-11-07T22:39:59.060Z",
+      "discoveredAt": "2026-11-07T22:39:59.060Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7c8465a4e6cf7113229b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9864331?from=edn_maintab_index",
+      "title": "華邦電：AI 建設二年內無虞 董座焦佑鈞指2029年是關鍵時間點 | 產業熱點 | 產業 | 經濟日報",
+      "description": "人工智慧（AI）資料中心投資熱潮延燒，榮景究竟能維持多久？華邦電董事長焦佑鈞昨（7）日指出，2027、2028年AI資料中心建置需求相對明確，資金、基礎設施大多已完成前期安排，2029年可能成為下一波景氣下行循環關鍵時間點，最大限制將來自資金能否持續支撐龐大投資。",
+      "publishedAt": "2026-11-07T22:39:59.060Z",
+      "discoveredAt": "2026-11-07T22:39:59.060Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_022864275948d9d8dc4e",
       "sourceLastModified": null,
@@ -501,7 +591,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1455,66 +1545,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_820730ce58bcf7293893",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9849422?from=edn_maintab_index",
-      "title": "美晶片股暴跌 費半下挫7% 繫緊安全帶 本周緊盯超微、蘋果等財報 2026-11-01 02:56",
-      "description": "美國晶片股10月30日大跌，費半重挫7.2%，因英特爾展望失色，加上Anthropic可能無法取得投資級評等的消息，令投資人對AI融資與回報更不放心。本周AMD、高通及蘋果財報、美國期中選舉和就業報告，將進一步考驗市場信心。",
-      "publishedAt": "2026-10-31T20:49:52.942Z",
-      "discoveredAt": "2026-10-31T20:49:52.942Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a4973b6722d98db2c8d7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9849392?from=edn_maintab_index",
-      "title": "AI 太燒錢 Anthropic、OpenAI、Meta 三大咖遭嚴格檢驗 2026-11-01 02:50",
-      "description": "AI業者龐大投資正面臨更嚴格的資金檢驗。Anthropic上市後可能無法立即取得投資級評等；OpenAI降低估值與募資目標；Meta則遭標普將評等展望調為負向。",
-      "publishedAt": "2026-10-31T20:49:52.942Z",
-      "discoveredAt": "2026-10-31T20:49:52.942Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_a46386bf0daa6cd7f9b0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1684,7 +1714,7 @@
     },
     {
       "id": "cand_d485926ae9c8c4e1c379",
-      "sourceLastModified": "2026-11-06",
+      "sourceLastModified": "2026-11-07",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1718,7 +1748,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9864330?from=edn_maintab_index",
-      "title": "華爾街的夢魘！這位女士1月掌參院銀行委員會 私募、加密業者剉咧等 | 國際焦點 | 國際 | 經濟日報",
+      "title": "華爾街的夢魘！這位女士1月掌參院銀行委員會 私募、加密業者剉咧等",
       "description": "美國股市5日大跌，人工智慧（AI）概念股跌得最兇，大型銀行股也重挫，摩根大通和高盛當天跌幅都超過4%，凸顯對「藍色海嘯」來襲忐忑不安。最讓華爾街畏懼的是一位民主黨籍女議員：華倫（Elizaben Warren）。",
       "publishedAt": "2026-11-07T18:57:12.094Z",
       "discoveredAt": "2026-11-07T18:57:12.094Z",
@@ -1732,37 +1762,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_04f7b0998724f08ca5e8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9864239?from=edn_hottest_index",
-      "title": "解剖華爾街周四科技股股災： AI 股賣壓狂湧 誰開的第一槍？ | 美股動態 | 國際 | 經濟日報",
-      "description": "美國期中選舉結果揭曉後，華爾街起初大漲回應，但隔了24小時後，市場氛圍急轉直下，殺盤在周四（5日）狂湧，觸發賣壓一波接一波的連鎖反應，美股頓時血流成河，第一線交易員看得驚心動魄。",
-      "publishedAt": "2026-11-07T18:57:12.094Z",
-      "discoveredAt": "2026-11-07T18:57:12.094Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

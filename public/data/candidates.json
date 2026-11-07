@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T21:44:27.063Z",
+  "updatedAt": "2026-11-07T01:18:00.007Z",
   "candidates": [
+    {
+      "id": "cand_1af52f046f85f0611a2e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9863251?from=edn_newest_index",
+      "title": "民主黨勝選重擊美股！女議員喊停AI開發跟馬斯克開戰 遭網友圍剿 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國期中選舉落幕，民主黨在參眾兩院及多個關鍵州長選舉大獲全勝，數名新當選的民主黨人及聯邦參議員桑德斯（Bernie Sanders）再度呼籲暫停興建資料中心。市場擔憂資料中心建設放緩，美股5日慘遭重擊。其中，亞利桑那州聯邦眾議員安薩里（Yassamin Ansari）與億萬富豪馬斯克針鋒相對，遭X用戶輪番痛批，甚至有人指責她導致退休帳戶中的巨額財富蒸發。",
+      "publishedAt": "2026-11-07T01:17:49.385Z",
+      "discoveredAt": "2026-11-07T01:17:49.385Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_560b9ec40fcb6a537306",
       "sourceLastModified": null,
@@ -10,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9862913?from=edn_maintab_index",
-      "title": "AI 股慘兮兮 何時能回神？緊盯這三大關鍵 | 國際焦點 | 國際 | 經濟日報",
+      "title": "AI 股慘兮兮 何時能回神？緊盯這三大關鍵 2026-11-06 23:33",
       "description": "美股近日巨幅震盪，多家國際財經媒體分析，未來晶片股能否站穩，取決於資料中心建案會延後多久、大型雲端業者是否縮減支出，以及分析師會不會下修獲利預估。",
       "publishedAt": "2026-11-06T21:44:13.413Z",
       "discoveredAt": "2026-11-06T21:44:13.413Z",
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5613/9862909?from=edn_maintab_index",
-      "title": "瑞銀：AI 投資循環調整期非泡沫破裂 台灣市場估值浮現吸引力 | 金融脈動 | 金融 | 經濟日報",
+      "title": "瑞銀：AI 投資循環調整期非泡沫破裂 台灣市場估值浮現吸引力 2026-11-07 02:32",
       "description": "瑞銀（UBS）證券台灣區研究部主管艾藍迪（Randy Abrams）昨（6）日表示，目前AI投資循環正進入調整期，但並非泡沫破裂，在供應鏈方面，AI相關供應鏈目前仍供給吃緊，預期至少延續至明年。",
       "publishedAt": "2026-11-06T21:44:13.413Z",
       "discoveredAt": "2026-11-06T21:44:13.413Z",
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -70,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9862962?from=edn_maintab_index",
-      "title": "民主黨勝選藍潮衝擊 美資料中心建設恐踩煞車 | 國際焦點 | 國際 | 經濟日報",
+      "title": "民主黨勝選藍潮衝擊 美資料中心建設恐踩煞車 2026-11-07 02:22",
       "description": "民主黨在這次期中選舉大勝，可能拖慢美國的資料中心建設，使市場重新評估人工智慧（AI）產業的成長前景。美國有線電視新聞網（CNN）5日分析，支持暫停興建資料中心或延長停建的民主黨籍州長當選人，明年就任後執政的州，共占全美規畫中的資料中心容量約45%，其中德州就占25%。",
       "publishedAt": "2026-11-06T21:44:13.413Z",
       "discoveredAt": "2026-11-06T21:44:13.413Z",
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -100,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9862979?from=edn_maintab_index",
-      "title": "美期中選舉後變天 台廠赴美投資布局 面臨三變數 | 產業熱點 | 產業 | 經濟日報",
+      "title": "美期中選舉後變天 台廠赴美投資布局 面臨三變數 2026-11-07 02:16",
       "description": "美國期中選舉造成德州、俄亥俄州等共和黨傳統票倉變天，也為台廠AI供應鏈赴美投資增添變局，未來包括電力供應、租稅優惠及勞動規範等，恐面臨調整。",
       "publishedAt": "2026-11-06T21:44:13.413Z",
       "discoveredAt": "2026-11-06T21:44:13.413Z",
@@ -114,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1575,66 +1605,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_fd1e1692d6f19aff7c13",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9848217",
-      "title": "財報欠佳加深 AI 投資疑慮 科技股承壓拖累美股收黑 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國科技大廠財報不受市場青睞，加深對人工智慧（AI）投資熱潮的疑慮，科技股賣壓沉重，拖累美股今天受挫",
-      "publishedAt": "2026-10-31T00:59:59.956Z",
-      "discoveredAt": "2026-10-31T00:59:59.956Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5748b2bb458b9e209ba3",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9848312?from=edn_newest_index",
-      "title": "美科技股大幅下修 蘋果超越輝達成全球最大企業 | 美股動態 | 國際 | 經濟日報",
-      "description": "受英特爾與Alphabet等業者財報展望不佳、現金緊縮等利空因素影響，投資人在本週收盤前拋售科技類股，AI晶片與高頻寬記...",
-      "publishedAt": "2026-10-31T00:59:59.956Z",
-      "discoveredAt": "2026-10-31T00:59:59.956Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_a46386bf0daa6cd7f9b0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1713,7 +1683,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1768,6 +1738,34 @@
       ],
       "countries": [],
       "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d485926ae9c8c4e1c379",
+      "sourceLastModified": "2026-11-06",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/12616",
+      "title": "Meeting with international AI companies on information integrity alignment assembly｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with international AI companies on information integrity alignment assembly",
+      "publishedAt": "2026-11-03",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,

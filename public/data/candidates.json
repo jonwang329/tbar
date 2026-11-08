@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-08T01:52:05.574Z",
+  "updatedAt": "2026-11-08T08:23:12.168Z",
   "candidates": [
+    {
+      "id": "cand_f489bd1ea810aa24a988",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10511/9864394?from=edn_hottest_index",
+      "title": "美民主黨嚴管 AI 基建 德州新州長態度軟化「聲稱不討厭資料中心」 | 美國新聞 | 國際 | 經濟日報",
+      "description": "美國國會議員、國會助理與倡議人士表示，民主黨人計劃在明年1月掌控美國國會時，針對AI系統與資料中心開發推出大批新法案，保護消費者免受與資料中心相關的電價上漲衝擊、要求對先進AI系統進行獨立測試，並釐清AI公司在何種情況下須為產品造成的傷害承擔責任。",
+      "publishedAt": "2026-11-08T08:23:02.387Z",
+      "discoveredAt": "2026-11-08T08:23:02.387Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_07d0d66fd18433cfb92d",
       "sourceLastModified": null,
@@ -24,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -972,7 +1002,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1737,34 +1767,6 @@
       "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d485926ae9c8c4e1c379",
-      "sourceLastModified": "2026-11-07",
-      "sourceId": "moda",
-      "sourceName": "Taiwan MODA",
-      "sourceKind": "government",
-      "sourcePriority": "P1",
-      "url": "https://moda.gov.tw/en/press/background-information/12616",
-      "title": "Meeting with international AI companies on information integrity alignment assembly｜Background Information - News and Releases｜Ministry of Digital Affairs",
-      "description": "Meeting with international AI companies on information integrity alignment assembly",
-      "publishedAt": "2026-11-03",
-      "discoveredAt": "2026-08-13T12:35:46.831Z",
-      "topics": [
-        "AI policy",
-        "GPU",
-        "digital infrastructure"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,

@@ -1,7 +1,97 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-08T08:23:12.168Z",
+  "updatedAt": "2026-11-08T15:28:14.523Z",
   "candidates": [
+    {
+      "id": "cand_1d8765a3a164b9129da6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9865618",
+      "title": "AI 股遭「藍色海嘯」重擊 投資人反應過度？她的投資露端倪 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國民主黨在這次期中選舉大勝，掀起「藍色海嘯」，引爆AI概念股賣壓，主要是民主黨的立場讓投資人擔心，資料中心建設和AI產業的大好前景將受阻。但從民主黨內一位大老級人物的投資組合來看，市場會不會是反應過度？",
+      "publishedAt": "2026-11-08T15:28:00.536Z",
+      "discoveredAt": "2026-11-08T15:28:00.536Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f7aa1038d80c79fa92e2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9865618?from=edn_maintab_index",
+      "title": "AI 股遭「藍色海嘯」重擊 投資人反應過度？她的投資露端倪 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國民主黨在這次期中選舉大勝，掀起「藍色海嘯」，引爆AI概念股賣壓，主要是民主黨的立場讓投資人擔心，資料中心建設和AI產業的大好前景將受阻。但從民主黨內一位大老級人物的投資組合來看，市場會不會是反應過度？",
+      "publishedAt": "2026-11-08T15:28:00.536Z",
+      "discoveredAt": "2026-11-08T15:28:00.536Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7870d0cd54b61010caf8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9865618?from=edn_newest_index",
+      "title": "AI 股遭「藍色海嘯」重擊 投資人反應過度？她的投資露端倪",
+      "description": "",
+      "publishedAt": "2026-11-08T15:28:00.536Z",
+      "discoveredAt": "2026-11-08T15:28:00.536Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_f489bd1ea810aa24a988",
       "sourceLastModified": null,
@@ -10,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/10511/9864394?from=edn_hottest_index",
-      "title": "美民主黨嚴管 AI 基建 德州新州長態度軟化「聲稱不討厭資料中心」 | 美國新聞 | 國際 | 經濟日報",
+      "title": "美民主黨嚴管 AI 基建 德州新州長態度軟化「聲稱不討厭資料中心」",
       "description": "美國國會議員、國會助理與倡議人士表示，民主黨人計劃在明年1月掌控美國國會時，針對AI系統與資料中心開發推出大批新法案，保護消費者免受與資料中心相關的電價上漲衝擊、要求對先進AI系統進行獨立測試，並釐清AI公司在何種情況下須為產品造成的傷害承擔責任。",
       "publishedAt": "2026-11-08T08:23:02.387Z",
       "discoveredAt": "2026-11-08T08:23:02.387Z",
@@ -24,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1545,36 +1635,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_5e005d5ff24c3ba01630",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9850436?from=edn_maintab_index",
-      "title": "美期中選舉牽動台韓股市！對亞洲股匯債影響全解析 2026-11-01 18:31",
-      "description": "美國3日即將舉行國會期中選舉，結果將牽動人工智慧（AI）類股、以及仰賴AI題材的亞洲股市。觀察家指出，如果民主黨囊括參、眾兩院過半席次，將加強監督人工智慧（AI）產業及資料中心建設，若共和黨勝選，可能延續現行政策，對台韓晶片製造商、及其他AI供應商的股價有利。",
-      "publishedAt": "2026-11-01T10:47:34.154Z",
-      "discoveredAt": "2026-11-01T10:47:34.154Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_ad72b7a35a29508e9dea",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1715,60 +1775,6 @@
       "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_07a651499364b969418f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
-      "publishedAt": "Thu, 05 Nov 2026 16:00:05 GMT",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f6916c113585d3984cd7",
-      "sourceLastModified": "2026-11-07T07:02:10.981Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "publishedAt": "2026-11-03T23:50:04.800Z",
-      "discoveredAt": "2026-09-10T09:55:18.421Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

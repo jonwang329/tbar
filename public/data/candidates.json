@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-08T15:28:14.523Z",
+  "updatedAt": "2026-11-08T19:55:41.838Z",
   "candidates": [
+    {
+      "id": "cand_be6921b3e81fd148e671",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9865703?from=edn_maintab_index",
+      "title": "AI 產業發展三劇本推演「藍潮」效應 悲觀情境：出現大量砍單潮 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美國期中選舉民主黨大勝，「藍色浪潮」恐衝擊AI後市，業界研擬AI產業發展三套劇本，最壞的狀況是美國市場大幅衰退，進而出現大量砍單潮；另外，也可能由共和黨掌權的州填補部分民主黨擋掉的AI投資缺口；最好的狀況是歐洲、東南亞等地AI基建催速，完全補上民主黨勝選造成的缺口。",
+      "publishedAt": "2026-11-08T19:55:28.561Z",
+      "discoveredAt": "2026-11-08T19:55:28.561Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4e5c173176c8325e8d10",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9865705?from=edn_maintab_index",
+      "title": "巴隆：資料中心終將成大贏家 AI 正成為大勢所趨 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國期中選舉出現「藍色海嘯」，衝擊市場對AI發展的信心，但巴隆金融周刊（Barron&#039;s）分析，資料中心終將成為選後的大贏家，AI正成為大勢所趨，企業正競相整合以提高生產力，而選舉結果恰好給了資料中心業者減緩支出的完美藉口，有助緩解過度支出與投資回報的憂慮。",
+      "publishedAt": "2026-11-08T19:55:28.561Z",
+      "discoveredAt": "2026-11-08T19:55:28.561Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1d8765a3a164b9129da6",
       "sourceLastModified": null,
@@ -1575,66 +1635,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_581b2c58957239973895",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9850629?from=edn_maintab_index",
-      "title": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控 | 金融脈動 | 金融 | 經濟日報",
-      "description": "美股科技股受AI投資回報疑慮衝擊，台股上周五重挫1,156點、失守半年線。據了解，金管會已緊盯年線、半年線及季線等重要均線走勢，及擔保維持率、借券賣出比重與違約率三大風險指標，必要時將採取相關措施。",
-      "publishedAt": "2026-11-01T16:57:49.452Z",
-      "discoveredAt": "2026-11-01T16:57:49.452Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_381ae907c06cd250bee5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9850629?from=edn_hottest_index",
-      "title": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控",
-      "description": "美股科技股受AI投資回報疑慮衝擊，台股上周五重挫1,156點、失守半年線。據了解，金管會已緊盯年線、半年線及季線等重要均線走勢，及擔保維持率、借券賣出比重與違約率三大風險指標，必要時將採取相關措施。",
-      "publishedAt": "2026-11-01T16:57:49.452Z",
-      "discoveredAt": "2026-11-01T16:57:49.452Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_ad72b7a35a29508e9dea",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1743,7 +1743,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

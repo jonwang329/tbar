@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-09T10:54:45.762Z",
+  "updatedAt": "2026-11-09T21:17:24.671Z",
   "candidates": [
+    {
+      "id": "cand_256f9502b3fc050f3ded",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9867888?from=edn_maintab_index",
+      "title": "輝達執行長黃仁勳驚爆婚外情 牽動晶片鏈 恐動搖 AI 投資熱潮 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳在致公司員工的信函中，坦承與涉嫌為中國大陸從事間諜活動的女子黃樂（Alice Huang）有婚外情。輝達董事會8日宣布，已對此事展開獨立調查。消息衝擊輝達股價早盤下跌5%。",
+      "publishedAt": "2026-11-09T21:17:10.067Z",
+      "discoveredAt": "2026-11-09T21:17:10.067Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_3f35310ce76461f411e1",
       "sourceLastModified": null,
@@ -51,7 +81,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -78,7 +108,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -105,7 +135,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -132,7 +162,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -159,7 +189,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -966,7 +996,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -993,7 +1023,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1650,36 +1680,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_0b6ac6e932a1bde2f55d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9852776?from=edn_maintab_index",
-      "title": "達成協議！邁威爾全股票收購 Lumentum 企業價值達1150億美元 | 美股動態 | 國際 | 經濟日報",
-      "description": "人工智慧（AI）熱潮持續推動全球科技產業整併，美國半導體大廠邁威爾（Marvell Technology）宣布已達成協議，將收購資料中心光學元件製造商Lumentum控股公司，這樁交易的企業價值高達1,150億美元，是迄今規模最大的科技併購交易之一，凸顯AI資料中心對高速光通訊技術的需求急速攀升，也顯示晶片業者正加速整合關鍵技術，搶占下一波AI基礎建設商機。",
-      "publishedAt": "2026-11-02T16:50:14.230Z",
-      "discoveredAt": "2026-11-02T16:50:14.230Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_0a212eb75fc4e6d5ae76",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1758,7 +1758,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

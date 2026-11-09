@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-08T23:27:14.976Z",
+  "updatedAt": "2026-11-09T02:54:34.029Z",
   "candidates": [
+    {
+      "id": "cand_4aac9186d0fe82f291d7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9866097",
+      "title": "黃仁勳事件牽動輝達股價 華府會收緊晶片出口？台灣供應鏈看訂單 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）董事會啟動獨立調查後，避險基金經理人艾克曼呼籲外界支持黃仁勳和他的家人，有國會議員則要求暫停向中國大陸出貨先進AI晶片。對投資人而言，接下來要看華府是否收緊出口管制，以及輝達能否在美東時間11月17日公布財報時守住營收展望。",
+      "publishedAt": "2026-11-09T02:54:23.091Z",
+      "discoveredAt": "2026-11-09T02:54:23.091Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_be6921b3e81fd148e671",
       "sourceLastModified": null,
@@ -1485,96 +1515,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_de89c3aabf37ee3ade0b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9851058",
-      "title": "鎧俠開盤大跌14% 本季獲利展望不如預期 但分析師嫌保守 | 國際焦點 | 國際 | 經濟日報",
-      "description": "鎧俠（Kioxia）本季獲利展望不如預期，NAND快閃記憶體漲價也可能暫告停頓，股價周一早盤一度大跌14%。分析師認為，要指望股價反轉，仍須等待資料中心投資疑慮消退，或公司釋出買回庫藏股等利多。不過，部分出貨可能延至明年初，屆時獲利仍有機會恢復成長。",
-      "publishedAt": "2026-11-02T00:46:56.203Z",
-      "discoveredAt": "2026-11-02T00:46:56.203Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2ec09f3b40ae4d0aa6c7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9851001?from=edn_maintab_index",
-      "title": "本周開盤前 五件國際事不可不知 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國晶片股上周五大跌，英特爾展望失色，加上Anthropic上市後可能無法取得投資級評等，加深AI融資和回報疑慮。費半大跌7.2%，英特爾狂崩近29%，台積電ADR跌近6%，半導體本周開盤行情毫不樂觀。以下是本周開盤前，最值得留意的五件國際和兩岸要聞：",
-      "publishedAt": "2026-11-02T00:46:56.203Z",
-      "discoveredAt": "2026-11-02T00:46:56.203Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3b46d9b0915d389ff50e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9851050?from=edn_newest_index",
-      "title": "今晨國際頭條一次看／投資人急防AI行情反轉 美期中選舉出現意外倒戈",
-      "description": "",
-      "publishedAt": "2026-11-02T00:46:56.203Z",
-      "discoveredAt": "2026-11-02T00:46:56.203Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_ad72b7a35a29508e9dea",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1756,7 +1696,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9865861?from=edn_maintab_index",
-      "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查 | 美股動態 | 國際 | 經濟日報",
+      "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查 2026-11-09 04:23",
       "description": "Axios報導，人工智慧（AI）晶片巨頭輝達（Nvidia）執行長黃仁勳在致公司員工的訊息中，承認與一名涉嫌為中國大陸從事間諜活動的女子有婚外情。輝達董事會8日宣布，將對此事展開獨立調查。",
       "publishedAt": "2026-11-08T23:27:01.276Z",
       "discoveredAt": "2026-11-08T23:27:01.276Z",
@@ -1770,12 +1710,69 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a0e4cfb95c658690d019",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9865861?from=edn_hottest_index",
+      "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查 2026-11-09 04:23",
+      "description": "Axios報導，人工智慧（AI）晶片巨頭輝達（Nvidia）執行長黃仁勳在致公司員工的訊息中，承認與一名涉嫌為中國大陸從事間諜活動的女子有婚外情。輝達董事會8日宣布，將對此事展開獨立調查。",
+      "publishedAt": "2026-11-08T23:27:01.276Z",
+      "discoveredAt": "2026-11-08T23:27:01.276Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_07a651499364b969418f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:05 GMT",
+      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

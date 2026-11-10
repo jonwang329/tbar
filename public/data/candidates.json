@@ -1,7 +1,34 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-10T11:49:02.968Z",
+  "updatedAt": "2026-11-10T19:07:31.078Z",
   "candidates": [
+    {
+      "id": "cand_25dc05b5a069ae2b0052",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "description": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+      "publishedAt": "Tue, 10 Nov 2026 16:00:03 GMT",
+      "discoveredAt": "2026-11-10T19:07:15.734Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_256f9502b3fc050f3ded",
       "sourceLastModified": null,
@@ -1503,17 +1530,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_9d4a86ae01daa2ec18fd",
+      "id": "cand_8ef4d493d3c9f9d45ce1",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9855489?from=edn_maintab_index",
-      "title": "AI 股賣壓遞增暴露出什麼問題？分析師：遭遇3大風險考驗 | 美股動態 | 國際 | 經濟日報",
-      "description": "近幾個月來，華爾街最愛的人工智慧（AI）概念股抗跌力愈來愈弱，每一波賣壓漲潮，都進一步打擊投資人信心，也一步步挨近AI股的最後清算日。",
-      "publishedAt": "2026-11-03T18:52:49.689Z",
-      "discoveredAt": "2026-11-03T18:52:49.689Z",
+      "url": "https://money.udn.com/money/story/124480/9870247?from=edn_VIP_index_side",
+      "title": "AI 雙風暴2／美國 AI 監管恐趨嚴 台廠明年訂單滿、後年添變數",
+      "description": "",
+      "publishedAt": "2026-11-10T19:07:15.734Z",
+      "discoveredAt": "2026-11-10T19:07:15.734Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1528,7 +1555,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1691,33 +1718,6 @@
       "description": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
       "publishedAt": "Fri, 06 Nov 2026 16:00:00 GMT",
       "discoveredAt": "2026-11-06T16:30:28.677Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_44b841fa84c7c95902c5",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
-      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "description": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
-      "publishedAt": "Tue, 03 Nov 2026 16:00:45 GMT",
-      "discoveredAt": "2026-11-03T18:52:49.689Z",
       "topics": [
         "GPU",
         "AI infrastructure",

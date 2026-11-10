@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-09T21:17:24.671Z",
+  "updatedAt": "2026-11-10T03:41:18.366Z",
   "candidates": [
     {
       "id": "cand_256f9502b3fc050f3ded",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9867888?from=edn_maintab_index",
-      "title": "輝達執行長黃仁勳驚爆婚外情 牽動晶片鏈 恐動搖 AI 投資熱潮 | 產業熱點 | 產業 | 經濟日報",
+      "title": "輝達執行長黃仁勳驚爆婚外情 牽動晶片鏈 恐動搖 AI 投資熱潮 2026-11-10 02:41",
       "description": "輝達（NVIDIA）執行長黃仁勳在致公司員工的信函中，坦承與涉嫌為中國大陸從事間諜活動的女子黃樂（Alice Huang）有婚外情。輝達董事會8日宣布，已對此事展開獨立調查。消息衝擊輝達股價早盤下跌5%。",
       "publishedAt": "2026-11-09T21:17:10.067Z",
       "discoveredAt": "2026-11-09T21:17:10.067Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1680,6 +1680,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_ce9628ad161535c3153b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9868582",
+      "title": "其他 AI 股都噴翻了 權王台積電卻沒大漲 市場在擔心什麼？ | 市場焦點 | 證券 | 經濟日報",
+      "description": "美國晶片股除了輝達外出現強勁反彈，費城半導體指數大漲6.8%，那斯達克大漲2.74%，台股10日在美股大漲激勵下盤中也一度大漲近1,500點，反彈至十日線附近。各大AI權值股都大漲，台達電（2308）、台光電（2383）、智邦（2345）、欣興（3037）、奇鋐（3017）等都觸及漲停，但權王台積電（2330）卻僅小漲，甚至漲幅縮小接近平盤。",
+      "publishedAt": "2026-11-10T03:41:02.211Z",
+      "discoveredAt": "2026-11-10T03:41:02.211Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_0a212eb75fc4e6d5ae76",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1737,33 +1767,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c26d3c63fffa83021825",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "description": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:40 GMT",
-      "discoveredAt": "2026-11-09T10:54:33.243Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

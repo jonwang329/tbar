@@ -1,7 +1,31 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-11T00:04:09.737Z",
+  "updatedAt": "2026-11-11T06:01:22.684Z",
   "candidates": [
+    {
+      "id": "cand_1e7a56e127e6ac219e77",
+      "sourceId": "wechat-curated",
+      "sourceName": "WeChat Curated Intelligence",
+      "sourceKind": "curated",
+      "sourcePriority": "P1",
+      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
+      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
+      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
+      "publishedAt": "2026-11-11T06:01:22.684Z",
+      "discoveredAt": "2026-11-11T06:01:22.684Z",
+      "topics": [
+        "AI leader clips",
+        "Chinese summaries"
+      ],
+      "countries": [],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 72,
+      "leaderMatch": true
+    },
     {
       "id": "cand_3362f9337a8435776620",
       "sourceLastModified": null,
@@ -10,7 +34,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9870483?from=edn_maintab_index",
-      "title": "台積電加入 AI 閉環投資 認購 Anthropic、OpenAI 股票 | 產業熱點 | 產業 | 經濟日報",
+      "title": "台積電加入 AI 閉環投資 認購 Anthropic、OpenAI 股票 2026-11-11 02:38",
       "description": "台積電加入AI閉環投資行列，董事會昨（10）日通過，核准5億美元（近新台幣165億元）額度內認購Anthropic普通股，以及於5億美元額度內認購OpenAI特別股，合計最高10億美元（約新台幣330億元）。",
       "publishedAt": "2026-11-11T00:03:54.307Z",
       "discoveredAt": "2026-11-11T00:03:54.307Z",
@@ -24,7 +48,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -81,7 +105,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -195,7 +219,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -222,7 +246,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -249,7 +273,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -276,7 +300,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1449,41 +1473,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1e7a56e127e6ac219e77",
-      "sourceId": "wechat-curated",
-      "sourceName": "WeChat Curated Intelligence",
-      "sourceKind": "curated",
-      "sourcePriority": "P1",
-      "url": "https://weixin.qq.com/sph/AIhUoYRH12",
-      "title": "WeChat video: Jensen Huang on AI compute financing and the $500B infrastructure buildout",
-      "description": "Curated video shared for TBAR review. Topic: NVIDIA/Jensen Huang, AI factories as investable infrastructure, more than $500B of third-party capital, depreciation/economic-life assumptions, and compute revenue economics. Verify financial claims against NVIDIA and other primary sources before publishing conclusions.",
-      "publishedAt": "2026-11-04T04:09:13.715Z",
-      "discoveredAt": "2026-11-04T04:09:13.715Z",
-      "topics": [
-        "AI leader clips",
-        "Chinese summaries"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 88,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 72,
-      "leaderMatch": true
-    },
-    {
-      "id": "cand_107501d2dc0381399e23",
+      "id": "cand_60ee98a2fb4b39a8fc10",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9856474",
-      "title": "美期中選舉／俄州州長換民主黨上台 「資料中心公投」牽動建設前景 | 國際焦點 | 國際 | 經濟日報",
-      "description": "選舉分析機構Decision Desk HQ推估，民主黨籍的艾克頓（Amy Acton）將當選俄亥俄州長。俄亥俄州是美國資料中心重鎮，選舉結果備受市場關注。",
-      "publishedAt": "2026-11-04T04:08:30.843Z",
-      "discoveredAt": "2026-11-04T04:08:30.843Z",
+      "url": "https://money.udn.com/money/story/5599/9871394?from=edn_maintab_index",
+      "title": "CoreWeave執行長力挺輝達 表示「沒有理由」認為合作關係會改變 | 國際焦點 | 國際 | 經濟日報",
+      "description": "AI雲端服務業者CoreWeave執行長英崔特（Michael Intrator）對公司與輝達（NVIDIA）的合作關係表達信心。輝達不僅是CoreWeave的重要支持者，也是其供應商，但目前正深陷執行長黃仁勳的桃色間諜風波之中。",
+      "publishedAt": "2026-11-11T06:01:14.053Z",
+      "discoveredAt": "2026-11-11T06:01:14.053Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1498,7 +1498,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1510,7 +1510,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9870487?from=edn_maintab_index",
-      "title": "AI 需求點火 上市櫃10月營收6.7兆飆新高 法人看好熱到年底 | 市場焦點 | 證券 | 經濟日報",
+      "title": "AI 需求點火 上市櫃10月營收6.7兆飆新高 法人看好熱到年底 2026-11-11 02:54",
       "description": "AI需求持續暢旺，上市櫃公司10月總營收持續推進至6.74兆元，再創歷史新高，且連續三個月超過6兆元；前十月總營收達55.3兆元，年增率達39.5%，同樣改寫歷年同期新高。法人看好營運成長動能可望持續到年底。",
       "publishedAt": "2026-11-11T00:03:54.307Z",
       "discoveredAt": "2026-11-11T00:03:54.307Z",
@@ -1524,7 +1524,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1701,7 +1701,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,

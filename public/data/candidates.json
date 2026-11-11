@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-11T06:01:22.684Z",
+  "updatedAt": "2026-11-11T14:05:17.447Z",
   "candidates": [
+    {
+      "id": "cand_09d806649bbd82d85087",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9872641?from=edn_maintab_index",
+      "title": "廣達沒買成友達工廠、轉向海外大擴產 底氣來自5大 CSP 給2年承諾 | 產業熱點 | 產業 | 經濟日報",
+      "description": "廣達（2382）2026年底伺服器產能翻倍後，因沒買到友達華亞廠，明年組裝測試產能擴張將聚焦海外，而持續擴產的底氣就在於5大CSP客戶已給1~2年長約（產能預留承諾）。不過，AI伺服器單價高但資本密集度也高，因應VR200量產，第3季應收帳款9317億元、存貨8560億元雙奔新高，毛利率4.75%則寫17個季度新低。",
+      "publishedAt": "2026-11-11T14:05:05.018Z",
+      "discoveredAt": "2026-11-11T14:05:05.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceId": "wechat-curated",
@@ -18,7 +48,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -192,7 +222,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1443,17 +1473,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_7684ae4670f751c1783d",
+      "id": "cand_9d8f2cf1cf24a3dbe7d3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9856863?from=edn_maintab_index",
-      "title": "美期中選舉／德州變天 AI 資料中心還能蓋哪裡？CoreWeave、SpaceX 重挫 2026-11-04 14:00",
-      "description": "",
-      "publishedAt": "2026-11-04T12:11:26.707Z",
-      "discoveredAt": "2026-11-04T12:11:26.707Z",
+      "url": "https://money.udn.com/money/story/5607/9872760",
+      "title": "小摩：台積電第4季營收預估538億美元 維持3,300元目標價及20倍本益比 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電（2330）10月營收創新高，摩根大通證券（小摩）指出，台積電受惠於AI需求強勁，先進製程晶圓供需缺口持續擴大，第4季營收預估為538億美元，季增14%、年增58%，2027年營收估計年增40%、2028年年增28%。小摩對台積電維持3,300元目標價及「優於大盤」評等。",
+      "publishedAt": "2026-11-11T14:05:05.018Z",
+      "discoveredAt": "2026-11-11T14:05:05.018Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1468,7 +1498,37 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e2fb659cae401157c41e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9872760?from=edn_maintab_index",
+      "title": "小摩：台積電第4季營收預估538億美元 維持3,300元目標價及20倍本益比 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台積電（2330）10月營收創新高，摩根大通證券（小摩）指出，台積電受惠於AI需求強勁，先進製程晶圓供需缺口持續擴大，第4季營收預估為538億美元，季增14%、年增58%，2027年營收估計年增40%、2028年年增28%。小摩對台積電維持3,300元目標價及「優於大盤」評等。",
+      "publishedAt": "2026-11-11T14:05:05.018Z",
+      "discoveredAt": "2026-11-11T14:05:05.018Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1706,60 +1766,6 @@
       "taiwanScore": 35,
       "businessScore": 85,
       "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_afe3e81e2e0207c2b98d",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
-      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "description": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
-      "publishedAt": "Fri, 06 Nov 2026 16:00:00 GMT",
-      "discoveredAt": "2026-11-06T16:30:28.677Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_07a651499364b969418f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
-      "publishedAt": "Thu, 05 Nov 2026 16:00:05 GMT",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": false
     }

@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-11T14:05:17.447Z",
+  "updatedAt": "2026-11-11T21:20:50.797Z",
   "candidates": [
+    {
+      "id": "cand_8caa8aa117be1fb6e8bf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9873035?from=edn_maintab_index",
+      "title": "美加速 AI 電力基建 鴻海、華城等迎政策利多商機 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美國聯邦參議院通過啟動一項跨黨派能源許可改革法案的辯論程序，準備大幅鬆綁能源計畫審查流程以加速建設，並要求AI資料中心承擔更多能源成本。",
+      "publishedAt": "2026-11-11T21:20:38.465Z",
+      "discoveredAt": "2026-11-11T21:20:38.465Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2d1160139dab3c2006fc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9872984?from=edn_maintab_index",
+      "title": "SpaceX 拚太空發電 Google、亞馬遜也在布局 元晶、聯合再生受惠 | 產業熱點 | 產業 | 經濟日報",
+      "description": "億萬富豪馬斯克積極衝刺太陽能布局，旗下SpaceX昨（11）日宣布將引進年產能高達100GW（10億瓦）的太陽能電池整套生產線，用以在太空發電，藉此加速太空AI布局。",
+      "publishedAt": "2026-11-11T21:20:38.465Z",
+      "discoveredAt": "2026-11-11T21:20:38.465Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_09d806649bbd82d85087",
       "sourceLastModified": null,
@@ -48,7 +108,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -135,7 +195,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1614,7 +1674,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1710,63 +1770,6 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7e6b4fe9457c7bf8422c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9866438?from=edn_maintab_index",
-      "title": "整理包／黃仁勳出軌風波衝擊有多大？輝達股價、台廠與 AI 供應鏈影響一次看 2026-11-09 13:32",
-      "description": "",
-      "publishedAt": "2026-11-09T10:54:33.243Z",
-      "discoveredAt": "2026-11-09T10:54:33.243Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c26d3c63fffa83021825",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "description": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:40 GMT",
-      "discoveredAt": "2026-11-09T10:54:33.243Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 30,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

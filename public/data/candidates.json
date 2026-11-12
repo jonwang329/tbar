@@ -1,7 +1,127 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-12T18:11:32.342Z",
+  "updatedAt": "2026-11-12T23:40:23.559Z",
   "candidates": [
+    {
+      "id": "cand_8af3967b6bc316eefcf2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9875619?from=edn_maintab_index",
+      "title": "美補破網傳擴大 AI 出口管制 防止大陸遠端使用先進晶片 | 國際焦點 | 國際 | 經濟日報",
+      "description": "科技媒體The Information引述知情人士報導，美國商務部正啟動國安調查並擬敲定新規，後續將可能擴大封鎖對馬來西亞、新加坡、泰國等七國AI出口限制，藉此封鎖大陸AI業者透過這些國家的資料中心，遠端使用先進AI晶片，最快11月公布。",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ec467279510aff56d816",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9875591?from=edn_maintab_index",
+      "title": "黃仁勳下台效應 業界憂全球 AI 業產值大縮水 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達創辦人黃仁勳請辭輝達所有職務，台鏈全面警戒，全球AI業更是神經緊繃。國內重量級AI半導體業高層憂心，黃仁勳是輝達GPU主導AI市場關鍵，他下台後勢必重創市場信心，若GPU勢力因而受挫，「全球AI業產值將大縮水，台廠也不會好過」。",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d0b4e6a9fd6c8df0c4d0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9875593?from=edn_maintab_index",
+      "title": "黃仁勳辭去所有職務 輝達恐遭對手搶單 台鏈考驗大 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達創辦人黃仁勳辭去輝達所有職務，考驗台灣AI供應鏈。分析師指出，目前衝擊仍集中在輝達，一旦輝達換帥後縮減對合作業者的資金支持，或競爭對手趁勢搶走市占，影響就可能擴及台灣訂單和投資，甚至改變台韓股市的強弱格局。",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1eeccea1f5a50f1e9f72",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9875598?from=edn_maintab_index",
+      "title": "輝達黃仁勳下台風波 13 兆對外投資承諾... AI 鏈未爆彈 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳一再爆出婚外情風波，12日宣布辭去輝達所有職務。外界憂心位居人工智慧（AI）生態系核心的黃仁勳，卸任所引發的動盪是否會沿著他建立的「AI循環融資」資金鏈擴散出去，從而造成「大到不能倒」的問題。",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_563b598e4b382e694ab0",
       "sourceLastModified": null,
@@ -1269,17 +1389,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_8e97360797b9094e68d4",
+      "id": "cand_c168968a70092f6fbb55",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9860901?from=edn_newest_index",
-      "title": "美期中選舉引發AI投資疑慮 美股收盤重挫 2026-11-06 05:30",
-      "description": "",
-      "publishedAt": "2026-11-05T21:34:59.997Z",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "url": "https://money.udn.com/money/story/5607/9875584?from=edn_maintab_index",
+      "title": "輝達創辦人黃仁勳下台 引爆兩大焦慮 台鏈短期恐受衝擊 | 市場焦點 | 證券 | 經濟日報",
+      "description": "輝達創辦人黃仁勳辭去所有職務，法人分析，市場對黃仁勳下台產生兩大擔憂，包含AI永動機生態會否改變、輝達一年一次規格提升能否持續，台廠在內的輝達供應鏈短期勢必受情緒衝擊，而純超微（AMD）、ASIC供應鏈可望受惠。業界認為，由財務長暫代，顯示輝達更在意市場對17日公布的財務數字、技術走向的反應。",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1294,35 +1414,8 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_153fb180449173a720ee",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
-      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "description": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
-      "publishedAt": "Thu, 05 Nov 2026 20:00:41 GMT",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1467,7 +1560,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1620,6 +1713,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_5f4014e3fb193539d021",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9875623?from=edn_maintab_index",
+      "title": "AI 教父婚外情連環爆 黃仁勳辭輝達 CEO | 國際焦點 | 國際 | 經濟日報",
+      "description": "紐時引述知情人士報導，輝達（NVIDIA）執行長黃仁勳傳出第二起婚外情，且對象是直接向他報告的輝達醫療事業副總裁鮑爾（Kimberly Powell）。輝達董事會12日宣布，黃仁勳已辭去執行長、總裁的輝達職務，也不再是董事會成員；柯蕾絲（Colette Kress）獲任命為臨時執行長，同時續任財務長。",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_838cf85b002e1ddafb83",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1638,133 +1761,13 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": true
-    },
-    {
-      "id": "cand_68acf8996be651cac00e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9872901?from=edn_maintab_index",
-      "title": "國科會預告擴大國家核心關鍵技術列管 新增四大領域 2026-11-12 02:42",
-      "description": "國科會昨（11）日預告擴大國家核心關鍵技術列管範圍，從現行42項擴增至46項，新增低軌衛星通訊、高階AI晶片載板、無人機飛控及腸病毒疫苗製造等四項技術，強化國安及關鍵產業營業秘密保護。",
-      "publishedAt": "2026-11-11T21:20:38.465Z",
-      "discoveredAt": "2026-11-11T21:20:38.465Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b1f663fe963343ce7dfc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9875489?from=edn_maintab_index",
-      "title": "黃仁勳辭職 恐衝擊陸AI發展 美中貿易休兵 | 國際焦點 | 國際 | 經濟日報",
-      "description": "彭博分析指出，黃仁勳離職可能會讓美中的AI運算競賽雙雙減速，輝達或許更難延續美國在這個領域的領先，而晶片產業失去力挺產品輸中的大咖，恐怕會替更嚴格的美國晶片管制鋪路。",
-      "publishedAt": "2026-11-12T18:11:19.361Z",
-      "discoveredAt": "2026-11-12T18:11:19.361Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c2cd95d757594f5140a1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9875312?from=edn_maintab_index",
-      "title": "永豐銀遭駭敲警鐘！金管會急召76家資安長 堵災情擴大 | 金融脈動 | 金融 | 經濟日報",
-      "description": "永豐銀遭駭敲響金融資安警鐘。金管會12日召集76家金融機構資安長，提出四大防禦重點，包括縮減遭駭風險、優先修補高風險漏洞、強化資安資源投入及導入防禦性AI，因應AI攻擊威脅。",
-      "publishedAt": "2026-11-12T18:11:19.361Z",
-      "discoveredAt": "2026-11-12T18:11:19.361Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7193d7cc4379f9638d2e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9875732?from=edn_newest_index",
-      "title": "黃仁勳離任 衝擊全球AI產業與改變美晶片輸出政策",
-      "description": "",
-      "publishedAt": "2026-11-12T18:11:19.361Z",
-      "discoveredAt": "2026-11-12T18:11:19.361Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
     }
   ]
 }

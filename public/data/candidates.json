@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-12T10:00:19.553Z",
+  "updatedAt": "2026-11-12T18:11:32.342Z",
   "candidates": [
+    {
+      "id": "cand_563b598e4b382e694ab0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9875458?from=edn_maintab_index",
+      "title": "黃仁勳辭去輝達 CEO 會怎樣？分析師：AI 投資榮景岌岌可危 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達（Nvidia）執行長黃仁勳以先進的晶片和滋養人工智慧（AI）供應鏈的創意融資交易，壯大了這家晶片公司和整個AI生態系。分析師認為，黃仁勳辭職後，整個AI投資榮景將岌岌可危。",
+      "publishedAt": "2026-11-12T18:11:19.361Z",
+      "discoveredAt": "2026-11-12T18:11:19.361Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_845870716bb1b5a3a4fa",
       "sourceLastModified": null,
@@ -285,7 +315,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1296,123 +1326,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d3b203d3607bc6384682",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
-      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-      "description": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
-      "publishedAt": "Thu, 05 Nov 2026 16:00:00 GMT",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_14fc2ac378b7a2e2b906",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9860666",
-      "title": "美股早盤／「藍色海嘯」掀AI大逃殺潮 費半崩7% | 美股動態 | 國際 | 經濟日報",
-      "description": "在民主黨期中選舉告捷後，為AI資料中心建設潮投下陰影，投資人連續第二天撤出科技股，拖累美股四大指數早盤全面暴跌。費城半導體指數重挫7%、台積電ADR也跌近7%。標普500指數跌1.7%、那斯達克綜合指數挫跌3%。",
-      "publishedAt": "2026-11-05T15:42:37.791Z",
-      "discoveredAt": "2026-11-05T15:42:37.791Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ae8c02002c0d27d45a96",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9860666?from=edn_maintab_index",
-      "title": "美股早盤／「藍色海嘯」掀AI大逃殺潮 費半崩7% | 美股動態 | 國際 | 經濟日報",
-      "description": "在民主黨期中選舉告捷後，為AI資料中心建設潮投下陰影，投資人連續第二天撤出科技股，拖累美股四大指數早盤全面暴跌。費城半導體指數重挫7%、台積電ADR也跌近7%。標普500指數跌1.7%、那斯達克綜合指數挫跌3%。",
-      "publishedAt": "2026-11-05T15:42:37.791Z",
-      "discoveredAt": "2026-11-05T15:42:37.791Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_eff6854fbefb3bbc2441",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9860207?from=edn_maintab_index",
-      "title": "期中選舉救了 AI 股？美銀：資料中心興建減速 晶片股漲勢反而可更持久 2026-11-05 18:34",
-      "description": "",
-      "publishedAt": "2026-11-05T15:42:37.791Z",
-      "discoveredAt": "2026-11-05T15:42:37.791Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_9d8f2cf1cf24a3dbe7d3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1707,6 +1620,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_838cf85b002e1ddafb83",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "title": "NVIDIA Announces CEO Transition",
+      "description": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+      "publishedAt": "Thu, 12 Nov 2026 13:48:00 GMT",
+      "discoveredAt": "2026-11-12T18:11:19.361Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": true
+    },
+    {
       "id": "cand_68acf8996be651cac00e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1737,30 +1677,93 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_07a651499364b969418f",
+      "id": "cand_b1f663fe963343ce7dfc",
       "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
-      "publishedAt": "Thu, 05 Nov 2026 16:00:05 GMT",
-      "discoveredAt": "2026-11-05T21:34:59.997Z",
+      "url": "https://money.udn.com/money/story/5599/9875489?from=edn_maintab_index",
+      "title": "黃仁勳辭職 恐衝擊陸AI發展 美中貿易休兵 | 國際焦點 | 國際 | 經濟日報",
+      "description": "彭博分析指出，黃仁勳離職可能會讓美中的AI運算競賽雙雙減速，輝達或許更難延續美國在這個領域的領先，而晶片產業失去力挺產品輸中的大咖，恐怕會替更嚴格的美國晶片管制鋪路。",
+      "publishedAt": "2026-11-12T18:11:19.361Z",
+      "discoveredAt": "2026-11-12T18:11:19.361Z",
       "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
         "data center"
       ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c2cd95d757594f5140a1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9875312?from=edn_maintab_index",
+      "title": "永豐銀遭駭敲警鐘！金管會急召76家資安長 堵災情擴大 | 金融脈動 | 金融 | 經濟日報",
+      "description": "永豐銀遭駭敲響金融資安警鐘。金管會12日召集76家金融機構資安長，提出四大防禦重點，包括縮減遭駭風險、優先修補高風險漏洞、強化資安資源投入及導入防禦性AI，因應AI攻擊威脅。",
+      "publishedAt": "2026-11-12T18:11:19.361Z",
+      "discoveredAt": "2026-11-12T18:11:19.361Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7193d7cc4379f9638d2e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9875732?from=edn_newest_index",
+      "title": "黃仁勳離任 衝擊全球AI產業與改變美晶片輸出政策",
+      "description": "",
+      "publishedAt": "2026-11-12T18:11:19.361Z",
+      "discoveredAt": "2026-11-12T18:11:19.361Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

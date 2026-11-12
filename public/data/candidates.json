@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-12T02:21:25.677Z",
+  "updatedAt": "2026-11-12T10:00:19.553Z",
   "candidates": [
+    {
+      "id": "cand_845870716bb1b5a3a4fa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9874917?from=edn_maintab_index",
+      "title": "不只桃花劫……輝達 CUDA 護城河將失守？Anthropic 模型3天就想出破解法 | 國際焦點 | 國際 | 經濟日報",
+      "description": "除了執行長黃仁勳陷入桃色風波之外，輝達透過CUDA平台建立起在AI運算市場上的優勢正在快速失守。Anthropic在其IPO投資說明會的一張投影片中指出，其Claude Mythos Preview模型只需要約三天時間，就可想出如何在一個新的GPU上運行其他模型，比通常為新運算平台準備推理相關操作所需的六至12個月大幅縮短。",
+      "publishedAt": "2026-11-12T10:00:08.663Z",
+      "discoveredAt": "2026-11-12T10:00:08.663Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b18c7830eb1c0037a7a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9874704?from=edn_maintab_index",
+      "title": "鴻海法說會／劉揚偉：客戶 AI 需求短期強勁 長期是否影響還要觀察 | 產業熱點 | 產業 | 經濟日報",
+      "description": "鴻海（2317）12日舉行法說會，針對客戶在AI資料中心的投入是否放緩？董事長劉揚偉表示，目前看到AI的需求是持續不斷增加，主要來自使用者，這些使用者可以分成四類，即大語言模型製造商（Model Maker）、雲端服務供應商（CSP）、政府與企業等四大類。",
+      "publishedAt": "2026-11-12T10:00:08.663Z",
+      "discoveredAt": "2026-11-12T10:00:08.663Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d60aa22af4ccd3b47e73",
       "sourceLastModified": null,
@@ -138,7 +198,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1345,66 +1405,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7d1027c69ef94dd1f915",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9858888?from=edn_maintab_index",
-      "title": "大摩：AI 可能加速上太空！美民主黨勝選 地面資料中心擴建恐難上加難 2026-11-05 11:30",
-      "description": "",
-      "publishedAt": "2026-11-05T07:26:24.580Z",
-      "discoveredAt": "2026-11-05T07:26:24.580Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_404abb20d1a54ba8d2cb",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9858075?from=edn_hottest_index",
-      "title": "美國期中選舉變天 產業市場／AI 資料中心面臨「藍色海嘯」 民主黨拿下四大重鎮州長 主張嚴格監管",
-      "description": "",
-      "publishedAt": "2026-11-05T07:26:24.580Z",
-      "discoveredAt": "2026-11-05T07:26:24.580Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,

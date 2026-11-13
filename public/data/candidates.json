@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-13T03:37:31.901Z",
+  "updatedAt": "2026-11-13T11:36:55.508Z",
   "candidates": [
     {
       "id": "cand_3a3c49b0c9c7979302dd",
@@ -408,7 +408,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -582,7 +582,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -609,7 +609,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -636,7 +636,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -663,7 +663,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -690,7 +690,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1299,126 +1299,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_8bcc0f191a5069ce11c6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9861888",
-      "title": "AI 資料中心還能蓋在哪？德州新州長喊先停建 全美45場公投44場挺設限 | 國際焦點 | 國際 | 經濟日報",
-      "description": "德州州長當選人希諾霍薩（Gina Hinojosa）周四表示，應暫停資料中心開發，等保障居民的法規訂好再說。德州原可望在2030年超越北維吉尼亞州，成為全球最大的資料中心市場，如今新建案將面臨哪些條件，備受業界關注。",
-      "publishedAt": "2026-11-06T08:47:52.075Z",
-      "discoveredAt": "2026-11-06T08:47:52.075Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_52822d1302f4bd7cc25b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9862245?from=edn_maintab_index",
-      "title": "川普：這麼愛投民主黨 股市崩跌只能怪你們自己 | 美股動態 | 國際 | 經濟日報",
-      "description": "隨民主黨期中選舉掀起藍色海嘯，為資料中心建設前景投下陰影，拖累美股5日重挫，美國總統川普似乎撿到槍，連發兩則貼文，把股市崩跌歸咎於民主黨、以及愛投民主黨的選民。",
-      "publishedAt": "2026-11-06T08:47:52.075Z",
-      "discoveredAt": "2026-11-06T08:47:52.075Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_da0384a812325753664e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9861888?from=edn_maintab_index",
-      "title": "AI 資料中心還能蓋在哪？德州新州長喊先停建 全美45場公投44場挺設限 2026-11-06 14:00",
-      "description": "",
-      "publishedAt": "2026-11-06T08:47:52.075Z",
-      "discoveredAt": "2026-11-06T08:47:52.075Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a602199e8d4ed280913a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9862317?from=edn_newest_index",
-      "title": "瑞銀：AI資料中心建設不崩跌 2028年成長將放緩 2026-11-06 16:47",
-      "description": "",
-      "publishedAt": "2026-11-06T08:47:52.075Z",
-      "discoveredAt": "2026-11-06T08:47:52.075Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c168968a70092f6fbb55",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1707,7 +1587,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1769,6 +1649,123 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_838cf85b002e1ddafb83",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "title": "NVIDIA Announces CEO Transition",
+      "description": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+      "publishedAt": "Thu, 12 Nov 2026 13:48:00 GMT",
+      "discoveredAt": "2026-11-12T18:11:19.361Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 70,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_486e348ca366a0a07128",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9877021",
+      "title": "AI 企業高薪招攬反情報人才！黃仁勳風波背後的間諜疑雲與政治角力 | 國際焦點 | 國際 | 經濟日報",
+      "description": "AI和科技公司正加緊招攬反情報人才，防範機密遭竊與高層遭滲透，黃仁勳離開輝達（NVIDIA）讓這項需求更受關注。",
+      "publishedAt": "2026-11-13T11:36:47.693Z",
+      "discoveredAt": "2026-11-13T11:36:47.693Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9ed4354b44e0ce531004",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9875614?from=edn_course_index",
+      "title": "宏碁集團創辦人、智榮基金會董事長 / 宏碁集團創辦人 從自建雲、自主 AI 到自建網",
+      "description": "",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 82,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ea3d8418de0beed11300",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9872899?from=edn_course_index",
+      "title": "劉佩真 / 台經院產經資料庫總監、APIAA院士 白宮 AI 憲法下的全球新秩序",
+      "description": "",
+      "publishedAt": "2026-11-11T21:20:38.465Z",
+      "discoveredAt": "2026-11-11T21:20:38.465Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

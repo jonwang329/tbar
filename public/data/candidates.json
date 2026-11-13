@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-13T18:45:00.064Z",
+  "updatedAt": "2026-11-13T23:56:24.737Z",
   "candidates": [
+    {
+      "id": "cand_fac3ec0e2b53ce66755e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9877836?from=edn_maintab_index",
+      "title": "黃仁勳去職震撼產業 反制「AI末世論」 少了最強而有力人物 | 國際焦點 | 國際 | 經濟日報",
+      "description": "黃仁勳12日辭去輝達執行長，接下來的發展無論對輝達的投資人、客戶、競爭者及整個人工智慧（AI）都將產生不容輕忽的影響。",
+      "publishedAt": "2026-11-13T23:56:11.738Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_693795aa7cdd939d4fe0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122979/9812950?from=edn_VIP_index_side",
+      "title": "2026 AI必修關鍵字 4／AI怎麼「看懂世界」？ 電腦視覺、GPU、Gemini一次懂",
+      "description": "",
+      "publishedAt": "2026-11-13T23:56:11.738Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d3c53e0e689a4a063222",
       "sourceLastModified": null,
@@ -1149,126 +1209,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_560b9ec40fcb6a537306",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9862913?from=edn_maintab_index",
-      "title": "AI 股慘兮兮 何時能回神？緊盯這三大關鍵 2026-11-06 23:33",
-      "description": "美股近日巨幅震盪，多家國際財經媒體分析，未來晶片股能否站穩，取決於資料中心建案會延後多久、大型雲端業者是否縮減支出，以及分析師會不會下修獲利預估。",
-      "publishedAt": "2026-11-06T21:44:13.413Z",
-      "discoveredAt": "2026-11-06T21:44:13.413Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_de153382de9b480d2467",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9862909?from=edn_maintab_index",
-      "title": "瑞銀：AI 投資循環調整期非泡沫破裂 台灣市場估值浮現吸引力 2026-11-07 02:32",
-      "description": "瑞銀（UBS）證券台灣區研究部主管艾藍迪（Randy Abrams）昨（6）日表示，目前AI投資循環正進入調整期，但並非泡沫破裂，在供應鏈方面，AI相關供應鏈目前仍供給吃緊，預期至少延續至明年。",
-      "publishedAt": "2026-11-06T21:44:13.413Z",
-      "discoveredAt": "2026-11-06T21:44:13.413Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f6dfb62bd597d72baa3e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9862962?from=edn_maintab_index",
-      "title": "民主黨勝選藍潮衝擊 美資料中心建設恐踩煞車 2026-11-07 02:22",
-      "description": "民主黨在這次期中選舉大勝，可能拖慢美國的資料中心建設，使市場重新評估人工智慧（AI）產業的成長前景。美國有線電視新聞網（CNN）5日分析，支持暫停興建資料中心或延長停建的民主黨籍州長當選人，明年就任後執政的州，共占全美規畫中的資料中心容量約45%，其中德州就占25%。",
-      "publishedAt": "2026-11-06T21:44:13.413Z",
-      "discoveredAt": "2026-11-06T21:44:13.413Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ccfce6b41e376ae12276",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9862979?from=edn_maintab_index",
-      "title": "美期中選舉後變天 台廠赴美投資布局 面臨三變數 2026-11-07 02:16",
-      "description": "美國期中選舉造成德州、俄亥俄州等共和黨傳統票倉變天，也為台廠AI供應鏈赴美投資增添變局，未來包括電力供應、租稅優惠及勞動規範等，恐面臨調整。",
-      "publishedAt": "2026-11-06T21:44:13.413Z",
-      "discoveredAt": "2026-11-06T21:44:13.413Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_f5d48686bf2d44a24b2b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1653,17 +1593,17 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_70681ed70db747c3b2b0",
+      "id": "cand_dc2771392350dcdc7f8a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9874717?from=edn_newest_index",
-      "title": "朱成志：AI監管、黃仁勳風波擋不住台股多頭！50年統計揭行情 明年4月前挑戰5萬點",
-      "description": "",
-      "publishedAt": "2026-11-13T18:44:48.395Z",
-      "discoveredAt": "2026-11-13T18:44:48.395Z",
+      "url": "https://money.udn.com/money/story/123398/9878074",
+      "title": "科技股賣壓仍重 美股多數跌 | 美股動態 | 國際 | 經濟日報",
+      "description": "科技股賣壓仍重，主要人工智慧（AI）概念股回檔拖累大盤，美國股市今天多數收跌",
+      "publishedAt": "2026-11-13T23:56:11.738Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1683,17 +1623,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d5f217dec4b6e622b403",
+      "id": "cand_c3d90a9bba3e653082d4",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5613/9877896?from=edn_newest_index",
-      "title": "AI 獨角獸 Anthropic IPO 富邦人壽搶進 最高申購金額曝",
-      "description": "",
-      "publishedAt": "2026-11-13T18:44:48.395Z",
-      "discoveredAt": "2026-11-13T18:44:48.395Z",
+      "url": "https://money.udn.com/money/story/123398/9878074?from=edn_maintab_index",
+      "title": "科技股賣壓仍重 美股多數跌 | 美股動態 | 國際 | 經濟日報",
+      "description": "科技股賣壓仍重，主要人工智慧（AI）概念股回檔拖累大盤，美國股市今天多數收跌",
+      "publishedAt": "2026-11-13T23:56:11.738Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1713,25 +1653,85 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_a6b94d72ea1ed96c3d41",
+      "id": "cand_d4446fde2c0210fbe73e",
       "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9877897?from=edn_VIP_index_side",
+      "title": "輝達換帥牽動 AI 鏈 14檔「後黃仁勳」概念股出列",
+      "description": "",
+      "publishedAt": "2026-11-13T23:56:11.738Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5326efffac28cca680fc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122979/9812949?from=edn_VIP_index_side",
+      "title": "2026 AI必修關鍵字 3／AI如何變成工作助理？ Claude、Copilot、Connector一次懂",
+      "description": "",
+      "publishedAt": "2026-11-13T23:56:11.738Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5c83fb062cb84999f811",
+      "sourceLastModified": "2026-11-13T22:37:05.606Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
       "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "description": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
-      "publishedAt": "Fri, 13 Nov 2026 13:00:42 GMT",
-      "discoveredAt": "2026-11-13T18:44:48.395Z",
+      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+      "title": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+      "description": "",
+      "publishedAt": "2026-11-13T22:37:05.606Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
       "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1740,33 +1740,30 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_486e348ca366a0a07128",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "id": "cand_4df019e57f4efcf91d04",
+      "sourceLastModified": "2026-11-13T22:37:05.606Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9877021",
-      "title": "AI 企業高薪招攬反情報人才！黃仁勳風波背後的間諜疑雲與政治角力 | 國際焦點 | 國際 | 經濟日報",
-      "description": "AI和科技公司正加緊招攬反情報人才，防範機密遭竊與高層遭滲透，黃仁勳離開輝達（NVIDIA）讓這項需求更受關注。",
-      "publishedAt": "2026-11-13T11:36:47.693Z",
-      "discoveredAt": "2026-11-13T11:36:47.693Z",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "title": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "description": "",
+      "publishedAt": "2026-11-13T22:37:05.606Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
         "AI",
-        "data center"
+        "models",
+        "agents",
+        "enterprise"
       ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 65,
-      "confidenceScore": 78,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

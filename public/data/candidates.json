@@ -1,19 +1,19 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-12T23:40:23.559Z",
+  "updatedAt": "2026-11-13T03:37:31.901Z",
   "candidates": [
     {
-      "id": "cand_8af3967b6bc316eefcf2",
+      "id": "cand_3a3c49b0c9c7979302dd",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9875619?from=edn_maintab_index",
-      "title": "美補破網傳擴大 AI 出口管制 防止大陸遠端使用先進晶片 | 國際焦點 | 國際 | 經濟日報",
-      "description": "科技媒體The Information引述知情人士報導，美國商務部正啟動國安調查並擬敲定新規，後續將可能擴大封鎖對馬來西亞、新加坡、泰國等七國AI出口限制，藉此封鎖大陸AI業者透過這些國家的資料中心，遠端使用先進AI晶片，最快11月公布。",
-      "publishedAt": "2026-11-12T23:40:12.293Z",
-      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "url": "https://money.udn.com/money/story/124512/9866438",
+      "title": "整理包／黃仁勳婚外情風暴燒到下台！輝達股價、AI 供應鏈與台廠影響一次看 | 整理包 | 專題 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳8日坦承婚外情，由於相關對象被美國情報單位懷疑涉及中國大陸情報活動，輝達董事會已啟動獨立調查，讓這起桃色風波迅速升級為企業治理與國家安全議題。身為全球AI晶片龍頭，輝達的動向牽動科技產業及金融市場，黃仁勳若因調查結果遭撤換，恐對公司經營、投資人信心與全球AI供應鏈帶來衝擊。",
+      "publishedAt": "2026-11-13T03:37:22.738Z",
+      "discoveredAt": "2026-11-13T03:37:22.738Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -33,6 +33,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_ffe22e75192345e7eda2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9876163",
+      "title": "黃仁勳下台牽動AI產業 資金、訂單、出口管制三大考驗波及台灣 | 國際焦點 | 國際 | 經濟日報",
+      "description": "黃仁勳下台，對台灣AI供應鏈的影響不只止於股價震盪。伺服器業者擔心美方加嚴出口管制，據報導已加強查核客戶和出貨地點，甚至暫停承接陌生小客戶的訂單。接下來，輝達（NVIDIA）是否調整採購、投資及融資支持，將牽動台灣晶片製造、封測和伺服器業者。",
+      "publishedAt": "2026-11-13T03:37:22.738Z",
+      "discoveredAt": "2026-11-13T03:37:22.738Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_8af3967b6bc316eefcf2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9875619?from=edn_maintab_index",
+      "title": "美補破網傳擴大 AI 出口管制 防止大陸遠端使用先進晶片 2026-11-13 03:55",
+      "description": "科技媒體The Information引述知情人士報導，美國商務部正啟動國安調查並擬敲定新規，後續將可能擴大封鎖對馬來西亞、新加坡、泰國等七國AI出口限制，藉此封鎖大陸AI業者透過這些國家的資料中心，遠端使用先進AI晶片，最快11月公布。",
+      "publishedAt": "2026-11-12T23:40:12.293Z",
+      "discoveredAt": "2026-11-12T23:40:12.293Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_ec467279510aff56d816",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9875591?from=edn_maintab_index",
-      "title": "黃仁勳下台效應 業界憂全球 AI 業產值大縮水 | 產業熱點 | 產業 | 經濟日報",
+      "title": "黃仁勳下台效應 業界憂全球 AI 業產值大縮水 2026-11-13 03:46",
       "description": "輝達創辦人黃仁勳請辭輝達所有職務，台鏈全面警戒，全球AI業更是神經緊繃。國內重量級AI半導體業高層憂心，黃仁勳是輝達GPU主導AI市場關鍵，他下台後勢必重創市場信心，若GPU勢力因而受挫，「全球AI業產值將大縮水，台廠也不會好過」。",
       "publishedAt": "2026-11-12T23:40:12.293Z",
       "discoveredAt": "2026-11-12T23:40:12.293Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1359,36 +1419,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_86145fdc646196b8557f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9860944?from=edn_maintab_index",
-      "title": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市周四大跌，高通（Qualcomm）高通和安謀（Arm）財報未能滿足市場期待，投資人也擔心民主黨在期中選舉大勝後，資料中心建設可能受到更多限制。晶片股首當其衝，費城半導體指數創下2020年3月以來最大單日跌幅，那斯達克綜合指數陷入修正。",
-      "publishedAt": "2026-11-06T01:47:28.029Z",
-      "discoveredAt": "2026-11-06T01:47:28.029Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c168968a70092f6fbb55",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1396,7 +1426,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5607/9875584?from=edn_maintab_index",
-      "title": "輝達創辦人黃仁勳下台 引爆兩大焦慮 台鏈短期恐受衝擊 | 市場焦點 | 證券 | 經濟日報",
+      "title": "輝達創辦人黃仁勳下台 引爆兩大焦慮 台鏈短期恐受衝擊 2026-11-13 04:00",
       "description": "輝達創辦人黃仁勳辭去所有職務，法人分析，市場對黃仁勳下台產生兩大擔憂，包含AI永動機生態會否改變、輝達一年一次規格提升能否持續，台廠在內的輝達供應鏈短期勢必受情緒衝擊，而純超微（AMD）、ASIC供應鏈可望受惠。業界認為，由財務長暫代，顯示輝達更在意市場對17日公布的財務數字、技術走向的反應。",
       "publishedAt": "2026-11-12T23:40:12.293Z",
       "discoveredAt": "2026-11-12T23:40:12.293Z",
@@ -1410,7 +1440,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1741,33 +1771,6 @@
       "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
-    },
-    {
-      "id": "cand_838cf85b002e1ddafb83",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "title": "NVIDIA Announces CEO Transition",
-      "description": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
-      "publishedAt": "Thu, 12 Nov 2026 13:48:00 GMT",
-      "discoveredAt": "2026-11-12T18:11:19.361Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": true
     }
   ]
 }

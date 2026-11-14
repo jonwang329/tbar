@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-14T18:27:16.011Z",
+  "updatedAt": "2026-11-14T22:40:37.974Z",
   "candidates": [
+    {
+      "id": "cand_c3bc23dbb27d6d809987",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9879183?from=edn_maintab_index",
+      "title": "見證歷史！深圳 APEC 領袖峰會 美、中、俄三方對話聚焦 | 國際焦點 | 國際 | 經濟日報",
+      "description": "白宮發言人威爾斯13日表示，美國總統川普將於菲律賓時間17日抵達馬尼拉，18日下午轉往深圳，19日舉行川習會和史上首次正式的美中俄三方峰會。CNBC報導，川普此行，不打算對中國大陸國家主席習近平提黃仁勳與疑似共諜的新加坡資料中心業者Megaspeed前高階主管黃樂的婚外情。",
+      "publishedAt": "2026-11-14T22:40:28.041Z",
+      "discoveredAt": "2026-11-14T22:40:28.041Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f395a5603b535b82f11d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9879180?from=edn_maintab_index",
+      "title": "首場沒有黃仁勳的輝達法說會 11月17日市場提六問 | 美股動態 | 國際 | 經濟日報",
+      "description": "黃仁勳去職後輝達（NVIDIA）首場財報法說會將於美國時間17日盤後登場，由暫代執行長柯蕾絲（Colette Kress）主持。市場普遍預期業績亮眼之餘，更關注訂單是否有變化、成長預測能否維持，以及新管理層會不會減少對AI客戶的投資和融資支持。外界對這次財報有六大看點。",
+      "publishedAt": "2026-11-14T22:40:28.041Z",
+      "discoveredAt": "2026-11-14T22:40:28.041Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_b50bc27526a0dadbf3a0",
       "sourceLastModified": null,
@@ -1119,96 +1179,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_07d0d66fd18433cfb92d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9864366?from=edn_maintab_index",
-      "title": "費半、台積 ADR 強彈 美晶片股本周迎戰兩大考驗 2026-11-08 02:56",
-      "description": "美國股市6日靠晶片股反彈止穩，本周通膨數據和科技業財報將考驗反彈能否延續。投資人仍在評估資料中心建設可能放慢的程度，以及聯準會（Fed）若再升息對AI投資和企業獲利的影響。",
-      "publishedAt": "2026-11-07T22:39:59.060Z",
-      "discoveredAt": "2026-11-07T22:39:59.060Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_428a74ad4b25f4b0f461",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10511/9864394?from=edn_maintab_index",
-      "title": "美民主黨嚴管 AI 基建 德州新州長態度軟化「聲稱不討厭資料中心」 2026-11-08 02:51",
-      "description": "美國國會議員、國會助理與倡議人士表示，民主黨人計劃在明年1月掌控美國國會時，針對AI系統與資料中心開發推出大批新法案，保護消費者免受與資料中心相關的電價上漲衝擊、要求對先進AI系統進行獨立測試，並釐清AI公司在何種情況下須為產品造成的傷害承擔責任。",
-      "publishedAt": "2026-11-07T22:39:59.060Z",
-      "discoveredAt": "2026-11-07T22:39:59.060Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7c8465a4e6cf7113229b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9864331?from=edn_maintab_index",
-      "title": "華邦電：AI 建設二年內無虞 董座焦佑鈞指2029年是關鍵時間點 2026-11-08 02:35",
-      "description": "人工智慧（AI）資料中心投資熱潮延燒，榮景究竟能維持多久？華邦電董事長焦佑鈞昨（7）日指出，2027、2028年AI資料中心建置需求相對明確，資金、基礎設施大多已完成前期安排，2029年可能成為下一波景氣下行循環關鍵時間點，最大限制將來自資金能否持續支撐龐大投資。",
-      "publishedAt": "2026-11-07T22:39:59.060Z",
-      "discoveredAt": "2026-11-07T22:39:59.060Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_2aefcc6506ae5e044adf",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1623,17 +1593,17 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_ca856762faec488f3674",
+      "id": "cand_63f7dd92d11a6ed1efee",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9879209?from=edn_maintab_index",
-      "title": "三波大地震連番襲擊 能否震醒 AI 產業？ | 國際焦點 | 國際 | 經濟日報",
-      "description": "短短兩個月內，人工智慧（AI）產業遭遇三波強震襲擊，輝達（Nvidia）共同創辦人黃仁勳因外遇醜聞連環爆黯然辭去執行長，只是其一。歷經這些震撼之後，AI今後將邁入新階段。",
-      "publishedAt": "2026-11-14T18:27:05.836Z",
-      "discoveredAt": "2026-11-14T18:27:05.836Z",
+      "url": "https://money.udn.com/money/story/123398/9879200?from=edn_maintab_index",
+      "title": "輝達衝擊外溢 美晶片股下挫 超微重摔 本周盯兩件大事 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國晶片股13日再次湧現賣壓，黃仁勳遭撤換風暴從輝達（NVIDIA）波及同業。本周輝達財報和Anthropic上市，將考驗AI股反彈能否延續。",
+      "publishedAt": "2026-11-14T22:40:28.041Z",
+      "discoveredAt": "2026-11-14T22:40:28.041Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1653,6 +1623,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_ca856762faec488f3674",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9879209?from=edn_maintab_index",
+      "title": "三波大地震連番襲擊 能否震醒 AI 產業？ 2026-11-14 23:11",
+      "description": "短短兩個月內，人工智慧（AI）產業遭遇三波強震襲擊，輝達（Nvidia）共同創辦人黃仁勳因外遇醜聞連環爆黯然辭去執行長，只是其一。歷經這些震撼之後，AI今後將邁入新階段。",
+      "publishedAt": "2026-11-14T18:27:05.836Z",
+      "discoveredAt": "2026-11-14T18:27:05.836Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_c0c39642f85fa1afa4e4",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1660,7 +1660,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9878908?from=edn_hottest_index",
-      "title": "「有些事物是永恆的」！馬斯克引喬丹電影致敬黃仁勳 暗喻浴火重生 | 國際焦點 | 國際 | 經濟日報",
+      "title": "「有些事物是永恆的」！馬斯克引喬丹電影致敬黃仁勳 暗喻浴火重生",
       "description": "輝達（NVIDIA）執行長黃仁勳婚外情醜聞連環爆、12日辭去含執行長在內的所有職務，黯然離開30多年前創立的公司，向來對他推崇備至的全球首富馬斯克，也發文向黃仁勳這位人工智慧（AI）教父致敬。",
       "publishedAt": "2026-11-14T18:27:05.836Z",
       "discoveredAt": "2026-11-14T18:27:05.836Z",
@@ -1674,7 +1674,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1734,7 +1734,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

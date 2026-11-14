@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-14T12:28:43.298Z",
+  "updatedAt": "2026-11-14T18:27:16.011Z",
   "candidates": [
+    {
+      "id": "cand_b50bc27526a0dadbf3a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5648/9879259?from=edn_newest_index",
+      "title": "基隆200家餐廳智慧菜單友善服務 透過AI科技8種語言語音互動 | 熱門話題 | 要聞 | 經濟日報",
+      "description": "基隆市政府與國家發展委員會合作，今天在國立海洋科技博物館主題館舉辦「智慧點亮基隆．一鍵串聯世界」多國語言智慧菜單啟用儀式暨成果發表，基隆市現有200家在地店家導入智慧菜單友善服務，透過AI科技，提供中、英、日、韓、泰、印尼、越南、柬埔寨共8種語言，並結合AI店員互動語音，提供菜單介紹及點餐服務。",
+      "publishedAt": "2026-11-14T18:27:05.836Z",
+      "discoveredAt": "2026-11-14T18:27:05.836Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_d6bf8c4f847fba78d05e",
       "sourceLastModified": null,
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -675,7 +705,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1200,7 +1230,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1584,13 +1614,133 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": true
+    },
+    {
+      "id": "cand_ca856762faec488f3674",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9879209?from=edn_maintab_index",
+      "title": "三波大地震連番襲擊 能否震醒 AI 產業？ | 國際焦點 | 國際 | 經濟日報",
+      "description": "短短兩個月內，人工智慧（AI）產業遭遇三波強震襲擊，輝達（Nvidia）共同創辦人黃仁勳因外遇醜聞連環爆黯然辭去執行長，只是其一。歷經這些震撼之後，AI今後將邁入新階段。",
+      "publishedAt": "2026-11-14T18:27:05.836Z",
+      "discoveredAt": "2026-11-14T18:27:05.836Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c0c39642f85fa1afa4e4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9878908?from=edn_hottest_index",
+      "title": "「有些事物是永恆的」！馬斯克引喬丹電影致敬黃仁勳 暗喻浴火重生 | 國際焦點 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳婚外情醜聞連環爆、12日辭去含執行長在內的所有職務，黯然離開30多年前創立的公司，向來對他推崇備至的全球首富馬斯克，也發文向黃仁勳這位人工智慧（AI）教父致敬。",
+      "publishedAt": "2026-11-14T18:27:05.836Z",
+      "discoveredAt": "2026-11-14T18:27:05.836Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_50b181746b8dcae21285",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9879209?from=edn_newest_index",
+      "title": "三波大地震連番襲擊 能否震醒 AI 產業？",
+      "description": "",
+      "publishedAt": "2026-11-14T18:27:05.836Z",
+      "discoveredAt": "2026-11-14T18:27:05.836Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1e3bcf0a69a9c7b3c556",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9879196?from=edn_VIP_index_side",
+      "title": "對抗輝達風暴！15檔 AI 亂局突圍股 麗臺、世芯等股價可望維持強勢",
+      "description": "",
+      "publishedAt": "2026-11-14T18:27:05.836Z",
+      "discoveredAt": "2026-11-14T18:27:05.836Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
     },
     {
       "id": "cand_4e25279adc9ed5ef8a45",
@@ -1620,153 +1770,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f87731f63183b8d47f01",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9878337?from=edn_maintab_index",
-      "title": "費半又跌 但周線仍漲8.1% 下周輝達財報、Anthropic上市決戰AI買氣 2026-11-14 10:58",
-      "description": "美國晶片股周五再遭賣壓，黃仁勳遭撤換風暴從輝達（NVIDIA）擴及波及同業。下周輝達財報和Anthropic上市，將考驗AI股反彈能否延續。",
-      "publishedAt": "2026-11-14T05:34:25.389Z",
-      "discoveredAt": "2026-11-14T05:34:25.389Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dc2771392350dcdc7f8a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9878074",
-      "title": "科技股賣壓仍重 美股多數跌 | 美股動態 | 國際 | 經濟日報",
-      "description": "科技股賣壓仍重，主要人工智慧（AI）概念股回檔拖累大盤，美國股市今天多數收跌",
-      "publishedAt": "2026-11-13T23:56:11.738Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c3d90a9bba3e653082d4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9878074?from=edn_maintab_index",
-      "title": "科技股賣壓仍重 美股多數跌 2026-11-14 06:36",
-      "description": "科技股賣壓仍重，主要人工智慧（AI）概念股回檔拖累大盤，美國股市今天多數收跌",
-      "publishedAt": "2026-11-13T23:56:11.738Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_d4446fde2c0210fbe73e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9877897?from=edn_VIP_index_side",
-      "title": "輝達換帥牽動 AI 鏈 14檔「後黃仁勳」概念股出列",
-      "description": "",
-      "publishedAt": "2026-11-13T23:56:11.738Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5c83fb062cb84999f811",
-      "sourceLastModified": "2026-11-13T22:37:05.606Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
-      "title": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
-      "description": "",
-      "publishedAt": "2026-11-13T22:37:05.606Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

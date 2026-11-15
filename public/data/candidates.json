@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-14T22:40:37.974Z",
+  "updatedAt": "2026-11-15T02:09:33.773Z",
   "candidates": [
     {
       "id": "cand_c3bc23dbb27d6d809987",
@@ -10,7 +10,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9879183?from=edn_maintab_index",
-      "title": "見證歷史！深圳 APEC 領袖峰會 美、中、俄三方對話聚焦 | 國際焦點 | 國際 | 經濟日報",
+      "title": "見證歷史！深圳 APEC 領袖峰會 美、中、俄三方對話聚焦 2026-11-15 02:02",
       "description": "白宮發言人威爾斯13日表示，美國總統川普將於菲律賓時間17日抵達馬尼拉，18日下午轉往深圳，19日舉行川習會和史上首次正式的美中俄三方峰會。CNBC報導，川普此行，不打算對中國大陸國家主席習近平提黃仁勳與疑似共諜的新加坡資料中心業者Megaspeed前高階主管黃樂的婚外情。",
       "publishedAt": "2026-11-14T22:40:28.041Z",
       "discoveredAt": "2026-11-14T22:40:28.041Z",
@@ -24,7 +24,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -40,7 +40,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9879180?from=edn_maintab_index",
-      "title": "首場沒有黃仁勳的輝達法說會 11月17日市場提六問 | 美股動態 | 國際 | 經濟日報",
+      "title": "首場沒有黃仁勳的輝達法說會 11月17日市場提六問 2026-11-15 01:46",
       "description": "黃仁勳去職後輝達（NVIDIA）首場財報法說會將於美國時間17日盤後登場，由暫代執行長柯蕾絲（Colette Kress）主持。市場普遍預期業績亮眼之餘，更關注訂單是否有變化、成長預測能否維持，以及新管理層會不會減少對AI客戶的投資和融資支持。外界對這次財報有六大看點。",
       "publishedAt": "2026-11-14T22:40:28.041Z",
       "discoveredAt": "2026-11-14T22:40:28.041Z",
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1179,6 +1179,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_c3633bc29acda18a5690",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9879472?from=edn_newest_index",
+      "title": "華郵：黃仁勳風波牽連美選民對AI及中國疑慮 重擊川普弱點 | 國際焦點 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）晶片大廠輝達共同創辦人黃仁勳遭爆多起婚外情並引發國安疑慮後，已辭去執行長等職務。華郵指出，民主黨在期中選...",
+      "publishedAt": "2026-11-15T02:09:25.303Z",
+      "discoveredAt": "2026-11-15T02:09:25.303Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_2aefcc6506ae5e044adf",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1600,7 +1630,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9879200?from=edn_maintab_index",
-      "title": "輝達衝擊外溢 美晶片股下挫 超微重摔 本周盯兩件大事 | 美股動態 | 國際 | 經濟日報",
+      "title": "輝達衝擊外溢 美晶片股下挫 超微重摔 本周盯兩件大事 2026-11-15 02:13",
       "description": "美國晶片股13日再次湧現賣壓，黃仁勳遭撤換風暴從輝達（NVIDIA）波及同業。本周輝達財報和Anthropic上市，將考驗AI股反彈能否延續。",
       "publishedAt": "2026-11-14T22:40:28.041Z",
       "discoveredAt": "2026-11-14T22:40:28.041Z",
@@ -1614,7 +1644,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1644,7 +1674,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1674,7 +1704,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1734,37 +1764,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4e25279adc9ed5ef8a45",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9867765",
-      "title": "政策轉彎！川普鬆口「願適度監管 AI 」 但有一前提... | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普認為，人工智慧（AI）帶來的風險在可控範圍內，並釋出願意接受適度監管的訊號。他日前接受哥倫比亞廣播公司（CBS）「60分鐘」（60 Minutes）節目專訪時表示，不反對為AI設立防護措施，「不介意設置護欄」，但強調相關規範不能束縛美國AI產業的發展，以免在這場競賽中落後中國。",
-      "publishedAt": "2026-11-14T05:34:25.389Z",
-      "discoveredAt": "2026-11-14T05:34:25.389Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

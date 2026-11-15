@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-15T16:33:01.959Z",
+  "updatedAt": "2026-11-15T21:12:57.424Z",
   "candidates": [
+    {
+      "id": "cand_570febdc5c161743a327",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9880542?from=edn_maintab_index",
+      "title": "後黃仁勳時代 GPU 平台推進出現雜音 輝達 VR 傳延後放量牽動台鏈 | 產業熱點 | 產業 | 經濟日報",
+      "description": "輝達創辦人黃仁勳辭去公司所有職務，引發市場「後黃仁勳時代焦慮」之際，輝達GPU平台推進也出現雜音。業界傳出，Vera Rubin搭配的HBM4記憶體供應出現瓶頸，Vera Rubin原定今年底放量時程遞延至明年上半年，目前仍以GB300伺服器為主力。",
+      "publishedAt": "2026-11-15T21:12:44.177Z",
+      "discoveredAt": "2026-11-15T21:12:44.177Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c3bc23dbb27d6d809987",
       "sourceLastModified": null,
@@ -999,66 +1029,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_be6921b3e81fd148e671",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9865703?from=edn_maintab_index",
-      "title": "AI 產業發展三劇本推演「藍潮」效應 悲觀情境：出現大量砍單潮 2026-11-09 02:27",
-      "description": "美國期中選舉民主黨大勝，「藍色浪潮」恐衝擊AI後市，業界研擬AI產業發展三套劇本，最壞的狀況是美國市場大幅衰退，進而出現大量砍單潮；另外，也可能由共和黨掌權的州填補部分民主黨擋掉的AI投資缺口；最好的狀況是歐洲、東南亞等地AI基建催速，完全補上民主黨勝選造成的缺口。",
-      "publishedAt": "2026-11-08T19:55:28.561Z",
-      "discoveredAt": "2026-11-08T19:55:28.561Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4e5c173176c8325e8d10",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9865705?from=edn_maintab_index",
-      "title": "巴隆：資料中心終將成大贏家 AI 正成為大勢所趨 2026-11-09 02:21",
-      "description": "美國期中選舉出現「藍色海嘯」，衝擊市場對AI發展的信心，但巴隆金融周刊（Barron&#039;s）分析，資料中心終將成為選後的大贏家，AI正成為大勢所趨，企業正競相整合以提高生產力，而選舉結果恰好給了資料中心業者減緩支出的完美藉口，有助緩解過度支出與投資回報的憂慮。",
-      "publishedAt": "2026-11-08T19:55:28.561Z",
-      "discoveredAt": "2026-11-08T19:55:28.561Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c3633bc29acda18a5690",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1503,6 +1473,156 @@
       "leaderMatch": true
     },
     {
+      "id": "cand_37ac63d44c51957e432a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9880721",
+      "title": "FT：黃仁勳考慮回歸輝達執行長 矽谷大咖組「戰情室」幫忙遊說 | 美股動態 | 國際 | 經濟日報",
+      "description": "英國金融時報（FT）引述知情人士報導，輝達（NVIDIA）共同創辦人黃仁勳在因婚外情風波而離開輝達後，矽谷持續施壓輝達董事會讓黃仁勳回鍋待任執行長，如今有「人工智慧（AI）教父」之稱的黃仁勳，正考慮「復出」擔任輝達舵手。",
+      "publishedAt": "2026-11-15T21:12:44.177Z",
+      "discoveredAt": "2026-11-15T21:12:44.177Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3f2a016cee1396528d49",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9880721?from=edn_maintab_index",
+      "title": "FT：黃仁勳考慮回歸輝達執行長 矽谷大咖組「戰情室」幫忙遊說 | 美股動態 | 國際 | 經濟日報",
+      "description": "英國金融時報（FT）引述知情人士報導，輝達（NVIDIA）共同創辦人黃仁勳在因婚外情風波而離開輝達後，矽谷持續施壓輝達董事會讓黃仁勳回鍋待任執行長，如今有「人工智慧（AI）教父」之稱的黃仁勳，正考慮「復出」擔任輝達舵手。",
+      "publishedAt": "2026-11-15T21:12:44.177Z",
+      "discoveredAt": "2026-11-15T21:12:44.177Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9f2cb42d8951db5890c5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9880550?from=edn_maintab_index",
+      "title": "台股四箭齊發抗 AI 逆風 多頭拚重掌發球權 挑戰45,441點關卡 | 市場焦點 | 證券 | 經濟日報",
+      "description": "輝達創辦人黃仁勳卸任執行長引發美股科技股震盪，持續牽動台股後市。不過，隨國安基金護盤、九合一選前政策作多、年底作帳及MSCI調升權重「四箭齊發」，外資終結連11賣轉為買超，多頭重掌發球權。",
+      "publishedAt": "2026-11-15T21:12:44.177Z",
+      "discoveredAt": "2026-11-15T21:12:44.177Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e350f0a6158734703fb7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9880552?from=edn_maintab_index",
+      "title": "AI 產業三波強震襲擊後 全球金融市場本周又面臨兩大威脅 | 國際焦點 | 國際 | 經濟日報",
+      "description": "全球金融市場在短短兩個月內遭遇人工智慧（AI）產業的三波強震襲擊後，本周將面臨兩大威脅：輝達（NVIDIA）共同創辦人黃仁勳黯然離開輝達後，後續風波與最新財報對AI榮景信心的考驗，還有美國聯準會（Fed）升息機率攀升。",
+      "publishedAt": "2026-11-15T21:12:44.177Z",
+      "discoveredAt": "2026-11-15T21:12:44.177Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_df1e926fda336647021c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9880441?from=edn_hottest_index",
+      "title": "市場氣氛轉弱 外資調降廣達、鴻海及緯創等 AI 伺服器概念股目標價",
+      "description": "",
+      "publishedAt": "2026-11-15T21:12:44.177Z",
+      "discoveredAt": "2026-11-15T21:12:44.177Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_43c1ed786cd233dc3279",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1650,117 +1770,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e3bcf0a69a9c7b3c556",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9879196?from=edn_VIP_index_side",
-      "title": "對抗輝達風暴！15檔 AI 亂局突圍股 麗臺、世芯等股價可望維持強勢",
-      "description": "",
-      "publishedAt": "2026-11-14T18:27:05.836Z",
-      "discoveredAt": "2026-11-14T18:27:05.836Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5c83fb062cb84999f811",
-      "sourceLastModified": "2026-11-13T22:37:05.606Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
-      "title": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
-      "description": "",
-      "publishedAt": "2026-11-13T22:37:05.606Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_4df019e57f4efcf91d04",
-      "sourceLastModified": "2026-11-13T22:37:05.606Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
-      "title": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
-      "description": "",
-      "publishedAt": "2026-11-13T22:37:05.606Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5baf15fa0e9f112397f5",
-      "sourceLastModified": "2026-11-13T22:37:05.587Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/build-ai-in-america",
-      "title": "https://www.anthropic.com/news/build-ai-in-america",
-      "description": "",
-      "publishedAt": "2026-11-13T22:37:05.587Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 50,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

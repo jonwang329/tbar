@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-15T09:29:58.407Z",
+  "updatedAt": "2026-11-15T16:33:01.959Z",
   "candidates": [
     {
       "id": "cand_c3bc23dbb27d6d809987",
@@ -1059,96 +1059,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_1d8765a3a164b9129da6",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9865618",
-      "title": "AI 股遭「藍色海嘯」重擊 投資人反應過度？她的投資露端倪 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國民主黨在這次期中選舉大勝，掀起「藍色海嘯」，引爆AI概念股賣壓，主要是民主黨的立場讓投資人擔心，資料中心建設和AI產業的大好前景將受阻。但從民主黨內一位大老級人物的投資組合來看，市場會不會是反應過度？",
-      "publishedAt": "2026-11-08T15:28:00.536Z",
-      "discoveredAt": "2026-11-08T15:28:00.536Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f7aa1038d80c79fa92e2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9865618?from=edn_maintab_index",
-      "title": "AI 股遭「藍色海嘯」重擊 投資人反應過度？她的投資露端倪 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國民主黨在這次期中選舉大勝，掀起「藍色海嘯」，引爆AI概念股賣壓，主要是民主黨的立場讓投資人擔心，資料中心建設和AI產業的大好前景將受阻。但從民主黨內一位大老級人物的投資組合來看，市場會不會是反應過度？",
-      "publishedAt": "2026-11-08T15:28:00.536Z",
-      "discoveredAt": "2026-11-08T15:28:00.536Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7870d0cd54b61010caf8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9865618?from=edn_newest_index",
-      "title": "AI 股遭「藍色海嘯」重擊 投資人反應過度？她的投資露端倪",
-      "description": "",
-      "publishedAt": "2026-11-08T15:28:00.536Z",
-      "discoveredAt": "2026-11-08T15:28:00.536Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_c3633bc29acda18a5690",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1593,6 +1503,36 @@
       "leaderMatch": true
     },
     {
+      "id": "cand_43c1ed786cd233dc3279",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9880441?from=edn_maintab_index",
+      "title": "市場氣氛轉弱 外資調降廣達、鴻海及緯創等 AI 伺服器概念股目標價 | 市場焦點 | 證券 | 經濟日報",
+      "description": "美國期中選舉之後，市場對於AI需求前景產生疑慮。外資法人雖然對於鴻海（2317）、廣達（2382）、緯創（3231）等伺服器概念股維持「優於大盤」或「買進」評等，但部分已調降目標價。",
+      "publishedAt": "2026-11-15T16:32:52.535Z",
+      "discoveredAt": "2026-11-15T16:32:52.535Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_63f7dd92d11a6ed1efee",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1753,6 +1693,60 @@
       "title": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
       "description": "",
       "publishedAt": "2026-11-13T22:37:05.606Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4df019e57f4efcf91d04",
+      "sourceLastModified": "2026-11-13T22:37:05.606Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "title": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "description": "",
+      "publishedAt": "2026-11-13T22:37:05.606Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5baf15fa0e9f112397f5",
+      "sourceLastModified": "2026-11-13T22:37:05.587Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/build-ai-in-america",
+      "title": "https://www.anthropic.com/news/build-ai-in-america",
+      "description": "",
+      "publishedAt": "2026-11-13T22:37:05.587Z",
       "discoveredAt": "2026-11-13T23:56:11.738Z",
       "topics": [
         "AI",

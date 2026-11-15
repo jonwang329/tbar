@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-15T02:09:33.773Z",
+  "updatedAt": "2026-11-15T09:29:58.407Z",
   "candidates": [
     {
       "id": "cand_c3bc23dbb27d6d809987",
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -678,7 +678,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1141,36 +1141,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f489bd1ea810aa24a988",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10511/9864394?from=edn_hottest_index",
-      "title": "美民主黨嚴管 AI 基建 德州新州長態度軟化「聲稱不討厭資料中心」",
-      "description": "美國國會議員、國會助理與倡議人士表示，民主黨人計劃在明年1月掌控美國國會時，針對AI系統與資料中心開發推出大批新法案，保護消費者免受與資料中心相關的電價上漲衝擊、要求對先進AI系統進行獨立測試，並釐清AI公司在何種情況下須為產品造成的傷害承擔責任。",
-      "publishedAt": "2026-11-08T08:23:02.387Z",
-      "discoveredAt": "2026-11-08T08:23:02.387Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1644,7 +1614,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1674,7 +1644,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1690,7 +1660,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9878908?from=edn_hottest_index",
-      "title": "「有些事物是永恆的」！馬斯克引喬丹電影致敬黃仁勳 暗喻浴火重生",
+      "title": "「有些事物是永恆的」！馬斯克引喬丹電影致敬黃仁勳 暗喻浴火重生 2026-11-14 17:53",
       "description": "輝達（NVIDIA）執行長黃仁勳婚外情醜聞連環爆、12日辭去含執行長在內的所有職務，黯然離開30多年前創立的公司，向來對他推崇備至的全球首富馬斯克，也發文向黃仁勳這位人工智慧（AI）教父致敬。",
       "publishedAt": "2026-11-14T18:27:05.836Z",
       "discoveredAt": "2026-11-14T18:27:05.836Z",
@@ -1704,7 +1674,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1764,12 +1734,39 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5c83fb062cb84999f811",
+      "sourceLastModified": "2026-11-13T22:37:05.606Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+      "title": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+      "description": "",
+      "publishedAt": "2026-11-13T22:37:05.606Z",
+      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

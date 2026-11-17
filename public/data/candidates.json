@@ -1,7 +1,64 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-16T17:59:10.944Z",
+  "updatedAt": "2026-11-17T01:50:05.432Z",
   "candidates": [
+    {
+      "id": "cand_48cc73cb295c10ad96f6",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9882970?from=edn_maintab_index",
+      "title": "美股收盤／那指陷修正 AI 股希望繫於輝達財報和 Anthropic 上市 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國股市周一大跌，晶片股領跌，市場在輝達（NVIDIA）財報和Anthropic上市前轉趨謹慎。美方限制大陸業者遠端使用海外先進AI晶片，也加深投資人對需求和出口管制的疑慮。那斯達克綜合指數較歷史高點回落逾10%，進入修正區間。",
+      "publishedAt": "2026-11-17T01:49:55.429Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_a2cb1dc69340ac64533c",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "description": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "publishedAt": "Mon, 16 Nov 2026 20:00:37 GMT",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5109b70b1941ab8b7a63",
       "sourceLastModified": null,
@@ -51,7 +108,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -78,7 +135,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -105,7 +162,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -132,7 +189,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -942,36 +999,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_256f9502b3fc050f3ded",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9867888?from=edn_maintab_index",
-      "title": "輝達執行長黃仁勳驚爆婚外情 牽動晶片鏈 恐動搖 AI 投資熱潮 2026-11-10 02:41",
-      "description": "輝達（NVIDIA）執行長黃仁勳在致公司員工的信函中，坦承與涉嫌為中國大陸從事間諜活動的女子黃樂（Alice Huang）有婚外情。輝達董事會8日宣布，已對此事展開獨立調查。消息衝擊輝達股價早盤下跌5%。",
-      "publishedAt": "2026-11-09T21:17:10.067Z",
-      "discoveredAt": "2026-11-09T21:17:10.067Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_ad0b85aabcb7ccacd7a9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1362,6 +1389,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_59ac4a38f6281442ce0f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9882739?from=edn_maintab_index",
+      "title": "輝達風波未止…仍入列美 AI 國家隊 台積、京元電等扮要角 2026-11-17 02:59",
+      "description": "",
+      "publishedAt": "2026-11-17T01:49:55.429Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_f91ce7999e22b5e2bc9f",
       "sourceLastModified": null,
       "sourceId": "nvidia-news",
@@ -1380,7 +1437,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1407,7 +1464,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1434,7 +1491,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1530,6 +1587,156 @@
       "leaderMatch": true
     },
     {
+      "id": "cand_3e5d394f04808362727c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9883080",
+      "title": "整理包／失去黃仁勳首場財報 輝達明晨會揭哪六大重點？股價恐波動8% | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達（NVIDIA）即將在台灣時間周三（18日）清晨公布財報，但華爾街關注焦點，將是黃仁勳上周閃電一併辭去執行長、總裁與董事職務，公司長期發展、AI產業前景也隨之蒙上陰影。",
+      "publishedAt": "2026-11-17T01:49:55.429Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d2ca0db6c5be02655cb1",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9883152",
+      "title": "台股搭上雲霄飛車！暴跌1,253點後急拉近500點 多空激戰再翻黑 | 市場焦點 | 證券 | 經濟日報",
+      "description": "輝達財報公布前夕，AI概念股賣壓全面擴大，台積電（2330）ADR暴跌6.34%。儘管台指期夜盤逆勢收高，金管會、證交所也同步信心喊話，強調將密切關注市場變化，必要時採取穩定措施，仍難抵銷賣壓。",
+      "publishedAt": "2026-11-17T01:49:55.429Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cdf1a87870a95f68bca0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9883152?from=edn_maintab_index",
+      "title": "台股搭上雲霄飛車！暴跌1,253點後急拉近500點 多空激戰再翻黑 | 市場焦點 | 證券 | 經濟日報",
+      "description": "輝達財報公布前夕，AI概念股賣壓全面擴大，台積電（2330）ADR暴跌6.34%。儘管台指期夜盤逆勢收高，金管會、證交所也同步信心喊話，強調將密切關注市場變化，必要時採取穩定措施，仍難抵銷賣壓。",
+      "publishedAt": "2026-11-17T01:49:55.429Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_53ab0c3d438383d68585",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/11112/9882547?from=edn_hottest_index",
+      "title": "再傳美國擴大管制 AI 晶片出口 台指期夜盤上沖下洗",
+      "description": "",
+      "publishedAt": "2026-11-17T01:49:55.429Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_14ff00f0cea904229030",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9883179?from=edn_newest_index",
+      "title": "IMF警告全球經濟過度依賴AI 恐危及金融穩定",
+      "description": "",
+      "publishedAt": "2026-11-17T01:49:55.429Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_f4418b26602e3ed70b30",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1541,213 +1748,6 @@
       "description": "美股四大指數16日早盤全面挫跌，受累於人工智慧（AI）晶片龍頭輝達（Nvidia）換帥的不確定性未解。",
       "publishedAt": "2026-11-16T17:58:55.097Z",
       "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_844fb1a012b80b128c72",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9882582?from=edn_maintab_index",
-      "title": "今日最夯 ETF／台股大跌 反向 ETF 揚眉吐氣 00632R 大漲6.6% | 基金天地 | 理財 | 經濟日報",
-      "description": "輝達高層震盪，AI股再度領跌，台股加權指數16日大跌2,635點，收在41,040點，跌幅6%為亞股最重。正向台股ETF全軍覆沒，反向台股ETF站上風，元大台灣50反1（00632R）16日大漲0.68元，漲幅6.6%，收在10.99元；成交張數為34.1萬張，在所有個股/ETF中排第七，略低於前一交易日的35.3萬張。",
-      "publishedAt": "2026-11-16T17:58:55.097Z",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fa75eedcfe7d7bcaa88e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9882547?from=edn_maintab_index",
-      "title": "再傳美國擴大管制 AI 晶片出口 台指期夜盤上沖下洗 2026-11-16 21:10",
-      "description": "",
-      "publishedAt": "2026-11-16T17:58:55.097Z",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9e72f073a78db830d727",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9882341?from=edn_bloomberg_index_side",
-      "title": "歐洲央行副行長稱 AI 快速發展和債務高企威脅金融穩定",
-      "description": "",
-      "publishedAt": "2026-11-16T17:58:55.097Z",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bda36897bd0ad65d6e34",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin",
-      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "description": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
-      "publishedAt": "Mon, 16 Nov 2026 16:00:25 GMT",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 95,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_90ff1c18f821b0ec9ebf",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9881869",
-      "title": "AI 代理風險多 經濟日報奪消費者權益報導獎優勝 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "2026年消費者權益報導獎舉行頒獎典禮，經濟日報資深記者邱金蘭以「AI代理風險多」專題拿下優勝，另一件作品「醫療險賠不賠」榮獲優佳作。聯合報也以「揭開叫車平台安全漏洞」獲得佳作。",
-      "publishedAt": "2026-11-16T07:54:59.412Z",
-      "discoveredAt": "2026-11-16T07:54:59.412Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_29f7a3656cb6f7e4e502",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9881869?from=edn_maintab_index",
-      "title": "AI 代理風險多 經濟日報奪消費者權益報導獎優勝 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "2026年消費者權益報導獎舉行頒獎典禮，經濟日報資深記者邱金蘭以「AI代理風險多」專題拿下優勝，另一件作品「醫療險賠不賠」榮獲優佳作。聯合報也以「揭開叫車平台安全漏洞」獲得佳作。",
-      "publishedAt": "2026-11-16T07:54:59.412Z",
-      "discoveredAt": "2026-11-16T07:54:59.412Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_da72f18f3e13c885873f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9879582",
-      "title": "為何黃仁勳黯然下台的慘劇 不會發生在祖克柏等科技大咖身上？ | 外媒解析 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）前執行長黃仁勳曾是人工智慧（AI）熱潮的看板人物，也是全球最富裕人士之一。他的迅速殞落之所以格外令人震驚，是因為這暴露出他缺乏其他傳奇科技業創辦人所擁有的超級表決權，無法藉此牢牢掌控公司。",
-      "publishedAt": "2026-11-16T01:04:49.644Z",
-      "discoveredAt": "2026-11-16T01:04:49.644Z",
       "topics": [
         "Taiwan business",
         "investment",

@@ -1,7 +1,94 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-17T09:56:28.735Z",
+  "updatedAt": "2026-11-17T18:59:40.603Z",
   "candidates": [
+    {
+      "id": "cand_666096aa1db890edcd59",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9885105?from=edn_maintab_index",
+      "title": "美股早盤／美元指數衝上103.6 三大指數盡墨 費半開高後漲幅收斂 | 美股動態 | 國際 | 經濟日報",
+      "description": "美股三大指數17日早盤同步下跌，那指開高後轉跌，DXY美元指數已收復川普「解放日」以來所有失土，市場如今聚焦輝達即將發布的財報以及萬眾矚目的Anthropic首次公開發行股票（IPO），尋求AI相關投資的風向。",
+      "publishedAt": "2026-11-17T18:59:29.888Z",
+      "discoveredAt": "2026-11-17T18:59:29.888Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_acc39eb1aec7edc2382f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123828/9885344?from=edn_newest_index",
+      "title": "AIC在SC26迎來30週年，展出GPU服務器、支持DPU的JBOF及高密度AI存儲",
+      "description": "",
+      "publishedAt": "2026-11-17T18:59:29.888Z",
+      "discoveredAt": "2026-11-17T18:59:29.888Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c3f730bc435db2dce20f",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "description": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "publishedAt": "Tue, 17 Nov 2026 14:00:10 GMT",
+      "discoveredAt": "2026-11-17T18:59:29.888Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_9652e970bbc73b03fc8a",
       "sourceLastModified": null,
@@ -198,7 +285,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -225,7 +312,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -252,7 +339,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -279,7 +366,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1062,33 +1149,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_25dc05b5a069ae2b0052",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "description": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
-      "publishedAt": "Tue, 10 Nov 2026 16:00:03 GMT",
-      "discoveredAt": "2026-11-10T19:07:15.734Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_ad0b85aabcb7ccacd7a9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1419,36 +1479,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_5a071d7cd274d3cf9167",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9869869?from=edn_maintab_index",
-      "title": "輝達股價重挫 費半、那指竟能大漲？這反常現象反映兩大因素 | 美股動態 | 國際 | 經濟日報",
-      "description": "美國股市周一（9日）強彈，科技股為主的那斯達克綜合指數收盤勁揚2.7%，費城半導體指數更收漲6.8%，一掃晶片股上周遭血洗的悲觀氣氛。但同日，人工智慧（AI）晶片巨人輝達（Nvidia）股價在執行長黃仁勳爆婚外情利空下重挫4.2%。",
-      "publishedAt": "2026-11-10T11:48:51.372Z",
-      "discoveredAt": "2026-11-10T11:48:51.372Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_59ac4a38f6281442ce0f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1497,7 +1527,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1524,7 +1554,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1551,7 +1581,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1674,17 +1704,17 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_c20a5419a3a82908971d",
+      "id": "cand_79936834fec4ca938789",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9884420",
-      "title": "台積電供應鏈管理論壇官方認證最新35家優良供應商出列 | 產業熱點 | 產業 | 經濟日報",
-      "description": "台積電（2330）17日舉辦2026年供應鏈管理論壇，感謝全球夥伴一路以來的信任與支持。從關鍵材料、設備到各項專業服務，供應鏈的鼎力相助為台積公司的持續成長挹注動能；隨著 AI 與高效能運算開啟新局，台積公司將持續攜手供應鏈深耕技術、拓展全球布局，共創美好未來。另外同時頒發頒發優良供應商獎項35家最新官方認證優良供應商入選。",
-      "publishedAt": "2026-11-17T09:56:18.377Z",
-      "discoveredAt": "2026-11-17T09:56:18.377Z",
+      "url": "https://money.udn.com/money/story/123398/9885306",
+      "title": "AMD 蘇姿丰：黃仁勳是位了不起的領導者 AI 晶片仍將供不應求 | 美股動態 | 國際 | 經濟日報",
+      "description": "超微（AMD）執行長蘇姿丰17日在德州奧斯汀出席TomorrowX峰會時表示，黃仁勳是一位了不起的領導者。她也強調，超微將確保參與美國晶片出口管制的磋商。",
+      "publishedAt": "2026-11-17T18:59:29.888Z",
+      "discoveredAt": "2026-11-17T18:59:29.888Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1704,47 +1734,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_fe69fea0040b89fd4f29",
+      "id": "cand_dc45ebbd9f732fb11624",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9883749",
-      "title": "Fed 主席華許：Fed 正在研究 AI 對經濟影響的3種情境 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國聯準會（Fed）主席華許16日表示，他不會對短期利率或經濟展望提出看法，同時強調Fed幕僚已開始模擬人工智慧（AI）可能如何重塑經濟，情境包括如何取代勞工，或AI股價回檔，並拖累大盤。",
-      "publishedAt": "2026-11-17T09:56:18.377Z",
-      "discoveredAt": "2026-11-17T09:56:18.377Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_66a2c3aa00e678022c54",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124480/9883488?from=edn_maintab_index",
-      "title": "2027年經濟展望1／AI 與石油決定一國命運 今年全球經濟贏者圈除了台灣 還有這幾個 2026-11-17 11:26",
-      "description": "",
-      "publishedAt": "2026-11-17T09:56:18.377Z",
-      "discoveredAt": "2026-11-17T09:56:18.377Z",
+      "url": "https://money.udn.com/money/story/123398/9885306?from=edn_maintab_index",
+      "title": "AMD 蘇姿丰：黃仁勳是位了不起的領導者 AI 晶片仍將供不應求 | 美股動態 | 國際 | 經濟日報",
+      "description": "超微（AMD）執行長蘇姿丰17日在德州奧斯汀出席TomorrowX峰會時表示，黃仁勳是一位了不起的領導者。她也強調，超微將確保參與美國晶片出口管制的磋商。",
+      "publishedAt": "2026-11-17T18:59:29.888Z",
+      "discoveredAt": "2026-11-17T18:59:29.888Z",
       "topics": [
         "Taiwan business",
         "investment",

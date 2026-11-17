@@ -1,7 +1,97 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-17T01:50:05.432Z",
+  "updatedAt": "2026-11-17T09:56:28.735Z",
   "candidates": [
+    {
+      "id": "cand_9652e970bbc73b03fc8a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9884504",
+      "title": "CNBC：輝達不會出售晶片 給租逾50% GPU 給陸企的客戶 | 美股動態 | 國際 | 經濟日報",
+      "description": "CNBC引述知情人士報導，輝達（NVIDIA）已警告客戶，針對中國大陸企業遠端存取其AI晶片的新規，可能會使輝達及客戶雙雙面臨美國的法律行動，輝達並指出，目前不會將晶片賣給把50%以上圖形處理器（GPU）租給中國企業的客戶。",
+      "publishedAt": "2026-11-17T09:56:18.377Z",
+      "discoveredAt": "2026-11-17T09:56:18.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_1aadda5d6478ecb16922",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9884504?from=edn_maintab_index",
+      "title": "CNBC：輝達不會出售晶片 給租逾50% GPU 給陸企的客戶 | 美股動態 | 國際 | 經濟日報",
+      "description": "CNBC引述知情人士報導，輝達（NVIDIA）已警告客戶，針對中國大陸企業遠端存取其AI晶片的新規，可能會使輝達及客戶雙雙面臨美國的法律行動，輝達並指出，目前不會將晶片賣給把50%以上圖形處理器（GPU）租給中國企業的客戶。",
+      "publishedAt": "2026-11-17T09:56:18.377Z",
+      "discoveredAt": "2026-11-17T09:56:18.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c22496879dcb52fa37df",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9884112?from=edn_maintab_index",
+      "title": "AI 放款太集中 銀行開始降風險 星際之門在內資料中心貸款求售 2026-11-17 14:31",
+      "description": "",
+      "publishedAt": "2026-11-17T09:56:18.377Z",
+      "discoveredAt": "2026-11-17T09:56:18.377Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_48cc73cb295c10ad96f6",
       "sourceLastModified": null,
@@ -51,7 +141,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -108,7 +198,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -135,7 +225,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -162,7 +252,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -189,7 +279,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1359,36 +1449,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_ce9628ad161535c3153b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9868582",
-      "title": "其他 AI 股都噴翻了 權王台積電卻沒大漲 市場在擔心什麼？ | 市場焦點 | 證券 | 經濟日報",
-      "description": "美國晶片股除了輝達外出現強勁反彈，費城半導體指數大漲6.8%，那斯達克大漲2.74%，台股10日在美股大漲激勵下盤中也一度大漲近1,500點，反彈至十日線附近。各大AI權值股都大漲，台達電（2308）、台光電（2383）、智邦（2345）、欣興（3037）、奇鋐（3017）等都觸及漲停，但權王台積電（2330）卻僅小漲，甚至漲幅縮小接近平盤。",
-      "publishedAt": "2026-11-10T03:41:02.211Z",
-      "discoveredAt": "2026-11-10T03:41:02.211Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_59ac4a38f6281442ce0f",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1437,7 +1497,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1464,7 +1524,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1491,7 +1551,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1527,6 +1587,33 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_aeed8a5685030e1ee7e0",
+      "sourceLastModified": "2026-11-13T22:37:05.626Z",
+      "sourceId": "anthropic-news",
+      "sourceName": "Anthropic Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "title": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "description": "",
+      "publishedAt": "2026-11-13T22:37:05.626Z",
+      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "topics": [
+        "AI",
+        "models",
+        "agents",
+        "enterprise"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1587,17 +1674,17 @@
       "leaderMatch": true
     },
     {
-      "id": "cand_3e5d394f04808362727c",
+      "id": "cand_c20a5419a3a82908971d",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9883080",
-      "title": "整理包／失去黃仁勳首場財報 輝達明晨會揭哪六大重點？股價恐波動8% | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）即將在台灣時間周三（18日）清晨公布財報，但華爾街關注焦點，將是黃仁勳上周閃電一併辭去執行長、總裁與董事職務，公司長期發展、AI產業前景也隨之蒙上陰影。",
-      "publishedAt": "2026-11-17T01:49:55.429Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "url": "https://money.udn.com/money/story/5612/9884420",
+      "title": "台積電供應鏈管理論壇官方認證最新35家優良供應商出列 | 產業熱點 | 產業 | 經濟日報",
+      "description": "台積電（2330）17日舉辦2026年供應鏈管理論壇，感謝全球夥伴一路以來的信任與支持。從關鍵材料、設備到各項專業服務，供應鏈的鼎力相助為台積公司的持續成長挹注動能；隨著 AI 與高效能運算開啟新局，台積公司將持續攜手供應鏈深耕技術、拓展全球布局，共創美好未來。另外同時頒發頒發優良供應商獎項35家最新官方認證優良供應商入選。",
+      "publishedAt": "2026-11-17T09:56:18.377Z",
+      "discoveredAt": "2026-11-17T09:56:18.377Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1617,17 +1704,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d2ca0db6c5be02655cb1",
+      "id": "cand_fe69fea0040b89fd4f29",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9883152",
-      "title": "台股搭上雲霄飛車！暴跌1,253點後急拉近500點 多空激戰再翻黑 | 市場焦點 | 證券 | 經濟日報",
-      "description": "輝達財報公布前夕，AI概念股賣壓全面擴大，台積電（2330）ADR暴跌6.34%。儘管台指期夜盤逆勢收高，金管會、證交所也同步信心喊話，強調將密切關注市場變化，必要時採取穩定措施，仍難抵銷賣壓。",
-      "publishedAt": "2026-11-17T01:49:55.429Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "url": "https://money.udn.com/money/story/5599/9883749",
+      "title": "Fed 主席華許：Fed 正在研究 AI 對經濟影響的3種情境 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國聯準會（Fed）主席華許16日表示，他不會對短期利率或經濟展望提出看法，同時強調Fed幕僚已開始模擬人工智慧（AI）可能如何重塑經濟，情境包括如何取代勞工，或AI股價回檔，並拖累大盤。",
+      "publishedAt": "2026-11-17T09:56:18.377Z",
+      "discoveredAt": "2026-11-17T09:56:18.377Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1647,107 +1734,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_cdf1a87870a95f68bca0",
+      "id": "cand_66a2c3aa00e678022c54",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9883152?from=edn_maintab_index",
-      "title": "台股搭上雲霄飛車！暴跌1,253點後急拉近500點 多空激戰再翻黑 | 市場焦點 | 證券 | 經濟日報",
-      "description": "輝達財報公布前夕，AI概念股賣壓全面擴大，台積電（2330）ADR暴跌6.34%。儘管台指期夜盤逆勢收高，金管會、證交所也同步信心喊話，強調將密切關注市場變化，必要時採取穩定措施，仍難抵銷賣壓。",
-      "publishedAt": "2026-11-17T01:49:55.429Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_53ab0c3d438383d68585",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9882547?from=edn_hottest_index",
-      "title": "再傳美國擴大管制 AI 晶片出口 台指期夜盤上沖下洗",
+      "url": "https://money.udn.com/money/story/124480/9883488?from=edn_maintab_index",
+      "title": "2027年經濟展望1／AI 與石油決定一國命運 今年全球經濟贏者圈除了台灣 還有這幾個 2026-11-17 11:26",
       "description": "",
-      "publishedAt": "2026-11-17T01:49:55.429Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_14ff00f0cea904229030",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9883179?from=edn_newest_index",
-      "title": "IMF警告全球經濟過度依賴AI 恐危及金融穩定",
-      "description": "",
-      "publishedAt": "2026-11-17T01:49:55.429Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f4418b26602e3ed70b30",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9882655?from=edn_maintab_index",
-      "title": "美股早盤／輝達換帥後仍難平市場疑慮 四大指數齊跌 費半挫近5% | 美股動態 | 國際 | 經濟日報",
-      "description": "美股四大指數16日早盤全面挫跌，受累於人工智慧（AI）晶片龍頭輝達（Nvidia）換帥的不確定性未解。",
-      "publishedAt": "2026-11-16T17:58:55.097Z",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
+      "publishedAt": "2026-11-17T09:56:18.377Z",
+      "discoveredAt": "2026-11-17T09:56:18.377Z",
       "topics": [
         "Taiwan business",
         "investment",

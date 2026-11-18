@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-18T09:03:50.486Z",
+  "updatedAt": "2026-11-18T17:58:09.682Z",
   "candidates": [
+    {
+      "id": "cand_d8093b3fb3240333527a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9887384?from=edn_maintab_index",
+      "title": "AI 交易冷了 這國股市反而熱了 | 國際焦點 | 國際 | 經濟日報",
+      "description": "近來人工智慧（AI）交易疲軟，結果促使外國投資人恢復對印度股市的胃納。據彭博資訊的資料，全球基金本月來已淨買進96.1億美元的印度股票，單月買進金額超過2020年11月締造的舊紀錄。",
+      "publishedAt": "2026-11-18T17:57:56.750Z",
+      "discoveredAt": "2026-11-18T17:57:56.750Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceId": "wechat-curated",
@@ -18,7 +48,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -195,7 +225,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -222,7 +252,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -309,7 +339,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -513,7 +543,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -540,7 +570,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -567,7 +597,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -594,7 +624,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1263,17 +1293,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_09d806649bbd82d85087",
+      "id": "cand_76f789549ade26d8f0f2",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9872641?from=edn_maintab_index",
-      "title": "廣達沒買成友達工廠、轉向海外大擴產 底氣來自5大 CSP 給2年承諾 | 產業熱點 | 產業 | 經濟日報",
-      "description": "廣達（2382）2026年底伺服器產能翻倍後，因沒買到友達華亞廠，明年組裝測試產能擴張將聚焦海外，而持續擴產的底氣就在於5大CSP客戶已給1~2年長約（產能預留承諾）。不過，AI伺服器單價高但資本密集度也高，因應VR200量產，第3季應收帳款9317億元、存貨8560億元雙奔新高，毛利率4.75%則寫17個季度新低。",
-      "publishedAt": "2026-11-11T14:05:05.018Z",
-      "discoveredAt": "2026-11-11T14:05:05.018Z",
+      "url": "https://money.udn.com/money/story/5599/9887789?from=edn_newest_index",
+      "title": "路透：川普政府擬要求美企 揭露中國AI模型使用情況",
+      "description": "",
+      "publishedAt": "2026-11-18T17:57:56.750Z",
+      "discoveredAt": "2026-11-18T17:57:56.750Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1288,7 +1318,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1503,17 +1533,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_9d8f2cf1cf24a3dbe7d3",
+      "id": "cand_dd75d4590c686a58af84",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9872760",
-      "title": "小摩：台積電第4季營收預估538億美元 維持3,300元目標價及20倍本益比 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台積電（2330）10月營收創新高，摩根大通證券（小摩）指出，台積電受惠於AI需求強勁，先進製程晶圓供需缺口持續擴大，第4季營收預估為538億美元，季增14%、年增58%，2027年營收估計年增40%、2028年年增28%。小摩對台積電維持3,300元目標價及「優於大盤」評等。",
-      "publishedAt": "2026-11-11T14:05:05.018Z",
-      "discoveredAt": "2026-11-11T14:05:05.018Z",
+      "url": "https://money.udn.com/money/story/5599/9887171?from=edn_maintab_index",
+      "title": "美中科技競爭加劇 川普宣布啟動「四方 AI 加速器」 投入8,500萬美元 2026-11-18 18:17",
+      "description": "",
+      "publishedAt": "2026-11-18T17:57:56.750Z",
+      "discoveredAt": "2026-11-18T17:57:56.750Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1527,39 +1557,36 @@
       "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
-      "id": "cand_e2fb659cae401157c41e",
+      "id": "cand_1e5f215c4f2fcc41bf51",
       "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9872760?from=edn_maintab_index",
-      "title": "小摩：台積電第4季營收預估538億美元 維持3,300元目標價及20倍本益比 | 市場焦點 | 證券 | 經濟日報",
-      "description": "台積電（2330）10月營收創新高，摩根大通證券（小摩）指出，台積電受惠於AI需求強勁，先進製程晶圓供需缺口持續擴大，第4季營收預估為538億美元，季增14%、年增58%，2027年營收估計年增40%、2028年年增28%。小摩對台積電維持3,300元目標價及「優於大盤」評等。",
-      "publishedAt": "2026-11-11T14:05:05.018Z",
-      "discoveredAt": "2026-11-11T14:05:05.018Z",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "description": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
+      "publishedAt": "Wed, 18 Nov 2026 14:00:31 GMT",
+      "discoveredAt": "2026-11-18T17:57:56.750Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
+        "GPU",
+        "AI infrastructure",
+        "networking",
         "data center"
       ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1611,7 +1638,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1638,7 +1665,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1665,7 +1692,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1728,36 +1755,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5f4014e3fb193539d021",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9875623?from=edn_maintab_index",
-      "title": "AI 教父婚外情連環爆 黃仁勳辭輝達 CEO | 國際焦點 | 國際 | 經濟日報",
-      "description": "紐時引述知情人士報導，輝達（NVIDIA）執行長黃仁勳傳出第二起婚外情，且對象是直接向他報告的輝達醫療事業副總裁鮑爾（Kimberly Powell）。輝達董事會12日宣布，黃仁勳已辭去執行長、總裁的輝達職務，也不再是董事會成員；柯蕾絲（Colette Kress）獲任命為臨時執行長，同時續任財務長。",
-      "publishedAt": "2026-11-12T23:40:12.293Z",
-      "discoveredAt": "2026-11-12T23:40:12.293Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

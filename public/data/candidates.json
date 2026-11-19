@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-19T16:49:24.103Z",
+  "updatedAt": "2026-11-19T23:21:22.449Z",
   "candidates": [
     {
       "id": "cand_2776f11ab184db0a8d4a",
@@ -54,7 +54,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -285,7 +285,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -312,7 +312,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1173,17 +1173,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_563b598e4b382e694ab0",
+      "id": "cand_4135f57eeb330e91dce8",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9875458?from=edn_maintab_index",
-      "title": "黃仁勳辭去輝達 CEO 會怎樣？分析師：AI 投資榮景岌岌可危 | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（Nvidia）執行長黃仁勳以先進的晶片和滋養人工智慧（AI）供應鏈的創意融資交易，壯大了這家晶片公司和整個AI生態系。分析師認為，黃仁勳辭職後，整個AI投資榮景將岌岌可危。",
-      "publishedAt": "2026-11-12T18:11:19.361Z",
-      "discoveredAt": "2026-11-12T18:11:19.361Z",
+      "url": "https://money.udn.com/money/story/5599/9890106?from=edn_maintab_index",
+      "title": "川普 APEC 上警告各國 嚴管 AI 將扼殺技術發展 | 國際焦點 | 國際 | 經濟日報",
+      "description": "美國總統川普昨（19）日在中國深圳舉行的亞太經濟合作會議（APEC）峰會上說，美國反對任何形式對人工智慧（AI）實施的「全球主義式監管」，嚴格管控將「扼殺」技術發展。",
+      "publishedAt": "2026-11-19T23:21:07.885Z",
+      "discoveredAt": "2026-11-19T23:21:07.885Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1198,7 +1198,37 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_56201d690b85152cf1aa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9890113?from=edn_maintab_index",
+      "title": "施振榮 APEC 行 與逾13國元首互動 喊台灣扮 AI 鏈關鍵角色 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "亞太經濟合作會議（APEC）峰會昨（19）日落幕，台灣領袖代表、宏碁集團創辦人施振榮昨日表示，已圓滿完成賴清德總統交付任務，未來台灣將持續深化與APEC會員交流合作，以實力創造價值、以信任連結世界。",
+      "publishedAt": "2026-11-19T23:21:07.885Z",
+      "discoveredAt": "2026-11-19T23:21:07.885Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1473,6 +1503,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_01d448306cb1e81571eb",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9889848?from=edn_hottest_index",
+      "title": "AI 贏家是美國或中國？德銀：以上皆非 是這個看似關聯性低的國家",
+      "description": "",
+      "publishedAt": "2026-11-19T23:21:07.885Z",
+      "discoveredAt": "2026-11-19T23:21:07.885Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_fa26a91a3975855475e9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1697,63 +1757,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aeed8a5685030e1ee7e0",
-      "sourceLastModified": "2026-11-13T22:37:05.626Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
-      "title": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
-      "description": "",
-      "publishedAt": "2026-11-13T22:37:05.626Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
-      "topics": [
-        "AI",
-        "models",
-        "agents",
-        "enterprise"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_93a69fbc7a8a2b2e09ff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9890118?from=edn_maintab_index",
-      "title": "Anthropic風光上市 對台、韓 AI 基建概念股有利無害嗎？ | 美股動態 | 國際 | 經濟日報",
-      "description": "Anthropic締造首次公開發行股票（IPO）最高紀錄，19日股票掛牌若如預期大漲，可望給人工智慧（AI）概念股和全球市場注入強心針，但對台灣和南韓股市絕對有利而無害嗎？",
-      "publishedAt": "2026-11-19T16:49:13.770Z",
-      "discoveredAt": "2026-11-19T16:49:13.770Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

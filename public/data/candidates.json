@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-19T00:15:25.658Z",
+  "updatedAt": "2026-11-19T07:37:20.825Z",
   "candidates": [
     {
       "id": "cand_d8093b3fb3240333527a",
@@ -1203,36 +1203,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d60aa22af4ccd3b47e73",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9873253",
-      "title": "黃仁勳風波燒向晶片出口 分析師警告輝達 H200禁售大陸恐減損50億美元 | 國際焦點 | 國際 | 經濟日報",
-      "description": "黃仁勳婚外情風波擴及美國晶片出口政策，國會兩黨議員要求他辭去輝達（NVIDIA）執行長職務，也考慮傳喚他來說明。Axios報導，川普已批准查辦涉嫌將輝達先進AI晶片轉運至中國大陸的業者，但商務部遲未執行。分析師警告，若美方重新禁止H200銷陸，或堵住東南亞資料中心的供貨管道，輝達可能面臨資產減損和營收風險。",
-      "publishedAt": "2026-11-12T02:21:15.568Z",
-      "discoveredAt": "2026-11-12T02:21:15.568Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_978d01735d833e3f0261",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1551,7 +1521,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1753,6 +1723,36 @@
       "importanceScore": 82,
       "confidenceScore": 95,
       "leaderMatch": true
+    },
+    {
+      "id": "cand_a99fa7c296b37f0e680a",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9887583?from=edn_course_index",
+      "title": "盧希鵬 / 台灣科技大學資訊管理系特聘教授 AI 管理革命：從「我想想」到「你想想」",
+      "description": "",
+      "publishedAt": "2026-11-19T00:15:11.364Z",
+      "discoveredAt": "2026-11-19T00:15:11.364Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 82,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
     }
   ]
 }

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-20T04:07:19.626Z",
+  "updatedAt": "2026-11-20T12:57:45.723Z",
   "candidates": [
+    {
+      "id": "cand_3b854659c646eda06d0c",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9891491",
+      "title": "Anthropic 上市次日恐將下跌 AI 之憂將蓋過 IPO 成功之喜 | 美股動態 | 國際 | 經濟日報",
+      "description": "【彭博】-- 在全球市場普遍下跌之際，Anthropic PBC上市第二天料將開低，對AI投資前景的擔憂蓋過了該公司創紀錄IPO帶來的樂觀情緒。",
+      "publishedAt": "2026-11-20T12:57:36.636Z",
+      "discoveredAt": "2026-11-20T12:57:36.636Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_c52b1f8ab29ea548cf42",
       "sourceLastModified": null,
@@ -138,7 +168,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1323,6 +1353,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e9ff11e387018e5efdce",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9892146?from=edn_newest_index",
+      "title": "10月外銷訂單創紀錄 主因是「這國家」AI 太強勁所帶動",
+      "description": "",
+      "publishedAt": "2026-11-20T12:57:36.636Z",
+      "discoveredAt": "2026-11-20T12:57:36.636Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_01d448306cb1e81571eb",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1608,6 +1668,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_aec5de4835b4375d7bd8",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9892131",
+      "title": "春燕來了？10月四大傳產訂單竟呈兩位數成長…經部：AI 供應鏈帶動 | 總經趨勢 | 要聞 | 經濟日報",
+      "description": "我國10月外銷訂單創歷史新高，其中包括基本金屬、機械、塑橡膠製品、化學品等四大傳產訂皆呈兩位數成長，表現不俗。經濟部統計處長黃偉傑今日表示，傳產訂單主要還是受惠於AI供應鏈帶動。",
+      "publishedAt": "2026-11-20T12:57:36.636Z",
+      "discoveredAt": "2026-11-20T12:57:36.636Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_10c683f089939eb0e4d5",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/10869/9891758?from=edn_maintab_index",
+      "title": "AI 動能優於預期！10月外銷訂單1,238億美元、年增78.3% 雙創歷史新高 2026-11-20 16:56",
+      "description": "",
+      "publishedAt": "2026-11-20T12:57:36.636Z",
+      "discoveredAt": "2026-11-20T12:57:36.636Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_3f7765360ae7ae047306",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1630,126 +1750,6 @@
         "Taiwan"
       ],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_c09b091ea93b7aae94d7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9890479?from=edn_maintab_index",
-      "title": "美今年核准88萬顆 AI 晶片輸陸惹議 輝達另遭加州調查、超微遭做空狙擊 2026-11-20 08:30",
-      "description": "",
-      "publishedAt": "2026-11-20T04:07:09.907Z",
-      "discoveredAt": "2026-11-20T04:07:09.907Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9d0311aad903fd2e3bab",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9890421?from=edn_maintab_index",
-      "title": "美股收盤／史上最大 IPO 救不了AI 股 道瓊重挫1,100點 三大指數全跌逾2% 2026-11-20 06:36",
-      "description": "",
-      "publishedAt": "2026-11-20T04:07:09.907Z",
-      "discoveredAt": "2026-11-20T04:07:09.907Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_30dcd1263f1d6b298b05",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9889554?from=edn_hottest_index",
-      "title": "華爾街承諾黃仁勳的5,000億美元 AI 融資還沒出半毛 人走茶涼更前景堪慮",
-      "description": "",
-      "publishedAt": "2026-11-20T04:07:09.907Z",
-      "discoveredAt": "2026-11-20T04:07:09.907Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a99fa7c296b37f0e680a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5629/9887583?from=edn_course_index",
-      "title": "盧希鵬 / 台灣科技大學資訊管理系特聘教授 AI 管理革命：從「我想想」到「你想想」",
-      "description": "",
-      "publishedAt": "2026-11-19T00:15:11.364Z",
-      "discoveredAt": "2026-11-19T00:15:11.364Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,

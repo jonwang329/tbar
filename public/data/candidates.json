@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-20T12:57:45.723Z",
+  "updatedAt": "2026-11-20T21:01:09.203Z",
   "candidates": [
     {
       "id": "cand_3b854659c646eda06d0c",
@@ -606,7 +606,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -663,7 +663,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -690,7 +690,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -717,7 +717,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -744,7 +744,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1023,36 +1023,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d3c53e0e689a4a063222",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5618/9877709?from=edn_maintab_index",
-      "title": "今日最夯 ETF／00947漲3.4% ASIC 概念股、記憶體族群雙助攻 | 基金天地 | 理財 | 經濟日報",
-      "description": "AI晶片戰火從GPU延燒至ASIC，台股電子股13日全面反攻，也讓台新臺灣IC設計（00947）持股受惠創意（3443）、聯發科（2454）、世芯-KY（3661）等ASIC概念股強攻，加上記憶體族群同步助攻，單日市價上漲3.4%至31.3元，成交量高達29,684張，周漲15.3%，表現亮眼。",
-      "publishedAt": "2026-11-13T18:44:48.395Z",
-      "discoveredAt": "2026-11-13T18:44:48.395Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_4135f57eeb330e91dce8",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1140,6 +1110,33 @@
       "businessScore": 85,
       "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e580d2bc8269e3a84c4f",
+      "sourceLastModified": "2026-11-18T20:06:44.985Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/holiday-extras",
+      "title": "Building a data-driven, efficient culture with AI",
+      "description": "Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500 hours weekly.",
+      "publishedAt": "2026-11-18T20:06:44.985Z",
+      "discoveredAt": "2026-08-14T22:53:52.286Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1323,33 +1320,30 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_f5d48686bf2d44a24b2b",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "id": "cand_64930b3e6667de864b40",
+      "sourceLastModified": "2026-11-20T19:33:40.763Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123828/9877937?from=edn_newest_index",
-      "title": "Supermicro 搭載第六代 AMD EPYC™ 9006 系列 CPU 的新一代伺服器現已付運，支援雲端、HPC 及代理式 AI 工作負載",
-      "description": "",
-      "publishedAt": "2026-11-13T18:44:48.395Z",
-      "discoveredAt": "2026-11-13T18:44:48.395Z",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "publishedAt": "2026-11-20T19:33:40.763Z",
+      "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
         "AI",
-        "data center"
+        "models",
+        "enterprise",
+        "infrastructure"
       ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1443,6 +1437,33 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_3aaea0c9eb11e9dd22c6",
+      "sourceLastModified": "2026-11-18T19:25:21.368Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "title": "The Hugging Face incident and the road ahead",
+      "description": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "publishedAt": "2026-11-18T19:25:21.368Z",
+      "discoveredAt": "2026-09-09T22:52:01.880Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 30,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_dd75d4590c686a58af84",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1491,7 +1512,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1548,7 +1569,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1575,7 +1596,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1602,7 +1623,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1668,17 +1689,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_aec5de4835b4375d7bd8",
+      "id": "cand_52ee003ab32a0cfd8fe4",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9892131",
-      "title": "春燕來了？10月四大傳產訂單竟呈兩位數成長…經部：AI 供應鏈帶動 | 總經趨勢 | 要聞 | 經濟日報",
-      "description": "我國10月外銷訂單創歷史新高，其中包括基本金屬、機械、塑橡膠製品、化學品等四大傳產訂皆呈兩位數成長，表現不俗。經濟部統計處長黃偉傑今日表示，傳產訂單主要還是受惠於AI供應鏈帶動。",
-      "publishedAt": "2026-11-20T12:57:36.636Z",
-      "discoveredAt": "2026-11-20T12:57:36.636Z",
+      "url": "https://money.udn.com/money/story/11112/9892170?from=edn_maintab_index",
+      "title": "美 AI 巨頭不給力 台指期夜盤上半場再呈破底走勢 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "台指期夜盤20日開盤時，受美股電子盤跌勢回穩中，以35,943點、上漲143點開出後，雖一度急殺至35,515點、下跌285點，但隨那斯達克電子盤跌幅一度開始收斂中，多頭趁機表態，一度急拉至36,359點、上漲559點，不料，隨後美AI股走跌，那斯達克電子盤跌勢擴大下，行情翻黑，最深來到35,450點、下跌350點，再呈破底走勢；截至晚間約21點，指數約在35,565點、下跌235點。",
+      "publishedAt": "2026-11-20T21:00:55.199Z",
+      "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1698,47 +1719,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_10c683f089939eb0e4d5",
+      "id": "cand_b744e970a2d187d78eff",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/10869/9891758?from=edn_maintab_index",
-      "title": "AI 動能優於預期！10月外銷訂單1,238億美元、年增78.3% 雙創歷史新高 2026-11-20 16:56",
-      "description": "",
-      "publishedAt": "2026-11-20T12:57:36.636Z",
-      "discoveredAt": "2026-11-20T12:57:36.636Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3f7765360ae7ae047306",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9890495?from=edn_maintab_index",
-      "title": "日韓股市大跌 史上最大 IPO 救不了 AI 股 韓股一度重挫4.1% | 國際焦點 | 國際 | 經濟日報",
-      "description": "日韓股市周五開盤重挫，Anthropic史上最大IPO未能重振AI股買氣，美股隔夜大跌後，亞洲科技股接續遭到拋售。南韓Kospi指數一度下跌4.1%，日本日經225指數跌3.2%，東證指數跌2%。",
-      "publishedAt": "2026-11-20T04:07:09.907Z",
-      "discoveredAt": "2026-11-20T04:07:09.907Z",
+      "url": "https://money.udn.com/money/story/11112/9892170?from=edn_hottest_index",
+      "title": "美 AI 巨頭不給力 台指期夜盤上半場再呈破底走勢 | 期貨市場 | 期貨 | 經濟日報",
+      "description": "台指期夜盤20日開盤時，受美股電子盤跌勢回穩中，以35,943點、上漲143點開出後，雖一度急殺至35,515點、下跌285點，但隨那斯達克電子盤跌幅一度開始收斂中，多頭趁機表態，一度急拉至36,359點、上漲559點，不料，隨後美AI股走跌，那斯達克電子盤跌勢擴大下，行情翻黑，最深來到35,450點、下跌350點，再呈破底走勢；截至晚間約21點，指數約在35,565點、下跌235點。",
+      "publishedAt": "2026-11-20T21:00:55.199Z",
+      "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
         "Taiwan business",
         "investment",

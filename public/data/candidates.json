@@ -1,19 +1,19 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-21T17:03:13.321Z",
+  "updatedAt": "2026-11-21T22:09:15.318Z",
   "candidates": [
     {
-      "id": "cand_766e4f7314c4636e6f85",
+      "id": "cand_403a5e4d02bbe85f0c9b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9893789?from=edn_maintab_index",
-      "title": "嗅到煙硝味了！米勒： AI 供應鏈是美中晶片戰爭下一個戰場 | 國際焦點 | 國際 | 經濟日報",
-      "description": "過去十天來，人工智慧（AI）領域重大事件密集發生，令人目不暇接。晶片製造商輝達（Nvidia）執行長黃仁勳因外遇醜聞涉及疑似中國大陸間諜而辭職；Anthropic股票公開上市，躍為市值逾1兆美元的AI巨人；川普政府大規模限制中國大陸存取海外資料中心，引爆大陸AI股賣壓；深圳三方峰會閉幕，並未延長去年10月在釜山敲定、明年1月到期的美中貿易休戰協議。",
-      "publishedAt": "2026-11-21T17:03:02.323Z",
-      "discoveredAt": "2026-11-21T17:03:02.323Z",
+      "url": "https://money.udn.com/money/story/123398/9893844?from=edn_maintab_index",
+      "title": "川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」 | 美股動態 | 國際 | 經濟日報",
+      "description": "川普19日結束為期三天的亞洲行，20日在白宮舉行將近90分鐘的記者會，他再度力挺黃仁勳重返輝達，希望黃仁勳鄭重道歉後回去工作，並向輝達喊話，應給這位全球頂尖人才第二次機會。他也說，不允許美企到其他國家興建資料中心，因為中國會把它們全部奪走，若企業這麼做，將對其課徵重稅。",
+      "publishedAt": "2026-11-21T22:09:01.720Z",
+      "discoveredAt": "2026-11-21T22:09:01.720Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -33,6 +33,66 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_90b4734c733ca818467d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/7307/9893881?from=edn_maintab_index",
+      "title": "「AI 與氣候不是零和」 環境部長彭啓明談低碳人工智慧示範島願景 | 政經焦點 | 要聞 | 經濟日報",
+      "description": "AI快速發展帶動資料中心用電需求攀升，能源供應、電網容量、冷卻用水等問題，成為產業擴張必須面對的環境挑戰。環境部長彭啓明表示，AI與氣候不是零和，而是共生，沒有穩定氣候與低碳能源，AI就無法永續發展。",
+      "publishedAt": "2026-11-21T22:09:01.720Z",
+      "discoveredAt": "2026-11-21T22:09:01.720Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_766e4f7314c4636e6f85",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9893789?from=edn_maintab_index",
+      "title": "嗅到煙硝味了！米勒： AI 供應鏈是美中晶片戰爭下一個戰場",
+      "description": "過去十天來，人工智慧（AI）領域重大事件密集發生，令人目不暇接。晶片製造商輝達（Nvidia）執行長黃仁勳因外遇醜聞涉及疑似中國大陸間諜而辭職；Anthropic股票公開上市，躍為市值逾1兆美元的AI巨人；川普政府大規模限制中國大陸存取海外資料中心，引爆大陸AI股賣壓；深圳三方峰會閉幕，並未延長去年10月在釜山敲定、明年1月到期的美中貿易休戰協議。",
+      "publishedAt": "2026-11-21T17:03:02.323Z",
+      "discoveredAt": "2026-11-21T17:03:02.323Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 90,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_7eb1afb03a06b04ee35e",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9893480?from=edn_hottest_index",
-      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮 | 美股動態 | 國際 | 經濟日報",
+      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮",
       "description": "輝達（Nvidia）股價目前一項隱憂，是這家人工智慧（AI）晶片龍頭的人才，是否可能追隨前執行長黃仁勳，轉投他下一個落腳處。華爾街一名投資組合經理推測，黃仁勳可能轉戰競爭對手英特爾（Intel）。",
       "publishedAt": "2026-11-21T17:03:02.323Z",
       "discoveredAt": "2026-11-21T17:03:02.323Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -492,7 +552,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -963,36 +1023,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b50bc27526a0dadbf3a0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5648/9879259?from=edn_newest_index",
-      "title": "基隆200家餐廳智慧菜單友善服務 透過AI科技8種語言語音互動 | 熱門話題 | 要聞 | 經濟日報",
-      "description": "基隆市政府與國家發展委員會合作，今天在國立海洋科技博物館主題館舉辦「智慧點亮基隆．一鍵串聯世界」多國語言智慧菜單啟用儀式暨成果發表，基隆市現有200家在地店家導入智慧菜單友善服務，透過AI科技，提供中、英、日、韓、泰、印尼、越南、柬埔寨共8種語言，並結合AI店員互動語音，提供菜單介紹及點餐服務。",
-      "publishedAt": "2026-11-14T18:27:05.836Z",
-      "discoveredAt": "2026-11-14T18:27:05.836Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_a28344d97453cc1d1a09",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1378,7 +1408,7 @@
     },
     {
       "id": "cand_64930b3e6667de864b40",
-      "sourceLastModified": "2026-11-21T15:54:30.173Z",
+      "sourceLastModified": "2026-11-21T20:59:03.504Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1386,7 +1416,7 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "title": "Combatting adversarial distillation",
       "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "publishedAt": "2026-11-21T15:54:30.173Z",
+      "publishedAt": "2026-11-21T20:59:03.504Z",
       "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
         "AI",
@@ -1715,36 +1745,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ebd21e492985c2273884",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9892856?from=edn_hottest_index",
-      "title": "美股崩跌五大利空齊發：AI 吸金潮反噬 輝達失速 升息與程式賣盤夾擊",
-      "description": "",
-      "publishedAt": "2026-11-21T17:03:02.323Z",
-      "discoveredAt": "2026-11-21T17:03:02.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-21T09:53:03.610Z",
+  "updatedAt": "2026-11-21T17:03:13.321Z",
   "candidates": [
+    {
+      "id": "cand_766e4f7314c4636e6f85",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9893789?from=edn_maintab_index",
+      "title": "嗅到煙硝味了！米勒： AI 供應鏈是美中晶片戰爭下一個戰場 | 國際焦點 | 國際 | 經濟日報",
+      "description": "過去十天來，人工智慧（AI）領域重大事件密集發生，令人目不暇接。晶片製造商輝達（Nvidia）執行長黃仁勳因外遇醜聞涉及疑似中國大陸間諜而辭職；Anthropic股票公開上市，躍為市值逾1兆美元的AI巨人；川普政府大規模限制中國大陸存取海外資料中心，引爆大陸AI股賣壓；深圳三方峰會閉幕，並未延長去年10月在釜山敲定、明年1月到期的美中貿易休戰協議。",
+      "publishedAt": "2026-11-21T17:03:02.323Z",
+      "discoveredAt": "2026-11-21T17:03:02.323Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_7eb1afb03a06b04ee35e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9893480?from=edn_hottest_index",
+      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮 | 美股動態 | 國際 | 經濟日報",
+      "description": "輝達（Nvidia）股價目前一項隱憂，是這家人工智慧（AI）晶片龍頭的人才，是否可能追隨前執行長黃仁勳，轉投他下一個落腳處。華爾街一名投資組合經理推測，黃仁勳可能轉戰競爭對手英特爾（Intel）。",
+      "publishedAt": "2026-11-21T17:03:02.323Z",
+      "discoveredAt": "2026-11-21T17:03:02.323Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_5886d7c7feac829ff77d",
       "sourceLastModified": null,
@@ -40,7 +100,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/123398/9893480?from=edn_maintab_index",
-      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮 | 美股動態 | 國際 | 經濟日報",
+      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮 2026-11-21 17:27",
       "description": "輝達（Nvidia）股價目前一項隱憂，是這家人工智慧（AI）晶片龍頭的人才，是否可能追隨前執行長黃仁勳，轉投他下一個落腳處。華爾街一名投資組合經理推測，黃仁勳可能轉戰競爭對手英特爾（Intel）。",
       "publishedAt": "2026-11-21T09:52:53.734Z",
       "discoveredAt": "2026-11-21T09:52:53.734Z",
@@ -54,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -519,7 +579,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -933,17 +993,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d6bf8c4f847fba78d05e",
+      "id": "cand_a28344d97453cc1d1a09",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9851385",
-      "title": "AI 盛宴高處不勝寒 一旦降溫誰先受傷？答案不是台積電 | 外媒解析 | 國際 | 經濟日報",
-      "description": "人工智慧（AI）晶片需求依然火熱。南韓昨天公布10月半導體出口激增259.4%，占整體出口近半，記憶晶片約占半導體出口九成。晶片設備進口也成長49.2%，顯示半導體擴產毫無降溫蹤影。",
-      "publishedAt": "2026-11-14T12:28:33.839Z",
-      "discoveredAt": "2026-11-14T12:28:33.839Z",
+      "url": "https://money.udn.com/money/story/123398/9893524?from=edn_maintab_index",
+      "title": "AI 泡沫爆了嗎？恐慌氣氛瀰漫 費城半導體指數本周殺盤25年來最慘 | 美股動態 | 國際 | 經濟日報",
+      "description": "晶片股賣壓愈演愈烈，導致美國費城半導體指數市值本周蒸發2.3兆美元，是25年來最慘的一周。",
+      "publishedAt": "2026-11-21T17:03:02.323Z",
+      "discoveredAt": "2026-11-21T17:03:02.323Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -958,37 +1018,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_a9d03faf90d429dfe4a5",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9878640?from=edn_maintab_index",
-      "title": "沒有黃仁勳的輝達法說會六大看點：訂單、財測和AI融資承諾還算數嗎？ | 美股動態 | 國際 | 經濟日報",
-      "description": "黃仁勳去職後輝達（NVIDIA）首場財報法說會將於17日周二盤後登場，由暫代執行長柯蕾絲（Colette Kress）主持。市場普遍預期業績亮眼之餘，更關注訂單是否有變化、成長預測能否維持，以及新管理層會不會減少對AI客戶的投資和融資支持。",
-      "publishedAt": "2026-11-14T12:28:33.839Z",
-      "discoveredAt": "2026-11-14T12:28:33.839Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1071,7 +1101,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1348,7 +1378,7 @@
     },
     {
       "id": "cand_64930b3e6667de864b40",
-      "sourceLastModified": "2026-11-21T07:35:00.243Z",
+      "sourceLastModified": "2026-11-21T15:54:30.173Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1356,7 +1386,7 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "title": "Combatting adversarial distillation",
       "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "publishedAt": "2026-11-21T07:35:00.243Z",
+      "publishedAt": "2026-11-21T15:54:30.173Z",
       "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
         "AI",
@@ -1689,47 +1719,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_b3f2f0dcec1e07f6be40",
+      "id": "cand_ebd21e492985c2273884",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9892856?from=edn_maintab_index",
-      "title": "美股崩跌五大利空齊發：AI 吸金潮反噬 輝達失速 升息與程式賣盤夾擊 2026-11-21 10:33",
+      "url": "https://money.udn.com/money/story/123398/9892856?from=edn_hottest_index",
+      "title": "美股崩跌五大利空齊發：AI 吸金潮反噬 輝達失速 升息與程式賣盤夾擊",
       "description": "",
-      "publishedAt": "2026-11-21T09:52:53.734Z",
-      "discoveredAt": "2026-11-21T09:52:53.734Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9d0d3b514c7ce8e0ea3e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9892629",
-      "title": "AI 股賣壓持續湧出 美股收黑、那指重挫逾5% | 美股動態 | 國際 | 經濟日報",
-      "description": "人工智慧（AI）相關股票沉重賣壓持續湧出，拖累美股今天挫跌，以科技股為主的那斯達克指數重挫逾5%",
-      "publishedAt": "2026-11-21T02:07:14.358Z",
-      "discoveredAt": "2026-11-21T02:07:14.358Z",
+      "publishedAt": "2026-11-21T17:03:02.323Z",
+      "discoveredAt": "2026-11-21T17:03:02.323Z",
       "topics": [
         "Taiwan business",
         "investment",

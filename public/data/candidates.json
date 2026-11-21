@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-20T21:01:09.203Z",
+  "updatedAt": "2026-11-21T02:07:29.372Z",
   "candidates": [
     {
       "id": "cand_3b854659c646eda06d0c",
@@ -963,47 +963,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_fac3ec0e2b53ce66755e",
+      "id": "cand_5e323ebc9370b1f2ef69",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9877836?from=edn_maintab_index",
-      "title": "黃仁勳去職震撼產業 反制「AI末世論」 少了最強而有力人物 2026-11-14 02:50",
-      "description": "黃仁勳12日辭去輝達執行長，接下來的發展無論對輝達的投資人、客戶、競爭者及整個人工智慧（AI）都將產生不容輕忽的影響。",
-      "publishedAt": "2026-11-13T23:56:11.738Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_693795aa7cdd939d4fe0",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122979/9812950?from=edn_VIP_index_side",
-      "title": "2026 AI必修關鍵字 4／AI怎麼「看懂世界」？ 電腦視覺、GPU、Gemini一次懂",
-      "description": "",
-      "publishedAt": "2026-11-13T23:56:11.738Z",
-      "discoveredAt": "2026-11-13T23:56:11.738Z",
+      "url": "https://money.udn.com/money/story/5612/9892388?from=edn_maintab_index",
+      "title": "蘋果傳攻 AI 代理、開發模型 可望導入終端產品 代工廠利多 | 產業熱點 | 產業 | 經濟日報",
+      "description": "蘋果傳出將開發AI代理模型，可望導入iPhone、iPad、MacBook等終端產品，為硬體裝置全面加值，刺激出貨動能，對代工AI伺服器、硬體的鴻海、廣達、和碩等大廠都有加碼效應。",
+      "publishedAt": "2026-11-21T02:07:14.358Z",
+      "discoveredAt": "2026-11-21T02:07:14.358Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1018,8 +988,35 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_6841ccd456ad6623b799",
+      "sourceLastModified": "2026-11-20T22:50:52.442Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "publishedAt": "2026-11-20T22:50:52.442Z",
+      "discoveredAt": "2026-09-10T14:04:25.575Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1321,7 +1318,7 @@
     },
     {
       "id": "cand_64930b3e6667de864b40",
-      "sourceLastModified": "2026-11-20T19:33:40.763Z",
+      "sourceLastModified": "2026-11-21T02:05:16.969Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1329,7 +1326,7 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "title": "Combatting adversarial distillation",
       "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "publishedAt": "2026-11-20T19:33:40.763Z",
+      "publishedAt": "2026-11-21T02:05:16.969Z",
       "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
         "AI",
@@ -1338,7 +1335,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 100,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1662,90 +1659,90 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_aeed8a5685030e1ee7e0",
-      "sourceLastModified": "2026-11-13T22:37:05.626Z",
-      "sourceId": "anthropic-news",
-      "sourceName": "Anthropic Newsroom",
+      "id": "cand_9d0d3b514c7ce8e0ea3e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9892629",
+      "title": "AI 股賣壓持續湧出 美股收黑、那指重挫逾5% | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）相關股票沉重賣壓持續湧出，拖累美股今天挫跌，以科技股為主的那斯達克指數重挫逾5%",
+      "publishedAt": "2026-11-21T02:07:14.358Z",
+      "discoveredAt": "2026-11-21T02:07:14.358Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_545ca169d1d2df8b5104",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9892629?from=edn_maintab_index",
+      "title": "AI 股賣壓持續湧出 美股收黑、那指重挫逾5% | 美股動態 | 國際 | 經濟日報",
+      "description": "人工智慧（AI）相關股票沉重賣壓持續湧出，拖累美股今天挫跌，以科技股為主的那斯達克指數重挫逾5%",
+      "publishedAt": "2026-11-21T02:07:14.358Z",
+      "discoveredAt": "2026-11-21T02:07:14.358Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_9e5d1fc43505f7145139",
+      "sourceLastModified": "2026-11-20T22:52:19.077Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
       "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
-      "title": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
-      "description": "",
-      "publishedAt": "2026-11-13T22:37:05.626Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "publishedAt": "2026-11-20T22:52:19.077Z",
+      "discoveredAt": "2026-09-10T09:55:18.421Z",
       "topics": [
         "AI",
         "models",
-        "agents",
-        "enterprise"
+        "enterprise",
+        "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 10,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_52ee003ab32a0cfd8fe4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9892170?from=edn_maintab_index",
-      "title": "美 AI 巨頭不給力 台指期夜盤上半場再呈破底走勢 | 期貨市場 | 期貨 | 經濟日報",
-      "description": "台指期夜盤20日開盤時，受美股電子盤跌勢回穩中，以35,943點、上漲143點開出後，雖一度急殺至35,515點、下跌285點，但隨那斯達克電子盤跌幅一度開始收斂中，多頭趁機表態，一度急拉至36,359點、上漲559點，不料，隨後美AI股走跌，那斯達克電子盤跌勢擴大下，行情翻黑，最深來到35,450點、下跌350點，再呈破底走勢；截至晚間約21點，指數約在35,565點、下跌235點。",
-      "publishedAt": "2026-11-20T21:00:55.199Z",
-      "discoveredAt": "2026-11-20T21:00:55.199Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_b744e970a2d187d78eff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/11112/9892170?from=edn_hottest_index",
-      "title": "美 AI 巨頭不給力 台指期夜盤上半場再呈破底走勢 | 期貨市場 | 期貨 | 經濟日報",
-      "description": "台指期夜盤20日開盤時，受美股電子盤跌勢回穩中，以35,943點、上漲143點開出後，雖一度急殺至35,515點、下跌285點，但隨那斯達克電子盤跌幅一度開始收斂中，多頭趁機表態，一度急拉至36,359點、上漲559點，不料，隨後美AI股走跌，那斯達克電子盤跌勢擴大下，行情翻黑，最深來到35,450點、下跌350點，再呈破底走勢；截至晚間約21點，指數約在35,565點、下跌235點。",
-      "publishedAt": "2026-11-20T21:00:55.199Z",
-      "discoveredAt": "2026-11-20T21:00:55.199Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

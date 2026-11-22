@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-22T02:16:06.274Z",
+  "updatedAt": "2026-11-22T09:55:20.577Z",
   "candidates": [
+    {
+      "id": "cand_228b9aaff9e763083863",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9892511?from=edn_maintab_index",
+      "title": "董事長的一句話／2027年AI景氣還能旺？台達電鄭平：資料中心不是蓋一兩季 訂單能見度仍高 | 專題報導 | 專題 | 經濟日報",
+      "description": "台達電（2308）為全球AI伺服器電源龍頭，董事長鄭平表示，台達電近年主要成長動能來自AI資料中心持續擴張，但資料中心建置不是一、兩季，而是很多年，因為缺材料、缺電、缺工等因素，「整體訂單能見度仍很高。」",
+      "publishedAt": "2026-11-22T09:55:10.974Z",
+      "discoveredAt": "2026-11-22T09:55:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ff1054d8c8e450d17c70",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9892511?from=edn_hottest_index",
+      "title": "董事長的一句話／2027年AI景氣還能旺？台達電鄭平：資料中心不是蓋一兩季 訂單能見度仍高 | 專題報導 | 專題 | 經濟日報",
+      "description": "台達電（2308）為全球AI伺服器電源龍頭，董事長鄭平表示，台達電近年主要成長動能來自AI資料中心持續擴張，但資料中心建置不是一、兩季，而是很多年，因為缺材料、缺電、缺工等因素，「整體訂單能見度仍很高。」",
+      "publishedAt": "2026-11-22T09:55:10.974Z",
+      "discoveredAt": "2026-11-22T09:55:10.974Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_403a5e4d02bbe85f0c9b",
       "sourceLastModified": null,
@@ -70,7 +130,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9893789?from=edn_maintab_index",
-      "title": "嗅到煙硝味了！米勒： AI 供應鏈是美中晶片戰爭下一個戰場",
+      "title": "嗅到煙硝味了！米勒： AI 供應鏈是美中晶片戰爭下一個戰場 2026-11-21 22:32",
       "description": "過去十天來，人工智慧（AI）領域重大事件密集發生，令人目不暇接。晶片製造商輝達（Nvidia）執行長黃仁勳因外遇醜聞涉及疑似中國大陸間諜而辭職；Anthropic股票公開上市，躍為市值逾1兆美元的AI巨人；川普政府大規模限制中國大陸存取海外資料中心，引爆大陸AI股賣壓；深圳三方峰會閉幕，並未延長去年10月在釜山敲定、明年1月到期的美中貿易休戰協議。",
       "publishedAt": "2026-11-21T17:03:02.323Z",
       "discoveredAt": "2026-11-21T17:03:02.323Z",
@@ -84,7 +144,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -348,7 +408,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1365,7 +1425,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1685,66 +1745,6 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fc7dcad60b5f10fd8798",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9894128?from=edn_newest_index",
-      "title": "黃仁勳去職美嚴控AI產業 重大事件和供應鏈看法一次看 | 產業熱點 | 產業 | 經濟日報",
-      "description": "近期人工智慧（AI）產業雜音紛陳，黃仁勳因婚外情牽涉疑似間諜的中國籍女商人而辭去輝達（NVIDIA）要職後，美國嚴控中國...",
-      "publishedAt": "2026-11-22T02:15:59.083Z",
-      "discoveredAt": "2026-11-22T02:15:59.083Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e3fd19d3592a836e76da",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9894117?from=edn_newest_index",
-      "title": "AI挑戰160年數學難題 研究員稱找到黎曼猜想證明 | 國際焦點 | 國際 | 經濟日報",
-      "description": "黎曼猜想（Riemann hypothesis）常被視為數學界最重要的未解難題，如今可能成為人工智慧（AI）征服的最新目...",
-      "publishedAt": "2026-11-22T02:15:59.083Z",
-      "discoveredAt": "2026-11-22T02:15:59.083Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     }

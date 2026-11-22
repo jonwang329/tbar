@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-22T17:38:33.617Z",
+  "updatedAt": "2026-11-22T22:48:50.073Z",
   "candidates": [
+    {
+      "id": "cand_bcb034e50edfcdc352da",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9895257?from=edn_maintab_index",
+      "title": "AI 泡沫一旦破滅 台韓恐受重傷 投銀示警全球20兆美元財富可能蒸發 | 國際焦點 | 國際 | 經濟日報",
+      "description": "隨著全球人工智慧（AI）交易風雨飄搖，加上AI資料中心興建熱潮的不確定性愈來愈高，一些策略師已開始設想，若AI支出泡沫破滅，可能對全球市場和經濟造成的衝擊。兩位專家不約而同指出，台灣和南韓受到的衝擊可能不亞於美國。",
+      "publishedAt": "2026-11-22T22:48:38.760Z",
+      "discoveredAt": "2026-11-22T22:48:38.760Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_2a4c9b18fc28d236e74b",
       "sourceLastModified": null,
@@ -84,7 +114,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1023,17 +1053,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_570febdc5c161743a327",
+      "id": "cand_aeb6efeb66d091f187ea",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9880542?from=edn_maintab_index",
-      "title": "後黃仁勳時代 GPU 平台推進出現雜音 輝達 VR 傳延後放量牽動台鏈 2026-11-16 02:30",
-      "description": "輝達創辦人黃仁勳辭去公司所有職務，引發市場「後黃仁勳時代焦慮」之際，輝達GPU平台推進也出現雜音。業界傳出，Vera Rubin搭配的HBM4記憶體供應出現瓶頸，Vera Rubin原定今年底放量時程遞延至明年上半年，目前仍以GB300伺服器為主力。",
-      "publishedAt": "2026-11-15T21:12:44.177Z",
-      "discoveredAt": "2026-11-15T21:12:44.177Z",
+      "url": "https://money.udn.com/money/story/5612/9895242?from=edn_maintab_index",
+      "title": "美擴大 AI 管制 日本新雲端龍頭踩雷 台鏈恐受波及 | 產業熱點 | 產業 | 經濟日報",
+      "description": "美國擴大AI管制範疇，新雲端業者（Neocloud）面臨陸資背景客戶抽單危機的壓力四起，日本新雲端龍頭Datasection傳出踩雷，遭陸系大客戶大砍單，為此下修營收目標逾九成，股價短短一周內腰斬，仁寶、技嘉、英業達、永擎等台鏈恐受波及，面臨訂單取消問題。",
+      "publishedAt": "2026-11-22T22:48:38.760Z",
+      "discoveredAt": "2026-11-22T22:48:38.760Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1044,11 +1074,11 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1074,7 +1104,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1338,7 +1368,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1485,7 +1515,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1602,7 +1632,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1719,33 +1749,6 @@
       "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9e0dd23a4c87cc279ddd",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
-      "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing",
-      "description": "NVIDIA today announced plans for new collaborations with IBM and the U.S. Department of Energy’s Fermi National Accelerator Laboratory that will span research into next-generation modular architectures for quantum computers, scientific applications and supercomputing integration.",
-      "publishedAt": "Mon, 16 Nov 2026 16:00:00 GMT",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,

@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-22T09:55:20.577Z",
+  "updatedAt": "2026-11-22T17:38:33.617Z",
   "candidates": [
+    {
+      "id": "cand_2a4c9b18fc28d236e74b",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9894950?from=edn_maintab_index",
+      "title": "AI 伺服器太搶手 大廠出貨前夕臨時喊漲 最高45% | 美股動態 | 國際 | 經濟日報",
+      "description": "知情人士表示，包括戴爾、慧與（HPE）、聯想和美超微等資料中心設備的供應商，紛紛在準備出貨前要求大漲價，且漲幅比原本合約的議價最高可達45%，以把高漲的AI基建價格轉嫁給客戶。",
+      "publishedAt": "2026-11-22T17:38:22.750Z",
+      "discoveredAt": "2026-11-22T17:38:22.750Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_228b9aaff9e763083863",
       "sourceLastModified": null,
@@ -40,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/124921/9892511?from=edn_hottest_index",
-      "title": "董事長的一句話／2027年AI景氣還能旺？台達電鄭平：資料中心不是蓋一兩季 訂單能見度仍高 | 專題報導 | 專題 | 經濟日報",
+      "title": "董事長的一句話／2027年AI景氣還能旺？台達電鄭平：資料中心不是蓋一兩季 訂單能見度仍高 2026-11-22 09:00",
       "description": "台達電（2308）為全球AI伺服器電源龍頭，董事長鄭平表示，台達電近年主要成長動能來自AI資料中心持續擴張，但資料中心建置不是一、兩季，而是很多年，因為缺材料、缺電、缺工等因素，「整體訂單能見度仍很高。」",
       "publishedAt": "2026-11-22T09:55:10.974Z",
       "discoveredAt": "2026-11-22T09:55:10.974Z",
@@ -54,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1023,6 +1053,36 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_ab35c228dcea3eb426c2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9894950?from=edn_hottest_index",
+      "title": "AI 伺服器太搶手 大廠出貨前夕臨時喊漲 最高45%",
+      "description": "",
+      "publishedAt": "2026-11-22T17:38:22.750Z",
+      "discoveredAt": "2026-11-22T17:38:22.750Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_00a3b864fa15b813cab6",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1408,7 +1468,7 @@
     },
     {
       "id": "cand_64930b3e6667de864b40",
-      "sourceLastModified": "2026-11-22T02:12:42.956Z",
+      "sourceLastModified": "2026-11-22T12:39:44.532Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1416,7 +1476,7 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "title": "Combatting adversarial distillation",
       "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "publishedAt": "2026-11-22T02:12:42.956Z",
+      "publishedAt": "2026-11-22T12:39:44.532Z",
       "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
         "AI",
@@ -1425,7 +1485,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 90,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1599,7 +1659,7 @@
         "data center"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1689,63 +1749,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_58edd2cbccd0332af6b1",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
-      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
-      "description": "NVIDIA today introduced NVIDIA Nemotron for Science, bringing together scientific applications of its NVIDIA Nemotron™ 3.5 Super VL open model, a new open chemistry dataset and post-training recipes to help researchers build specialized agents for scientific discovery.",
-      "publishedAt": "Mon, 16 Nov 2026 16:00:00 GMT",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_aa65cf22466fb8c06ac1",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9881478?from=edn_maintab_index",
-      "title": "川普擬組 AI 國家隊抗衡中國 WSJ：輝達風波未歇仍將入選 2026-11-16 12:36",
-      "description": "",
-      "publishedAt": "2026-11-16T07:54:59.412Z",
-      "discoveredAt": "2026-11-16T07:54:59.412Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

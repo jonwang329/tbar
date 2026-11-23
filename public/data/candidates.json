@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-22T22:48:50.073Z",
+  "updatedAt": "2026-11-23T03:23:30.733Z",
   "candidates": [
+    {
+      "id": "cand_1ca0f3e77055eb6b4a9f",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9895865",
+      "title": "台股強震逾千點記憶體卻逆勢反攻！創見、群聯觸漲停 法人揭布局時機 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股23日開盤一度重挫近600點，隨後陷入劇烈震盪，記憶體族群卻率先出現反彈！南亞科（2408）、華邦電（2344）盤中翻紅，群聯（8299）、創見（2451）等更強攻漲停。儘管法人仍看好DRAM明年供需，但NAND報價轉弱、AI投資疑慮及融資賣壓未除，記憶體行情能否止跌，仍待觀察。",
+      "publishedAt": "2026-11-23T03:23:23.086Z",
+      "discoveredAt": "2026-11-23T03:23:23.086Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_dde36807bcfba8467582",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9895865?from=edn_maintab_index",
+      "title": "台股強震逾千點記憶體卻逆勢反攻！創見、群聯觸漲停 法人揭布局時機 | 市場焦點 | 證券 | 經濟日報",
+      "description": "台股23日開盤一度重挫近600點，隨後陷入劇烈震盪，記憶體族群卻率先出現反彈！南亞科（2408）、華邦電（2344）盤中翻紅，群聯（8299）、創見（2451）等更強攻漲停。儘管法人仍看好DRAM明年供需，但NAND報價轉弱、AI投資疑慮及融資賣壓未除，記憶體行情能否止跌，仍待觀察。",
+      "publishedAt": "2026-11-23T03:23:23.086Z",
+      "discoveredAt": "2026-11-23T03:23:23.086Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_bcb034e50edfcdc352da",
       "sourceLastModified": null,
@@ -10,7 +70,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5599/9895257?from=edn_maintab_index",
-      "title": "AI 泡沫一旦破滅 台韓恐受重傷 投銀示警全球20兆美元財富可能蒸發 | 國際焦點 | 國際 | 經濟日報",
+      "title": "AI 泡沫一旦破滅 台韓恐受重傷 投銀示警全球20兆美元財富可能蒸發 2026-11-23 02:41",
       "description": "隨著全球人工智慧（AI）交易風雨飄搖，加上AI資料中心興建熱潮的不確定性愈來愈高，一些策略師已開始設想，若AI支出泡沫破滅，可能對全球市場和經濟造成的衝擊。兩位專家不約而同指出，台灣和南韓受到的衝擊可能不亞於美國。",
       "publishedAt": "2026-11-22T22:48:38.760Z",
       "discoveredAt": "2026-11-22T22:48:38.760Z",
@@ -24,7 +84,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1060,7 +1120,7 @@
       "sourceKind": "media",
       "sourcePriority": "P1",
       "url": "https://money.udn.com/money/story/5612/9895242?from=edn_maintab_index",
-      "title": "美擴大 AI 管制 日本新雲端龍頭踩雷 台鏈恐受波及 | 產業熱點 | 產業 | 經濟日報",
+      "title": "美擴大 AI 管制 日本新雲端龍頭踩雷 台鏈恐受波及 2026-11-23 02:47",
       "description": "美國擴大AI管制範疇，新雲端業者（Neocloud）面臨陸資背景客戶抽單危機的壓力四起，日本新雲端龍頭Datasection傳出踩雷，遭陸系大客戶大砍單，為此下修營收目標逾九成，股價短短一周內腰斬，仁寶、技嘉、英業達、永擎等台鏈恐受波及，面臨訂單取消問題。",
       "publishedAt": "2026-11-22T22:48:38.760Z",
       "discoveredAt": "2026-11-22T22:48:38.760Z",
@@ -1074,7 +1134,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1104,7 +1164,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1251,7 +1311,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1467,17 +1527,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_409a1d9f1818c7576470",
+      "id": "cand_a3dbfd841706c707999b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5616/9880827?from=edn_newest_index",
-      "title": "台幣匯率未能搭上人工智慧熱潮 科技大廠惜售外匯收益",
-      "description": "",
-      "publishedAt": "2026-11-16T01:04:49.644Z",
-      "discoveredAt": "2026-11-16T01:04:49.644Z",
+      "url": "https://money.udn.com/money/story/5710/9895781",
+      "title": "Anthropic 掛牌蜜月行情僅一天 中信金、富邦金認購未沾光 股價都重挫 | 集中市場 | 證券 | 經濟日報",
+      "description": "美國人工智慧（AI）新創公司Anthropic創下史上最大規模首次公開發行（IPO）紀錄，但掛牌蜜月行情僅維持一天，上市第二個交易日股價便下跌8.5%，回到接近發行價水準。先前宣布參與認購的中信金（2891）、富邦金（2881）也未能享有認購題材紅利，23日盤中股價雙雙重挫，中信金跌幅超過7%，富邦金跌幅超過6%。",
+      "publishedAt": "2026-11-23T03:23:23.086Z",
+      "discoveredAt": "2026-11-23T03:23:23.086Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1491,8 +1551,8 @@
       "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1515,7 +1575,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1692,63 +1752,6 @@
       "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_59ac4a38f6281442ce0f",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9882739?from=edn_maintab_index",
-      "title": "輝達風波未止…仍入列美 AI 國家隊 台積、京元電等扮要角 2026-11-17 02:59",
-      "description": "",
-      "publishedAt": "2026-11-17T01:49:55.429Z",
-      "discoveredAt": "2026-11-17T01:49:55.429Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f91ce7999e22b5e2bc9f",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery",
-      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-      "description": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
-      "publishedAt": "Mon, 16 Nov 2026 16:00:16 GMT",
-      "discoveredAt": "2026-11-16T17:58:55.097Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,

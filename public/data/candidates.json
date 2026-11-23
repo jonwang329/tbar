@@ -1,7 +1,64 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-23T03:23:30.733Z",
+  "updatedAt": "2026-11-23T13:26:13.013Z",
   "candidates": [
+    {
+      "id": "cand_1cf16abe315ff95b6914",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9896836",
+      "title": "馬斯克：資料中心建設延誤 將令 AI 公司明年資金嚴重短缺 | 美股動態 | 國際 | 經濟日報",
+      "description": "SpaceX執行長馬斯克警告，明年人工智慧（AI）公司的現金短缺情況將會很誇張，資金缺口恐怕高達數千億美元，因為AI業者必須等候創造營收的資料中心建設完成並且上線運行，而現在資料中心的建設已被延誤。",
+      "publishedAt": "2026-11-23T13:26:00.332Z",
+      "discoveredAt": "2026-11-23T13:26:00.332Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ab416e4c21edd0700ca8",
+      "sourceLastModified": "2026-11-23T08:02:05.872Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+      "title": "Scaling Kubernetes to 7,500 nodes",
+      "description": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Language Models.",
+      "publishedAt": "2026-11-23T08:02:05.872Z",
+      "discoveredAt": "2026-11-23T13:26:00.332Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 90,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
     {
       "id": "cand_1ca0f3e77055eb6b4a9f",
       "sourceLastModified": null,
@@ -1497,33 +1554,30 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_ad0b85aabcb7ccacd7a9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "id": "cand_64930b3e6667de864b40",
+      "sourceLastModified": "2026-11-23T13:01:19.625Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9881322?from=edn_maintab_index",
-      "title": "整理包／AI泡沫還沒破、輝達風暴先到！黃仁勳下台後台廠剉著等？供應鏈重災區、2027年展望一次看 2026-11-16 12:20",
-      "description": "",
-      "publishedAt": "2026-11-16T07:54:59.412Z",
-      "discoveredAt": "2026-11-16T07:54:59.412Z",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "publishedAt": "2026-11-23T13:01:19.625Z",
+      "discoveredAt": "2026-11-20T21:00:55.199Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
         "AI",
-        "data center"
+        "models",
+        "enterprise",
+        "infrastructure"
       ],
-      "countries": [
-        "Taiwan"
-      ],
+      "countries": [],
       "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1554,33 +1608,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_64930b3e6667de864b40",
-      "sourceLastModified": "2026-11-22T12:39:44.532Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "title": "Combatting adversarial distillation",
-      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "publishedAt": "2026-11-22T12:39:44.532Z",
-      "discoveredAt": "2026-11-20T21:00:55.199Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1728,33 +1755,6 @@
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_1e5f215c4f2fcc41bf51",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
-      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "description": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
-      "publishedAt": "Wed, 18 Nov 2026 14:00:31 GMT",
-      "discoveredAt": "2026-11-18T17:57:56.750Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

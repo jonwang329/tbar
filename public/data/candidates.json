@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-24T21:05:40.318Z",
+  "updatedAt": "2026-11-25T04:08:15.781Z",
   "candidates": [
+    {
+      "id": "cand_7f7ed8272652e5c8ecb0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9885183",
+      "title": "六都市長財經政見／台北蔣萬安：科技廊帶 開創黃金世紀 | 專題報導 | 專題 | 經濟日報",
+      "description": "台北市長蔣萬安競選連任，財經政見以AI產業、城市開發及財政健全為主軸，提出松山機場遷建、串聯科技產業廊帶，並透過AI新創基金、公共GPU算力中心及國際資源，擴大產業發展，開創AI黃金世紀。",
+      "publishedAt": "2026-11-25T04:07:57.523Z",
+      "discoveredAt": "2026-11-25T04:07:57.523Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
     {
       "id": "cand_41f41fc19ee97ff53b02",
       "sourceLastModified": "2026-11-24T19:10:25.847Z",
@@ -31,7 +61,7 @@
     },
     {
       "id": "cand_7ef451e74b271b507e62",
-      "sourceLastModified": "2026-11-24T05:43:14.337Z",
+      "sourceLastModified": "2026-11-25T01:34:34.997Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -738,113 +768,22 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_de9c1a95794244a59574",
+      "id": "cand_82b4bdadbddeeb6f59b5",
       "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
+      "sourceId": "businessweekly",
+      "sourceName": "商業周刊",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9885575",
-      "title": "修正黃仁勳路線！柯蕾絲證實輝達不再向中國出貨 AI 晶片 第3季賣24億美元 | 國際焦點 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）表示，已經不再向中國大陸出貨Hopper系列資料中心晶片。儘管輝達去年獲得美國政府批准，得以向中國銷售特定版本的晶片，但在黃仁勳上周因風波離職後，輝達現在顯然暫時要避免做這塊甚具爭議性的生意。",
-      "publishedAt": "2026-11-18T01:33:57.832Z",
-      "discoveredAt": "2026-11-18T01:33:57.832Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3fd21a1b48a4c979ec51",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9885546",
-      "title": "輝達柯蕾絲說台積電高層親赴送暖 宣布與景碩矽品合作 點名多家台廠 | 國際焦點 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）公布亮眼財報後，代理執行長的財務長柯蕾絲（Colette Kress）特別提到台積電的領導主管在本周親臨輝達總部提供協助，還點名鴻海等多家密切合作的台廠。這也無疑在近期風波喧鬧與AI賣壓沉重之際，為台廠注入強心針。",
-      "publishedAt": "2026-11-18T01:33:57.832Z",
-      "discoveredAt": "2026-11-18T01:33:57.832Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_6189a28f628466fee01c",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9885546?from=edn_maintab_index",
-      "title": "輝達柯蕾絲說台積電高層親赴送暖 宣布與景碩矽品合作 點名多家台廠 | 國際焦點 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）公布亮眼財報後，代理執行長的財務長柯蕾絲（Colette Kress）特別提到台積電的領導主管在本周親臨輝達總部提供協助，還點名鴻海等多家密切合作的台廠。這也無疑在近期風波喧鬧與AI賣壓沉重之際，為台廠注入強心針。",
-      "publishedAt": "2026-11-18T01:33:57.832Z",
-      "discoveredAt": "2026-11-18T01:33:57.832Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_2916e286cdee58311004",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9885207?from=edn_maintab_index",
-      "title": "美圍堵大陸算力 升級 AI 晶片管制 從銷售盯到資料中心投資 2026-11-18 01:26",
+      "url": "https://www.businessweekly.com.tw/business/indep/1008227",
+      "title": "當老師傅留不住、交期砍半，5家模具廠如何靠透明與技術，攻入AI供應鏈？",
       "description": "",
-      "publishedAt": "2026-11-18T01:33:57.832Z",
-      "discoveredAt": "2026-11-18T01:33:57.832Z",
+      "publishedAt": "2026-11-25T04:07:57.523Z",
+      "discoveredAt": "2026-11-25T04:07:57.523Z",
       "topics": [
         "Taiwan business",
-        "investment",
-        "semiconductor",
         "AI",
-        "data center"
+        "management",
+        "industry"
       ],
       "countries": [
         "Taiwan"
@@ -853,62 +792,8 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_12c0fcebd7c0011aea72",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
-      "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
-      "description": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. NVIDIA's work with ...",
-      "publishedAt": "Tue, 17 Nov 2026 22:18:00 GMT",
-      "discoveredAt": "2026-11-18T01:33:57.832Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5242b9698499e5d9268d",
-      "sourceLastModified": null,
-      "sourceId": "nvidia-news",
-      "sourceName": "NVIDIA Newsroom",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-      "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
-      "description": "Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ...",
-      "publishedAt": "Tue, 17 Nov 2026 21:20:00 GMT",
-      "discoveredAt": "2026-11-18T01:33:57.832Z",
-      "topics": [
-        "GPU",
-        "AI infrastructure",
-        "networking",
-        "data center"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1183,7 +1068,7 @@
     },
     {
       "id": "cand_6841ccd456ad6623b799",
-      "sourceLastModified": "2026-11-20T22:50:52.442Z",
+      "sourceLastModified": "2026-11-25T01:34:09.380Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1200,7 +1085,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 30,
+      "freshnessScore": 10,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1356,38 +1241,8 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_a7ec13298d1216659027",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9885456?from=edn_maintab_index",
-      "title": "黃仁勳下台後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2% | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）公布戲劇性去職後的首份財報，營收與獲利雙雙優於預期，並上修明年成長展望，顯示AI晶片需求依然強勁。",
-      "publishedAt": "2026-11-18T01:33:57.832Z",
-      "discoveredAt": "2026-11-18T01:33:57.832Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_7094112115d8dad48b88",
-      "sourceLastModified": "2026-11-24T20:50:55.220Z",
+      "sourceLastModified": "2026-11-25T03:23:23.580Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1395,7 +1250,7 @@
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT&#x27;s most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "publishedAt": "2026-11-24T20:50:55.220Z",
+      "publishedAt": "2026-11-25T03:23:23.580Z",
       "discoveredAt": "2026-09-10T09:55:18.421Z",
       "topics": [
         "AI",
@@ -1405,6 +1260,33 @@
       ],
       "countries": [],
       "freshnessScore": 100,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ea2c9cc64d6db5e0e263",
+      "sourceLastModified": "2026-11-25T01:34:49.134Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "publishedAt": "2026-11-25T01:34:49.134Z",
+      "discoveredAt": "2026-11-03T23:50:03.365Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1671,6 +1553,153 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_e76927acf83af1ee9a1e",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9900521?from=edn_maintab_index",
+      "title": "惠普頂住記憶體成本壓力 AI PC 出貨占比衝破60% 年度獲利財測穩健 | 美股動態 | 國際 | 經濟日報",
+      "description": "惠普（HP）24日公布上季財報優於預期，對本年度的獲利預測區間高端也高於分析師預估，顯示這家PC與印表機製造商正逐步提升因應記憶體成本上漲的能力。財報公布後，惠普股價在盤後上漲2%。",
+      "publishedAt": "2026-11-25T04:07:57.523Z",
+      "discoveredAt": "2026-11-25T04:07:57.523Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e5acb16b6e9993b78b77",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124512/9900127?from=edn_maintab_index",
+      "title": "整理包／黃仁勳回歸換下招牌皮衣！10萬元 Dior 夾克藏玄機 萬元 T 到千萬錶 AI 教父行頭一次看 | 整理包 | 專題 | 經濟日報",
+      "description": "輝達（NVIDIA）執行長黃仁勳重返公司，罕見脫下招牌黑色皮衣，換上一件要價約10萬元的Dior夾克，再度掀起穿搭話題。事實上，黃仁勳看似低調、簡單的日常穿搭，從上衣、鞋子到配件，都不乏精品品牌的身影。《經濟日報》整理黃仁勳歷年曾穿戴的精品服飾與配件，一窺這位AI教父的時尚品味，究竟一身行頭價值多少錢？ 黃仁勳回歸不穿皮衣！10萬元Dior夾克成焦點 黃仁勳23日重返輝達美國總部，受到員工熱烈歡迎，不過，這次他並未穿上標誌性的黑色皮衣，而是換上法國精品品牌Dior（迪奧）的深藍色Moulures刺繡拉鍊外套。 時尚圈有一句話：「If you fall, fall in Dior」（即使跌倒，也要穿著Dior）。如今黃仁勳歷經風波重返輝達，恰巧穿著Dior夾克亮相，也為這次回歸增添幾分時尚巧合。(延伸閱讀：影片／輝達總部沸騰了！黃仁勳現身大廳 員工熱烈歡呼擠滿走道) 這款夾克採用翻領、雙向拉鍊設計，左胸飾有Dior刺繡標誌。值得一提的是，這件外套並非首次亮相，黃仁勳今年5月底訪台、6月造訪南韓時都曾穿過，甚至與南韓知名電競選手Faker合影時，也是穿著這件夾克。 根據Dior",
+      "publishedAt": "2026-11-25T04:07:57.523Z",
+      "discoveredAt": "2026-11-25T04:07:57.523Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_3abdf2123a2f94cc85a7",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9900746?from=edn_newest_index",
+      "title": "黃仁勳重掌輝達 開放權重AI模型之爭再度成華府焦點",
+      "description": "",
+      "publishedAt": "2026-11-25T04:07:57.523Z",
+      "discoveredAt": "2026-11-25T04:07:57.523Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_bffcffe8426285ff91dc",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5599/9900735?from=edn_newest_index",
+      "title": "黃仁勳回歸也救不了？CoreWeave公司債跌破新低 AI債市隱憂環伺",
+      "description": "",
+      "publishedAt": "2026-11-25T04:07:57.523Z",
+      "discoveredAt": "2026-11-25T04:07:57.523Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0a40263b8be1212f7fe2",
+      "sourceLastModified": "2026-11-25T01:34:53.035Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "publishedAt": "2026-11-25T01:34:53.035Z",
+      "discoveredAt": "2026-11-05T00:40:11.806Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_e9e470aabf032deba8c9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1710,36 +1739,6 @@
       "url": "https://money.udn.com/money/story/5612/9899707?from=edn_maintab_index",
       "title": "黃仁勳回歸 台積電領軍台鏈吞定心丸 持續迎來好光景 | 產業熱點 | 產業 | 經濟日報",
       "description": "黃仁勳重掌輝達，加上台積電高層日前赴輝達美國總部全力支援，兩大產業定海神針同步出手，一掃過去11天籠罩市場的權力空窗陰霾，更意味全球AI算力基礎建設擴張全面重回正軌。",
-      "publishedAt": "2026-11-24T21:05:26.643Z",
-      "discoveredAt": "2026-11-24T21:05:26.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_70ce1f9966e67530c46e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124480/9898534?from=edn_VIP_index_side",
-      "title": "王者歸來2／川普力保黃仁勳 關鍵在5,000億美元算力融資風險 阻斷大陸別搞爆自己",
-      "description": "",
       "publishedAt": "2026-11-24T21:05:26.643Z",
       "discoveredAt": "2026-11-24T21:05:26.643Z",
       "topics": [

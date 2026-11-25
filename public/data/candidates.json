@@ -1,7 +1,67 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-25T14:27:47.938Z",
+  "updatedAt": "2026-11-25T23:16:06.161Z",
   "candidates": [
+    {
+      "id": "cand_afb122125406c242f6fd",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9902518",
+      "title": "美批准 SpaceX 部署100萬顆衛星 建太空資料中心 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國聯邦傳播委員會（FCC）今天表示，已授權億萬富豪馬斯克（Elon Musk）旗下的太空探索科技公司（SpaceX）部...",
+      "publishedAt": "2026-11-25T23:15:52.387Z",
+      "discoveredAt": "2026-11-25T23:15:52.387Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_d281a8bf12ad90558455",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9902518?from=edn_maintab_index",
+      "title": "美批准 SpaceX 部署100萬顆衛星 建太空資料中心 | 美股動態 | 國際 | 經濟日報",
+      "description": "美國聯邦傳播委員會（FCC）今天表示，已授權億萬富豪馬斯克（Elon Musk）旗下的太空探索科技公司（SpaceX）部...",
+      "publishedAt": "2026-11-25T23:15:52.387Z",
+      "discoveredAt": "2026-11-25T23:15:52.387Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": true
+    },
     {
       "id": "cand_1e7a56e127e6ac219e77",
       "sourceId": "wechat-curated",
@@ -18,7 +78,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -708,17 +768,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_d8093b3fb3240333527a",
+      "id": "cand_5bb3b9707f24c3c795f9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9887384?from=edn_maintab_index",
-      "title": "AI 交易冷了 這國股市反而熱了 | 國際焦點 | 國際 | 經濟日報",
-      "description": "近來人工智慧（AI）交易疲軟，結果促使外國投資人恢復對印度股市的胃納。據彭博資訊的資料，全球基金本月來已淨買進96.1億美元的印度股票，單月買進金額超過2020年11月締造的舊紀錄。",
-      "publishedAt": "2026-11-18T17:57:56.750Z",
-      "discoveredAt": "2026-11-18T17:57:56.750Z",
+      "url": "https://money.udn.com/money/story/5612/9902330?from=edn_maintab_index",
+      "title": "台積電美國擴廠典禮 川普要來 凸顯 AI 鏈關鍵戰略地位 2026-11-26 03:33",
+      "description": "",
+      "publishedAt": "2026-11-25T23:15:52.387Z",
+      "discoveredAt": "2026-11-25T23:15:52.387Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -733,7 +793,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -758,7 +818,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1154,44 +1214,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_e580d2bc8269e3a84c4f",
-      "sourceLastModified": "2026-11-18T20:06:44.985Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/holiday-extras",
-      "title": "Building a data-driven, efficient culture with AI",
-      "description": "Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500 hours weekly.",
-      "publishedAt": "2026-11-18T20:06:44.985Z",
-      "discoveredAt": "2026-08-14T22:53:52.286Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_76f789549ade26d8f0f2",
+      "id": "cand_30713029d69dcf98cc2b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9887789?from=edn_newest_index",
-      "title": "路透：川普政府擬要求美企 揭露中國AI模型使用情況",
+      "url": "https://money.udn.com/money/story/5629/9902225?from=edn_course_index",
+      "title": "陳奕廷 / Open Data聯盟會長、景翊科技總經理 建構「資料空間」國家級 AI 基礎建設",
       "description": "",
-      "publishedAt": "2026-11-18T17:57:56.750Z",
-      "discoveredAt": "2026-11-18T17:57:56.750Z",
+      "publishedAt": "2026-11-25T23:15:52.387Z",
+      "discoveredAt": "2026-11-25T23:15:52.387Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1205,14 +1238,14 @@
       "freshnessScore": 100,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
+      "businessScore": 60,
+      "importanceScore": 82,
       "confidenceScore": 78,
       "leaderMatch": false
     },
     {
       "id": "cand_7094112115d8dad48b88",
-      "sourceLastModified": "2026-11-25T14:05:35.115Z",
+      "sourceLastModified": "2026-11-25T21:29:55.284Z",
       "sourceId": "openai-news",
       "sourceName": "OpenAI News",
       "sourceKind": "primary",
@@ -1220,7 +1253,7 @@
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT&#x27;s most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "publishedAt": "2026-11-25T14:05:35.115Z",
+      "publishedAt": "2026-11-25T21:29:55.284Z",
       "discoveredAt": "2026-09-10T09:55:18.421Z",
       "topics": [
         "AI",
@@ -1229,7 +1262,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 100,
+      "freshnessScore": 95,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1256,7 +1289,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1439,44 +1472,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_3aaea0c9eb11e9dd22c6",
-      "sourceLastModified": "2026-11-18T19:25:21.368Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "title": "The Hugging Face incident and the road ahead",
-      "description": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "publishedAt": "2026-11-18T19:25:21.368Z",
-      "discoveredAt": "2026-09-09T22:52:01.880Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 10,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_dd75d4590c686a58af84",
+      "id": "cand_f9a86ef3322d45acfc2a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9887171?from=edn_maintab_index",
-      "title": "美中科技競爭加劇 川普宣布啟動「四方 AI 加速器」 投入8,500萬美元 2026-11-18 18:17",
+      "url": "https://money.udn.com/money/story/5599/9902333?from=edn_maintab_index",
+      "title": "AI 教父下周赴國會被「拷問」川普力保黃仁勳考慮特赦 2026-11-26 03:31",
       "description": "",
-      "publishedAt": "2026-11-18T17:57:56.750Z",
-      "discoveredAt": "2026-11-18T17:57:56.750Z",
+      "publishedAt": "2026-11-25T23:15:52.387Z",
+      "discoveredAt": "2026-11-25T23:15:52.387Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1491,7 +1497,67 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_5344d3fe68003c4ec6f4",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122328/9902563?from=edn_newest_index",
+      "title": "看好AI微短劇趨勢！業者推算力補助扶植台灣創作者",
+      "description": "",
+      "publishedAt": "2026-11-25T23:15:52.387Z",
+      "discoveredAt": "2026-11-25T23:15:52.387Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ac6a7df4520b88e5c6ce",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9902283?from=edn_VIP_index_side",
+      "title": "別管 AI 股短線震盪！分析師點名3檔「黃仁勳復職受惠概念股」",
+      "description": "",
+      "publishedAt": "2026-11-25T23:15:52.387Z",
+      "discoveredAt": "2026-11-25T23:15:52.387Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1697,66 +1763,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e9e470aabf032deba8c9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9899824?from=edn_maintab_index",
-      "title": "黃仁勳重返輝達 川普扮要角坦承直接勸說董事會 要求 AI 教父回鍋 | 國際焦點 | 國際 | 經濟日報",
-      "description": "輝達（NVIDIA）執行長黃仁勳復職後，23日重返公司，受到員工熱烈歡迎。黃仁勳表示，「謝謝大家給我第二次機會，第二次擔任執行長，我會做得更好」。美國總統川普23日表示，他直接勸說輝達董事會，讓黃仁勳順利回鍋。",
-      "publishedAt": "2026-11-24T21:05:26.643Z",
-      "discoveredAt": "2026-11-24T21:05:26.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9841fe4eb86a03676fea",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9899707?from=edn_maintab_index",
-      "title": "黃仁勳回歸 台積電領軍台鏈吞定心丸 持續迎來好光景 | 產業熱點 | 產業 | 經濟日報",
-      "description": "黃仁勳重掌輝達，加上台積電高層日前赴輝達美國總部全力支援，兩大產業定海神針同步出手，一掃過去11天籠罩市場的權力空窗陰霾，更意味全球AI算力基礎建設擴張全面重回正軌。",
-      "publishedAt": "2026-11-24T21:05:26.643Z",
-      "discoveredAt": "2026-11-24T21:05:26.643Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
       "leaderMatch": false
     }
   ]

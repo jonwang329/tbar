@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-26T05:10:35.340Z",
+  "updatedAt": "2026-11-26T15:21:00.716Z",
   "candidates": [
     {
       "id": "cand_1d2f0053ac133c02b8aa",
@@ -108,7 +108,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -798,6 +798,60 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_8be1792b94a5a4100fbd",
+      "sourceLastModified": "2026-11-26T12:38:40.705Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/taisei",
+      "title": "Taisei Corporation shapes the next generation of talent with AI",
+      "description": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
+      "publishedAt": "2026-11-26T12:38:40.705Z",
+      "discoveredAt": "2026-08-14T05:48:44.754Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_b98ee1304672fef5c6d2",
+      "sourceLastModified": "2026-11-26T12:38:31.320Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "publishedAt": "2026-11-26T12:38:31.320Z",
+      "discoveredAt": "2026-09-01T20:53:40.360Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_5bb3b9707f24c3c795f9",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1235,7 +1289,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 90,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1500,6 +1554,177 @@
       "leaderMatch": false
     },
     {
+      "id": "cand_b27fe2a8debfb0e91bb2",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9904444",
+      "title": "230家金融機構注意！金管會提14項自評要求強化資安防護 | 金融脈動 | 金融 | 經濟日報",
+      "description": "因應近期國內外接連發生重大資安事件，金管會26日發布「金融業資安防護強化措施」，針對近期結合AI工具的新型態攻擊，要求全體金融機構包含專營電子支付機構共230家，加強資安與情境演練，在今年底前完成14項自評事項，並提報最近一次董事會審議，再回報金管會審議情形。",
+      "publishedAt": "2026-11-26T15:20:45.047Z",
+      "discoveredAt": "2026-11-26T15:20:45.047Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_03a7808c91dff1d6debf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5613/9904444?from=edn_maintab_index",
+      "title": "230家金融機構注意！金管會提14項自評要求強化資安防護 | 金融脈動 | 金融 | 經濟日報",
+      "description": "因應近期國內外接連發生重大資安事件，金管會26日發布「金融業資安防護強化措施」，針對近期結合AI工具的新型態攻擊，要求全體金融機構包含專營電子支付機構共230家，加強資安與情境演練，在今年底前完成14項自評事項，並提報最近一次董事會審議，再回報金管會審議情形。",
+      "publishedAt": "2026-11-26T15:20:45.047Z",
+      "discoveredAt": "2026-11-26T15:20:45.047Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_32a9931050f7d5157608",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/124921/9903033?from=index_special_cards",
+      "title": "AI短劇淘金夢碎",
+      "description": "",
+      "publishedAt": "2026-11-26T15:20:45.047Z",
+      "discoveredAt": "2026-11-26T15:20:45.047Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_87f3c8b1b54c4924f0c8",
+      "sourceLastModified": "2026-11-26T12:39:18.553Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "publishedAt": "2026-11-26T12:39:18.553Z",
+      "discoveredAt": "2026-11-11T21:20:38.465Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_309a27754260dc09ba0c",
+      "sourceLastModified": "2026-11-26T12:38:35.497Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/zendesk",
+      "title": "Zendesk uses OpenAI to build adaptive service agents focused on resolutions",
+      "description": "Moving from intent-based bots to proactive AI agents.",
+      "publishedAt": "2026-11-26T12:38:35.497Z",
+      "discoveredAt": "2026-09-14T22:36:42.476Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_60cbd40bc158dd63b4e8",
+      "sourceLastModified": "2026-11-26T12:38:31.008Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "publishedAt": "2026-11-26T12:38:31.008Z",
+      "discoveredAt": "2026-10-16T03:01:45.641Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
       "id": "cand_39f17481868cd9a21410",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1511,246 +1736,6 @@
       "description": "AI晶片功耗與封裝尺寸持續攀升，散熱規格升級帶動供應鏈強勢表態！台股26日盤中一度強彈逾1,200點，逼近4萬點關卡，健策（3653）、奇鋐（3017）雙雙攻上漲停，台達電（2308）、尼得科超眾（6230）盤中一度漲逾5%，雙鴻（3324）、建準（2421）、元山（6275）、力致（3483）等同步走揚。",
       "publishedAt": "2026-11-26T05:10:04.137Z",
       "discoveredAt": "2026-11-26T05:10:04.137Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e1b864cd5e9864421752",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5607/9903301?from=edn_maintab_index",
-      "title": "台股強彈逾千點！散熱族群同步升溫 健策處置中仍漲停、奇鋐也亮燈 | 市場焦點 | 證券 | 經濟日報",
-      "description": "AI晶片功耗與封裝尺寸持續攀升，散熱規格升級帶動供應鏈強勢表態！台股26日盤中一度強彈逾1,200點，逼近4萬點關卡，健策（3653）、奇鋐（3017）雙雙攻上漲停，台達電（2308）、尼得科超眾（6230）盤中一度漲逾5%，雙鴻（3324）、建準（2421）、元山（6275）、力致（3483）等同步走揚。",
-      "publishedAt": "2026-11-26T05:10:04.137Z",
-      "discoveredAt": "2026-11-26T05:10:04.137Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_f9a86ef3322d45acfc2a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9902333?from=edn_maintab_index",
-      "title": "AI 教父下周赴國會被「拷問」川普力保黃仁勳考慮特赦 2026-11-26 03:31",
-      "description": "",
-      "publishedAt": "2026-11-25T23:15:52.387Z",
-      "discoveredAt": "2026-11-25T23:15:52.387Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5344d3fe68003c4ec6f4",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122328/9902563?from=edn_newest_index",
-      "title": "看好AI微短劇趨勢！業者推算力補助扶植台灣創作者",
-      "description": "",
-      "publishedAt": "2026-11-25T23:15:52.387Z",
-      "discoveredAt": "2026-11-25T23:15:52.387Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_ac6a7df4520b88e5c6ce",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9902283?from=edn_VIP_index_side",
-      "title": "別管 AI 股短線震盪！分析師點名3檔「黃仁勳復職受惠概念股」",
-      "description": "",
-      "publishedAt": "2026-11-25T23:15:52.387Z",
-      "discoveredAt": "2026-11-25T23:15:52.387Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3940b64dbd9f36a778ff",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5612/9902199?from=edn_newest_index",
-      "title": "順德法說會／明年營運拚雙位數增長 AI 動能強、散熱新事業持續推進",
-      "description": "",
-      "publishedAt": "2026-11-25T14:27:34.072Z",
-      "discoveredAt": "2026-11-25T14:27:34.072Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e76927acf83af1ee9a1e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9900521?from=edn_maintab_index",
-      "title": "惠普頂住記憶體成本壓力 AI PC 出貨占比衝破60% 年度獲利財測穩健 | 美股動態 | 國際 | 經濟日報",
-      "description": "惠普（HP）24日公布上季財報優於預期，對本年度的獲利預測區間高端也高於分析師預估，顯示這家PC與印表機製造商正逐步提升因應記憶體成本上漲的能力。財報公布後，惠普股價在盤後上漲2%。",
-      "publishedAt": "2026-11-25T04:07:57.523Z",
-      "discoveredAt": "2026-11-25T04:07:57.523Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_e5acb16b6e9993b78b77",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/124512/9900127?from=edn_maintab_index",
-      "title": "整理包／黃仁勳回歸換下招牌皮衣！10萬元 Dior 夾克藏玄機 萬元 T 到千萬錶 AI 教父行頭一次看 | 整理包 | 專題 | 經濟日報",
-      "description": "輝達（NVIDIA）執行長黃仁勳重返公司，罕見脫下招牌黑色皮衣，換上一件要價約10萬元的Dior夾克，再度掀起穿搭話題。事實上，黃仁勳看似低調、簡單的日常穿搭，從上衣、鞋子到配件，都不乏精品品牌的身影。《經濟日報》整理黃仁勳歷年曾穿戴的精品服飾與配件，一窺這位AI教父的時尚品味，究竟一身行頭價值多少錢？ 黃仁勳回歸不穿皮衣！10萬元Dior夾克成焦點 黃仁勳23日重返輝達美國總部，受到員工熱烈歡迎，不過，這次他並未穿上標誌性的黑色皮衣，而是換上法國精品品牌Dior（迪奧）的深藍色Moulures刺繡拉鍊外套。 時尚圈有一句話：「If you fall, fall in Dior」（即使跌倒，也要穿著Dior）。如今黃仁勳歷經風波重返輝達，恰巧穿著Dior夾克亮相，也為這次回歸增添幾分時尚巧合。(延伸閱讀：影片／輝達總部沸騰了！黃仁勳現身大廳 員工熱烈歡呼擠滿走道) 這款夾克採用翻領、雙向拉鍊設計，左胸飾有Dior刺繡標誌。值得一提的是，這件外套並非首次亮相，黃仁勳今年5月底訪台、6月造訪南韓時都曾穿過，甚至與南韓知名電競選手Faker合影時，也是穿著這件夾克。 根據Dior",
-      "publishedAt": "2026-11-25T04:07:57.523Z",
-      "discoveredAt": "2026-11-25T04:07:57.523Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3abdf2123a2f94cc85a7",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9900746?from=edn_newest_index",
-      "title": "黃仁勳重掌輝達 開放權重AI模型之爭再度成華府焦點",
-      "description": "",
-      "publishedAt": "2026-11-25T04:07:57.523Z",
-      "discoveredAt": "2026-11-25T04:07:57.523Z",
       "topics": [
         "Taiwan business",
         "investment",

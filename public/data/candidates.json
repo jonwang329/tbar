@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-26T15:21:00.716Z",
+  "updatedAt": "2026-11-26T23:55:44.344Z",
   "candidates": [
     {
       "id": "cand_1d2f0053ac133c02b8aa",
@@ -738,17 +738,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_2776f11ab184db0a8d4a",
+      "id": "cand_c7f536803122bd21b98a",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9890002?from=edn_maintab_index",
-      "title": "美股早盤／史上最大 IPO 帶旺 費半飆4% 新雲端、網安股衝 | 美股動態 | 國際 | 經濟日報",
-      "description": "Anthropic首次公開發行股票（IPO）的定價高於原先預期，締造史上最大規模IPO，讓投資人對AI交易重新燃起熱情，美股19日早盤四大指數齊揚。",
-      "publishedAt": "2026-11-19T16:49:13.770Z",
-      "discoveredAt": "2026-11-19T16:49:13.770Z",
+      "url": "https://money.udn.com/money/story/5612/9904656?from=edn_maintab_index",
+      "title": "半導體業躲過301關稅 AI 伺服器、手機、晶片等均獲豁免 備戰232條款 2026-11-27 03:43",
+      "description": "",
+      "publishedAt": "2026-11-26T23:55:29.152Z",
+      "discoveredAt": "2026-11-26T23:55:29.152Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -763,37 +763,7 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_9e3de651d8aa3409b257",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/122381/9889102?from=edn_VIP_index_side",
-      "title": "早在黃仁勳桃色醜聞前 輝達便已曝露 AI 循環投資風險",
-      "description": "",
-      "publishedAt": "2026-11-19T16:49:13.770Z",
-      "discoveredAt": "2026-11-19T16:49:13.770Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -816,7 +786,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -843,7 +813,34 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 85,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_ca3389fa190e3cdecfa3",
+      "sourceLastModified": "2026-11-26T12:38:24.709Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/endava-frontiers",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "publishedAt": "2026-11-26T12:38:24.709Z",
+      "discoveredAt": "2026-08-14T00:02:00.209Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1208,63 +1205,30 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_4135f57eeb330e91dce8",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
+      "id": "cand_7094112115d8dad48b88",
+      "sourceLastModified": "2026-11-26T22:05:50.522Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9890106?from=edn_maintab_index",
-      "title": "川普 APEC 上警告各國 嚴管 AI 將扼殺技術發展 | 國際焦點 | 國際 | 經濟日報",
-      "description": "美國總統川普昨（19）日在中國深圳舉行的亞太經濟合作會議（APEC）峰會上說，美國反對任何形式對人工智慧（AI）實施的「全球主義式監管」，嚴格管控將「扼殺」技術發展。",
-      "publishedAt": "2026-11-19T23:21:07.885Z",
-      "discoveredAt": "2026-11-19T23:21:07.885Z",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT&#x27;s most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "publishedAt": "2026-11-26T22:05:50.522Z",
+      "discoveredAt": "2026-09-10T09:55:18.421Z",
       "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
         "AI",
-        "data center"
+        "models",
+        "enterprise",
+        "infrastructure"
       ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_56201d690b85152cf1aa",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/7307/9890113?from=edn_maintab_index",
-      "title": "施振榮 APEC 行 與逾13國元首互動 喊台灣扮 AI 鏈關鍵角色 | 政經焦點 | 要聞 | 經濟日報",
-      "description": "亞太經濟合作會議（APEC）峰會昨（19）日落幕，台灣領袖代表、宏碁集團創辦人施振榮昨日表示，已圓滿完成賴清德總統交付任務，未來台灣將持續深化與APEC會員交流合作，以實力創造價值、以信任連結世界。",
-      "publishedAt": "2026-11-19T23:21:07.885Z",
-      "discoveredAt": "2026-11-19T23:21:07.885Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
+      "countries": [],
+      "freshnessScore": 95,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1289,39 +1253,12 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7094112115d8dad48b88",
-      "sourceLastModified": "2026-11-25T21:29:55.284Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT&#x27;s most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "publishedAt": "2026-11-25T21:29:55.284Z",
-      "discoveredAt": "2026-09-10T09:55:18.421Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 82,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 95,
       "leaderMatch": false
     },
     {
@@ -1380,7 +1317,7 @@
     },
     {
       "id": "cand_d485926ae9c8c4e1c379",
-      "sourceLastModified": "2026-11-25",
+      "sourceLastModified": "2026-11-26",
       "sourceId": "moda",
       "sourceName": "Taiwan MODA",
       "sourceKind": "government",
@@ -1494,47 +1431,17 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_01d448306cb1e81571eb",
+      "id": "cand_e33f0ac66acf012c15f3",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
       "sourceName": "經濟日報",
       "sourceKind": "media",
       "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9889848?from=edn_hottest_index",
-      "title": "AI 贏家是美國或中國？德銀：以上皆非 是這個看似關聯性低的國家 2026-11-19 20:40",
-      "description": "",
-      "publishedAt": "2026-11-19T23:21:07.885Z",
-      "discoveredAt": "2026-11-19T23:21:07.885Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 90,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_fa26a91a3975855475e9",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9889848?from=edn_maintab_index",
-      "title": "AI 贏家是美國或中國？德銀：以上皆非 是這個看似關聯性低的國家 | 國際焦點 | 國際 | 經濟日報",
-      "description": "在人工智慧（AI）前沿實驗室Anthropic高調上市的同一天，德意志銀行分析師考克斯發布新報告，評估哪一國會是這波AI科技革命浪潮的真正贏家。結果可能出乎眾人意料之外，因為這個國家似乎與AI技術毫不相干。",
-      "publishedAt": "2026-11-19T16:49:13.770Z",
-      "discoveredAt": "2026-11-19T16:49:13.770Z",
+      "url": "https://money.udn.com/money/story/5599/9904637?from=edn_maintab_index",
+      "title": "黃仁勳重掌 CEO 後第一個重磅政策 輝達傳停止出貨東南亞四國 | 國際焦點 | 國際 | 經濟日報",
+      "description": "英國金融時報（FT）報導，輝達已要求品牌夥伴，停止出貨AI伺服器至馬來西亞、新加坡、泰國及印尼等東南亞四國，首波點名戴爾、美超微等巨頭須配合，以因應美國擴大管制中國大陸取得AI運算資源新令，牽動緯創、仁寶、華泰、尼得科超眾、麗台等台鏈。",
+      "publishedAt": "2026-11-26T23:55:29.152Z",
+      "discoveredAt": "2026-11-26T23:55:29.152Z",
       "topics": [
         "Taiwan business",
         "investment",
@@ -1549,7 +1456,67 @@
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
-      "importanceScore": 82,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_585b047a9254797593a3",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9904617?from=edn_maintab_index",
+      "title": "馬斯克太空 AI 鳴槍 SpaceX 部署百萬顆衛星組建 Starmind 算力星座 鴻海跟著起飛 2026-11-27 03:18",
+      "description": "",
+      "publishedAt": "2026-11-26T23:55:29.152Z",
+      "discoveredAt": "2026-11-26T23:55:29.152Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_cb5aeb59d70af1edfd80",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5629/9904598?from=edn_course_index",
+      "title": "劉大年 / 中經院區域發展研究中心主任 從晶片到算力 美出口管制再升級",
+      "description": "",
+      "publishedAt": "2026-11-26T23:55:29.152Z",
+      "discoveredAt": "2026-11-26T23:55:29.152Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1635,7 +1602,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 82,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1662,7 +1629,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1689,7 +1656,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1716,7 +1683,34 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_f6f42eacf7f713b087f0",
+      "sourceLastModified": "2026-11-26T12:38:26.939Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/endava",
+      "title": "How Endava builds an agentic organization with Codex",
+      "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "publishedAt": "2026-11-26T12:38:26.939Z",
+      "discoveredAt": "2026-09-15T19:04:03.461Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,

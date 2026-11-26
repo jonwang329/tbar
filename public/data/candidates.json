@@ -1,7 +1,37 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-25T23:16:06.161Z",
+  "updatedAt": "2026-11-26T05:10:35.340Z",
   "candidates": [
+    {
+      "id": "cand_1d2f0053ac133c02b8aa",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/123398/9903363?from=edn_maintab_index",
+      "title": "記憶體晶片瘋搶？馬斯克也吃癟 短缺預計燒到2028年 | 美股動態 | 國際 | 經濟日報",
+      "description": "華爾街日報報導，AI資料中心爆發式成長，造成各種電子產品都要用的記憶體晶片短缺，全球企業爭相搶貨，馬斯克（Elon Musk）出馬也未必順利。雖然三星、SK海力士、美光三大廠都在擴產，但這波供不應求預計要到2028年新廠上線為止。",
+      "publishedAt": "2026-11-26T05:10:04.137Z",
+      "discoveredAt": "2026-11-26T05:10:04.137Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 85,
+      "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": true
+    },
     {
       "id": "cand_afb122125406c242f6fd",
       "sourceLastModified": null,
@@ -78,7 +108,7 @@
         "Chinese summaries"
       ],
       "countries": [],
-      "freshnessScore": 82,
+      "freshnessScore": 70,
       "sourceQualityScore": 88,
       "taiwanScore": 35,
       "businessScore": 85,
@@ -1184,36 +1214,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_978d01735d833e3f0261",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9887624?from=edn_maintab_index",
-      "title": "輝達財報亮眼 代理 CEO 柯蕾絲喊「 Vera Rubin 晶片起步氣勢驚人」 | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達17日美股盤後釋出優於華爾街預期的上季財報及強勁展望，並調高下一財年營收成長率，顯示AI晶片需求依然強勁，代理執行長暨財務長柯蕾絲高喊：新一代Vera Rubin晶片起步「氣勢驚人」，「我們的藍圖按計畫推進，企圖心前所未有。」",
-      "publishedAt": "2026-11-19T00:15:11.364Z",
-      "discoveredAt": "2026-11-19T00:15:11.364Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_30713029d69dcf98cc2b",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1235,7 +1235,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 100,
+      "freshnessScore": 90,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 60,
@@ -1262,7 +1262,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 95,
+      "freshnessScore": 82,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1316,9 +1316,37 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_d485926ae9c8c4e1c379",
+      "sourceLastModified": "2026-11-25",
+      "sourceId": "moda",
+      "sourceName": "Taiwan MODA",
+      "sourceKind": "government",
+      "sourcePriority": "P1",
+      "url": "https://moda.gov.tw/en/press/background-information/12616",
+      "title": "Meeting with international AI companies on information integrity alignment assembly｜Background Information - News and Releases｜Ministry of Digital Affairs",
+      "description": "Meeting with international AI companies on information integrity alignment assembly",
+      "publishedAt": "2026-11-25",
+      "discoveredAt": "2026-08-13T12:35:46.831Z",
+      "topics": [
+        "AI policy",
+        "GPU",
+        "digital infrastructure"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
       "confidenceScore": 95,
@@ -1468,6 +1496,66 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_39f17481868cd9a21410",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9903301",
+      "title": "台股強彈逾千點！散熱族群同步升溫 健策處置中仍漲停、奇鋐也亮燈 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI晶片功耗與封裝尺寸持續攀升，散熱規格升級帶動供應鏈強勢表態！台股26日盤中一度強彈逾1,200點，逼近4萬點關卡，健策（3653）、奇鋐（3017）雙雙攻上漲停，台達電（2308）、尼得科超眾（6230）盤中一度漲逾5%，雙鴻（3324）、建準（2421）、元山（6275）、力致（3483）等同步走揚。",
+      "publishedAt": "2026-11-26T05:10:04.137Z",
+      "discoveredAt": "2026-11-26T05:10:04.137Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_e1b864cd5e9864421752",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5607/9903301?from=edn_maintab_index",
+      "title": "台股強彈逾千點！散熱族群同步升溫 健策處置中仍漲停、奇鋐也亮燈 | 市場焦點 | 證券 | 經濟日報",
+      "description": "AI晶片功耗與封裝尺寸持續攀升，散熱規格升級帶動供應鏈強勢表態！台股26日盤中一度強彈逾1,200點，逼近4萬點關卡，健策（3653）、奇鋐（3017）雙雙攻上漲停，台達電（2308）、尼得科超眾（6230）盤中一度漲逾5%，雙鴻（3324）、建準（2421）、元山（6275）、力致（3483）等同步走揚。",
+      "publishedAt": "2026-11-26T05:10:04.137Z",
+      "discoveredAt": "2026-11-26T05:10:04.137Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 78,
       "leaderMatch": false
     },
@@ -1679,90 +1767,6 @@
       "businessScore": 60,
       "importanceScore": 65,
       "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_bffcffe8426285ff91dc",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9900735?from=edn_newest_index",
-      "title": "黃仁勳回歸也救不了？CoreWeave公司債跌破新低 AI債市隱憂環伺",
-      "description": "",
-      "publishedAt": "2026-11-25T04:07:57.523Z",
-      "discoveredAt": "2026-11-25T04:07:57.523Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_0a40263b8be1212f7fe2",
-      "sourceLastModified": "2026-11-25T01:34:53.035Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "publishedAt": "2026-11-25T01:34:53.035Z",
-      "discoveredAt": "2026-11-05T00:40:11.806Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7dd4926eb8fa4d87c71f",
-      "sourceLastModified": "2026-11-25T01:34:32.234Z",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI News",
-      "sourceKind": "primary",
-      "sourcePriority": "P1",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "title": "How AI is expanding what people do at work",
-      "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "publishedAt": "2026-11-25T01:34:32.234Z",
-      "discoveredAt": "2026-09-16T21:30:02.391Z",
-      "topics": [
-        "AI",
-        "models",
-        "enterprise",
-        "infrastructure"
-      ],
-      "countries": [],
-      "freshnessScore": 70,
-      "sourceQualityScore": 96,
-      "taiwanScore": 35,
-      "businessScore": 60,
-      "importanceScore": 65,
-      "confidenceScore": 95,
       "leaderMatch": false
     }
   ]

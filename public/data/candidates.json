@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-28T08:28:52.731Z",
+  "updatedAt": "2026-11-28T17:09:29.204Z",
   "candidates": [
     {
       "id": "cand_398ff0f5a65ca2a64476",
@@ -759,126 +759,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_766e4f7314c4636e6f85",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/5599/9893789?from=edn_maintab_index",
-      "title": "嗅到煙硝味了！米勒： AI 供應鏈是美中晶片戰爭下一個戰場 2026-11-21 22:32",
-      "description": "過去十天來，人工智慧（AI）領域重大事件密集發生，令人目不暇接。晶片製造商輝達（Nvidia）執行長黃仁勳因外遇醜聞涉及疑似中國大陸間諜而辭職；Anthropic股票公開上市，躍為市值逾1兆美元的AI巨人；川普政府大規模限制中國大陸存取海外資料中心，引爆大陸AI股賣壓；深圳三方峰會閉幕，並未延長去年10月在釜山敲定、明年1月到期的美中貿易休戰協議。",
-      "publishedAt": "2026-11-21T17:03:02.323Z",
-      "discoveredAt": "2026-11-21T17:03:02.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 70,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_7eb1afb03a06b04ee35e",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9893480?from=edn_hottest_index",
-      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮",
-      "description": "輝達（Nvidia）股價目前一項隱憂，是這家人工智慧（AI）晶片龍頭的人才，是否可能追隨前執行長黃仁勳，轉投他下一個落腳處。華爾街一名投資組合經理推測，黃仁勳可能轉戰競爭對手英特爾（Intel）。",
-      "publishedAt": "2026-11-21T17:03:02.323Z",
-      "discoveredAt": "2026-11-21T17:03:02.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_5886d7c7feac829ff77d",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9893480",
-      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮 | 美股動態 | 國際 | 經濟日報",
-      "description": "輝達（Nvidia）股價目前一項隱憂，是這家人工智慧（AI）晶片龍頭的人才，是否可能追隨前執行長黃仁勳，轉投他下一個落腳處。華爾街一名投資組合經理推測，黃仁勳可能轉戰競爭對手英特爾（Intel）。",
-      "publishedAt": "2026-11-21T09:52:53.734Z",
-      "discoveredAt": "2026-11-21T09:52:53.734Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3f88981ac09ebc2a635a",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9893480?from=edn_maintab_index",
-      "title": "黃仁勳下一站是英特爾？少了他的輝達恐掀人才出走潮 2026-11-21 17:27",
-      "description": "輝達（Nvidia）股價目前一項隱憂，是這家人工智慧（AI）晶片龍頭的人才，是否可能追隨前執行長黃仁勳，轉投他下一個落腳處。華爾街一名投資組合經理推測，黃仁勳可能轉戰競爭對手英特爾（Intel）。",
-      "publishedAt": "2026-11-21T09:52:53.734Z",
-      "discoveredAt": "2026-11-21T09:52:53.734Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 82,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 82,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_0858721a57ece1d011d0",
       "sourceLastModified": null,
       "sourceId": "udn-economic",
@@ -1016,7 +896,7 @@
       "countries": [
         "Taiwan"
       ],
-      "freshnessScore": 50,
+      "freshnessScore": 30,
       "sourceQualityScore": 88,
       "taiwanScore": 90,
       "businessScore": 85,
@@ -1345,66 +1225,6 @@
       "leaderMatch": false
     },
     {
-      "id": "cand_a28344d97453cc1d1a09",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9893524?from=edn_maintab_index",
-      "title": "AI 泡沫爆了嗎？恐慌氣氛瀰漫 費城半導體指數本周殺盤25年來最慘 | 美股動態 | 國際 | 經濟日報",
-      "description": "晶片股賣壓愈演愈烈，導致美國費城半導體指數市值本周蒸發2.3兆美元，是25年來最慘的一周。",
-      "publishedAt": "2026-11-21T17:03:02.323Z",
-      "discoveredAt": "2026-11-21T17:03:02.323Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
-      "id": "cand_3f4d2f3f37dbc6c06ae2",
-      "sourceLastModified": null,
-      "sourceId": "udn-economic",
-      "sourceName": "經濟日報",
-      "sourceKind": "media",
-      "sourcePriority": "P1",
-      "url": "https://money.udn.com/money/story/123398/9893103?from=edn_maintab_index",
-      "title": "本周美台韓日災情一覽 台積電 ADR 跌到溢價剩5% | 美股動態 | 國際 | 經濟日報",
-      "description": "AI股賣壓席捲全球，台股本周重挫17.5%，跌幅居全球主要股市之冠，甚至超過美國費城半導體指數的17.1%，成為這波AI股拋售潮的重災區。",
-      "publishedAt": "2026-11-21T09:52:53.734Z",
-      "discoveredAt": "2026-11-21T09:52:53.734Z",
-      "topics": [
-        "Taiwan business",
-        "investment",
-        "semiconductor",
-        "AI",
-        "data center"
-      ],
-      "countries": [
-        "Taiwan"
-      ],
-      "freshnessScore": 100,
-      "sourceQualityScore": 88,
-      "taiwanScore": 90,
-      "businessScore": 85,
-      "importanceScore": 65,
-      "confidenceScore": 78,
-      "leaderMatch": false
-    },
-    {
       "id": "cand_671b4d287ffab7489af7",
       "sourceLastModified": "2026-11-27T09:27:22.888Z",
       "sourceId": "openai-news",
@@ -1423,7 +1243,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1450,7 +1270,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1477,7 +1297,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1504,7 +1324,7 @@
         "infrastructure"
       ],
       "countries": [],
-      "freshnessScore": 70,
+      "freshnessScore": 50,
       "sourceQualityScore": 96,
       "taiwanScore": 35,
       "businessScore": 60,
@@ -1729,6 +1549,180 @@
       "taiwanScore": 90,
       "businessScore": 60,
       "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_4633807f8d54d14bbe54",
+      "sourceLastModified": null,
+      "sourceId": "nvidia-news",
+      "sourceName": "NVIDIA Newsroom",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "description": "NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board.",
+      "publishedAt": "Mon, 23 Nov 2026 13:55:00 GMT",
+      "discoveredAt": "2026-11-24T01:07:44.537Z",
+      "topics": [
+        "GPU",
+        "AI infrastructure",
+        "networking",
+        "data center"
+      ],
+      "countries": [],
+      "freshnessScore": 10,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 82,
+      "confidenceScore": 95,
+      "leaderMatch": true
+    },
+    {
+      "id": "cand_bfbee95669a3b02f41cf",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/5612/9906791?from=edn_hottest_index",
+      "title": "美畫新紅線 算力不准租給陸企！輝達晶片管制升級衝擊台鏈",
+      "description": "",
+      "publishedAt": "2026-11-28T17:09:17.435Z",
+      "discoveredAt": "2026-11-28T17:09:17.435Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c6efbb86fa3cfc5b24a0",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122979/9843392?from=edn_VIP_index_side",
+      "title": "AI搶飯碗 2／AI讓廣告公司飯碗不保？日本企業自己做廣告 外包費用最高省75%",
+      "description": "",
+      "publishedAt": "2026-11-28T17:09:17.435Z",
+      "discoveredAt": "2026-11-28T17:09:17.435Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_2cc4f0203ae7255ac422",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122979/9843384?from=edn_VIP_index_side",
+      "title": "AI搶飯碗 1／AI顛覆日本廣告業！樂天帶頭收回廣告業務 86%企業已著手內製化",
+      "description": "",
+      "publishedAt": "2026-11-28T17:09:17.435Z",
+      "discoveredAt": "2026-11-28T17:09:17.435Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_0a1efa2eb42560bf5f8d",
+      "sourceLastModified": null,
+      "sourceId": "udn-economic",
+      "sourceName": "經濟日報",
+      "sourceKind": "media",
+      "sourcePriority": "P1",
+      "url": "https://money.udn.com/money/story/122381/9908362?from=edn_VIP_index_side",
+      "title": "育才變奏1／AI 進校園是助力還是毒藥？學生依賴上癮害成績慘跌",
+      "description": "",
+      "publishedAt": "2026-11-28T17:09:17.435Z",
+      "discoveredAt": "2026-11-28T17:09:17.435Z",
+      "topics": [
+        "Taiwan business",
+        "investment",
+        "semiconductor",
+        "AI",
+        "data center"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "freshnessScore": 100,
+      "sourceQualityScore": 88,
+      "taiwanScore": 90,
+      "businessScore": 60,
+      "importanceScore": 65,
+      "confidenceScore": 78,
+      "leaderMatch": false
+    },
+    {
+      "id": "cand_c9d2aa3e41603e987465",
+      "sourceLastModified": "2026-11-27T10:57:21.684Z",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI News",
+      "sourceKind": "primary",
+      "sourcePriority": "P1",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "title": "One in a million: celebrating the customers shaping AI’s future",
+      "description": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
+      "publishedAt": "2026-11-27T10:57:21.684Z",
+      "discoveredAt": "2026-10-19T23:44:09.770Z",
+      "topics": [
+        "AI",
+        "models",
+        "enterprise",
+        "infrastructure"
+      ],
+      "countries": [],
+      "freshnessScore": 50,
+      "sourceQualityScore": 96,
+      "taiwanScore": 35,
+      "businessScore": 60,
+      "importanceScore": 65,
       "confidenceScore": 95,
       "leaderMatch": false
     }
